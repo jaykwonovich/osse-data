@@ -1,6 +1,6 @@
 {
   "range": "1-1000",
-  "updated_at": 1765650009664,
+  "updated_at": 1765651619692,
   "shows": [
     {
       "id": 11,
@@ -62,6 +62,37 @@
       "imdb_id": null,
       "tmdb_id": 12,
       "relevance_score": 13.3043
+    },
+    {
+      "id": 13,
+      "title": "Forrest Gump",
+      "type": "movie",
+      "year": 1994,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+      "plot_overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "user_rating": 8.462,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1994-06-23",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 13,
+      "relevance_score": 19.4199
     },
     {
       "id": 22,
