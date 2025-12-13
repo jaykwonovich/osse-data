@@ -1,7 +1,37 @@
 {
   "range": "1376001-1377000",
-  "updated_at": 1765648107514,
+  "updated_at": 1765650009747,
   "shows": [
+    {
+      "id": 1376412,
+      "title": "La guerre des prix",
+      "type": "movie",
+      "year": 2026,
+      "end_year": null,
+      "poster_url": null,
+      "backdrop_url": null,
+      "plot_overview": "",
+      "genres": [
+        "drama",
+        "thriller"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-03-18",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Coming Soon",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 1376412,
+      "relevance_score": 1.8038
+    },
     {
       "id": 1376434,
       "title": "Predator: Killer of Killers",
@@ -33,6 +63,37 @@
       "imdb_id": null,
       "tmdb_id": 1376434,
       "relevance_score": 19.111
+    },
+    {
+      "id": 1376856,
+      "title": "The Paradise",
+      "type": "movie",
+      "year": 2026,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+      "plot_overview": "A marginalized tribe stripped of their rights find hope in an unlikely leader, who guides their fight for citizenship and recognition in a system designed to keep them oppressed.",
+      "genres": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-03-26",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Coming Soon",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 1376856,
+      "relevance_score": 1.5907
     }
   ]
 }
