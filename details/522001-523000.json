@@ -1,7 +1,38 @@
 {
   "range": "522001-523000",
-  "updated_at": 1765644325621,
+  "updated_at": 1765702770814,
   "shows": [
+    {
+      "id": 522016,
+      "title": "The 355",
+      "type": "movie",
+      "year": 2022,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xef9Ht77B2igqZv754HNdW8qZCk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oSNqhngemquRBzxKSC3ysAmnC5e.jpg",
+      "plot_overview": "A group of top female agents from American, British, Chinese, Colombian, and German government agencies are drawn together to try and stop an organization from acquiring a deadly weapon to send the world into chaos.",
+      "genres": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "user_rating": 6.043,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-01-05",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 522016,
+      "relevance_score": 7.9914
+    },
     {
       "id": 522402,
       "title": "Finch",
@@ -32,6 +63,36 @@
       "imdb_id": null,
       "tmdb_id": 522402,
       "relevance_score": 5.6087
+    },
+    {
+      "id": 522924,
+      "title": "The Art of Racing in the Rain",
+      "type": "movie",
+      "year": 2019,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/96sS0woEzf0zFSWjHVblOhsBfGd.jpg",
+      "plot_overview": "A family dog \u2013 with a near-human soul and a philosopher's mind \u2013 evaluates his life through the lessons learned by his human owner, a race-car driver.",
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "user_rating": 8.183,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-08-08",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 522924,
+      "relevance_score": 8.4485
     }
   ]
 }

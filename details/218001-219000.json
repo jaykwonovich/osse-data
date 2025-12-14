@@ -1,7 +1,38 @@
 {
   "range": "218001-219000",
-  "updated_at": 1765651619721,
+  "updated_at": 1765702720376,
   "shows": [
+    {
+      "id": 218539,
+      "title": "My Demon",
+      "type": "tv_series",
+      "year": 2023,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eSB0fD6CbNW3LT8Z55V07fmYFpo.jpg",
+      "plot_overview": "A pitiless demon becomes powerless after getting entangled with an icy heiress, who may hold the key to his lost abilities \u2014 and his heart.",
+      "genres": [
+        "drama",
+        "comedy",
+        "sci-fi"
+      ],
+      "user_rating": 8.444,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-11-24",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 218539,
+      "relevance_score": 17.7541
+    },
     {
       "id": 218557,
       "title": "Portobello",
@@ -31,6 +62,37 @@
       "imdb_id": null,
       "tmdb_id": 218557,
       "relevance_score": 0.6952
+    },
+    {
+      "id": 218843,
+      "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+      "type": "tv_series",
+      "year": 2023,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6SWVJvCIC9B16u6wASZ8FEaNssz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dd1tEbUU9NLLo3drq39NknpHQ6v.jpg",
+      "plot_overview": "As a prophecy of doom unfolds on the peaceful land of Britannia, a purehearted boy sets out on a journey of discovery \u2014 and revenge.",
+      "genres": [
+        "animation",
+        "action",
+        "sci-fi"
+      ],
+      "user_rating": 8.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-10-08",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 218843,
+      "relevance_score": 12.5499
     }
   ]
 }

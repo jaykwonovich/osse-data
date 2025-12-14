@@ -1,7 +1,38 @@
 {
   "range": "81001-82000",
-  "updated_at": 1765644325604,
+  "updated_at": 1765702770783,
   "shows": [
+    {
+      "id": 81046,
+      "title": "The Dragon Prince",
+      "type": "tv_series",
+      "year": 2018,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/d7PIRa6ez7ZEl9D4JUrnSsmcnVD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sD3OAmfxHRXWmZFROjRRL3HcPXj.jpg",
+      "plot_overview": "An extraordinary discovery inspires two human princes and an elven assassin to team up on an epic quest to bring peace to their warring lands.",
+      "genres": [
+        "animation",
+        "action",
+        "sci-fi"
+      ],
+      "user_rating": 8.218,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-09-14",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 81046,
+      "relevance_score": 8.1842
+    },
     {
       "id": 81188,
       "title": "Rise of the Guardians",
@@ -34,6 +65,67 @@
       "imdb_id": null,
       "tmdb_id": 81188,
       "relevance_score": 12.1414
+    },
+    {
+      "id": 81356,
+      "title": "Sex Education",
+      "type": "tv_series",
+      "year": 2019,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bc3bmTdnoKcRuO9xdQKgAbB7Y9Z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/u23G9KZregWHs1use6ir1fX27gl.jpg",
+      "plot_overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "user_rating": 8.217,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-01-11",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 81356,
+      "relevance_score": 16.7817
+    },
+    {
+      "id": 81357,
+      "title": "Dead to Me",
+      "type": "tv_series",
+      "year": 2019,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mAj18PHeACxqcrEus4pD8pksRmB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/j4TXQ7OJsLx1Ba6z8XA7is0DcRZ.jpg",
+      "plot_overview": "A hotheaded widow searching for the hit-and-run driver who mowed down her husband befriends an eccentric optimist who isn't quite what she seems.",
+      "genres": [
+        "drama",
+        "comedy",
+        "crime"
+      ],
+      "user_rating": 7.298,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-05-03",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 81357,
+      "relevance_score": 9.541
     }
   ]
 }

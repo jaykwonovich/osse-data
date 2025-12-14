@@ -1,7 +1,69 @@
 {
   "range": "75001-76000",
-  "updated_at": 1765644325603,
+  "updated_at": 1765702770746,
   "shows": [
+    {
+      "id": 75006,
+      "title": "The Umbrella Academy",
+      "type": "tv_series",
+      "year": 2019,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
+      "plot_overview": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+      "genres": [
+        "action",
+        "sci-fi",
+        "drama"
+      ],
+      "user_rating": 8.501,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-02-15",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 75006,
+      "relevance_score": 16.2215
+    },
+    {
+      "id": 75214,
+      "title": "Violet Evergarden",
+      "type": "tv_series",
+      "year": 2018,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/61EwFPqc0r1uJo6la49J55F8bQ8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2e2AEk7Jmn8CztM62hoUyEEWw0B.jpg",
+      "plot_overview": "The war is over, and Violet Evergarden needs a job. Scarred and emotionless, she takes a job as a letter writer to understand herself and her past.",
+      "genres": [
+        "animation",
+        "drama",
+        "sci-fi"
+      ],
+      "user_rating": 8.469,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-01-11",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 75214,
+      "relevance_score": 8.9466
+    },
     {
       "id": 75219,
       "title": "9-1-1",
@@ -63,6 +125,37 @@
       "imdb_id": null,
       "tmdb_id": 75450,
       "relevance_score": 17.768
+    },
+    {
+      "id": 75758,
+      "title": "Lost in Space",
+      "type": "tv_series",
+      "year": 2018,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y8NJnTXzb4rio9uvVYFVrXEMofU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tJAGIHi7tzyVwOhfuoLkJPubj3b.jpg",
+      "plot_overview": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers.",
+      "genres": [
+        "sci-fi",
+        "action",
+        "drama"
+      ],
+      "user_rating": 7.519,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-04-13",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 75758,
+      "relevance_score": 9.0831
     }
   ]
 }

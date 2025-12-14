@@ -1,7 +1,36 @@
 {
   "range": "102001-103000",
-  "updated_at": 1765644325606,
+  "updated_at": 1765702770821,
   "shows": [
+    {
+      "id": 102085,
+      "title": "Too Hot to Handle",
+      "type": "tv_series",
+      "year": 2020,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jr21CagMMfglh7YVgcyov3Cj833.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wV6YSaRbA1RNI7ge71yZn3CJGzN.jpg",
+      "plot_overview": "On the shores of paradise, gorgeous singles meet and mingle. But there\u2019s a twist. To win a $100,000 grand prize, they\u2019ll have to give up sex.",
+      "genres": [
+        "reality"
+      ],
+      "user_rating": 6.615,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-04-17",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 102085,
+      "relevance_score": 12.5777
+    },
     {
       "id": 102321,
       "title": "Looney Tunes Cartoons",
@@ -93,6 +122,37 @@
       "imdb_id": null,
       "tmdb_id": 102540,
       "relevance_score": 5.1654
+    },
+    {
+      "id": 102899,
+      "title": "Ant-Man",
+      "type": "movie",
+      "year": 2015,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+      "plot_overview": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+      "genres": [
+        "sci-fi",
+        "action",
+        "adventure"
+      ],
+      "user_rating": 7.067,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-07-14",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 102899,
+      "relevance_score": 8.029
     }
   ]
 }

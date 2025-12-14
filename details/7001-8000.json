@@ -1,7 +1,38 @@
 {
   "range": "7001-8000",
-  "updated_at": 1765651619697,
+  "updated_at": 1765702770756,
   "shows": [
+    {
+      "id": 7211,
+      "title": "Dan in Real Life",
+      "type": "movie",
+      "year": 2007,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wJkkkG4ditqNzlua0oJzoaICGiz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uAa5bEEQvLxAqbKcOk9rGPLkZrJ.jpg",
+      "plot_overview": "Advice columnist Dan Burns is an expert on relationships, but somehow struggles to succeed as a brother, a son and a single parent to three precocious daughters. Things get even more complicated when Dan finds out that the woman he falls in love with is actually his brother's new girlfriend.",
+      "genres": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "user_rating": 6.571,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-10-26",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 7211,
+      "relevance_score": 6.7222
+    },
     {
       "id": 7225,
       "title": "Merlin",
@@ -32,6 +63,68 @@
       "imdb_id": null,
       "tmdb_id": 7225,
       "relevance_score": 17.9964
+    },
+    {
+      "id": 7443,
+      "title": "Chicken Run",
+      "type": "movie",
+      "year": 2000,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oYbVT9e0k2ZSrRhDSCw2Yqshe1n.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sivJXJ8JvVVSRaaBnHgzOboNBRQ.jpg",
+      "plot_overview": "The creators of Wallace & Gromit bring you an exciting and original story about a group of chickens determined to fly the coop\u2013even if they can\u2019t fly! It\u2019s hardly poultry in motion when Rocky attempts to teach Ginger and her feathered friends to fly\u2026but, with teamwork, determination and a little bit o\u2019 cluck, the fearless flock plots one last attempt in a spectacular bid for freedom.",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "user_rating": 6.835,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2000-06-23",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 7443,
+      "relevance_score": 5.7588
+    },
+    {
+      "id": 7512,
+      "title": "Idiocracy",
+      "type": "movie",
+      "year": 2006,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6cTHBq49ApwsJaRr3ojlY1cmiXk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9Z4msMhKvNp63sOB1ZvxPMPvqz3.jpg",
+      "plot_overview": "To test its top-secret Human Hibernation Project, the Pentagon picks the most average Americans it can find - an Army private and a prostitute - and sends them to the year 2505 after a series of freak events. But when they arrive, they find a civilization so dumbed-down that they're the smartest people around.",
+      "genres": [
+        "comedy",
+        "sci-fi",
+        "adventure"
+      ],
+      "user_rating": 6.364,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2006-09-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 7512,
+      "relevance_score": 7.089
     }
   ]
 }

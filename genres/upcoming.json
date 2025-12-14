@@ -1,30 +1,15 @@
 {
   "genre": "upcoming",
-  "updated_at": 1765700428037,
+  "updated_at": 1765702861327,
   "processing_stats": {
     "total": 500,
     "rules": 0,
-    "gemini": 14,
-    "cache": 0,
+    "gemini": 0,
+    "cache": 4,
     "kept": 500,
     "filtered": 0
   },
   "shows": [
-    {
-      "id": 1395140,
-      "title": "Lupin the IIIRD: The Movie - The Immortal Bloodline",
-      "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oqipJVMlnXeDakXtINMeIAl341q.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 9.5,
-      "release_date": "2026-01-04",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 108.5
-    },
     {
       "id": 1480382,
       "title": "The Voice of Hind Rajab",
@@ -38,7 +23,30 @@
       "release_date": "2025-12-17",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 104.58
+      "relevance_score": 104.58,
+      "production_companies": [
+        "Mime Films",
+        "Tanit Films",
+        "Film4 Productions",
+        "MBC Studios",
+        "Amed Khan Foundation",
+        "Stiching Giustra International Foundation",
+        "Watermelon Pictures",
+        "Utopia Studios",
+        "PFF",
+        "World Within",
+        "MeMo Films",
+        "Sunnyland Film",
+        "RaeFilm Studios",
+        "JW Films",
+        "Willa",
+        "Plan B Entertainment",
+        "Valentine",
+        "The Rambourg Foundation",
+        "Common Pictures",
+        "1888 Films"
+      ],
+      "networks": []
     },
     {
       "id": 308191,
@@ -53,7 +61,13 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 104.0
+      "relevance_score": 104.0,
+      "production_companies": [
+        "Pernel Media"
+      ],
+      "networks": [
+        "France 5"
+      ]
     },
     {
       "id": 639988,
@@ -68,7 +82,13 @@
       "release_date": "2025-12-25",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 103.1
+      "relevance_score": 103.1,
+      "production_companies": [
+        "CJ ENM Studios",
+        "Moho Film",
+        "KG Productions"
+      ],
+      "networks": []
     },
     {
       "id": 1262815,
@@ -83,7 +103,15 @@
       "release_date": "2025-12-25",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 99.5
+      "relevance_score": 99.5,
+      "production_companies": [
+        "Sony Pictures Classics",
+        "BBC Film",
+        "Screen Yorkshire",
+        "Head Gear Films",
+        "Metrol Technology"
+      ],
+      "networks": []
     },
     {
       "id": 1159206,
@@ -98,7 +126,22 @@
       "release_date": "2025-12-24",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 97.95
+      "relevance_score": 97.95,
+      "production_companies": [
+        "Badjetlag",
+        "Hail Mary Pictures",
+        "Saint Laurent Productions",
+        "MUBI",
+        "The Apartment Pictures",
+        "Les Films du Losange",
+        "Weltkino",
+        "Cinema Inutile",
+        "F\u00eds \u00c9ireann/Screen Ireland",
+        "Vague Notion",
+        "CG Cin\u00e9ma",
+        "Saint Laurent"
+      ],
+      "networks": []
     },
     {
       "id": 1549234,
@@ -113,7 +156,11 @@
       "release_date": "2025-12-14",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 96.38
+      "relevance_score": 96.38,
+      "production_companies": [
+        "Hybrid"
+      ],
+      "networks": []
     },
     {
       "id": 83533,
@@ -126,9 +173,15 @@
       "service_name": "Netflix",
       "user_rating": 5.4,
       "release_date": "2025-12-19",
-      "prediction_source": "gemini",
-      "prediction_confidence": 0.7,
-      "relevance_score": 96.07
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 96.07,
+      "production_companies": [
+        "20th Century Studios",
+        "Lightstorm Entertainment",
+        "TSG Entertainment"
+      ],
+      "networks": []
     },
     {
       "id": 1167307,
@@ -143,7 +196,14 @@
       "release_date": "2025-12-14",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Sunrise Productions",
+        "Slingshot USA",
+        "Angel Studios",
+        "2521 Entertainment"
+      ],
+      "networks": []
     },
     {
       "id": 1563667,
@@ -158,7 +218,15 @@
       "release_date": "2025-12-14",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Live Nation Productions",
+        "Next of Kin Content",
+        "Roc Nation",
+        "5020 RECORDS",
+        "Vertigo Live"
+      ],
+      "networks": []
     },
     {
       "id": 1016069,
@@ -173,7 +241,12 @@
       "release_date": "2025-12-14",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Qvisten Animation",
+        "Studio 100 Film"
+      ],
+      "networks": []
     },
     {
       "id": 307812,
@@ -188,7 +261,11 @@
       "release_date": "2025-12-14",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "iQiyi"
+      ]
     },
     {
       "id": 294968,
@@ -203,7 +280,14 @@
       "release_date": "2025-12-14",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Buend\u00eda Estudios",
+        "Boomerang TV"
+      ],
+      "networks": [
+        "Atresplayer"
+      ]
     },
     {
       "id": 285919,
@@ -218,22 +302,14 @@
       "release_date": "2025-12-14",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 307682,
-      "title": "Fuyu no Nankasa, Haru no Nankane",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": null,
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2025-12-14",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "South Shore Productions",
+        "Mitre Studios"
+      ],
+      "networks": [
+        "ITV1"
+      ]
     },
     {
       "id": 307847,
@@ -248,7 +324,13 @@
       "release_date": "2025-12-14",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Multimedia Film Productions Sdn Bhd"
+      ],
+      "networks": [
+        "Astro AEC"
+      ]
     },
     {
       "id": 307810,
@@ -263,7 +345,11 @@
       "release_date": "2025-12-14",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "iQiyi"
+      ]
     },
     {
       "id": 308049,
@@ -278,7 +364,13 @@
       "release_date": "2025-12-14",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Zesp\u00f3\u0142 Filmowy Raban"
+      ],
+      "networks": [
+        "Canal+"
+      ]
     },
     {
       "id": 303667,
@@ -293,7 +385,11 @@
       "release_date": "2025-12-15",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "RTL 5"
+      ]
     },
     {
       "id": 277052,
@@ -308,7 +404,14 @@
       "release_date": "2025-12-15",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Tencent Video"
+      ],
+      "networks": [
+        "CCTV-8",
+        "Tencent Video"
+      ]
     },
     {
       "id": 306114,
@@ -321,9 +424,16 @@
       "service_name": "Max",
       "user_rating": 0.0,
       "release_date": "2025-12-15",
-      "prediction_source": "gemini",
-      "prediction_confidence": 0.6,
-      "relevance_score": 79.03
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Tanweer Productions",
+        "Cosmote TV"
+      ],
+      "networks": [
+        "Cosmote TV"
+      ]
     },
     {
       "id": 307891,
@@ -338,7 +448,11 @@
       "release_date": "2025-12-15",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "GMMTV"
+      ],
+      "networks": []
     },
     {
       "id": 302766,
@@ -353,7 +467,11 @@
       "release_date": "2025-12-15",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "Tencent Video"
+      ]
     },
     {
       "id": 308046,
@@ -368,7 +486,13 @@
       "release_date": "2025-12-15",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "ViuTV"
+      ],
+      "networks": [
+        "ViuTV"
+      ]
     },
     {
       "id": 307975,
@@ -383,7 +507,9 @@
       "release_date": "2025-12-15",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": []
     },
     {
       "id": 308071,
@@ -398,7 +524,11 @@
       "release_date": "2025-12-15",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "iQiyi"
+      ]
     },
     {
       "id": 308207,
@@ -413,7 +543,15 @@
       "release_date": "2025-12-15",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "SBT News",
+        "SBT",
+        "SBT Bras\u00edlia"
+      ],
+      "networks": [
+        "SBT News"
+      ]
     },
     {
       "id": 308206,
@@ -428,7 +566,15 @@
       "release_date": "2025-12-15",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "SBT News",
+        "SBT",
+        "SBT Bras\u00edlia"
+      ],
+      "networks": [
+        "SBT News"
+      ]
     },
     {
       "id": 308141,
@@ -443,7 +589,11 @@
       "release_date": "2025-12-15",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "iQiyi"
+      ]
     },
     {
       "id": 1469902,
@@ -458,7 +608,13 @@
       "release_date": "2025-12-16",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Moo Studios",
+        "Principal Film Finance",
+        "Spilled Beans"
+      ],
+      "networks": []
     },
     {
       "id": 297830,
@@ -473,7 +629,18 @@
       "release_date": "2025-12-16",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Story House Pictures",
+        "The Dreaming Sheep Company",
+        "ARD Degeto",
+        "WDR",
+        "SWR",
+        "ORF"
+      ],
+      "networks": [
+        "Das Erste"
+      ]
     },
     {
       "id": 303797,
@@ -488,7 +655,13 @@
       "release_date": "2025-12-16",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "iQIYI"
+      ],
+      "networks": [
+        "iQiyi"
+      ]
     },
     {
       "id": 307929,
@@ -503,7 +676,11 @@
       "release_date": "2025-12-16",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "iQiyi"
+      ]
     },
     {
       "id": 1580891,
@@ -518,7 +695,11 @@
       "release_date": "2025-12-17",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "EDOM Ent"
+      ],
+      "networks": []
     },
     {
       "id": 1523112,
@@ -533,7 +714,9 @@
       "release_date": "2025-12-17",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": []
     },
     {
       "id": 1529023,
@@ -548,7 +731,13 @@
       "release_date": "2025-12-17",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Caviar",
+        "Lompvis",
+        "Beluga Tree"
+      ],
+      "networks": []
     },
     {
       "id": 1452077,
@@ -563,7 +752,9 @@
       "release_date": "2025-12-17",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": []
     },
     {
       "id": 1309373,
@@ -578,7 +769,13 @@
       "release_date": "2025-12-17",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Paprika Films",
+        "Kobalann",
+        "France 3 Cin\u00e9ma"
+      ],
+      "networks": []
     },
     {
       "id": 270856,
@@ -593,7 +790,14 @@
       "release_date": "2025-12-17",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Tencent",
+        "New Classics Media"
+      ],
+      "networks": [
+        "Tencent Video"
+      ]
     },
     {
       "id": 305995,
@@ -608,7 +812,13 @@
       "release_date": "2025-12-17",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Rollercoaster Television"
+      ],
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 285831,
@@ -623,7 +833,9 @@
       "release_date": "2025-12-17",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": []
     },
     {
       "id": 303155,
@@ -638,7 +850,13 @@
       "release_date": "2025-12-17",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "MediaBrigade"
+      ],
+      "networks": [
+        "HBO Max"
+      ]
     },
     {
       "id": 300110,
@@ -653,7 +871,11 @@
       "release_date": "2025-12-17",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Tu Familia Productions"
+      ],
+      "networks": []
     },
     {
       "id": 307845,
@@ -668,7 +890,13 @@
       "release_date": "2025-12-17",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "RMC Story"
+      ],
+      "networks": [
+        "RMC Story"
+      ]
     },
     {
       "id": 511243,
@@ -683,7 +911,11 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Odflix"
+      ],
+      "networks": []
     },
     {
       "id": 1340367,
@@ -698,7 +930,9 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": []
     },
     {
       "id": 1400032,
@@ -713,7 +947,12 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "EPISCOPE",
+        "Netflix"
+      ],
+      "networks": []
     },
     {
       "id": 1270676,
@@ -728,7 +967,16 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Sentimental Filme",
+        "Querosene Filmes",
+        "Claro",
+        "Ag\u00eancia Nacional do Cinema - ANCINE",
+        "Fundo Setorial do Audiovisual",
+        "Banco Regional de Desenvolvimento do Extremo Sul"
+      ],
+      "networks": []
     },
     {
       "id": 1196995,
@@ -743,7 +991,11 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Sree Gokulam Movies"
+      ],
+      "networks": []
     },
     {
       "id": 1209511,
@@ -758,7 +1010,12 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Seven Screen Studios",
+        "Rowdy Pictures"
+      ],
+      "networks": []
     },
     {
       "id": 1049574,
@@ -773,7 +1030,12 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "VMI WorldWide",
+        "Sandaled Kid Productions"
+      ],
+      "networks": []
     },
     {
       "id": 1584125,
@@ -788,7 +1050,11 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Tremolo Productions"
+      ],
+      "networks": []
     },
     {
       "id": 1419300,
@@ -803,7 +1069,12 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Bazelevs",
+        "Toomuch Production"
+      ],
+      "networks": []
     },
     {
       "id": 1135162,
@@ -818,7 +1089,11 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "La Uruguaya Films"
+      ],
+      "networks": []
     },
     {
       "id": 1303074,
@@ -833,7 +1108,11 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Voglia Produ\u00e7\u00f5es"
+      ],
+      "networks": []
     },
     {
       "id": 278146,
@@ -848,7 +1127,13 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "GMMTV"
+      ],
+      "networks": [
+        "GMM 25"
+      ]
     },
     {
       "id": 197491,
@@ -863,7 +1148,13 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Taewon Entertainment"
+      ],
+      "networks": [
+        "TVING"
+      ]
     },
     {
       "id": 307545,
@@ -878,7 +1169,9 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": []
     },
     {
       "id": 307482,
@@ -893,7 +1186,9 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": []
     },
     {
       "id": 284732,
@@ -908,7 +1203,11 @@
       "release_date": "2025-12-18",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "RJDL Filmes"
+      ],
+      "networks": []
     },
     {
       "id": 991494,
@@ -921,9 +1220,19 @@
       "service_name": "Theatrical",
       "user_rating": 0.0,
       "release_date": "2025-12-19",
-      "prediction_source": "gemini",
+      "prediction_source": "cache",
       "prediction_confidence": 0.9,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Nickelodeon Movies",
+        "Paramount Animation",
+        "United Plankton Pictures",
+        "Paramount Pictures",
+        "Reel FX Creative Studios",
+        "Domain Entertainment",
+        "MRC"
+      ],
+      "networks": []
     },
     {
       "id": 1317288,
@@ -938,7 +1247,13 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "A24",
+        "Central Pictures",
+        "IPR.VC"
+      ],
+      "networks": []
     },
     {
       "id": 1368166,
@@ -953,7 +1268,13 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Hidden Pictures",
+        "Lionsgate",
+        "Feigco Entertainment"
+      ],
+      "networks": []
     },
     {
       "id": 1140498,
@@ -968,7 +1289,14 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Searchlight Pictures",
+        "Archery Pictures",
+        "Lea Pictures",
+        "TSG Entertainment"
+      ],
+      "networks": []
     },
     {
       "id": 1516391,
@@ -983,7 +1311,14 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Praxis Films",
+        "Plan B Entertainment",
+        "Submarine Deluxe",
+        "GreenSlate"
+      ],
+      "networks": []
     },
     {
       "id": 1488195,
@@ -996,9 +1331,16 @@
       "service_name": "Theatrical",
       "user_rating": 0.0,
       "release_date": "2025-12-19",
-      "prediction_source": "gemini",
+      "prediction_source": "cache",
       "prediction_confidence": 0.9,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Mikros Animation",
+        "Point Grey Pictures",
+        "Nickelodeon Movies",
+        "Paramount Pictures"
+      ],
+      "networks": []
     },
     {
       "id": 1594394,
@@ -1013,7 +1355,9 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": []
     },
     {
       "id": 1397440,
@@ -1028,7 +1372,11 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Galaxia Studios Co."
+      ],
+      "networks": []
     },
     {
       "id": 1588846,
@@ -1043,7 +1391,11 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Vivamax"
+      ],
+      "networks": []
     },
     {
       "id": 1400765,
@@ -1056,9 +1408,13 @@
       "service_name": "Max",
       "user_rating": 0.0,
       "release_date": "2025-12-19",
-      "prediction_source": "gemini",
-      "prediction_confidence": 0.7,
-      "relevance_score": 79.03
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Charlotte Street Films"
+      ],
+      "networks": []
     },
     {
       "id": 1273554,
@@ -1073,7 +1429,11 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Yellow Film & TV"
+      ],
+      "networks": []
     },
     {
       "id": 1589891,
@@ -1088,7 +1448,9 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": []
     },
     {
       "id": 1543138,
@@ -1103,7 +1465,11 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Happinet Phantom Studios"
+      ],
+      "networks": []
     },
     {
       "id": 1367555,
@@ -1118,7 +1484,16 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Janji Pictures",
+        "Volos Films",
+        "Sunstrong Entertainment",
+        "Southern Islet Pictures",
+        "Sure Honest Holdings",
+        "AMTD Pictures"
+      ],
+      "networks": []
     },
     {
       "id": 1514614,
@@ -1133,7 +1508,19 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Asmik Ace",
+        "Toei Company",
+        "Ken-On",
+        "JR Tokai Agency",
+        "Culture Entertainment",
+        "Toei Video Company",
+        "Nippan Group Holdings",
+        "C&I entertainment",
+        "Second Sight"
+      ],
+      "networks": []
     },
     {
       "id": 230936,
@@ -1148,7 +1535,14 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Tailfeather Productions",
+        "Offspring Films"
+      ],
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 275989,
@@ -1163,7 +1557,13 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "How Pictures"
+      ],
+      "networks": [
+        "JTBC"
+      ]
     },
     {
       "id": 298203,
@@ -1178,7 +1578,13 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Amazon MGM Studios"
+      ],
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 241560,
@@ -1193,7 +1599,11 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "Mono29"
+      ]
     },
     {
       "id": 243826,
@@ -1208,7 +1618,11 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Moviee Mill"
+      ],
+      "networks": []
     },
     {
       "id": 260846,
@@ -1223,7 +1637,11 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "JioHotstar"
+      ]
     },
     {
       "id": 302726,
@@ -1238,7 +1656,11 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "iQiyi"
+      ]
     },
     {
       "id": 307174,
@@ -1253,7 +1675,15 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Astro Shaw",
+        "Telltale Studios"
+      ],
+      "networks": [
+        "Astro GO",
+        "Sooka"
+      ]
     },
     {
       "id": 306697,
@@ -1268,7 +1698,11 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "Tubi"
+      ]
     },
     {
       "id": 307895,
@@ -1283,7 +1717,11 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "ruangguru"
+      ],
+      "networks": []
     },
     {
       "id": 307873,
@@ -1298,7 +1736,9 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": []
     },
     {
       "id": 308201,
@@ -1313,7 +1753,12 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "tvN",
+        "TVING"
+      ]
     },
     {
       "id": 308187,
@@ -1328,7 +1773,12 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "NPO Start",
+        "KRO-NCRV"
+      ]
     },
     {
       "id": 308186,
@@ -1343,7 +1793,11 @@
       "release_date": "2025-12-19",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "Hong Guo Short Drama"
+      ]
     },
     {
       "id": 307867,
@@ -1358,7 +1812,14 @@
       "release_date": "2025-12-20",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "RTL Belgium",
+        "Lecter Media"
+      ],
+      "networks": [
+        "RTL-TVI"
+      ]
     },
     {
       "id": 307178,
@@ -1373,7 +1834,9 @@
       "release_date": "2025-12-20",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": []
     },
     {
       "id": 1553895,
@@ -1388,7 +1851,12 @@
       "release_date": "2025-12-21",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Roberts Media",
+        "Mission Christmas Movie"
+      ],
+      "networks": []
     },
     {
       "id": 1547929,
@@ -1403,7 +1871,11 @@
       "release_date": "2025-12-21",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Studio TF1 America"
+      ],
+      "networks": []
     },
     {
       "id": 296335,
@@ -1418,7 +1890,13 @@
       "release_date": "2025-12-21",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "Cedars Art Production"
+      ],
+      "networks": [
+        "MBC MASR"
+      ]
     },
     {
       "id": 285278,
@@ -1433,7 +1911,13 @@
       "release_date": "2025-12-22",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "AStory"
+      ],
+      "networks": [
+        "ENA"
+      ]
     },
     {
       "id": 304401,
@@ -1448,7 +1932,11 @@
       "release_date": "2025-12-22",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "Das Erste"
+      ]
     },
     {
       "id": 304949,
@@ -1463,7 +1951,9 @@
       "release_date": "2025-12-22",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": []
     },
     {
       "id": 304752,
@@ -1478,7 +1968,11 @@
       "release_date": "2025-12-22",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [],
+      "networks": [
+        "Tokyo MX"
+      ]
     },
     {
       "id": 286438,
@@ -1493,7 +1987,13 @@
       "release_date": "2025-12-22",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "MakerVille"
+      ],
+      "networks": [
+        "ViuTV"
+      ]
     },
     {
       "id": 307467,
@@ -1508,7 +2008,16 @@
       "release_date": "2025-12-22",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 79.03
+      "relevance_score": 79.03,
+      "production_companies": [
+        "FremantleMedia France",
+        "M6",
+        "Studio 89 Productions"
+      ],
+      "networks": [
+        "M6",
+        "M6+"
+      ]
     },
     {
       "id": 1450764,
@@ -1851,8 +2360,8 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2025-12-25",
-      "prediction_source": "gemini",
-      "prediction_confidence": 0.6,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
       "relevance_score": 79.03
     },
     {
@@ -3131,21 +3640,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 283557,
-      "title": "LOVELIVE! BLUEBIRD",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3kizQHQaTDli1JLfnlmgKGJEkil.jpg",
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2025-12-31",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 296980,
       "title": "Criminal Conundrums",
       "type": "tv_series",
@@ -3836,21 +4330,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 305837,
-      "title": "\u96ea\u7159\u30c1\u30a7\u30a4\u30b9",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-02",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 305942,
       "title": "Oh Oh Den Haag",
       "type": "tv_series",
@@ -3956,21 +4435,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 1517970,
-      "title": "NJPW Wrestle Kingdom 20",
-      "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/h3TVgEPf4StTOk6QS1QFztYcAq0.jpg",
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-04",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 253476,
       "title": "Diary of a Strange Land",
       "type": "tv_series",
@@ -3994,21 +4458,6 @@
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-01-04",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 282946,
-      "title": "Kunon the Sorcerer Can See",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5UfZNqWiACH90dTPOrnz3Cmw7pv.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-04",
       "prediction_source": "existing",
@@ -4091,21 +4540,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 307977,
-      "title": "Kateikyoshi no Kishi Knight desu",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ECjZFaPrGoNZeRXMvo1TQg8sR2.jpg",
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-05",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 305988,
       "title": "Otto ni Machigai Arimasen",
       "type": "tv_series",
@@ -4114,21 +4548,6 @@
       "genre": "mystery",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-01-05",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 305163,
-      "title": "The Everyday Life of Part-Time Torture Workers",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/o71krgHl9e4J7J6Rw6reqOXUAv3.jpg",
-      "genre": "comedy",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-05",
       "prediction_source": "existing",
@@ -4256,21 +4675,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 284495,
-      "title": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9ZtYwGcz9g6vcOBcFTMOFrYQVKs.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-06",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 293144,
       "title": "Wash It All Away",
       "type": "tv_series",
@@ -4301,36 +4705,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 293629,
-      "title": "Yoroi Shin Den Samurai Troopers",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gQDsN26g7RUibJJcgWzPvc0iTnb.jpg",
-      "genre": "action",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-06",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 295366,
-      "title": "There Was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nkGu3NiZfCYDGDueiQHnfCEQq0W.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-06",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 291084,
       "title": "Best Medicine",
       "type": "tv_series",
@@ -4346,21 +4720,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 285743,
-      "title": "You Can't Be in a Rom-Com with Your Childhood Friends!",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yTH6JhnfORMubPOnQZn0vuIjGs0.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-06",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 305002,
       "title": "Themis no Futashika na Hotei",
       "type": "tv_series",
@@ -4369,21 +4728,6 @@
       "genre": "mystery",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-01-06",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 304023,
-      "title": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mvh4P253MjQ9T46hfTrMy1CN6B7.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-06",
       "prediction_source": "existing",
@@ -4416,8 +4760,8 @@
       "service_name": "Max",
       "user_rating": 0.0,
       "release_date": "2026-01-07",
-      "prediction_source": "gemini",
-      "prediction_confidence": 0.8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
       "relevance_score": 79.03
     },
     {
@@ -4466,21 +4810,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 263330,
-      "title": "Playing Death Games to Put Food on the Table",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4gDwAPwfY8wXyzi9uIlDzr5YeWY.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-07",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 298721,
       "title": "Mysteriejagers",
       "type": "tv_series",
@@ -4489,36 +4818,6 @@
       "genre": "drama",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-01-07",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 294280,
-      "title": "The Demon King's Daughter Is Too Kind!!",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gUpjTomq5J4aOpwAOJ3WB76kh5g.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-07",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 290667,
-      "title": "The Daily Life of a Single 29-Year-Old Adventurer",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4WgnDGL2pcX9XT3Xv5l4iNZJryN.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-07",
       "prediction_source": "existing",
@@ -4541,21 +4840,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 276110,
-      "title": "The Case Book of Arne",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5RqIzLBLiMxD7KpYpnQP6TNsHOD.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-07",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 305997,
       "title": "Harlan Coben's Final Twist",
       "type": "tv_series",
@@ -4564,21 +4848,6 @@
       "genre": "drama",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-01-07",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 306527,
-      "title": "Ryakudatsu Datsukon",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "mystery",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-07",
       "prediction_source": "existing",
@@ -4676,21 +4945,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 278271,
-      "title": "The Invisible Man and His Soon-to-Be Wife",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/o0ePUEL83grrqbs6cfOwoE4bLwr.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-08",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 296523,
       "title": "Girl Taken",
       "type": "tv_series",
@@ -4699,21 +4953,6 @@
       "genre": "drama",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-01-08",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 283891,
-      "title": "The Holy Grail of Eris",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ifxEzlA8UWr1ZKHjYHKz59LzO9g.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-08",
       "prediction_source": "existing",
@@ -4744,51 +4983,6 @@
       "genre": "reality",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 0.0,
-      "release_date": "2026-01-08",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 307249,
-      "title": "\u3053\u3061\u3089\u4e88\u5099\u81ea\u885b\u82f1\u96c4\u88dc?!",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-08",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 307012,
-      "title": "\u8056\u30e9\u30d6\u30b5\u30d0\u30a4\u30d0\u30fc\u30ba",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-08",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 305811,
-      "title": "Minoshirokin wa Yuukai desu",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-08",
       "prediction_source": "existing",
@@ -4849,21 +5043,6 @@
       "genre": "drama",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 0.0,
-      "release_date": "2026-01-08",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 307679,
-      "title": "\u4ee4\u548c\u306b\u5b98\u80fd\u5c0f\u8aac\u4f5c\u3063\u3066\u307e\u3059",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-08",
       "prediction_source": "existing",
@@ -4956,8 +5135,8 @@
       "service_name": "Max",
       "user_rating": 0.0,
       "release_date": "2026-01-09",
-      "prediction_source": "gemini",
-      "prediction_confidence": 0.8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
       "relevance_score": 79.03
     },
     {
@@ -5021,36 +5200,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 285357,
-      "title": "ROLL OVER AND DIE",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uMzy032MJNjGBiQbW1W7qqnWkDp.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-09",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 307013,
-      "title": "Hito wa Mitame Janai to Omotteta",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-09",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 282723,
       "title": "Blue Moon",
       "type": "tv_series",
@@ -5059,51 +5208,6 @@
       "genre": "drama",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-01-09",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 282647,
-      "title": "Heart of the Dawn: Inferno",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-09",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 306528,
-      "title": "\u526f\u4f1a\u9577\u306e\u4e3b\u306a\u304a\u4ed5\u4e8b",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-09",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 308142,
-      "title": "High School! Kimengumi",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8ota15pVJEQYzEM0lVb9iVtUvPQ.jpg",
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-09",
       "prediction_source": "existing",
@@ -5126,51 +5230,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 305820,
-      "title": "\u30b7\u30ea\u30a6\u30b9\u306e\u53cd\u8a3c",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-10",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 280049,
-      "title": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jTJWL2wKoukCaId1Tkd3NHDVSgw.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-10",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 288589,
-      "title": "Easygoing Territory Defense by the Optimistic Lord",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/agP3f89RzO1We6Jb02QmbbSTeQ1.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-10",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 305817,
       "title": "Yokohama Neighbors",
       "type": "tv_series",
@@ -5186,21 +5245,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 306747,
-      "title": "\u305c\u3093\u3076\u3001\u3042\u306a\u305f\u306e\u305f\u3081\u3060\u304b\u3089",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "mystery",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-10",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 305816,
       "title": "We Are Bad Barbers",
       "type": "tv_series",
@@ -5209,21 +5253,6 @@
       "genre": "drama",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-01-10",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 291414,
-      "title": "Android wa Keiken Ninz\u016b ni Hairimasu ka??",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4dfyZ5UZKGuS5Pur5nMqFp6s675.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-10",
       "prediction_source": "existing",
@@ -5256,66 +5285,6 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-01-10",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 278043,
-      "title": "You and I Are Polar Opposites",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2hWDXVA0kpLlpHBgw70eNuGpu9w.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-11",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 287591,
-      "title": "In the Clear Moonlit Dusk",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gxL32tj61TISNQGuEIFWQs0rLUi.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-11",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 284432,
-      "title": "Scum of the Brave",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zUdByBz1zWn4Prgw5nkVmgfFzfI.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-11",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 295483,
-      "title": "The Villiainess Is Adored by the Crown Prince of the Neighboring Kingdom",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4ylPjOLYz11colsaiyF95JXk7SU.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-11",
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
       "relevance_score": 79.03
@@ -5374,36 +5343,6 @@
       "genre": "drama",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-01-11",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 275902,
-      "title": "Kaya-chan Isn't Scary",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gqif0lpnVH5HCSG7bP4jjcSFEz9.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-11",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 284969,
-      "title": "Oedo Fire Slayer -The Legend of Phoenix-",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fHt1mLMViDFeFL3DULYbKIihkk3.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-11",
       "prediction_source": "existing",
@@ -5546,21 +5485,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 307182,
-      "title": "Shinyuu no \u201cDousei Shite\u201d ni \u201cUn\u201d te Iu Made",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-13",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 257724,
       "title": "Hey A.J.!",
       "type": "tv_series",
@@ -5569,21 +5493,6 @@
       "genre": "family",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-01-13",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 307750,
-      "title": "AKIBA LOST",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wXMhws88fWU1ExPlw5SvubZBCWC.jpg",
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-13",
       "prediction_source": "existing",
@@ -5601,7 +5510,7 @@
       "service_name": "Theatrical",
       "user_rating": 0.0,
       "release_date": "2026-01-14",
-      "prediction_source": "gemini",
+      "prediction_source": "cache",
       "prediction_confidence": 0.8,
       "relevance_score": 79.03
     },
@@ -5674,21 +5583,6 @@
       "genre": "drama",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 0.0,
-      "release_date": "2026-01-14",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 306129,
-      "title": "Ramune Monkey",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-14",
       "prediction_source": "existing",
@@ -6056,21 +5950,6 @@
       "relevance_score": 79.03
     },
     {
-      "id": 1556442,
-      "title": "\u3068\u308c\uff01",
-      "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/u9W2IZRQ6JQlf1Bur2fMmzypkZy.jpg",
-      "genre": "horror",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
-      "user_rating": 0.0,
-      "release_date": "2026-01-16",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
       "id": 1323625,
       "title": "Night Patrol",
       "type": "movie",
@@ -6304,21 +6183,6 @@
       "genre": "crime",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-01-21",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 1575337,
-      "title": "Cosmic Princess Kaguya!",
-      "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-21",
       "prediction_source": "existing",
@@ -6891,8 +6755,8 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-01-30",
-      "prediction_source": "gemini",
-      "prediction_confidence": 0.7,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
       "relevance_score": 79.03
     },
     {
@@ -6921,8 +6785,8 @@
       "service_name": "Hulu",
       "user_rating": 0.0,
       "release_date": "2026-01-30",
-      "prediction_source": "gemini",
-      "prediction_confidence": 0.5,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
       "relevance_score": 79.03
     },
     {
@@ -6949,21 +6813,6 @@
       "genre": "documentary",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-01-30",
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 79.03
-    },
-    {
-      "id": 910850,
-      "title": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
-      "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6YkVpc9Dn1L2FHNlLOybpSKeGc7.jpg",
-      "genre": "animation",
-      "service_id": 283,
-      "service_name": "Crunchyroll",
       "user_rating": 0.0,
       "release_date": "2026-01-30",
       "prediction_source": "existing",
@@ -7296,7 +7145,7 @@
       "service_name": "Theatrical",
       "user_rating": 0.0,
       "release_date": "2026-02-05",
-      "prediction_source": "gemini",
+      "prediction_source": "cache",
       "prediction_confidence": 0.8,
       "relevance_score": 79.03
     },
@@ -7401,8 +7250,8 @@
       "service_name": "Prime Video",
       "user_rating": 0.0,
       "release_date": "2026-02-06",
-      "prediction_source": "gemini",
-      "prediction_confidence": 0.6,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
       "relevance_score": 79.03
     },
     {
@@ -7476,8 +7325,8 @@
       "service_name": "Peacock",
       "user_rating": 0.0,
       "release_date": "2026-02-08",
-      "prediction_source": "gemini",
-      "prediction_confidence": 0.8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
       "relevance_score": 79.03
     },
     {

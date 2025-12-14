@@ -1,7 +1,36 @@
 {
   "range": "301001-302000",
-  "updated_at": 1765644325617,
+  "updated_at": 1765702770821,
   "shows": [
+    {
+      "id": 301001,
+      "title": "Mrs Playmen",
+      "type": "tv_series",
+      "year": 2025,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aLwRvsuKhMjrCrAUUuw61cSuiOi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rk93UkcE9kw6cHiaYFcWQvNUuuq.jpg",
+      "plot_overview": "Betrayed by her husband, a woman must step up and run an erotic magazine that becomes a symbol of empowerment in '70s Rome. Inspired by true events.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 8.036,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-11-12",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 301001,
+      "relevance_score": 15.4645
+    },
     {
       "id": 301507,
       "title": "Heated Rivalry",
@@ -30,6 +59,38 @@
       "imdb_id": null,
       "tmdb_id": 301507,
       "relevance_score": 68.5151
+    },
+    {
+      "id": 301528,
+      "title": "Toy Story 4",
+      "type": "movie",
+      "year": 2019,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m67smI1IIMmYzCl9axvKNULVKLr.jpg",
+      "plot_overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+      "genres": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "user_rating": 7.47,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-06-19",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 301528,
+      "relevance_score": 8.1371
     }
   ]
 }

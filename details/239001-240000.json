@@ -1,6 +1,6 @@
 {
   "range": "239001-240000",
-  "updated_at": 1765644325614,
+  "updated_at": 1765702770798,
   "shows": [
     {
       "id": 239143,
@@ -32,6 +32,35 @@
       "relevance_score": 0.5257
     },
     {
+      "id": 239243,
+      "title": "Under Pressure: The U.S. Women's World Cup Team",
+      "type": "tv_series",
+      "year": 2023,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/arw7e6iw97KrBfyWjVbimWfxzl1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fQtt87hIJKdoqArVPGVdRzQuM5w.jpg",
+      "plot_overview": "In this docuseries, the U.S. women's national soccer team pursues their third consecutive title amid trials and triumphs at the 2023 FIFA World Cup.",
+      "genres": [
+        "documentary"
+      ],
+      "user_rating": 6.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-12-12",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 239243,
+      "relevance_score": 8.7112
+    },
+    {
       "id": 239301,
       "title": "\ud1a0\ub07c\ub124 \uc9d1\uc73c\ub85c \uc624\uc138\uc694",
       "type": "tv_series",
@@ -59,6 +88,37 @@
       "imdb_id": null,
       "tmdb_id": 239301,
       "relevance_score": 0.2869
+    },
+    {
+      "id": 239770,
+      "title": "Doctor Who",
+      "type": "tv_series",
+      "year": 2024,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2JP6NSmBwxg75uTcIHiv5R8PpPi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gDtZQmfzvErZpeXOVeCBQE9WkSF.jpg",
+      "plot_overview": "The Doctor and his companion travel across time and space encountering incredible friends and foes.",
+      "genres": [
+        "action",
+        "drama",
+        "sci-fi"
+      ],
+      "user_rating": 6.45,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-05-11",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 239770,
+      "relevance_score": 13.8306
     }
   ]
 }

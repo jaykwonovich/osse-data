@@ -1,7 +1,37 @@
 {
   "range": "227001-228000",
-  "updated_at": 1765644325613,
+  "updated_at": 1765702770760,
   "shows": [
+    {
+      "id": 227191,
+      "title": "Nine Puzzles",
+      "type": "tv_series",
+      "year": 2025,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/d7DAeOUNJuKjoXVMmUS2hRhvnzE.jpg",
+      "plot_overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
+      "genres": [
+        "crime",
+        "mystery"
+      ],
+      "user_rating": 7.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-05-21",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 227191,
+      "relevance_score": 5.2568
+    },
     {
       "id": 227425,
       "title": "Alpha and Omega 2: A Howl-iday Adventure",
@@ -32,6 +62,37 @@
       "imdb_id": null,
       "tmdb_id": 227425,
       "relevance_score": 8.2255
+    },
+    {
+      "id": 227975,
+      "title": "Fatal Seduction",
+      "type": "tv_series",
+      "year": 2023,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qV9DjDIMUu7ieCQTQkEe9R83Ooa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/138GLKdHorsdiG2pqHrIMw05Nc8.jpg",
+      "plot_overview": "A married professor is pulled into a passionate affair with a younger man that uncovers a path of tragedy and betrayal from those closest to her.",
+      "genres": [
+        "mystery",
+        "crime",
+        "drama"
+      ],
+      "user_rating": 6.53,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-07-07",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 227975,
+      "relevance_score": 8.8706
     }
   ]
 }

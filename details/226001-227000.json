@@ -1,6 +1,6 @@
 {
   "range": "226001-227000",
-  "updated_at": 1765644325613,
+  "updated_at": 1765702770812,
   "shows": [
     {
       "id": 226241,
@@ -33,6 +33,36 @@
       "relevance_score": 21.2301
     },
     {
+      "id": 226529,
+      "title": "Light Shop",
+      "type": "tv_series",
+      "year": 2024,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iRgH73xibpeNZ8zzPDkIpxuoKgC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bGcMuFVzW0LitMJWSzp4EjmzQ0b.jpg",
+      "plot_overview": "In a mysterious shop that sells lamps, the dead may return to the world of the living, while the living may not walk out alive.",
+      "genres": [
+        "mystery",
+        "drama"
+      ],
+      "user_rating": 8.435,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-12-04",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 226529,
+      "relevance_score": 8.2488
+    },
+    {
       "id": 226637,
       "title": "High Potential",
       "type": "tv_series",
@@ -62,6 +92,39 @@
       "imdb_id": null,
       "tmdb_id": 226637,
       "relevance_score": 27.9952
+    },
+    {
+      "id": 226688,
+      "title": "Beyblade X",
+      "type": "tv_series",
+      "year": 2023,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6OAvlyDxLhfxxPB9Mn9w43EaR3N.jpg",
+      "plot_overview": "Beginner blader Robin Kazami joins up with influencer Multi Nana-iro and former champion Jaxon Cross to form this unlikely trio - ready to climb to the top of The X and win the title of champion blader!",
+      "genres": [
+        "animation",
+        "action",
+        "comedy",
+        "sci-fi",
+        "family"
+      ],
+      "user_rating": 6.667,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-10-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 226688,
+      "relevance_score": 12.6642
     }
   ]
 }

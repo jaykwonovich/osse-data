@@ -1,7 +1,36 @@
 {
   "range": "39001-40000",
-  "updated_at": 1765644325599,
+  "updated_at": 1765702720367,
   "shows": [
+    {
+      "id": 39269,
+      "title": "Scandal",
+      "type": "tv_series",
+      "year": 2012,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hpvw89Vq6rYx1bzrE3zdnWBGLfS.jpg",
+      "plot_overview": "Everyone has secrets and Olivia Pope has dedicated her life to protecting and defending the public images of the elite by keeping those secrets under wraps. Pope and her team are at the top of their game when it comes to getting the job done for their clients, but it becomes apparent that these \"gladiators in suits,\" who specialize in fixing the lives of other people, have trouble fixing those closest at hand -- their own.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-04-05",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 39269,
+      "relevance_score": 21.6509
+    },
     {
       "id": 39272,
       "title": "Once Upon a Time",
@@ -62,6 +91,65 @@
       "imdb_id": null,
       "tmdb_id": 39351,
       "relevance_score": 33.9346
+    },
+    {
+      "id": 39793,
+      "title": "Call the Midwife",
+      "type": "tv_series",
+      "year": 2012,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b1p0nL00x563ACkcmGNIRP4ZnkA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/a600KQ3DdQUQl5LewN5imbL0BaF.jpg",
+      "plot_overview": "Drama following the lives of a group of midwives working in the poverty-stricken East End of London during the 1950s, based on the best-selling memoirs of Jennifer Worth.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-01-15",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 39793,
+      "relevance_score": 18.6229
+    },
+    {
+      "id": 39852,
+      "title": "The Sinner",
+      "type": "tv_series",
+      "year": 2017,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rmibFGdqOe0kKKhPls0jVOdZCWw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lVWku9LX2qdJTtAbRzaCDhhWeTK.jpg",
+      "plot_overview": "In a small New York town, a haunted detective hunts for answers about perplexing crimes while wrestling with his own demons.",
+      "genres": [
+        "crime",
+        "drama"
+      ],
+      "user_rating": 7.485,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-08-02",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 39852,
+      "relevance_score": 12.5724
     }
   ]
 }

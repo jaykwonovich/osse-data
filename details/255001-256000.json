@@ -1,7 +1,36 @@
 {
   "range": "255001-256000",
-  "updated_at": 1765644325615,
+  "updated_at": 1765702770746,
   "shows": [
+    {
+      "id": 255055,
+      "title": "Doc",
+      "type": "tv_series",
+      "year": 2025,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hYHrPWM6qGq2XSbaWUONckBgUir.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
+      "plot_overview": "Dr. Amy Larsen must navigate an unfamiliar world after a brain injury erases the last eight years of her life. She can rely only on her estranged 17-year-old daughter, whom she remembers as a 9-year-old, and a handful of devoted friends, as she struggles to continue practicing medicine, despite having lost nearly a decade of knowledge and experience.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.459,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-01-07",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 255055,
+      "relevance_score": 8.4464
+    },
     {
       "id": 255251,
       "title": "Sean Combs: The Reckoning",
@@ -59,6 +88,36 @@
       "imdb_id": null,
       "tmdb_id": 255719,
       "relevance_score": 18.4796
+    },
+    {
+      "id": 255859,
+      "title": "Wayward",
+      "type": "tv_series",
+      "year": 2025,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/znwchNfU5Vr2RNbxnI2iVIxVeMD.jpg",
+      "plot_overview": "A small-town cop suspects that the local school for troubled teens \u2014 and its dangerously charismatic founder \u2014 may not be all it seems.",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "user_rating": 6.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-09-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 255859,
+      "relevance_score": 11.1562
     }
   ]
 }

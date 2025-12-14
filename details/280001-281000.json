@@ -1,6 +1,6 @@
 {
   "range": "280001-281000",
-  "updated_at": 1765651619730,
+  "updated_at": 1765702770753,
   "shows": [
     {
       "id": 280049,
@@ -34,6 +34,39 @@
       "relevance_score": 0.5757
     },
     {
+      "id": 280217,
+      "title": "The Lego Movie 2: The Second Part",
+      "type": "movie",
+      "year": 2019,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nLvDo1F9xQD4VdFNgtipti7lKYD.jpg",
+      "plot_overview": "It's been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO\u00ae invaders from outer space, wrecking everything faster than they can rebuild.",
+      "genres": [
+        "action",
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-02-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 280217,
+      "relevance_score": 6.7419
+    },
+    {
       "id": 280575,
       "title": "Noun of Women",
       "type": "tv_series",
@@ -61,6 +94,65 @@
       "imdb_id": null,
       "tmdb_id": 280575,
       "relevance_score": 0.1537
+    },
+    {
+      "id": 280945,
+      "title": "Bon App\u00e9tit, Your Majesty",
+      "type": "tv_series",
+      "year": 2025,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bzYSIw9FTzQXUcWsnDSwlcwok3C.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rcJH1kg2qIpFJxasgvJzqJUv1jp.jpg",
+      "plot_overview": "After time traveling to the Joseon era, a talented chef meets a tyrant king. Her modern dishes captivate his palate, but royal challenges await her.",
+      "genres": [
+        "drama",
+        "sci-fi"
+      ],
+      "user_rating": 8.855,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-08-23",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 280945,
+      "relevance_score": 11.626
+    },
+    {
+      "id": 280946,
+      "title": "Typhoon Family",
+      "type": "tv_series",
+      "year": 2025,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
+      "plot_overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 8.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-11",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 280946,
+      "relevance_score": 13.1521
     },
     {
       "id": 280948,
