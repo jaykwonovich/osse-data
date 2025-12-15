@@ -1,19 +1,18 @@
 {
   "range": "233001-234000",
-  "updated_at": 1765651619724,
+  "updated_at": 1765841231968,
   "shows": [
     {
       "id": 233295,
       "title": "Sword and Fairy 3",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/gorGXNaHiFIBn7EEafx5uh7VzhT.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/s5UcyrTGmZ7l2QNZExfF2XgUepq.jpg",
       "plot_overview": "",
       "genres": [
-        "animation",
-        "action"
+        "Animation",
+        "Action & Adventure"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -22,15 +21,22 @@
       "streaming_services": [
         {
           "service_id": 0,
-          "service_name": "Coming Soon",
+          "service_name": "TBD",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 233295,
-      "relevance_score": 0.5998
+      "production_companies": [
+        "Softstar Shanghai",
+        "Tencent Penguin Pictures",
+        "Tencent Video",
+        "Year Young Culture"
+      ],
+      "networks": [
+        "Mango TV",
+        "Tencent Video"
+      ],
+      "tmdb_id": 233295
     }
   ]
 }

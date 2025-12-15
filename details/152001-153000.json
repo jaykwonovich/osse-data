@@ -1,19 +1,18 @@
 {
   "range": "152001-153000",
-  "updated_at": 1765702720361,
+  "updated_at": 1765841231955,
   "shows": [
     {
       "id": 152401,
       "title": "Madam Beja",
       "type": "tv_series",
       "year": 2026,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/enYFWcUTX9p8p7o8Wu6iN1DGIm0.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ubjf4C7mKu0q4gusvjQhyOLaJH5.jpg",
       "plot_overview": "",
       "genres": [
-        "drama",
-        "drama"
+        "Drama",
+        "Soap"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -22,45 +21,18 @@
       "streaming_services": [
         {
           "service_id": 0,
-          "service_name": "Coming Soon",
+          "service_name": "TBD",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 152401,
-      "relevance_score": 2.1039
-    },
-    {
-      "id": 152584,
-      "title": "Blue Is the Warmest Color",
-      "type": "movie",
-      "year": 2013,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bEmPrq7Y4MubVATOCtOacY3eXQ5.jpg",
-      "plot_overview": "Ad\u00e8le's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire, to assert herself as a woman and as an adult. In front of others, Adele grows, seeks herself, loses herself, finds herself.",
-      "genres": [
-        "romance",
-        "drama"
+      "production_companies": [
+        "Floresta Produ\u00e7\u00f5es"
       ],
-      "user_rating": 7.065,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2013-10-09",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
+      "networks": [
+        "HBO Max"
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 152584,
-      "relevance_score": 8.6814
+      "tmdb_id": 152401
     }
   ]
 }
