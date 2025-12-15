@@ -1,20 +1,19 @@
 {
   "range": "246001-247000",
-  "updated_at": 1765830970611,
+  "updated_at": 1765831208809,
   "shows": [
     {
       "id": 246386,
       "title": "All Her Fault",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg",
       "plot_overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
       "genres": [
-        "drama",
-        "mystery",
-        "crime"
+        "Drama",
+        "Mystery",
+        "Crime"
       ],
       "user_rating": 8.4,
       "critic_score": null,
@@ -28,10 +27,94 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 246386,
-      "relevance_score": 23.2722
+      "production_companies": [
+        "Carnival Films",
+        "Universal International Studios"
+      ],
+      "networks": [
+        "Sky Atlantic"
+      ],
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 104.56
+    },
+    {
+      "id": 246412,
+      "title": "The Copenhagen Test",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oNOnGU7UR0Z4TWHxAspqRVV6JvO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4hf0wIXHmjNY6hkIGNKdOESrgGj.jpg",
+      "plot_overview": "When an analyst discovers his eyes and ears have been hacked, he's drawn into a controlled world designed by his agency to draw out their enemies.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Action & Adventure"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-12-27",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 246412,
+      "production_companies": [
+        "Atomic Monster",
+        "UCP"
+      ],
+      "networks": [
+        "Peacock"
+      ],
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
+    },
+    {
+      "id": 246473,
+      "title": "Made in Korea",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q9ZRQN98L2OvYP00mIlv4oPPfOU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3S7EDGQeOF9xV2sT8iygpA0JlA8.jpg",
+      "plot_overview": "In 1970s South Korea, follow two men on opposite sides of power \u2014 one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
+      "genres": [
+        "Crime"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-12-24",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 246473,
+      "production_companies": [
+        "Hive Media Corp"
+      ],
+      "networks": [
+        "Disney+"
+      ],
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
     }
   ]
 }

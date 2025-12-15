@@ -1,80 +1,19 @@
 {
   "range": "138001-139000",
-  "updated_at": 1765830970604,
+  "updated_at": 1765831208801,
   "shows": [
-    {
-      "id": 138103,
-      "title": "The Expendables 3",
-      "type": "movie",
-      "year": 2014,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/utS5euWHlEdKBNnEFwjpZ2oGuhF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/d3B8BQDmEEK2Qy6tjYRP3hkpv6J.jpg",
-      "plot_overview": "Barney, Christmas and the rest of the team comes face-to-face with Conrad Stonebanks, who years ago co-founded The Expendables with Barney. Stonebanks subsequently became a ruthless arms trader and someone who Barney was forced to kill\u2026 or so he thought. Stonebanks, who eluded death once before, now is making it his mission to end The Expendables -- but Barney has other plans. Barney decides that he has to fight old blood with new blood, and brings in a new era of Expendables team members, recru",
-      "genres": [
-        "action",
-        "adventure",
-        "thriller"
-      ],
-      "user_rating": 6.206,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-08-07",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 138103,
-      "relevance_score": 10.1742
-    },
-    {
-      "id": 138169,
-      "title": "Extrapolations",
-      "type": "tv_series",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cBUS1OijCX2jzirgajIWt4TOgTK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cSlwoQCSgYryqC9yQLdtFpuDnfR.jpg",
-      "plot_overview": "Eight interconnected stories told over 33 years explore how our planet\u2019s changing climate will affect family, work, faith\u2014and survival.",
-      "genres": [
-        "drama"
-      ],
-      "user_rating": 6.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2023-03-16",
-      "streaming_services": [
-        {
-          "service_id": 350,
-          "service_name": "Apple TV+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 138169,
-      "relevance_score": 6.3337
-    },
     {
       "id": 138505,
       "title": "Marvel Zombies",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
       "plot_overview": "After the Avengers are overtaken by a zombie plague, a desperate group of survivors discover the key to bringing an end to the super-powered undead, racing across a dystopian landscape and risking life and limb to save their world.",
       "genres": [
-        "sci-fi",
-        "animation",
-        "action"
+        "Sci-Fi & Fantasy",
+        "Animation",
+        "Action & Adventure"
       ],
       "user_rating": 7.326,
       "critic_score": null,
@@ -88,10 +27,18 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 138505,
-      "relevance_score": 22.4174
+      "production_companies": [
+        "Marvel Studios"
+      ],
+      "networks": [
+        "Disney+"
+      ],
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 101.17
     }
   ]
 }

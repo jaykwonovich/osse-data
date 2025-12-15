@@ -1,67 +1,75 @@
 {
   "range": "217001-218000",
-  "updated_at": 1765702770761,
+  "updated_at": 1765831208803,
   "shows": [
     {
-      "id": 217528,
-      "title": "Heweliusz",
+      "id": 217766,
+      "title": "Zom 100: Bucket List of the Dead",
       "type": "tv_series",
-      "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ieDjrlZCmpY5Cp1Jbenqc46WdNp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uanBIz4myibV0ytiPgzCVDz1kNg.jpg",
-      "plot_overview": "After a catastrophic ferry disaster, the off-duty captain seeks answers and justice for those who lost their lives \u2014 and those they left behind.",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bTYMgERNC9rVdmxTSzKuex4GWbF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/90b5d67rcpYfh5aVOwfd9jrbnfL.jpg",
+      "plot_overview": "An overworked 24-year-old finally decides to live a little and create a bucket list, when a zombie outbreak hits the country.",
       "genres": [
-        "drama",
-        "mystery"
+        "Animation",
+        "Action & Adventure",
+        "Comedy",
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.487,
+      "user_rating": 7.535,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-11-05",
+      "release_date": "2023-07-09",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 318,
+          "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 217528,
-      "relevance_score": 9.6418
-    },
-    {
-      "id": 217837,
-      "title": "Zomvivor",
-      "type": "tv_series",
-      "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zLLmQNnHdx5KAKZpIxL4pdy4Qb7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ke3Ctn0jZru8oys8wAsY5oDIDX4.jpg",
-      "plot_overview": "When an apocalyptic virus that turns people into zombies ravages a city, a group of students take shelter in a school and fight to survive.",
-      "genres": [
-        "drama",
-        "sci-fi",
-        "action"
+      "tmdb_id": 217766,
+      "service_name": "Starz",
+      "service_id": 318,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 91.27,
+      "production_companies": [
+        "BUG FILMS",
+        "Shogakukan-Shueisha Productions",
+        "Shogakukan",
+        "ASCII Media Works"
       ],
-      "user_rating": 7.5,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-10-31",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 217837,
-      "relevance_score": 13.7288
+      "networks": [
+        "MBS",
+        "TBS",
+        "CBC",
+        "Tulip Television",
+        "SBC",
+        "BSN",
+        "tys",
+        "NBC",
+        "HBC",
+        "RKK",
+        "i-Television",
+        "SBS",
+        "IBC",
+        "BSS",
+        "MRO",
+        "OBS",
+        "TUF",
+        "RSK",
+        "TUY",
+        "tbc",
+        "RKB",
+        "KUTV",
+        "RBC",
+        "UTY",
+        "RCC",
+        "MRT",
+        "ATV",
+        "MBC"
+      ]
     }
   ]
 }

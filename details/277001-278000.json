@@ -1,50 +1,20 @@
 {
   "range": "277001-278000",
-  "updated_at": 1765830970614,
+  "updated_at": 1765831208815,
   "shows": [
-    {
-      "id": 277601,
-      "title": "Strawberry Shortcake's Berry Bitty Adventures",
-      "type": "tv_series",
-      "year": null,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/khhkRxvGE5zLHLyamvaL1lfG7Of.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/x2bEBwUnTZAE0YFCAI7JkUFkLz7.jpg",
-      "plot_overview": "",
-      "genres": [
-        "drama"
-      ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": null,
-      "streaming_services": [
-        {
-          "service_id": 531,
-          "service_name": "Paramount+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 277601,
-      "relevance_score": 0.1643
-    },
     {
       "id": 277752,
       "title": "City of Shadows",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/n4rguIB7Cf4h3l1IyqMo3THW5xn.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jKyYbESbbsDuEF0G2a9Kg5zuttG.jpg",
       "plot_overview": "A gruesome crime has taken place in La Pedrera \u2013 Casa Mil\u00e0: a burned body is found on the facade of Gaud\u00ed's iconic building. Inspector Milo Malart, previously suspended for misconduct by the Mossos d'Esquadra (Mossos of the Squadron), returns to Barcelona to find the perpetrator along with Sub-Inspector Rebeca Garrido.",
       "genres": [
-        "crime",
-        "mystery"
+        "Crime",
+        "Mystery"
       ],
-      "user_rating": 8.25,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-12-12",
@@ -56,10 +26,58 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 277752,
-      "relevance_score": 76.3492
+      "production_companies": [
+        "Arcadia Motion Pictures"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 102.03
+    },
+    {
+      "id": 277831,
+      "title": "The Yogurt Shop Murders",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r25wcu2RZcWzq6GtR8MPD7i25OS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uNGYFLFn4WQeXfJ6sXg2rcMceH6.jpg",
+      "plot_overview": "In 1991, four teenage girls were brutally murdered at a frozen yogurt shop in Austin, Texas. What happened that night forever shook the Austin community and continues to mystify the police and haunt the families left in the wake of unthinkable loss.",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "user_rating": 7.053,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-08-03",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 277831,
+      "service_name": "Max",
+      "service_id": 1899,
+      "relevance_score": 100.31,
+      "production_companies": [
+        "Fruit Tree",
+        "HBO Documentary Films",
+        "A24",
+        "Pig Village"
+      ],
+      "networks": [
+        "HBO"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

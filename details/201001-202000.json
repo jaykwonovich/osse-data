@@ -1,36 +1,44 @@
 {
   "range": "201001-202000",
-  "updated_at": 1765702770826,
+  "updated_at": 1765831208802,
   "shows": [
     {
-      "id": 201478,
-      "title": "SuperKitties",
+      "id": 201643,
+      "title": "Invincible Fight Girl",
       "type": "tv_series",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wpKg2vChRf3AR7xjk6Ae8tmSoKU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/69ZmzcyVbq55iC8ZHTxw2VDeQtc.jpg",
-      "plot_overview": "An adorable and action-packed new series about four fierce and furry superhero kittens \u2014 Ginny, Sparks, Buddy and Bitsy \u2014 who are on a mission to make Kittydale a more caring and \u201dpawesome\u201d place.",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/t9lcNmzb5XMksUfUq3rtxYVbQnv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uS3PNfRgSdVyCs6nYTrZqI8wGZ7.jpg",
+      "plot_overview": "Andy dreams of becoming the greatest pro wrestler of all time. Assuming the wrestler alias: \"Fight Girl\", Andy sets out into the bizarre and colorful Wrestling World, determined to make a name for herself.",
       "genres": [
-        "animation",
-        "family"
+        "Animation",
+        "Action & Adventure",
+        "Comedy"
       ],
-      "user_rating": 5.4,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2023-01-11",
+      "release_date": "2024-11-03",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 318,
+          "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 201478,
-      "relevance_score": 5.7665
+      "tmdb_id": 201643,
+      "service_name": "Starz",
+      "service_id": 318,
+      "relevance_score": 91.16,
+      "production_companies": [
+        "Cartoon Network Studios"
+      ],
+      "networks": [
+        "Adult Swim"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

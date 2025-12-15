@@ -1,21 +1,20 @@
 {
   "range": "240001-241000",
-  "updated_at": 1765830970610,
+  "updated_at": 1765831208807,
   "shows": [
     {
       "id": 240411,
       "title": "Dan Da Dan",
       "type": "tv_series",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
       "plot_overview": "In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?!",
       "genres": [
-        "animation",
-        "action",
-        "comedy",
-        "sci-fi"
+        "Animation",
+        "Action & Adventure",
+        "Comedy",
+        "Sci-Fi & Fantasy"
       ],
       "user_rating": 8.591,
       "critic_score": null,
@@ -23,16 +22,97 @@
       "release_date": "2024-10-04",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
+          "service_id": 318,
+          "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 240411,
-      "relevance_score": 25.4103
+      "service_name": "Starz",
+      "service_id": 318,
+      "relevance_score": 94.62,
+      "production_companies": [
+        "Science SARU",
+        "Shueisha",
+        "MBS",
+        "dentsu",
+        "Aniplex",
+        "Shogakukan-Shueisha Productions"
+      ],
+      "networks": [
+        "MBS",
+        "TBS",
+        "CBC",
+        "Tulip Television",
+        "SBC",
+        "BSN",
+        "tys",
+        "NBC",
+        "HBC",
+        "RKK",
+        "i-Television",
+        "SBS",
+        "IBC",
+        "BSS",
+        "MRO",
+        "OBS",
+        "TUF",
+        "RSK",
+        "TUY",
+        "tbc",
+        "RKB",
+        "KUTV",
+        "RBC",
+        "UTY",
+        "RCC",
+        "MRT",
+        "ATV",
+        "MBC"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
+    },
+    {
+      "id": 240740,
+      "title": "Scarpetta",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dqTXHIiWGaq4PvyNmKTxcuQP2sZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bopD6OeHkV3AoIj36XaFHM5M2t1.jpg",
+      "plot_overview": "Chief Medical Examiner Kay Scarpetta returns to Virginia and resumes her former position with complex relationships, both personal and professional \u2013 including her sister Dorothy, with plenty of grudges and secrets to uncover.",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-03-11",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 240740,
+      "production_companies": [
+        "Blossom Films",
+        "Blumhouse Television",
+        "Comet Pictures",
+        "P&S Projects",
+        "Amazon MGM Studios"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
     }
   ]
 }

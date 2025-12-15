@@ -1,52 +1,18 @@
 {
   "range": "224001-225000",
-  "updated_at": 1765702770811,
+  "updated_at": 1765831208805,
   "shows": [
-    {
-      "id": 224022,
-      "title": "PJ Masks: Power Heroes",
-      "type": "tv_series",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ce1dYgNIREapWRf8yNUhC08hh6g.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ymaS4eruMWQzKRodutLSFtLeA6r.jpg",
-      "plot_overview": "Connor, Greg and Amaya are normal kids by day, but at night they activate their bracelets, which link into their pajamas and give them fantastic super powers, turning them into their alternate identities: the PJ Masks! The team consists of Catboy (Connor), Gekko (Greg) and Owlette (Amaya). Together, they go on adventures, solve mysteries, and learn valuable lessons. Watch the first six seasons of PJ Masks now on Disney+!",
-      "genres": [
-        "animation",
-        "family",
-        "family",
-        "sci-fi",
-        "action"
-      ],
-      "user_rating": 9.1,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2023-04-19",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 224022,
-      "relevance_score": 5.1991
-    },
     {
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
       "type": "tv_series",
       "year": 2026,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/olmiqSMfi4KwtxrLcFNjsjMlwzl.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rDYaWzUNv78wY8SaWWPEJGQPssU.jpg",
       "plot_overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
       "genres": [
-        "drama",
-        "sci-fi"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -54,16 +20,56 @@
       "release_date": "2026-01-18",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Coming Soon",
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 224372,
-      "relevance_score": 6.2226
+      "production_companies": [],
+      "networks": [
+        "HBO"
+      ],
+      "service_name": "Max",
+      "service_id": 1899,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
+    },
+    {
+      "id": 224522,
+      "title": "Summer House: Martha's Vineyard",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/TCIRTigvVlU8nihgAV4WAYCunW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ws1SRtoZHli7ag36yC5ojUlt5Oh.jpg",
+      "plot_overview": "Follow a group of friends as they vacation in the historical Oak Bluffs area of Martha\u2019s Vineyard, one of the most picturesque destinations in New England. From yacht parties to electrifying romance, both fun and drama are on the docket for these young professionals and entrepreneurs during their island getaway.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 4.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-05-07",
+      "streaming_services": [
+        {
+          "service_id": 365,
+          "service_name": "MGM+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 224522,
+      "service_name": "MGM+",
+      "service_id": 365,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 82.56,
+      "production_companies": [],
+      "networks": [
+        "Bravo"
+      ]
     }
   ]
 }

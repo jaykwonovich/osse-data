@@ -1,37 +1,83 @@
 {
   "range": "290001-291000",
-  "updated_at": 1765830970615,
+  "updated_at": 1765831208818,
   "shows": [
     {
-      "id": 290098,
-      "title": "The Handmaiden",
-      "type": "movie",
-      "year": 2016,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jnFmHDHmPZrQ7vyHmxXHcoxp25j.jpg",
-      "plot_overview": "1930s Korea, in the period of Japanese occupation, a new girl, Sookee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
+      "id": 290856,
+      "title": "Y: Marshals",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/adaZwElRbQM0tu45qLos4P6vaEL.jpg",
+      "plot_overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
       "genres": [
-        "thriller",
-        "drama",
-        "romance"
+        "Drama",
+        "Western"
       ],
-      "user_rating": 8.2,
+      "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2016-06-01",
+      "release_date": "2026-03-01",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
+          "service_id": 531,
+          "service_name": "Paramount+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 290098,
-      "relevance_score": 12.2062
+      "tmdb_id": 290856,
+      "production_companies": [
+        "101 Studios",
+        "Bosque Ranch Productions",
+        "Linson Entertainment",
+        "Paramount Television Studios"
+      ],
+      "networks": [
+        "CBS",
+        "Paramount+"
+      ],
+      "service_name": "Paramount+",
+      "service_id": 531,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
+    },
+    {
+      "id": 290885,
+      "title": "Wife Swap: The Real Housewives Edition",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uYUsK04Bdd3BDiXyT50z44hwI7N.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/itf5CtrUYrGeXjD6NuKjNIMew1Z.jpg",
+      "plot_overview": "When a \u201cReal Housewife\u201d takes off her stilettos and steps into a real housewife\u2019s shoes, all bets are off as two of entertainment\u2019s most iconic franchises are mashed up leading to laugh-out-loud moments, personal epiphanies and an opportunity to see if the grass is truly greener.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-21",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 290885,
+      "production_companies": [
+        "Truly Original"
+      ],
+      "networks": [
+        "Bravo"
+      ],
+      "service_name": "Peacock",
+      "service_id": 386,
+      "relevance_score": 77.85,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

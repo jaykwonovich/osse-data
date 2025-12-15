@@ -1,19 +1,16 @@
 {
   "range": "259001-260000",
-  "updated_at": 1765830970613,
+  "updated_at": 1765831208813,
   "shows": [
     {
       "id": 259315,
       "title": "\u7a79\u9876\u4e4b\u4e0b",
       "type": "tv_series",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ep9GnxANXp6HZLzBBbgdUclp1eP.jpg",
       "backdrop_url": null,
       "plot_overview": "",
-      "genres": [
-        "drama"
-      ],
+      "genres": [],
       "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
@@ -26,10 +23,53 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 259315,
-      "relevance_score": 0.0071
+      "service_name": "Paramount+",
+      "service_id": 531,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 67.08,
+      "production_companies": [],
+      "networks": []
+    },
+    {
+      "id": 259731,
+      "title": "HIS & HERS",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/egpX2mpy4v32yHPM6AGI9evINfR.jpg",
+      "plot_overview": "Anna is a reclusive former news anchor who becomes obsessed with a murder case in her hometown. Detective Jack Harper, suspicious of Anna's involvement, puts her in the crosshairs of his investigation.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-01-08",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 259731,
+      "production_companies": [
+        "Fifth Season",
+        "Freckle Films",
+        "Viva Maude"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
     }
   ]
 }

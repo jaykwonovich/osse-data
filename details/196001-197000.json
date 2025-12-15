@@ -1,48 +1,17 @@
 {
   "range": "196001-197000",
-  "updated_at": 1765830970605,
+  "updated_at": 1765831208801,
   "shows": [
-    {
-      "id": 196322,
-      "title": "Dark Matter",
-      "type": "tv_series",
-      "year": 2024,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-      "plot_overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his true family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "genres": [
-        "sci-fi",
-        "drama"
-      ],
-      "user_rating": 7.775,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2024-05-07",
-      "streaming_services": [
-        {
-          "service_id": 350,
-          "service_name": "Apple TV+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 196322,
-      "relevance_score": 7.9715
-    },
     {
       "id": 196890,
       "title": "Chief of War",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2c3PCbxVgWen5HrYsaukUmfu4J9.jpg",
       "plot_overview": "With Hawaii's four kingdoms divided by war, the ferocious warrior Ka\u02bbiana embarks on an epic mission to unite his people\u2014as an existential threat approaches their shores.",
       "genres": [
-        "drama"
+        "Drama"
       ],
       "user_rating": 7.399,
       "critic_score": null,
@@ -54,12 +23,30 @@
           "service_name": "Apple TV+",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 196890,
-      "relevance_score": 18.289
+      "service_name": "Apple TV+",
+      "service_id": 350,
+      "relevance_score": 101.4,
+      "production_companies": [
+        "Chernin Entertainment",
+        "Fifth Season",
+        "Hard J Productions",
+        "about:blank",
+        "On the Roam"
+      ],
+      "networks": [
+        "Apple TV"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

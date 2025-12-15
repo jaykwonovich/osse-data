@@ -1,48 +1,18 @@
 {
   "range": "250001-251000",
-  "updated_at": 1765830970612,
+  "updated_at": 1765831208809,
   "shows": [
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "type": "tv_series",
-      "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "plot_overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "genres": [
-        "drama"
-      ],
-      "user_rating": 8.659,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-01-09",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 250307,
-      "relevance_score": 25.9384
-    },
     {
       "id": 250504,
       "title": "The Beast in Me",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ylW0m5UztyyL4YFu8EC6usUHLF.jpg",
       "plot_overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor \u2014 who might be a murderer.",
       "genres": [
-        "drama",
-        "mystery"
+        "Drama",
+        "Mystery"
       ],
       "user_rating": 7.248,
       "critic_score": null,
@@ -56,39 +26,60 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 250504,
-      "relevance_score": 32.6409
+      "production_companies": [
+        "Conaco",
+        "20th Television",
+        "Teakwood Lane Productions",
+        "Overall Production"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 100.92
     },
     {
-      "id": 250670,
-      "title": "Maxton Hall - The World Between Us",
+      "id": 250505,
+      "title": "Agatha Christie's Seven Dials",
       "type": "tv_series",
-      "year": 2024,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/slKAbvY2CjAIyJFqoLSh1WICzg6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dkhjP3GK44gkxmKzrgYzHs8hbtf.jpg",
-      "plot_overview": "When Ruby unwittingly witnesses an explosive secret at Maxton Hall private school, the arrogant millionaire heir James Beaufort has to deal with the quick-witted scholarship student for better or worse: He is determined to silence Ruby. Their passionate exchange of words unexpectedly ignites a spark...",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/c7bZM8BdFjxooO6gTRz9AT83cGy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8HFknHuzb0sgH1MEm5ulmnIPdEa.jpg",
+      "plot_overview": "England. 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths - the fizzingly inquisitive Lady Eileen 'Bundle' Brent - to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
       "genres": [
-        "drama"
+        "Drama",
+        "Mystery"
       ],
-      "user_rating": 8.324,
+      "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2024-05-09",
+      "release_date": "2026-01-15",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 250670,
-      "relevance_score": 30.1162
+      "tmdb_id": 250505,
+      "production_companies": [
+        "Agatha Christie",
+        "Imaginary Friends",
+        "Orchid Pictures"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
     }
   ]
 }

@@ -1,67 +1,85 @@
 {
   "range": "202001-203000",
-  "updated_at": 1765830970606,
+  "updated_at": 1765831208802,
   "shows": [
     {
-      "id": 202411,
-      "title": "Monarch: Legacy of Monsters",
+      "id": 202282,
+      "title": "Rick and Morty: The Anime",
       "type": "tv_series",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/t9i4Icf1LsGIgkpnokQaC4hzxLa.jpg",
-      "plot_overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family\u2014and the mysterious organization known as Monarch.",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bGf8CzFaqdTgINZOq4zvK7H0UFH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dhb5lfSpElYIaLLyJjeswn2dfnl.jpg",
+      "plot_overview": "It's life mostly as usual for the Smith family. Rick is in a pseudo-world, Summer helps Space Beth and Morty's in love. And they're all an anime.",
       "genres": [
-        "sci-fi",
-        "drama",
-        "action"
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
-      "user_rating": 7.729,
+      "user_rating": 5.2,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2023-11-16",
+      "release_date": "2024-08-16",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 318,
+          "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 202411,
-      "relevance_score": 8.7816
+      "tmdb_id": 202282,
+      "service_name": "Starz",
+      "service_id": 318,
+      "relevance_score": 83.83,
+      "production_companies": [
+        "Telecom Animation Film",
+        "Williams Street",
+        "Sola Entertainment"
+      ],
+      "networks": [
+        "Adult Swim"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     },
     {
-      "id": 202555,
-      "title": "Daredevil: Born Again",
+      "id": 202284,
+      "title": "Ninja Kamui",
       "type": "tv_series",
-      "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
-      "plot_overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/A7mYSloFonDcQtHTqyLqEg9rIkh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3nmDXGCDcHbtP3Rw4vi9RD3cmmX.jpg",
+      "plot_overview": "A team of assassins exacts a bloody retribution on Joe Logan \u2013 a former ninja who escaped his clan \u2013 and his family for betraying their ancient code. Rising from his seeming \"death,\" Joe will re-emerge as his former self \u2013 Ninja Kamui \u2013 to avenge his family and friends and bring down the very clan that made him.",
       "genres": [
-        "drama",
-        "crime"
+        "Animation",
+        "Action & Adventure"
       ],
-      "user_rating": 7.961,
+      "user_rating": 8.3,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-03-04",
+      "release_date": "2024-02-11",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 318,
+          "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 202555,
-      "relevance_score": 19.1254
+      "tmdb_id": 202284,
+      "service_name": "Starz",
+      "service_id": 318,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 93.7,
+      "production_companies": [
+        "E&H production",
+        "Sola Entertainment",
+        "Williams Street"
+      ],
+      "networks": [
+        "Adult Swim"
+      ]
     }
   ]
 }

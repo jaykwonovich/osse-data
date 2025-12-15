@@ -1,18 +1,49 @@
 {
   "range": "302001-303000",
-  "updated_at": 1765830970616,
+  "updated_at": 1765831208820,
   "shows": [
+    {
+      "id": 302606,
+      "title": "Everything On The Menu with Braun Strowman",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1xww1X1MW3HubUtZnGSB901ZWeA.jpg",
+      "backdrop_url": null,
+      "plot_overview": "WWE star Braun Strowman travels America, attempting to eat every item on restaurant menus during his WWE tour stops.",
+      "genres": [],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-24",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 302606,
+      "production_companies": [],
+      "networks": [
+        "USA Network"
+      ],
+      "service_name": "Peacock",
+      "service_id": 386,
+      "relevance_score": 77.85,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
+    },
     {
       "id": 302919,
       "title": "Taylor Swift | The Eras Tour | The End of an Era",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/2krDRnB4wabh4odG3mTEL4U0ybB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2miTRsp2SAbik7gCr9jPM2kHV3d.jpg",
       "plot_overview": "A behind-the-scenes docuseries event chronicling the development, impact, and inner workings that created the phenomenon that was Taylor Swift | The Eras Tour, as well as providing an intimate look at Taylor's life as her tour made headlines and thrilled fans around the world. The series also spotlights performers, family members, and friends \u2014 including Gracie Abrams, Sabrina Carpenter, Ed Sheeran, and Florence Welch \u2014 offering never-before-seen insight into what it took to create a phenomenon.",
       "genres": [
-        "documentary"
+        "Documentary"
       ],
       "user_rating": 8.5,
       "critic_score": null,
@@ -26,10 +57,19 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 302919,
-      "relevance_score": 17.051
+      "production_companies": [
+        "Taylor Swift Productions",
+        "Object & Animal"
+      ],
+      "networks": [
+        "Disney+"
+      ],
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 104.87
     }
   ]
 }

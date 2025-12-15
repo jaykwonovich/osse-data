@@ -1,37 +1,40 @@
 {
   "range": "287001-288000",
-  "updated_at": 1765830970615,
+  "updated_at": 1765831208817,
   "shows": [
     {
-      "id": 287903,
-      "title": "Krampus",
-      "type": "movie",
-      "year": 2015,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mzPCU6xQ2XQmD76cDVZPm5PZAaS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/h3X1YZXNeklLNKRVOS6DHGRosog.jpg",
-      "plot_overview": "When his dysfunctional family clashes over the holidays, young Max is disillusioned and turns his back on Christmas.  Little does he know, this lack of festive spirit has unleashed the wrath of Krampus: a demonic force of ancient evil intent on punishing non-believers.",
+      "id": 287462,
+      "title": "Love Hotel",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/adnUb9EEOcIwhPin6ysYDof6RNz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4TgF1kSGMJr8ssix5TEjKUNTJZj.jpg",
+      "plot_overview": "Real Housewives stars Shannon Beador, Gizelle Bryant, Ashley Darby, and Luann de Lesseps visit Los Cabos' Grand Velas Hotel to find love among eligible bachelors.",
       "genres": [
-        "horror",
-        "comedy",
-        "fantasy"
+        "Reality"
       ],
-      "user_rating": 6.195,
+      "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2015-11-26",
+      "release_date": "2025-04-27",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 365,
+          "service_name": "MGM+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 287903,
-      "relevance_score": 12.3835
+      "tmdb_id": 287462,
+      "service_name": "MGM+",
+      "service_id": 365,
+      "relevance_score": 77.85,
+      "production_companies": [],
+      "networks": [
+        "Bravo"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

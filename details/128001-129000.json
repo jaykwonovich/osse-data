@@ -1,37 +1,47 @@
 {
   "range": "128001-129000",
-  "updated_at": 1765702770749,
+  "updated_at": 1765831208800,
   "shows": [
     {
-      "id": 128904,
-      "title": "Dark Winds",
+      "id": 128024,
+      "title": "Unicorn: Warriors Eternal",
       "type": "tv_series",
-      "year": 2022,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uNvpN37f9HbvsDBQFhHU5m2EnVo.jpg",
-      "plot_overview": "This psychological thriller follows two Navajo police officers, Leaphorn and Chee, in the 1970s Southwest as their search for clues in a grisly double murder case forces them to challenge their own spiritual beliefs and come to terms with the trauma of their pasts.",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/w0uHVrvCQYAWA4gj4j1GOCFM54a.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mkhT6YETfnvcox56THaVon6NrKF.jpg",
+      "plot_overview": "An evil force is looming across the dark, thick-aired streets of industrial revolution London when a group of heroes dubbed Unicorn are accidentally reawakened in the bodies of teenagers instead of adult hosts they\u2019ve embodied in the past.",
       "genres": [
-        "crime",
-        "drama",
-        "mystery"
+        "Animation",
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.533,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2022-06-12",
+      "release_date": "2023-05-05",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 318,
+          "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 128904,
-      "relevance_score": 9.1394
+      "tmdb_id": 128024,
+      "service_name": "Starz",
+      "service_id": 318,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 90.21,
+      "production_companies": [
+        "Cartoon Network Studios",
+        "Studio La Cachette",
+        "Studio 100 Animation"
+      ],
+      "networks": [
+        "Adult Swim"
+      ]
     }
   ]
 }

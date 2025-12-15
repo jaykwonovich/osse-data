@@ -1,70 +1,43 @@
 {
   "range": "220001-221000",
-  "updated_at": 1765830970608,
+  "updated_at": 1765831208804,
   "shows": [
     {
-      "id": 220150,
-      "title": "Pok\u00e9mon Horizons",
+      "id": 220393,
+      "title": "Queens Court",
       "type": "tv_series",
       "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
-      "plot_overview": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and others during their exciting adventures!",
+      "poster_url": "https://image.tmdb.org/t/p/w342/pPcMFUtwYBfUKBxbwLXRcII2CcF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/grMNPsMs7Z8XMqc6Rj8j6tvfplF.jpg",
+      "plot_overview": "Three famous, single women are guided by Hollywood power couple Holly Robinson Peete and Rodney Peete through the ups and downs of dating 21 confident and successful prospective suitors while developing a sisterhood supporting each other on their quests to find a King fit for a Queen.",
       "genres": [
-        "sci-fi",
-        "action",
-        "family",
-        "comedy",
-        "animation"
+        "Reality"
       ],
-      "user_rating": 8.8,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2023-04-14",
+      "release_date": "2023-03-16",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 365,
+          "service_name": "MGM+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 220150,
-      "relevance_score": 33.9722
-    },
-    {
-      "id": 220542,
-      "title": "The Apothecary Diaries",
-      "type": "tv_series",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "plot_overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-      "genres": [
-        "animation",
-        "drama",
-        "mystery"
+      "tmdb_id": 220393,
+      "service_name": "MGM+",
+      "service_id": 365,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 92.75,
+      "production_companies": [
+        "Will Packer Productions",
+        "Lighthearted Entertainment"
       ],
-      "user_rating": 8.597,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2023-10-22",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 220542,
-      "relevance_score": 51.4023
+      "networks": [
+        "Peacock"
+      ]
     }
   ]
 }

@@ -1,20 +1,19 @@
 {
   "range": "219001-220000",
-  "updated_at": 1765830970608,
+  "updated_at": 1765831208804,
   "shows": [
     {
       "id": 219080,
       "title": "The Mighty Nein",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7K7wbQIpkzif4fMhDHsCweXFS42.jpg",
       "plot_overview": "When a powerful arcane relic known as 'The Beacon' falls into nefarious hands, a group of fugitives and outcasts, bound by secrets and scars, must learn to work together to save the realm and stop reality as they know it from unraveling.",
       "genres": [
-        "animation",
-        "sci-fi",
-        "action"
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
       "user_rating": 7.531,
       "critic_score": null,
@@ -28,23 +27,34 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 219080,
-      "relevance_score": 22.6559
+      "production_companies": [
+        "Titmouse",
+        "Amazon MGM Studios",
+        "Critical Role Productions",
+        "Metapigeon",
+        "Panda Burrow"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 101.81
     },
     {
       "id": 219760,
       "title": "The Terminal List: Dark Wolf",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yQw23xxmVBFVHPCF6V68TAIIfno.jpg",
       "plot_overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him \u2013 light and dark \u2013 fighting for control. Which wolf will Ben Edwards feed?",
       "genres": [
-        "action",
-        "drama"
+        "Action & Adventure",
+        "Drama"
       ],
       "user_rating": 7.47,
       "critic_score": null,
@@ -58,10 +68,22 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 219760,
-      "relevance_score": 23.4675
+      "production_companies": [
+        "Civic Center Media",
+        "MRC",
+        "Indivisible Productions",
+        "Hill District Media",
+        "Amazon MGM Studios"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 101.62
     }
   ]
 }

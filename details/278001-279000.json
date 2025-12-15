@@ -1,19 +1,18 @@
 {
   "range": "278001-279000",
-  "updated_at": 1765830970614,
+  "updated_at": 1765831208815,
   "shows": [
     {
       "id": 278100,
       "title": "The Town",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/k4EhIaAapcEc79mXvzjxmplGb0e.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gYSE4tc6Cl9eZ3p8md2y9j2NI2w.jpg",
       "plot_overview": "A group of cash-strapped friends find their morals and relationships tested when they stumble upon a stolen fortune in their hometown.",
       "genres": [
-        "drama",
-        "crime"
+        "Drama",
+        "Crime"
       ],
       "user_rating": 5.0,
       "critic_score": null,
@@ -27,39 +26,18 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 278100,
-      "relevance_score": 42.4561
-    },
-    {
-      "id": 278382,
-      "title": "The Loud House",
-      "type": "tv_series",
-      "year": null,
-      "end_year": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "Middle schooler Lincoln Loud has to deal with his huge family with 10 sisters.",
-      "genres": [
-        "drama"
+      "production_companies": [
+        "Bir Film"
       ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": null,
-      "streaming_services": [
-        {
-          "service_id": 531,
-          "service_name": "Paramount+",
-          "type": "sub",
-          "region": "US"
-        }
+      "networks": [
+        "Netflix"
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 278382,
-      "relevance_score": 0.0495
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 93.81
     }
   ]
 }

@@ -1,65 +1,47 @@
 {
   "range": "289001-290000",
-  "updated_at": 1765651619733,
+  "updated_at": 1765831208818,
   "shows": [
     {
-      "id": 289356,
-      "title": "\u5317\u65b9\u8b19\u4e09 \u6c34\u6ef8\u4f1d",
+      "id": 289411,
+      "title": "LEGO Star Wars: Rebuild the Galaxy - Pieces of the Past",
       "type": "tv_series",
-      "year": 2026,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wrgkdR58V3IoEsF7eXE7OlQxCev.jpg",
-      "backdrop_url": null,
-      "plot_overview": "In a corrupt world, a low-ranking official named Song Jiang rises to fight for justice, uniting 108 outcasts under his banner to challenge the oppressive state in a desperate rebellion.",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ld6K4sIuTAlgAsIPYwW2yAvSz2m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gl5cdEsTrVqZOKcIAO9FKfyIFPM.jpg",
+      "plot_overview": "A new threat rises in the galaxy, and Sig Greebling and Darth Dev must combine their powers of Force Building and Sith Breaking to stop it. Alongside Jedi Bob, Yesi Scala and Servo, they will journey into the deepest corners of Lego Star Wars lore, uncovering pieces of all the galaxies that have come before.",
       "genres": [
-        "drama"
+        "Sci-Fi & Fantasy",
+        "Comedy",
+        "Action & Adventure",
+        "Animation",
+        "Family"
       ],
-      "user_rating": 0.0,
+      "user_rating": 6.308,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2026-02-15",
+      "release_date": "2025-09-19",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Coming Soon",
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 289356,
-      "relevance_score": 0.7176
-    },
-    {
-      "id": 289560,
-      "title": "CIA",
-      "type": "tv_series",
-      "year": 2026,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cxdAJBhgxKuYI47Gn0UVmkHoNsZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7UVA1nsvujClXKZHX8293moZSzB.jpg",
-      "plot_overview": "When two unlikely partners \u2013 a fast-talking, rule-breaking loose cannon CIA case officer, and a by-the-book, seasoned and smart FBI agent who believes in the rule of law \u2013 are assigned to work out of CIA's New York Station, they must learn to work together to investigate cases and criminals posing threats on U.S. soil, finding that their differences may actually be their strength.",
-      "genres": [
-        "crime",
-        "drama"
+      "tmdb_id": 289411,
+      "production_companies": [
+        "Lucasfilm Ltd.",
+        "The LEGO Group"
       ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2026-02-23",
-      "streaming_services": [
-        {
-          "service_id": 0,
-          "service_name": "Coming Soon",
-          "type": "sub",
-          "region": "US"
-        }
+      "networks": [
+        "Disney+"
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 289560,
-      "relevance_score": 1.4131
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 97.95
     }
   ]
 }

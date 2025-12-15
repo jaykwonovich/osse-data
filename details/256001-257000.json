@@ -1,25 +1,62 @@
 {
   "range": "256001-257000",
-  "updated_at": 1765830970612,
+  "updated_at": 1765831208810,
   "shows": [
     {
-      "id": 256961,
-      "title": "Paul Blart: Mall Cop 2",
-      "type": "movie",
-      "year": 2015,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qML63w7vgspicwLK6xXGLK17cM0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cVsmfmsuUWjM9EKhtmqxtPmQjQG.jpg",
-      "plot_overview": "Security guard Paul Blart is headed to Las Vegas to attend a Security Guard Expo with his teenage daughter Maya before she departs for college. While at the convention, he inadvertently discovers a heist - and it's up to Blart to apprehend the criminals.",
+      "id": 256317,
+      "title": "Countdown",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gcSNS5cy1iOmYawIdJCzoc873rQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4pxGvtwxDlATy9nvJMvYL8u25LZ.jpg",
+      "plot_overview": "When an officer with the Department of Homeland Security is murdered in broad daylight, LAPD detective Mark Meachum is recruited to a secret task force, alongside undercover agents from all branches of law enforcement, to investigate. But the hunt for the killer soon uncovers a plot far more sinister than anyone could have imagined, kicking off a race against time to save a city of millions.",
       "genres": [
-        "action",
-        "comedy",
-        "family"
+        "Crime",
+        "Mystery"
       ],
-      "user_rating": 5.179,
+      "user_rating": 7.308,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2015-04-16",
+      "release_date": "2025-06-25",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 256317,
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "relevance_score": 101.11,
+      "production_companies": [
+        "Amazon MGM Studios",
+        "Derek Haas Productions",
+        "Jax Media"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
+    },
+    {
+      "id": 256711,
+      "title": "The Rainmaker",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q8l0lj20amBFi0SBs8NI9yJpaHq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
+      "plot_overview": "Fresh out of law school, Rudy Baylor goes head to head with courtroom lion Leo Drummond as well as his law school girlfriend, Sarah. Rudy, along with his boss, Bruiser, and her disheveled paralegal, Deck, uncovers two connected conspiracies surrounding the mysterious death of their client's son.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-08-15",
       "streaming_services": [
         {
           "service_id": 386,
@@ -28,10 +65,97 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 256961,
-      "relevance_score": 9.3384
+      "tmdb_id": 256711,
+      "production_companies": [
+        "Lionsgate Television",
+        "Blumhouse Television",
+        "Maniac Productions",
+        "PKM Productions"
+      ],
+      "networks": [
+        "USA Network"
+      ],
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 101.72
+    },
+    {
+      "id": 256747,
+      "title": "Oh My God... Yes! A Series of Extremely Relatable Circumstances",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aKF3VLg0bV2bc2b1wexNWxy8a6J.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yXK0KSc89P5iTtoaFPXG9kNDoPU.jpg",
+      "plot_overview": "Follow three women \u2013 Sunny, Tulip, and Ladi \u2013 who live in the not-so-distant future of South Central LA as they navigate womanhood in an unpredictable, tech-driven world.",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "user_rating": 7.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-03-10",
+      "streaming_services": [
+        {
+          "service_id": 318,
+          "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 256747,
+      "service_name": "Starz",
+      "service_id": 318,
+      "relevance_score": 102.35,
+      "production_companies": [
+        "Six Point Harness",
+        "Williams Street",
+        "Undercooked Rice"
+      ],
+      "networks": [
+        "Adult Swim"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
+    },
+    {
+      "id": 256748,
+      "title": "Haha, You Clowns",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5baap1Y3pED0HltMRnUDW6w9Bny.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b0ms0pwRZql7bP8WaV83nV93Hjz.jpg",
+      "plot_overview": "Join the Campbell boys, three doting teenagers and their tenderhearted dad, as they live, laugh, love their way into your living rooms. They're big dudes with big feelings who are learning to navigate life in the wake of their mother's death, sensing her presence in everyday adventures.",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "user_rating": 8.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-19",
+      "streaming_services": [
+        {
+          "service_id": 318,
+          "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 256748,
+      "production_companies": [
+        "Williams Street"
+      ],
+      "networks": [
+        "Adult Swim"
+      ],
+      "service_name": "Starz",
+      "service_id": 318,
+      "relevance_score": 104.87,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

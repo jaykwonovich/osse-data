@@ -1,24 +1,23 @@
 {
   "range": "238001-239000",
-  "updated_at": 1765702770761,
+  "updated_at": 1765831208807,
   "shows": [
     {
-      "id": 238151,
-      "title": "Carol & the End of the World",
+      "id": 238458,
+      "title": "Cashero",
       "type": "tv_series",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/eqXQL8XGvL2tn2NfXKirBHQKo2d.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/psd3rxP1McFjpTfQVFCZLEP1vUd.jpg",
-      "plot_overview": "As a planetary apocalypse looms, a woman struggling to embrace end-times chaos searches for meaning in her last months on Earth.",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hFh4ThauKlFGlhQveVu1KVOq3Ac.jpg",
+      "plot_overview": "The ability to draw power from cash turns a salaryman into a hero. With quirky allies facing waves of villains, can he defeat evil on a tight budget?",
       "genres": [
-        "animation",
-        "comedy"
+        "Action & Adventure",
+        "Drama"
       ],
-      "user_rating": 7.4,
+      "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2023-12-15",
+      "release_date": "2025-12-26",
       "streaming_services": [
         {
           "service_id": 8,
@@ -27,40 +26,19 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 238151,
-      "relevance_score": 10.7566
-    },
-    {
-      "id": 238458,
-      "title": "Cashero",
-      "type": "tv_series",
-      "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hFh4ThauKlFGlhQveVu1KVOq3Ac.jpg",
-      "plot_overview": "The ability to draw power from cash turns a salaryman into a hero. With quirky allies facing waves of villains, can he defeat evil on a tight budget?",
-      "genres": [
-        "action",
-        "drama"
-      ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-12-26",
-      "streaming_services": [
-        {
-          "service_id": 0,
-          "service_name": "Coming Soon",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 238458,
-      "relevance_score": 4.0778
+      "production_companies": [
+        "DramaHouse",
+        "SLL"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
     }
   ]
 }

@@ -1,25 +1,23 @@
 {
   "range": "253001-254000",
-  "updated_at": 1765830970612,
+  "updated_at": 1765831208809,
   "shows": [
     {
-      "id": 253811,
-      "title": "Tougen Anki",
+      "id": 253376,
+      "title": "The Girlfriend",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "plot_overview": "After a Momotaro assassin suddenly kills his adoptive father, Shiki vows to avenge him. But first, he must learn to control his newly awakened Oni blood.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ktrp3tdZ5IQpFux4nLy8z70bt3n.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lnVWmFvLv2pTZGsuAJytiqKu541.jpg",
+      "plot_overview": "Laura has it all: a glittering career, a loving husband, and her precious son, Daniel. But her perfect life unravels when Daniel brings home Cherry, a girlfriend who changes everything. After a tense introduction, Laura becomes convinced Cherry is hiding something. Is she a manipulative social climber, or is Laura just paranoid? The truth is a matter of perspective.",
       "genres": [
-        "animation",
-        "mystery",
-        "action"
+        "Drama",
+        "Mystery"
       ],
-      "user_rating": 8.083,
+      "user_rating": 7.107,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-07-11",
+      "release_date": "2025-09-10",
       "streaming_services": [
         {
           "service_id": 9,
@@ -28,10 +26,105 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
+      "tmdb_id": 253376,
+      "production_companies": [
+        "The Imaginarium",
+        "Amazon MGM Studios"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 100.48
+    },
+    {
+      "id": 253811,
+      "title": "Tougen Anki",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "plot_overview": "After a Momotaro assassin suddenly kills his adoptive father, Shiki vows to avenge him. But first, he must learn to control his newly awakened Oni blood.",
+      "genres": [
+        "Animation",
+        "Mystery",
+        "Action & Adventure"
+      ],
+      "user_rating": 8.083,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-07-11",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
       "tmdb_id": 253811,
-      "relevance_score": 28.426
+      "service_name": "Netflix",
+      "service_id": 8,
+      "relevance_score": 103.56,
+      "production_companies": [
+        "Pony Canyon",
+        "Studio Hibari",
+        "dentsu",
+        "Nippon Television Network Corporation",
+        "Akita Shoten"
+      ],
+      "networks": [
+        "Nippon TV"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
+    },
+    {
+      "id": 253941,
+      "title": "The Paper",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qtMVO0McAXN4IV30SMFAVmXraBL.jpg",
+      "plot_overview": "The documentary crew that immortalized Dunder Mifflin's Scranton branch is in search of a new subject when they discover a historic Toledo newspaper, The Truth Teller, and the eager publisher trying to revive it.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.045,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-09-04",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 253941,
+      "production_companies": [
+        "Universal Television",
+        "Banijay Americas",
+        "Deedle-Dee Productions"
+      ],
+      "networks": [
+        "Peacock"
+      ],
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 100.28
     }
   ]
 }

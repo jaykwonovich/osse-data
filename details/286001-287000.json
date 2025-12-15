@@ -1,66 +1,44 @@
 {
   "range": "286001-287000",
-  "updated_at": 1765830970615,
+  "updated_at": 1765831208817,
   "shows": [
     {
-      "id": 286217,
-      "title": "The Martian",
-      "type": "movie",
-      "year": 2015,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sq8oUjbBvKkqv9h0Ns5rQbbquhZ.jpg",
-      "plot_overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
-      "genres": [
-        "drama",
-        "adventure",
-        "sci-fi"
-      ],
-      "user_rating": 7.691,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2015-09-30",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 286217,
-      "relevance_score": 11.0377
-    },
-    {
-      "id": 286277,
-      "title": "\u6c6a\u6c6a\u961f",
+      "id": 286801,
+      "title": "Monster: The Ed Gein Story",
       "type": "tv_series",
-      "year": null,
-      "end_year": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cm2oUAPiTE1ERoYYOzzgloQw4YZ.jpg",
+      "plot_overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
       "genres": [
-        "drama"
+        "Drama",
+        "Crime"
       ],
-      "user_rating": 0.0,
+      "user_rating": 7.297,
       "critic_score": null,
       "us_rating": null,
-      "release_date": null,
+      "release_date": "2025-10-03",
       "streaming_services": [
         {
-          "service_id": 531,
-          "service_name": "Paramount+",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 286277,
-      "relevance_score": 0.0505
+      "tmdb_id": 286801,
+      "production_companies": [
+        "Ryan Murphy Television",
+        "Prospect Films"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 101.08
     }
   ]
 }

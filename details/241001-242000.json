@@ -1,66 +1,123 @@
 {
   "range": "241001-242000",
-  "updated_at": 1765830970611,
+  "updated_at": 1765831208808,
   "shows": [
     {
-      "id": 241554,
-      "title": "Murderbot",
+      "id": 241372,
+      "title": "56 Days",
       "type": "tv_series",
-      "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mIKfKo2uDk3itzAPYIcSeYr4KtF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/if4r7bXrDH50GhNwCo3Bz8F2LOg.jpg",
-      "plot_overview": "In a high-tech future, a rogue security robot secretly gains free will. To stay hidden, it reluctantly joins a new mission protecting scientists on a dangerous planet...even though it just wants to binge soap operas.",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lcE9821q8S8u27muh9Eqidat1QW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/t6vi9YO9ruOlzMe5HBfy9IJTc1J.jpg",
+      "plot_overview": "After meeting randomly in a supermarket, Oliver and Ciara fall for each other fast, and dangerously hard. Fifty-six days later, homicide investigators arrive at Oliver's apartment to find an unidentified body\u2014brutally murdered and intentionally decomposed.",
       "genres": [
-        "comedy",
-        "drama",
-        "sci-fi"
+        "Crime",
+        "Drama",
+        "Mystery"
       ],
-      "user_rating": 7.288,
+      "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-05-15",
+      "release_date": "2026-02-18",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 241554,
-      "relevance_score": 11.1491
+      "tmdb_id": 241372,
+      "production_companies": [
+        "Atomic Monster",
+        "Amazon MGM Studios"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
     },
     {
-      "id": 241609,
-      "title": "Your Friends & Neighbors",
+      "id": 241388,
+      "title": "Eyes of Wakanda",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5Red8BT8N0YaWumXMQhuoGP40Ox.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8NX2kBLHS6vSrl8Lg3Y2JAqzmy9.jpg",
-      "plot_overview": "When a financial titan suddenly finds himself divorced and jobless, he starts robbing his wealthy neighbors to stay afloat. Stealing from his own social circle strangely exhilarates him\u2014but he gradually gets tangled in a deadly web.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cWO5NDkKqpOuwxu4vFc4PtL8aNF.jpg",
+      "plot_overview": "Follow the adventures of brave Wakandan warriors throughout history in this globe-trotting adventure, where they must carry out dangerous missions to retrieve Vibranium artifacts from the enemies of Wakanda. They are the Hatut Zaraze and this is their story.",
       "genres": [
-        "drama"
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.349,
+      "user_rating": 5.985,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-04-10",
+      "release_date": "2025-08-01",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 241609,
-      "relevance_score": 9.1736
+      "tmdb_id": 241388,
+      "service_name": "Disney+",
+      "service_id": 337,
+      "relevance_score": 96.93,
+      "production_companies": [
+        "Proximity Media",
+        "Marvel Studios",
+        "Axis Studios"
+      ],
+      "networks": [
+        "Disney+"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
+    },
+    {
+      "id": 241576,
+      "title": "Had I Not Seen the Sun",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uY4ETb9evtpvjJiXKpgh21cOBno.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b9nrdh1VaspBckmaDwftW4mcOyC.jpg",
+      "plot_overview": "Filmmaker Zhou Pin-yu interviews a serial killer in prison \u2014 an encounter that triggers a string of mysterious events tied to a buried past.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-11-13",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 241576,
+      "production_companies": [
+        "Make A Deal International Production Co., Ltd."
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 102.03
     }
   ]
 }

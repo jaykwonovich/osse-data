@@ -1,25 +1,60 @@
 {
   "range": "297001-298000",
-  "updated_at": 1765830970616,
+  "updated_at": 1765831208819,
   "shows": [
     {
-      "id": 297762,
-      "title": "Wonder Woman",
-      "type": "movie",
-      "year": 2017,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
-      "plot_overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+      "id": 297266,
+      "title": "Songs & Stories with Kelly Clarkson",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zvQXDRvNy9F1jFXRXqK7OB3Mi75.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dyOxfUNy2NT3qxMqobfRwaOhvJl.jpg",
+      "plot_overview": "The three-time Grammy winner will chat with Gloria Estefan, Jonas Brothers, Lizzo, and Teddy Swims about music as well as their personal lives, giving viewers a \u201ca front-row pass\u201d at their \u201cunfiltered\u201d conversations. The four-episode special will also feature musical performances in an \u201cintimate, unplugged setting.",
       "genres": [
-        "action",
-        "adventure",
-        "fantasy"
+        "Reality",
+        "Talk"
       ],
-      "user_rating": 7.214,
+      "user_rating": 10.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2017-05-30",
+      "release_date": "2025-08-19",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 297266,
+      "production_companies": [
+        "Universal Television"
+      ],
+      "networks": [
+        "NBC"
+      ],
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 109.59
+    },
+    {
+      "id": 297306,
+      "title": "Marcial Maciel: The Wolf of God",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tCc4SPjMtFGIT6KWlG6XqgzKOSd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b0mZzFVmHwudFgI4uLvxvRnLPUV.jpg",
+      "plot_overview": "A docuseries that reveals the decades of abuse and deception of Father Marcial Maciel, the infamous leader of the Legionaries of Christ.",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "user_rating": 8.553,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-08-14",
       "streaming_services": [
         {
           "service_id": 1899,
@@ -28,10 +63,16 @@
           "region": "US"
         }
       ],
+      "tmdb_id": 297306,
+      "production_companies": [
+        "Anima Films"
+      ],
       "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 297762,
-      "relevance_score": 15.4372
+      "service_name": "Max",
+      "service_id": 1899,
+      "relevance_score": 105.04,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

@@ -1,64 +1,47 @@
 {
   "range": "275001-276000",
-  "updated_at": 1765830970614,
+  "updated_at": 1765831208815,
   "shows": [
     {
-      "id": 275189,
-      "title": "Blue Bloods",
+      "id": 275722,
+      "title": "Vampirina: Teenage Vampire",
       "type": "tv_series",
-      "year": null,
-      "end_year": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "Based on Melissa De La Cruz\u2018s best-selling Blue Bloods books, which are set in a version of New York City that is ruled by an elite group of immortal vampires.",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2o2jksVjFNOhs8NcDuUP6jhR1GP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m54fpF9Enq74G3liicywY1CzY2x.jpg",
+      "plot_overview": "Follow a tween vampire girl who leaves the safety of Transylvania to attend a performing arts boarding school. Living amongst humans for the first time, she pursues her passion for music while keeping her vampire identity a secret, something that\u2019s made more challenging when her overprotective father charges an overzealous ghost to live with her at the school.",
       "genres": [
-        "drama"
+        "Sci-Fi & Fantasy",
+        "Comedy"
       ],
-      "user_rating": 0.0,
+      "user_rating": 6.667,
       "critic_score": null,
       "us_rating": null,
-      "release_date": null,
+      "release_date": "2025-09-12",
       "streaming_services": [
         {
-          "service_id": 531,
-          "service_name": "Paramount+",
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 275189,
-      "relevance_score": 0.0071
-    },
-    {
-      "id": 275549,
-      "title": "\u4e50\u9ad8\u57ce\u5e02\u5927\u5192\u9669",
-      "type": "tv_series",
-      "year": 2022,
-      "end_year": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "",
-      "genres": [
-        "drama"
+      "tmdb_id": 275722,
+      "production_companies": [
+        "It's a Laugh Productions",
+        "Little Lion Productions",
+        "Cross Hoge Productions",
+        "Chorus Boy",
+        "Disney Branded Television"
       ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2022-11-01",
-      "streaming_services": [
-        {
-          "service_id": 531,
-          "service_name": "Paramount+",
-          "type": "sub",
-          "region": "US"
-        }
+      "networks": [
+        "Disney Channel"
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 275549,
-      "relevance_score": 0.0569
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 99.09
     }
   ]
 }

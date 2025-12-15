@@ -1,66 +1,46 @@
 {
   "range": "247001-248000",
-  "updated_at": 1765830970611,
+  "updated_at": 1765831208809,
   "shows": [
     {
-      "id": 247073,
-      "title": "\u65e0\u654c\u9e7f\u6218\u961f(\u82f1\u6587\u7248)",
-      "type": "tv_series",
-      "year": 2020,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8SgRUUyNqJfXzNeMJbVcaB70lNZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vkFz2raWJrIlBqTOaOC2mvr9X8A.jpg",
-      "plot_overview": "",
-      "genres": [
-        "animation",
-        "family"
-      ],
-      "user_rating": 10.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2020-07-05",
-      "streaming_services": [
-        {
-          "service_id": 531,
-          "service_name": "Paramount+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 247073,
-      "relevance_score": 0.0143
-    },
-    {
-      "id": 247767,
-      "title": "The Studio",
+      "id": 247168,
+      "title": "Chad Powers",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2c6ofLTa5CRfeQjVA1bWiYBdxQN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aSOrTfmIL211gjenXoRzvBoxgYv.jpg",
-      "plot_overview": "Desperate for celebrity approval, the newly appointed head of a movie studio and his executive team at Continental Studios must juggle corporate demands with creative ambitions as they try to keep movies alive and relevant.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wgMS8irQKfMrR6mJhKtK6vbxDTC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lu4HO4kJx2aZzVgjoRcF9vYPaFI.jpg",
+      "plot_overview": "Eight years after an unforgivable mistake nukes his promising college football career, hotshot quarterback Russ Holliday tries to resurrect his dreams by disguising himself as Chad Powers - a talented oddball who walks on to the struggling South Georgia Catfish.",
       "genres": [
-        "comedy",
-        "drama"
+        "Comedy"
       ],
-      "user_rating": 7.633,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-03-25",
+      "release_date": "2025-09-30",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 247767,
-      "relevance_score": 9.9749
+      "tmdb_id": 247168,
+      "production_companies": [
+        "Omaha Productions",
+        "ESPN",
+        "Anomaly Pictures",
+        "20th Television",
+        "BarnStorm Productions"
+      ],
+      "networks": [
+        "Hulu"
+      ],
+      "service_name": "Hulu",
+      "service_id": 15,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 103.92
     }
   ]
 }

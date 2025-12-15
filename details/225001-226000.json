@@ -1,19 +1,16 @@
 {
   "range": "225001-226000",
-  "updated_at": 1765830970609,
+  "updated_at": 1765831208805,
   "shows": [
     {
       "id": 225091,
       "title": "Love & Hip Hop Atlanta: Run It Back",
       "type": "tv_series",
       "year": 2023,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/38Sn8ELAmUyvy6Z7Ieoc80se4dZ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2Cfemt6zUfI4YToUGSngqJjTQUG.jpg",
       "plot_overview": "The Love & Hip Hop OGs run it back to Season 1 of Love & Hip Hop Atlanta, offering hilarious and reflective insider commentary on early episodes.",
-      "genres": [
-        "drama"
-      ],
+      "genres": [],
       "user_rating": 9.2,
       "critic_score": null,
       "us_rating": null,
@@ -26,23 +23,28 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 225091,
-      "relevance_score": 0.0617
+      "service_name": "Paramount+",
+      "service_id": 531,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 96.55,
+      "production_companies": [],
+      "networks": [
+        "MTV"
+      ]
     },
     {
       "id": 225171,
       "title": "Pluribus",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
       "plot_overview": "The most miserable person on Earth must save the world from happiness.",
       "genres": [
-        "drama",
-        "sci-fi"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
       "user_rating": 7.974,
       "critic_score": null,
@@ -54,12 +56,28 @@
           "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 225171,
-      "relevance_score": 105.8331
+      "production_companies": [
+        "Sony Pictures Television",
+        "High Bridge Productions",
+        "Bristol Circle Entertainment"
+      ],
+      "networks": [
+        "Apple TV"
+      ],
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 103.21
     }
   ]
 }

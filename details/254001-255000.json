@@ -1,19 +1,53 @@
 {
   "range": "254001-255000",
-  "updated_at": 1765830970612,
+  "updated_at": 1765831208810,
   "shows": [
+    {
+      "id": 254071,
+      "title": "Steal",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uVOzZI9HWLTMvzl4nXvp7B8WZLX.jpg",
+      "plot_overview": "A typical work day at a pension fund investment company, Lochmill Capital, is upended when a gang of violent thieves burst in and force Zara and her best mate Luke to execute their demands. But who would steal billions of pounds of ordinary people\u2019s pensions and why? DCI Rhys is determined to find out, but as a recently relapsed gambling addict, Rhys must keep his own money problems at bay while dealing with the secret agendas and competing interests at the center of this far-reaching crime.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-01-21",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 254071,
+      "production_companies": [
+        "Drama Republic",
+        "Amazon MGM Studios"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
+    },
     {
       "id": 254302,
       "title": "Fuori le prove! - Indagini ai confini della realt\u00e0",
       "type": "tv_series",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/qIgK2W3mWc4PW7Annmoe7d7ZMdZ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qLw5Ayds6AZRPs9ofbd9ze6vxJ9.jpg",
       "plot_overview": "",
-      "genres": [
-        "drama"
-      ],
+      "genres": [],
       "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
@@ -26,23 +60,62 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 254302,
-      "relevance_score": 0.0379
+      "service_name": "Paramount+",
+      "service_id": 531,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 67.08,
+      "production_companies": [],
+      "networks": []
+    },
+    {
+      "id": 254482,
+      "title": "The Vendetta of An",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vMwB4BNicfWJl0JhU7YQApcoiHE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/khHpr9W9cZ7mlQGvabC2IeG69pg.jpg",
+      "plot_overview": "Xie Huai'an, son of the Huben Army's creator, survives his family's massacre. After ten long years in hiding, he returns to Chang'an disguised as a lowly registrar, moving step by step through jianghu clashes and palace power plays in a tense battle of wits to avenge his family and safeguard the realm.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 10.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-12-12",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 254482,
+      "production_companies": [
+        "H&R Century Pictures",
+        "Youku"
+      ],
+      "networks": [
+        "Youku"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "relevance_score": 109.59,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     },
     {
       "id": 254741,
       "title": "\u767e\u6218\u5929\u9f99",
       "type": "tv_series",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/vr0A3BHAL7CdQUjQhPVeLoqWL13.jpg",
       "backdrop_url": null,
       "plot_overview": "",
-      "genres": [
-        "drama"
-      ],
+      "genres": [],
       "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
@@ -55,10 +128,14 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 254741,
-      "relevance_score": 0.0379
+      "service_name": "Paramount+",
+      "service_id": 531,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 67.08,
+      "production_companies": [],
+      "networks": []
     }
   ]
 }

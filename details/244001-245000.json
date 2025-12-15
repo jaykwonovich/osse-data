@@ -1,24 +1,23 @@
 {
   "range": "244001-245000",
-  "updated_at": 1765830970611,
+  "updated_at": 1765831208808,
   "shows": [
     {
-      "id": 244786,
-      "title": "Whiplash",
-      "type": "movie",
-      "year": 2014,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1kuYEvLkX2nTkbfzN6X0w0xQFQU.jpg",
-      "plot_overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+      "id": 244244,
+      "title": "Run Away",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/btmvtGsVZZUvJoWGGtzPaBOGEgr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+      "plot_overview": "Simon had the perfect life: loving wife and kids, great job, beautiful home. But then his eldest daughter Paige ran away and everything fell apart. So now when he finds her, vulnerable and strung out on drugs in a city park, he finally has the chance to bring his little girl home.",
       "genres": [
-        "drama",
-        "music"
+        "Drama",
+        "Mystery"
       ],
-      "user_rating": 8.375,
+      "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2014-10-10",
+      "release_date": "2026-01-01",
       "streaming_services": [
         {
           "service_id": 8,
@@ -27,10 +26,57 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 244786,
-      "relevance_score": 17.4375
+      "tmdb_id": 244244,
+      "production_companies": [
+        "Quay Street Productions",
+        "Final Twist Productions"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
+    },
+    {
+      "id": 244416,
+      "title": "Malice",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fKhHzRk1VIJY1nz1cRhAfAaYfnA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sFcJMla4niXDeOXrrE8StmjzUmt.jpg",
+      "plot_overview": "A charming tutor infiltrates a wealthy family's life, revealing a sinister agenda.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-11-14",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 244416,
+      "production_companies": [
+        "Expectation TV",
+        "Tailspin Films"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 100.45
     }
   ]
 }

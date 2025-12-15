@@ -1,18 +1,17 @@
 {
   "range": "301001-302000",
-  "updated_at": 1765830970616,
+  "updated_at": 1765831208820,
   "shows": [
     {
       "id": 301507,
       "title": "Heated Rivalry",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/epgr7n61vVIniyAghz2GYj22DkC.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
       "plot_overview": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport's expectations.",
       "genres": [
-        "drama"
+        "Drama"
       ],
       "user_rating": 8.4,
       "critic_score": null,
@@ -26,10 +25,18 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 301507,
-      "relevance_score": 66.8762
+      "production_companies": [
+        "Accent Aigu Entertainment"
+      ],
+      "networks": [
+        "Crave"
+      ],
+      "service_name": "Max",
+      "service_id": 1899,
+      "relevance_score": 104.56,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

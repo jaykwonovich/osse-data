@@ -1,35 +1,44 @@
 {
   "range": "229001-230000",
-  "updated_at": 1765830970610,
+  "updated_at": 1765831208806,
   "shows": [
     {
-      "id": 229311,
-      "title": "Tough as Nails",
+      "id": 229891,
+      "title": "Can This Love Be Translated?",
       "type": "tv_series",
-      "year": 2010,
-      "end_year": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "Cindy Stumpo is one of Boston's best luxury home builders. And even with the recession in full swing, she's as busy as ever. When her broker tells her the time is right to list her 90 Brookline property, Cindy and her team race against the clock to finish construction in time for a broker's Open House. But between managing her crew, dealing with her ex-husband, and training her daughter to one day take over the business, Cindy has got her work cut out for her.",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oGt5UNY4lOWYRcEi41VFN8Uyyyf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m1rBIr615iAZU034zd8cX0y0iUK.jpg",
+      "plot_overview": "A master interpreter faces his toughest task yet: unraveling the whimsical heart of a celebrity. Can he translate emotions into the language of love?",
       "genres": [
-        "drama"
+        "Drama",
+        "Comedy"
       ],
       "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2010-03-18",
+      "release_date": "2026-01-16",
       "streaming_services": [
         {
-          "service_id": 531,
-          "service_name": "Paramount+",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 229311,
-      "relevance_score": 0.0214
+      "tmdb_id": 229891,
+      "production_companies": [
+        "\uc774\ub9e4\uc9c0\ub108\uc2a4",
+        "\ud2b8\ub9ac\uc2a4\ud29c\ub514\uc624"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
     }
   ]
 }

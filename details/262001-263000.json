@@ -1,36 +1,84 @@
 {
   "range": "262001-263000",
-  "updated_at": 1765702700577,
+  "updated_at": 1765831208814,
   "shows": [
     {
-      "id": 262928,
-      "title": "Love in the Clouds",
+      "id": 262259,
+      "title": "Wandance",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jsQYb6yXT6ZnEZ6KMMA1sChxPrb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/740EohtgbVDXsiaEoDJPc1k0tVX.jpg",
-      "plot_overview": "At the annual Qingyun Conference in the Hexu Six Realms, Ji Bozai, a warrior from the Jixing Abyss with a past as a convict, defeated Ming Yi, the cold warrior goddess who had reigned supreme for seven consecutive years. Overnight, Ji Bozai became the hottest new star in Jixing Abyss. Meanwhile, Ming Yi, hiding her true identity, disguised herself as a dancer to get close to Ji Bozai. Under their carefully crafted personas, the two engaged in a thrilling dance of deception and attraction, fighti",
+      "poster_url": "https://image.tmdb.org/t/p/w342/tb09vxLJ5yf7pMbmWqRvWE6bL5y.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b6ZtSMxji30liJBCDViqqcK3gPD.jpg",
+      "plot_overview": "Kabo is a high school student with a stutter who struggles to express his feelings. He finds himself drawn to his classmate Wanda, who pursues dance without worrying about how others see her. Seeking a form of freestyle expression, Kabo takes on the unfamiliar world of dance.",
       "genres": [
-        "drama",
-        "sci-fi"
+        "Animation",
+        "Drama"
       ],
-      "user_rating": 8.0,
+      "user_rating": 7.429,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-10-08",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 262928,
-      "relevance_score": 17.9026
+      "tmdb_id": 262259,
+      "production_companies": [
+        "Kodansha",
+        "Madhouse",
+        "CYCLONE GRAPHICS",
+        "Asmik Ace",
+        "TV Asahi"
+      ],
+      "networks": [
+        "tv asahi"
+      ],
+      "service_name": "Hulu",
+      "service_id": 15,
+      "relevance_score": 101.49,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
+    },
+    {
+      "id": 262793,
+      "title": "PONIES",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/174R02eQQ9NKPC3GxUn0WyWdN29.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hwdOFFLj62XZ7guOpM9I2yAJJRw.jpg",
+      "plot_overview": "Moscow, 1977. Two 'PONIES' ('persons of no interest' in intelligence speak) work anonymously as secretaries in the American Embassy. That is until their husbands are killed under mysterious circumstances in the USSR, and the pair become CIA operatives. Bea is an over-educated, Russian-speaking child of Soviet immigrants. Her cohort, Twila, is a small-town girl who is as abrasive as she is fearless. Together, they work to uncover a vast Cold War conspiracy and solve the mystery that made them wid",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-01-15",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 262793,
+      "production_companies": [
+        "Pacesetter Productions",
+        "Universal Television"
+      ],
+      "networks": [
+        "Peacock"
+      ],
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
     }
   ]
 }

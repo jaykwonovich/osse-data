@@ -1,36 +1,90 @@
 {
   "range": "248001-249000",
-  "updated_at": 1765830970611,
+  "updated_at": 1765831208809,
   "shows": [
     {
-      "id": 248830,
-      "title": "Stick",
+      "id": 248416,
+      "title": "The Twisted Tale of Amanda Knox",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pr1vZU0cxyWEtrXSaozLZiLFfxr.jpg",
-      "plot_overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi\u2014a teenage phenom with immense potential\u2014and maybe save himself.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/udxkpbqBsVS4Hnrfn4HabDKKxb5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iLzaLdkva7wUV9HMyykaHFUFHKA.jpg",
+      "plot_overview": "Amanda Knox arrives in Italy for her study abroad only to be wrongfully imprisoned for murder weeks later. Follow Knox's relentless fight to prove her innocence and reclaim her freedom and examines why authorities and the world stood so firmly in judgment.",
       "genres": [
-        "comedy",
-        "drama"
+        "Drama"
       ],
-      "user_rating": 7.199,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-06-03",
+      "release_date": "2025-08-20",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 248830,
-      "relevance_score": 6.0692
+      "tmdb_id": 248416,
+      "production_companies": [
+        "The Littlefield Company",
+        "20th Television",
+        "Alt Ending Productions",
+        "Good Talk Productions"
+      ],
+      "networks": [
+        "Hulu"
+      ],
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 101.09
+    },
+    {
+      "id": 248833,
+      "title": "The Runarounds",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/653V492dSynzQcSDPubzZLJAjkf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oyr8vPGD66eNqruV3LjoI72UNxl.jpg",
+      "plot_overview": "Follow a tight-knit group of young adults from all walks of life who come together to form a rock band the summer after graduating from high school. Set against the backdrop of Wilmington, North Carolina, The Runarounds must choose between succumbing to the pressures of real life or risking everything to become the greatest band of all time.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.946,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-09-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 248833,
+      "production_companies": [
+        "Skydance Television",
+        "Amazon MGM Studios"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 103.12
     }
   ]
 }

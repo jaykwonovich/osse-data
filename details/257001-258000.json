@@ -1,55 +1,23 @@
 {
   "range": "257001-258000",
-  "updated_at": 1765830970612,
+  "updated_at": 1765831208812,
   "shows": [
     {
-      "id": 257247,
-      "title": "\u767e\u6218\u5929\u9f99",
+      "id": 257534,
+      "title": "Devil in Disguise: John Wayne Gacy",
       "type": "tv_series",
-      "year": null,
-      "end_year": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kG2mHHu136bviY53DDpnsyVNKuA.jpg",
+      "plot_overview": "When a teenager goes missing, it becomes clear that many young men and boys have disappeared at the hands of John Wayne Gacy, the prime suspect.",
       "genres": [
-        "drama"
+        "Crime",
+        "Drama"
       ],
-      "user_rating": 0.0,
+      "user_rating": 7.195,
       "critic_score": null,
       "us_rating": null,
-      "release_date": null,
-      "streaming_services": [
-        {
-          "service_id": 531,
-          "service_name": "Paramount+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 257247,
-      "relevance_score": 0.0071
-    },
-    {
-      "id": 257344,
-      "title": "Pixels",
-      "type": "movie",
-      "year": 2015,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/41Y3h2FVfoU4baFdTZwRrlD4MDM.jpg",
-      "plot_overview": "Video game experts are recruited by the military to fight 1980s-era video game characters who've attacked New York.",
-      "genres": [
-        "action",
-        "comedy",
-        "sci-fi",
-        "fantasy"
-      ],
-      "user_rating": 5.762,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2015-07-16",
+      "release_date": "2025-10-16",
       "streaming_services": [
         {
           "service_id": 386,
@@ -58,39 +26,19 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 257344,
-      "relevance_score": 8.5967
-    },
-    {
-      "id": 257945,
-      "title": "Vietnam: The War That Changed America",
-      "type": "tv_series",
-      "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lJiG3rmP8smQ415jJ0J0SG0sDtU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tpxyzbYvSFTYsYWzLr4Yfr5FDEK.jpg",
-      "plot_overview": "The reunion of old friends, first-person accounts, and rarely seen footage paint an extraordinary and deeply profound picture of what it was like to live through one of history's longest wars.",
-      "genres": [
-        "documentary"
+      "tmdb_id": 257534,
+      "production_companies": [
+        "NBC News Studios",
+        "Littleton Road Productions"
       ],
-      "user_rating": 8.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-01-31",
-      "streaming_services": [
-        {
-          "service_id": 350,
-          "service_name": "Apple TV+",
-          "type": "sub",
-          "region": "US"
-        }
+      "networks": [
+        "Peacock"
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 257945,
-      "relevance_score": 7.2878
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 100.75
     }
   ]
 }

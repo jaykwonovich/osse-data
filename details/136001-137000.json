@@ -1,80 +1,19 @@
 {
   "range": "136001-137000",
-  "updated_at": 1765830970603,
+  "updated_at": 1765831208801,
   "shows": [
-    {
-      "id": 136311,
-      "title": "Shrinking",
-      "type": "tv_series",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cVmrNYgm5wcEexbXg4laNn3u4vq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hI9z1UuNhBthvkm3iJ8m3zv43Pf.jpg",
-      "plot_overview": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty. Will it make things better\u2014or unleash uproarious chaos?",
-      "genres": [
-        "drama",
-        "comedy"
-      ],
-      "user_rating": 7.78,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2023-01-26",
-      "streaming_services": [
-        {
-          "service_id": 350,
-          "service_name": "Apple TV+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 136311,
-      "relevance_score": 12.2026
-    },
-    {
-      "id": 136315,
-      "title": "The Bear",
-      "type": "tv_series",
-      "year": 2022,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wHNwlE6ftEpgjVbdhLXOtv1hLs0.jpg",
-      "plot_overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
-      "genres": [
-        "drama",
-        "comedy"
-      ],
-      "user_rating": 8.167,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2022-06-23",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 136315,
-      "relevance_score": 27.8365
-    },
     {
       "id": 136342,
       "title": "Disney Twisted-Wonderland: The Animation",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/4hT2pA7J7uvdlNZzYIHQzapXCY6.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/27ntwTTA3ygsktcwiJYcximegwb.jpg",
       "plot_overview": "High school student Yu is suddenly transported to Twisted-Wonderland, a world of magic and wonder. Now, he must face monsters, whimsical magicians-in-training, and mysterious incidents, all without any magic of his own. Will Yu ever find a way back to his own world?",
       "genres": [
-        "animation",
-        "action",
-        "sci-fi"
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
       "user_rating": 8.4,
       "critic_score": null,
@@ -86,41 +25,27 @@
           "service_name": "Disney+",
           "type": "sub",
           "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 136342,
-      "relevance_score": 15.1916
-    },
-    {
-      "id": 136741,
-      "title": "Roar",
-      "type": "tv_series",
-      "year": 2022,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/eht88y50jvgWCI3Q0Sfyu4o3ad1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cjdaCA52l0Qekpvj2n6Cv1KfTdF.jpg",
-      "plot_overview": "Featuring an all-star cast, this genre-bending anthology series weaves together eight darkly comedic feminist fables that take unexpected approaches to subjects like gender roles, autonomy, and identity.",
-      "genres": [
-        "drama"
-      ],
-      "user_rating": 5.583,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2022-04-14",
-      "streaming_services": [
+        },
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 136741,
-      "relevance_score": 6.6714
+      "tmdb_id": 136342,
+      "production_companies": [
+        "Yumeta Company",
+        "Graphinica"
+      ],
+      "networks": [
+        "Disney+"
+      ],
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 104.56
     }
   ]
 }

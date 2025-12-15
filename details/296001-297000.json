@@ -1,36 +1,81 @@
 {
   "range": "296001-297000",
-  "updated_at": 1765830970616,
+  "updated_at": 1765831208819,
   "shows": [
     {
-      "id": 296096,
-      "title": "Me Before You",
-      "type": "movie",
-      "year": 2016,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
-      "plot_overview": "A small town girl is caught between dead-end jobs. A high-profile, successful man becomes wheelchair bound following an accident. The man decides his life is not worth living until the girl is hired for six months to be his new caretaker. Worlds apart and trapped together by circumstance, the two get off to a rocky start. But the girl becomes determined to prove to the man that life is worth living and as they embark on a series of adventures together, each finds their world changing in ways nei",
+      "id": 296579,
+      "title": "Stumble",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bk6vVD3WQZgHeNlaGhqICBfjd9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8bXKgKyk6qKZzfOdWLuBuVJA8FT.jpg",
+      "plot_overview": "Courteney Potter is determined to rally her newly recruited junior college cheer squad to win her record-breaking 15th championship and improve their lives along the way.",
       "genres": [
-        "drama",
-        "romance"
+        "Comedy"
       ],
-      "user_rating": 7.924,
+      "user_rating": 6.333,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2016-06-01",
+      "release_date": "2025-11-07",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 296096,
-      "relevance_score": 15.9927
+      "tmdb_id": 296579,
+      "production_companies": [
+        "Defining Eve Productions",
+        "Universal Television"
+      ],
+      "networks": [
+        "NBC"
+      ],
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 98.03
+    },
+    {
+      "id": 296976,
+      "title": "KPOPPED",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gIOJfyABw8QWjvRT1BfkPyoBISe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/h2sZ6klVi4wj695IPhvJyo4Rhhv.jpg",
+      "plot_overview": "Global music icons team up with world-renowned K-pop idols for spectacular song battles. Performing their biggest hits with a K-pop twist, these artists show up, show out, and shut it down in a friendly competition for the ultimate bragging rights.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 3.429,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-08-28",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 296976,
+      "production_companies": [
+        "CJ ENM",
+        "Eureka Productions",
+        "RichLion Productions"
+      ],
+      "networks": [
+        "Apple TV"
+      ],
+      "service_name": "Apple TV+",
+      "service_id": 350,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 88.82
     }
   ]
 }

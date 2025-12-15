@@ -1,37 +1,122 @@
 {
   "range": "228001-229000",
-  "updated_at": 1765830970609,
+  "updated_at": 1765831208806,
   "shows": [
     {
-      "id": 228150,
-      "title": "Fury",
-      "type": "movie",
-      "year": 2014,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
-      "plot_overview": "April, 1945. As the Allies make their final push in the European Theatre, a battle-hardened army sergeant named Wardaddy commands a Sherman tank and her five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, and with a rookie soldier thrust into their platoon, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
+      "id": 228056,
+      "title": "Luann and Sonja: Welcome to Crappie Lake",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jrirA7N4SniDlISMJLsOACyJAot.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eaBMuRGMQTtoNLOHT8e4z74wfID.jpg",
+      "plot_overview": "The Benton City Council surprises the town residents by inviting \u201cReal Housewives\u201d icons Luann de Lesseps and Sonja Morgan to help spruce up their small town that was devastated by the pandemic, which has a population just shy of 7,000.",
       "genres": [
-        "war",
-        "drama",
-        "action"
+        "Reality"
       ],
-      "user_rating": 7.54,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2014-10-15",
+      "release_date": "2023-07-09",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 365,
+          "service_name": "MGM+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 228150,
-      "relevance_score": 14.6575
+      "tmdb_id": 228056,
+      "service_name": "MGM+",
+      "service_id": 365,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 89.57,
+      "production_companies": [],
+      "networks": [
+        "Bravo"
+      ]
+    },
+    {
+      "id": 228305,
+      "title": "Task",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hEE8TV5jLQZQnpPN4QmYZ1lCJNq.jpg",
+      "plot_overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 6.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-09-07",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 228305,
+      "production_companies": [
+        "wiip",
+        "Public Record",
+        "HBO",
+        "Low Dweller Productions"
+      ],
+      "networks": [
+        "HBO"
+      ],
+      "service_name": "Max",
+      "service_id": 1899,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 98.87
+    },
+    {
+      "id": 228878,
+      "title": "Common Side Effects",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/a8X5XXP49DHrySTXJMUIN5HI1Wz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4drV6iluttgjZmU1Q0xDqjrBQ1.jpg",
+      "plot_overview": "Former high school lab partners Marshall and Frances begin to unravel a conspiracy involving big pharma and the federal government to suppress knowledge of a rare mushroom that may hold the key to curing all the world\u2019s diseases.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 8.394,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-02-02",
+      "streaming_services": [
+        {
+          "service_id": 318,
+          "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 228878,
+      "service_name": "Starz",
+      "service_id": 318,
+      "relevance_score": 104.54,
+      "production_companies": [
+        "Bandera Entertainment",
+        "Green Street Pictures",
+        "Williams Street",
+        "Tell Me More"
+      ],
+      "networks": [
+        "Adult Swim"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

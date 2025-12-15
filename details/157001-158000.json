@@ -1,50 +1,18 @@
 {
   "range": "157001-158000",
-  "updated_at": 1765830970605,
+  "updated_at": 1765831208801,
   "shows": [
-    {
-      "id": 157226,
-      "title": "Sunny",
-      "type": "tv_series",
-      "year": 2024,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7x3rqEpps3msoQhBUJyiaXotGBL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3WW5SB8at3LEshGy4FRY1e6g8hv.jpg",
-      "plot_overview": "The life of an American woman living in Kyoto, Japan, is upended when her husband and son disappear in a mysterious plane crash. As consolation, she's given Sunny, one of a new class of domestic robots made by her husband's electronics company.",
-      "genres": [
-        "mystery",
-        "drama",
-        "comedy"
-      ],
-      "user_rating": 6.835,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2024-07-09",
-      "streaming_services": [
-        {
-          "service_id": 350,
-          "service_name": "Apple TV+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 157226,
-      "relevance_score": 5.8494
-    },
     {
       "id": 157239,
       "title": "Alien: Earth",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/biIBy2LPOOtGCgUYOls3dUEWU3v.jpg",
       "plot_overview": "When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet's greatest threat.",
       "genres": [
-        "sci-fi",
-        "drama"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
       "user_rating": 7.416,
       "critic_score": null,
@@ -58,40 +26,21 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 157239,
-      "relevance_score": 25.3347
-    },
-    {
-      "id": 157367,
-      "title": "Palm Royale",
-      "type": "tv_series",
-      "year": 2024,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3HDmuo2u2M7s3hWVaDAiYDerODK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4dUTs2xkExkG3yKPNzxgGwRX6NF.jpg",
-      "plot_overview": "In 1969, an ambitious woman aspires to cross the line between the haves and have-nots to secure her seat at America's most exclusive, fashionable, and treacherous table: Palm Beach high society.",
-      "genres": [
-        "drama",
-        "comedy"
+      "service_name": "Hulu",
+      "service_id": 15,
+      "relevance_score": 101.45,
+      "production_companies": [
+        "FX Productions",
+        "Scott Free Productions",
+        "26 Keys Productions"
       ],
-      "user_rating": 6.2,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2024-03-19",
-      "streaming_services": [
-        {
-          "service_id": 350,
-          "service_name": "Apple TV+",
-          "type": "sub",
-          "region": "US"
-        }
+      "networks": [
+        "FX",
+        "Hulu"
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 157367,
-      "relevance_score": 14.378
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

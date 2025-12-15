@@ -1,77 +1,18 @@
 {
   "range": "239001-240000",
-  "updated_at": 1765830970610,
+  "updated_at": 1765831208807,
   "shows": [
-    {
-      "id": 239143,
-      "title": "Moon Landing Live",
-      "type": "tv_series",
-      "year": 2019,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6uepfAhNhWsBWKFxbivlKrx8TBh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/n7cL9QopzJAcv7KmzeVRHyxGTyo.jpg",
-      "plot_overview": "For the 50th anniversary of the Apollo 11 mission, two immersive documentaries gave viewers the chance to re-live this awe-inspiring event as it unfolds in real time, with incredible cinematic NASA footage and global news archive. Episode One relives the drama of the launch, while Episode Two focuses on the landing, as the world followed the nail-biting moments leading up to the first ever boot print of Man on the Moon.",
-      "genres": [
-        "documentary"
-      ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2019-07-13",
-      "streaming_services": [
-        {
-          "service_id": 531,
-          "service_name": "Paramount+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 239143,
-      "relevance_score": 0.4392
-    },
-    {
-      "id": 239301,
-      "title": "\ud1a0\ub07c\ub124 \uc9d1\uc73c\ub85c \uc624\uc138\uc694",
-      "type": "tv_series",
-      "year": 2002,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jRnLi1ZNZFM1ujXCmVS7zNIKqZ2.jpg",
-      "backdrop_url": null,
-      "plot_overview": "",
-      "genres": [
-        "drama"
-      ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2002-05-03",
-      "streaming_services": [
-        {
-          "service_id": 531,
-          "service_name": "Paramount+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 239301,
-      "relevance_score": 0.2549
-    },
     {
       "id": 239385,
       "title": "The Manipulated",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cqkmEHLE4LjPHSqKdLt4pJFJv0f.jpg",
       "plot_overview": "Mild-mannered Tae-jung is wrongfully imprisoned for a heinous crime. He soon discovers that a mysterious figure named Yo-han orchestrated his downfall. Fueled by vengeance, Tae-jung sets out to make Yo-han pay.",
       "genres": [
-        "crime",
-        "drama"
+        "Crime",
+        "Drama"
       ],
       "user_rating": 8.6,
       "critic_score": null,
@@ -85,41 +26,20 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 239385,
-      "relevance_score": 46.8736
-    },
-    {
-      "id": 239770,
-      "title": "Doctor Who",
-      "type": "tv_series",
-      "year": 2024,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2JP6NSmBwxg75uTcIHiv5R8PpPi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gDtZQmfzvErZpeXOVeCBQE9WkSF.jpg",
-      "plot_overview": "The Doctor and his companion travel across time and space encountering incredible friends and foes.",
-      "genres": [
-        "action",
-        "drama",
-        "sci-fi"
+      "production_companies": [
+        "Studio Dragon",
+        "CJ ENM",
+        "Simplex Films"
       ],
-      "user_rating": 6.433,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2024-05-11",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
+      "networks": [
+        "Disney+"
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 239770,
-      "relevance_score": 14.2077
+      "service_name": "Hulu",
+      "service_id": 15,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 105.19
     }
   ]
 }

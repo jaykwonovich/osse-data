@@ -1,37 +1,81 @@
 {
   "range": "273001-274000",
-  "updated_at": 1765830970613,
+  "updated_at": 1765831208815,
   "shows": [
     {
-      "id": 273481,
-      "title": "Sicario",
-      "type": "movie",
-      "year": 2015,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
-      "plot_overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+      "id": 273160,
+      "title": "The Beauty",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tzmFxibSIT6MetfQdE7bMmWibLw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pt8QYc1OPhUa8hUmsNBie4hLz0x.jpg",
+      "plot_overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
       "genres": [
-        "action",
-        "crime",
-        "thriller"
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.415,
+      "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2015-09-17",
+      "release_date": "2026-01-21",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 273481,
-      "relevance_score": 8.5106
+      "tmdb_id": 273160,
+      "production_companies": [
+        "20th Television",
+        "Ryan Murphy Television"
+      ],
+      "networks": [
+        "FX",
+        "Hulu"
+      ],
+      "service_name": "Hulu",
+      "service_id": 15,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
+    },
+    {
+      "id": 273247,
+      "title": "The Lowdown",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aPd3Zn6c3iAMwhr79TPTtb6ovzF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/TMfV5xdAEZhzGN9MYXYomuhePz.jpg",
+      "plot_overview": "Follow the gritty exploits of citizen journalist Lee Raybon, a self-proclaimed Tulsa \"truthstorian\" whose obsession with the truth is always getting him into trouble.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.327,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-09-23",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 273247,
+      "production_companies": [
+        "FX Productions",
+        "Crazy Eagle Media"
+      ],
+      "networks": [
+        "FX"
+      ],
+      "service_name": "Hulu",
+      "service_id": 15,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 98.01
     }
   ]
 }

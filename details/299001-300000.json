@@ -1,68 +1,79 @@
 {
   "range": "299001-300000",
-  "updated_at": 1765830970616,
+  "updated_at": 1765831208819,
   "shows": [
     {
-      "id": 299054,
-      "title": "Expend4bles",
-      "type": "movie",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
-      "plot_overview": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world\u2019s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give \u201cnew blood\u201d a whole new meaning.",
+      "id": 299236,
+      "title": "The Sisters Grimm",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xLWppjhMb8ZgUE4WjlvAkYgvj16.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mTb7picysLAZ15uv9H5iRD5llCg.jpg",
+      "plot_overview": "One year after their parents' mysterious disappearance, sisters Sabrina and Daphne move to a magical town where fairytales are real and secrets lurk behind every corner.",
       "genres": [
-        "action",
-        "adventure",
-        "thriller"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animation"
       ],
-      "user_rating": 6.087,
+      "user_rating": 8.8,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2023-09-15",
+      "release_date": "2025-10-02",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 350,
+          "service_name": "Apple TV+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 299054,
-      "relevance_score": 11.3968
+      "tmdb_id": 299236,
+      "production_companies": [
+        "Titmouse",
+        "Per Capita Productions"
+      ],
+      "networks": [
+        "Apple TV"
+      ],
+      "service_name": "Apple TV+",
+      "service_id": 350,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 105.82
     },
     {
-      "id": 299536,
-      "title": "Avengers: Infinity War",
-      "type": "movie",
-      "year": 2018,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
-      "plot_overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "id": 299859,
+      "title": "The Last Wright: Building the Final Home Design of America's Greatest Architect",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hDfvAZbQecUdkFteEm5v1j8oKDA.jpg",
+      "backdrop_url": null,
+      "plot_overview": "Modern-day building codes and materials challenge mother and daughter team, Sarah and Debbie Dykstra, as they take on the challenge of constructing a house from the last set of drawings completed by Frank Lloyd Wright before his death in 1959.",
       "genres": [
-        "adventure",
-        "action",
-        "sci-fi"
+        "Documentary"
       ],
-      "user_rating": 8.235,
+      "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2018-04-25",
+      "release_date": "2025-09-03",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 299536,
-      "relevance_score": 22.6948
+      "tmdb_id": 299859,
+      "production_companies": [],
+      "networks": [
+        "Magnolia Network"
+      ],
+      "service_name": "Max",
+      "service_id": 1899,
+      "relevance_score": 77.85,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

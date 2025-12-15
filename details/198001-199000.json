@@ -1,67 +1,45 @@
 {
   "range": "198001-199000",
-  "updated_at": 1765830970606,
+  "updated_at": 1765831208802,
   "shows": [
     {
-      "id": 198102,
-      "title": "Hijack",
+      "id": 198178,
+      "title": "Wonder Man",
       "type": "tv_series",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/szDEqqarPi3YqiPLevm7LObYrDJ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kLXDrq36oFoPOapOlPbnkeZc6FV.jpg",
-      "plot_overview": "Expert negotiator Sam Nelson is in for the ride of his life\u2014and so is everyone on board with him\u2014after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kboHD8dkHvkAuszYxq89BYJhq9t.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vqPfhEIRMVnlxFDs5cpzO9DQHQl.jpg",
+      "plot_overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
       "genres": [
-        "drama"
+        "Comedy"
       ],
-      "user_rating": 7.7,
+      "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2023-06-28",
+      "release_date": "2026-01-27",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 198102,
-      "relevance_score": 14.1952
-    },
-    {
-      "id": 198663,
-      "title": "The Maze Runner",
-      "type": "movie",
-      "year": 2014,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ode14q7WtDugFDp78fo9lCsmay9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
-      "plot_overview": "A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.",
-      "genres": [
-        "action",
-        "mystery",
-        "sci-fi",
-        "thriller"
+      "tmdb_id": 198178,
+      "production_companies": [
+        "Family Owned",
+        "Kevin Feige Productions",
+        "Marvel Studios",
+        "Onyx Collective"
       ],
-      "user_rating": 7.191,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-09-10",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
+      "networks": [
+        "Disney+"
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 198663,
-      "relevance_score": 15.8704
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.85
     }
   ]
 }

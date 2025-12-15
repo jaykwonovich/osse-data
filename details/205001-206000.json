@@ -1,37 +1,44 @@
 {
   "range": "205001-206000",
-  "updated_at": 1765830970606,
+  "updated_at": 1765831208803,
   "shows": [
     {
-      "id": 205715,
-      "title": "Gen V",
+      "id": 205504,
+      "title": "Royal Crackers",
       "type": "tv_series",
       "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tEv842Nd5uMSavURG4aQO1pNtst.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tldMHeR7UnihV5ffrxxM8cDhbtT.jpg",
-      "plot_overview": "At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cWcOkakVjLxqALDCYOt0fjjrNzw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i6wdNXc1qCFIn8JxwrRWtak5ykP.jpg",
+      "plot_overview": "Royal Crackers was once the king of snacks, but the empire is crumbling. When the family patriarch, tyrannical company founder Theodore Hornsby Sr. ends up in a \u201csuper coma,\u201d the rest of the Hornsbys will take their lack of talent and business acumen and try to make Royal Crackers the success it once was.",
       "genres": [
-        "action",
-        "drama",
-        "sci-fi"
+        "Comedy",
+        "Animation"
       ],
-      "user_rating": 7.705,
+      "user_rating": 5.7,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2023-09-28",
+      "release_date": "2023-04-02",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
+          "service_id": 318,
+          "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 205715,
-      "relevance_score": 34.2814
+      "tmdb_id": 205504,
+      "service_name": "Starz",
+      "service_id": 318,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 85.43,
+      "production_companies": [
+        "Titmouse",
+        "Williams Street"
+      ],
+      "networks": [
+        "Adult Swim"
+      ]
     }
   ]
 }

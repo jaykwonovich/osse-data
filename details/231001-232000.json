@@ -1,35 +1,89 @@
 {
   "range": "231001-232000",
-  "updated_at": 1765830970610,
+  "updated_at": 1765831208807,
   "shows": [
     {
-      "id": 231393,
-      "title": "Hack Into Broad City",
+      "id": 231003,
+      "title": "Lazarus",
       "type": "tv_series",
-      "year": 2014,
-      "end_year": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "Hack Into Broad City is an exclusive web series that eavesdrops on the candid, often-outrageous video chat sessions between Abbi and Ilana, the two best friends at the heart of Broad City.",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8ViqUWPWh6aPZGQA57FMRVmaXZ1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fgcSUbheJ2nml1g7y5QNvR4s16d.jpg",
+      "plot_overview": "In 2052, a Nobel Prize-winning neuroscientist develops a drug called Hapna \u2014 a cure-all that has the unexpected side-effect of causing death three years later. In response to this threat, a special force of agents\u2014nicknamed \"Lazarus\"\u2014 is assembled to take on the malevolent Skinner.",
       "genres": [
-        "drama"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Animation"
       ],
-      "user_rating": 0.0,
+      "user_rating": 7.779,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2014-09-16",
+      "release_date": "2025-04-06",
       "streaming_services": [
         {
-          "service_id": 531,
-          "service_name": "Paramount+",
+          "service_id": 318,
+          "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 231393,
-      "relevance_score": 0.0143
+      "tmdb_id": 231003,
+      "service_name": "Starz",
+      "service_id": 318,
+      "relevance_score": 102.6,
+      "production_companies": [
+        "Sola Entertainment",
+        "MAPPA",
+        "Williams Street"
+      ],
+      "networks": [
+        "Adult Swim",
+        "TV Tokyo",
+        "TV Aichi",
+        "TVQ",
+        "TV Osaka",
+        "TVh",
+        "TSC"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
+    },
+    {
+      "id": 231462,
+      "title": "Low Life",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2Gyy14N4Tdv44OtxPRADcuIIEfJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/amYCTA2TsgVKxaGKu3izGyF0rT9.jpg",
+      "plot_overview": "A dangerous story of rough people obsessed with shameless greed who gather together with their own greed and logic to find underwater artifacts off the coast of Shinan.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 6.929,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-07-16",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 231462,
+      "service_name": "Disney+",
+      "service_id": 337,
+      "relevance_score": 99.91,
+      "production_companies": [
+        "Yworks Entertainment"
+      ],
+      "networks": [
+        "Disney+"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

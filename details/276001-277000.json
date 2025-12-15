@@ -1,36 +1,44 @@
 {
   "range": "276001-277000",
-  "updated_at": 1765651619730,
+  "updated_at": 1765831208815,
   "shows": [
     {
-      "id": 276110,
-      "title": "The Case Book of Arne",
+      "id": 276254,
+      "title": "The Heritage",
       "type": "tv_series",
-      "year": 2026,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5RqIzLBLiMxD7KpYpnQP6TNsHOD.jpg",
-      "backdrop_url": null,
-      "plot_overview": "",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7gEsIe3u0Py6nkQuieJq77xZ7F4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r1cbjlVcADjxkgSxSFEPlBXLytn.jpg",
+      "plot_overview": "In the seaside town of Hel, the death of a prominent local naval captain threatens to expose the web of lies tying his family together.",
       "genres": [
-        "animation",
-        "mystery"
+        "Mystery",
+        "Drama",
+        "Crime"
       ],
-      "user_rating": 0.0,
+      "user_rating": 8.3,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2026-01-07",
+      "release_date": "2025-08-22",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Coming Soon",
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 276110,
-      "relevance_score": 0.1599
+      "tmdb_id": 276254,
+      "production_companies": [
+        "Akson Studio"
+      ],
+      "networks": [
+        "HBO Max"
+      ],
+      "service_name": "Max",
+      "service_id": 1899,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 104.24
     }
   ]
 }

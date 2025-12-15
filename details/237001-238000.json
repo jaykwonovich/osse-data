@@ -1,66 +1,82 @@
 {
   "range": "237001-238000",
-  "updated_at": 1765830970610,
+  "updated_at": 1765831208807,
   "shows": [
     {
-      "id": 237853,
-      "title": "WondLa",
+      "id": 237015,
+      "title": "Women Wearing Shoulder Pads",
       "type": "tv_series",
-      "year": 2024,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nacwwHnoCz1MX9tIrFTnnNqLmax.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6F3Ze4oSes4SD5XfqsXirRLLUsO.jpg",
-      "plot_overview": "Forced to flee her underground sanctuary for Earth\u2019s surface, Eva discovers a world unlike anything she expected. As she journeys across perilous terrain and unknown civilizations, Eva searches to answer the ultimate question: Is she the last human?",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/osET9RSyPGwdUQMQEW4tTCnmNBV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i0C7oysc4Q9Y8fllWW4vvleE4pM.jpg",
+      "plot_overview": "Marioneta is proud and wealthy Spaniard living in 1980s Quito, Ecuador. As she goes through her life, Marioneta encounters a diverse group of eccentric and ambitious women as they all navigate the ups and downs of love, family and cuys.",
       "genres": [
-        "sci-fi",
-        "animation",
-        "family"
+        "Animation",
+        "Comedy"
       ],
-      "user_rating": 7.517,
+      "user_rating": 9.4,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2024-06-27",
+      "release_date": "2025-08-18",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 318,
+          "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 237853,
-      "relevance_score": 6.1625
+      "tmdb_id": 237015,
+      "production_companies": [
+        "Cinema Fantasma",
+        "Williams Street",
+        "Tres Tristes Tigres"
+      ],
+      "networks": [
+        "Adult Swim"
+      ],
+      "service_name": "Starz",
+      "service_id": 318,
+      "relevance_score": 107.7,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     },
     {
-      "id": 237890,
-      "title": "Messi's World Cup: The Rise of a Legend",
+      "id": 237052,
+      "title": "The Lost Station Girls",
       "type": "tv_series",
-      "year": 2024,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iVYu4CooA9vSEpbJPiqV9wSJll.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rA4NxAb35HJFBOuMnXgE2QeGphP.jpg",
-      "plot_overview": "Follow the legend's epic journey through five World Cups, culminating in 2022's triumph. As the championship run unfolds, Messi shares some of his most personal reflections\u2014on his national team career and the challenges he's faced.",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/282rRZ3wKntv82FPZ3qMnAsNMkV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kXBr9CWrutta2PxUkbYlI9EXrC8.jpg",
+      "plot_overview": "Between 1995 and 2001 in southern France, a teenage girl vanishes and three young women are murdered\u2014sparking a relentless manhunt that will haunt detective Flore Robin and the Perpignan police for years.",
       "genres": [
-        "documentary"
+        "Crime",
+        "Drama"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.386,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2024-02-20",
+      "release_date": "2025-10-08",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 237890,
-      "relevance_score": 11.0047
+      "tmdb_id": 237052,
+      "production_companies": [
+        "Itin\u00e9raire Productions"
+      ],
+      "networks": [
+        "Disney+"
+      ],
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 101.36
     }
   ]
 }

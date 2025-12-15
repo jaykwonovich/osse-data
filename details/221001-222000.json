@@ -1,19 +1,18 @@
 {
   "range": "221001-222000",
-  "updated_at": 1765830970608,
+  "updated_at": 1765831208804,
   "shows": [
     {
       "id": 221079,
       "title": "The Last Frontier",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/u8bpEqCRWLzwe6Qs3WYabA0r6pO.jpg",
       "plot_overview": "When a prison transport plane crashes in the remote Alaskan wilderness\u2014freeing dozens of violent inmates\u2014the region's lone marshal must protect the town he's vowed to keep safe.",
       "genres": [
-        "drama",
-        "crime"
+        "Drama",
+        "Crime"
       ],
       "user_rating": 7.213,
       "critic_score": null,
@@ -27,10 +26,53 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 221079,
-      "relevance_score": 44.0996
+      "production_companies": [
+        "Apple Studios",
+        "Pickpocket Entertainment"
+      ],
+      "networks": [
+        "Apple TV"
+      ],
+      "service_name": "Apple TV+",
+      "service_id": 350,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 100.81
+    },
+    {
+      "id": 221328,
+      "title": "SWV & Xscape: The Queens of R&B",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/si2bopfresKdCCKSN1H0rPgxiCT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/E1pVDviow3od0RXIY7avh0KLUH.jpg",
+      "plot_overview": "In this six-part limited series, the fans get a VIP front-row seat and backstage access to \u201990s nostalgia as SWV and XSCAPE pull back the curtain on their personal and professional lives and prepare to hit the stage together.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 6.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-03-05",
+      "streaming_services": [
+        {
+          "service_id": 365,
+          "service_name": "MGM+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 221328,
+      "service_name": "MGM+",
+      "service_id": 365,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 87.98,
+      "production_companies": [],
+      "networks": [
+        "Bravo"
+      ]
     }
   ]
 }

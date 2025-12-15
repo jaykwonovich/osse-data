@@ -1,19 +1,16 @@
 {
   "range": "285001-286000",
-  "updated_at": 1765830970615,
+  "updated_at": 1765831208817,
   "shows": [
     {
       "id": 285001,
       "title": "Happy Days",
       "type": "tv_series",
       "year": 2024,
-      "end_year": null,
       "poster_url": null,
       "backdrop_url": null,
       "plot_overview": "Happy Days is a heartwarming TV series that celebrates the joy of life by showcasing different stories of happiness in each episode. Each story begins with a challenging or somber moment, reflecting the struggles many face in their daily lives. However, as the episodes unfold, they reveal how perseverance, love, and positivity can lead to brighter, happier outcomes",
-      "genres": [
-        "drama"
-      ],
+      "genres": [],
       "user_rating": 9.0,
       "critic_score": null,
       "us_rating": null,
@@ -26,10 +23,88 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 285001,
-      "relevance_score": 0.2158
+      "service_name": "Paramount+",
+      "service_id": 531,
+      "relevance_score": 95.92,
+      "production_companies": [],
+      "networks": [],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
+    },
+    {
+      "id": 285643,
+      "title": "Denise Richards and Her Wild Things",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ukf6bum3vcGalwVhoDZRKrAa8H0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jCXxl3zauvUdcs2cGQsVfYOHG4d.jpg",
+      "plot_overview": "Hollywood icon and The Real Housewives of Beverly Hills alum Denise Richards is trying to balance it all as she navigates being an actress, wife and mother in the public eye.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 8.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-03-04",
+      "streaming_services": [
+        {
+          "service_id": 365,
+          "service_name": "MGM+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 285643,
+      "service_name": "MGM+",
+      "service_id": 365,
+      "relevance_score": 103.29,
+      "production_companies": [
+        "Bravo"
+      ],
+      "networks": [
+        "Bravo"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
+    },
+    {
+      "id": 285770,
+      "title": "Nice to Not Meet You",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/h14bGZcVxYQzLoxC8KYqUVWvYfU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fc4Shbli2S1BwUgoTjvP3BIM9VX.jpg",
+      "plot_overview": "A hateful romance between a professional detective actor who wants to become a melodrama master and a female reporter who was demoted from a political reporter who won the Reporter of the Year award to the entertainment department.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-11-03",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 285770,
+      "production_companies": [
+        "Studio Dragon",
+        "Studio & New"
+      ],
+      "networks": [
+        "tvN"
+      ],
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "relevance_score": 100.77,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }

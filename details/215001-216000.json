@@ -1,18 +1,17 @@
 {
   "range": "215001-216000",
-  "updated_at": 1765830970608,
+  "updated_at": 1765831208803,
   "shows": [
     {
       "id": 215631,
       "title": "Tough as Nails",
       "type": "tv_series",
       "year": 2023,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/juNzV5tNF36Uo5yDHYgshUzMdW0.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/msOcR8QIGtSL4pbOxmo1hPzmLuR.jpg",
       "plot_overview": "",
       "genres": [
-        "reality"
+        "Reality"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -26,23 +25,29 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 215631,
-      "relevance_score": 0.1824
+      "service_name": "Paramount+",
+      "service_id": 531,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 89.57,
+      "production_companies": [],
+      "networks": [
+        "Veronica",
+        "Prime Video"
+      ]
     },
     {
       "id": 215995,
       "title": "Smoke",
       "type": "tv_series",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/c6xRvQCL07MVNamjfVU2an600q9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4F7IE2OEcHsWZwIu1OvXDyiRD84.jpg",
       "plot_overview": "When an arson investigator begrudgingly teams up with a police detective, their race to stop two arsonists ignites a twisted game of secrets and suspicions.",
       "genres": [
-        "drama",
-        "crime"
+        "Drama",
+        "Crime"
       ],
       "user_rating": 5.977,
       "critic_score": null,
@@ -56,10 +61,23 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
       "tmdb_id": 215995,
-      "relevance_score": 7.2807
+      "service_name": "Apple TV+",
+      "service_id": 350,
+      "relevance_score": 96.9,
+      "production_companies": [
+        "EDEN Productions",
+        "Imperative Entertainment",
+        "Apple Studios",
+        "Crime Story Media",
+        "Hans Bubby",
+        "truth.media"
+      ],
+      "networks": [
+        "Apple TV"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0
     }
   ]
 }
