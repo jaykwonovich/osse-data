@@ -1,6 +1,6 @@
 {
   "range": "1-1000",
-  "updated_at": 1765830539662,
+  "updated_at": 1765830970560,
   "shows": [
     {
       "id": 11,
@@ -512,7 +512,7 @@
         "fantasy",
         "action"
       ],
-      "user_rating": 8.4,
+      "user_rating": 8.426,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2001-12-18",
@@ -543,7 +543,7 @@
         "fantasy",
         "action"
       ],
-      "user_rating": 8.4,
+      "user_rating": 8.411,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2002-12-18",
@@ -590,6 +590,37 @@
       "imdb_id": null,
       "tmdb_id": 122,
       "relevance_score": 21.5951
+    },
+    {
+      "id": 129,
+      "title": "Spirited Away",
+      "type": "movie",
+      "year": 2001,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+      "plot_overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+      "genres": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "user_rating": 8.534,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2001-07-20",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 129,
+      "relevance_score": 23.6807
     },
     {
       "id": 137,
@@ -1522,7 +1553,7 @@
         "adventure",
         "fantasy"
       ],
-      "user_rating": 7.9,
+      "user_rating": 7.899,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2001-11-16",
@@ -1642,7 +1673,7 @@
         "adventure",
         "fantasy"
       ],
-      "user_rating": 7.675,
+      "user_rating": 7.674,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2007-07-08",
