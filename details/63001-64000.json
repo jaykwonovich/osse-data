@@ -1,6 +1,6 @@
 {
   "range": "63001-64000",
-  "updated_at": 1765702770759,
+  "updated_at": 1765830539694,
   "shows": [
     {
       "id": 63174,
@@ -15,7 +15,7 @@
         "crime",
         "sci-fi"
       ],
-      "user_rating": 8.439,
+      "user_rating": 8.438,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-01-25",
@@ -30,129 +30,39 @@
       "networks": [],
       "imdb_id": null,
       "tmdb_id": 63174,
-      "relevance_score": 66.64
+      "relevance_score": 66.9702
     },
     {
-      "id": 63181,
-      "title": "Marvel's Guardians of the Galaxy",
+      "id": 63401,
+      "title": "We Bare Bears",
       "type": "tv_series",
       "year": 2015,
       "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oXwe3wVhdvvxiixL9UJf6PgBybZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9yAhhj9toqP9z6CeoMbhJdNhXN3.jpg",
-      "plot_overview": "Peter Quill is Star-Lord, the brash adventurer who, to save the universe from its greatest threats, joins forces with a quartet of disparate misfits \u2014 fan-favorite Rocket Raccoon, a tree-like humanoid named Groot, the enigmatic, expert fighter Gamora and the rough edged warrior Drax the Destroyer.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sgR3BjAOcpyxV9Rq7l1BGm3fXQ8.jpg",
+      "plot_overview": "Three brother bears awkwardly attempt to find their place in civilized  society, whether they're looking for food, trying to make human friends,  or scheming to become famous on the internet. Grizzly, Panda and Ice  Bear stack atop one another when they leave their cave and explore the  hipster environs of the San Francisco Bay Area, and it's clear the  siblings have a lot to learn about a technologically driven world. By  their side on many adventures are best friend Chloe (the only human  char",
       "genres": [
-        "action",
+        "family",
+        "comedy",
         "animation",
         "family"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.723,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2015-09-05",
+      "release_date": "2015-08-24",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
       "networks": [],
       "imdb_id": null,
-      "tmdb_id": 63181,
-      "relevance_score": 6.6981
-    },
-    {
-      "id": 63333,
-      "title": "The Last Kingdom",
-      "type": "tv_series",
-      "year": 2015,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ifZYdmNuMWimFCUGGcYAs9bHNlv.jpg",
-      "plot_overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
-      "genres": [
-        "action",
-        "drama",
-        "war"
-      ],
-      "user_rating": 8.246,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2015-10-10",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 63333,
-      "relevance_score": 29.5046
-    },
-    {
-      "id": 63351,
-      "title": "Narcos",
-      "type": "tv_series",
-      "year": 2015,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qx8XQund44cecIJiX2Yb4SUeiT.jpg",
-      "plot_overview": "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels.",
-      "genres": [
-        "crime",
-        "drama"
-      ],
-      "user_rating": 8.1,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2015-08-28",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 63351,
-      "relevance_score": 19.8165
-    },
-    {
-      "id": 63623,
-      "title": "Fuller House",
-      "type": "tv_series",
-      "year": 2016,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gp9u9KgxQmk5zKBcup5J8cslikd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aiXDRO3jglLdpkBjTJTJ1o8yQbL.jpg",
-      "plot_overview": "D.J. Tanner-Fuller is a widow and mother of three. Things become too much to handle, so she asks for help from her sister Stephanie and her best-friend Kimmy.",
-      "genres": [
-        "family",
-        "comedy"
-      ],
-      "user_rating": 7.4,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2016-02-26",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 63623,
-      "relevance_score": 8.1096
+      "tmdb_id": 63401,
+      "relevance_score": 25.1862
     },
     {
       "id": 63639,
@@ -168,7 +78,7 @@
         "mystery",
         "sci-fi"
       ],
-      "user_rating": 8.068,
+      "user_rating": 8.069,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-12-14",
@@ -183,36 +93,7 @@
       "networks": [],
       "imdb_id": null,
       "tmdb_id": 63639,
-      "relevance_score": 23.6829
-    },
-    {
-      "id": 63726,
-      "title": "Alone",
-      "type": "tv_series",
-      "year": 2015,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/a1r1KLEYFP1u0q5kH4mHDQaOOvF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wcX3J5juFUMXhivZ9rHB7NgwLYa.jpg",
-      "plot_overview": "Hardcore survivalists are put by themselves in the Vancouver Island wilderness, without camera crews, teams, or producers \u2013 on a single mission to stay alive for as long as possible.",
-      "genres": [
-        "reality"
-      ],
-      "user_rating": 7.152,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2015-06-18",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 63726,
-      "relevance_score": 7.9207
+      "relevance_score": 26.1626
     },
     {
       "id": 63926,
@@ -229,7 +110,7 @@
         "action",
         "sci-fi"
       ],
-      "user_rating": 8.4,
+      "user_rating": 8.395,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-10-05",
@@ -244,7 +125,7 @@
       "networks": [],
       "imdb_id": null,
       "tmdb_id": 63926,
-      "relevance_score": 68.4475
+      "relevance_score": 75.3899
     }
   ]
 }

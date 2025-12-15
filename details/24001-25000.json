@@ -1,7 +1,39 @@
 {
   "range": "24001-25000",
-  "updated_at": 1765644325597,
+  "updated_at": 1765830539684,
   "shows": [
+    {
+      "id": 24251,
+      "title": "I Want a Dog for Christmas, Charlie Brown",
+      "type": "movie",
+      "year": 2003,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vMMvLReMzmLuWw0CVUxIxmbwpBz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ydLGDUeF0zWEN7pubDwTxLDqTOz.jpg",
+      "plot_overview": "Linus and Lucy's younger brother Rerun wants a dog for Christmas, and Snoopy's brother Spike may be the answer.",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "tv_movie"
+      ],
+      "user_rating": 5.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2003-12-09",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 24251,
+      "relevance_score": 4.0382
+    },
     {
       "id": 24428,
       "title": "The Avengers",
@@ -16,7 +48,7 @@
         "action",
         "adventure"
       ],
-      "user_rating": 7.873,
+      "user_rating": 7.875,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-04-25",
@@ -31,36 +63,7 @@
       "networks": [],
       "imdb_id": null,
       "tmdb_id": 24428,
-      "relevance_score": 43.8644
-    },
-    {
-      "id": 24619,
-      "title": "Blind Horizon",
-      "type": "movie",
-      "year": 2003,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gmEHqjdjPiFFZnXq0nNV3VUXLS4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/g6X2pS2L5aszT2pDaqSuPHl68WW.jpg",
-      "plot_overview": "Left for dead in the remote Southwest, Frank is found clinging to life and in a state of amnesia. As he recovers, ominous memories begin to flash back...",
-      "genres": [
-        "thriller"
-      ],
-      "user_rating": 5.644,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2003-12-14",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 24619,
-      "relevance_score": 13.1608
+      "relevance_score": 46.5963
     }
   ]
 }

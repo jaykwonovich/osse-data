@@ -1,6 +1,6 @@
 {
   "range": "57001-58000",
-  "updated_at": 1765702770825,
+  "updated_at": 1765830539691,
   "shows": [
     {
       "id": 57158,
@@ -31,7 +31,7 @@
       "networks": [],
       "imdb_id": null,
       "tmdb_id": 57158,
-      "relevance_score": 15.3251
+      "relevance_score": 15.1786
     },
     {
       "id": 57532,
@@ -61,7 +61,7 @@
       "networks": [],
       "imdb_id": null,
       "tmdb_id": 57532,
-      "relevance_score": 39.3035
+      "relevance_score": 42.4724
     },
     {
       "id": 57706,
@@ -84,8 +84,8 @@
       "release_date": "1989-04-15",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
@@ -93,39 +93,7 @@
       "networks": [],
       "imdb_id": null,
       "tmdb_id": 57706,
-      "relevance_score": 22.0323
-    },
-    {
-      "id": 57800,
-      "title": "Ice Age: Continental Drift",
-      "type": "movie",
-      "year": 2012,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kyTlMMVWo1GffYoQctZwLqJcwaj.jpg",
-      "plot_overview": "Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.",
-      "genres": [
-        "animation",
-        "comedy",
-        "adventure",
-        "family"
-      ],
-      "user_rating": 6.4,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2012-06-27",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 57800,
-      "relevance_score": 7.4114
+      "relevance_score": 24.2304
     }
   ]
 }

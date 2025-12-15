@@ -1,7 +1,36 @@
 {
   "range": "257001-258000",
-  "updated_at": 1765644325615,
+  "updated_at": 1765830539720,
   "shows": [
+    {
+      "id": 257247,
+      "title": "\u767e\u6218\u5929\u9f99",
+      "type": "tv_series",
+      "year": null,
+      "end_year": null,
+      "poster_url": null,
+      "backdrop_url": null,
+      "plot_overview": "",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": null,
+      "streaming_services": [
+        {
+          "service_id": 531,
+          "service_name": "Paramount+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 257247,
+      "relevance_score": 0.0071
+    },
     {
       "id": 257344,
       "title": "Pixels",
@@ -32,7 +61,36 @@
       "networks": [],
       "imdb_id": null,
       "tmdb_id": 257344,
-      "relevance_score": 7.5973
+      "relevance_score": 8.5967
+    },
+    {
+      "id": 257945,
+      "title": "Vietnam: The War That Changed America",
+      "type": "tv_series",
+      "year": 2025,
+      "end_year": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lJiG3rmP8smQ415jJ0J0SG0sDtU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tpxyzbYvSFTYsYWzLr4Yfr5FDEK.jpg",
+      "plot_overview": "The reunion of old friends, first-person accounts, and rarely seen footage paint an extraordinary and deeply profound picture of what it was like to live through one of history's longest wars.",
+      "genres": [
+        "documentary"
+      ],
+      "user_rating": 8.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-01-31",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "networks": [],
+      "imdb_id": null,
+      "tmdb_id": 257945,
+      "relevance_score": 7.2878
     }
   ]
 }
