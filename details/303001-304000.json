@@ -1,7 +1,45 @@
 {
   "range": "303001-304000",
-  "updated_at": 1765831208820,
+  "updated_at": 1765836378617,
   "shows": [
+    {
+      "id": 303109,
+      "title": "Fire and Water: Making the Avatar Films",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1Jv4WlLRA659DdZIXOR2f6hZGz8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nZKcaSSV7NaGfuPeE6N4Xt5St7E.jpg",
+      "plot_overview": "This two-part documentary provides a fascinating glimpse into the making of the Oscar-winning box office phenomenon \"Avatar: The Way of Water\" and features exclusive behind-the-scenes footage, concept art, and interviews with cast and filmmakers.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 6.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-11-07",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 303109,
+      "production_companies": [
+        "Lightstorm Entertainment",
+        "20th Century Studios",
+        "Mob Scene"
+      ],
+      "networks": [
+        "Disney+"
+      ],
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 78.0
+    },
     {
       "id": 303528,
       "title": "Surviving Mormonism with Heather Gay",
@@ -34,9 +72,9 @@
       ],
       "service_name": "Peacock",
       "service_id": 386,
-      "relevance_score": 81.06,
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 63.0
     }
   ]
 }

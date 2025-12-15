@@ -1,6 +1,6 @@
 {
   "range": "275001-276000",
-  "updated_at": 1765831208815,
+  "updated_at": 1765836378612,
   "shows": [
     {
       "id": 275722,
@@ -41,7 +41,39 @@
       "service_id": 337,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 99.09
+      "relevance_score": 80.0
+    },
+    {
+      "id": 275724,
+      "title": "Electric Bloom",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2QZAkwZZ1SI72YD2IygwVMDSP4k.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yJNopTE4y4kOvdC0uPCdxLaGB6j.jpg",
+      "plot_overview": "Follow the three members of a mega-famous pop group, Electric Bloom, as they look back and tell the story of their band and friendship, starting with the day they all met in middle school. The girls go on a journey to becoming the biggest band in the world and the best friends in the universe.",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "user_rating": 8.714,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-07-10",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 275724,
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 86.14
     }
   ]
 }

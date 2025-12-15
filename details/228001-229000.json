@@ -1,6 +1,6 @@
 {
   "range": "228001-229000",
-  "updated_at": 1765831208806,
+  "updated_at": 1765836378606,
   "shows": [
     {
       "id": 228056,
@@ -30,11 +30,7 @@
       "service_id": 365,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 89.57,
-      "production_companies": [],
-      "networks": [
-        "Bravo"
-      ]
+      "relevance_score": 71.0
     },
     {
       "id": 228305,
@@ -61,20 +57,11 @@
         }
       ],
       "tmdb_id": 228305,
-      "production_companies": [
-        "wiip",
-        "Public Record",
-        "HBO",
-        "Low Dweller Productions"
-      ],
-      "networks": [
-        "HBO"
-      ],
       "service_name": "Max",
       "service_id": 1899,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 98.87
+      "relevance_score": 79.8
     },
     {
       "id": 228878,
@@ -105,18 +92,9 @@
       "tmdb_id": 228878,
       "service_name": "Starz",
       "service_id": 318,
-      "relevance_score": 104.54,
-      "production_companies": [
-        "Bandera Entertainment",
-        "Green Street Pictures",
-        "Williams Street",
-        "Tell Me More"
-      ],
-      "networks": [
-        "Adult Swim"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 85.18
     }
   ]
 }

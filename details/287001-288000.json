@@ -1,6 +1,6 @@
 {
   "range": "287001-288000",
-  "updated_at": 1765831208817,
+  "updated_at": 1765836378615,
   "shows": [
     {
       "id": 287462,
@@ -28,13 +28,39 @@
       "tmdb_id": 287462,
       "service_name": "MGM+",
       "service_id": 365,
-      "relevance_score": 77.85,
-      "production_companies": [],
-      "networks": [
-        "Bravo"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
+    },
+    {
+      "id": 287967,
+      "title": "Billy Joel: And So It Goes",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xxXyWzAMNanhgiBzvfpRZJ5RdMU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iFAZ89ziLF6oLChvGid1I9pZo7E.jpg",
+      "plot_overview": "An expansive portrait of the life and music of Billy Joel, exploring the love, loss, and personal struggles that fuel his songwriting. With unprecedented access to never-before-seen performances, home movies, and personal photographs, along with extensive, in-depth one-on-one interviews, the documentary intimately explores the life and work of Joel, whose music has endured across generations.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 8.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-07-18",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 287967,
+      "service_name": "Max",
+      "service_id": 1899,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 86.4
     }
   ]
 }

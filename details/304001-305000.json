@@ -1,6 +1,6 @@
 {
   "range": "304001-305000",
-  "updated_at": 1765831208820,
+  "updated_at": 1765836378618,
   "shows": [
     {
       "id": 304790,
@@ -37,7 +37,44 @@
       "service_id": 15,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 98.87
+      "relevance_score": 79.8
+    },
+    {
+      "id": 304995,
+      "title": "High Horse: The Black Cowboy",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yMjmR1n2L20GyyvJvTeyM8JJyPW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/92VrriHqW9vAaqrSZlubKyvUxPv.jpg",
+      "plot_overview": "Three-part pop culture and historical documentary confronts and reclaims the Wild West while revealing the story of the Black cowboy \u2014 a history that has largely been untold.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 5.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-11-20",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 304995,
+      "production_companies": [
+        "Monkeypaw Productions",
+        "Universal Television Alternative Studio"
+      ],
+      "networks": [
+        "Peacock"
+      ],
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 76.5
     }
   ]
 }

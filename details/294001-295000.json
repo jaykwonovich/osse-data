@@ -1,35 +1,37 @@
 {
   "range": "294001-295000",
-  "updated_at": 1765830970615,
+  "updated_at": 1765836378616,
   "shows": [
     {
-      "id": 294969,
-      "title": "The Twilight Zone",
+      "id": 294972,
+      "title": "Black Widows: Wh*res & Hustlers",
       "type": "tv_series",
-      "year": 1959,
-      "end_year": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/h71jvjjaJOzYeOCMJutkMh3TbhO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8LfHsnOgh81VJX9OrDwKSuv3ToK.jpg",
+      "plot_overview": "A former pair of thieves must dust off their old seduction tricks when blackmail threatens to expose their dirty laundry.",
       "genres": [
-        "drama"
+        "Comedy",
+        "Crime"
       ],
-      "user_rating": 0.0,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1959-10-02",
+      "release_date": "2025-06-27",
       "streaming_services": [
         {
-          "service_id": 531,
-          "service_name": "Paramount+",
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 294969,
-      "relevance_score": 0.0193
+      "tmdb_id": 294972,
+      "service_name": "Max",
+      "service_id": 1899,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 83.7
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "231001-232000",
-  "updated_at": 1765831208807,
+  "updated_at": 1765836378606,
   "shows": [
     {
       "id": 231003,
@@ -30,23 +30,9 @@
       "tmdb_id": 231003,
       "service_name": "Starz",
       "service_id": 318,
-      "relevance_score": 102.6,
-      "production_companies": [
-        "Sola Entertainment",
-        "MAPPA",
-        "Williams Street"
-      ],
-      "networks": [
-        "Adult Swim",
-        "TV Tokyo",
-        "TV Aichi",
-        "TVQ",
-        "TV Osaka",
-        "TVh",
-        "TSC"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 83.34
     },
     {
       "id": 231462,
@@ -75,15 +61,9 @@
       "tmdb_id": 231462,
       "service_name": "Disney+",
       "service_id": 337,
-      "relevance_score": 99.91,
-      "production_companies": [
-        "Yworks Entertainment"
-      ],
-      "networks": [
-        "Disney+"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 80.79
     }
   ]
 }

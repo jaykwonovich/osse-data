@@ -1,27 +1,23 @@
 {
   "range": "232001-233000",
-  "updated_at": 1765702770818,
+  "updated_at": 1765836378606,
   "shows": [
     {
-      "id": 232125,
-      "title": "I Am Groot",
+      "id": 232869,
+      "title": "Mickey Mouse Clubhouse+",
       "type": "tv_series",
-      "year": 2022,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
-      "plot_overview": "There's no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/w4vgYff7qKO8jBQgVIt7F2Buobf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ahedBn0bqv3XZdMufCF9zmOcP9j.jpg",
+      "plot_overview": "Mickey and pals welcome everyone back to the clubhouse for all-new adventures filled with songs, laughs, handy helping, and fun new surprises.",
       "genres": [
-        "animation",
-        "comedy",
-        "family",
-        "sci-fi",
-        "family"
+        "Animation",
+        "Kids"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2022-08-10",
+      "release_date": "2025-07-21",
       "streaming_services": [
         {
           "service_id": 337,
@@ -30,10 +26,12 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 232125,
-      "relevance_score": 7.2596
+      "tmdb_id": 232869,
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 82.2
     }
   ]
 }

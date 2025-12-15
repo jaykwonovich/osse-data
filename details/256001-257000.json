@@ -1,6 +1,6 @@
 {
   "range": "256001-257000",
-  "updated_at": 1765831208810,
+  "updated_at": 1765836378609,
   "shows": [
     {
       "id": 256317,
@@ -29,17 +29,9 @@
       "tmdb_id": 256317,
       "service_name": "Prime Video",
       "service_id": 9,
-      "relevance_score": 101.11,
-      "production_companies": [
-        "Amazon MGM Studios",
-        "Derek Haas Productions",
-        "Jax Media"
-      ],
-      "networks": [
-        "Prime Video"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 81.92
     },
     {
       "id": 256711,
@@ -66,20 +58,11 @@
         }
       ],
       "tmdb_id": 256711,
-      "production_companies": [
-        "Lionsgate Television",
-        "Blumhouse Television",
-        "Maniac Productions",
-        "PKM Productions"
-      ],
-      "networks": [
-        "USA Network"
-      ],
       "service_name": "Peacock",
       "service_id": 386,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 101.72
+      "relevance_score": 82.5
     },
     {
       "id": 256747,
@@ -108,17 +91,9 @@
       "tmdb_id": 256747,
       "service_name": "Starz",
       "service_id": 318,
-      "relevance_score": 102.35,
-      "production_companies": [
-        "Six Point Harness",
-        "Williams Street",
-        "Undercooked Rice"
-      ],
-      "networks": [
-        "Adult Swim"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 83.1
     },
     {
       "id": 256748,
@@ -153,9 +128,9 @@
       ],
       "service_name": "Starz",
       "service_id": 318,
-      "relevance_score": 104.87,
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 85.5
     }
   ]
 }

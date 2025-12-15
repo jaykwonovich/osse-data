@@ -1,6 +1,6 @@
 {
   "range": "253001-254000",
-  "updated_at": 1765831208809,
+  "updated_at": 1765836378609,
   "shows": [
     {
       "id": 253376,
@@ -27,18 +27,11 @@
         }
       ],
       "tmdb_id": 253376,
-      "production_companies": [
-        "The Imaginarium",
-        "Amazon MGM Studios"
-      ],
-      "networks": [
-        "Prime Video"
-      ],
       "service_name": "Prime Video",
       "service_id": 9,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 100.48
+      "relevance_score": 81.32
     },
     {
       "id": 253811,
@@ -74,19 +67,9 @@
       "tmdb_id": 253811,
       "service_name": "Netflix",
       "service_id": 8,
-      "relevance_score": 103.56,
-      "production_companies": [
-        "Pony Canyon",
-        "Studio Hibari",
-        "dentsu",
-        "Nippon Television Network Corporation",
-        "Akita Shoten"
-      ],
-      "networks": [
-        "Nippon TV"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 84.25
     },
     {
       "id": 253941,
@@ -112,19 +95,11 @@
         }
       ],
       "tmdb_id": 253941,
-      "production_companies": [
-        "Universal Television",
-        "Banijay Americas",
-        "Deedle-Dee Productions"
-      ],
-      "networks": [
-        "Peacock"
-      ],
       "service_name": "Peacock",
       "service_id": 386,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 100.28
+      "relevance_score": 81.13
     }
   ]
 }

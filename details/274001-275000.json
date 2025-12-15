@@ -1,37 +1,76 @@
 {
   "range": "274001-275000",
-  "updated_at": 1765830970613,
+  "updated_at": 1765836378612,
   "shows": [
     {
-      "id": 274556,
-      "title": "Far Away",
+      "id": 274875,
+      "title": "Twelve",
       "type": "tv_series",
-      "year": 2024,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vPvxzUFy4CYEAThOQim8wuyCqHt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mRk3sdNPx3P2PiLGm1lqLFafQXH.jpg",
-      "plot_overview": "Alya Albora arrives in Mardin with her late husband\u2019s funeral and their five-year-old son to fulfill her husband\u2019s last will. However, this arrival marks a point of no return, and there is no way out of Albora. The head of the Albora tribe, Cihan Albora, is not indifferent to Alya\u2019s struggles, but he refuses to let her take her child and leave. Confronting the darkness of the past, hidden secrets, and the harsh realities of the region, Alya Albora finds herself caught in a fierce struggle with h",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6q66Psq2cDrCsoz8cGDVa6gFmMm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/22kJFY1PBSWNsQ4dBJvaaBNgM62.jpg",
+      "plot_overview": "A group of heroes, each embodying one of the 12 zodiac signs, battles to defend the Korean Peninsula from malevolent spirits.",
       "genres": [
-        "drama",
-        "family",
-        "action"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
       ],
-      "user_rating": 7.7,
+      "user_rating": 7.29,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2024-11-11",
+      "release_date": "2025-08-23",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 274556,
-      "relevance_score": 22.5797
+      "tmdb_id": 274875,
+      "service_name": "Hulu",
+      "service_id": 15,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 81.87
+    },
+    {
+      "id": 274979,
+      "title": "The Crystal Cuckoo",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tsY3Kl793m2sXTMkQTajz0EOqCl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kuvIwh28N9iGsJak8Q8fx3ABKer.jpg",
+      "plot_overview": "Hoping to learn more about her heart donor, a young doctor arrives in a mountain town where decades of mysterious tragedies plague the small community.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "user_rating": 6.549,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-11-14",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 274979,
+      "production_companies": [
+        "At\u00edpica Films"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 79.65
     }
   ]
 }

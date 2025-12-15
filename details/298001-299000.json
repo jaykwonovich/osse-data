@@ -1,6 +1,6 @@
 {
   "range": "298001-299000",
-  "updated_at": 1765831208819,
+  "updated_at": 1765836378617,
   "shows": [
     {
       "id": 298203,
@@ -37,7 +37,7 @@
       "service_id": 9,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 77.85
+      "relevance_score": 60.0
     },
     {
       "id": 298343,
@@ -76,7 +76,46 @@
       "service_id": 8,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 77.85
+      "relevance_score": 60.0
+    },
+    {
+      "id": 298756,
+      "title": "Death Row Confidential: Secrets of a Serial Killer",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mXWZaQQRaN3NS1VDEVRtEIUvzw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yDSk6umQhAshVOflwG2s1UxmNjh.jpg",
+      "plot_overview": "Death Row Confidential: Secrets of a Serial Killer examines the gripping story of convicted killer Joseph Naso, and how a fellow inmate came to connect him to many more cold cases.",
+      "genres": [
+        "Crime",
+        "Documentary"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-09-13",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 298756,
+      "production_companies": [
+        "Wolf Entertainment",
+        "Fireside Pictures",
+        "Vanity Fair Studios"
+      ],
+      "networks": [
+        "Oxygen"
+      ],
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     }
   ]
 }

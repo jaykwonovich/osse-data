@@ -1,6 +1,6 @@
 {
   "range": "245001-246000",
-  "updated_at": 1765831208808,
+  "updated_at": 1765836378608,
   "shows": [
     {
       "id": 245189,
@@ -30,14 +30,83 @@
       "service_id": 365,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 91.16,
+      "relevance_score": 72.5
+    },
+    {
+      "id": 245648,
+      "title": "Billionaires' Bunker",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tXoZOTIwzLIEDzRfOf9c482dBqB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cyqKNRLFKCN9Y28ln38hLMESGEj.jpg",
+      "plot_overview": "When a group of billionaires takes shelter in a luxury bunker, an old feud between two families resurfaces amid an unprecedented global conflict.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 6.417,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-09-19",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 245648,
       "production_companies": [
-        "32 Flavors",
-        "Goodbye Pictures"
+        "Vancouver Media"
       ],
       "networks": [
-        "Bravo"
-      ]
+        "Netflix"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 79.25
+    },
+    {
+      "id": 245827,
+      "title": "Harlan Coben's Lazarus",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lxUlUBGnYJNxqOwc3baBdLpa3Lx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uj4wyiZPmZNRJBjThtqNrZvHN9w.jpg",
+      "plot_overview": "Forensic psychiatrist Dr Joel 'Laz' Lazarus is forced to confront long-buried demons after his father Dr L dies in suspicious circumstances. At first assured his dad's death is a suicide, Laz is soon sucked into a world of murderous conspiracy, and a race to find the killer, by strange visions of people he knows to be dead.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 6.386,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-22",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 245827,
+      "production_companies": [
+        "Quay Street Productions",
+        "Final Twist Productions",
+        "Amazon MGM Studios"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 79.16
     }
   ]
 }

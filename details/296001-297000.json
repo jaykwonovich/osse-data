@@ -1,7 +1,37 @@
 {
   "range": "296001-297000",
-  "updated_at": 1765831208819,
+  "updated_at": 1765836378616,
   "shows": [
+    {
+      "id": 296017,
+      "title": "Adaptive",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e28kXqodqJauk6LtWlClnhQqWpQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/t8tCMKllPN7Lk547bSHWLsGfhiS.jpg",
+      "plot_overview": "A profile of the personal and professional lives of world-class Paralympic athletes, highlighting the power of sport through community and advocacy.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 5.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-07-28",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 296017,
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 76.5
+    },
     {
       "id": 296579,
       "title": "Stumble",
@@ -37,7 +67,7 @@
       "service_id": 386,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 98.03
+      "relevance_score": 79.0
     },
     {
       "id": 296976,
@@ -63,19 +93,11 @@
         }
       ],
       "tmdb_id": 296976,
-      "production_companies": [
-        "CJ ENM",
-        "Eureka Productions",
-        "RichLion Productions"
-      ],
-      "networks": [
-        "Apple TV"
-      ],
       "service_name": "Apple TV+",
       "service_id": 350,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 88.82
+      "relevance_score": 70.29
     }
   ]
 }

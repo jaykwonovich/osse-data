@@ -1,6 +1,6 @@
 {
   "range": "270001-271000",
-  "updated_at": 1765831208814,
+  "updated_at": 1765836378611,
   "shows": [
     {
       "id": 270600,
@@ -38,8 +38,46 @@
       "service_name": "Peacock",
       "service_id": 386,
       "prediction_source": "existing",
-      "relevance_score": 77.85,
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
+    },
+    {
+      "id": 270734,
+      "title": "Murdaugh: Death in the Family",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fqNT4hsPdA0999NEMuLVeja4Cm2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pIbemkVivwk1SKVvmKlo53edMZt.jpg",
+      "plot_overview": "Maggie and Alex enjoy a lavish life of privilege as members of one of South Carolina's most powerful legal dynasties. But when their son Paul is involved in a deadly boat crash, the family is faced with a test unlike any they've ever encountered. As details come to light and new challenges emerge, the family's connections to several mysterious deaths raise questions which threaten everything Maggie and Alex hold dear.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-15",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 270734,
+      "production_companies": [
+        "Eat the Cat",
+        "UCP"
+      ],
+      "networks": [
+        "Hulu"
+      ],
+      "service_name": "Hulu",
+      "service_id": 15,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 80.1
     }
   ]
 }

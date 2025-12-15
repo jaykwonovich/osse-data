@@ -1,6 +1,6 @@
 {
   "range": "241001-242000",
-  "updated_at": 1765831208808,
+  "updated_at": 1765836378607,
   "shows": [
     {
       "id": 241372,
@@ -39,7 +39,7 @@
       "service_id": 9,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 77.85
+      "relevance_score": 60.0
     },
     {
       "id": 241388,
@@ -69,17 +69,9 @@
       "tmdb_id": 241388,
       "service_name": "Disney+",
       "service_id": 337,
-      "relevance_score": 96.93,
-      "production_companies": [
-        "Proximity Media",
-        "Marvel Studios",
-        "Axis Studios"
-      ],
-      "networks": [
-        "Disney+"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.95
     },
     {
       "id": 241576,
@@ -117,7 +109,7 @@
       "service_id": 8,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 102.03
+      "relevance_score": 82.8
     }
   ]
 }

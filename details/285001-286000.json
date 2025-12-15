@@ -1,6 +1,6 @@
 {
   "range": "285001-286000",
-  "updated_at": 1765831208817,
+  "updated_at": 1765836378614,
   "shows": [
     {
       "id": 285001,
@@ -26,11 +26,50 @@
       "tmdb_id": 285001,
       "service_name": "Paramount+",
       "service_id": 531,
-      "relevance_score": 95.92,
-      "production_companies": [],
-      "networks": [],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.0
+    },
+    {
+      "id": 285070,
+      "title": "Ninja vs. Gokudo",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zOokyOcW8KtCTkF6Km6KZKABz83.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/KQDy2RJMN2gsPV5RZO1pQdFZAQ.jpg",
+      "plot_overview": "The ninja banish evil from the shadows. The gokudo gather lonely outcasts and commit crimes. The grudge they forged centuries ago is rekindled in the present day. The ninja Shinoha meets Kiwami, a gokudo with the face of a businessman. Unknowing of the other's identity, they bond over anime, but the war between ninja and gokudo intensifies. Who will survive and who will perish, ninja or gokudo?",
+      "genres": [
+        "Animation",
+        "Action & Adventure"
+      ],
+      "user_rating": 5.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-08",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 285070,
+      "production_companies": [
+        "Studio Deen",
+        "Good Smile Film",
+        "Kodansha",
+        "Nippon Television Network Corporation",
+        "NK Animation"
+      ],
+      "networks": [
+        "Nippon TV"
+      ],
+      "service_name": "Prime Video",
+      "service_id": 9,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 77.7
     },
     {
       "id": 285643,
@@ -58,15 +97,9 @@
       "tmdb_id": 285643,
       "service_name": "MGM+",
       "service_id": 365,
-      "relevance_score": 103.29,
-      "production_companies": [
-        "Bravo"
-      ],
-      "networks": [
-        "Bravo"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 84.0
     },
     {
       "id": 285770,
@@ -102,9 +135,9 @@
       ],
       "service_name": "Prime Video",
       "service_id": 9,
-      "relevance_score": 100.77,
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 81.6
     }
   ]
 }

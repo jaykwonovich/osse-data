@@ -1,6 +1,6 @@
 {
   "range": "271001-272000",
-  "updated_at": 1765831208814,
+  "updated_at": 1765836378611,
   "shows": [
     {
       "id": 271053,
@@ -38,7 +38,7 @@
       "service_id": 1899,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 94.76
+      "relevance_score": 75.9
     },
     {
       "id": 271267,
@@ -77,7 +77,7 @@
       "service_id": 1899,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 99.82
+      "relevance_score": 80.7
     },
     {
       "id": 271607,
@@ -106,24 +106,9 @@
       "tmdb_id": 271607,
       "service_name": "Netflix",
       "service_id": 8,
-      "relevance_score": 105.5,
-      "production_companies": [
-        "Aniplex",
-        "Kodansha",
-        "CloverWorks",
-        "Tokyo MX",
-        "BS11",
-        "movic",
-        "Marui Group"
-      ],
-      "networks": [
-        "Gunma TV",
-        "Tokyo MX",
-        "BS11",
-        "Tochigi TV"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 86.1
     },
     {
       "id": 271823,
@@ -150,17 +135,11 @@
         }
       ],
       "tmdb_id": 271823,
-      "production_companies": [
-        "Curio Pictures"
-      ],
-      "networks": [
-        "Paramount+"
-      ],
       "service_name": "Netflix",
       "service_id": 8,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 98.03
+      "relevance_score": 79.0
     },
     {
       "id": 271918,
@@ -188,13 +167,9 @@
       "tmdb_id": 271918,
       "service_name": "MGM+",
       "service_id": 365,
-      "relevance_score": 94.34,
-      "production_companies": [],
-      "networks": [
-        "Bravo"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 75.5
     }
   ]
 }

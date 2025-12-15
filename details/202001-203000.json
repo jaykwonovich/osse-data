@@ -1,6 +1,6 @@
 {
   "range": "202001-203000",
-  "updated_at": 1765831208802,
+  "updated_at": 1765836378602,
   "shows": [
     {
       "id": 202282,
@@ -30,17 +30,9 @@
       "tmdb_id": 202282,
       "service_name": "Starz",
       "service_id": 318,
-      "relevance_score": 83.83,
-      "production_companies": [
-        "Telecom Animation Film",
-        "Williams Street",
-        "Sola Entertainment"
-      ],
-      "networks": [
-        "Adult Swim"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 65.6
     },
     {
       "id": 202284,
@@ -71,15 +63,7 @@
       "service_id": 318,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 93.7,
-      "production_companies": [
-        "E&H production",
-        "Sola Entertainment",
-        "Williams Street"
-      ],
-      "networks": [
-        "Adult Swim"
-      ]
+      "relevance_score": 74.9
     }
   ]
 }

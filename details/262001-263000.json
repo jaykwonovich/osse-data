@@ -1,6 +1,6 @@
 {
   "range": "262001-263000",
-  "updated_at": 1765831208814,
+  "updated_at": 1765836378611,
   "shows": [
     {
       "id": 262259,
@@ -39,9 +39,9 @@
       ],
       "service_name": "Hulu",
       "service_id": 15,
-      "relevance_score": 101.49,
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 82.29
     },
     {
       "id": 262793,
@@ -78,7 +78,44 @@
       "service_id": 386,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 77.85
+      "relevance_score": 60.0
+    },
+    {
+      "id": 262928,
+      "title": "Love in the Clouds",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jsQYb6yXT6ZnEZ6KMMA1sChxPrb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/740EohtgbVDXsiaEoDJPc1k0tVX.jpg",
+      "plot_overview": "At the annual Qingyun Conference in the Hexu Six Realms, Ji Bozai, a warrior from the Jixing Abyss with a past as a convict, defeated Ming Yi, the cold warrior goddess who had reigned supreme for seven consecutive years. Overnight, Ji Bozai became the hottest new star in Jixing Abyss. Meanwhile, Ming Yi, hiding her true identity, disguised herself as a dancer to get close to Ji Bozai. Under their carefully crafted personas, the two engaged in a thrilling dance of deception and attraction, fighti",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 8.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-08",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 262928,
+      "production_companies": [
+        "Seasons Pictures"
+      ],
+      "networks": [
+        "Youku"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 84.0
     }
   ]
 }

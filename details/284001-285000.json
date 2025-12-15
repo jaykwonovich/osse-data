@@ -1,6 +1,6 @@
 {
   "range": "284001-285000",
-  "updated_at": 1765831208816,
+  "updated_at": 1765836378614,
   "shows": [
     {
       "id": 284380,
@@ -26,14 +26,9 @@
       "tmdb_id": 284380,
       "service_name": "MGM+",
       "service_id": 365,
-      "relevance_score": 77.85,
-      "production_companies": [],
-      "networks": [
-        "YouTube",
-        "NBC.com"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 284838,
@@ -71,7 +66,7 @@
       "service_id": 15,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 102.03
+      "relevance_score": 82.8
     }
   ]
 }

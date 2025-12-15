@@ -1,6 +1,6 @@
 {
   "range": "288001-289000",
-  "updated_at": 1765831208818,
+  "updated_at": 1765836378615,
   "shows": [
     {
       "id": 288453,
@@ -28,13 +28,9 @@
       "tmdb_id": 288453,
       "service_name": "MGM+",
       "service_id": 365,
-      "relevance_score": 103.29,
-      "production_companies": [],
-      "networks": [
-        "Bravo"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 84.0
     },
     {
       "id": 288595,
@@ -71,9 +67,9 @@
       ],
       "service_name": "Max",
       "service_id": 1899,
-      "relevance_score": 77.85,
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     }
   ]
 }

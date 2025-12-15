@@ -1,7 +1,44 @@
 {
   "range": "302001-303000",
-  "updated_at": 1765831208820,
+  "updated_at": 1765836378617,
   "shows": [
+    {
+      "id": 302012,
+      "title": "My Sister's Husband",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9e1cY82LRfZFpRmBKBc99LGQ9kq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5RzVwzs3fWy9gYeBpcQ1QKFoqQM.jpg",
+      "plot_overview": "A woman's happy marriage starts to unravel when her college-age sister moves into her home and draws the intention of her husband.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-11-03",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 302012,
+      "production_companies": [
+        "MD Entertainment"
+      ],
+      "networks": [
+        "Netflix",
+        "MD TV"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 81.0
+    },
     {
       "id": 302606,
       "title": "Everything On The Menu with Braun Strowman",
@@ -30,9 +67,45 @@
       ],
       "service_name": "Peacock",
       "service_id": 386,
-      "relevance_score": 77.85,
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
+    },
+    {
+      "id": 302723,
+      "title": "Just Alice",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xV0dzVfaYgqWBnKVNWWyZk2YdrE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xHo8DmcIoYSc27O7CL4Z7Ysp5Tz.jpg",
+      "plot_overview": "Torn between two loves, Alicia secretly marries both a famous writer and a former priest. How long can she juggle love, lies and her double life?",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Soap"
+      ],
+      "user_rating": 6.778,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-11-05",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 302723,
+      "production_companies": [],
+      "networks": [
+        "Netflix"
+      ],
+      "service_name": "Netflix",
+      "service_id": 8,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 80.33
     },
     {
       "id": 302919,
@@ -69,7 +142,7 @@
       "service_id": 337,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 104.87
+      "relevance_score": 85.5
     }
   ]
 }

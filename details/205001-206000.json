@@ -1,7 +1,48 @@
 {
   "range": "205001-206000",
-  "updated_at": 1765831208803,
+  "updated_at": 1765836378603,
   "shows": [
+    {
+      "id": 205192,
+      "title": "E.B. White's Charlotte's Web",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aQAgKexRAQFednLUtJyyLBW1yU6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/a8beHMNvA2rpcpdujVvtzOR9ZPU.jpg",
+      "plot_overview": "When farm pig Wilbur learns he is being raised for slaughter, barn spider Charlotte writes messages in her web to convince the farmer to let him live.",
+      "genres": [
+        "Family",
+        "Animation",
+        "Drama",
+        "Kids"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-02",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 205192,
+      "production_companies": [
+        "Sesame Workshop",
+        "Guru Studio",
+        "Big in Delaware Productions"
+      ],
+      "networks": [
+        "HBO Max"
+      ],
+      "service_name": "Max",
+      "service_id": 1899,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 81.0
+    },
     {
       "id": 205504,
       "title": "Royal Crackers",
@@ -31,14 +72,7 @@
       "service_id": 318,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 85.43,
-      "production_companies": [
-        "Titmouse",
-        "Williams Street"
-      ],
-      "networks": [
-        "Adult Swim"
-      ]
+      "relevance_score": 67.1
     }
   ]
 }

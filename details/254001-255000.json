@@ -1,6 +1,6 @@
 {
   "range": "254001-255000",
-  "updated_at": 1765831208810,
+  "updated_at": 1765836378609,
   "shows": [
     {
       "id": 254071,
@@ -37,7 +37,7 @@
       "service_id": 9,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 77.85
+      "relevance_score": 60.0
     },
     {
       "id": 254302,
@@ -65,9 +65,38 @@
       "service_id": 531,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 67.08,
-      "production_companies": [],
-      "networks": []
+      "relevance_score": 50.0
+    },
+    {
+      "id": 254356,
+      "title": "The Breslau Murders",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qLaT21ydPfLaogaOMOF7Y1P9zhY.jpg",
+      "plot_overview": "Commissioner Franz Podolsky investigates a brutal murder and, because of the upcoming Olympic Games, the pressure is on to catch the murderer.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 6.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-09-12",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 254356,
+      "service_name": "Hulu",
+      "service_id": 15,
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 78.9
     },
     {
       "id": 254482,
@@ -103,9 +132,9 @@
       ],
       "service_name": "Netflix",
       "service_id": 8,
-      "relevance_score": 109.59,
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 90.0
     },
     {
       "id": 254741,
@@ -133,9 +162,7 @@
       "service_id": 531,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 67.08,
-      "production_companies": [],
-      "networks": []
+      "relevance_score": 50.0
     }
   ]
 }

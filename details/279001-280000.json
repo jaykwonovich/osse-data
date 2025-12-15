@@ -1,6 +1,6 @@
 {
   "range": "279001-280000",
-  "updated_at": 1765831208816,
+  "updated_at": 1765836378613,
   "shows": [
     {
       "id": 279319,
@@ -28,13 +28,9 @@
       "tmdb_id": 279319,
       "service_name": "Paramount+",
       "service_id": 531,
-      "relevance_score": 67.08,
-      "production_companies": [],
-      "networks": [
-        "Movistar Plus+"
-      ],
       "prediction_source": "existing",
-      "prediction_confidence": 1.0
+      "prediction_confidence": 1.0,
+      "relevance_score": 50.0
     },
     {
       "id": 279601,
@@ -71,7 +67,7 @@
       "service_id": 8,
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 100.37
+      "relevance_score": 81.22
     }
   ]
 }
