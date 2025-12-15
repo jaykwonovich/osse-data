@@ -1,24 +1,23 @@
 {
   "range": "62001-63000",
-  "updated_at": 1765830970587,
+  "updated_at": 1765842560038,
   "shows": [
     {
-      "id": 62286,
-      "title": "Fear the Walking Dead",
+      "id": 62017,
+      "title": "The Man in the High Castle",
       "type": "tv_series",
       "year": 2015,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/l7N9aS6VyYvjelKoCB2eZge0Qky.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dvDkq5Mcv27vpHRvF1ywFGroh03.jpg",
-      "plot_overview": "What did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/xhoDZbMNeyCA0BGPZQsdIiO43Dp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pLio7Lod6YoNMM7ybFVjIJjwIxe.jpg",
+      "plot_overview": "Explore what it would be like if the Allied Powers had lost WWII, and Japan and Germany ruled the United States. Based on Philip K. Dick's award-winning novel.",
       "genres": [
-        "action",
-        "drama"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
-      "user_rating": 7.638,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2015-08-23",
+      "release_date": "2015-01-15",
       "streaming_services": [
         {
           "service_id": 9,
@@ -27,22 +26,103 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 62286,
-      "relevance_score": 26.9766
+      "tmdb_id": 62017
+    },
+    {
+      "id": 62286,
+      "title": "Fear the Walking Dead",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l7N9aS6VyYvjelKoCB2eZge0Qky.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dvDkq5Mcv27vpHRvF1ywFGroh03.jpg",
+      "plot_overview": "What did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 7.638,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-08-23",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62286
+    },
+    {
+      "id": 62560,
+      "title": "Mr. Robot",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hZOuVkhAWX9viLJuaIsMh8cM3Jz.jpg",
+      "plot_overview": "A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 8.258,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-06-24",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62560
+    },
+    {
+      "id": 62643,
+      "title": "DC's Legends of Tomorrow",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qNgAcg4gNYbZ9mySLB9ZX4ehZb6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/be8fOACxsVyaX6lZLlQOWNqF0g2.jpg",
+      "plot_overview": "When heroes alone are not enough ... the world needs legends. Having seen the future, one he will desperately try to prevent from happening, time-traveling rogue Rip Hunter is tasked with assembling a disparate group of both heroes and villains to confront an unstoppable threat \u2014 one in which not only is the planet at stake, but all of time itself. Can this ragtag team defeat an immortal threat unlike anything they have ever known?",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "user_rating": 7.269,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-01-21",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62643
     },
     {
       "id": 62649,
       "title": "Superstore",
       "type": "tv_series",
       "year": 2015,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/2tpY5qIYwH85njvjI5BnH4VNA6p.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
       "plot_overview": "A hilarious workplace comedy about a unique family of employees at a super-sized mega store. From the bright-eyed newbies and the seen-it-all veterans to the clueless summer hires and the in-it-for-life managers, together they hilariously tackle the day-to-day grind of rabid bargain hunters, riot-causing sales and nap-worthy training sessions.",
       "genres": [
-        "comedy"
+        "Comedy"
       ],
       "user_rating": 7.533,
       "critic_score": null,
@@ -50,28 +130,30 @@
       "release_date": "2015-11-30",
       "streaming_services": [
         {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
           "service_id": 386,
           "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 62649,
-      "relevance_score": 16.253
+      "tmdb_id": 62649
     },
     {
       "id": 62650,
       "title": "Chicago Med",
       "type": "tv_series",
       "year": 2015,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/x2jNLrYw1s9i6kihEJqsBQgs9nR.jpg",
       "plot_overview": "An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
       "genres": [
-        "drama"
+        "Drama"
       ],
       "user_rating": 8.282,
       "critic_score": null,
@@ -85,24 +167,20 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 62650,
-      "relevance_score": 31.5487
+      "tmdb_id": 62650
     },
     {
       "id": 62688,
       "title": "Supergirl",
       "type": "tv_series",
       "year": 2015,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/cFO65xb0xiXKqk5BmgHawCXB1i0.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mmprryb2r0X8u9JkZCnaJIzyYX4.jpg",
       "plot_overview": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
       "genres": [
-        "drama",
-        "sci-fi",
-        "action"
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
       "user_rating": 7.289,
       "critic_score": null,
@@ -116,10 +194,111 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 62688,
-      "relevance_score": 31.069
+      "tmdb_id": 62688
+    },
+    {
+      "id": 62710,
+      "title": "Blindspot",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1GWiao0QYuKsoTvUmd7ivnE3qDY.jpg",
+      "plot_overview": "A vast international plot explodes when a beautiful Jane Doe is discovered naked in Times Square, completely covered in mysterious, intricate tattoos with no memory of who she is or how she got there. But there's one tattoo that is impossible to miss: the name of FBI agent Kurt Weller, emblazoned across her back. \"Jane,\" Agent Weller and the rest of the FBI quickly realize that each mark on her body is a crime to solve, leading them closer to the truth about her identity and the mysteries to be ",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.375,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-09-21",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62710
+    },
+    {
+      "id": 62822,
+      "title": "Humans",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fS2AKTDK0VwZo7dq9sG38D9cuu.jpg",
+      "plot_overview": "In a parallel present where the latest must-have gadget for any busy family is a 'Synth' - a highly-developed robotic servant that's so similar to a real human it's transforming the way we live.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.461,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-06-14",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62822
+    },
+    {
+      "id": 62875,
+      "title": "BUNK'D: Learning the Ropes",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/at3gMIGpvoofKMgmsnhVFgmBnAe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3vcDGyCiot23FqjhAxnZmwvItOH.jpg",
+      "plot_overview": "Siblings Emma, Ravi, and Zuri Ross leave their extravagant New York City penthouse once again to return to Camp Kikiwaka, a rustic summer camp in Maine where their parents met as teenagers.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-07-31",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62875
+    },
+    {
+      "id": 62884,
+      "title": "Forged in Fire",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qTeChgTbGdrxRy6X3TFRW83e1U2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xOnS8d82wB19YcVWT2r2RDGsQOm.jpg",
+      "plot_overview": "Competitors re-create weapons from historical periods ranging from Japanese katanas to medieval broadswords to ancient throwing blades. Each entry is judged on its artistry as well as its functionality and accuracy.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-06-22",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62884
     }
   ]
 }

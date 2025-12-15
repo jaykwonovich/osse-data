@@ -1,19 +1,44 @@
 {
   "range": "124001-125000",
-  "updated_at": 1765702770774,
+  "updated_at": 1765842560050,
   "shows": [
+    {
+      "id": 124067,
+      "title": "Winning Time: The Rise of the Lakers Dynasty",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6B9hTge98t52bQofyvs1M370k7n.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/Avl8fHtx4QUfdv15grQTHK8ACvr.jpg",
+      "plot_overview": "A fast-break series chronicling the professional and personal lives of the 1980s Los Angeles Lakers, one of sports\u2019 most revered and dominant dynasties \u2014 a team that defined an era, both on and off the court.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-03-06",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 124067
+    },
     {
       "id": 124101,
       "title": "Hacks",
       "type": "tv_series",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dDEj2qS9RGiY6P3Bkzc0EEMaKpR.jpg",
       "plot_overview": "Explore a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
       "genres": [
-        "comedy",
-        "drama"
+        "Comedy",
+        "Drama"
       ],
       "user_rating": 7.449,
       "critic_score": null,
@@ -27,23 +52,19 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 124101,
-      "relevance_score": 13.0611
+      "tmdb_id": 124101
     },
     {
       "id": 124800,
       "title": "Love & Death",
       "type": "tv_series",
       "year": 2023,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/8WchbT0UPQeo3PZ6G01fhccYaQB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/A1kULtnwc9v4gaYqIGyMu4YDOFu.jpg",
       "plot_overview": "Candy and Pat Montgomery and Betty and Allan Gore \u2014 two churchgoing couples \u2014 enjoy their small town Texas life... until an extramarital affair leads somebody to pick up an axe.",
       "genres": [
-        "crime",
-        "drama"
+        "Crime",
+        "Drama"
       ],
       "user_rating": 7.839,
       "critic_score": null,
@@ -51,45 +72,13 @@
       "release_date": "2023-04-27",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 124800,
-      "relevance_score": 7.5768
-    },
-    {
-      "id": 124834,
-      "title": "Heartstopper",
-      "type": "tv_series",
-      "year": 2022,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wJJt1HG62h3WoGnLcRIbO2nNNkg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eGYnmsEs5cutoPQKf2QUlT4RgCH.jpg",
-      "plot_overview": "Teens Charlie and Nick discover their unlikely friendship might be something more as they navigate school and young love in this coming-of-age series.",
-      "genres": [
-        "drama"
-      ],
-      "user_rating": 8.571,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2022-04-22",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 124834,
-      "relevance_score": 10.1774
+      "tmdb_id": 124800
     }
   ]
 }

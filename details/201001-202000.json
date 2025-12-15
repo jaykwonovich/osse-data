@@ -1,6 +1,6 @@
 {
   "range": "201001-202000",
-  "updated_at": 1765842216078,
+  "updated_at": 1765842560054,
   "shows": [
     {
       "id": 201643,
@@ -28,6 +28,31 @@
         }
       ],
       "tmdb_id": 201643
+    },
+    {
+      "id": 201834,
+      "title": "ted",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cFyp7F8qiBSuSj1qhUnu8MDvubl.jpg",
+      "plot_overview": "It's 1993 and Ted the bear's moment of fame has passed, leaving him living with his best friend, 16-year-old John Bennett, who lives in a working-class Boston home with his parents and cousin. Ted may not be the best influence on John, but when it comes right down to it, he's willing to go out on a limb to help his friend and his family.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-01-11",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 201834
     }
   ]
 }

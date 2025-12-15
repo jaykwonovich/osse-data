@@ -1,20 +1,19 @@
 {
   "range": "85001-86000",
-  "updated_at": 1765830970593,
+  "updated_at": 1765842560044,
   "shows": [
     {
       "id": 85077,
       "title": "The Chosen",
       "type": "tv_series",
       "year": 2019,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
       "plot_overview": "The life of Christ through the eyes of those who encountered him.",
       "genres": [
-        "drama",
-        "family",
-        "action"
+        "Drama",
+        "Family",
+        "Action & Adventure"
       ],
       "user_rating": 8.692,
       "critic_score": null,
@@ -28,24 +27,77 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 85077,
-      "relevance_score": 30.8791
+      "tmdb_id": 85077
+    },
+    {
+      "id": 85271,
+      "title": "WandaVision",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
+      "plot_overview": "Wanda Maximoff and Vision\u2014two super-powered beings living idealized suburban lives\u2014begin to suspect that everything is not as it seems.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Drama"
+      ],
+      "user_rating": 8.203,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-01-15",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 85271
+    },
+    {
+      "id": 85349,
+      "title": "Amphibia",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bFCgv9iWZECWSDxNQYc9soqvwjx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6vk1WNHyNKR4oQooBJpZ8pGksBz.jpg",
+      "plot_overview": "The adventures of 13-year-old, self-centered Anne Boonchuy who is magically transported to the fictitious world of Amphibia, a rural marshland full of frog-people. With the help of an excitable young frog named Sprig, Anne will become a hero and discover the first true friendship of her life.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Kids",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Family"
+      ],
+      "user_rating": 8.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-06-17",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 85349
     },
     {
       "id": 85552,
       "title": "Euphoria",
       "type": "tv_series",
       "year": 2019,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
       "plot_overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
       "genres": [
-        "drama"
+        "Drama"
       ],
-      "user_rating": 8.3,
+      "user_rating": 8.287,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-06-16",
@@ -57,10 +109,34 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 85552,
-      "relevance_score": 37.9487
+      "tmdb_id": 85552
+    },
+    {
+      "id": 85853,
+      "title": "Perry Mason",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5QcaEyfSbJEmiaxf7ch8nBl0GO4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2KzRW0vaaO91zTeWuCHPMaJjesu.jpg",
+      "plot_overview": "Set in 1932 Los Angeles, the series focuses on the origin story of famed defense lawyer Perry Mason. Living check-to-check as a low-rent private investigator, Mason is haunted by his wartime experiences in France and suffering the effects of a broken marriage. L.A. is booming while the rest of the country recovers from the Great Depression \u2014 but a kidnapping gone very wrong leads to Mason exposing a fractured city as he uncovers the truth of the crime.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "user_rating": 7.227,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-06-21",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 85853
     }
   ]
 }

@@ -1,7 +1,87 @@
 {
   "range": "114001-115000",
-  "updated_at": 1765842216074,
+  "updated_at": 1765842560049,
   "shows": [
+    {
+      "id": 114165,
+      "title": "Kung Fu",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ynpI9lvBe2gbNkH3a764xOeMajO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fcDM4HJybquvhTijxbSfxFTuJJf.jpg",
+      "plot_overview": "A quarter-life crisis causes a young Chinese-American woman to drop out of college and go on a life-changing journey to an isolated monastery in China. But when she returns to find her hometown overrun with crime and corruption, she uses her martial arts skills and Shaolin values to protect her community and bring criminals to justice\u2026all while searching for the assassin who killed her Shaolin mentor and is now targeting her.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-04-07",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 114165
+    },
+    {
+      "id": 114461,
+      "title": "Ahsoka",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/loDy1LWCkPjECjVTRmyKtOoUpNN.jpg",
+      "plot_overview": "Former Jedi Knight Ahsoka Tano investigates an emerging threat to a vulnerable galaxy.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 7.463,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-08-22",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 114461
+    },
+    {
+      "id": 114463,
+      "title": "Zootopia+",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/inzPPPr2BsE92m4rHhQn3sf2yPk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kq4IbjT5LRWVHEafDzLVZZEAf0O.jpg",
+      "plot_overview": "Head back to the mammal metropolis to dive deeper into the lives of a slew of intriguing residents.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.188,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-11-09",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 114463
+    },
     {
       "id": 114471,
       "title": "Ironheart",
@@ -27,6 +107,39 @@
         }
       ],
       "tmdb_id": 114471
+    },
+    {
+      "id": 114478,
+      "title": "Star Wars: Visions",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lG9ltUP4FwvsQBcwOJYceDbP48E.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m2QTmJhe36uKrkQjC1MsNV7Dcqp.jpg",
+      "plot_overview": "This anthology of animated shorts from around the world celebrates the mythos of Star Wars through unique cultural lenses.",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.107,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-09-22",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 114478
     }
   ]
 }

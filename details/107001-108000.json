@@ -1,18 +1,44 @@
 {
   "range": "107001-108000",
-  "updated_at": 1765830970599,
+  "updated_at": 1765842560047,
   "shows": [
+    {
+      "id": 107113,
+      "title": "Only Murders in the Building",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1yjFVQZuW8aofZ5Cgol8iImsVFp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/WCnEPf4ZNPjszndmrFlDxZ5Uvd.jpg",
+      "plot_overview": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Crime"
+      ],
+      "user_rating": 8.498,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-08-31",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 107113
+    },
     {
       "id": 107365,
       "title": "Bel-Air",
       "type": "tv_series",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/j8tbXWXrL15RucA6H4khq87dEXa.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/929XdVflzbgQWtKFDOnak3saK0R.jpg",
       "plot_overview": "The journey of a book smart teen whose life is forever transformed when he moves from the streets of west Philadelphia to live with his relatives in one of LA\u2019s wealthiest suburbs.",
       "genres": [
-        "drama"
+        "Drama"
       ],
       "user_rating": 7.775,
       "critic_score": null,
@@ -26,10 +52,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 107365,
-      "relevance_score": 15.0946
+      "tmdb_id": 107365
     }
   ]
 }

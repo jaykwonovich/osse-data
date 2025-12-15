@@ -1,48 +1,17 @@
 {
   "range": "3001-4000",
-  "updated_at": 1765830970568,
+  "updated_at": 1765842560027,
   "shows": [
-    {
-      "id": 3034,
-      "title": "Scene of the Crime",
-      "type": "tv_series",
-      "year": 1970,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yh43TKi9himQWhzrlWBxV8WjsFn.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lUrtMjiunomHPDC2sQNIxswbmdU.jpg",
-      "plot_overview": "Tatort is a long-running German/Austrian/Swiss, crime television series set in various parts of these countries. The show is broadcast on the channels of ARD in Germany, ORF in Austria and SF1 in Switzerland.",
-      "genres": [
-        "drama",
-        "crime"
-      ],
-      "user_rating": 6.1,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1970-11-29",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 3034,
-      "relevance_score": 45.1731
-    },
     {
       "id": 3050,
       "title": "The Practice",
       "type": "tv_series",
       "year": 1997,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/7OKZSUIWhjFP0F2s478zTrAYwDB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wnAboUyDiTILkZfPhFyVIiY87Fa.jpg",
       "plot_overview": "A provocative legal drama focused on young associates at a bare-bones Boston firm and their scrappy boss, Bobby Donnell. The show's forte is its storylines about \u201cpeople who walk a moral tightrope.\u201d",
       "genres": [
-        "drama"
+        "Drama"
       ],
       "user_rating": 7.648,
       "critic_score": null,
@@ -56,26 +25,22 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 3050,
-      "relevance_score": 22.5402
+      "tmdb_id": 3050
     },
     {
       "id": 3319,
       "title": "Darkwing Duck",
       "type": "tv_series",
       "year": 1991,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/1gJMSXS0gwM8gDJnzVSITcxbQc.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aTSHegWfhzonUnouL6dhBxK9S9M.jpg",
       "plot_overview": "The adventures of superhero Darkwing Duck, aided by his sidekick Launchpad McQuack. In his secret identity of Drake Mallard, he lives in a suburban house with his adopted daughter Gosalyn, next door to the bafflingly dim-witted Muddlefoot family. A spin-off of DuckTales.",
       "genres": [
-        "action",
-        "animation",
-        "comedy",
-        "family",
-        "family"
+        "Action & Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -89,23 +54,19 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 3319,
-      "relevance_score": 13.9783
+      "tmdb_id": 3319
     },
     {
       "id": 3322,
       "title": "Oz",
       "type": "tv_series",
       "year": 1997,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/CwqqwYWnMOLUwsqAqveHNnwTGC.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7C7OEM3NFRraDDnOaUHgDPou3NG.jpg",
       "plot_overview": "The daily lives of prisoners in Emerald City, an experimental unit of the Oswald Maximum Security Prison where ingroups - Muslims, Latinos, Italians, Aryans - stick close to their mutual friends and terrorize their mutual enemies.",
       "genres": [
-        "crime",
-        "drama"
+        "Crime",
+        "Drama"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -119,23 +80,19 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 3322,
-      "relevance_score": 14.8732
+      "tmdb_id": 3322
     },
     {
       "id": 3452,
       "title": "Frasier",
       "type": "tv_series",
       "year": 1993,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4FqKFhF4BrNsrK3EdRpVJofVqCp.jpg",
       "plot_overview": "After many years spent at the \u201cCheers\u201d bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his policeman father gets shot in the hip on duty.",
       "genres": [
-        "comedy",
-        "family"
+        "Comedy",
+        "Family"
       ],
       "user_rating": 7.689,
       "critic_score": null,
@@ -147,33 +104,33 @@
           "service_name": "Hulu",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 3452,
-      "relevance_score": 29.9553
+      "tmdb_id": 3452
     },
     {
-      "id": 3934,
-      "title": "Mickey Mouse Clubhouse",
+      "id": 3498,
+      "title": "Wizards of Waverly Place",
       "type": "tv_series",
-      "year": 2006,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dGvW61JwuqwtShk849PHZflOAX.jpg",
-      "plot_overview": "Mickey and his friends Minnie, Donald, Pluto, Daisy, Goofy, Pete, Clarabelle and more go on fun and educational adventures.",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/spVI8Zns4Ep30zzxcoO7f7nwfck.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7CVy5uTj3JNF8wqb2VnfQdjL07V.jpg",
+      "plot_overview": "Alex, Justin and Max Russo are not your ordinary kids - they're wizards in training! While their parents run the Waverly Sub Station,\u00a0the siblings struggle to balance their ordinary lives while learning to master their extraordinary powers.",
       "genres": [
-        "family",
-        "animation",
-        "comedy",
-        "sci-fi",
-        "action"
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Kids"
       ],
-      "user_rating": 6.8,
+      "user_rating": 8.628,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2006-05-05",
+      "release_date": "2007-10-12",
       "streaming_services": [
         {
           "service_id": 337,
@@ -182,10 +139,86 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 3934,
-      "relevance_score": 21.1576
+      "tmdb_id": 3498
+    },
+    {
+      "id": 3750,
+      "title": "Nip/Tuck",
+      "type": "tv_series",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/v5uEYpNbjGmJC59xqvmPW58aSTl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6FrVFsxsXujg7GJiBy1sw0Fdnji.jpg",
+      "plot_overview": "Hotshot plastic surgeons Dr. Sean McNamara and Dr. Christian Troy experience full-blown midlife crises as they confront career, family and romance problems.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.183,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2003-07-22",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 3750
+    },
+    {
+      "id": 3763,
+      "title": "Dinosaurs",
+      "type": "tv_series",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rcD2grjO6xAerWLkSgpmGkGhnTH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e1mgahsZE1t1lXzuDIvaZY24lSN.jpg",
+      "plot_overview": "Dinosaurs follows the life of a family of dinosaurs, living in a modern world. They have TV's, fridges, microwaves, and every modern convenience.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.782,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1991-04-26",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 3763
+    },
+    {
+      "id": 3797,
+      "title": "Life",
+      "type": "tv_series",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4zTDeRJxdMqH3Si2fIZjQi44k17.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5Ecv4eIWDBeOPqcA9iWb04NCsmr.jpg",
+      "plot_overview": "Complex, offbeat Detective Charlie Crews returns to the force after serving time in prison for a crime he didn\u2019t commit. Crews\u2019 new lease on life has provided him with a Zen-like outlook, peace of mind and no need for vengeance, an attitude which can be challenging to maintain when someone he cares about is threatened \u2014 or when he is investigating the mystery surrounding the murder he was falsely accused of.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "user_rating": 7.675,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-09-26",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 3797
     }
   ]
 }

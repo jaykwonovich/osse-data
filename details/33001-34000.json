@@ -1,20 +1,19 @@
 {
   "range": "33001-34000",
-  "updated_at": 1765830970579,
+  "updated_at": 1765842560033,
   "shows": [
     {
       "id": 33001,
       "title": "Haven",
       "type": "tv_series",
       "year": 2010,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/aceumwROgphFLSyOXFfijaoSZJE.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jg3iq5KFCVrYHVZrPLqznKW2Fz0.jpg",
       "plot_overview": "FBI agent Audrey Parker arrives in the small town of Haven, Maine to solve a murder and soon discovers the town's many secrets\u2014which also hold the key to unlocking the mysteries of her lost past.",
       "genres": [
-        "drama",
-        "sci-fi",
-        "mystery"
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Mystery"
       ],
       "user_rating": 7.537,
       "critic_score": null,
@@ -22,30 +21,60 @@
       "release_date": "2010-07-09",
       "streaming_services": [
         {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
           "service_id": 386,
           "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 33001,
-      "relevance_score": 16.63
+      "tmdb_id": 33001
+    },
+    {
+      "id": 33213,
+      "title": "Shake It Up",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oD7B9qrgqT7tUZNi3pk2onk5C2D.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9Iy10uBC7AxCiXjkNOfP838jLtR.jpg",
+      "plot_overview": "Best pals CeCe and Rocky dream of dancing stardom. And they seem on the verge of realizing that goal when they win places as backup dancers on the local TV show \"Shake It Up, Chicago.\" While they get to show off their moves, they find out they need to keep putting their best feet forward to keep up with the rest of the crew on the show.",
+      "genres": [
+        "Family",
+        "Kids",
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.591,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-11-07",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 33213
     },
     {
       "id": 33217,
       "title": "Young Justice",
       "type": "tv_series",
       "year": 2010,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/zMJw34G4OJhcd9NjKSRjJdDqjbR.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pOKcw45cAMPu8DN7E3bN5FEvxM3.jpg",
       "plot_overview": "Teenage superheroes strive to prove themselves as members of the Justice League.",
       "genres": [
-        "animation",
-        "sci-fi",
-        "action"
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
       "user_rating": 8.385,
       "critic_score": null,
@@ -59,24 +88,82 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 33217,
-      "relevance_score": 23.6239
+      "tmdb_id": 33217
+    },
+    {
+      "id": 33623,
+      "title": "The Avengers: Earth's Mightiest Heroes",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r1JDhMrqCOZKh7lc0vQlRYQ46cE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vgPDKfOerEyF260CvozVEWj9T8n.jpg",
+      "plot_overview": "The most powerful villains on the planet escape from prison. However, none of the superheroes can stop them without help, not even S.H.I.E.L.D. The Avengers then join forces to fight evil, and discover that as a group they are stronger.",
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Family"
+      ],
+      "user_rating": 8.199,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-10-20",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 33623
+    },
+    {
+      "id": 33765,
+      "title": "My Little Pony: Friendship Is Magic",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fwW7WgJIjhBsnzk87Gyh6g9187m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/omL3sd4bctdEmA8aqj1zlBqRZHS.jpg",
+      "plot_overview": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuable lessons about friendship.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "user_rating": 8.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-10-10",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 33765
     },
     {
       "id": 33907,
       "title": "Downton Abbey",
       "type": "tv_series",
       "year": 2010,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/7HgDYRYjym4BwbhKaqTQq771SKb.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vXbSoGHWtzViIgHxcD3tqLTr0lc.jpg",
       "plot_overview": "A chronicle of the lives of the aristocratic Crawley family and their servants in the post-Edwardian era\u2014with great events in history having an effect on their lives and on the British social hierarchy.\n\n",
       "genres": [
-        "drama"
+        "Drama"
       ],
-      "user_rating": 8.1,
+      "user_rating": 8.12,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-09-26",
@@ -86,12 +173,15 @@
           "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 33907,
-      "relevance_score": 24.9184
+      "tmdb_id": 33907
     }
   ]
 }

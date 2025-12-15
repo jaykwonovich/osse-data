@@ -1,21 +1,45 @@
 {
   "range": "48001-49000",
-  "updated_at": 1765830970584,
+  "updated_at": 1765842560036,
   "shows": [
+    {
+      "id": 48865,
+      "title": "Reign",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/epNfFs0gPyrpekecpzyX0XTkZgI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ombM2Yd0UORA7AlxXnIQ6ZFd8yE.jpg",
+      "plot_overview": "Mary, Queen of Scots, faces political and sexual intrigue in the treacherous world of the French court.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 8.041,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-10-17",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 48865
+    },
     {
       "id": 48866,
       "title": "The 100",
       "type": "tv_series",
       "year": 2014,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
       "plot_overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet \u2014 but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
       "genres": [
-        "sci-fi",
-        "action",
-        "drama",
-        "crime"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama",
+        "Crime"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -29,23 +53,19 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 48866,
-      "relevance_score": 41.2882
+      "tmdb_id": 48866
     },
     {
       "id": 48891,
       "title": "Brooklyn Nine-Nine",
       "type": "tv_series",
       "year": 2013,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/A3SymGlOHefSKbz1bCOz56moupS.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wyspZaGs7CXceV3Ct7NJhcKNDkn.jpg",
       "plot_overview": "A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.",
       "genres": [
-        "comedy",
-        "crime"
+        "Comedy",
+        "Crime"
       ],
       "user_rating": 8.22,
       "critic_score": null,
@@ -57,12 +77,15 @@
           "service_name": "Netflix",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 48891,
-      "relevance_score": 39.6747
+      "tmdb_id": 48891
     }
   ]
 }

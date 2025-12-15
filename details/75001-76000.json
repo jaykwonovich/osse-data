@@ -1,20 +1,46 @@
 {
   "range": "75001-76000",
-  "updated_at": 1765830970591,
+  "updated_at": 1765842560042,
   "shows": [
+    {
+      "id": 75006,
+      "title": "The Umbrella Academy",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
+      "plot_overview": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "user_rating": 8.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-02-15",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 75006
+    },
     {
       "id": 75219,
       "title": "9-1-1",
       "type": "tv_series",
       "year": 2018,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/a7VwJMCs4bUm5NxjsFgoPs1ihnJ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
       "plot_overview": "Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.",
       "genres": [
-        "drama",
-        "crime",
-        "action"
+        "Drama",
+        "Crime",
+        "Action & Adventure"
       ],
       "user_rating": 8.215,
       "critic_score": null,
@@ -28,24 +54,20 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 75219,
-      "relevance_score": 44.5675
+      "tmdb_id": 75219
     },
     {
       "id": 75450,
       "title": "Titans",
       "type": "tv_series",
       "year": 2018,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/8e6QiSexmYKaiHGPvbhaFMmQEhc.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iAzH3jFEaDMkjEsNNBUpGzSJ6VR.jpg",
       "plot_overview": "A team of young superheroes led by Nightwing (formerly Batman's first Robin) form to combat evil and other perils.",
       "genres": [
-        "drama",
-        "action",
-        "sci-fi"
+        "Drama",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
       "user_rating": 7.887,
       "critic_score": null,
@@ -59,10 +81,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 75450,
-      "relevance_score": 18.6323
+      "tmdb_id": 75450
     }
   ]
 }

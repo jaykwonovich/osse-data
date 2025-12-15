@@ -1,18 +1,17 @@
 {
   "range": "2001-3000",
-  "updated_at": 1765830970567,
+  "updated_at": 1765842560026,
   "shows": [
     {
       "id": 2004,
       "title": "Malcolm in the Middle",
       "type": "tv_series",
       "year": 2000,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ysaA0BInz4071p3LKqAQnWKZCsK.jpg",
       "plot_overview": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
       "genres": [
-        "comedy"
+        "Comedy"
       ],
       "user_rating": 8.468,
       "critic_score": null,
@@ -24,31 +23,7 @@
           "service_name": "Disney+",
           "type": "sub",
           "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2004,
-      "relevance_score": 31.9436
-    },
-    {
-      "id": 2048,
-      "title": "I, Robot",
-      "type": "movie",
-      "year": 2004,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/efwv6F2lGaghjPpBRSINHtoEiZB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jpFcZH2eyh6gcoxCa637TrGe4bT.jpg",
-      "plot_overview": "In 2035, where robots are commonplace and abide by the three laws of robotics, a technophobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.",
-      "genres": [
-        "action",
-        "sci-fi"
-      ],
-      "user_rating": 6.958,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2004-07-15",
-      "streaming_services": [
+        },
         {
           "service_id": 15,
           "service_name": "Hulu",
@@ -56,30 +31,26 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2048,
-      "relevance_score": 9.0564
+      "tmdb_id": 2004
     },
     {
-      "id": 2062,
-      "title": "Ratatouille",
-      "type": "movie",
-      "year": 2007,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
-      "plot_overview": "Remy, a resident of Paris, has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, Remy finds himself ideally placed to realize his dream. He forms an unusual alliance with the restaurants rookie employee, and together they work through challenges stemming from Head Chef Skinner, Remy\u2019s colony, and renowned f",
+      "id": 2005,
+      "title": "The New Adventures of Winnie the Pooh",
+      "type": "tv_series",
+      "year": 1988,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iJFbF43bN1HX5EZl4OFAVmJDl1u.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pFRX1VUIm0j7a9VI1lQke9tOMZY.jpg",
+      "plot_overview": "An American animated children's television series inspired by A. A. Milne's Winnie-the-Pooh stories.",
       "genres": [
-        "animation",
-        "comedy",
-        "family",
-        "fantasy"
+        "Family",
+        "Animation",
+        "Comedy",
+        "Kids"
       ],
-      "user_rating": 7.834,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2007-06-28",
+      "release_date": "1988-09-10",
       "streaming_services": [
         {
           "service_id": 337,
@@ -88,30 +59,26 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2062,
-      "relevance_score": 17.3997
+      "tmdb_id": 2005
     },
     {
-      "id": 2098,
-      "title": "Batman: The Animated Series",
+      "id": 2022,
+      "title": "The Batman",
       "type": "tv_series",
-      "year": 1992,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jszr5nLTaK946h85MBl1K2dkvKN.jpg",
-      "plot_overview": "Vowing to avenge the murder of his parents, Bruce Wayne devotes his life to wiping out crime in Gotham City as the masked vigilante \"Batman\".",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3w7koeOR2x71XYMJDGpygxYtScI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ArED6kTw15Ka5GCvvfXFKanvqsR.jpg",
+      "plot_overview": "A young billionaire Bruce Wayne fights crime and evil as the mysterious vigilante, The Batman.",
       "genres": [
-        "action",
-        "animation",
-        "drama",
-        "mystery"
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Kids"
       ],
-      "user_rating": 8.556,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1992-09-05",
+      "release_date": "2004-09-11",
       "streaming_services": [
         {
           "service_id": 1899,
@@ -120,24 +87,54 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2098,
-      "relevance_score": 21.4949
+      "tmdb_id": 2022
+    },
+    {
+      "id": 2098,
+      "title": "Batman: The Animated Series",
+      "type": "tv_series",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jszr5nLTaK946h85MBl1K2dkvKN.jpg",
+      "plot_overview": "Vowing to avenge the murder of his parents, Bruce Wayne devotes his life to wiping out crime in Gotham City as the masked vigilante \"Batman\".",
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 8.556,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1992-09-05",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2098
     },
     {
       "id": 2122,
       "title": "King of the Hill",
       "type": "tv_series",
       "year": 1997,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
       "plot_overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
       "genres": [
-        "animation",
-        "comedy",
-        "family"
+        "Animation",
+        "Comedy",
+        "Family"
       ],
       "user_rating": 7.368,
       "critic_score": null,
@@ -151,27 +148,23 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2122,
-      "relevance_score": 27.0996
+      "tmdb_id": 2122
     },
     {
-      "id": 2140,
-      "title": "Everybody Loves Raymond",
+      "id": 2132,
+      "title": "The Dick Van Dyke Show",
       "type": "tv_series",
-      "year": 1996,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
-      "plot_overview": "Ray Barone is a successful sportswriter living on Long Island with his wife Debra, daughter Ally, and twin sons, Geoffrey and Michael. That's the good news. The bad news? Ray's meddling parents, Frank and Marie, live directly across the street and embrace the motto \"Su casa es mi casa,\" infiltrating their son's home to an extent unparalleled in television history.",
+      "year": 1961,
+      "poster_url": "https://image.tmdb.org/t/p/w342/w2Tcx36ybQEczP5zkUhPwaehgeL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1t4m2WWx581A8jEwp2LG6cCjzrY.jpg",
+      "plot_overview": "The Dick Van Dyke Show centers around the work and home life of television comedy writer Rob Petrie. The plots generally revolve around problems at work, where Rob got into various comedic jams with fellow writers Buddy Sorrell, Sally Rogers and producer Mel Cooley.",
       "genres": [
-        "comedy"
+        "Comedy"
       ],
-      "user_rating": 6.82,
+      "user_rating": 7.515,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1996-09-13",
+      "release_date": "1961-10-03",
       "streaming_services": [
         {
           "service_id": 386,
@@ -180,24 +173,20 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2140,
-      "relevance_score": 18.633
+      "tmdb_id": 2132
     },
     {
       "id": 2171,
       "title": "Cold Case",
       "type": "tv_series",
       "year": 2003,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/5dmiNE8UdAqIyjjwZZWsjMhhV0b.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oMeCp8jXpSyI41vHsjMkFfIJReh.jpg",
       "plot_overview": "The Philadelphia homicide squad's lone female detective finds her calling when she is assigned cases that have never been solved. Detective Lilly Rush combines her natural instincts with the updated technology available today to bring about justice for all the victims she can.",
       "genres": [
-        "crime",
-        "drama",
-        "mystery"
+        "Crime",
+        "Drama",
+        "Mystery"
       ],
       "user_rating": 7.778,
       "critic_score": null,
@@ -205,59 +194,58 @@
       "release_date": "2003-09-28",
       "streaming_services": [
         {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
           "service_id": 1899,
           "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2171,
-      "relevance_score": 21.7862
+      "tmdb_id": 2171
     },
     {
-      "id": 2221,
-      "title": "The View",
+      "id": 2274,
+      "title": "Home Movies",
       "type": "tv_series",
-      "year": 1997,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7I5VX5Vr1jrUvikA7mTje97dT2e.jpg",
-      "plot_overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/m3yC4oIdb6vMxgoghXGPbGQNxu7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8AxQ9gYFVjj74gP6vG6UQNinIss.jpg",
+      "plot_overview": "TV series about the life of Brendon Small, an eight-year-old visionary who, using his friends Jason and Melissa as actors, have managed to direct over a thousand homemade films. His parents are divorced, but it doesn't feel strange since so many other kids' parents are divorced. His friend Jason actually feels upset because his parents are still together. At school, he is taught soccer by his coach John McGuirk, or as he calls him, \"that weird Irish guy\".",
       "genres": [
-        "talk"
+        "Animation",
+        "Comedy"
       ],
-      "user_rating": 4.3,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1997-08-11",
+      "release_date": "1999-04-26",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 318,
+          "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2221,
-      "relevance_score": 19.5128
+      "tmdb_id": 2274
     },
     {
       "id": 2288,
       "title": "Prison Break",
       "type": "tv_series",
       "year": 2005,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/wnmNPaLvhnMeOqnWlhNkYCZxtda.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/n3Brk7roueE9HOwVmYlJx5j462g.jpg",
       "plot_overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
       "genres": [
-        "action",
-        "crime",
-        "drama"
+        "Action & Adventure",
+        "Crime",
+        "Drama"
       ],
       "user_rating": 8.076,
       "critic_score": null,
@@ -269,24 +257,91 @@
           "service_name": "Netflix",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2288,
-      "relevance_score": 62.4304
+      "tmdb_id": 2288
+    },
+    {
+      "id": 2289,
+      "title": "seaQuest DSV",
+      "type": "tv_series",
+      "year": 1993,
+      "poster_url": "https://image.tmdb.org/t/p/w342/azbnl41bGqTcp2ajyfm9JYekEHp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bcVUkIKsnLozS5Yl8DnZ7nac3GM.jpg",
+      "plot_overview": "In the early 21st century, mankind has colonized the oceans. The United Earth Oceans Organization enlists Captain Nathan Bridger and the submarine seaQuest DSV to keep the peace and explore the last frontier on Earth.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.045,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1993-09-12",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2289
+    },
+    {
+      "id": 2290,
+      "title": "Stargate Atlantis",
+      "type": "tv_series",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/SLAPI1h9SWBMLTCO8ULvTGiP9G.jpg",
+      "plot_overview": "With the Ancients' city of Atlantis discovered in the Pegasus Galaxy by Stargate Command, Dr. Elizabeth Weir and Major Sheppard lead a scientific expedition to the ancient abandoned city. Once there, the team not only find themselves unable to contact Earth, but their explorations unexpectedly reawaken the Ancients' deadly enemies, The Wraith, who hunger for this new prey. Now with the help of newfound local allies like Teyla Emmagan, the Atlantis Team sets about to uncover their new home's secr",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 8.029,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2004-07-15",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2290
     },
     {
       "id": 2316,
       "title": "The Office",
       "type": "tv_series",
       "year": 2005,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/dg9e5fPRRId8PoBE0F6jl5y85Eu.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
       "plot_overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
       "genres": [
-        "comedy"
+        "Comedy"
       ],
       "user_rating": 8.6,
       "critic_score": null,
@@ -300,25 +355,78 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2316,
-      "relevance_score": 54.9136
+      "tmdb_id": 2316
+    },
+    {
+      "id": 2317,
+      "title": "My Name Is Earl",
+      "type": "tv_series",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/57shLTTkHvhLUhyP1t0lNZPoAxD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9dTbuwQy6WoVNy9hqBAuwR1MoUU.jpg",
+      "plot_overview": "When petty criminal Earl Hickey wins the lottery, he sets off on a quest to repair his questionable karma.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.659,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2005-09-20",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2317
+    },
+    {
+      "id": 2327,
+      "title": "Dawson's Creek",
+      "type": "tv_series",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/arT93dBemanftfWTcf9I0JRIlxU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ofiNBOL7gpuzqXEqWBprF90CtY7.jpg",
+      "plot_overview": "Dawson's Creek is an American teen drama that portrays the fictional lives of a close-knit group of teenagers through high school and college.",
+      "genres": [
+        "Drama",
+        "Soap"
+      ],
+      "user_rating": 7.331,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1998-01-20",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2327
     },
     {
       "id": 2345,
       "title": "Kim Possible",
       "type": "tv_series",
       "year": 2002,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/xAIm6KkiQKl0UsagMUyhLFzX2X2.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/olYeeEi5aa197P0s8ETXyriP9Ih.jpg",
       "plot_overview": "If there's danger or trouble, Kim Possible is there on the double to save the world from villains... and still make it home in time for cheerleading practice! Luckily, Kim has her sidekick Ron Stoppable and his pet naked mole-rat Rufus by her side.",
       "genres": [
-        "animation",
-        "action",
-        "comedy",
-        "family"
+        "Animation",
+        "Action & Adventure",
+        "Comedy",
+        "Kids"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -332,23 +440,19 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2345,
-      "relevance_score": 14.0862
+      "tmdb_id": 2345
     },
     {
       "id": 2352,
       "title": "The Nanny",
       "type": "tv_series",
       "year": 1993,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/4syShXMjaPAP3mG81ekhruv94sd.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hCUOckGQ4WnYRoCPFSTdxxErnr7.jpg",
       "plot_overview": "Fran, fresh out of her job as a bridal consultant in her boyfriend\u2019s shop, first appears on the doorstep of Broadway producer Maxwell Sheffield peddling cosmetics, and quickly stumbled upon the opportunity to become The Nanny for his three children. But soon Fran, with her offbeat nurturing and no-nonsense honesty, touches Maxwell as well as the kids.",
       "genres": [
-        "comedy",
-        "family"
+        "Comedy",
+        "Family"
       ],
       "user_rating": 8.07,
       "critic_score": null,
@@ -360,30 +464,7 @@
           "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2352,
-      "relevance_score": 27.8256
-    },
-    {
-      "id": 2370,
-      "title": "Hell's Kitchen",
-      "type": "tv_series",
-      "year": 2005,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/shOVFku8daIGRpgjTdMZBxUAvsV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kitfuCa2TqX6oY5HvdFRjMMaLwc.jpg",
-      "plot_overview": "Aspiring restaurateurs brave Ramsay and his fiery command of the kitchen as he puts the competitors through an intense culinary academy to prove they possess the right combination of ingredients to win a life-changing grand prize.",
-      "genres": [
-        "reality"
-      ],
-      "user_rating": 6.803,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2005-05-30",
-      "streaming_services": [
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",
@@ -391,24 +472,50 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2370,
-      "relevance_score": 19.1053
+      "tmdb_id": 2352
+    },
+    {
+      "id": 2355,
+      "title": "Lilo & Stitch: The Series",
+      "type": "tv_series",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/997mXFpYV2zdXK4EOctN3hgciaT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e3F1DhLs90kk1hWZhoTUanrxjMu.jpg",
+      "plot_overview": "This animated series chronicles the further adventures of renegade scientist Dr. Jumba Jookiba's beloved Experiment 626, who is now living happily as Lilo's alien buddy Stitch. Jumba\u2019s remaining experiments have landed all over Hawaii in the form of dehydrated pods. Lilo and Stitch\u2019s mission is to catch Stitch\u2019s \"cousins\" before they fall into the clutches of the evil Dr. Jacques von Hamsterviel!",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2003-09-20",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2355
     },
     {
       "id": 2389,
       "title": "Las Vegas",
       "type": "tv_series",
       "year": 2003,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/AknZ6uDYvswlIrUKDm2Nte32xge.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mlEkLMkyL9ldRz4fnLANV4XsHsl.jpg",
       "plot_overview": "Ed Deline is a strict ex-CIA officer who went from being Head of Security to becoming President of Operations of the Montecito, whose job is to run the day-to-day operations of the casino. Following his departure, former Marine Danny McCoy, Ed's former prot\u00e9g\u00e9, becomes the Montecito's new President of Operations.",
       "genres": [
-        "drama",
-        "action",
-        "crime"
+        "Drama",
+        "Action & Adventure",
+        "Crime"
       ],
       "user_rating": 7.033,
       "critic_score": null,
@@ -422,27 +529,110 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2389,
-      "relevance_score": 16.6827
+      "tmdb_id": 2389
     },
     {
       "id": 2406,
       "title": "Crossing Jordan",
       "type": "tv_series",
       "year": 2001,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/bywFoHoLZvW2vxDc7n4ToAKkR0y.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1fLufp1ZI2cofG4rV2xYYk4ahSS.jpg",
       "plot_overview": "Crossing Jordan is an American television crime/drama series that stars Jill Hennessy as Jordan Cavanaugh, M.D., a crime-solving forensic pathologist employed in the Massachusetts Office of the Chief Medical Examiner.",
       "genres": [
-        "drama"
+        "Drama"
       ],
       "user_rating": 7.161,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2001-09-24",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2406
+    },
+    {
+      "id": 2418,
+      "title": "The Venture Bros.",
+      "type": "tv_series",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ckQE1aLYQkRpp2HmHljiELAiOr1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pP3z3VS68PFRqTmypsYJWhWRkrG.jpg",
+      "plot_overview": "Hank and Dean Venture, with their father Doctor Venture and faithful bodyguard Brock Samson, go on wild adventures facing megalomaniacs, zombies, and suspicious ninjas, all for the glory of adventure. Or something like that.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2004-08-07",
+      "streaming_services": [
+        {
+          "service_id": 318,
+          "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2418
+    },
+    {
+      "id": 2426,
+      "title": "Angel",
+      "type": "tv_series",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kEMZk8uVksoWScKA77x68qJEUfI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/38g8BjnbRpxdTER5guYi6ANWsjk.jpg",
+      "plot_overview": "The vampire Angel, cursed with a soul, moves to Los Angeles and aids people with supernatural-related problems while questing for his own redemption. A spin-off from Buffy the Vampire Slayer.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "user_rating": 7.856,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1999-10-05",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2426
+    },
+    {
+      "id": 2440,
+      "title": "Highway to Heaven",
+      "type": "tv_series",
+      "year": 1984,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fR7BcK3UzQqpX7Earp10nPHitZF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nvm6q6p0y7CdRG1JQuGzWLdV7p7.jpg",
+      "plot_overview": "A probationary angel is sent back to Earth to team up with an ex-cop and help people.",
+      "genres": [
+        "Family",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.37,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1984-09-19",
       "streaming_services": [
         {
           "service_id": 386,
@@ -451,24 +641,20 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2406,
-      "relevance_score": 15.8221
+      "tmdb_id": 2440
     },
     {
       "id": 2458,
       "title": "CSI: NY",
       "type": "tv_series",
       "year": 2004,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/p4GKINJxZoFbPEvX5NKIb4lzaL.jpg",
       "plot_overview": "Follow the investigations of a team of NYPD forensic scientists and police officers identified as \"Crime Scene Investigators\".",
       "genres": [
-        "crime",
-        "drama",
-        "mystery"
+        "Crime",
+        "Drama",
+        "Mystery"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -482,29 +668,145 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2458,
-      "relevance_score": 26.415
+      "tmdb_id": 2458
     },
     {
       "id": 2473,
       "title": "The Avengers",
       "type": "tv_series",
       "year": 1961,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/fQ4GHecDFEAmJcwc10zUrdIDLFd.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AqZ48TMJRPCpbuy09S0RXFAhvFa.jpg",
       "plot_overview": "A quirky spy show of the adventures of eccentrically suave British Agent John Steed and his predominantly female partners. Jonathan Steed - an urbane, proper gentleman spy - teams with various assistants throughout the series' run, including Dr. David Keel, Cathy Gale, Emma Peel and Tara King, to repeatedly save the world from diabolical schemes plotted by equally diabolical evil-doers (among them robots and man-eating monsters).",
       "genres": [
-        "action",
-        "crime",
-        "sci-fi"
+        "Action & Adventure",
+        "Crime",
+        "Sci-Fi & Fantasy"
       ],
       "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1961-01-07",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2473
+    },
+    {
+      "id": 2604,
+      "title": "The Boondocks",
+      "type": "tv_series",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vAvT2RXjOpgH0COriRm9riPqA0m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dtzDqJx7D9wLYkK5M38JkfcPmAa.jpg",
+      "plot_overview": "When Robert \u201cGranddad\u201d Freeman becomes legal guardian to his two grandsons, he moves from the tough south side of Chicago to the upscale neighborhood of Woodcrest (a.k.a. \"The Boondocks\") so he can enjoy his golden years in safety and comfort. But with Huey, a 10-year-old leftist revolutionary, and his eight-year-old misfit brother, Riley, suburbia is about to be shaken up.",
+      "genres": [
+        "Action & Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "user_rating": 8.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2005-11-06",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 318,
+          "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2604
+    },
+    {
+      "id": 2612,
+      "title": "Deadliest Catch",
+      "type": "tv_series",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aqF7wHfA2n89zbBqG6DLuDjrHut.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qdVdWLUAj9Xxrx0OIT76gWVI4fg.jpg",
+      "plot_overview": "Forty-foot waves, 700 pound crab pots, freezing temperatures and your mortality staring you in the face\u2026it's all in a day's work for these modern day prospectors. During each episode we will watch crews race to meet their quota and make it home safely.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2005-04-12",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2612
+    },
+    {
+      "id": 2673,
+      "title": "The O.C.",
+      "type": "tv_series",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5WVAGHTNMWhNwk5l3FoeAScmw7M.jpg",
+      "plot_overview": "Ryan Atwood, a teen from the wrong side of the tracks, moves in with a wealthy family willing to give him a chance. But Ryan's arrival disturbs the status quo of the affluent, privileged community of Newport Beach, California.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.76,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2003-08-05",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2673
+    },
+    {
+      "id": 2686,
+      "title": "Three's Company",
+      "type": "tv_series",
+      "year": 1977,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6xn9XQ5iwJIa1FkoZAFtnh5tAQl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4ubxzr6wNZElImE3EOUsjxvVjYw.jpg",
+      "plot_overview": "When two single girls, Janet and Chrissy, need a roommate to share their Santa Monica apartment, they decide to offer a room to Jack, a man they find passed out in the bathtub after the going-away party for their last roommate. However, hijinks ensure when Jack must pretend to be gay in order to throw off the scent of the trio's conservative landlady.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.62,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1977-03-15",
       "streaming_services": [
         {
           "service_id": 386,
@@ -513,82 +815,18 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2473,
-      "relevance_score": 14.2745
-    },
-    {
-      "id": 2661,
-      "title": "Kamen Rider",
-      "type": "tv_series",
-      "year": 1971,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lv3OlrXyTNg4Dz0JrtopOmMziNs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-      "plot_overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-      "genres": [
-        "action",
-        "sci-fi",
-        "drama"
-      ],
-      "user_rating": 6.4,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1971-04-03",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2661,
-      "relevance_score": 40.2088
-    },
-    {
-      "id": 2673,
-      "title": "The O.C.",
-      "type": "tv_series",
-      "year": 2003,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5WVAGHTNMWhNwk5l3FoeAScmw7M.jpg",
-      "plot_overview": "Ryan Atwood, a teen from the wrong side of the tracks, moves in with a wealthy family willing to give him a chance. But Ryan's arrival disturbs the status quo of the affluent, privileged community of Newport Beach, California.",
-      "genres": [
-        "drama"
-      ],
-      "user_rating": 7.76,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2003-08-05",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2673,
-      "relevance_score": 18.9472
+      "tmdb_id": 2686
     },
     {
       "id": 2691,
       "title": "Two and a Half Men",
       "type": "tv_series",
       "year": 2003,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2pOmuq4nkWZzwZbOfZq7CyyQAsM.jpg",
       "plot_overview": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
       "genres": [
-        "comedy"
+        "Comedy"
       ],
       "user_rating": 7.444,
       "critic_score": null,
@@ -602,22 +840,18 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2691,
-      "relevance_score": 61.0243
+      "tmdb_id": 2691
     },
     {
       "id": 2710,
       "title": "It's Always Sunny in Philadelphia",
       "type": "tv_series",
       "year": 2005,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uqTCaYBoSLT9MAdyQ9tU6QyCZ3A.jpg",
       "plot_overview": "Four egocentric friends run a neighborhood Irish pub in Philadelphia and try to find their way through the adult world of work and relationships. Unfortunately, their warped views and precarious judgments often lead them to trouble, creating a myriad of uncomfortable situations that usually only get worse before they get better.",
       "genres": [
-        "comedy"
+        "Comedy"
       ],
       "user_rating": 8.277,
       "critic_score": null,
@@ -631,24 +865,48 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2710,
-      "relevance_score": 26.4977
+      "tmdb_id": 2710
+    },
+    {
+      "id": 2720,
+      "title": "TaleSpin",
+      "type": "tv_series",
+      "year": 1990,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gObO6CMSRbQNehvJyF4CwOHC5VI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/htcQeUWHrB7Hsbnugfb4rMnnJ2.jpg",
+      "plot_overview": "Baloo the Bear stars in an adventurous comedy of love and conflict with his friend Kit Cloudkicker. Rebecca Cunningham and her daughter Molly purchase Baloo's failing company and Baloo must fly transport runs to clear his debt while dodging Don Karnage and his sky pirates.",
+      "genres": [
+        "Family",
+        "Animation",
+        "Kids",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1990-09-09",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2720
     },
     {
       "id": 2723,
       "title": "Samurai Jack",
       "type": "tv_series",
       "year": 2001,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ddZ7Q2WZ0xAHkVXYvcEgNGFgVkw.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/CrVAqxtdmvelqVcj8pVeQg7wNV.jpg",
       "plot_overview": "A great warrior is displaced to the distant future by the evil shape-shifting wizard Aku. The world has become a bleak place under the rule of Aku, segregated into fantastic tribes and ruled by Aku's evil robot warlords. Jack travels this foreign landscape in search of a time portal that can return him to his home time so he can \"undo the future that is Aku!\".",
       "genres": [
-        "sci-fi",
-        "action",
-        "animation"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Animation"
       ],
       "user_rating": 8.4,
       "critic_score": null,
@@ -660,26 +918,28 @@
           "service_name": "Max",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 318,
+          "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2723,
-      "relevance_score": 15.6358
+      "tmdb_id": 2723
     },
     {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
       "type": "tv_series",
       "year": 1999,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2wgk47yrb2WnXAdSBLFX9EiU882.jpg",
       "plot_overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "genres": [
-        "crime",
-        "drama",
-        "mystery"
+        "Crime",
+        "Drama",
+        "Mystery"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -691,32 +951,7 @@
           "service_name": "Hulu",
           "type": "sub",
           "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2734,
-      "relevance_score": 145.2961
-    },
-    {
-      "id": 2883,
-      "title": "Dark Shadows",
-      "type": "tv_series",
-      "year": 1966,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/eRtnI7qTJIiPUmlY3J8TTM3jlT7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fmFsm4dq02k2Xxs7M887unPAiXd.jpg",
-      "plot_overview": "Dark Shadows is an American gothic soap opera that originally aired weekdays on the ABC television network, from June 27, 1966, to April 2, 1971. The show was created by Dan Curtis. The story bible, which was written by Art Wallace, does not mention any supernatural elements. It was unprecedented in daytime television when ghosts were introduced about six months after it began.\n\nThe series became hugely popular when vampire Barnabas Collins appeared a year into its run. Dark Shadows also feature",
-      "genres": [
-        "drama",
-        "sci-fi",
-        "drama"
-      ],
-      "user_rating": 7.261,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1966-06-27",
-      "streaming_services": [
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",
@@ -724,55 +959,124 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2883,
-      "relevance_score": 15.5553
+      "tmdb_id": 2734
     },
     {
-      "id": 2912,
-      "title": "Jeopardy!",
+      "id": 2798,
+      "title": "Space Ghost Coast to Coast",
       "type": "tv_series",
-      "year": 1984,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
-      "plot_overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+      "year": 1994,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sjTe8T7FRhNcSlmT4XF38dd1BEF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/okJecNEHxfxAkf36sfeWu0AJC7M.jpg",
+      "plot_overview": "A cartoon superhero interacts with live guests via his television set in this parody talk show based on 1960s Hanna-Barbera cartoon character Space Ghost.",
       "genres": [
-        "reality",
-        "family"
+        "Animation",
+        "Comedy",
+        "Talk"
       ],
-      "user_rating": 6.9,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1984-09-10",
+      "release_date": "1994-04-15",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
+          "service_id": 318,
+          "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2912,
-      "relevance_score": 34.3185
+      "tmdb_id": 2798
+    },
+    {
+      "id": 2899,
+      "title": "Long Way Round",
+      "type": "tv_series",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uoAYNsbmjQXk0vs72R6ITZzYaYx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wbgHTeHSVV23OIla1GiV9DS60SQ.jpg",
+      "plot_overview": "In 2004 Ewan McGregor and Charley Boorman embarked on an epic challenge to bike 20,000-miles across 12 countries and 19 time zones in just 115 days. Watch as two friends ride around the world together and, against all the odds, realize their dream.",
+      "genres": [
+        "Documentary",
+        "Reality"
+      ],
+      "user_rating": 8.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2004-10-18",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2899
+    },
+    {
+      "id": 2942,
+      "title": "The Tudors",
+      "type": "tv_series",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7wmyiVEhmJ7OUvwBIsvOFqMa0q9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cKsmzu5YpayNxc6Gs9KD8wyJV8M.jpg",
+      "plot_overview": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monarch who navigates the intrigues of the English court and the human heart with equal vigor and justifiable suspicion.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.793,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-04-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2942
+    },
+    {
+      "id": 2947,
+      "title": "Veep",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cdd78fGdaA3EbK2ToZRWcaaB1fx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vKaDMLbdLrThldFj9Vavo6suTS2.jpg",
+      "plot_overview": "A look into American politics, revolving around former Senator Selina Meyer who finds being Vice President of the United States is nothing like she expected and everything everyone ever warned her about.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.481,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-04-22",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2947
     },
     {
       "id": 2957,
       "title": "Fraggle Rock",
       "type": "tv_series",
       "year": 1983,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/nyvNej9aHC2wydFflPMrASS6MF7.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fyUt0I4tSnclpg7WZJVRKHMSjcz.jpg",
       "plot_overview": "The Fraggles are a fun-loving community of creatures who live in a subterranean fantasy land where they love to play, sing and dance their cares away, sharing their world with the tiny Doozers and the giant Gorgs. The series teaches empathy and tolerance and encourages children to understand people different from themselves.",
       "genres": [
-        "family",
-        "family",
-        "sci-fi",
-        "comedy"
+        "Kids",
+        "Family",
+        "Sci-Fi & Fantasy",
+        "Comedy"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -786,24 +1090,20 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2957,
-      "relevance_score": 6.7654
+      "tmdb_id": 2957
     },
     {
       "id": 2985,
       "title": "Andromeda",
       "type": "tv_series",
       "year": 2000,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/uAOyxeDiNwYU8GuOebU0FExh49C.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rY4HsR1MLlddyrotCDskeC4ROXb.jpg",
       "plot_overview": "Captain Dylan Hunt and his crew quest to restore a government that once presided over an extended peace and prosperity.",
       "genres": [
-        "action",
-        "drama",
-        "sci-fi"
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
       "user_rating": 7.098,
       "critic_score": null,
@@ -817,10 +1117,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 2985,
-      "relevance_score": 15.3958
+      "tmdb_id": 2985
     }
   ]
 }

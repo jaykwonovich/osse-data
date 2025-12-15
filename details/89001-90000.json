@@ -1,19 +1,78 @@
 {
   "range": "89001-90000",
-  "updated_at": 1765830970594,
+  "updated_at": 1765842560044,
   "shows": [
+    {
+      "id": 89393,
+      "title": "9-1-1: Lone Star",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/BOTITv548LYGB4xRD3rHfbwkqm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bBziqQXj6ELvVCpPfxGM9OWJpWa.jpg",
+      "plot_overview": "Nearly 20 years ago, Owen Strand was the lone survivor of his Manhattan firehouse on 9/11. In the wake of the attack, Owen had the unenviable task of rebuilding his station. After a similar tragedy happens to a firehouse in Austin, Owen, along with his troubled firefighter son, T.K., takes his progressive philosophies of life and firefighting down to Texas, where he helps them start anew. On the surface, Owen is all about big-city style and swagger, but underneath he struggles with a secret he h",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Crime"
+      ],
+      "user_rating": 8.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-01-19",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 89393
+    },
+    {
+      "id": 89456,
+      "title": "Primal",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ebupzTwgP8nBy0T5J3abqTqUMjK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zBfnpI8883yeQkXK2kpLavHv9Yw.jpg",
+      "plot_overview": "A caveman forms a bond with a dinosaur as they struggle to survive in a hostile world.",
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Drama"
+      ],
+      "user_rating": 8.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-10-08",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 318,
+          "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 89456
+    },
     {
       "id": 89901,
       "title": "Dickinson",
       "type": "tv_series",
       "year": 2019,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eDNJVnvhB4BZ3jy5twiME9yrZYD.jpg",
       "plot_overview": "Emily Dickinson. Poet. Daughter. Total rebel. In this coming-of-age story, Emily\u2019s determined to become the world's greatest poet.",
       "genres": [
-        "comedy",
-        "drama"
+        "Comedy",
+        "Drama"
       ],
       "user_rating": 8.5,
       "critic_score": null,
@@ -27,10 +86,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 89901,
-      "relevance_score": 6.9687
+      "tmdb_id": 89901
     }
   ]
 }

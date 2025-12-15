@@ -1,20 +1,47 @@
 {
   "range": "84001-85000",
-  "updated_at": 1765830970593,
+  "updated_at": 1765842560043,
   "shows": [
+    {
+      "id": 84200,
+      "title": "Justice League Unlimited",
+      "type": "tv_series",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8PY0OZ1xUbguPipb0a1uL6mg5Ka.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3NF0qCnYVjczbeEUZBcJg2SlNVt.jpg",
+      "plot_overview": "The galaxy's most powerful superheroes return to battle the allied villains and criminal plots that endanger the universe.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "user_rating": 8.27,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2004-07-31",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 84200
+    },
     {
       "id": 84773,
       "title": "The Lord of the Rings: The Rings of Power",
       "type": "tv_series",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ukewRnKD05Si7DkED2tSKBTXeEd.jpg",
       "plot_overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
       "genres": [
-        "action",
-        "sci-fi",
-        "drama"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
       "user_rating": 7.267,
       "critic_score": null,
@@ -28,23 +55,19 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 84773,
-      "relevance_score": 37.7376
+      "tmdb_id": 84773
     },
     {
       "id": 84958,
       "title": "Loki",
       "type": "tv_series",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/N1hWzVPpZ8lIQvQskgdQogxdsc.jpg",
       "plot_overview": "After stealing the Tesseract during the events of \u201cAvengers: Endgame,\u201d an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a \u201ctime variant\u201d or help fix the timeline and stop a greater threat.",
       "genres": [
-        "drama",
-        "sci-fi"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
       "user_rating": 8.171,
       "critic_score": null,
@@ -58,10 +81,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 84958,
-      "relevance_score": 17.0882
+      "tmdb_id": 84958
     }
   ]
 }

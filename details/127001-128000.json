@@ -1,19 +1,18 @@
 {
   "range": "127001-128000",
-  "updated_at": 1765830970602,
+  "updated_at": 1765842560051,
   "shows": [
     {
       "id": 127235,
       "title": "Invasion",
       "type": "tv_series",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/1PdNB3rYTcf8VXc8rcmZ0SeYxSq.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg",
       "plot_overview": "Earth is visited by an alien species that threatens humanity's existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle to make sense of the chaos unraveling around them.",
       "genres": [
-        "sci-fi",
-        "drama"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -27,10 +26,33 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 127235,
-      "relevance_score": 19.1212
+      "tmdb_id": 127235
+    },
+    {
+      "id": 127635,
+      "title": "Spidey and His Amazing Friends",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg",
+      "plot_overview": "Follow Peter Parker, Gwen Stacy and Miles Morales and their adventures as the young heroes team up with Hulk, Ms. Marvel and Black Panther to defeat foes like Rhino, Doc Ock and Green Goblin and learn that teamwork is the best way to save the day.",
+      "genres": [
+        "Animation",
+        "Kids"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-08-06",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 127635
     }
   ]
 }

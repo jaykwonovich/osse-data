@@ -1,23 +1,55 @@
 {
   "range": "17001-18000",
-  "updated_at": 1765830970575,
+  "updated_at": 1765842560032,
   "shows": [
     {
-      "id": 17404,
-      "title": "Chopped",
+      "id": 17463,
+      "title": "Kid vs. Kat",
       "type": "tv_series",
-      "year": 2009,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/x7g390tj73dtlGX3ajZrlQRcRpO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/t9cRI8CKYWlLFhdZF020UIpCim4.jpg",
-      "plot_overview": "A high energy, fast paced cooking competition that challenges four up-and-coming chefs to turn a selection of everyday ingredients into an extraordinary three-course meal. After each course, a contestant gets \u201cchopped\u201d by our panel of esteemed culinary luminaries until the last man or woman left standing claims victory.",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1f3DyCY4Xe6ZxN2blj0gNdWhS71.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sEOXPdfhXcZwxLAFEqkhuSIHquL.jpg",
+      "plot_overview": "Ten-year-old Coop Burtonburger's life takes a turn for the worse when his little sister, Millie, brings home a mysterious stray cat who, in reality, is an evil cybernetic alien in disguise. To make matters worse, neither his family nor anyone else believes him, except for his best friend, Dennis. Now, Coop risks his life every day as he attempts to foil the cat's diabolical schemes and prove to the world that the family pet is an evil mastermind.",
       "genres": [
-        "reality"
+        "Action & Adventure",
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Family",
+        "Kids"
       ],
-      "user_rating": 6.451,
+      "user_rating": 7.903,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2009-01-13",
+      "release_date": "2008-10-25",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 17463
+    },
+    {
+      "id": 17572,
+      "title": "Kick Buttowski: Suburban Daredevil",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/syxcG3suyf3U00z5HOuLbZ9eozl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xfdFw7ZJ6uYhUNsmpSwFT7DSnkA.jpg",
+      "plot_overview": "Clarence Buttowski, a young boy, aspires to become the world's greatest daredevil, as he gets help from Gunther, his loyal friend and partner-in-crime.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Comedy",
+        "Kids"
+      ],
+      "user_rating": 8.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-02-13",
       "streaming_services": [
         {
           "service_id": 337,
@@ -26,22 +58,18 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 17404,
-      "relevance_score": 15.2781
+      "tmdb_id": 17572
     },
     {
       "id": 17937,
       "title": "Ghost Adventures",
       "type": "tv_series",
       "year": 2008,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/xLJZuDxdeUqRFHFlqs0mIk9faMR.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/u64huzTnF3jEYUXJ4BDlpHy2L3K.jpg",
       "plot_overview": "Paranormal investigator Zak Bagans and his crew, Nick Groff and Aaron Goodwin, search for haunted locations both domestically and internationally. During their investigations, Zak and crew acquaint themselves with the general area; interview locals about the hauntings; and go face-to-face with the evil spirits who reportedly haunt these locations.",
       "genres": [
-        "reality"
+        "Reality"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -55,42 +83,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 17937,
-      "relevance_score": 14.3519
-    },
-    {
-      "id": 17979,
-      "title": "A Christmas Carol",
-      "type": "movie",
-      "year": 2009,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/goHDZUnqZJ7FN4h48Qh6MzJNExl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lSZUjoDoTDpmQzngjkOY4P9JqcM.jpg",
-      "plot_overview": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.",
-      "genres": [
-        "animation",
-        "family",
-        "fantasy",
-        "drama"
-      ],
-      "user_rating": 6.897,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2009-11-04",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 17979,
-      "relevance_score": 17.3011
+      "tmdb_id": 17937
     }
   ]
 }

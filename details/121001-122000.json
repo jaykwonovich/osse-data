@@ -1,19 +1,18 @@
 {
   "range": "121001-122000",
-  "updated_at": 1765830970601,
+  "updated_at": 1765842560050,
   "shows": [
     {
       "id": 121658,
       "title": "FBI: International",
       "type": "tv_series",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/1Ublm6D8zmqMroqrXkn3Fgd353q.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8JtKCIBzf3AYbsxBFSL74NoGH2u.jpg",
       "plot_overview": "Follows the elite agents of the FBI's International Fly Team headquartered in Budapest as they travel the world with the mission of protecting Americans wherever they may be.",
       "genres": [
-        "crime",
-        "drama"
+        "Crime",
+        "Drama"
       ],
       "user_rating": 7.667,
       "critic_score": null,
@@ -21,16 +20,19 @@
       "release_date": "2021-09-21",
       "streaming_services": [
         {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
           "service_id": 386,
           "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 121658,
-      "relevance_score": 17.4304
+      "tmdb_id": 121658
     }
   ]
 }

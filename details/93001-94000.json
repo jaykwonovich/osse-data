@@ -1,6 +1,6 @@
 {
   "range": "93001-94000",
-  "updated_at": 1765842216072,
+  "updated_at": 1765842560045,
   "shows": [
     {
       "id": 93241,
@@ -27,6 +27,59 @@
         }
       ],
       "tmdb_id": 93241
+    },
+    {
+      "id": 93520,
+      "title": "Ghostwriter",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cylPAXqLws5yM9oJa47MsHItBy8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fCxjr9HRpZnE1f9IfYrDUBQHQCR.jpg",
+      "plot_overview": "When a ghost haunts a neighborhood bookstore and starts releasing fictional characters into the real world, a group of friends team up to solve an exciting mystery surrounding the ghost's unfinished business.",
+      "genres": [
+        "Kids",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.286,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-11-01",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 93520
+    },
+    {
+      "id": 93740,
+      "title": "Foundation",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vmNj8bthBAofXgsaY6yP4bCvXko.jpg",
+      "plot_overview": "Follow a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "user_rating": 7.732,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-09-23",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 93740
     }
   ]
 }

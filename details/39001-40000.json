@@ -1,19 +1,49 @@
 {
   "range": "39001-40000",
-  "updated_at": 1765830970581,
+  "updated_at": 1765842560034,
   "shows": [
+    {
+      "id": 39269,
+      "title": "Scandal",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hpvw89Vq6rYx1bzrE3zdnWBGLfS.jpg",
+      "plot_overview": "Everyone has secrets and Olivia Pope has dedicated her life to protecting and defending the public images of the elite by keeping those secrets under wraps. Pope and her team are at the top of their game when it comes to getting the job done for their clients, but it becomes apparent that these \"gladiators in suits,\" who specialize in fixing the lives of other people, have trouble fixing those closest at hand -- their own.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-04-05",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 39269
+    },
     {
       "id": 39272,
       "title": "Once Upon a Time",
       "type": "tv_series",
       "year": 2011,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/w0DSg9UYPdT9QE2r8AgyXIe28aV.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AmJ72AKL73mvhXyVgkFb8pUbIa9.jpg",
       "plot_overview": "There is a town in Maine where every story book character you've ever known is trapped between two worlds, victims of a powerful curse. Only one knows the truth and only one can break the spell.\n\nEmma Swan is a 28-year-old bail bonds collector who has been supporting herself since she was abandoned as a baby. Things change for her when her son Henry, whom she abandoned years ago, finds her and asks for her help explaining that she is from a different world where she is Snow White's missing daugh",
       "genres": [
-        "drama",
-        "sci-fi"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
       "user_rating": 7.38,
       "critic_score": null,
@@ -25,26 +55,53 @@
           "service_name": "Disney+",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 39272,
-      "relevance_score": 28.5435
+      "tmdb_id": 39272
+    },
+    {
+      "id": 39297,
+      "title": "Last Man Standing",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ofUvbcwxcA0E7qYUlhBx4gZmAzX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m6APcUIeNdFormiiKsGaG8Hdu49.jpg",
+      "plot_overview": "A married father of three tries to maintain his manliness in a world increasingly dominated by women.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.261,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-10-11",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 39297
     },
     {
       "id": 39351,
       "title": "Grimm",
       "type": "tv_series",
       "year": 2011,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg",
       "plot_overview": "After Portland homicide detective Nick Burkhardt discovers he's descended from an elite line of criminal profilers known as \"Grimms,\" he increasingly finds his responsibilities as a detective at odds with his new responsibilities as a Grimm.",
       "genres": [
-        "drama",
-        "mystery",
-        "sci-fi"
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
       ],
       "user_rating": 8.271,
       "critic_score": null,
@@ -56,12 +113,40 @@
           "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 39351,
-      "relevance_score": 36.2775
+      "tmdb_id": 39351
+    },
+    {
+      "id": 39793,
+      "title": "Call the Midwife",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b1p0nL00x563ACkcmGNIRP4ZnkA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/a600KQ3DdQUQl5LewN5imbL0BaF.jpg",
+      "plot_overview": "Drama following the lives of a group of midwives working in the poverty-stricken East End of London during the 1950s, based on the best-selling memoirs of Jennifer Worth.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-01-15",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 39793
     }
   ]
 }

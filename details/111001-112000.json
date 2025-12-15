@@ -1,22 +1,47 @@
 {
   "range": "111001-112000",
-  "updated_at": 1765830970600,
+  "updated_at": 1765842560048,
   "shows": [
+    {
+      "id": 111110,
+      "title": "ONE PIECE",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lXl3ZbY5TksOdt6eYgdyg6vsnFW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/d0dRxEmbrYbkeJql4j2DDDYEyN.jpg",
+      "plot_overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 8.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-08-31",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 111110
+    },
     {
       "id": 111803,
       "title": "The White Lotus",
       "type": "tv_series",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
       "plot_overview": "Follow the exploits of various guests and employees at an exclusive tropical resort over the span of a week as with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel\u2019s cheerful employees and the idyllic locale itself.",
       "genres": [
-        "comedy",
-        "drama",
-        "mystery"
+        "Comedy",
+        "Drama",
+        "Mystery"
       ],
-      "user_rating": 7.618,
+      "user_rating": 7.617,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-07-11",
@@ -28,10 +53,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 111803,
-      "relevance_score": 31.032
+      "tmdb_id": 111803
     }
   ]
 }

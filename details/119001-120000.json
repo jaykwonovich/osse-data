@@ -1,20 +1,19 @@
 {
   "range": "119001-120000",
-  "updated_at": 1765830970601,
+  "updated_at": 1765842560049,
   "shows": [
     {
       "id": 119051,
       "title": "Wednesday",
       "type": "tv_series",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/36xXlhEpQqVVPuiZhfoQuaY4OlA.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
       "plot_overview": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends \u2014 and foes \u2014 at Nevermore Academy.",
       "genres": [
-        "sci-fi",
-        "mystery",
-        "comedy"
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Comedy"
       ],
       "user_rating": 8.4,
       "critic_score": null,
@@ -28,71 +27,60 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 119051,
-      "relevance_score": 62.2285
+      "tmdb_id": 119051
     },
     {
-      "id": 119450,
-      "title": "Dawn of the Planet of the Apes",
-      "type": "movie",
-      "year": 2014,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
-      "plot_overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
-      "genres": [
-        "sci-fi",
-        "action",
-        "drama",
-        "thriller"
-      ],
-      "user_rating": 7.334,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-07-08",
-      "streaming_services": [
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 119450,
-      "relevance_score": 18.2535
-    },
-    {
-      "id": 119850,
-      "title": "Sacred Sites of the World",
+      "id": 119845,
+      "title": "Power Book IV: Force",
       "type": "tv_series",
-      "year": 2016,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dGbNe4v39HVU3Iz7plw4YfyMhWd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kOdE5YmkLSyac0sOO8J1ax8IOWK.jpg",
-      "plot_overview": "",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cR0ursLXoT0zfX9XDGAzQRAnK0W.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9lwYGM97dBfu3lpCdt6VpohgjvV.jpg",
+      "plot_overview": "Tommy Egan leaves New York behind and plans to take on Chicago, using his outsider status to break all the local rules and rewrite them on his quest to become the biggest drug dealer in the city.",
       "genres": [
-        "documentary"
+        "Crime",
+        "Drama"
       ],
-      "user_rating": 5.5,
+      "user_rating": 8.284,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2016-10-15",
+      "release_date": "2022-02-06",
       "streaming_services": [
         {
-          "service_id": 531,
-          "service_name": "Paramount+",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 119850,
-      "relevance_score": 0.287
+      "tmdb_id": 119845
+    },
+    {
+      "id": 119934,
+      "title": "Calls",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mvp8wW6wm6LulWRtjjeBQcVXMBt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aVxSizcRgpYtrAmfL58ZyqavpJX.jpg",
+      "plot_overview": "Interconnected phone conversations chronicle the mysterious story of a group of strangers whose lives are thrown into disarray in the lead-up to an apocalyptic event.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.003,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-03-19",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 119934
     }
   ]
 }

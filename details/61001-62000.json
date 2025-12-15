@@ -1,20 +1,79 @@
 {
   "range": "61001-62000",
-  "updated_at": 1765830970587,
+  "updated_at": 1765842560038,
   "shows": [
+    {
+      "id": 61056,
+      "title": "How to Get Away with Murder",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rNlYsPO8oqZrxedntqqzfyPJNzq.jpg",
+      "plot_overview": "A sexy, suspense-driven legal thriller about a group of ambitious law students and their brilliant, mysterious criminal defense professor. They become entangled in a murder plot and will shake the entire university and change the course of their lives.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.836,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-09-25",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61056
+    },
+    {
+      "id": 61222,
+      "title": "BoJack Horseman",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qFYDJUIFh8zgEDy3EvnHwhgOl0S.jpg",
+      "plot_overview": "Meet the most beloved sitcom horse of the '90s , 20 years later. He's a curmudgeon with a heart of...not quite gold...but something like gold. Copper?",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 8.546,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-08-22",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61222
+    },
     {
       "id": 61345,
       "title": "Z Nation",
       "type": "tv_series",
       "year": 2014,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/gXfeDMkEcHoYBvtkbU11g3F81b.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pYErfWWb52zq9QQFoZ0Qeoo5Yz.jpg",
       "plot_overview": "Three years after the zombie virus has gutted the country, a team of everyday heroes must transport the only known survivor of the plague from New York to California, where the last functioning viral lab waits for his blood.",
       "genres": [
-        "mystery",
-        "action",
-        "drama"
+        "Mystery",
+        "Action & Adventure",
+        "Drama"
       ],
       "user_rating": 7.251,
       "critic_score": null,
@@ -28,22 +87,18 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 61345,
-      "relevance_score": 16.8696
+      "tmdb_id": 61345
     },
     {
       "id": 61381,
       "title": "black-ish",
       "type": "tv_series",
       "year": 2014,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ga1zJ6UejPIfyL8BA22pK6dqsC8.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/52qTID1ckURhq8MFaV0x7ISRFiE.jpg",
       "plot_overview": "A family man struggles to gain a sense of cultural identity while raising his kids in a predominantly white, upper-middle-class neighborhood.",
       "genres": [
-        "comedy"
+        "Comedy"
       ],
       "user_rating": 7.139,
       "critic_score": null,
@@ -55,56 +110,134 @@
           "service_name": "Disney+",
           "type": "sub",
           "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 61381,
-      "relevance_score": 17.627
-    },
-    {
-      "id": 61818,
-      "title": "Late Night with Seth Meyers",
-      "type": "tv_series",
-      "year": 2014,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jm95V8XjfvqmEhw0MN09wbg9Mi3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-      "plot_overview": "Seth Meyers, who is \"Saturday Night Live\u2019s\" longest serving anchor on the show\u2019s wildly popular \"Weekend Update,\" takes over as host of NBC\u2019s \"Late Night\" \u2014 home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy ",
-      "genres": [
-        "talk",
-        "comedy"
-      ],
-      "user_rating": 5.3,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-02-25",
-      "streaming_services": [
+        },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 61818,
-      "relevance_score": 45.0331
+      "tmdb_id": 61381
+    },
+    {
+      "id": 61550,
+      "title": "Marvel's Agent Carter",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fe79VYyLp5ZBstpJ4oukpuUT3B.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/MaQ7hbNsiJ30p14UgRdEnXDGMH.jpg",
+      "plot_overview": "It's 1946, and peace has dealt Peggy Carter a serious blow as she finds herself marginalized when the men return home from fighting abroad. Working for the covert SSR (Strategic Scientific Reserve), Peggy must balance doing administrative work and going on secret missions for Howard Stark all while trying to navigate life as a single woman in America, in the wake of losing the love of her life - Steve Rogers.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.529,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-01-06",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61550
+    },
+    {
+      "id": 61593,
+      "title": "Mr. Pickles",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bSWmZnvXIOoqZ7eLderyInsouiF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/73LbmgVYOVo3Jkyol1r8LVhOyYZ.jpg",
+      "plot_overview": "The Goodman family lives with their lovable pet dog, Mr. Pickles, a deviant border collie with a secret satanic streak.",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "user_rating": 8.158,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-09-21",
+      "streaming_services": [
+        {
+          "service_id": 318,
+          "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61593
+    },
+    {
+      "id": 61852,
+      "title": "Henry Danger",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1pnaMzcTXU6LmBd9rf4ZvNGBnce.jpg",
+      "plot_overview": "When 13-year-old Henry Hart lands a job as Danger, the sidekick-in-training to superhero Captain Man, he must learn to navigate a double life balancing the challenges of 8th grade with the crazy adventures of a real-life crime fighter!",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Kids",
+        "Drama"
+      ],
+      "user_rating": 8.278,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-07-26",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61852
+    },
+    {
+      "id": 61865,
+      "title": "When Calls the Heart",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bOLAOkzpj5jW8DZvBmRBd5knyug.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mTC6WbMEgZ6LLdwRqSDR5NVEslr.jpg",
+      "plot_overview": "Elizabeth Thatcher, a young school teacher from a wealthy Eastern family, migrates from the big city to teach school in a small coal mining town in the west.",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "user_rating": 8.208,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-01-11",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61865
     },
     {
       "id": 61889,
       "title": "Marvel's Daredevil",
       "type": "tv_series",
       "year": 2015,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ig5sp7GzfQZw2dXgrM8OXUpOPri.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg",
       "plot_overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell\u2019s Kitchen as Daredevil.",
       "genres": [
-        "crime",
-        "drama",
-        "action"
+        "Crime",
+        "Drama",
+        "Action & Adventure"
       ],
       "user_rating": 8.158,
       "critic_score": null,
@@ -118,26 +251,50 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 61889,
-      "relevance_score": 17.4169
+      "tmdb_id": 61889
+    },
+    {
+      "id": 61915,
+      "title": "K.C. Undercover",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/52iv1yPKYR4nezoX7lMLcK9yt6q.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cA3uEd2CWCMr7yzRX9wcoDq1bZz.jpg",
+      "plot_overview": "K.C. Cooper, a high school math whiz and karate black-belt, learns that her parents are spies when they recruit her to join them in the secret government agency, The Organization. While she now has the latest spy gadgets at her disposal, K.C. has a lot to learn about being a spy, including keeping her new gig a secret from her best friend Marisa. Together, K.C. and her parents, Craig and Kira, and her younger siblings, Ernie and Judy (a humanoid robot), try to balance everyday family life while ",
+      "genres": [
+        "Kids",
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-01-18",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61915
     },
     {
       "id": 61923,
       "title": "Star vs. the Forces of Evil",
       "type": "tv_series",
       "year": 2015,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
       "plot_overview": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
       "genres": [
-        "action",
-        "animation",
-        "comedy",
-        "sci-fi",
-        "family"
+        "Action & Adventure",
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Family"
       ],
       "user_rating": 8.352,
       "critic_score": null,
@@ -151,39 +308,33 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 61923,
-      "relevance_score": 15.3978
+      "tmdb_id": 61923
     },
     {
-      "id": 61944,
-      "title": "Bring It!",
+      "id": 61929,
+      "title": "The Jinx: The Life and Deaths of Robert Durst",
       "type": "tv_series",
-      "year": 2014,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gmk0oDoemqEfdXHbcrjHGNw3nfN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nnqTB3gXswFHc1MeOYK05Dzqk2O.jpg",
-      "plot_overview": "A spotlight on the elite world of hip-hop majorette competitions. Coach Dianna Williams (aka \"Miss D\") and her Dancing Dolls troupe refuse to lose, pushing themselves to the limit each week in the relentless pursuit of victory. Every pump, thrust and high kick on \"Bring It!\" highlights the triumphs and struggles of intense competition, where errors aren't tolerated, mediocrity isn\u2019t excused and only a win is acceptable.",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qY3rk9hH6dzgDrIkonxxHBF3rp8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rDJei8aoHbhgKOSgFSZ4zI6sbwa.jpg",
+      "plot_overview": "Robert Durst, scion of NY's billionaire real-estate family, has been accused of three murders but has evaded justice for over 30 years. Durst speaks in this true crime series, revealing secrets of a case that has baffled authorities.",
       "genres": [
-        "reality"
+        "Documentary",
+        "Crime"
       ],
-      "user_rating": 8.8,
+      "user_rating": 7.991,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2014-05-03",
+      "release_date": "2015-02-08",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 61944,
-      "relevance_score": 15.1275
+      "tmdb_id": 61929
     }
   ]
 }

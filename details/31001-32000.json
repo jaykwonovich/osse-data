@@ -1,19 +1,18 @@
 {
   "range": "31001-32000",
-  "updated_at": 1765830970578,
+  "updated_at": 1765842560033,
   "shows": [
     {
       "id": 31132,
       "title": "Regular Show",
       "type": "tv_series",
       "year": 2010,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5iWJwQPBusPTV7G7n5TABNRP7tO.jpg",
       "plot_overview": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs as groundskeepers at the local park.",
       "genres": [
-        "animation",
-        "comedy"
+        "Animation",
+        "Comedy"
       ],
       "user_rating": 8.627,
       "critic_score": null,
@@ -27,54 +26,46 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 31132,
-      "relevance_score": 42.8037
+      "tmdb_id": 31132
     },
     {
-      "id": 31910,
-      "title": "Naruto Shipp\u016bden",
+      "id": 31295,
+      "title": "Misfits",
       "type": "tv_series",
-      "year": 2007,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-      "plot_overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1yjmRIp8A92FlAw5JpouQ50ATUA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/y5oDHhdNng3ff3KQzcX6qpzBuMU.jpg",
+      "plot_overview": "When five young outsiders on Community Service get caught in a strange storm, they discover that they have developed superpowers.",
       "genres": [
-        "animation",
-        "action",
-        "sci-fi"
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Comedy"
       ],
-      "user_rating": 8.533,
+      "user_rating": 7.612,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2007-02-15",
+      "release_date": "2009-11-12",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 31910,
-      "relevance_score": 27.8193
+      "tmdb_id": 31295
     },
     {
       "id": 31917,
       "title": "Pretty Little Liars",
       "type": "tv_series",
       "year": 2010,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/aUPbHiLS3hCHKjtLsncFa9g0viV.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6NuvpA24GbWrnkKsYrNyr2RiRbp.jpg",
       "plot_overview": "Based on the Pretty Little Liars series of young adult novels by Sara Shepard, the series follows the lives of four girls \u2014 Spencer, Hanna, Aria, and Emily \u2014 whose clique falls apart after the disappearance of their queen bee, Alison. One year later, they begin receiving messages from someone using the name \"A\" who threatens to expose their secrets \u2014 including long-hidden ones they thought only Alison knew.",
       "genres": [
-        "drama",
-        "mystery"
+        "Drama",
+        "Mystery"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -86,12 +77,15 @@
           "service_name": "Hulu",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 31917,
-      "relevance_score": 29.3577
+      "tmdb_id": 31917
     }
   ]
 }

@@ -1,22 +1,21 @@
 {
   "range": "116001-117000",
-  "updated_at": 1765702720351,
+  "updated_at": 1765842560049,
   "shows": [
     {
       "id": 116135,
       "title": "Vikings: Valhalla",
       "type": "tv_series",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/k47JEUTQsSMN532HRg6RCzZKBdB.jpg",
       "plot_overview": "In this sequel to \"Vikings,\" a hundred years have passed and a new generation of legendary heroes arises to forge its own destiny \u2014 and make history.",
       "genres": [
-        "action",
-        "drama",
-        "war"
+        "Action & Adventure",
+        "Drama",
+        "War & Politics"
       ],
-      "user_rating": 7.666,
+      "user_rating": 7.663,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-02-25",
@@ -28,25 +27,47 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 116135,
-      "relevance_score": 17.9323
+      "tmdb_id": 116135
+    },
+    {
+      "id": 116450,
+      "title": "And Just Like That\u2026",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2b6E0pN19IGsmxSv6HyTKydKKdb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sHvTsXSWxuW7hoXAqWM4lBLJI50.jpg",
+      "plot_overview": "This new chapter of \u201cSex and the City\u201d follows Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.268,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-12-09",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 116450
     },
     {
       "id": 116799,
       "title": "The Lincoln Lawyer",
       "type": "tv_series",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jBFOVEE5sMIyT141YIqIwyU8Y1D.jpg",
       "plot_overview": "Sidelined after an accident, hotshot Los Angeles lawyer Mickey Haller restarts his career - and his trademark Lincoln - when he takes on a murder case.",
       "genres": [
-        "drama",
-        "crime"
+        "Drama",
+        "Crime"
       ],
-      "user_rating": 7.7,
+      "user_rating": 7.644,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-05-13",
@@ -56,12 +77,15 @@
           "service_name": "Netflix",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 116799,
-      "relevance_score": 15.525
+      "tmdb_id": 116799
     }
   ]
 }

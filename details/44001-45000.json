@@ -1,18 +1,17 @@
 {
   "range": "44001-45000",
-  "updated_at": 1765830970582,
+  "updated_at": 1765842560035,
   "shows": [
     {
       "id": 44006,
       "title": "Chicago Fire",
       "type": "tv_series",
       "year": 2012,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg",
       "plot_overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
       "genres": [
-        "drama"
+        "Drama"
       ],
       "user_rating": 8.401,
       "critic_score": null,
@@ -26,24 +25,20 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 44006,
-      "relevance_score": 49.9099
+      "tmdb_id": 44006
     },
     {
       "id": 44217,
       "title": "Vikings",
       "type": "tv_series",
       "year": 2013,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
       "plot_overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
       "genres": [
-        "action",
-        "drama",
-        "war"
+        "Action & Adventure",
+        "Drama",
+        "War & Politics"
       ],
       "user_rating": 8.093,
       "critic_score": null,
@@ -57,29 +52,53 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 44217,
-      "relevance_score": 73.6318
+      "tmdb_id": 44217
     },
     {
-      "id": 44953,
-      "title": "El Se\u00f1or de los Cielos",
+      "id": 44264,
+      "title": "Endeavour",
       "type": "tv_series",
       "year": 2013,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qUP2Zy4whlLSApTELz0LaxZTBQH.jpg",
-      "plot_overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Ju\u00e1rez cartel. Nicknamed \u201cEl Se\u00f1or de los Cielos\u201d (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/suX3F5e8XN9emrb52CQSwt2mRwx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/52UMX6fg1PHgkgZicP8eBktR7Ay.jpg",
+      "plot_overview": "The early days of a young Endeavour Morse, whose experiences as a detective constable with the Oxford City Police will ultimately shape his future.",
       "genres": [
-        "crime",
-        "drama",
-        "drama"
+        "Crime",
+        "Drama",
+        "Mystery"
       ],
-      "user_rating": 7.917,
+      "user_rating": 8.089,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2013-04-15",
+      "release_date": "2013-04-14",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 44264
+    },
+    {
+      "id": 44305,
+      "title": "DreamWorks Dragons",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gFhBIF8oXjpdVk1NbI4kP4l8LAe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lXMmT078fOOvCAg5f6tKNrMNpOS.jpg",
+      "plot_overview": "From the creators of \"How to Train Your Dragon\" comes a new series that takes Hiccup and Toothless to the edge of adventure.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Comedy"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-08-07",
       "streaming_services": [
         {
           "service_id": 386,
@@ -88,10 +107,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 44953,
-      "relevance_score": 23.2632
+      "tmdb_id": 44305
     }
   ]
 }

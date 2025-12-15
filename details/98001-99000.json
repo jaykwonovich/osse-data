@@ -1,18 +1,43 @@
 {
   "range": "98001-99000",
-  "updated_at": 1765830970597,
+  "updated_at": 1765842560046,
   "shows": [
+    {
+      "id": 98161,
+      "title": "Home Before Dark",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mt4P2epJrSaqrlkMP9fTUKLP9OE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mr8wTuLBbF4n6eGd3xHADUufo0c.jpg",
+      "plot_overview": "Young investigative journalist Hilde Lisko moves with her family to the small town her father left behind, only to unearth shocking secrets in her pursuit of the truth.",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "user_rating": 7.556,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-04-03",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 98161
+    },
     {
       "id": 98177,
       "title": "Trying",
       "type": "tv_series",
       "year": 2020,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g3zOfRXWCEm8kZACHqLsbz3W5Qa.jpg",
       "plot_overview": "All Nikki and Jason want is a baby\u2014the one thing they can't have. So they decide to adopt. With their dysfunctional friends, screwball families, and chaotic lives, will the adoption panel agree that they're ready to be parents?",
       "genres": [
-        "comedy"
+        "Comedy"
       ],
       "user_rating": 7.668,
       "critic_score": null,
@@ -26,23 +51,19 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 98177,
-      "relevance_score": 6.0454
+      "tmdb_id": 98177
     },
     {
       "id": 98178,
       "title": "Amazing Stories",
       "type": "tv_series",
       "year": 2020,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/3R5V6R3t1ZVtU2ZpTQT21GNgceb.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oG3Lsjw6a4mvqhsqA1KtWiaxdH3.jpg",
       "plot_overview": "This reimagining of the classic anthology series transports everyday characters into worlds of wonder, possibility, and imagination.",
       "genres": [
-        "sci-fi",
-        "action"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
       "user_rating": 7.368,
       "critic_score": null,
@@ -56,68 +77,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 98178,
-      "relevance_score": 9.3119
-    },
-    {
-      "id": 98604,
-      "title": "Die Anden - Natur am Limit",
-      "type": "tv_series",
-      "year": 2018,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fnyzpFPbaFN6E3ARZEC2cZFsUQN.jpg",
-      "backdrop_url": null,
-      "plot_overview": "",
-      "genres": [
-        "documentary"
-      ],
-      "user_rating": 10.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2018-11-14",
-      "streaming_services": [
-        {
-          "service_id": 531,
-          "service_name": "Paramount+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 98604,
-      "relevance_score": 0.1081
-    },
-    {
-      "id": 98892,
-      "title": "Schmigadoon!",
-      "type": "tv_series",
-      "year": 2021,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/s2Z5Rm7H0DFHX8cF0CQjIFOd6Am.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oFIM75OU39RUBEK2I1jD8PPRbUm.jpg",
-      "plot_overview": "Josh and Melissa are a struggling couple whose lives are transformed when they get trapped in a magical musical town\u2014with a mission they must complete.",
-      "genres": [
-        "comedy"
-      ],
-      "user_rating": 6.9,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2021-07-16",
-      "streaming_services": [
-        {
-          "service_id": 350,
-          "service_name": "Apple TV+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 98892,
-      "relevance_score": 6.0828
+      "tmdb_id": 98178
     }
   ]
 }

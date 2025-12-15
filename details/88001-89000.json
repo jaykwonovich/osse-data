@@ -1,19 +1,18 @@
 {
   "range": "88001-89000",
-  "updated_at": 1765830970594,
+  "updated_at": 1765842560044,
   "shows": [
     {
       "id": 88055,
       "title": "Servant",
       "type": "tv_series",
       "year": 2019,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/plsSSobmPSSz4hm8vYMXeIVkJJP.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7nsRpSCYcDGLcDmFAISHC8zMQ0D.jpg",
       "plot_overview": "A Philadelphia couple are in mourning after an unspeakable tragedy creates a rift in their marriage and opens the door for a mysterious force to enter their home.",
       "genres": [
-        "drama",
-        "mystery"
+        "Drama",
+        "Mystery"
       ],
       "user_rating": 7.542,
       "critic_score": null,
@@ -27,23 +26,46 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 88055,
-      "relevance_score": 9.1466
+      "tmdb_id": 88055
+    },
+    {
+      "id": 88329,
+      "title": "Hawkeye",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
+      "plot_overview": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton\u2019s past threatens to derail far more than the festive spirit.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.813,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-11-24",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 88329
     },
     {
       "id": 88396,
       "title": "The Falcon and the Winter Soldier",
       "type": "tv_series",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
       "plot_overview": "Following the events of \u201cAvengers: Endgame\u201d, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
       "genres": [
-        "action",
-        "drama"
+        "Action & Adventure",
+        "Drama"
       ],
       "user_rating": 7.613,
       "critic_score": null,
@@ -57,10 +79,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 88396,
-      "relevance_score": 14.8045
+      "tmdb_id": 88396
     }
   ]
 }

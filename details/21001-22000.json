@@ -1,20 +1,19 @@
 {
   "range": "21001-22000",
-  "updated_at": 1765830970576,
+  "updated_at": 1765842560033,
   "shows": [
     {
       "id": 21510,
       "title": "White Collar",
       "type": "tv_series",
       "year": 2009,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/417XNiGvdzCsG9kDnnQJYaBsIrx.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aUyweq31etaay92oF4crwdDcnoT.jpg",
       "plot_overview": "In exchange for his freedom, charming con artist Neal Caffrey provides his expertise to help straight-man FBI agent Peter Burke catch elusive white-collar criminals.",
       "genres": [
-        "crime",
-        "drama",
-        "mystery"
+        "Crime",
+        "Drama",
+        "Mystery"
       ],
       "user_rating": 8.243,
       "critic_score": null,
@@ -28,22 +27,45 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 21510,
-      "relevance_score": 25.4071
+      "tmdb_id": 21510
+    },
+    {
+      "id": 21641,
+      "title": "Good Luck Charlie",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cyYwkXW1vd3YpiFVlb7y0hgIzuu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/u1jUHmL3oKM48HVGmwrscdRK5hy.jpg",
+      "plot_overview": "Teens PJ and Teddy and tween brother Gabe are typical kids -- that is, until their mother has another baby. The arrival of their new sister completely upends the entire household. When their mother heads back to work after Charlie's birth, it's up to the kids and their dad to keep the home fires burning -- and to keep Charlie out of trouble as she learns to sit up, crawl, walk and run. Teddy, as the older sister, makes a personalized video diary for Charlie, in each episode adding a nugget of wi",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Kids"
+      ],
+      "user_rating": 7.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-04-04",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 21641
     },
     {
       "id": 21755,
       "title": "Pawn Stars",
       "type": "tv_series",
       "year": 2009,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/8GeBQWQOTu7yLwNfCV6iWyL8xNf.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dZluxNTlzqZWNb6UsUH3f7nUzGn.jpg",
       "plot_overview": "Go inside the colorful world of the pawn business. At the Gold & Silver Pawn Shop on the outskirts of Las Vegas, generations of the Harrison family run the family business, and there\u2019s clashing and camaraderie every step of the way.",
       "genres": [
-        "reality"
+        "Reality"
       ],
       "user_rating": 7.104,
       "critic_score": null,
@@ -55,12 +77,15 @@
           "service_name": "Disney+",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 21755,
-      "relevance_score": 14.5048
+      "tmdb_id": 21755
     }
   ]
 }

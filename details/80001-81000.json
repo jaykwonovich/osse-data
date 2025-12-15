@@ -1,19 +1,18 @@
 {
   "range": "80001-81000",
-  "updated_at": 1765830970592,
+  "updated_at": 1765842560043,
   "shows": [
     {
       "id": 80054,
       "title": "Truth Be Told",
       "type": "tv_series",
       "year": 2019,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/3T2TJ61ems7ArVGwb6kiVuKcdUk.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cXjRGoYFAFkwPzhOZXFARPuYQ00.jpg",
       "plot_overview": "Descend into the world of true-crime podcasts with Poppy Parnell, who risks everything\u2014including her life\u2014to pursue truth and justice.",
       "genres": [
-        "drama",
-        "mystery"
+        "Drama",
+        "Mystery"
       ],
       "user_rating": 7.095,
       "critic_score": null,
@@ -27,22 +26,18 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 80054,
-      "relevance_score": 9.3941
+      "tmdb_id": 80054
     },
     {
       "id": 80350,
       "title": "New Amsterdam",
       "type": "tv_series",
       "year": 2018,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/jsH4AeGZn5Q6h314A3OTUHKxHhR.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9hfA9zMsyckwZ8WLMVQYKG8YSwY.jpg",
       "plot_overview": "The new medical director breaks the rules to heal the system at America's oldest public hospital. Max Goodwin sets out to tear up the bureaucracy and provide exceptional care, but the doctors and staff are not so sure he can succeed. They've heard this before. Not taking \"no\" for an answer, Dr. Goodwin's instinctive response to problems large and small is four simple words: \"How can I help?\" He has to disrupt the status quo and prove he'll stop at nothing to breathe new life into this underfunde",
       "genres": [
-        "drama"
+        "Drama"
       ],
       "user_rating": 8.343,
       "critic_score": null,
@@ -56,55 +51,20 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 80350,
-      "relevance_score": 19.002
-    },
-    {
-      "id": 80587,
-      "title": "Big City Greens",
-      "type": "tv_series",
-      "year": 2018,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/buRk2Vrz8UhF5nZUOADSRZLEU1f.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vVGmv5mle6lCrgnx8lNv5Q1vZPw.jpg",
-      "plot_overview": "The offbeat adventures of 10-year-old Cricket Green, a mischievous and optimistic country boy who moves to the big city with his wildly out of place family \u2013 older sister Tilly, father Bill and Gramma Alice.",
-      "genres": [
-        "family",
-        "animation",
-        "comedy"
-      ],
-      "user_rating": 7.366,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2018-06-18",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 80587,
-      "relevance_score": 15.881
+      "tmdb_id": 80350
     },
     {
       "id": 80752,
       "title": "See",
       "type": "tv_series",
       "year": 2019,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/u5N8tXgGDY6jS7R8Xn42LDeL0Dk.jpg",
       "plot_overview": "A virus has decimated humankind. Those who survived emerged blind. Centuries later when twins are born with the mythic ability to see, their father must protect his tribe against a threatened queen.",
       "genres": [
-        "drama",
-        "sci-fi",
-        "action"
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
       "user_rating": 8.1,
       "critic_score": null,
@@ -118,10 +78,34 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 80752,
-      "relevance_score": 22.252
+      "tmdb_id": 80752
+    },
+    {
+      "id": 80986,
+      "title": "DC's Stargirl",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/68EbeOUOG66a23bCwP9VK4WzwTj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b5lKppEquuQWm6fTjGcu2g8FJgs.jpg",
+      "plot_overview": "Courtney Whitmore, a smart, athletic and above all else kind girl, discovers her step-father has a secret: he used to be the sidekick to a superhero. \"Borrowing\" the long-lost hero\u2019s cosmic staff, she becomes the unlikely inspiration for an entirely new generation of superheroes.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 7.697,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-05-18",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 80986
     }
   ]
 }

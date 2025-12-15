@@ -1,20 +1,69 @@
 {
   "range": "108001-109000",
-  "updated_at": 1765830970599,
+  "updated_at": 1765842560047,
   "shows": [
+    {
+      "id": 108303,
+      "title": "Tiny World",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5W3JUWqR9UdN5FTvhE3PAbWqG63.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ke9rFriyN7NLKe6d0EBh1wJxYxE.jpg",
+      "plot_overview": "This docuseries showcases nature's lesser-known tiny heroes. Spotlighting small creatures and the extraordinary things they do to survive, each episode is filled with surprising stories and spectacular cinematography.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 8.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-10-02",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 108303
+    },
+    {
+      "id": 108664,
+      "title": "Five Days at Memorial",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yLx44hdSpt9GhP67JafP5sMEoMB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wlzOQRDD5k5sDXUimLgZfWcd6nz.jpg",
+      "plot_overview": "When the floodwaters rose, power failed, and heat soared, exhausted caregivers at a New Orleans hospital were forced to make profound, heart-wrenching decisions.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-08-11",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 108664
+    },
     {
       "id": 108978,
       "title": "Reacher",
       "type": "tv_series",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/JYgqp8g2kI3SEus9XBDSHukfBN.jpg",
       "plot_overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "genres": [
-        "action",
-        "drama",
-        "crime"
+        "Action & Adventure",
+        "Drama",
+        "Crime"
       ],
       "user_rating": 8.087,
       "critic_score": null,
@@ -28,10 +77,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 108978,
-      "relevance_score": 48.2575
+      "tmdb_id": 108978
     }
   ]
 }

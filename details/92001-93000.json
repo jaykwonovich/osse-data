@@ -1,20 +1,76 @@
 {
   "range": "92001-93000",
-  "updated_at": 1765830970595,
+  "updated_at": 1765842560045,
   "shows": [
+    {
+      "id": 92621,
+      "title": "Brassic",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tnIq3yiLMZJpaJyRs8FNV7WJs6V.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hEJE1WsZZqjJsq0Ltpom5qZzWEE.jpg",
+      "plot_overview": "A group of working-class friends finding unconventional ways to win at life in suburban northern England. These lads have dealt, scammed, bribed and conned their way through adolescence, but now, their dealing and stealing is catching up with them and a whole load of trouble is heading their way.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 8.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-08-22",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 92621
+    },
+    {
+      "id": 92685,
+      "title": "The Owl House",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zqjSex7DZn7p4dU7mMktdJ8zQV5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mGHrUSt2uA5RaIheSmBfRnRHPS8.jpg",
+      "plot_overview": "An animated fantasy-comedy series that follows Luz, a self-assured teenage girl who accidentally stumbles upon a portal to a magical world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. Despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice at the Owl House and ultimately finds a new family in an unlikely setting.",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure",
+        "Comedy",
+        "Kids"
+      ],
+      "user_rating": 8.66,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-01-10",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 92685
+    },
     {
       "id": 92749,
       "title": "Moon Knight",
       "type": "tv_series",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iux1vKPT7Vw1AzetZb4Jz6wfYsm.jpg",
       "plot_overview": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc\u2019s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
       "genres": [
-        "sci-fi",
-        "mystery",
-        "action"
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Action & Adventure"
       ],
       "user_rating": 7.66,
       "critic_score": null,
@@ -28,10 +84,34 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 92749,
-      "relevance_score": 20.8023
+      "tmdb_id": 92749
+    },
+    {
+      "id": 92830,
+      "title": "Obi-Wan Kenobi",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
+      "plot_overview": "During the reign of the Galactic Empire, former Jedi Master, Obi-Wan Kenobi, embarks on a crucial mission to confront allies turned enemies and face the wrath of the Empire.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 7.034,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-05-26",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 92830
     }
   ]
 }

@@ -1,18 +1,17 @@
 {
   "range": "94001-95000",
-  "updated_at": 1765830970596,
+  "updated_at": 1765842560045,
   "shows": [
     {
       "id": 94245,
       "title": "Swagger",
       "type": "tv_series",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/nASkt8izgpR4toMYgiAnxfjWcE2.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7JtmSaeMYO4iAykezEAXAHTd7Yl.jpg",
       "plot_overview": "A basketball prodigy must navigate a maze of pressure if he's going to overcome the odds against him and learn what it truly means to have swagger.",
       "genres": [
-        "drama"
+        "Drama"
       ],
       "user_rating": 7.861,
       "critic_score": null,
@@ -26,23 +25,19 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 94245,
-      "relevance_score": 5.9592
+      "tmdb_id": 94245
     },
     {
       "id": 94372,
       "title": "FBI: Most Wanted",
       "type": "tv_series",
       "year": 2020,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/uwTNBqFrEur3EtK8ofWbtGXMQOP.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4BrWdbv2Cqe0zLqvNzkoednZQAb.jpg",
       "plot_overview": "The Fugitive Task Force relentlessly tracks and captures the notorious criminals on the Bureau's Most Wanted list. Seasoned agents oversee the highly skilled team that functions as a mobile undercover unit that is always out in the field, pursuing those who are most desperate to elude justice.",
       "genres": [
-        "crime",
-        "drama"
+        "Crime",
+        "Drama"
       ],
       "user_rating": 7.648,
       "critic_score": null,
@@ -56,53 +51,70 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 94372,
-      "relevance_score": 21.3754
+      "tmdb_id": 94372
     },
     {
-      "id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "id": 94605,
+      "title": "Arcane",
       "type": "tv_series",
       "year": 2021,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-      "plot_overview": "A 34-year-old hikikomori is kicked out of his home by his family after the death of his parents. After his eviction, he saves a group of teenagers from being killed by a speeding truck, but loses his life in the process. When he comes to, he realizes he has been reborn as Rudeus Greyrat, in a world of swords and sorcery.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wwbHr8MPErMbmiYNaxDgTWyewOX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sYXLeu5usz6yEz0k00FYvtEdodD.jpg",
+      "plot_overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
       "genres": [
-        "action",
-        "animation",
-        "sci-fi"
+        "Animation",
+        "Action & Adventure"
       ],
-      "user_rating": 8.5,
+      "user_rating": 8.753,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2021-01-11",
+      "release_date": "2021-11-06",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 94664,
-      "relevance_score": 31.6782
+      "tmdb_id": 94605
+    },
+    {
+      "id": 94686,
+      "title": "Tyler Perry's Sistas",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9UtwdSXDkDMvqAdMJsbB8JLlBEH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8pWr7esugITmgrH22OXVmRg8xks.jpg",
+      "plot_overview": "There's nothing that bonds a group of single black women together more than sidestepping the land mines of living, working and dating in Atlanta. In a sea of swipe-lefts, social media drama and unrealistic #relationshipgoals, these friends try to find their Mr. Right.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 8.386,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-10-23",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 94686
     },
     {
       "id": 94951,
       "title": "Mythic Quest",
       "type": "tv_series",
       "year": 2020,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/7QxQlpqEjx3vRpEtuh6Y0R6eY9O.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cP82Jtvn7DwVt0mWaDFm7QhWHez.jpg",
       "plot_overview": "Meet the team behind the biggest multiplayer video game of all time. But in a workplace focused on building worlds, molding heroes, and creating legends, the most hard-fought battles don\u2019t occur in the game\u2014they happen in the office.",
       "genres": [
-        "comedy"
+        "Comedy"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -116,27 +128,23 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 94951,
-      "relevance_score": 19.4624
+      "tmdb_id": 94951
     },
     {
       "id": 94954,
       "title": "Hazbin Hotel",
       "type": "tv_series",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tuCU2yVRM2iZxFkpqlPUyvd6tSu.jpg",
       "plot_overview": "In attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redemption.",
       "genres": [
-        "animation",
-        "comedy",
-        "drama",
-        "sci-fi"
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.628,
+      "user_rating": 8.629,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-01-18",
@@ -148,24 +156,20 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 94954,
-      "relevance_score": 46.841
+      "tmdb_id": 94954
     },
     {
       "id": 94997,
       "title": "House of the Dragon",
       "type": "tv_series",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/oxmdHR5Ka28HAJuMmS2hk5K6QQY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2xGcSLyTAzConiHAByWqhfLiatT.jpg",
       "plot_overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "genres": [
-        "sci-fi",
-        "drama",
-        "action"
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
       ],
       "user_rating": 8.306,
       "critic_score": null,
@@ -179,10 +183,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 94997,
-      "relevance_score": 32.7874
+      "tmdb_id": 94997
     }
   ]
 }

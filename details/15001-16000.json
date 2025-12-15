@@ -1,52 +1,46 @@
 {
   "range": "15001-16000",
-  "updated_at": 1765830970574,
+  "updated_at": 1765842560032,
   "shows": [
     {
-      "id": 15255,
-      "title": "Undisputed II: Last Man Standing",
-      "type": "movie",
-      "year": 2006,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2gMCokqpIJoh6u5o06LlOZWsI3k.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rBNMvw9AUTYlVNjaEGwSNtgEMtd.jpg",
-      "plot_overview": "Heavyweight Champ George \"Iceman\" Chambers is sent to a Russian jail on trumped-up drug charges. In order to win his freedom he must fight against the jailhouse fighting champ Uri Boyka in a battle to the death. This time he is not fighting for a title, he is fighting for his life!",
+      "id": 15079,
+      "title": "The Suite Life on Deck",
+      "type": "tv_series",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1qfSlnVLvgWqV4XlFB8YNvtKTSy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zclNcr7DdxJqt3Xq6eGeuF1QFqz.jpg",
+      "plot_overview": "Zack and Cody Martin are aboard the SS Tipton, a luxury passenger cruise liner owned by London's father. The ship cruises the world with tourists and students who attend classes at Seven Seas High, the one high school that London's dad thinks will make his daughter a better student. While out at sea, Zack and Cody still have their compass pointed towards mischief, and London learns to live a \"fabu-less\" lifestyle, including sharing a small room with Bailey, a country girl from Kansas.",
       "genres": [
-        "action",
-        "crime",
-        "thriller",
-        "drama"
+        "Comedy",
+        "Family",
+        "Kids"
       ],
-      "user_rating": 7.346,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2006-04-11",
+      "release_date": "2008-09-26",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 15255,
-      "relevance_score": 14.7497
+      "tmdb_id": 15079
     },
     {
       "id": 15260,
       "title": "Adventure Time",
       "type": "tv_series",
       "year": 2010,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3uE9SUywNbj1qSAuYCGgbTTYku5.jpg",
       "plot_overview": "Unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo. The best of friends, our heroes always find themselves in the middle of escapades. Finn and Jake depend on each other through thick and thin.",
       "genres": [
-        "animation",
-        "comedy",
-        "sci-fi"
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy"
       ],
       "user_rating": 8.497,
       "critic_score": null,
@@ -58,12 +52,94 @@
           "service_name": "Hulu",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 15260,
-      "relevance_score": 46.9496
+      "tmdb_id": 15260
+    },
+    {
+      "id": 15621,
+      "title": "The Newsroom",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pOC3DmU47X98Sv5vaPnmgjG30eY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oNNdRpSQSdRIaWnSFejhw1qk51K.jpg",
+      "plot_overview": "A behind-the-scenes look at the people who make a nightly cable-news program. Focusing on a\u00a0network anchor, his new executive producer, the newsroom staff and their boss, the series tracks their quixotic mission to do the news well in the face of corporate and commercial obstacles-not to mention their own personal entanglements.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 8.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-06-24",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 15621
+    },
+    {
+      "id": 15804,
+      "title": "Batman: The Brave and the Bold",
+      "type": "tv_series",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ukXZ1N9Pd99vDNetFKYNpFYgoXF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2ntyHIpPturMsFjjjM7bEr2gaHB.jpg",
+      "plot_overview": "The Caped Crusader is teamed up with Blue Beetle, Green Arrow, Aquaman and countless others in his quest to uphold justice.",
+      "genres": [
+        "Animation",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-11-14",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 15804
+    },
+    {
+      "id": 15819,
+      "title": "Warehouse 13",
+      "type": "tv_series",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vK6KMBDUzZdwQcxPkfPO1iUSN0r.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fhmpYAxnF17CRWRcAWSeDRPWJi5.jpg",
+      "plot_overview": "After saving the life of the President, two secret service agents - Myka Bering and Pete Lattimer - find themselves assigned to the top secret Warehouse 13. The Warehouse is a massive, top secret facility that houses dangerous and fantastical objects. Together, Pete and Myka along with fellow agents Claudia, Steve Jinks and Warehouse caretaker Artie, must recover artifacts from around the globe before they can cause catastrophic damage.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Comedy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 7.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-07-07",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 15819
     }
   ]
 }

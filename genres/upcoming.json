@@ -1,11 +1,11 @@
 {
   "genre": "upcoming",
-  "updated_at": 1765842233406,
+  "updated_at": 1765842574053,
   "processing_stats": {
     "total": 75,
-    "rules": 4,
+    "rules": 0,
     "gemini": 0,
-    "cache": 6,
+    "cache": 10,
     "kept": 75,
     "filtered": 0
   },
@@ -343,8 +343,7 @@
       "networks": [
         "Paramount+"
       ],
-      "prediction_source": "rules",
-      "prediction_confidence": 0.95,
+      "prediction_source": "cache",
       "relevance_score": 75.0
     },
     {
@@ -518,8 +517,7 @@
       "networks": [
         "Disney Junior"
       ],
-      "prediction_source": "rules",
-      "prediction_confidence": 0.9,
+      "prediction_source": "cache",
       "relevance_score": 75.0
     },
     {
@@ -562,8 +560,7 @@
       "networks": [
         "Paramount+"
       ],
-      "prediction_source": "rules",
-      "prediction_confidence": 0.95,
+      "prediction_source": "cache",
       "relevance_score": 75.0
     },
     {
@@ -581,8 +578,7 @@
       "networks": [
         "CBS"
       ],
-      "prediction_source": "rules",
-      "prediction_confidence": 0.8,
+      "prediction_source": "cache",
       "relevance_score": 75.0
     },
     {

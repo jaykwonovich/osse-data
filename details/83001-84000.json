@@ -1,20 +1,72 @@
 {
   "range": "83001-84000",
-  "updated_at": 1765830970593,
+  "updated_at": 1765842560043,
   "shows": [
+    {
+      "id": 83631,
+      "title": "What We Do in the Shadows",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mKikck71CvVISUSTLk29fwRbH4y.jpg",
+      "plot_overview": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have \u201clived\u201d together for hundreds and hundreds of years.",
+      "genres": [
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.988,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-03-27",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 83631
+    },
+    {
+      "id": 83659,
+      "title": "Guillermo del Toro's Cabinet of Curiosities",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/a91e9hpWwfCqxJI4xM9Q2RhuxgI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gM1diqqPFu5oRpEVsx84SPBYvV3.jpg",
+      "plot_overview": "Bizarre nightmares unfold in eight tales of terror in this visually stunning, spine-tingling horror collection curated by Guillermo del Toro.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.478,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-10-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 83659
+    },
     {
       "id": 83867,
       "title": "Andor",
       "type": "tv_series",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kCGwvjpqM1owt9kI4pkYPJWJLvc.jpg",
       "plot_overview": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
       "genres": [
-        "sci-fi",
-        "action",
-        "drama"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
       ],
       "user_rating": 8.276,
       "critic_score": null,
@@ -28,10 +80,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 83867,
-      "relevance_score": 27.9766
+      "tmdb_id": 83867
     }
   ]
 }

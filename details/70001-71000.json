@@ -1,20 +1,19 @@
 {
   "range": "70001-71000",
-  "updated_at": 1765830970590,
+  "updated_at": 1765842560041,
   "shows": [
     {
       "id": 70485,
       "title": "Mr. Mercedes",
       "type": "tv_series",
       "year": 2017,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/zZm3LidCf6Edv6yX3WMKo6KwICg.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/diYVGzRSAJpOCE5Avd5ZKBFUepi.jpg",
       "plot_overview": "A demented serial killer taunts a retired police detective with a series of lurid letters and emails, forcing the ex-cop to undertake a private, and potentially felonious, crusade to bring the killer to justice before he can strike again.",
       "genres": [
-        "mystery",
-        "sci-fi",
-        "drama"
+        "Mystery",
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
       "user_rating": 7.123,
       "critic_score": null,
@@ -28,10 +27,33 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 70485,
-      "relevance_score": 32.9136
+      "tmdb_id": 70485
+    },
+    {
+      "id": 70796,
+      "title": "The Marvelous Mrs. Maisel",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zS7fQiOZiKCVH2vlYSiIsFWW8hh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vQ77kC1amsZECKIxkUIsMJCtBVp.jpg",
+      "plot_overview": "It\u2019s 1958 Manhattan and Miriam \u201cMidge\u201d Maisel has everything she\u2019s ever wanted - the perfect husband, kids, and Upper West Side apartment. But when her life suddenly takes a turn and Midge must start over, she discovers a previously unknown talent - one that will take her all the way from the comedy clubs of Greenwich Village to a spot on Johnny Carson\u2019s couch.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 8.057,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-03-16",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 70796
     }
   ]
 }

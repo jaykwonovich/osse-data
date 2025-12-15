@@ -1,19 +1,18 @@
 {
   "range": "97001-98000",
-  "updated_at": 1765830970597,
+  "updated_at": 1765842560046,
   "shows": [
     {
       "id": 97546,
       "title": "Ted Lasso",
       "type": "tv_series",
       "year": 2020,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wImNeqxKsqmJ5OBw8j3I37GNFN3.jpg",
       "plot_overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team\u2014despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "genres": [
-        "drama",
-        "comedy"
+        "Drama",
+        "Comedy"
       ],
       "user_rating": 8.358,
       "critic_score": null,
@@ -27,23 +26,46 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 97546,
-      "relevance_score": 19.8986
+      "tmdb_id": 97546
+    },
+    {
+      "id": 97645,
+      "title": "Solar Opposites",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/m431Q9FgkilJGxBnXSot4Gy87b2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1cVt0Tm7erwYT5lyae9vUkPr4XY.jpg",
+      "plot_overview": "A family of aliens from a much better world must take refuge in middle America after the destruction of their planet. Their mission: protect the Pupa, a living super computer that will one day evolve into its true form, consume them and terraform the Earth.",
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.796,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-05-08",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 97645
     },
     {
       "id": 97951,
       "title": "Mayor of Kingstown",
       "type": "tv_series",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
       "plot_overview": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
       "genres": [
-        "drama",
-        "crime"
+        "Drama",
+        "Crime"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -57,10 +79,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 97951,
-      "relevance_score": 49.3907
+      "tmdb_id": 97951
     }
   ]
 }

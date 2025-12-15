@@ -1,19 +1,99 @@
 {
   "range": "73001-74000",
-  "updated_at": 1765830970591,
+  "updated_at": 1765842560041,
   "shows": [
+    {
+      "id": 73107,
+      "title": "Barry",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cj0zZiJfFj3xn9p0K3kx8qHSyng.jpg",
+      "plot_overview": "A listless hitman is enthralled by theatre acting and becomes eager to leave his old life behind in pursuit of a new career.",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.893,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-03-25",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 73107
+    },
+    {
+      "id": 73375,
+      "title": "Tom Clancy's Jack Ryan",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2y2TbzeKZHYqTN5gb4nBv9dKk1f.jpg",
+      "plot_overview": "When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 7.678,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-08-30",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 73375
+    },
+    {
+      "id": 73544,
+      "title": "Warrior",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jSBUu67DL0ajUo2e8b2orVX2TOw.jpg",
+      "plot_overview": "A gritty, action-packed crime drama set during the brutal Tong Wars of San Francisco\u2019s Chinatown in the second half of the 19th century. The series follows Ah Sahm, a martial arts prodigy who immigrates from China to San Francisco under mysterious circumstances, and becomes a hatchet man for one of Chinatown\u2019s most powerful tongs.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Action & Adventure",
+        "Western"
+      ],
+      "user_rating": 7.978,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-04-05",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 73544
+    },
     {
       "id": 73586,
       "title": "Yellowstone",
       "type": "tv_series",
       "year": 2018,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
       "plot_overview": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America\u2019s first National Park.",
       "genres": [
-        "western",
-        "drama"
+        "Western",
+        "Drama"
       ],
       "user_rating": 8.251,
       "critic_score": null,
@@ -27,10 +107,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 73586,
-      "relevance_score": 57.9401
+      "tmdb_id": 73586
     }
   ]
 }
