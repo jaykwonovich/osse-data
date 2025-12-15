@@ -1,6 +1,6 @@
 {
   "range": "225001-226000",
-  "updated_at": 1765841231965,
+  "updated_at": 1765842216080,
   "shows": [
     {
       "id": 225091,
@@ -37,7 +37,7 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.974,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-11-06",
@@ -56,6 +56,59 @@
         }
       ],
       "tmdb_id": 225171
+    },
+    {
+      "id": 225361,
+      "title": "BAT-FAM",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8C34YTylNBt4DWM1a9oAAXqmTSr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yZJ6ecQCRsXg3rx7hJbwYPHuzD3.jpg",
+      "plot_overview": "Follow Batman, Alfred, and young Damian Wayne\u2014who has taken on the mantle of Little Batman\u2014alongside a few newcomers to Wayne Manor, as they navigate the fun and frustrations of life as a super family",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 4.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-11-10",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 225361
+    },
+    {
+      "id": 225647,
+      "title": "Boots",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7a78G7fisRp9N9upjyX5b3GNRNI.jpg",
+      "plot_overview": "After impulsively joining the U.S. Marine Corps, a bullied teen finds new purpose \u2014 and unexpected brotherhood \u2014 with his motley team of fellow recruits.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "War & Politics"
+      ],
+      "user_rating": 7.853,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-09",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 225647
     }
   ]
 }

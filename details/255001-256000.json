@@ -1,45 +1,7 @@
 {
   "range": "255001-256000",
-  "updated_at": 1765841231976,
+  "updated_at": 1765842216085,
   "shows": [
-    {
-      "id": 255064,
-      "title": "THE DARWIN INCIDENT",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9hLo3uSeGx6vDtnOPQcq7sVBzsL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3pxPbuDzuZaWRdheGptiDTM9jFz.jpg",
-      "plot_overview": "Created in a biological science lab, Charlie is a half human, half chimpanzee hybrid known as \"Humanzee.\" Raised by his adoptive human parents, Charlie is now 15 and starting high school. There he meets Lucy, a clever loner who becomes his first-ever friend. But his \"normal\" life is shattered when the animal rights extremists who freed his mother from the lab fifteen years ago reemerge as terrorists bent on kidnapping Charlie at all costs.",
-      "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy"
-      ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2026-01-07",
-      "streaming_services": [
-        {
-          "service_id": 0,
-          "service_name": "TBD",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "production_companies": [
-        "TOHO",
-        "BELLNOX FILMS"
-      ],
-      "networks": [
-        "TV Tokyo",
-        "TV Aichi",
-        "TVQ",
-        "TV Osaka",
-        "TVh",
-        "TSC"
-      ],
-      "tmdb_id": 255064
-    },
     {
       "id": 255251,
       "title": "Sean Combs: The Reckoning",
@@ -67,29 +29,56 @@
       "tmdb_id": 255251
     },
     {
-      "id": 255719,
-      "title": "The Seduction",
+      "id": 255752,
+      "title": "Haunted Hotel",
       "type": "tv_series",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vknbnvegsTrzjqa8fsPyXN4wCHI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ai3cpzBkdBMzQ9GQCjiFPxNWrTL.jpg",
-      "plot_overview": "Marquise de Merteuil, betrayed by Valmont, embarks on a daring journey to become Paris' leading courtesan.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qQ4tWKwP5wPRyZGxXkiSkKYqzgm.jpg",
+      "plot_overview": "After inheriting a hotel from her late brother, a single mom moves in with his good-natured ghost \u2014 and high-maintenance guests who will never check out.",
       "genres": [
-        "Drama"
+        "Animation",
+        "Comedy"
       ],
-      "user_rating": 6.0,
+      "user_rating": 8.044,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-11-14",
+      "release_date": "2025-09-19",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 255719
+      "tmdb_id": 255752
+    },
+    {
+      "id": 255859,
+      "title": "Wayward",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/znwchNfU5Vr2RNbxnI2iVIxVeMD.jpg",
+      "plot_overview": "A small-town cop suspects that the local school for troubled teens \u2014 and its dangerously charismatic founder \u2014 may not be all it seems.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 6.303,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-09-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 255859
     }
   ]
 }

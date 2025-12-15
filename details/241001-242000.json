@@ -1,34 +1,32 @@
 {
   "range": "241001-242000",
-  "updated_at": 1765841231970,
+  "updated_at": 1765842216083,
   "shows": [
     {
-      "id": 241151,
-      "title": "Cold",
+      "id": 241361,
+      "title": "Too Much",
       "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/x9LaSZop6VeyhxWtBUXMQGMEjP6.jpg",
-      "backdrop_url": null,
-      "plot_overview": "Lithuania, 1991. As the country is fighting its bloody last stand against the crumbling Soviet empire, a young US-German journalist discovers some documents that are essential for the KGB to maintain control of the \u201cseparatist\u201d republics. The disappearance of these top-secret files starts a deadly and desperate chase across Eastern Europe, involving five individuals who are unknowingly interconnected through personal stories of love, betrayal and revenge.",
-      "genres": [],
-      "user_rating": 0.0,
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hBjWLnOO8rwHmFbpA88QR0tAG5e.jpg",
+      "plot_overview": "When a heartbroken New Yorker moves to London hoping for a love story, she falls for an indie musician who's anything but the typical romantic hero.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 5.683,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2026-01-10",
+      "release_date": "2025-07-10",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "production_companies": [
-        "Magic Film",
-        "Kinescope Film"
-      ],
-      "networks": [],
-      "tmdb_id": 241151
+      "tmdb_id": 241361
     },
     {
       "id": 241372,
@@ -90,60 +88,6 @@
         }
       ],
       "tmdb_id": 241388
-    },
-    {
-      "id": 241560,
-      "title": "The Fridge",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zrx4TttBxuAGx6usaiprnzuwr6i.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/49M44T8huanv2Vw6klElWGVRj4g.jpg",
-      "plot_overview": "Wishing to escape from the chaos of his life, Makorn finds a house to rent. It has all the amenities but a refrigerator. He buys one second hand, and that night, Makorn gets a shock when he opens the fridge and his hand meets with another on the other side. The hand's owner is Pleo, a 29-year-old with a painful past. Once they each recover from their shock, they talk and discover they're communicating across different times. For Pleo, it's still Thai year 2550.",
-      "genres": [],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-12-19",
-      "streaming_services": [
-        {
-          "service_id": 0,
-          "service_name": "TBD",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "production_companies": [],
-      "networks": [
-        "Mono29"
-      ],
-      "tmdb_id": 241560
-    },
-    {
-      "id": 241576,
-      "title": "Had I Not Seen the Sun",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uY4ETb9evtpvjJiXKpgh21cOBno.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/b9nrdh1VaspBckmaDwftW4mcOyC.jpg",
-      "plot_overview": "Filmmaker Zhou Pin-yu interviews a serial killer in prison \u2014 an encounter that triggers a string of mysterious events tied to a buried past.",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "user_rating": 7.6,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-11-13",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 241576
     }
   ]
 }
