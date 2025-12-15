@@ -1,6 +1,6 @@
 {
   "range": "223001-224000",
-  "updated_at": 1765836378604,
+  "updated_at": 1765840252175,
   "shows": [
     {
       "id": 223300,
@@ -26,18 +26,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 223300,
-      "production_companies": [
-        "SutterInk"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "service_name": "Netflix",
-      "service_id": 8,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 76.99
+      "tmdb_id": 223300
     },
     {
       "id": 223326,
@@ -69,12 +58,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 223326,
-      "service_name": "Disney+",
-      "service_id": 337,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 82.09
+      "tmdb_id": 223326
     },
     {
       "id": 223530,
@@ -99,7 +83,6 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 223530,
       "production_companies": [
         "CBS Studios",
         "Secret Hideout",
@@ -108,11 +91,7 @@
       "networks": [
         "Paramount+"
       ],
-      "service_name": "Paramount+",
-      "service_id": 531,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 223530
     }
   ]
 }

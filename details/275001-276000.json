@@ -1,7 +1,30 @@
 {
   "range": "275001-276000",
-  "updated_at": 1765836378612,
+  "updated_at": 1765840252184,
   "shows": [
+    {
+      "id": 275549,
+      "title": "\u4e50\u9ad8\u57ce\u5e02\u5927\u5192\u9669",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": null,
+      "backdrop_url": null,
+      "plot_overview": "",
+      "genres": [],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-11-01",
+      "streaming_services": [
+        {
+          "service_id": 531,
+          "service_name": "Paramount+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 275549
+    },
     {
       "id": 275722,
       "title": "Vampirina: Teenage Vampire",
@@ -26,22 +49,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 275722,
-      "production_companies": [
-        "It's a Laugh Productions",
-        "Little Lion Productions",
-        "Cross Hoge Productions",
-        "Chorus Boy",
-        "Disney Branded Television"
-      ],
-      "networks": [
-        "Disney Channel"
-      ],
-      "service_name": "Disney+",
-      "service_id": 337,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 80.0
+      "tmdb_id": 275722
     },
     {
       "id": 275724,
@@ -68,12 +76,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 275724,
-      "service_name": "Disney+",
-      "service_id": 337,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 86.14
+      "tmdb_id": 275724
     }
   ]
 }

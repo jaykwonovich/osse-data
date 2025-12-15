@@ -1,6 +1,6 @@
 {
   "range": "283001-284000",
-  "updated_at": 1765836378614,
+  "updated_at": 1765840252185,
   "shows": [
     {
       "id": 283133,
@@ -26,7 +26,6 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 283133,
       "production_companies": [
         "Dynamic Television",
         "Innato La Serie",
@@ -35,11 +34,7 @@
       "networks": [
         "Netflix"
       ],
-      "service_name": "Netflix",
-      "service_id": 8,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 283133
     },
     {
       "id": 283818,
@@ -66,51 +61,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 283818,
-      "production_companies": [
-        "Studio KAI",
-        "TBS",
-        "Universal Music Japan",
-        "movic",
-        "armabianca",
-        "PIA Corporation",
-        "MAGNET"
-      ],
-      "networks": [
-        "MBS",
-        "TBS",
-        "CBC",
-        "Tulip Television",
-        "SBC",
-        "BSN",
-        "tys",
-        "NBC",
-        "HBC",
-        "RKK",
-        "i-Television",
-        "SBS",
-        "IBC",
-        "BSS",
-        "MRO",
-        "OBS",
-        "TUF",
-        "RSK",
-        "TUY",
-        "tbc",
-        "RKB",
-        "KUTV",
-        "RBC",
-        "UTY",
-        "RCC",
-        "MRT",
-        "ATV",
-        "MBC"
-      ],
-      "service_name": "Prime Video",
-      "service_id": 9,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 82.71
+      "tmdb_id": 283818
     }
   ]
 }

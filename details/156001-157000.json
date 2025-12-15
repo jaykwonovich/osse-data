@@ -1,7 +1,32 @@
 {
   "range": "156001-157000",
-  "updated_at": 1765836378600,
+  "updated_at": 1765840252171,
   "shows": [
+    {
+      "id": 156286,
+      "title": "Kandi & The Gang",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ryO1S9QA92oB7Ik5UrQZ2qmUfUK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/btCCbheS3y6tQin57r3xvwntpRq.jpg",
+      "plot_overview": "Life is about to get a little sweeter \u2014 and, yes, a tad more dramatic \u2014 in a new series that follows Kandi Burruss' family and staff, who just so happen to work at her famed Old Lady Gang restaurant. Make your reservations: Kandi & The Gang.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 1.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-03-06",
+      "streaming_services": [
+        {
+          "service_id": 365,
+          "service_name": "MGM+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 156286
+    },
     {
       "id": 156390,
       "title": "Washington Black",
@@ -26,12 +51,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 156390,
-      "service_name": "Disney+",
-      "service_id": 337,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 78.04
+      "tmdb_id": 156390
     }
   ]
 }

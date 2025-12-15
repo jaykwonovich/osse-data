@@ -1,6 +1,6 @@
 {
   "range": "298001-299000",
-  "updated_at": 1765836378617,
+  "updated_at": 1765840252188,
   "shows": [
     {
       "id": 298203,
@@ -26,18 +26,13 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 298203,
       "production_companies": [
         "Amazon MGM Studios"
       ],
       "networks": [
         "Prime Video"
       ],
-      "service_name": "Prime Video",
-      "service_id": 9,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 298203
     },
     {
       "id": 298343,
@@ -64,7 +59,6 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 298343,
       "production_companies": [
         "Titmouse",
         "Underground Films"
@@ -72,11 +66,7 @@
       "networks": [
         "Netflix"
       ],
-      "service_name": "Netflix",
-      "service_id": 8,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 298343
     },
     {
       "id": 298756,
@@ -102,20 +92,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 298756,
-      "production_companies": [
-        "Wolf Entertainment",
-        "Fireside Pictures",
-        "Vanity Fair Studios"
-      ],
-      "networks": [
-        "Oxygen"
-      ],
-      "service_name": "Peacock",
-      "service_id": 386,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 298756
     }
   ]
 }

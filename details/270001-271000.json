@@ -1,6 +1,6 @@
 {
   "range": "270001-271000",
-  "updated_at": 1765836378611,
+  "updated_at": 1765840252183,
   "shows": [
     {
       "id": 270600,
@@ -26,7 +26,6 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 270600,
       "production_companies": [
         "UCP",
         "Fuzzy Door Productions",
@@ -35,11 +34,7 @@
       "networks": [
         "Peacock"
       ],
-      "service_name": "Peacock",
-      "service_id": 386,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 270600
     },
     {
       "id": 270734,
@@ -65,19 +60,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 270734,
-      "production_companies": [
-        "Eat the Cat",
-        "UCP"
-      ],
-      "networks": [
-        "Hulu"
-      ],
-      "service_name": "Hulu",
-      "service_id": 15,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 80.1
+      "tmdb_id": 270734
     }
   ]
 }

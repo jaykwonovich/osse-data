@@ -1,6 +1,6 @@
 {
   "range": "240001-241000",
-  "updated_at": 1765836378607,
+  "updated_at": 1765840252178,
   "shows": [
     {
       "id": 240411,
@@ -28,12 +28,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 240411,
-      "service_name": "Starz",
-      "service_id": 318,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.77
+      "tmdb_id": 240411
     },
     {
       "id": 240558,
@@ -59,12 +54,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 240558,
-      "service_name": "Prime Video",
-      "service_id": 9,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 80.94
+      "tmdb_id": 240558
     },
     {
       "id": 240740,
@@ -90,7 +80,6 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 240740,
       "production_companies": [
         "Blossom Films",
         "Blumhouse Television",
@@ -101,11 +90,7 @@
       "networks": [
         "Prime Video"
       ],
-      "service_name": "Prime Video",
-      "service_id": 9,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 240740
     }
   ]
 }

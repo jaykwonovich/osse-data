@@ -1,6 +1,6 @@
 {
   "range": "305001-306000",
-  "updated_at": 1765836378618,
+  "updated_at": 1765840252190,
   "shows": [
     {
       "id": 305165,
@@ -28,20 +28,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 305165,
-      "production_companies": [
-        "The LEGO Group",
-        "Atomic Cartoons",
-        "Marvel Studios"
-      ],
-      "networks": [
-        "Disney+"
-      ],
-      "service_name": "Disney+",
-      "service_id": 337,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
+      "tmdb_id": 305165
     },
     {
       "id": 305345,
@@ -64,18 +51,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 305345,
-      "production_companies": [
-        "Food Network"
-      ],
-      "networks": [
-        "Food Network"
-      ],
-      "service_name": "Max",
-      "service_id": 1899,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 305345
     },
     {
       "id": 305995,
@@ -100,18 +76,13 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 305995,
       "production_companies": [
         "Rollercoaster Television"
       ],
       "networks": [
         "Netflix"
       ],
-      "service_name": "Netflix",
-      "service_id": 8,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 305995
     }
   ]
 }

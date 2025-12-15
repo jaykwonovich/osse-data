@@ -1,6 +1,6 @@
 {
   "range": "273001-274000",
-  "updated_at": 1765836378612,
+  "updated_at": 1765840252184,
   "shows": [
     {
       "id": 273160,
@@ -25,7 +25,6 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 273160,
       "production_companies": [
         "20th Television",
         "Ryan Murphy Television"
@@ -34,11 +33,7 @@
         "FX",
         "Hulu"
       ],
-      "service_name": "Hulu",
-      "service_id": 15,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 273160
     },
     {
       "id": 273247,
@@ -63,19 +58,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 273247,
-      "production_companies": [
-        "FX Productions",
-        "Crazy Eagle Media"
-      ],
-      "networks": [
-        "FX"
-      ],
-      "service_name": "Hulu",
-      "service_id": 15,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 78.98
+      "tmdb_id": 273247
     }
   ]
 }

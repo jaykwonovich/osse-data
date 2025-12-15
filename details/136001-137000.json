@@ -1,7 +1,32 @@
 {
   "range": "136001-137000",
-  "updated_at": 1765836378599,
+  "updated_at": 1765840252170,
   "shows": [
+    {
+      "id": 136105,
+      "title": "The Real Housewives Ultimate Girls Trip",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iepv1O8RgPREdoWlCaM1zNiUFAm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uGQw3TTAB2eLb6LwBQ4NFwrczcG.jpg",
+      "plot_overview": "Bravo universes collide as iconic Housewives from different cities come together for the ultimate girls' trip to beautiful Turks and Caicos.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 6.722,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-11-15",
+      "streaming_services": [
+        {
+          "service_id": 365,
+          "service_name": "MGM+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 136105
+    },
     {
       "id": 136342,
       "title": "Disney Twisted-Wonderland: The Animation",
@@ -33,19 +58,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 136342,
-      "production_companies": [
-        "Yumeta Company",
-        "Graphinica"
-      ],
-      "networks": [
-        "Disney+"
-      ],
-      "service_name": "Disney+",
-      "service_id": 337,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 85.2
+      "tmdb_id": 136342
     }
   ]
 }

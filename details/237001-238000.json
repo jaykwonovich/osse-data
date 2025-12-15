@@ -1,6 +1,6 @@
 {
   "range": "237001-238000",
-  "updated_at": 1765836378607,
+  "updated_at": 1765840252177,
   "shows": [
     {
       "id": 237015,
@@ -20,18 +20,19 @@
       "release_date": "2025-08-18",
       "streaming_services": [
         {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
           "service_id": 318,
           "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 237015,
-      "service_name": "Starz",
-      "service_id": 318,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 88.2
+      "tmdb_id": 237015
     },
     {
       "id": 237052,
@@ -57,18 +58,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 237052,
-      "production_companies": [
-        "Itin\u00e9raire Productions"
-      ],
-      "networks": [
-        "Disney+"
-      ],
-      "service_name": "Disney+",
-      "service_id": 337,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 82.16
+      "tmdb_id": 237052
     }
   ]
 }

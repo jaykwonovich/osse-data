@@ -1,6 +1,14 @@
 {
   "genre": "upcoming",
-  "updated_at": 1765836378597,
+  "updated_at": 1765840257328,
+  "processing_stats": {
+    "total": 27,
+    "rules": 0,
+    "gemini": 0,
+    "cache": 0,
+    "kept": 27,
+    "filtered": 0
+  },
   "shows": [
     {
       "id": 240740,
@@ -12,7 +20,20 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 0.0,
-      "release_date": "2026-03-11"
+      "release_date": "2026-03-11",
+      "production_companies": [
+        "Blossom Films",
+        "Blumhouse Television",
+        "Comet Pictures",
+        "P&S Projects",
+        "Amazon MGM Studios"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 290856,
@@ -24,7 +45,20 @@
       "service_id": 531,
       "service_name": "Paramount+",
       "user_rating": 0.0,
-      "release_date": "2026-03-01"
+      "release_date": "2026-03-01",
+      "production_companies": [
+        "101 Studios",
+        "Bosque Ranch Productions",
+        "Linson Entertainment",
+        "Paramount Television Studios"
+      ],
+      "networks": [
+        "CBS",
+        "Paramount+"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 307980,
@@ -36,7 +70,17 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 0.0,
-      "release_date": "2026-02-23"
+      "release_date": "2026-02-23",
+      "production_companies": [
+        "Blink49 Studios",
+        "Nine Two Six Productions"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 298343,
@@ -48,7 +92,17 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 0.0,
-      "release_date": "2026-02-20"
+      "release_date": "2026-02-20",
+      "production_companies": [
+        "Titmouse",
+        "Underground Films"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 241372,
@@ -60,7 +114,17 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 0.0,
-      "release_date": "2026-02-18"
+      "release_date": "2026-02-18",
+      "production_companies": [
+        "Atomic Monster",
+        "Amazon MGM Studios"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 270600,
@@ -72,7 +136,18 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 0.0,
-      "release_date": "2026-02-08"
+      "release_date": "2026-02-08",
+      "production_companies": [
+        "UCP",
+        "Fuzzy Door Productions",
+        "Imagine Entertainment"
+      ],
+      "networks": [
+        "Peacock"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 288595,
@@ -84,7 +159,19 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 0.0,
-      "release_date": "2026-02-01"
+      "release_date": "2026-02-01",
+      "production_companies": [
+        "AMC Studios",
+        "Skydance Sports",
+        "NFL Films",
+        "Religion of Sports"
+      ],
+      "networks": [
+        "AMC"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 198178,
@@ -96,7 +183,19 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 0.0,
-      "release_date": "2026-01-27"
+      "release_date": "2026-01-27",
+      "production_companies": [
+        "Family Owned",
+        "Kevin Feige Productions",
+        "Marvel Studios",
+        "Onyx Collective"
+      ],
+      "networks": [
+        "Disney+"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 273160,
@@ -108,7 +207,18 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 0.0,
-      "release_date": "2026-01-21"
+      "release_date": "2026-01-21",
+      "production_companies": [
+        "20th Television",
+        "Ryan Murphy Television"
+      ],
+      "networks": [
+        "FX",
+        "Hulu"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 254071,
@@ -120,7 +230,17 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 0.0,
-      "release_date": "2026-01-21"
+      "release_date": "2026-01-21",
+      "production_companies": [
+        "Drama Republic",
+        "Amazon MGM Studios"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 224372,
@@ -132,7 +252,14 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 0.0,
-      "release_date": "2026-01-18"
+      "release_date": "2026-01-18",
+      "production_companies": [],
+      "networks": [
+        "HBO"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 229891,
@@ -144,7 +271,17 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 0.0,
-      "release_date": "2026-01-16"
+      "release_date": "2026-01-16",
+      "production_companies": [
+        "\uc774\ub9e4\uc9c0\ub108\uc2a4",
+        "\ud2b8\ub9ac\uc2a4\ud29c\ub514\uc624"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 223530,
@@ -156,7 +293,18 @@
       "service_id": 531,
       "service_name": "Paramount+",
       "user_rating": 0.0,
-      "release_date": "2026-01-15"
+      "release_date": "2026-01-15",
+      "production_companies": [
+        "CBS Studios",
+        "Secret Hideout",
+        "Roddenberry Entertainment"
+      ],
+      "networks": [
+        "Paramount+"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 306762,
@@ -168,7 +316,16 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 0.0,
-      "release_date": "2026-01-15"
+      "release_date": "2026-01-15",
+      "production_companies": [
+        "WIT STUDIO"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 250505,
@@ -180,7 +337,18 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 0.0,
-      "release_date": "2026-01-15"
+      "release_date": "2026-01-15",
+      "production_companies": [
+        "Agatha Christie",
+        "Imaginary Friends",
+        "Orchid Pictures"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 262793,
@@ -192,7 +360,17 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 0.0,
-      "release_date": "2026-01-15"
+      "release_date": "2026-01-15",
+      "production_companies": [
+        "Pacesetter Productions",
+        "Universal Television"
+      ],
+      "networks": [
+        "Peacock"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 306657,
@@ -204,7 +382,16 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 0.0,
-      "release_date": "2026-01-13"
+      "release_date": "2026-01-13",
+      "production_companies": [
+        "Jesse Collins Entertainment"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 259731,
@@ -216,7 +403,18 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 0.0,
-      "release_date": "2026-01-08"
+      "release_date": "2026-01-08",
+      "production_companies": [
+        "Fifth Season",
+        "Freckle Films",
+        "Viva Maude"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 244244,
@@ -228,7 +426,17 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 0.0,
-      "release_date": "2026-01-01"
+      "release_date": "2026-01-01",
+      "production_companies": [
+        "Quay Street Productions",
+        "Final Twist Productions"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 306517,
@@ -240,7 +448,16 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 0.0,
-      "release_date": "2025-12-29"
+      "release_date": "2025-12-29",
+      "production_companies": [
+        "Superluna Studios"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 246412,
@@ -252,7 +469,17 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 0.0,
-      "release_date": "2025-12-27"
+      "release_date": "2025-12-27",
+      "production_companies": [
+        "Atomic Monster",
+        "UCP"
+      ],
+      "networks": [
+        "Peacock"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 238458,
@@ -264,7 +491,17 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 0.0,
-      "release_date": "2025-12-26"
+      "release_date": "2025-12-26",
+      "production_companies": [
+        "DramaHouse",
+        "SLL"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 246473,
@@ -276,7 +513,16 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 0.0,
-      "release_date": "2025-12-24"
+      "release_date": "2025-12-24",
+      "production_companies": [
+        "Hive Media Corp"
+      ],
+      "networks": [
+        "Disney+"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 283133,
@@ -288,7 +534,18 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 0.0,
-      "release_date": "2025-12-23"
+      "release_date": "2025-12-23",
+      "production_companies": [
+        "Dynamic Television",
+        "Innato La Serie",
+        "Plano a Plano Bilbao"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 230936,
@@ -300,7 +557,17 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 0.0,
-      "release_date": "2025-12-19"
+      "release_date": "2025-12-19",
+      "production_companies": [
+        "Tailfeather Productions",
+        "Offspring Films"
+      ],
+      "networks": [
+        "Apple TV"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 298203,
@@ -312,7 +579,16 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 0.0,
-      "release_date": "2025-12-19"
+      "release_date": "2025-12-19",
+      "production_companies": [
+        "Amazon MGM Studios"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     },
     {
       "id": 305995,
@@ -324,7 +600,16 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 0.0,
-      "release_date": "2025-12-17"
+      "release_date": "2025-12-17",
+      "production_companies": [
+        "Rollercoaster Television"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 60.0
     }
   ]
 }

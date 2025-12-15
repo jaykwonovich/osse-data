@@ -1,6 +1,6 @@
 {
   "range": "241001-242000",
-  "updated_at": 1765836378607,
+  "updated_at": 1765840252178,
   "shows": [
     {
       "id": 241372,
@@ -27,7 +27,6 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 241372,
       "production_companies": [
         "Atomic Monster",
         "Amazon MGM Studios"
@@ -35,11 +34,7 @@
       "networks": [
         "Prime Video"
       ],
-      "service_name": "Prime Video",
-      "service_id": 9,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 241372
     },
     {
       "id": 241388,
@@ -66,12 +61,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 241388,
-      "service_name": "Disney+",
-      "service_id": 337,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 77.95
+      "tmdb_id": 241388
     },
     {
       "id": 241576,
@@ -98,18 +88,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 241576,
-      "production_companies": [
-        "Make A Deal International Production Co., Ltd."
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "service_name": "Netflix",
-      "service_id": 8,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 82.8
+      "tmdb_id": 241576
     }
   ]
 }

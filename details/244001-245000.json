@@ -1,6 +1,6 @@
 {
   "range": "244001-245000",
-  "updated_at": 1765836378608,
+  "updated_at": 1765840252178,
   "shows": [
     {
       "id": 244244,
@@ -26,7 +26,6 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 244244,
       "production_companies": [
         "Quay Street Productions",
         "Final Twist Productions"
@@ -34,11 +33,7 @@
       "networks": [
         "Netflix"
       ],
-      "service_name": "Netflix",
-      "service_id": 8,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 244244
     },
     {
       "id": 244416,
@@ -64,19 +59,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 244416,
-      "production_companies": [
-        "Expectation TV",
-        "Tailspin Films"
-      ],
-      "networks": [
-        "Prime Video"
-      ],
-      "service_name": "Prime Video",
-      "service_id": 9,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 81.3
+      "tmdb_id": 244416
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "293001-294000",
-  "updated_at": 1765836378616,
+  "updated_at": 1765840252187,
   "shows": [
     {
       "id": 293088,
@@ -25,12 +25,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 293088,
-      "service_name": "Peacock",
-      "service_id": 386,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 86.4
+      "tmdb_id": 293088
     },
     {
       "id": 293313,
@@ -55,12 +50,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 293313,
-      "service_name": "Peacock",
-      "service_id": 386,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 83.18
+      "tmdb_id": 293313
     },
     {
       "id": 293469,
@@ -79,18 +69,19 @@
       "release_date": "2025-07-13",
       "streaming_services": [
         {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
           "service_id": 365,
           "service_name": "MGM+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 293469,
-      "service_name": "MGM+",
-      "service_id": 365,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 76.5
+      "tmdb_id": 293469
     },
     {
       "id": 293529,
@@ -115,18 +106,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 293529,
-      "production_companies": [
-        "Universal Television"
-      ],
-      "networks": [
-        "Peacock"
-      ],
-      "service_name": "Peacock",
-      "service_id": 386,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 293529
     },
     {
       "id": 293603,
@@ -151,12 +131,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 293603,
-      "service_name": "Peacock",
-      "service_id": 386,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 82.5
+      "tmdb_id": 293603
     },
     {
       "id": 293772,
@@ -179,12 +154,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 293772,
-      "service_name": "Paramount+",
-      "service_id": 531,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 50.0
+      "tmdb_id": 293772
     }
   ]
 }

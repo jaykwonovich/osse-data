@@ -1,6 +1,6 @@
 {
   "range": "256001-257000",
-  "updated_at": 1765836378609,
+  "updated_at": 1765840252180,
   "shows": [
     {
       "id": 256317,
@@ -26,12 +26,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 256317,
-      "service_name": "Prime Video",
-      "service_id": 9,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 81.92
+      "tmdb_id": 256317
     },
     {
       "id": 256711,
@@ -57,12 +52,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 256711,
-      "service_name": "Peacock",
-      "service_id": 386,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 82.5
+      "tmdb_id": 256711
     },
     {
       "id": 256747,
@@ -88,12 +78,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 256747,
-      "service_name": "Starz",
-      "service_id": 318,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 83.1
+      "tmdb_id": 256747
     },
     {
       "id": 256748,
@@ -113,24 +98,19 @@
       "release_date": "2025-10-19",
       "streaming_services": [
         {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
           "service_id": 318,
           "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 256748,
-      "production_companies": [
-        "Williams Street"
-      ],
-      "networks": [
-        "Adult Swim"
-      ],
-      "service_name": "Starz",
-      "service_id": 318,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 85.5
+      "tmdb_id": 256748
     }
   ]
 }

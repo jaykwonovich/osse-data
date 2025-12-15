@@ -1,7 +1,32 @@
 {
   "range": "196001-197000",
-  "updated_at": 1765836378601,
+  "updated_at": 1765840252172,
   "shows": [
+    {
+      "id": 196592,
+      "title": "The Real Housewives of Dubai",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nC8PyRTFwrs6xKDrGSJWoqcYBUR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lkg6CaSVmB47EPmTfbavjvoiJBw.jpg",
+      "plot_overview": "As the 11th city in the franchise, the series highlights a group of women navigating their relationships, careers, and supremely lavish and ultra-wealthy lifestyles in the United Arab Emirates. With the desert paradise of Dubai as the backdrop, this billionaire's playground is known for its over-the-top opulence, jaw-dropping modern architecture and wild nightlife scene. Whether they're coasting on a private plane, running their own empires or hosting on a private island, these glamourous, succe",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 6.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-06-01",
+      "streaming_services": [
+        {
+          "service_id": 365,
+          "service_name": "MGM+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 196592
+    },
     {
       "id": 196890,
       "title": "Chief of War",
@@ -31,12 +56,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 196890,
-      "service_name": "Apple TV+",
-      "service_id": 350,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 82.2
+      "tmdb_id": 196890
     }
   ]
 }

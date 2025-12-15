@@ -1,6 +1,6 @@
 {
   "range": "262001-263000",
-  "updated_at": 1765836378611,
+  "updated_at": 1765840252183,
   "shows": [
     {
       "id": 262259,
@@ -26,22 +26,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 262259,
-      "production_companies": [
-        "Kodansha",
-        "Madhouse",
-        "CYCLONE GRAPHICS",
-        "Asmik Ace",
-        "TV Asahi"
-      ],
-      "networks": [
-        "tv asahi"
-      ],
-      "service_name": "Hulu",
-      "service_id": 15,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 82.29
+      "tmdb_id": 262259
     },
     {
       "id": 262793,
@@ -66,7 +51,6 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 262793,
       "production_companies": [
         "Pacesetter Productions",
         "Universal Television"
@@ -74,11 +58,7 @@
       "networks": [
         "Peacock"
       ],
-      "service_name": "Peacock",
-      "service_id": 386,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 262793
     },
     {
       "id": 262928,
@@ -104,18 +84,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 262928,
-      "production_companies": [
-        "Seasons Pictures"
-      ],
-      "networks": [
-        "Youku"
-      ],
-      "service_name": "Netflix",
-      "service_id": 8,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 84.0
+      "tmdb_id": 262928
     }
   ]
 }

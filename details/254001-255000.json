@@ -1,6 +1,6 @@
 {
   "range": "254001-255000",
-  "updated_at": 1765836378609,
+  "updated_at": 1765840252179,
   "shows": [
     {
       "id": 254071,
@@ -25,7 +25,6 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 254071,
       "production_companies": [
         "Drama Republic",
         "Amazon MGM Studios"
@@ -33,11 +32,7 @@
       "networks": [
         "Prime Video"
       ],
-      "service_name": "Prime Video",
-      "service_id": 9,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 254071
     },
     {
       "id": 254302,
@@ -60,12 +55,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 254302,
-      "service_name": "Paramount+",
-      "service_id": 531,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 50.0
+      "tmdb_id": 254302
     },
     {
       "id": 254356,
@@ -91,12 +81,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 254356,
-      "service_name": "Hulu",
-      "service_id": 15,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 78.9
+      "tmdb_id": 254356
     },
     {
       "id": 254482,
@@ -122,19 +107,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 254482,
-      "production_companies": [
-        "H&R Century Pictures",
-        "Youku"
-      ],
-      "networks": [
-        "Youku"
-      ],
-      "service_name": "Netflix",
-      "service_id": 8,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 90.0
+      "tmdb_id": 254482
     },
     {
       "id": 254741,
@@ -157,12 +130,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 254741,
-      "service_name": "Paramount+",
-      "service_id": 531,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 50.0
+      "tmdb_id": 254741
     }
   ]
 }

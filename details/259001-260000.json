@@ -1,6 +1,6 @@
 {
   "range": "259001-260000",
-  "updated_at": 1765836378610,
+  "updated_at": 1765840252182,
   "shows": [
     {
       "id": 259315,
@@ -23,12 +23,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 259315,
-      "service_name": "Paramount+",
-      "service_id": 531,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 50.0
+      "tmdb_id": 259315
     },
     {
       "id": 259710,
@@ -55,12 +50,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 259710,
-      "service_name": "Prime Video",
-      "service_id": 9,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 82.94
+      "tmdb_id": 259710
     },
     {
       "id": 259731,
@@ -86,7 +76,6 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 259731,
       "production_companies": [
         "Fifth Season",
         "Freckle Films",
@@ -95,11 +84,7 @@
       "networks": [
         "Netflix"
       ],
-      "service_name": "Netflix",
-      "service_id": 8,
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 60.0
+      "tmdb_id": 259731
     }
   ]
 }
