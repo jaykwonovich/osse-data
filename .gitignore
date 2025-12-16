@@ -1,0 +1,8 @@
+*.py
+.venv/*
+.venv
+.embeddings_cache.npz
+
+# Embeddings cache (regenerate with: python themes/curate_themes.py --local)
+.embeddings_cache.npz
+themes/.embeddings_cache.npz
