@@ -1,6 +1,6 @@
 {
   "range": "117001-118000",
-  "updated_at": 1765853014662,
+  "updated_at": 1765860582501,
   "shows": [
     {
       "id": 117030,
@@ -16,7 +16,7 @@
         "Comedy",
         "Kids"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.245,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-01-01",
@@ -29,6 +29,29 @@
         }
       ],
       "tmdb_id": 117030
+    },
+    {
+      "id": 117263,
+      "title": "Olympus Has Fallen",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u3GTFGwesNBNd0t1hiLaEk1iqZU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mjYU7EwVeOtM39ArdWHZk78VhYm.jpg",
+      "plot_overview": "When the White House (Secret Service Code: \"Olympus\") is captured by a terrorist mastermind and the President is kidnapped, disgraced former Presidential guard Mike Banning finds himself trapped within the building. As the national security team scrambles to respond, they are forced to rely on Banning's inside knowledge to help retake the White House, save the President and avert an even bigger disaster.",
+      "genres": [],
+      "user_rating": 6.413,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-03-20",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 117263
     },
     {
       "id": 117303,
@@ -137,6 +160,32 @@
         }
       ],
       "tmdb_id": 117821
+    },
+    {
+      "id": 117830,
+      "title": "Tomb Raider: The Legend of Lara Croft",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1WF982MFHGmsURH13HMQP51Dgr3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zbaUXbBBLmGmHARAVurvUJbIEWt.jpg",
+      "plot_overview": "Thrust into a high-stakes chase around the world, fearless adventurer Lara Croft confronts her traumatic past while unraveling an ancient mystery.",
+      "genres": [
+        "Action & Adventure",
+        "Animation"
+      ],
+      "user_rating": 6.314,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-10-10",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 117830
     }
   ]
 }

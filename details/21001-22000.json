@@ -1,7 +1,83 @@
 {
   "range": "21001-22000",
-  "updated_at": 1765853014641,
+  "updated_at": 1765860582473,
   "shows": [
+    {
+      "id": 21159,
+      "title": "The Last Man on Earth",
+      "type": "movie",
+      "year": 1964,
+      "poster_url": "https://image.tmdb.org/t/p/w342/m0zIz963wNxAqqxiKYdZS9cRScT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2peNKd9nJkGUofBRhS9LYPTcXnz.jpg",
+      "plot_overview": "When a disease turns all of humanity into the living dead, the last man on earth becomes a reluctant vampire hunter.",
+      "genres": [],
+      "user_rating": 6.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1964-05-06",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 21159
+    },
+    {
+      "id": 21301,
+      "title": "Barbershop 2: Back in Business",
+      "type": "movie",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/n4sOe401udZJWJEOvKvSs3peZcB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pGlgLhYBBiPerXXgERqsEKn7VlP.jpg",
+      "plot_overview": "The continuing adventures of the barbers at Calvin's Barbershop. Gina, a stylist at the beauty shop next door, is now trying to cut in on his business. Calvin is again struggling to keep his father's shop and traditions alive--this time against urban developers looking to replace mom & pop establishments with name-brand chains. The world changes, but some things never go out of style--from current events and politics to relationships and love, you can still say anything you want at the barbersho",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.017,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2004-01-20",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 21301
+    },
+    {
+      "id": 21385,
+      "title": "Mickey, Donald, Goofy: The Three Musketeers",
+      "type": "movie",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/23bvOwfOS9fw347Yc68yPpkmd8i.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uLMSOtPaZDggYXdClvxnHaO094h.jpg",
+      "plot_overview": "In Disney's take on the Alexander Dumas tale, Mickey Mouse, Donald Duck and Goofy want nothing more than to perform brave deeds on behalf of their queen (Minnie Mouse), but they're stymied by the head Musketeer, Pete. Pete secretly wants to get rid of the queen, so he appoints Mickey and his bumbling friends as guardians to Minnie, thinking such a maneuver will ensure his scheme's success. The score features songs based on familiar classical melodies.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 6.731,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2004-08-04",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 21385
+    },
     {
       "id": 21510,
       "title": "White Collar",
@@ -46,20 +122,8 @@
       "release_date": "2009-01-24",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        },
-        {
           "service_id": 15,
           "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -79,7 +143,7 @@
         "Family",
         "Kids"
       ],
-      "user_rating": 7.9,
+      "user_rating": 7.92,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-04-04",
@@ -110,8 +174,20 @@
       "release_date": "2009-07-19",
       "streaming_services": [
         {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
           "service_id": 337,
           "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         },
@@ -123,6 +199,33 @@
         }
       ],
       "tmdb_id": 21755
+    },
+    {
+      "id": 21781,
+      "title": "The Super Hero Squad Show",
+      "type": "tv_series",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3CdaaPZdU1Xv2c6hDaSVWhsXtuO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tSbZytA2RSLVXgEjTNTb27ZkvjZ.jpg",
+      "plot_overview": "The Super Hero Squad Show is an American cartoon series by Marvel Animation. It is based on the Marvel Super Hero Squad action figure line from Hasbro, which portray the Avengers, the X-Men, and various other characters of the Marvel Universe in a cartoonish super-deformed-style. It is also a self-aware parody of the Marvel characters, with influences taken from on the comedic Mini Marvels series of parody comic books, in that the heroes tend to find themselves in comedic situations, and have ca",
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "user_rating": 7.496,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-09-14",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 21781
     }
   ]
 }

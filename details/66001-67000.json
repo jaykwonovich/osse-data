@@ -1,6 +1,6 @@
 {
   "range": "66001-67000",
-  "updated_at": 1765853014651,
+  "updated_at": 1765860582487,
   "shows": [
     {
       "id": 66025,
@@ -68,6 +68,58 @@
       "tmdb_id": 66125
     },
     {
+      "id": 66276,
+      "title": "The Night Of",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/szxeyhCWt7C4hTdq60QYbrslGXn.jpg",
+      "plot_overview": "After a night of partying with a female stranger, a man wakes up to find her stabbed to death and is charged with her murder.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.982,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-07-10",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 66276
+    },
+    {
+      "id": 66292,
+      "title": "Big Little Lies",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b4HNJOc2N6SGyEhf2RagdpAKBK6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8Wo2Pqjxn7Xmd7p2dxRMIJtyMV7.jpg",
+      "plot_overview": "The tale of three mothers of first graders whose apparently perfect lives unravel to the point of murder.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.888,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-02-19",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 66292
+    },
+    {
       "id": 66573,
       "title": "The Good Place",
       "type": "tv_series",
@@ -84,6 +136,12 @@
       "us_rating": null,
       "release_date": "2016-09-19",
       "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",
@@ -177,6 +235,33 @@
         }
       ],
       "tmdb_id": 66788
+    },
+    {
+      "id": 66857,
+      "title": "Shooter",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oMmqtafm6Rdlka1ejJeC9BDWzyO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dyysEEonr5tPcgItlfHItfx5ZCY.jpg",
+      "plot_overview": "Bob Lee Swagger is an expert marksman living in exile who is coaxed back into action after learning of a plot to kill the president.",
+      "genres": [
+        "Action & Adventure",
+        "War & Politics",
+        "Drama"
+      ],
+      "user_rating": 7.188,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-11-15",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 66857
     }
   ]
 }

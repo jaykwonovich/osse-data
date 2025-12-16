@@ -1,6 +1,6 @@
 {
   "range": "346001-347000",
-  "updated_at": 1765853014690,
+  "updated_at": 1765860582533,
   "shows": [
     {
       "id": 346364,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
       "plot_overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
       "genres": [],
-      "user_rating": 7.237,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-09-06",
@@ -50,6 +50,31 @@
         }
       ],
       "tmdb_id": 346648
+    },
+    {
+      "id": 346698,
+      "title": "Barbie",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+      "plot_overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.942,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-07-19",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 346698
     }
   ]
 }

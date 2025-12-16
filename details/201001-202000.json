@@ -1,7 +1,38 @@
 {
   "range": "201001-202000",
-  "updated_at": 1765853014671,
+  "updated_at": 1765860582510,
   "shows": [
+    {
+      "id": 201289,
+      "title": "The Last Thing He Told Me",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5PMTcUPpJs1yqhkfKZdZ56eRA1v.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aEyzGjeyoW1NQg1H0VbDMtrb8CZ.jpg",
+      "plot_overview": "A woman must forge a relationship with her teenage stepdaughter in order to find her husband, who has mysteriously disappeared.",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "user_rating": 6.846,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-04-13",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 201289,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-02-19",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
     {
       "id": 201550,
       "title": "Life of a King",
@@ -18,12 +49,6 @@
       "us_rating": null,
       "release_date": "2013-06-22",
       "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
         {
           "service_id": 386,
           "service_name": "Peacock",

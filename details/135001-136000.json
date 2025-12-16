@@ -1,22 +1,16 @@
 {
   "range": "135001-136000",
-  "updated_at": 1765830970603,
+  "updated_at": 1765860582504,
   "shows": [
     {
       "id": 135397,
       "title": "Jurassic World",
       "type": "movie",
       "year": 2015,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
       "plot_overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-      "genres": [
-        "action",
-        "adventure",
-        "sci-fi",
-        "thriller"
-      ],
+      "genres": [],
       "user_rating": 6.699,
       "critic_score": null,
       "us_rating": null,
@@ -29,10 +23,33 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 135397,
-      "relevance_score": 10.1396
+      "tmdb_id": 135397
+    },
+    {
+      "id": 135934,
+      "title": "The Legend of Vox Machina",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xRQNXmR9HG32FJqaRh8TqVUMfTA.jpg",
+      "plot_overview": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice.",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 8.195,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-01-27",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 135934
     }
   ]
 }

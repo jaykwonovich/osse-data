@@ -1,18 +1,42 @@
 {
   "range": "632001-633000",
-  "updated_at": 1765830970626,
+  "updated_at": 1765860582561,
   "shows": [
+    {
+      "id": 632357,
+      "title": "The Unholy",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bShgiEQoPnWdw4LBrYT5u18JF34.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wwFBRyekDcKXJwP0mImRJjAnudL.jpg",
+      "plot_overview": "Alice is a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 6.571,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-03-31",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 632357
+    },
     {
       "id": 632856,
       "title": "Spirited",
       "type": "movie",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fHDvGGPFry65ou79WLi6JsjCZrM.jpg",
       "plot_overview": "Each Christmas Eve, the Ghost of Christmas Present selects one dark soul to be reformed by a visit from three spirits. But this season, he picked the wrong Scrooge. Clint Briggs turns the tables on his ghostly host until Present finds himself reexamining his own past, present and future.",
       "genres": [
-        "comedy"
+        "Comedy"
       ],
       "user_rating": 6.871,
       "critic_score": null,
@@ -26,10 +50,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 632856,
-      "relevance_score": 7.9883
+      "tmdb_id": 632856
     }
   ]
 }

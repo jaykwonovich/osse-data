@@ -1,7 +1,33 @@
 {
   "range": "34001-35000",
-  "updated_at": 1765853014644,
+  "updated_at": 1765860582477,
   "shows": [
+    {
+      "id": 34204,
+      "title": "Return to Halloweentown",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9lkAYfaaUf46lkXKEWq94wuUs3m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2oHTGGcBCnS3hhm1hvnb0aXFoTt.jpg",
+      "plot_overview": "As Halloweentown prepares to celebrate its 1,000th anniversary, Marnie Piper and her brother Dylan return to Witch University, where trouble is in session from the Sinister Sisters and from someone who's plotting to use Marnie's powers for evil.",
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2006-10-20",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 34204
+    },
     {
       "id": 34307,
       "title": "Shameless",
@@ -52,6 +78,35 @@
         }
       ],
       "tmdb_id": 34308
+    },
+    {
+      "id": 34356,
+      "title": "TRON: Uprising",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dgajee1p38rJo6ndgvJRti4eqcp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b3HNbmtOfskwhD9TMMbcyVa3xWm.jpg",
+      "plot_overview": "Some time between 'Tron' and 'Tron: Legacy', a young program named Beck becomes the skillful leader of a revolution inside the computer world of The Grid.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Family"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-06-07",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 34356
     },
     {
       "id": 34391,
@@ -122,6 +177,33 @@
       "tmdb_id": 34524
     },
     {
+      "id": 34573,
+      "title": "A.N.T. Farm",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rnO9xtMhfudmd4LBiXoYWb4ckog.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2lM9j1DhjWePt1v9ooQesBTe9Cc.jpg",
+      "plot_overview": "Chyna Parks, an 11 year old musical prodigy, gets into a gifted program called Advanced Natural Talents at the local high school. Along with her fellow elementary school-aged 'ANTs', she must navigate the halls of a new school of older kids who are not particularly fond of grade-skipping newbies.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "user_rating": 7.212,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-05-06",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 34573
+    },
+    {
       "id": 34634,
       "title": "Gold Rush",
       "type": "tv_series",
@@ -156,6 +238,29 @@
       "next_air_date": "2025-12-19",
       "next_episode": 7,
       "relevance_score": 75
+    },
+    {
+      "id": 34851,
+      "title": "Predators",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sx5EuckP7SBQrlMlxg0PLt282WS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yVSgw4UyXWg0Edl7KMehdhhgIwL.jpg",
+      "plot_overview": "A group of cold-blooded killers find themselves trapped on an alien planet to be hunted by extraterrestrial Predators.",
+      "genres": [],
+      "user_rating": 6.294,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-07-07",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 34851
     }
   ]
 }

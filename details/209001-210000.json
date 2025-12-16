@@ -1,32 +1,82 @@
 {
   "range": "209001-210000",
-  "updated_at": 1765841231962,
+  "updated_at": 1765860582511,
   "shows": [
     {
-      "id": 209110,
-      "title": "The Price of Confession",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gPb8k63HrpvTxHc9yKWZEBR4Kml.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/86Cix516Kafarye0J8f2yAjs8jC.jpg",
-      "plot_overview": "Accused of killing her husband, a woman is offered a way out by a mysterious stranger: in exchange for a confession in her place, she must commit murder.",
+      "id": 209262,
+      "title": "Parkland",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/23jc1Hclf1FFxpyYs9A4SxfRbK3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/c8sODXEgANa49CdcHc9NgNBexdF.jpg",
+      "plot_overview": "November 22nd, 1963 was a day that changed the world forever \u2014 when young American President John F. Kennedy was assassinated in Dallas, Texas. This film follows, almost in real time, a handful of individuals forced to make split-second decisions after an event that would change their lives and forever alter the world\u2019s landscape.",
       "genres": [
-        "Mystery",
         "Drama"
       ],
-      "user_rating": 7.611,
+      "user_rating": 6.249,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-12-05",
+      "release_date": "2013-10-02",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 209110
+      "tmdb_id": 209262
+    },
+    {
+      "id": 209403,
+      "title": "Bad Words",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hZo399sszo6QxEPOmqJiq5NhQeU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8k4RMVFTGQugzNPSnQUYiiuccf9.jpg",
+      "plot_overview": "Forty-year-old misanthrope, Guy Trilby, enters the National Golden Quill Spelling Bee through a loophole in the rules.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-09-06",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 209403
+    },
+    {
+      "id": 209876,
+      "title": "Dope Thief",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fB0LKIEagglaJcNYzFPkYAEWON.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qbUeqIQAn1cy01OuSctGmatVJCC.jpg",
+      "plot_overview": "Two lifelong friends in Philadelphia pose as DEA agents to rob small-time drug dealers. It's a perfect grift\u2014until they choose the wrong mark and become targets of a massive narcotics enterprise.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 6.533,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-03-13",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 209876
     }
   ]
 }

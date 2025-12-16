@@ -1,7 +1,33 @@
 {
   "range": "97001-98000",
-  "updated_at": 1765853014658,
+  "updated_at": 1765860582496,
   "shows": [
+    {
+      "id": 97186,
+      "title": "Love, Victor",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pcT1vivabBnBk0tZgVBO1I8aK75.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/s77W7avppGDWFL6ZZs813jQ6we6.jpg",
+      "plot_overview": "Victor is a new student at Creekwood High School on his own journey of self-discovery, facing challenges at home, adjusting to a new city, and struggling with his sexual orientation. When it all seems too much, he reaches out to Simon to help him navigate the ups and downs of high school.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 8.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-06-17",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 97186
+    },
     {
       "id": 97546,
       "title": "Ted Lasso",
@@ -51,9 +77,66 @@
           "service_name": "Netflix",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 97645
+    },
+    {
+      "id": 97754,
+      "title": "Young Rock",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y7ta5bQKCPR0c4mKfFoGxFOejp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kpOC1w7PrVDMryzAmPRlVdHY88I.jpg",
+      "plot_overview": "As Dwayne Johnson runs for president in 2032, he takes a comedic look back at his extraordinary life through the outrageous stories of his family and youth that shaped him into the man he is today. He explores his childhood years living amid influential wrestling icons while his dad rose to fame in the business, his rebellious teenage years attending high school in Pennsylvania, and his football years teamed up with powerhouse players at the University of Miami. In his telling, Johnson explains ",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.925,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-02-16",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 97754
+    },
+    {
+      "id": 97890,
+      "title": "Power Book II: Ghost",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8rbxvwGpPd9MWjdhAoSBj016cns.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wEWHx6ybjGihzx7e9pammt0BUXW.jpg",
+      "plot_overview": "Picking up just days after the \u201cPower\u201d finale, this sequel series follows Tariq navigating his new life, in which his desire to shed his father\u2019s legacy comes up against the mounting pressure to save his family.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 8.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-09-06",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 97890
     },
     {
       "id": 97951,

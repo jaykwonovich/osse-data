@@ -1,6 +1,6 @@
 {
   "range": "801001-802000",
-  "updated_at": 1765853014721,
+  "updated_at": 1765860582574,
   "shows": [
     {
       "id": 801058,
@@ -27,6 +27,29 @@
         }
       ],
       "tmdb_id": 801058
+    },
+    {
+      "id": 801071,
+      "title": "The Jack in the Box: Awakening",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xHRabofjmMGoIV3mb6xgy4nwOcS.jpg",
+      "plot_overview": "When a vintage Jack-in-the-box is opened by a dying woman, she enters into a deal with the demon within that would see her illness cured in return for helping it claim six innocent victims.",
+      "genres": [],
+      "user_rating": 6.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-02-24",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 801071
     },
     {
       "id": 801335,
@@ -60,27 +83,30 @@
       "tmdb_id": 801335
     },
     {
-      "id": 801937,
-      "title": "Silent Night, Deadly Night",
+      "id": 801965,
+      "title": "Breaking",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qG2uiyOgXkqWhAG7EpfNgwaYTJ3.jpg",
-      "plot_overview": "After witnessing his parents\u2019 brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.",
-      "genres": [],
-      "user_rating": 5.3,
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/36FtYEYmqrp7kIQqjrYhWXBnXJm.jpg",
+      "plot_overview": "Desperate for money and running out of options, Marine veteran Brian Brown-Easley holds several people hostage inside a bank, setting the stage for a tense confrontation with police.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 6.5,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-12-11",
+      "release_date": "2022-08-25",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Theatrical",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 801937
+      "tmdb_id": 801965
     }
   ]
 }

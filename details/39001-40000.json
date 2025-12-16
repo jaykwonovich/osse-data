@@ -1,6 +1,6 @@
 {
   "range": "39001-40000",
-  "updated_at": 1765853014645,
+  "updated_at": 1765860582480,
   "shows": [
     {
       "id": 39269,
@@ -124,6 +124,58 @@
       "tmdb_id": 39351
     },
     {
+      "id": 39358,
+      "title": "Revenge",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qx7XytRgg1F03NN5BoK8jx3Cyft.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xo5iR9QZ9pj8tiGFALs0Ven0HT4.jpg",
+      "plot_overview": "When Emily Thorne moves to the Hamptons, everyone wonders about the new girl, but she knows everything about them, including what they did to her family. Years ago, they took everything from her. Now, one by one, she's going to make them pay.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.557,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-09-21",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 39358
+    },
+    {
+      "id": 39414,
+      "title": "Paper Man",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wneK8G9E26FUqYo4KjPlsD0TIII.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oec9dd990pRQ8W3meakCuAQKX6o.jpg",
+      "plot_overview": "A coming-of-middle-age comedy that chronicles the unlikely friendship between failed author Richard Dunne and a Long Island teen who teaches him a thing or two about growing up, all under the disapproving eye of his long-suffering wife and his imaginary Superhero friend.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.31,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-06-15",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 39414
+    },
+    {
       "id": 39486,
       "title": "Secretariat",
       "type": "movie",
@@ -172,6 +224,32 @@
         }
       ],
       "tmdb_id": 39793
+    },
+    {
+      "id": 39852,
+      "title": "The Sinner",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rmibFGdqOe0kKKhPls0jVOdZCWw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lVWku9LX2qdJTtAbRzaCDhhWeTK.jpg",
+      "plot_overview": "In a small New York town, a haunted detective hunts for answers about perplexing crimes while wrestling with his own demons.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.485,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-08-02",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 39852
     }
   ]
 }

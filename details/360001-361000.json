@@ -1,30 +1,7 @@
 {
   "range": "360001-361000",
-  "updated_at": 1765853014691,
+  "updated_at": 1765860582534,
   "shows": [
-    {
-      "id": 360603,
-      "title": "Crown for Christmas",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7lRL9n6Zvvl7BMpGzELvzWJx2df.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xlrfVXG27AND092TU8XKPWTyGn1.jpg",
-      "plot_overview": "Allie Foster, a struggling New York artist, reluctantly accepts to act as a governess to a rebellious Princess Theodora of Winshire. When Allie forms an unlikely bond with the princess, she attracts the attention of the handsome King Maximillian, who\u2019s facing an arranged marriage against his heart\u2019s wishes. As Christmas Eve draws near, Allie finds herself swept up in romance, royalty and the spirit of the holidays.",
-      "genres": [],
-      "user_rating": 6.9,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2015-11-27",
-      "streaming_services": [
-        {
-          "service_id": 0,
-          "service_name": "Theatrical",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 360603
-    },
     {
       "id": 360606,
       "title": "Adventures in Babysitting",
@@ -50,6 +27,33 @@
         }
       ],
       "tmdb_id": 360606
+    },
+    {
+      "id": 360920,
+      "title": "The Grinch",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+      "plot_overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Animation"
+      ],
+      "user_rating": 6.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-11-08",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 360920
     }
   ]
 }

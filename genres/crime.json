@@ -1,6 +1,6 @@
 {
   "genre": "crime",
-  "updated_at": 1765853014608,
+  "updated_at": 1765860582434,
   "shows": [
     {
       "id": 300719,
@@ -225,8 +225,8 @@
       "year": 2012,
       "poster_url": "https://image.tmdb.org/t/p/w342/ysGUKnnR1pGYIndjXWcjupGbWpS.jpg",
       "genre": "crime",
-      "service_id": 9,
-      "service_name": "Prime Video",
+      "service_id": 15,
+      "service_name": "Hulu",
       "user_rating": 8.231,
       "release_date": "2012-06-26"
     },
@@ -253,6 +253,18 @@
       "service_name": "Hulu",
       "user_rating": 8.206,
       "release_date": "2005-09-13"
+    },
+    {
+      "id": 97890,
+      "title": "Power Book II: Ghost",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8rbxvwGpPd9MWjdhAoSBj016cns.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.2,
+      "release_date": "2020-09-06"
     },
     {
       "id": 61889,
@@ -313,6 +325,18 @@
       "service_name": "Max",
       "user_rating": 8.13,
       "release_date": "2019-10-01"
+    },
+    {
+      "id": 91875,
+      "title": "Prodigal Son",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sp5BL7O4SnnTnXf9ECNrXbJQyqt.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.112,
+      "release_date": "2019-09-23"
     },
     {
       "id": 71790,
@@ -447,14 +471,26 @@
       "release_date": "2022-04-01"
     },
     {
+      "id": 66276,
+      "title": "The Night Of",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.982,
+      "release_date": "2016-07-10"
+    },
+    {
       "id": 73544,
       "title": "Warrior",
       "type": "tv_series",
       "year": 2019,
       "poster_url": "https://image.tmdb.org/t/p/w342/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
       "genre": "crime",
-      "service_id": 1899,
-      "service_name": "Max",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 7.978,
       "release_date": "2019-04-05"
     },
@@ -489,8 +525,8 @@
       "year": 2013,
       "poster_url": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
       "genre": "crime",
-      "service_id": 386,
-      "service_name": "Peacock",
+      "service_id": 9,
+      "service_name": "Prime Video",
       "user_rating": 7.92,
       "release_date": "2013-03-04"
     },
@@ -579,18 +615,6 @@
       "release_date": "2022-04-07"
     },
     {
-      "id": 235,
-      "title": "Stand by Me",
-      "type": "movie",
-      "year": 1986,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
-      "genre": "crime",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.848,
-      "release_date": "1986-08-08"
-    },
-    {
       "id": 124800,
       "title": "Love & Death",
       "type": "tv_series",
@@ -601,30 +625,6 @@
       "service_name": "Max",
       "user_rating": 7.839,
       "release_date": "2023-04-27"
-    },
-    {
-      "id": 61056,
-      "title": "How to Get Away with Murder",
-      "type": "tv_series",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
-      "genre": "crime",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.836,
-      "release_date": "2014-09-25"
-    },
-    {
-      "id": 90462,
-      "title": "Chucky",
-      "type": "tv_series",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg",
-      "genre": "crime",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.83,
-      "release_date": "2021-10-12"
     },
     {
       "id": 107,
@@ -639,18 +639,6 @@
       "release_date": "2000-09-01"
     },
     {
-      "id": 2118,
-      "title": "L.A. Confidential",
-      "type": "movie",
-      "year": 1997,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
-      "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 7.803,
-      "release_date": "1997-09-19"
-    },
-    {
       "id": 297203,
       "title": "Stalking Samantha: 13 Years of Terror",
       "type": "tv_series",
@@ -663,16 +651,40 @@
       "release_date": "2025-08-19"
     },
     {
-      "id": 49026,
-      "title": "The Dark Knight Rises",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "id": 90462,
+      "title": "Chucky",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg",
       "genre": "crime",
-      "service_id": 1899,
-      "service_name": "Max",
+      "service_id": 386,
+      "service_name": "Peacock",
       "user_rating": 7.8,
-      "release_date": "2012-07-17"
+      "release_date": "2021-10-12"
+    },
+    {
+      "id": 93166,
+      "title": "The Capture",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg",
+      "genre": "crime",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.8,
+      "release_date": "2019-09-03"
+    },
+    {
+      "id": 61056,
+      "title": "How to Get Away with Murder",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.8,
+      "release_date": "2014-09-25"
     },
     {
       "id": 32692,
@@ -687,6 +699,18 @@
       "release_date": "2010-09-24"
     },
     {
+      "id": 235,
+      "title": "Stand by Me",
+      "type": "movie",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.8,
+      "release_date": "1986-08-08"
+    },
+    {
       "id": 831223,
       "title": "Gone Mom: The Disappearance of Jennifer Dulos",
       "type": "movie",
@@ -697,6 +721,18 @@
       "service_name": "Disney+",
       "user_rating": 7.79,
       "release_date": "2021-06-05"
+    },
+    {
+      "id": 49026,
+      "title": "The Dark Knight Rises",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.789,
+      "release_date": "2012-07-17"
     },
     {
       "id": 2171,
@@ -733,6 +769,30 @@
       "service_name": "Netflix",
       "user_rating": 7.713,
       "release_date": "2016-06-14"
+    },
+    {
+      "id": 70453,
+      "title": "Sharp Objects",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1SGovj2qDdkJexvhFiXllj9EYfu.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.7,
+      "release_date": "2018-07-08"
+    },
+    {
+      "id": 90027,
+      "title": "Carnival Row",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jyhxT10e2z9IDsKoIQDKhyxSQJt.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.698,
+      "release_date": "2019-08-29"
     },
     {
       "id": 121658,
@@ -879,6 +939,18 @@
       "release_date": "1991-07-12"
     },
     {
+      "id": 2343,
+      "title": "Lewis",
+      "type": "tv_series",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rwf7nHqAzUFqGEMbN9lxta6UbbX.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.6,
+      "release_date": "2007-02-18"
+    },
+    {
       "id": 637649,
       "title": "Wrath of Man",
       "type": "movie",
@@ -987,16 +1059,16 @@
       "release_date": "2001-10-05"
     },
     {
-      "id": 1054867,
-      "title": "One Battle After Another",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+      "id": 39852,
+      "title": "The Sinner",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rmibFGdqOe0kKKhPls0jVOdZCWw.jpg",
       "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 7.489,
-      "release_date": "2025-09-23"
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.485,
+      "release_date": "2017-08-02"
     },
     {
       "id": 120998,
@@ -1035,18 +1107,6 @@
       "release_date": "1948-07-16"
     },
     {
-      "id": 701387,
-      "title": "Bugonia",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
-      "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 7.446,
-      "release_date": "2025-10-23"
-    },
-    {
       "id": 339403,
       "title": "Baby Driver",
       "type": "movie",
@@ -1079,7 +1139,7 @@
       "genre": "crime",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.415,
+      "user_rating": 7.414,
       "release_date": "2015-09-17"
     },
     {
@@ -1105,6 +1165,18 @@
       "service_name": "Netflix",
       "user_rating": 7.4,
       "release_date": "2023-06-09"
+    },
+    {
+      "id": 208569,
+      "title": "Will Trent",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qG5O46gUxxYGImld03tl2zLhvrg.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.4,
+      "release_date": "2023-01-03"
     },
     {
       "id": 395834,
@@ -1287,6 +1359,18 @@
       "release_date": "1992-09-10"
     },
     {
+      "id": 61457,
+      "title": "Grantchester",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.312,
+      "release_date": "2014-10-06"
+    },
+    {
       "id": 256317,
       "title": "Countdown",
       "type": "tv_series",
@@ -1347,18 +1431,6 @@
       "release_date": "1947-01-30"
     },
     {
-      "id": 1127110,
-      "title": "Diablo",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
-      "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 7.299,
-      "release_date": "2025-06-13"
-    },
-    {
       "id": 926393,
       "title": "The Equalizer 3",
       "type": "movie",
@@ -1381,18 +1453,6 @@
       "service_name": "Prime Video",
       "user_rating": 7.275,
       "release_date": "2019-11-22"
-    },
-    {
-      "id": 1242419,
-      "title": "Roofman",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
-      "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 7.273,
-      "release_date": "2025-10-08"
     },
     {
       "id": 866398,
@@ -1467,18 +1527,6 @@
       "release_date": "2010-09-15"
     },
     {
-      "id": 10528,
-      "title": "Sherlock Holmes",
-      "type": "movie",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zz0vClg5NdYbhpqaEGyJENrGVSw.jpg",
-      "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 7.215,
-      "release_date": "2009-12-23"
-    },
-    {
       "id": 429200,
       "title": "Good Time",
       "type": "movie",
@@ -1501,6 +1549,18 @@
       "service_name": "Netflix",
       "user_rating": 7.201,
       "release_date": "2011-03-17"
+    },
+    {
+      "id": 79622,
+      "title": "Hunters",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mjsz10d1abJXZwT9b8CTgniRJh9.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.2,
+      "release_date": "2020-02-20"
     },
     {
       "id": 11524,
@@ -1605,10 +1665,22 @@
       "year": 1987,
       "poster_url": "https://image.tmdb.org/t/p/w342/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
       "genre": "crime",
-      "service_id": 386,
-      "service_name": "Peacock",
+      "service_id": 9,
+      "service_name": "Prime Video",
       "user_rating": 7.182,
       "release_date": "1987-04-12"
+    },
+    {
+      "id": 72748,
+      "title": "Strike",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oPTJfwuMLz6Lr3suGK4584MAJAC.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.169,
+      "release_date": "2017-08-27"
     },
     {
       "id": 1089,
@@ -1621,18 +1693,6 @@
       "service_name": "Peacock",
       "user_rating": 7.159,
       "release_date": "1991-07-12"
-    },
-    {
-      "id": 1196573,
-      "title": "She Rides Shotgun",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nvqW8mOm818QDio3GKKmPLK8kXj.jpg",
-      "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 7.138,
-      "release_date": "2025-07-31"
     },
     {
       "id": 302946,
@@ -1887,16 +1947,232 @@
       "release_date": "1976-02-15"
     },
     {
+      "id": 379149,
+      "title": "The Foreigner",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.971,
+      "release_date": "2017-09-28"
+    },
+    {
+      "id": 398175,
+      "title": "Brawl in Cell Block 99",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.969,
+      "release_date": "2017-09-23"
+    },
+    {
+      "id": 402900,
+      "title": "Ocean's Eight",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.968,
+      "release_date": "2018-06-07"
+    },
+    {
+      "id": 597208,
+      "title": "Nightmare Alley",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.965,
+      "release_date": "2021-12-02"
+    },
+    {
+      "id": 972614,
+      "title": "Knox Goes Away",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/w39qKYjltCix18BwtoZ1e45usdb.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.95,
+      "release_date": "2024-03-15"
+    },
+    {
+      "id": 204490,
+      "title": "Criminal Record",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+      "genre": "crime",
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 6.942,
+      "release_date": "2024-01-10"
+    },
+    {
       "id": 1245993,
       "title": "Caught Stealing",
       "type": "movie",
       "year": 2025,
       "poster_url": "https://image.tmdb.org/t/p/w342/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
       "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 6.919,
       "release_date": "2025-08-26"
+    },
+    {
+      "id": 400535,
+      "title": "Sicario: Day of the Soldado",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.9,
+      "release_date": "2018-06-27"
+    },
+    {
+      "id": 18573,
+      "title": "House of Wax",
+      "type": "movie",
+      "year": 1953,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5Di30K5NzAtYMjBSAABwgZHV0Ro.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.9,
+      "release_date": "1953-04-16"
+    },
+    {
+      "id": 495764,
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.89,
+      "release_date": "2020-02-05"
+    },
+    {
+      "id": 717980,
+      "title": "Sharper",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tq8x5F17q95T1j0up5rpzXFAylN.jpg",
+      "genre": "crime",
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 6.869,
+      "release_date": "2023-02-10"
+    },
+    {
+      "id": 337339,
+      "title": "The Fate of the Furious",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.859,
+      "release_date": "2017-04-12"
+    },
+    {
+      "id": 1412,
+      "title": "Arrow",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.829,
+      "release_date": "2012-10-10"
+    },
+    {
+      "id": 567797,
+      "title": "The Dry",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zM12bfL2TEqVRXjiQIFUWUMLcCg.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.821,
+      "release_date": "2021-01-01"
+    },
+    {
+      "id": 25941,
+      "title": "Harry Brown",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cpKgHCLyu2SFtmESO9Du0sdhHYE.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.819,
+      "release_date": "2009-11-11"
+    },
+    {
+      "id": 796499,
+      "title": "Army of Thieves",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/j04Oepj3LGTWSb1ltXm0pcy50Xq.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.818,
+      "release_date": "2021-10-29"
+    },
+    {
+      "id": 44629,
+      "title": "Animal Kingdom",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zhj8YPQKuRev5N3KoHacsPnF4mB.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.801,
+      "release_date": "2010-06-03"
+    },
+    {
+      "id": 882059,
+      "title": "Boy Kills World",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/25JskXmchcYwj3jHRmcPm738MpB.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.758,
+      "release_date": "2024-04-24"
+    },
+    {
+      "id": 818397,
+      "title": "Memory",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4Q1n3TwieoULnuaztu9aFjqHDTI.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.748,
+      "release_date": "2022-04-28"
     },
     {
       "id": 1197306,
@@ -1905,10 +2181,118 @@
       "year": 2025,
       "poster_url": "https://image.tmdb.org/t/p/w342/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
       "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
+      "service_id": 9,
+      "service_name": "Prime Video",
       "user_rating": 6.712,
       "release_date": "2025-03-26"
+    },
+    {
+      "id": 1111873,
+      "title": "Abigail",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+      "genre": "crime",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.709,
+      "release_date": "2024-04-16"
+    },
+    {
+      "id": 13195,
+      "title": "Flawless",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qENzVKfdyNBAwShcS0YhWeJe34M.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.7,
+      "release_date": "2007-09-01"
+    },
+    {
+      "id": 1008409,
+      "title": "The Bikeriders",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+      "genre": "crime",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.698,
+      "release_date": "2024-06-19"
+    },
+    {
+      "id": 325789,
+      "title": "The Infiltrator",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/758F57DxVRLe38S1Je4O1Bjx2u6.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.687,
+      "release_date": "2016-07-13"
+    },
+    {
+      "id": 11322,
+      "title": "Public Enemies",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg",
+      "genre": "crime",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.684,
+      "release_date": "2009-07-01"
+    },
+    {
+      "id": 881164,
+      "title": "Boston Strangler",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.653,
+      "release_date": "2023-03-16"
+    },
+    {
+      "id": 1948,
+      "title": "Crank",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rsKmhnvzJezjwC1Ud2Hh37oNpdQ.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.647,
+      "release_date": "2006-08-31"
+    },
+    {
+      "id": 763285,
+      "title": "Ambulance",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.633,
+      "release_date": "2022-03-16"
+    },
+    {
+      "id": 604685,
+      "title": "Den of Thieves 2: Pantera",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rxcyxxarD17xMliStDEhM6y2AYQ.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.615,
+      "release_date": "2025-01-08"
     },
     {
       "id": 941109,
@@ -1935,16 +2319,136 @@
       "release_date": "2025-09-07"
     },
     {
-      "id": 934456,
-      "title": "Americana",
+      "id": 363992,
+      "title": "The Wizard of Lies",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/83Gis9pOKCvAdaKXCNChey4IZyL.jpg",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg",
       "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 6.513,
-      "release_date": "2025-08-15"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.6,
+      "release_date": "2017-05-11"
+    },
+    {
+      "id": 438674,
+      "title": "Dragged Across Concrete",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dQ9EkVyPYJNVCfP5jWXRe4faUFA.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.591,
+      "release_date": "2019-02-21"
+    },
+    {
+      "id": 1082195,
+      "title": "The Order",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1bJ2652AUnuK1WhlR0GLbJKVqMF.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.59,
+      "release_date": "2024-12-05"
+    },
+    {
+      "id": 948549,
+      "title": "Love Lies Bleeding",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xImj8RLe39YK0lyVu9kXv7ApN8p.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.578,
+      "release_date": "2024-03-07"
+    },
+    {
+      "id": 800158,
+      "title": "The Killer",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e7Jvsry47JJQruuezjU2X1Z6J77.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.578,
+      "release_date": "2023-10-25"
+    },
+    {
+      "id": 5955,
+      "title": "The Pledge",
+      "type": "movie",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9QOzFL3FPMAUNNPrNiKC3mEDxco.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.571,
+      "release_date": "2001-01-19"
+    },
+    {
+      "id": 1226578,
+      "title": "Longlegs",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.559,
+      "release_date": "2024-07-10"
+    },
+    {
+      "id": 60309,
+      "title": "The Conspirator",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/a2ubkGUjGYeKRN1C2Tib0rmjuWf.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.554,
+      "release_date": "2011-04-15"
+    },
+    {
+      "id": 877817,
+      "title": "Wolfs",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+      "genre": "crime",
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 6.545,
+      "release_date": "2024-09-20"
+    },
+    {
+      "id": 44945,
+      "title": "Trust",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rXoZYWd2G7pBh8N8Cp5ZO5Sjzbl.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.542,
+      "release_date": "2010-09-10"
+    },
+    {
+      "id": 209876,
+      "title": "Dope Thief",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fB0LKIEagglaJcNYzFPkYAEWON.jpg",
+      "genre": "crime",
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 6.533,
+      "release_date": "2025-03-13"
     },
     {
       "id": 1149167,
@@ -1959,16 +2463,412 @@
       "release_date": "2025-03-14"
     },
     {
-      "id": 425274,
-      "title": "Now You See Me: Now You Don't",
+      "id": 801965,
+      "title": "Breaking",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.5,
+      "release_date": "2022-08-25"
+    },
+    {
+      "id": 2148,
+      "title": "The Cotton Club",
+      "type": "movie",
+      "year": 1984,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qigf5fWSH1tw7z424UVKg71UIOS.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.5,
+      "release_date": "1984-12-14"
+    },
+    {
+      "id": 18405,
+      "title": "The Last House on the Left",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.49,
+      "release_date": "2009-03-13"
+    },
+    {
+      "id": 553604,
+      "title": "Honest Thief",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.485,
+      "release_date": "2020-09-03"
+    },
+    {
+      "id": 446791,
+      "title": "All the Money in the World",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q6nE9Hf0ezszjI4DbCxwzQ73MMy.jpg",
+      "genre": "crime",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.479,
+      "release_date": "2017-12-21"
+    },
+    {
+      "id": 1027073,
+      "title": "In the Land of Saints and Sinners",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uOa6TNXi3LUHrqIp9xiWNyOyyCF.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.477,
+      "release_date": "2023-10-06"
+    },
+    {
+      "id": 1047373,
+      "title": "The Silent Hour",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/j736cRzBtEPCm0nHnpRN1prqiqj.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.455,
+      "release_date": "2024-10-03"
+    },
+    {
+      "id": 7873,
+      "title": "Harsh Times",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/raBWBnGz2X6FQ3iUwPwYQE4FrkY.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.431,
+      "release_date": "2005-09-11"
+    },
+    {
+      "id": 668489,
+      "title": "Havoc",
       "type": "movie",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ubP2OsF3GlfqYPvXyLw9d78djGX.jpg",
       "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.401,
+      "release_date": "2025-04-25"
+    },
+    {
+      "id": 835113,
+      "title": "Woman of the Hour",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nc9ZqrJFbcUdlMg9lxXXtJb24jU.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.4,
+      "release_date": "2024-10-03"
+    },
+    {
+      "id": 433501,
+      "title": "City of Lies",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pK7IYQdtdWtMDBJZfMqDxgMjXEt.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.4,
+      "release_date": "2018-09-06"
+    },
+    {
+      "id": 189,
+      "title": "Sin City: A Dame to Kill For",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/50kALxDX4mmzIRljbNbPY0u4cie.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.397,
+      "release_date": "2014-08-20"
+    },
+    {
+      "id": 798362,
+      "title": "The Marsh King's Daughter",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.393,
+      "release_date": "2023-09-28"
+    },
+    {
+      "id": 10431,
+      "title": "War",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/scFc8RD4sFxB2x0eIOaymphMnYh.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.391,
+      "release_date": "2007-08-24"
+    },
+    {
+      "id": 10428,
+      "title": "Hackers",
+      "type": "movie",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qfx2EENW1sOpKNVKLzr7VOhlxkt.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.386,
+      "release_date": "1995-09-14"
+    },
+    {
+      "id": 649409,
+      "title": "No Sudden Move",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kARdPEc4b32GQlHmJXMhGOCplEA.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.374,
+      "release_date": "2021-06-24"
+    },
+    {
+      "id": 112205,
+      "title": "The Family",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/x2arN02JFsZcDKmBb0SIjG8Smc8.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.363,
+      "release_date": "2013-09-13"
+    },
+    {
+      "id": 26389,
+      "title": "From Paris with Love",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2nD0RAWVOccomLp1iToVJn6KC2a.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.352,
+      "release_date": "2010-02-04"
+    },
+    {
+      "id": 483906,
+      "title": "Polar",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qOBEpKVLl8Q9CZScbOcRRVISezV.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.339,
+      "release_date": "2019-01-25"
+    },
+    {
+      "id": 460846,
+      "title": "Security",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9FN5n8wGYrfSJaKGF9uObdKimIh.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.329,
+      "release_date": "2017-03-04"
+    },
+    {
+      "id": 9791,
+      "title": "Animal Factory",
+      "type": "movie",
+      "year": 2000,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2OUOg9Pf5dZZr5RufM5liA4IUVK.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.323,
+      "release_date": "2000-10-13"
+    },
+    {
+      "id": 70436,
+      "title": "The Raven",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/boE0JFhZRpWLLrKOQE6bCBZGerP.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
       "user_rating": 6.304,
-      "release_date": "2025-11-12"
+      "release_date": "2012-03-09"
+    },
+    {
+      "id": 541305,
+      "title": "Kajillionaire",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fkqJJDb4u9rEyJu8Jm8H1P2mux4.jpg",
+      "genre": "crime",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.3,
+      "release_date": "2020-09-25"
+    },
+    {
+      "id": 4351,
+      "title": "Bordertown",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/c0AR36VzvB5ileCoMfSlV9bFsVn.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.3,
+      "release_date": "2007-02-22"
+    },
+    {
+      "id": 9273,
+      "title": "Ace Ventura: When Nature Calls",
+      "type": "movie",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.3,
+      "release_date": "1995-11-10"
+    },
+    {
+      "id": 970347,
+      "title": "The Killer",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+      "genre": "crime",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.289,
+      "release_date": "2024-08-22"
+    },
+    {
+      "id": 1308757,
+      "title": "Dead Sea",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ohisXa9ArEoV05ajLfX2T5D6NNF.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.284,
+      "release_date": "2024-07-26"
+    },
+    {
+      "id": 1013601,
+      "title": "The Alto Knights",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.283,
+      "release_date": "2025-03-19"
+    },
+    {
+      "id": 1032823,
+      "title": "Trap",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jwoaKYVqPgYemFpaANL941EF94R.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.256,
+      "release_date": "2024-07-31"
+    },
+    {
+      "id": 4959,
+      "title": "The International",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fneofXacvudxNUKyM61UtoilHRI.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.254,
+      "release_date": "2009-02-03"
+    },
+    {
+      "id": 689700,
+      "title": "Clean",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kRpKJstAW7DsoPAEBW2Kk1uD9Q6.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.231,
+      "release_date": "2022-01-28"
+    },
+    {
+      "id": 503736,
+      "title": "Army of the Dead",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z8CExJekGrEThbpMXAmCFvvgoJR.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.229,
+      "release_date": "2021-05-14"
+    },
+    {
+      "id": 455236,
+      "title": "Accident Man",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bHFKej3Dbr8kGRSRHpkoFHq9TJQ.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.2,
+      "release_date": "2018-02-06"
+    },
+    {
+      "id": 9594,
+      "title": "Double Impact",
+      "type": "movie",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tmzwvSqoMC37Tgqwj4mA2dHNSmw.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.2,
+      "release_date": "1991-07-31"
     },
     {
       "id": 1059064,
@@ -1983,28 +2883,148 @@
       "release_date": "2024-08-02"
     },
     {
-      "id": 1448560,
-      "title": "Wildcat",
+      "id": 152792,
+      "title": "Devil's Knot",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8DMDx7XMylIL7lpBEOMzIjuwhw0.jpg",
       "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 6.1,
-      "release_date": "2025-11-19"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.177,
+      "release_date": "2013-05-09"
     },
     {
-      "id": 982940,
-      "title": "Due Justice",
+      "id": 945937,
+      "title": "Fast Charlie",
       "type": "movie",
       "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/osUFKfa5D1wskPHahUM3GAm1HVh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/3y72ffwYRUPOj4yOQbiTaN897Tm.jpg",
       "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 6.0,
-      "release_date": "2023-11-24"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.167,
+      "release_date": "2023-12-08"
+    },
+    {
+      "id": 401743,
+      "title": "The Most Hated Woman in America",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nRDu3SBQ1hFp2YeLhKa6WONKi3W.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.159,
+      "release_date": "2017-03-24"
+    },
+    {
+      "id": 750253,
+      "title": "My Son",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jrnCkZnktMTNYOEN5uo63nKKKHN.jpg",
+      "genre": "crime",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.158,
+      "release_date": "2021-09-23"
+    },
+    {
+      "id": 47971,
+      "title": "xXx: Return of Xander Cage",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.134,
+      "release_date": "2017-01-13"
+    },
+    {
+      "id": 15577,
+      "title": "Crossing Over",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.117,
+      "release_date": "2009-02-10"
+    },
+    {
+      "id": 848123,
+      "title": "Black Site",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ipn8khVVC4eToWiGf89WF9J5PJn.jpg",
+      "genre": "crime",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.116,
+      "release_date": "2022-05-05"
+    },
+    {
+      "id": 254904,
+      "title": "The November Man",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4ejNFbCgLMDAuy7jFQmc7cr6UAW.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.111,
+      "release_date": "2014-08-27"
+    },
+    {
+      "id": 44027,
+      "title": "My Son, My Son, What Have Ye Done",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sUS8WNlJblq2GMCFPKBHzhu0XDC.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.1,
+      "release_date": "2010-07-08"
+    },
+    {
+      "id": 70577,
+      "title": "Faces in the Crowd",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/A3EtPBwTZe1Dfx1xvjCtReUxDsD.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.086,
+      "release_date": "2011-10-25"
+    },
+    {
+      "id": 15092,
+      "title": "Crank: High Voltage",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tzTC4EEvF0OPL63frEiogxL2T8M.jpg",
+      "genre": "crime",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.076,
+      "release_date": "2009-04-16"
+    },
+    {
+      "id": 278924,
+      "title": "Mechanic: Resurrection",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.032,
+      "release_date": "2016-08-25"
     },
     {
       "id": 1242434,
@@ -2019,18 +3039,6 @@
       "release_date": "2025-08-14"
     },
     {
-      "id": 314,
-      "title": "Catwoman",
-      "type": "movie",
-      "year": 2004,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pvnPgukFyEKgCzyOxyLiwyZ8T1C.jpg",
-      "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 4.6,
-      "release_date": "2004-07-22"
-    },
-    {
       "id": 1296504,
       "title": "Stand Your Ground",
       "type": "movie",
@@ -2041,18 +3049,6 @@
       "service_name": "Prime Video",
       "user_rating": 4.5,
       "release_date": "2025-05-09"
-    },
-    {
-      "id": 875828,
-      "title": "Peaky Blinders: The Immortal Man",
-      "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xO8WxiFKyWNsVZq1zl6dWTSnD0s.jpg",
-      "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 0.0,
-      "release_date": "2026-03-06"
     },
     {
       "id": 289560,
@@ -2067,18 +3063,6 @@
       "release_date": "2026-02-23"
     },
     {
-      "id": 1107166,
-      "title": "Psycho Killer",
-      "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zNfoMfpOgsfZ9axV0UzNFKVh0wG.jpg",
-      "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 0.0,
-      "release_date": "2026-02-20"
-    },
-    {
       "id": 241372,
       "title": "56 Days",
       "type": "tv_series",
@@ -2089,30 +3073,6 @@
       "service_name": "Prime Video",
       "user_rating": 0.0,
       "release_date": "2026-02-18"
-    },
-    {
-      "id": 1171145,
-      "title": "Crime 101",
-      "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/heMdO64ys1hR896YE2jvTv8JlBX.jpg",
-      "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 0.0,
-      "release_date": "2026-02-12"
-    },
-    {
-      "id": 1290821,
-      "title": "Shelter",
-      "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/klvZs66SG19qmacdwxSRkdFQhQS.jpg",
-      "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 0.0,
-      "release_date": "2026-01-29"
     },
     {
       "id": 291339,
@@ -2137,18 +3097,6 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-01-02"
-    },
-    {
-      "id": 1049574,
-      "title": "Darkness of Man",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mTYDsPX2n4kdMheBZnqe1tzcimH.jpg",
-      "genre": "crime",
-      "service_id": 0,
-      "service_name": "Theatrical",
-      "user_rating": 0.0,
-      "release_date": "2025-12-18"
     },
     {
       "id": 298756,

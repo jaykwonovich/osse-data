@@ -1,6 +1,6 @@
 {
   "range": "1003001-1004000",
-  "updated_at": 1765853014730,
+  "updated_at": 1765860582586,
   "shows": [
     {
       "id": 1003180,
@@ -26,6 +26,57 @@
         }
       ],
       "tmdb_id": 1003180
+    },
+    {
+      "id": 1003579,
+      "title": "Batman: The Doom That Came to Gotham",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sKWN5ZzDxnfVixUavs09HfBCCA3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7eccX0xay9pDj6ZQvU4cu3whw18.jpg",
+      "plot_overview": "Explorer Bruce Wayne accidentally unleashes an ancient evil, and returns to Gotham after being away for two decades. There, Batman battles Lovecraftian supernatural forces and encounters allies and enemies such as Green Arrow, Ra's al Ghul, Mr. Freeze, Killer Croc, Two-Face and James Gordon.",
+      "genres": [
+        "Animation",
+        "Mystery"
+      ],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-03-10",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1003579
+    },
+    {
+      "id": 1003581,
+      "title": "Justice League: Warworld",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/soRpXRJOYqBBsDYuH3mLYSIeufk.jpg",
+      "plot_overview": "Until now, the Justice League has been a loose association of superpowered individuals. But when they are swept away to Warworld, a place of unending brutal gladiatorial combat, Batman, Superman, Wonder Woman and the others must somehow unite to form an unbeatable resistance able to lead an entire planet to freedom.",
+      "genres": [
+        "Animation"
+      ],
+      "user_rating": 6.846,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-07-25",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1003581
     }
   ]
 }

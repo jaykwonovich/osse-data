@@ -1,7 +1,58 @@
 {
   "range": "32001-33000",
-  "updated_at": 1765853014643,
+  "updated_at": 1765860582475,
   "shows": [
+    {
+      "id": 32022,
+      "title": "Being Human",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/d52U5AqwdZcTCq8QuRfxRP4G3kc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/62PjKg1YWiy7FlAmfEO5xrOqzCZ.jpg",
+      "plot_overview": "Three paranormal roommates, a ghost, a vampire, and a werewolf, struggle to keep their dark secrets from the world, while helping each other navigate the complexities of living double lives.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 6.984,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-01-17",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32022
+    },
+    {
+      "id": 32025,
+      "title": "American Pickers",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/obWweSxU8XrAtCqteHLasV8ktmD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lcZCw8D6PqiVtsIMbApl7aiACU0.jpg",
+      "plot_overview": "Pickers like Mike Wolfe and Frank Fritz are on a mission to recycle America, even if it means diving into countless piles of grimy junk or getting chased off a gun-wielding homeowner\u2019s land. Hitting back roads from coast to coast, the two men earn a living by restoring forgotten relics to their former glory, transforming one person\u2019s trash into another\u2019s treasure.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 6.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-01-18",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32025
+    },
     {
       "id": 32040,
       "title": "The Killing of a Chinese Bookie",
@@ -27,6 +78,135 @@
         }
       ],
       "tmdb_id": 32040
+    },
+    {
+      "id": 32390,
+      "title": "The Real Housewives of Beverly Hills",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8ktaCSlCgGDMFzgdYc1LYF6CiWq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xmCue1RQDs1BfrHrJwmCD2ETeEb.jpg",
+      "plot_overview": "A reality series that follows some of the most affluent women in the country as they enjoy the lavish lifestyle that only Beverly Hills can provide.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 6.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-10-14",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 365,
+          "service_name": "MGM+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32390,
+      "is_returning": true,
+      "next_season": 15,
+      "next_air_date": "2025-12-18",
+      "next_episode": 3,
+      "relevance_score": 75
+    },
+    {
+      "id": 32569,
+      "title": "X: The Man with the X-Ray Eyes",
+      "type": "movie",
+      "year": 1963,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7YMk1mtTsGYPBC8zj2Kd3K6h3g3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/34Z8NJEG8KtRiGu8PG7I9Plza2S.jpg",
+      "plot_overview": "A doctor uses special eye drops to give himself x-ray vision, but the new power has disastrous consequences.",
+      "genres": [],
+      "user_rating": 6.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1963-07-13",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32569
+    },
+    {
+      "id": 32608,
+      "title": "Ancient Aliens",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8yR1FK6z1Gx0pyvyXRJrvbxOyuU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i5K4wfSG3i7nQaIxPca6YbnhRca.jpg",
+      "plot_overview": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egypt, from early cave drawings to continued mass sightings in the US, each episode gives historic depth to the questions, speculations, provocative controversies, first-hand accounts and grounded theories surrounding this age old debate.",
+      "genres": [
+        "Documentary",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-04-20",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32608
+    },
+    {
+      "id": 32657,
+      "title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ugiV9SpJburMOPeIyjBJyAnO1So.jpg",
+      "plot_overview": "Accident prone teenager, Percy discovers he's actually a demi-God, the son of Poseidon, and he is needed when Zeus' lightning is stolen. Percy must master his new found skills in order to prevent a war between the Gods that could devastate the entire world.",
+      "genres": [
+        "Family"
+      ],
+      "user_rating": 6.21,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-02-01",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32657
     },
     {
       "id": 32692,

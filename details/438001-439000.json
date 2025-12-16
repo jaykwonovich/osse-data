@@ -1,6 +1,6 @@
 {
   "range": "438001-439000",
-  "updated_at": 1765853014698,
+  "updated_at": 1765860582542,
   "shows": [
     {
       "id": 438148,
@@ -79,6 +79,31 @@
       "tmdb_id": 438631
     },
     {
+      "id": 438674,
+      "title": "Dragged Across Concrete",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dQ9EkVyPYJNVCfP5jWXRe4faUFA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sZUbg9K8zGiUmeVYSlUNelVcuzM.jpg",
+      "plot_overview": "Two policemen, one an old-timer, the other his volatile younger partner, find themselves suspended when a video of their strong-arm tactics becomes the media's cause du jour. Low on cash and with no other options, these two embittered soldiers descend into the criminal underworld to gain their just due, but instead find far more than they wanted awaiting them in the shadows.",
+      "genres": [
+        "Crime"
+      ],
+      "user_rating": 6.591,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-02-21",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 438674
+    },
+    {
       "id": 438695,
       "title": "Sing 2",
       "type": "movie",
@@ -106,29 +131,31 @@
       "tmdb_id": 438695
     },
     {
-      "id": 438970,
-      "title": "Sharknado 5: Global Swarming",
+      "id": 438747,
+      "title": "Tangled: Before Ever After",
       "type": "movie",
       "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tV52jYHf2CkFzIMlrn87xs1aPM.jpg",
-      "plot_overview": "Fin and his wife April travel around the world to save their young son who's trapped inside a sharknado.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/zj82L9maBSW6CAVZltBoFBSuTk1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bAHwlrxTvC37wU86kl4D2QJkMfj.jpg",
+      "plot_overview": "Rapunzel grapples with the responsibilities of being a princess and the overprotective ways of her father. While she wholeheartedly loves Eugene, Rapunzel does not share his immediate desire to get married and settle down within the castle walls. Determined to live life on her own terms, she and her tough-as-nails Lady-in-Waiting Cassandra embark on a secret adventure where they encounter mystical rocks that magically cause Rapunzel's long blonde hair to grow back. Impossible to break and diffic",
       "genres": [
-        "Comedy"
+        "Animation",
+        "Comedy",
+        "Family"
       ],
-      "user_rating": 4.8,
+      "user_rating": 6.8,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2017-08-06",
+      "release_date": "2017-03-10",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Theatrical",
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 438970
+      "tmdb_id": 438747
     }
   ]
 }

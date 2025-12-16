@@ -1,6 +1,6 @@
 {
   "range": "31001-32000",
-  "updated_at": 1765853014643,
+  "updated_at": 1765860582475,
   "shows": [
     {
       "id": 31011,
@@ -23,12 +23,6 @@
           "service_name": "Hulu",
           "type": "sub",
           "region": "US"
-        },
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
         }
       ],
       "tmdb_id": 31011
@@ -45,7 +39,7 @@
         "Animation",
         "Comedy"
       ],
-      "user_rating": 8.627,
+      "user_rating": 8.628,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-09-06",
@@ -85,6 +79,32 @@
       "tmdb_id": 31225
     },
     {
+      "id": 31251,
+      "title": "Victorious",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ulzaIIXNpeMUdhzuooQoOb5cXLD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jpR7mT5nFAzWSGPseLpfFisoUtN.jpg",
+      "plot_overview": "Aspiring singer Tori Vega navigates life while attending a performing arts high school called Hollywood Arts.",
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "user_rating": 8.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-03-27",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 31251
+    },
+    {
       "id": 31295,
       "title": "Misfits",
       "type": "tv_series",
@@ -110,6 +130,110 @@
         }
       ],
       "tmdb_id": 31295
+    },
+    {
+      "id": 31497,
+      "title": "The League",
+      "type": "tv_series",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2l9lrTVG0BxU7zqsf5UQ1g4AbBH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4MRgkPa85umPuvNpahlQo1JtzMP.jpg",
+      "plot_overview": "The League is an American sitcom and semi-improvised comedy about a about a fantasy football league and its members and their everyday lives.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.339,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-10-29",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 31497
+    },
+    {
+      "id": 31578,
+      "title": "Body Bags",
+      "type": "movie",
+      "year": 1993,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xRwna1sWDByZs9hsnlabt16INHl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/40a2z21BPfsNjDJbhZ0WshZFDF.jpg",
+      "plot_overview": "A horror anthology containing three stories: a female college student working a graveyard shift is terrorized by a serial killer; a hair transplant goes horribly wrong; and a baseball player loses an eye and gets a new one from a recently executed murderer.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1993-08-08",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 31578
+    },
+    {
+      "id": 31628,
+      "title": "Pair of Kings",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/k8OQOO5DWtBTgTtc1xoXxYSCy5O.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eeyZqchUXikR040di8Ng7Zvu83g.jpg",
+      "plot_overview": "Brady and Boomer, 16-year-old fraternal twins, are typical teens being raised by relatives  in Chicago.  But when the Royal Secretary to the Throne of the Island of Kinkou, arrives to inform the boys of their lineage, their lives change drastically.  Now, Brady and Boomer must relocate and claim the throne as joint Kings of the island.",
+      "genres": [
+        "Family",
+        "Action & Adventure",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-09-10",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 31628
+    },
+    {
+      "id": 31631,
+      "title": "Covert Affairs",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pRWUGSGdByQHW93DH2braqkRjZa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rOigzdLeQedRF4ebFQMHELjfINC.jpg",
+      "plot_overview": "A young CIA operative, Annie Walker, is mysteriously summoned to headquarters for duty as a field operative. While Annie believes she's been promoted for her exceptional linguistic skills, there may be something or someone from her past that her CIA bosses are really after. Auggie Anderson is a CIA military intelligence agent who was blinded while on assignment and is Annie's guide in this world of bureaucracy, excitement and intrigue.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 6.877,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-07-13",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 31631
     },
     {
       "id": 31917,

@@ -1,6 +1,6 @@
 {
   "range": "77001-78000",
-  "updated_at": 1765853014654,
+  "updated_at": 1765860582491,
   "shows": [
     {
       "id": 77016,
@@ -56,31 +56,58 @@
       "tmdb_id": 77169
     },
     {
-      "id": 77931,
-      "title": "The Smurfs 2",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/f2c4nT4JTcBHrX6BVKrMIGmyBvK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aIyvMthA7UGV6ix6AUUM88ZXfeU.jpg",
-      "plot_overview": "The evil wizard Gargamel creates a couple of mischievous Smurf-like creatures called the Naughties that he hopes will let him harness the all-powerful, magical Smurf-essence. But when he discovers that only a real Smurf can give him what he wants, and only a secret spell that Smurfette knows can turn the Naughties into real Smurfs, Gargamel kidnaps Smurfette and brings her to Paris, where he has been winning the adoration of millions as the world\u00b9s greatest sorcerer. It's up to Papa, Clumsy, Gro",
+      "id": 77236,
+      "title": "A Discovery of Witches",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l7MUpFAE8UEWYnO2Uv7SFtdZ2OJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mZOw5cBXPDfSv1T8IFWsWi8Wktp.jpg",
+      "plot_overview": "Closet witch Diana Bishop and centuries-old vampire Matthew Clairmont are drawn into a deadly mystery and forbidden romance when a magical book shows up in an Oxford library.",
       "genres": [
-        "Family",
-        "Comedy",
-        "Animation"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
-      "user_rating": 5.8,
+      "user_rating": 7.831,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2013-07-30",
+      "release_date": "2018-09-14",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Theatrical",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 77931
+      "tmdb_id": 77236
+    },
+    {
+      "id": 77606,
+      "title": "The Boss Baby: Back in Business",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mUVZHkJPKDYgDy1dbDdi0Esj9eB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ry3j5NEF72tMezdEomGrVXb6pFB.jpg",
+      "plot_overview": "With a little help from his brother and accomplice, Tim, Boss Baby tries to balance family life with his job at Baby Corp headquarters.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Comedy",
+        "Kids"
+      ],
+      "user_rating": 7.073,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-04-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 77606
     }
   ]
 }

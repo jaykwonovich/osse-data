@@ -1,7 +1,32 @@
 {
   "range": "61001-62000",
-  "updated_at": 1765853014650,
+  "updated_at": 1765860582486,
   "shows": [
+    {
+      "id": 61014,
+      "title": "The Knick",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oeEqDSIVOi6q0GcZj8L9Q6G7fGC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5dH0UdUDON0FOKfm9guXgOkWMlH.jpg",
+      "plot_overview": "Set in downtown New York in 1900, 'The Knick' is centered on the Knickerbocker Hospital and its staff, notably Dr. John Thackery, the hospital's brilliant chief surgeon who pushes medicine's boundaries, pioneering new procedures despite a severe drug addiction.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.854,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-08-08",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61014
+    },
     {
       "id": 61056,
       "title": "How to Get Away with Murder",
@@ -15,7 +40,7 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.836,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-09-25",
@@ -34,6 +59,35 @@
         }
       ],
       "tmdb_id": 61056
+    },
+    {
+      "id": 61175,
+      "title": "Steven Universe",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gKUuGaeZ9qiJ9Spoq0LrANQSN5x.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e5YSF0Inv9eL77jv2WQtNOOB3Bg.jpg",
+      "plot_overview": "A young boy takes his mother's place in a group of gemstone-based beings, and must learn to control his powers.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Action & Adventure",
+        "Family",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 8.408,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-11-04",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61175
     },
     {
       "id": 61222,
@@ -100,7 +154,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.139,
+      "user_rating": 7.142,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-09-24",
@@ -119,6 +173,38 @@
         }
       ],
       "tmdb_id": 61381
+    },
+    {
+      "id": 61457,
+      "title": "Grantchester",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gBdiLRV3OZLfpsLHTsYKzPMFe5q.jpg",
+      "plot_overview": "In 1953 at the hamlet of Grantchester, Sidney Chambers\u2014a charismatic, charming clergyman\u2014turns investigative vicar when one of his parishioners dies in suspicious circumstances.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.312,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-10-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61457,
+      "is_returning": true,
+      "next_season": 10,
+      "next_air_date": "2026-01-07",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 61550,
@@ -171,6 +257,57 @@
         }
       ],
       "tmdb_id": 61593
+    },
+    {
+      "id": 61662,
+      "title": "Schitt's Creek",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+      "plot_overview": "Formerly filthy rich video store magnate Johnny Rose, his soap star wife Moira, and their two kids, \u00fcber-hipster son David and socialite daughter Alexis, suddenly find themselves broke and forced to live in Schitt's Creek, a small depressing town they once bought as a joke.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-01-13",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61662
+    },
+    {
+      "id": 61733,
+      "title": "Empire",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gTrzYR6gWMhQ8yINW9JCLeoJHvf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/FNeJtRUd5XID186SHzjNNneP3f.jpg",
+      "plot_overview": "A powerful family drama about the head of a music empire whose three sons and ex-wife all battle for his throne.",
+      "genres": [
+        "Drama",
+        "Soap"
+      ],
+      "user_rating": 7.121,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-01-07",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61733
     },
     {
       "id": 61791,
@@ -336,6 +473,12 @@
           "service_name": "Disney+",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 61923
@@ -365,6 +508,33 @@
         }
       ],
       "tmdb_id": 61929
+    },
+    {
+      "id": 61969,
+      "title": "Angie Tribeca",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xi6gGST5L7FiUiYDPifHGtzl3zG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/abPpGpwh7lpbNJxmut4hSEPTZfk.jpg",
+      "plot_overview": "Lone-wolf detective Angie Tribeca and a squad of committed LAPD detectives investigate the most serious cases, from the murder of a ventriloquist to a rash of baker suicides.",
+      "genres": [
+        "Comedy",
+        "Action & Adventure",
+        "Crime"
+      ],
+      "user_rating": 6.391,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-01-17",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61969
     }
   ]
 }

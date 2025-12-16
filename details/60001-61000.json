@@ -1,6 +1,6 @@
 {
   "range": "60001-61000",
-  "updated_at": 1765853014649,
+  "updated_at": 1765860582485,
   "shows": [
     {
       "id": 60059,
@@ -27,6 +27,58 @@
         }
       ],
       "tmdb_id": 60059
+    },
+    {
+      "id": 60307,
+      "title": "Diary of a Wimpy Kid: Rodrick Rules",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/k54R3ag1sLu93Wbfo4quw9sSFyj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9BwGL0nsjCdvhe6V9q42NG11Pyq.jpg",
+      "plot_overview": "Wimpy Greg Heffley, now in seventh grade, thinks he has it all together. He has mastered middle school and gotten rid of the Cheese Touch. However, Greg's older brother, Rodrick, is itching to cut him down to size. He gets the perfect opportunity when their mother tries to force the boys to bond. Rodrick may be Greg's chief tormentor, but he feels his constant pranks are just what his little brother needs to prepare him for life's hard knocks.",
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-03-25",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 60307
+    },
+    {
+      "id": 60309,
+      "title": "The Conspirator",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/a2ubkGUjGYeKRN1C2Tib0rmjuWf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i4YjA78Tf60YW5tfBJmW8Q8X1QU.jpg",
+      "plot_overview": "Mary Surratt is the lone female charged as a co-conspirator in the assassination trial of Abraham Lincoln. As the whole nation turns against her, she is forced to rely on her reluctant lawyer to uncover the truth and save her life.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 6.554,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-04-15",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 60309
     },
     {
       "id": 60554,
@@ -134,6 +186,39 @@
       "tmdb_id": 60585
     },
     {
+      "id": 60603,
+      "title": "The Curse of Oak Island",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5pN8ouV9pWL5M7pSbz22IEXtNO8.jpg",
+      "plot_overview": "Follow brothers Marty and Rick Lagina through their effort to find the speculated - and as of yet undiscovered - buried treasure believed to have been concealed through extraordinary means on Oak Island.",
+      "genres": [
+        "Mystery",
+        "Action & Adventure",
+        "Reality",
+        "Documentary"
+      ],
+      "user_rating": 7.27,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-01-05",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 60603,
+      "is_returning": true,
+      "next_season": 13,
+      "next_air_date": "2025-12-16",
+      "next_episode": 7,
+      "relevance_score": 75
+    },
+    {
       "id": 60622,
       "title": "Fargo",
       "type": "tv_series",
@@ -173,7 +258,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "user_rating": 8.683,
+      "user_rating": 8.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-12-02",
@@ -251,6 +336,33 @@
         }
       ],
       "tmdb_id": 60735
+    },
+    {
+      "id": 60802,
+      "title": "The Last Ship",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xH529hDtPxhslAEeCrN7gD64ZMX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yTUwiQLbr8gHDs8LuU28c8fBQFm.jpg",
+      "plot_overview": "Their mission is simple: Find a cure. Stop the virus. Save the world. When a global pandemic wipes out eighty percent of the planet's population, the crew of a lone naval destroyer must find a way to pull humanity from the brink of extinction.",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 6.836,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-06-22",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 60802
     }
   ]
 }

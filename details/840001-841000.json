@@ -1,29 +1,56 @@
 {
   "range": "840001-841000",
-  "updated_at": 1765853014723,
+  "updated_at": 1765860582578,
   "shows": [
     {
-      "id": 840464,
-      "title": "Greenland 2: Migration",
+      "id": 840705,
+      "title": "Blink Twice",
       "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gtKWn9l32PolrFwCuZQsujEAEoc.jpg",
-      "plot_overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "genres": [],
-      "user_rating": 0.0,
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/NqqLef2ITlK8olXT4iFuUXFwSh.jpg",
+      "plot_overview": "When tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. But despite the epic setting, beautiful people, ever-flowing champagne, and late-night dance parties, Frida can sense that there\u2019s something sinister hiding beneath the island\u2019s lush fa\u00e7ade.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 6.686,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2026-01-07",
+      "release_date": "2024-08-21",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Theatrical",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 840464
+      "tmdb_id": 840705
+    },
+    {
+      "id": 840889,
+      "title": "Stopmotion",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/shS6buEDnEDoHTdLbGzCoDIZ9ur.jpg",
+      "plot_overview": "Ella Blake, a stop-motion animator struggling to control her demons after the loss of her overbearing mother, embarks upon the creation of a film that becomes the battleground for her sanity. As Ella\u2019s mind starts to fracture, the characters in her project take on a life of their own.",
+      "genres": [
+        "Animation"
+      ],
+      "user_rating": 6.205,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-02-22",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 840889
     }
   ]
 }

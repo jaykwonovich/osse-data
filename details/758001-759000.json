@@ -1,19 +1,40 @@
 {
   "range": "758001-759000",
-  "updated_at": 1765830970628,
+  "updated_at": 1765860582570,
   "shows": [
+    {
+      "id": 758323,
+      "title": "The Pope's Exorcist",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+      "plot_overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+      "genres": [],
+      "user_rating": 6.927,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-04-05",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 758323
+    },
     {
       "id": 758330,
       "title": "Good Luck to You, Leo Grande",
       "type": "movie",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3oAmqJxMqOgmnEhoOP3swpOUwzC.jpg",
       "plot_overview": "Nancy Stokes, a retired schoolteacher, is pretty sure she has never had good sex. Now that her husband has died, she is determined to take a tour of sexual vistas that until now she has only imagined. She even has a plan; it involves an anonymous hotel room, and a sex worker who calls himself Leo Grande.",
       "genres": [
-        "romance",
-        "drama"
+        "Drama"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -27,10 +48,33 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 758330,
-      "relevance_score": 10.8629
+      "tmdb_id": 758330
+    },
+    {
+      "id": 758336,
+      "title": "Love Again",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/koswMk0y7jGcyofV1sBccnNtY0B.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jv9WTuEk7kW8JxgpjQ872CyiifP.jpg",
+      "plot_overview": "Mira Ray, dealing with the loss of her fianc\u00e9, John, sends a series of romantic texts to his old cell phone number\u2026 not realizing the number was reassigned to Rob Burns' new work phone. Rob, a journalist, is captivated by the honesty in the beautifully confessional texts. When he\u2019s assigned to write a profile of megastar C\u00e9line Dion, he enlists her help in figuring out how to meet Mira in person and win her heart.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-05-04",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 758336
     }
   ]
 }

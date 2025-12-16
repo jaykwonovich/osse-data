@@ -1,7 +1,62 @@
 {
   "range": "8001-9000",
-  "updated_at": 1765853014634,
+  "updated_at": 1765860582461,
   "shows": [
+    {
+      "id": 8009,
+      "title": "Highlander",
+      "type": "movie",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8Z8dptJEypuLoOQro1WugD855YE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2EfbAWLq8s2f1LxTAIuLGYpKETV.jpg",
+      "plot_overview": "He fought his first battle on the Scottish Highlands in 1536. He will fight his greatest battle on the streets of New York City in 1986. His name is Connor MacLeod. He is immortal.",
+      "genres": [],
+      "user_rating": 6.868,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1986-03-07",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8009
+    },
+    {
+      "id": 8012,
+      "title": "Get Shorty",
+      "type": "movie",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r82SdPhg4fnIcLt0ogIjQxqjdcO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wiZT8DVmAZNwmqd8G3QjWZ1mpLB.jpg",
+      "plot_overview": "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry's leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren't all that different.",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "user_rating": 6.504,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1995-10-20",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8012
+    },
     {
       "id": 8055,
       "title": "The Reader",
@@ -26,6 +81,142 @@
         }
       ],
       "tmdb_id": 8055
+    },
+    {
+      "id": 8077,
+      "title": "Alien\u00b3",
+      "type": "movie",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lU0zVj8KcQVkPczdGGraYGiRC72.jpg",
+      "plot_overview": "After escaping with Newt and Hicks from the alien planet, Ripley crash lands on Fiorina 161, a prison planet and host to a correctional facility. Unfortunately, although Newt and Hicks do not survive the crash, a more unwelcome visitor does. The prison does not allow weapons of any kind, and with aid being a long time away, the prisoners must simply survive in any way they can.",
+      "genres": [],
+      "user_rating": 6.377,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1992-05-22",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8077
+    },
+    {
+      "id": 8078,
+      "title": "Alien Resurrection",
+      "type": "movie",
+      "year": 1997,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ikr0UILfvRerzMNoBTtJtyuWAEV.jpg",
+      "plot_overview": "Two hundred years after Lt. Ripley died, a group of scientists clone her, hoping to breed the ultimate weapon. But the new Ripley is full of surprises \u2026 as are the new aliens. Ripley must team with a band of smugglers to keep the creatures from reaching Earth.",
+      "genres": [],
+      "user_rating": 6.159,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1997-11-12",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8078
+    },
+    {
+      "id": 8208,
+      "title": "The Man Who Knew Too Much",
+      "type": "movie",
+      "year": 1934,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qghwbSfQblFYRFq675uK5qDGr3w.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o9QuotgupLq34zYyzFrfd4TrimC.jpg",
+      "plot_overview": "While vacationing in St. Moritz, a British couple receive a clue to an imminent assassination attempt, only to learn that their daughter has been kidnapped to keep them quiet.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 6.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1934-12-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8208
+    },
+    {
+      "id": 8346,
+      "title": "My Big Fat Greek Wedding",
+      "type": "movie",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ztc05ym0T3stnBpRHdxEs3Zwsmp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3d8Y4q172YFp2obUdfMjyErB7eU.jpg",
+      "plot_overview": "A young Greek woman falls in love with a non-Greek and struggles to get her family to accept him while she comes to terms with her heritage and cultural identity.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2002-04-19",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8346
+    },
+    {
+      "id": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o0zPARvs47f0UhAJuUqdQsyQaji.jpg",
+      "plot_overview": "Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors \u2013 the mighty dinosaurs.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 6.763,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-06-26",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8355
     },
     {
       "id": 8358,
@@ -100,12 +291,6 @@
           "region": "US"
         },
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
           "service_id": 386,
           "service_name": "Peacock",
           "type": "sub",
@@ -167,6 +352,80 @@
       "tmdb_id": 8438
     },
     {
+      "id": 8456,
+      "title": "Never Back Down",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8oRUTyP1QAtGDMvRpKZyuyFPG0U.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/h71xyiurUscD6uIPbECyso1Lwb9.jpg",
+      "plot_overview": "Jake, full of anger after his father's death, is just starting to find a place for himself at his new Orlando high school - until Ryan, head of an underground MMA fight club, picks Jake out as a prime opponent. After being trounced by Ryan in front of the entire school, Jake begins training under the firm, moral guidance of a MMA master, where he learns how to fight... and how to avoid a fight. But it becomes obvious that a rematch will be inevitable if Jake wants to stop Ryan and his bullying, ",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.778,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-03-04",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8456
+    },
+    {
+      "id": 8491,
+      "title": "Weekend at Bernie's",
+      "type": "movie",
+      "year": 1989,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4RtjBkBSqHG46uieHgTtM7oKlpo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xbGROemZqyVYrIlMOHKqmV2qmG0.jpg",
+      "plot_overview": "Two young insurance corporation employees try to pretend that their murdered employer is alive by puppeteering his dead body, leading a hitman to attempt to track him down to finish him off.",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "user_rating": 6.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1989-07-05",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8491
+    },
+    {
+      "id": 8536,
+      "title": "Superman II",
+      "type": "movie",
+      "year": 1980,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e77VeVcrXhxfCdJWD9rameYn7Qn.jpg",
+      "plot_overview": "Three Kryptonian criminals led by General Zod team up with Lex Luthor to conquer Earth, forcing a depowered Superman to regain his strength and stop them.",
+      "genres": [],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1980-12-12",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8536
+    },
+    {
       "id": 8587,
       "title": "The Lion King",
       "type": "movie",
@@ -219,6 +478,130 @@
       "tmdb_id": 8592
     },
     {
+      "id": 8624,
+      "title": "Eastbound & Down",
+      "type": "tv_series",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yQNtCRbofKQAPKRKy101tV0BEKI.jpg",
+      "plot_overview": "Years after he turned his back on his hometown, a burned-out major league ballplayer returns to teach phys ed at his old middle school.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-02-15",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8624
+    },
+    {
+      "id": 8665,
+      "title": "K-19: The Widowmaker",
+      "type": "movie",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vImR0HQkJs7Xs2qgdXEUDeX49m0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/puleizXkdZrYW9641MZHj7IhAY4.jpg",
+      "plot_overview": "When Russia's first nuclear submarine malfunctions on its maiden voyage, the crew must race to save the ship and prevent a nuclear disaster.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 6.54,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2002-07-19",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8665
+    },
+    {
+      "id": 8769,
+      "title": "Christine",
+      "type": "movie",
+      "year": 1983,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mMtUJke2TtIoT6JB9hkvERmsSu8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6goydaLavDu3d2g3kFJHECZiddt.jpg",
+      "plot_overview": "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie's girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
+      "genres": [],
+      "user_rating": 6.872,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1983-12-09",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8769
+    },
+    {
+      "id": 8839,
+      "title": "Casper",
+      "type": "movie",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sQPckU0TfSeYIlUneHfIXwzQC2f.jpg",
+      "plot_overview": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 6.333,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1995-05-26",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8839
+    },
+    {
+      "id": 8851,
+      "title": "The Blob",
+      "type": "movie",
+      "year": 1958,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ctOwn1Ibg3SjDG4WulvFvSH0PRT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6Ne2ewHwQqfTZEWYXRsA3Wy9Lc5.jpg",
+      "plot_overview": "A drive-in favorite, this sci-fi classic follows teenagers Steve and his best girl, Jane, as they try to protect their hometown from a gelatinous alien life form that engulfs everything it touches. The first to discover the substance and live to tell about it, Steve and Jane witness the blob destroying an elderly man, then it growing to a terrifying size. But no one else has seen the goo, and policeman Dave refuses to believe the kids without proof.",
+      "genres": [],
+      "user_rating": 6.216,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1958-09-10",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8851
+    },
+    {
       "id": 8871,
       "title": "How the Grinch Stole Christmas",
       "type": "movie",
@@ -236,13 +619,42 @@
       "release_date": "2000-11-17",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Theatrical",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 8871
+    },
+    {
+      "id": 8960,
+      "title": "Hancock",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xh0ZRdnL4pSqfW73HBf97xiNEFP.jpg",
+      "plot_overview": "Hancock is a down-and-out superhero who's forced to employ a PR expert to help repair his image when the public grows weary of all the damage he's inflicted during his lifesaving heroics. The agent's idea of imprisoning the antihero to make the world miss him proves successful, but will Hancock stick to his new sense of purpose or slip back into old habits?",
+      "genres": [],
+      "user_rating": 6.351,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-07-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8960
     }
   ]
 }

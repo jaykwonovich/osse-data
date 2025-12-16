@@ -1,6 +1,6 @@
 {
   "range": "30001-31000",
-  "updated_at": 1765853014643,
+  "updated_at": 1765860582475,
   "shows": [
     {
       "id": 30061,
@@ -88,6 +88,31 @@
         }
       ],
       "tmdb_id": 30588
+    },
+    {
+      "id": 30957,
+      "title": "The Amazing Race",
+      "type": "tv_series",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/x1jq0atcQg6UkaZpco0kFL6QHuM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mSkisNewxu55Ivar5EubhcIuoqn.jpg",
+      "plot_overview": "This reality competition sees teams embark on a trek around the world to amazing destinations where they must compete in a series of challenges, some mental and some physical. Only when the tasks are completed will they learn of their next location. Teams who are the farthest behind will gradually be eliminated as the contest progresses, with the first team to arrive at the final destination winning the race and the $1 million prize.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 6.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2001-09-05",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 30957
     }
   ]
 }

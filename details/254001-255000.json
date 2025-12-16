@@ -1,6 +1,6 @@
 {
   "range": "254001-255000",
-  "updated_at": 1765853014677,
+  "updated_at": 1765860582518,
   "shows": [
     {
       "id": 254071,
@@ -37,7 +37,7 @@
       "next_season": 1,
       "next_air_date": "2026-01-21",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 100
     },
     {
       "id": 254320,
@@ -66,6 +66,31 @@
       "tmdb_id": 254320
     },
     {
+      "id": 254470,
+      "title": "Pitch Perfect 2",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oFBQUufCV4c8WZoNhtGM17p884H.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bWOfRV1Ubk9SWEDZDDjsmIUCcbZ.jpg",
+      "plot_overview": "The Bellas are back, and they are better than ever. After being humiliated in front of none other than the President of the United States of America, the Bellas are taken out of the Aca-Circuit. In order to clear their name, and regain their status, the Bellas take on a seemingly impossible task: winning an international competition no American team has ever won. In order to accomplish this monumental task, they need to strengthen the bonds of friendship and sisterhood and blow away the competit",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.843,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-05-07",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 254470
+    },
+    {
       "id": 254544,
       "title": "The Waterfront",
       "type": "tv_series",
@@ -90,6 +115,31 @@
         }
       ],
       "tmdb_id": 254544
+    },
+    {
+      "id": 254904,
+      "title": "The November Man",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4ejNFbCgLMDAuy7jFQmc7cr6UAW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qFVv6qw6LqotUQofdwKSvxJfLnu.jpg",
+      "plot_overview": "An ex-CIA operative is brought back in on a very personal mission and finds himself pitted against his former pupil in a deadly game involving high level CIA officials and the Russian president-elect.",
+      "genres": [
+        "Crime"
+      ],
+      "user_rating": 6.111,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-08-27",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 254904
     }
   ]
 }

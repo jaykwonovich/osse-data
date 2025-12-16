@@ -1,7 +1,32 @@
 {
   "range": "58001-59000",
-  "updated_at": 1765853014649,
+  "updated_at": 1765860582485,
   "shows": [
+    {
+      "id": 58832,
+      "title": "Naked and Afraid",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/plV0HqZs3nHW8PhaLzV18puxtP2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7rqkQ2P0Q8QOXL0ITZctnzSx2Jl.jpg",
+      "plot_overview": "What happens when you put two complete strangers - sans clothes - in some of the most extreme environments on Earth? Each male-female duo is left with no food, no water, no clothes, and only one survival item each as they attempt to survive on their own.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 6.738,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-06-23",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 58832
+    },
     {
       "id": 58841,
       "title": "Chicago P.D.",
@@ -32,6 +57,61 @@
       "next_air_date": "2026-01-07",
       "next_episode": 8,
       "relevance_score": 75
+    },
+    {
+      "id": 58956,
+      "title": "Wolfblood",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rYFKm38ClVGVe6Bj3RUYf67Vc9E.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sC9OILuFOlZon1XQFrSDBUlGLkI.jpg",
+      "plot_overview": "Being a teenager is hard enough. Being a Wolfblood teenager is ten times more complicated. 14 year old Maddy loves her abilities - heightened senses, being faster, stronger and more graceful - but hates the secrets that come with them.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.972,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-09-10",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 58956
+    },
+    {
+      "id": 58981,
+      "title": "The Thundermans",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7Z4mwfQGoARtNxxQEPp5hKNclJi.jpg",
+      "plot_overview": "Meet The Thundermans, a typical suburban family that happens to have astounding superpowers. At the center of the action are the 14-year-old Thunderman twins, who share the same bathroom, the same school, and the same annoying little siblings. Their only difference? The sister is a super student with a super sunny disposition who super looks forward to being a superhero someday, and her twin brother is a super villain.",
+      "genres": [
+        "Action & Adventure",
+        "Comedy",
+        "Family",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 8.026,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-10-14",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 58981
     }
   ]
 }

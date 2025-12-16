@@ -1,7 +1,34 @@
 {
   "range": "90001-91000",
-  "updated_at": 1765853014657,
+  "updated_at": 1765860582494,
   "shows": [
+    {
+      "id": 90027,
+      "title": "Carnival Row",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jyhxT10e2z9IDsKoIQDKhyxSQJt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7gfLuaqVBdtNxKIxp9uc8sOUlQg.jpg",
+      "plot_overview": "In a mystical and dark city filled with humans, fairies and other creatures, a police detective investigates a series of gruesome murders leveled against the fairy population. During his investigation, the detective becomes the prime suspect and must find the real killer to clear his name.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.698,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-08-29",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 90027
+    },
     {
       "id": 90125,
       "title": "Marley",
@@ -176,7 +203,7 @@
         "Comedy",
         "Mystery"
       ],
-      "user_rating": 7.83,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-10-12",
@@ -241,6 +268,36 @@
         }
       ],
       "tmdb_id": 90802
+    },
+    {
+      "id": 90812,
+      "title": "Industry",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eNg2mzkliMHwrQN8ayPGesoWTOR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yNaVmgtVRE4Wb1zPeArcRzREZuc.jpg",
+      "plot_overview": "In the cutthroat world of international finance, a group of young graduates compete for a limited set of permanent positions at a top investment bank in London. The boundaries between colleague, friend, lover, and enemy soon blur as they immerse themselves in a company culture defined as much by sex, drugs and ego as it is by deals and dividends.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.798,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-11-09",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 90812,
+      "is_returning": true,
+      "next_season": 4,
+      "next_air_date": "2026-01-11",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 90872,

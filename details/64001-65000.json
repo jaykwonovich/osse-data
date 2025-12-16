@@ -1,7 +1,90 @@
 {
   "range": "64001-65000",
-  "updated_at": 1765853014651,
+  "updated_at": 1765860582487,
   "shows": [
+    {
+      "id": 64099,
+      "title": "War and Peace",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e9uqJMuJXTlqgHrzmMjzhUsw7nI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dRz83kCWj4yu8SP7AbSzyvUO7rK.jpg",
+      "plot_overview": "The love story of young Countess Natasha Rostova and Count Pierre Bezukhov is interwoven with the Great Patriotic War of 1812 against Napoleon's invading army.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.568,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-01-03",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64099
+    },
+    {
+      "id": 64199,
+      "title": "Sneaky Pete",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nNpcea9lLHI4iv8QpOIvHveVnT9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/f1Z5X3iCCKK5FGu5VvzPkXO7eOl.jpg",
+      "plot_overview": "A con man on the run from a vicious gangster takes cover from his past by assuming the identity of his prison cellmate, Pete, \u201creuniting\u201d with Pete\u2019s estranged family, a colorful, dysfunctional group that threatens to drag him into a world just as dangerous as the one he\u2019s trying to escape - and, just maybe, give him a taste of the loving family he\u2019s never had.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.48,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-08-07",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64199
+    },
+    {
+      "id": 64328,
+      "title": "The Muppets",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mOB0Hdm23NslPNDkZC9eueatW3b.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ysHWeVWSQZCIEBSEVf1nPddRn58.jpg",
+      "plot_overview": "When Kermit the Frog and the Muppets learn that their beloved theater is slated for demolition, a sympathetic human, Gary, and his puppet brother, Walter, swoop in to help the gang put on a show and raise the $10 million they need to save the day.",
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 6.683,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-11-23",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64328
+    },
     {
       "id": 64432,
       "title": "The Magicians",
@@ -27,6 +110,31 @@
         }
       ],
       "tmdb_id": 64432
+    },
+    {
+      "id": 64686,
+      "title": "47 Ronin",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xDHnmcroujCRG0ysYQaiswjbyHd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nyt0jlofZyjhRqiQkEp0cdoKaS3.jpg",
+      "plot_overview": "Kai\u2014an outcast\u2014joins Oishi, the leader of 47 outcast samurai.  Together they seek vengeance upon the treacherous overlord who killed their master and banished their kind.  To restore honour to their homeland, the warriors embark upon a quest that challenges them with a series of trials that would destroy ordinary warriors.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.201,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-12-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64686
     },
     {
       "id": 64752,

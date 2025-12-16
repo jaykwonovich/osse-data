@@ -1,6 +1,6 @@
 {
   "range": "296001-297000",
-  "updated_at": 1765853014682,
+  "updated_at": 1765860582525,
   "shows": [
     {
       "id": 296017,
@@ -51,6 +51,31 @@
         }
       ],
       "tmdb_id": 296096
+    },
+    {
+      "id": 296100,
+      "title": "The Night Before",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/spQjZHP7lMVAMLun98W4YA1c2jL.jpg",
+      "plot_overview": "In New York City for their annual tradition of Christmas Eve debauchery, three lifelong best friends set out to find the Holy Grail of Christmas parties since their yearly reunion might be coming to an end.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.091,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-11-20",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 296100
     },
     {
       "id": 296258,
@@ -136,43 +161,53 @@
     },
     {
       "id": 296523,
-      "title": "Girl Taken",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "Follow the story of twin sisters Lily and Abby, whose lives are shattered when Lily is abducted from their quiet rural English town by beloved local teacher Rick Hansen. After years of abuse in captivity, Lily escapes - only to discover that freedom brings its own challenges.",
+      "title": "Man Down",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6sv6YqD7CPbk1Wn7ayq5zosPeCi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xEaNiGowJgrS8wHKZdPjnKgZI06.jpg",
+      "plot_overview": "When a U.S. Marine returns home from Afghanistan, he finds that the place he once called home is no better than the battlefields he fought on overseas. Accompanied by his best friend, he searches desperately for the whereabouts of his estranged son and wife. In their search, the two intercept a man carrying vital information about his family.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 0.0,
+      "user_rating": 6.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2026-01-08",
+      "release_date": "2015-09-12",
       "streaming_services": [
         {
-          "service_id": 531,
-          "service_name": "Paramount+",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
-      "production_companies": [
-        "Clapperboard Studios"
+      "tmdb_id": 296523
+    },
+    {
+      "id": 296524,
+      "title": "Deepwater Horizon",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jgBIYCZACe3iaS9TL2XzVGkO5p5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fRT76SSQzAuZljogpsWyKphUxYX.jpg",
+      "plot_overview": "A story set on the offshore drilling rig Deepwater Horizon, which exploded during April 2010 and created the worst oil spill in U.S. history.",
+      "genres": [
+        "Drama"
       ],
-      "networks": [
-        "Paramount+"
+      "user_rating": 6.889,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-09-28",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
       ],
-      "tmdb_id": 296523,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-01-08",
-      "next_episode": 1,
-      "relevance_score": 75,
-      "service_name": "Paramount+",
-      "service_id": 531,
-      "prediction_source": "gemini",
-      "prediction_confidence": 1.0
+      "tmdb_id": 296524
     },
     {
       "id": 296579,
@@ -259,7 +294,7 @@
       "next_season": 1,
       "next_air_date": "2025-12-31",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 100
     },
     {
       "id": 296987,

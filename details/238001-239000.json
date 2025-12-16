@@ -1,23 +1,20 @@
 {
   "range": "238001-239000",
-  "updated_at": 1765841231969,
+  "updated_at": 1765860582516,
   "shows": [
     {
-      "id": 238458,
-      "title": "Cashero",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hFh4ThauKlFGlhQveVu1KVOq3Ac.jpg",
-      "plot_overview": "The ability to draw power from cash turns a salaryman into a hero. With quirky allies facing waves of villains, can he defeat evil on a tight budget?",
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "user_rating": 0.0,
+      "id": 238615,
+      "title": "Self/less",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jhzjPJnwiQwBzW0nIHBC01fr9GG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vzbsqeoG7xH8EVOBiYBSIjU8wt1.jpg",
+      "plot_overview": "An extremely wealthy elderly man dying from cancer undergoes a radical medical procedure that transfers his consciousness to the body of a healthy young man but everything may not be as good as it seems when he starts to uncover the mystery of the body's origins and the secret organization that will kill to keep its secrets.",
+      "genres": [],
+      "user_rating": 6.412,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-12-26",
+      "release_date": "2015-07-10",
       "streaming_services": [
         {
           "service_id": 8,
@@ -26,14 +23,30 @@
           "region": "US"
         }
       ],
-      "production_companies": [
-        "DramaHouse",
-        "SLL"
+      "tmdb_id": 238615
+    },
+    {
+      "id": 238636,
+      "title": "The Purge: Anarchy",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qwqHHZLZSUvMkAMQ47ymtfjEifY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/blfZnm6StMPnTY35kaooPBCsSVp.jpg",
+      "plot_overview": "One night per year, the government sanctions a 12-hour period in which citizens can commit any crime they wish -- including murder -- without fear of punishment or imprisonment. Leo, a sergeant who lost his son, plans a vigilante mission of revenge during the mayhem. However, instead of a death-dealing avenger, he becomes the unexpected protector of four innocent strangers who desperately need his help if they are to survive the night.",
+      "genres": [],
+      "user_rating": 6.628,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-07-17",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
       ],
-      "networks": [
-        "Netflix"
-      ],
-      "tmdb_id": 238458
+      "tmdb_id": 238636
     }
   ]
 }

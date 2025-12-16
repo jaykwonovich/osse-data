@@ -1,7 +1,32 @@
 {
   "range": "1071001-1072000",
-  "updated_at": 1765853014732,
+  "updated_at": 1765860582591,
   "shows": [
+    {
+      "id": 1071215,
+      "title": "Thanksgiving",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ktHEdqmMWC1wdfPRMRCTZe2OISL.jpg",
+      "plot_overview": "After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 6.491,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-11-16",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1071215
+    },
     {
       "id": 1071585,
       "title": "M3GAN 2.0",
@@ -24,31 +49,6 @@
         }
       ],
       "tmdb_id": 1071585
-    },
-    {
-      "id": 1071929,
-      "title": "A Perfect Christmas Pairing",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7paSHHxp47Tm3LUhGXY66Twb4lf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fkdOIYYFPOJo6lAhklq1ytgNFPy.jpg",
-      "plot_overview": "Winter sets in as top chef Grace Cooke, at the helm of a high-end restaurant, rakes in rave reviews due to her gastro-scientific approach to cuisine. She\u2019s close to a Michelin star when a bad review from a top critic rocks her world. With her boss\u2019 blessing, she takes time off to see her family at their winery B&B over Christmas. There, she connects with worldly travel writer Asher St. James, and sparks fly with family traditions as Asher helps her reconnect with her roots.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 5.8,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2023-11-01",
-      "streaming_services": [
-        {
-          "service_id": 0,
-          "service_name": "Theatrical",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 1071929
     }
   ]
 }

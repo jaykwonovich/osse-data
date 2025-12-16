@@ -1,7 +1,33 @@
 {
   "range": "47001-48000",
-  "updated_at": 1765853014646,
+  "updated_at": 1765860582483,
   "shows": [
+    {
+      "id": 47054,
+      "title": "Atlantis",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nMdyDnHiRpJ2sfqk3JfUb3CvME4.jpg",
+      "plot_overview": "A fantasy drama set in a world of legendary heroes and mythical creatures. Far from home and desperate for answers, Jason washes up on the shores of an ancient land. A mysterious place; a world of bull leaping, of snake haired goddesses and of palaces so vast it was said they were built by giants - this is the city of Atlantis. Aided by his two new friends, Pythagoras and Hercules, Jason embarks on a voyage of discovery, and salvation, which sees him brush shoulders with Medusa, come face to fac",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 6.379,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-09-28",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 47054
+    },
     {
       "id": 47640,
       "title": "The Strain",
@@ -53,6 +79,63 @@
         }
       ],
       "tmdb_id": 47653
+    },
+    {
+      "id": 47665,
+      "title": "Black Sails",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mZcSwrDdw6cdOVgXm496DgwrQcQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/A7lo83g09i3cDmLRKtDiiYN8w0z.jpg",
+      "plot_overview": "The pirate adventures of Captain Flint and his men twenty years prior to Robert Louis Stevenson\u2019s classic \u201cTreasure Island.\u201d Flint, the most brilliant and most feared pirate captain of his day, takes on a fast-talking young addition to his crew who goes by the name John Silver. Threatened with extinction on all sides, they fight for the survival of New Providence Island, the most notorious criminal haven of its day \u2013 a debauched paradise teeming with pirates, prostitutes, thieves and fortune see",
+      "genres": [
+        "Drama",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.607,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-01-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 47665
+    },
+    {
+      "id": 47971,
+      "title": "xXx: Return of Xander Cage",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cFcXilLbI7yjPIYB58AZiOyUnoh.jpg",
+      "plot_overview": "Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.",
+      "genres": [
+        "Crime"
+      ],
+      "user_rating": 6.134,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-01-13",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 47971
     }
   ]
 }

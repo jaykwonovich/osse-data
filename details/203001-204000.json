@@ -1,7 +1,34 @@
 {
   "range": "203001-204000",
-  "updated_at": 1765853014671,
+  "updated_at": 1765860582510,
   "shows": [
+    {
+      "id": 203085,
+      "title": "Star Wars: Tales of the Jedi",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/k3nWQb0E8mLSR8acSkJP78VRVMv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vp52Er9JebGn49GG37jFTwx15Lw.jpg",
+      "plot_overview": "Journey into the lives of two distinctly different Jedi from the prequel era \u2013 Ahsoka Tano and Count Dooku. Each will be put to the test as they make choices that will define their destinies.",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "user_rating": 8.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-10-26",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 203085
+    },
     {
       "id": 203448,
       "title": "Southern Hospitality",
@@ -102,6 +129,32 @@
         }
       ],
       "tmdb_id": 203833
+    },
+    {
+      "id": 203857,
+      "title": "The Diplomat",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "plot_overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "user_rating": 7.571,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-04-20",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 203857
     }
   ]
 }

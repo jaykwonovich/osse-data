@@ -1,6 +1,6 @@
 {
   "range": "302001-303000",
-  "updated_at": 1765853014684,
+  "updated_at": 1765860582527,
   "shows": [
     {
       "id": 302074,
@@ -37,7 +37,7 @@
       "next_season": 1,
       "next_air_date": "2026-02-24",
       "next_episode": 1,
-      "relevance_score": 75,
+      "relevance_score": 100,
       "service_name": "Hulu",
       "service_id": 15,
       "prediction_source": "gemini",
@@ -119,6 +119,31 @@
         }
       ],
       "tmdb_id": 302606
+    },
+    {
+      "id": 302699,
+      "title": "Central Intelligence",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hXQVMbRNpf7c93e8clMY4W5DRm6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/12gfRwL8RuZUQ4kiGzq9kRYBK5J.jpg",
+      "plot_overview": "Calvin Joyner, a mild-mannered accountant whose high school glory days are long behind him, reconnects with an awkward pal from high school through Facebook. After meeting up, Calvin\u2019s mundane life takes an unexpectedly thrilling turn when he's thrust into the world of international espionage.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.417,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-06-15",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 302699
     },
     {
       "id": 302854,

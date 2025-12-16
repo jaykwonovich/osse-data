@@ -1,32 +1,57 @@
 {
   "range": "425001-426000",
-  "updated_at": 1765853014697,
+  "updated_at": 1765860582541,
   "shows": [
     {
-      "id": 425274,
-      "title": "Now You See Me: Now You Don't",
+      "id": 425001,
+      "title": "The War with Grandpa",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
-      "plot_overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ltyARDw2EFXZ2H2ERnlEctXPioP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/a9jZrU7LJk6mAUjmkbEmTiC52l0.jpg",
+      "plot_overview": "Peter is thrilled that his Grandpa is coming to live with his family. That is, until Grandpa moves into Peter's room, forcing him upstairs into the creepy attic. And though he loves his Grandpa, he wants his room back - so he has no choice but to declare war.",
       "genres": [
-        "Crime",
-        "Mystery"
+        "Comedy",
+        "Family"
       ],
-      "user_rating": 6.304,
+      "user_rating": 6.439,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-11-12",
+      "release_date": "2020-08-27",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Theatrical",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 425274
+      "tmdb_id": 425001
+    },
+    {
+      "id": 425972,
+      "title": "Cargo",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cdPSUck4tBRvRu6DFk6XciDrssn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tiIpajUBpLMNWMEzpjRBxo0jCbD.jpg",
+      "plot_overview": "After being infected in the wake of a violent pandemic and with only 48 hours to live, a father struggles to find a new home for his baby daughter.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.396,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-10-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 425972
     }
   ]
 }

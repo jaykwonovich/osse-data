@@ -1,22 +1,21 @@
 {
   "range": "45001-46000",
-  "updated_at": 1765830970583,
+  "updated_at": 1765860582482,
   "shows": [
     {
       "id": 45140,
       "title": "Teen Titans Go!",
       "type": "tv_series",
       "year": 2013,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
       "plot_overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
       "genres": [
-        "animation",
-        "action",
-        "comedy",
-        "family",
-        "sci-fi"
+        "Animation",
+        "Action & Adventure",
+        "Comedy",
+        "Family",
+        "Sci-Fi & Fantasy"
       ],
       "user_rating": 6.483,
       "critic_score": null,
@@ -28,24 +27,26 @@
           "service_name": "Hulu",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 45140,
-      "relevance_score": 29.1713
+      "tmdb_id": 45140
     },
     {
       "id": 45243,
       "title": "The Hangover Part II",
       "type": "movie",
       "year": 2011,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/cKZu0Fdkj7dmwbfMpgDqVVCkLJQ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aGmsekNU5cMOkJMpbdRutkvmVMl.jpg",
       "plot_overview": "The Hangover crew heads to Thailand for Stu's wedding. After the disaster of a bachelor party in Las Vegas last year, Stu is playing it safe with a mellow pre-wedding brunch. However, nothing goes as planned and Bangkok is the perfect setting for another adventure with the rowdy group.",
       "genres": [
-        "comedy"
+        "Comedy"
       ],
       "user_rating": 6.498,
       "critic_score": null,
@@ -59,41 +60,83 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 45243,
-      "relevance_score": 14.1882
+      "tmdb_id": 45243
     },
     {
-      "id": 45790,
-      "title": "JoJo's Bizarre Adventure",
-      "type": "tv_series",
-      "year": 2012,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
-      "plot_overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "id": 45658,
+      "title": "Everything Must Go",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/n4wMD3LHyo3nYZNWEOGLzgdyWjX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/j5qlN86CVojseTMpFVJe92rwlKL.jpg",
+      "plot_overview": "When an alcoholic relapses, causing him to lose his wife and his job, he holds a yard sale on his front lawn in an attempt to start over. A new neighbor might be the key to his return to form.",
       "genres": [
-        "animation",
-        "action",
-        "sci-fi"
+        "Comedy",
+        "Drama"
       ],
-      "user_rating": 8.549,
+      "user_rating": 6.167,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2012-10-06",
+      "release_date": "2011-05-13",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 45790,
-      "relevance_score": 24.8742
+      "tmdb_id": 45658
+    },
+    {
+      "id": 45666,
+      "title": "Sam & Cat",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8zL3NVH0owqVDxKvlnG3Df5aWuT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2EX0wMD1vr9DfvV68kfmz09rAfI.jpg",
+      "plot_overview": "Sam Puckett is loud, independent, and tough as nails, while Cat Valentine is sweet as pie and super flighty. But that doesn't stop this unlikely pair from becoming best buds and roomies!\n\nTogether, they're a power duo with a love for fun and adventure -- it's just too bad that it doesn't come cheap. Burgers at their favorite robot restaurant Bots don't grow on trees, after all. A booming out-of-home babysitting business quickly becomes the answer to their empty-pocket problems, but also an extra",
+      "genres": [
+        "Comedy",
+        "Kids",
+        "Family"
+      ],
+      "user_rating": 7.632,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-06-08",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 45666
+    },
+    {
+      "id": 45964,
+      "title": "When a Stranger Calls",
+      "type": "movie",
+      "year": 1979,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mdhpKVuuNZcc9noZzYXruxeIxdJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3dK12SaczU7Tf8btq7K2F5HQg6F.jpg",
+      "plot_overview": "A student babysitter has her evening disturbed when the phone rings. So begins a series of increasingly terrifying and threatening calls that lead to a shocking revelation.",
+      "genres": [],
+      "user_rating": 6.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1979-08-24",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 45964
     }
   ]
 }

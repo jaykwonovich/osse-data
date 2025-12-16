@@ -1,6 +1,6 @@
 {
   "range": "79001-80000",
-  "updated_at": 1765853014654,
+  "updated_at": 1765860582492,
   "shows": [
     {
       "id": 79061,
@@ -23,6 +23,12 @@
       "release_date": "2018-03-30",
       "streaming_services": [
         {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
           "service_id": 1899,
           "service_name": "Max",
           "type": "sub",
@@ -30,6 +36,59 @@
         }
       ],
       "tmdb_id": 79061
+    },
+    {
+      "id": 79086,
+      "title": "Godfather of Harlem",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/avhyzJycLNi3nXov2lREhDkP3ik.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tgH5BaWIrPGbDNnFyA4aHtamjWF.jpg",
+      "plot_overview": "Loosely based on infamous crime boss Bumpy Johnson, who in the early 1960s returned from ten years in prison to find the neighborhood he once ruled in shambles. With the streets controlled by the Italian mob, Bumpy attempts to regain his piece of Harlem.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 8.06,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-09-29",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 79086
+    },
+    {
+      "id": 79093,
+      "title": "Star Wars Resistance",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xul6SG8rar3wkHPY8YusUtxcdlZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/Ad2y46YKP2u81bsR4axajbbJKwS.jpg",
+      "plot_overview": "Kazuda Xiono, a young pilot for the Resistance, is tasked with a top secret mission to investigate the First Order, a growing threat in the galaxy.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animation",
+        "Action & Adventure"
+      ],
+      "user_rating": 6.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-10-07",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 79093
     },
     {
       "id": 79113,
@@ -50,12 +109,6 @@
       "release_date": "2011-12-03",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
           "service_id": 386,
           "service_name": "Peacock",
           "type": "sub",
@@ -63,6 +116,38 @@
         }
       ],
       "tmdb_id": 79113
+    },
+    {
+      "id": 79218,
+      "title": "Ice Age: A Mammoth Christmas",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ue5417HaDcvgMDusryenwwwZARq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fHGrJK08XuVlfiCaUkWYOn3L7QA.jpg",
+      "plot_overview": "When Sid accidentally destroys Manny's heirloom Christmas rock and ends up on Santa's naughty list, he leads a hilarious quest to the North Pole to make things right and ends up making things much worse. Now it's up to Manny and his prehistoric posse to band together and save Christmas for the entire world!",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 6.471,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-11-24",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 79218
     },
     {
       "id": 79340,
@@ -90,6 +175,32 @@
         }
       ],
       "tmdb_id": 79340
+    },
+    {
+      "id": 79356,
+      "title": "Tuca & Bertie",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vZIJVEZn9RnimJjKL370dy1bEBu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4jj1tHgDFJebTe2F9a77WMsS5zU.jpg",
+      "plot_overview": "Free-spirited toucan Tuca and self-doubting song thrush Bertie are best friends \u2013 and birds \u2013 who guide each other through life's ups and downs.",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "user_rating": 6.888,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-05-03",
+      "streaming_services": [
+        {
+          "service_id": 318,
+          "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 79356
     },
     {
       "id": 79460,
@@ -170,6 +281,38 @@
       "tmdb_id": 79588
     },
     {
+      "id": 79622,
+      "title": "Hunters",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mjsz10d1abJXZwT9b8CTgniRJh9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qiHP7bcwRVvxDoeH6PpvkwmpYyS.jpg",
+      "plot_overview": "A diverse band of Nazi Hunters living in 1977 New York City discover that hundreds of high ranking Nazi officials are living among us and conspiring to create a Fourth Reich in the U.S. The eclectic team of Hunters set out on a bloody quest to bring the Nazis to justice and thwart their new genocidal plans.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-02-20",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 79622
+    },
+    {
       "id": 79696,
       "title": "Manifest",
       "type": "tv_series",
@@ -227,6 +370,34 @@
       "next_air_date": "2026-01-06",
       "next_episode": 1,
       "relevance_score": 75
+    },
+    {
+      "id": 79788,
+      "title": "Watchmen",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fh2CStc3fKFYhkKOFyUHBGksRWj.jpg",
+      "plot_overview": "Set in an alternate history where \u201csuperheroes\u201d are treated as outlaws, \u201cWatchmen\u201d embraces the nostalgia of the original groundbreaking graphic novel while attempting to break new ground of its own.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Sci-Fi & Fantasy",
+        "Mystery"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-10-20",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 79788
     }
   ]
 }

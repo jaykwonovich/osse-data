@@ -1,7 +1,32 @@
 {
   "range": "829001-830000",
-  "updated_at": 1765853014723,
+  "updated_at": 1765860582576,
   "shows": [
+    {
+      "id": 829051,
+      "title": "About My Father",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eHcXyH207gLJCMLECRlBtXDK12X.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5pNH4IvHu4A0Fhbtecklw3QFYyY.jpg",
+      "plot_overview": "Encouraged by his girlfriend Ellie, Sebastian and his Italian immigrant father, Salvo, spend the 4th of July weekend with her wealthy and exceedingly eccentric family. The gathering soon develops into a culture clash, allowing father and son to discover the true meaning of family.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-05-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 829051
+    },
     {
       "id": 829280,
       "title": "Enola Holmes 2",
@@ -53,6 +78,31 @@
         }
       ],
       "tmdb_id": 829402
+    },
+    {
+      "id": 829410,
+      "title": "Sick",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bshCGAHZRldAfdxXDX3637PW9cR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ve3RLbCSuUKA02OZJ5F0fMmXVMn.jpg",
+      "plot_overview": "While quarantining at her family's lake house during the pandemic, Parker and her best friend are threatened by an unexpected visitor.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 6.136,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-09-11",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 829410
     }
   ]
 }

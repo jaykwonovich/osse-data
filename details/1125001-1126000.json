@@ -1,6 +1,6 @@
 {
   "range": "1125001-1126000",
-  "updated_at": 1765853014734,
+  "updated_at": 1765860582594,
   "shows": [
     {
       "id": 1125257,
@@ -20,13 +20,42 @@
       "release_date": "2025-08-06",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Theatrical",
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 1125257
+    },
+    {
+      "id": 1125899,
+      "title": "Cleaner",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2TtpJq1PbeQ36E5FnHVX4O6hVvu.jpg",
+      "plot_overview": "When a group of radical activists take over an energy company's annual gala, seizing 300 hostages, an ex-soldier turned window cleaner suspended 50 storeys up on the outside of the building must save those trapped inside, including her older brother.",
+      "genres": [],
+      "user_rating": 6.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-02-19",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1125899
     }
   ]
 }

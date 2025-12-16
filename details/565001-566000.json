@@ -1,7 +1,55 @@
 {
   "range": "565001-566000",
-  "updated_at": 1765853014708,
+  "updated_at": 1765860582555,
   "shows": [
+    {
+      "id": 565028,
+      "title": "Candyman",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qeV15PpR8jFJA9TF9JPXIoqEgp1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g1cMEQnEptUJ7Sv8SRjWBTTHyMv.jpg",
+      "plot_overview": "A Chicago artist's sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
+      "genres": [],
+      "user_rating": 6.001,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-08-25",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 565028
+    },
+    {
+      "id": 565426,
+      "title": "To All the Boys: P.S. I Still Love You",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/maib5VlmEqp5xlN8lptnBSftp2o.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/txaC2mhUhW0H0r31N6KzRTaz1rL.jpg",
+      "plot_overview": "Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.819,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-02-03",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 565426
+    },
     {
       "id": 565716,
       "title": "American Factory",
@@ -26,6 +74,61 @@
         }
       ],
       "tmdb_id": 565716
+    },
+    {
+      "id": 565743,
+      "title": "The Vast of Night",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q2P9lYkctl5Ory71HEBMaFxbVlD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lVSMgZUBE4XTVaPBEBAczre4f1W.jpg",
+      "plot_overview": "At the dawn of the space-race, two radio-obsessed teens discover a strange frequency over the airwaves in what becomes the most important night of their lives and in the history of their small town.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 6.548,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-06-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 565743
+    },
+    {
+      "id": 565770,
+      "title": "Blue Beetle",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3H9NA1KWEQN0ItL3Wl3SFZYP6yV.jpg",
+      "plot_overview": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+      "genres": [],
+      "user_rating": 6.653,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-08-16",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 565770
     }
   ]
 }

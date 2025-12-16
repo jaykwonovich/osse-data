@@ -1,6 +1,6 @@
 {
   "range": "449001-450000",
-  "updated_at": 1765853014698,
+  "updated_at": 1765860582543,
   "shows": [
     {
       "id": 449406,
@@ -30,6 +30,32 @@
       "tmdb_id": 449406
     },
     {
+      "id": 449562,
+      "title": "The Hustle",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qZniBGQRESLIfxw6GeZLZ2G1osa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/s6awXOxTKYQLSktiIJfI3969dZH.jpg",
+      "plot_overview": "Two female scam artists, one low rent and the other high class, compete to swindle a na\u00efve tech prodigy out of his fortune. A remake of the 1988 comedy \"Dirty Rotten Scoundrels.\"",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "user_rating": 6.192,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-05-09",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 449562
+    },
+    {
       "id": 449749,
       "title": "The Leisure Seeker",
       "type": "movie",
@@ -53,6 +79,54 @@
         }
       ],
       "tmdb_id": 449749
+    },
+    {
+      "id": 449756,
+      "title": "The Postcard Killings",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ugLLTEYBuNTqdQ0zCjFCJ5mI44p.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vT1hZ96uCcvv3C20d9nm90ZX1Ql.jpg",
+      "plot_overview": "After suffering a personal tragedy, and desperate for justice, Jacob Kanon, a veteran New York City police detective, embarks on the search for a twisted killer who is leaving a bloody trail of elaborate murders across Europe.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.362,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-03-13",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 449756
+    },
+    {
+      "id": 449985,
+      "title": "Triple Threat",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cSpM3QxmoSLp4O1WAMQpUDcaB7R.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AukoTjDSvjB4g0YTDxRNVwS4uFR.jpg",
+      "plot_overview": "A crime syndicate places a hit on a billionaire's daughter, making her the target of an elite assassin squad. A small band of down-and-out mercenaries protects her, fighting tooth and nail to stop the assassins from reaching their target.",
+      "genres": [],
+      "user_rating": 6.429,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-03-19",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 449985
     }
   ]
 }

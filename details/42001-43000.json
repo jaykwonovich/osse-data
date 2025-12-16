@@ -1,6 +1,6 @@
 {
   "range": "42001-43000",
-  "updated_at": 1765853014645,
+  "updated_at": 1765860582481,
   "shows": [
     {
       "id": 42009,
@@ -30,6 +30,57 @@
       "tmdb_id": 42009
     },
     {
+      "id": 42188,
+      "title": "Never Let Me Go",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+      "plot_overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.848,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-03-18",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 42188
+    },
+    {
+      "id": 42282,
+      "title": "Girls",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9O2k1lfAMes2UgrWzHVvpMJHjw.jpg",
+      "plot_overview": "The assorted humiliations, disasters and rare triumphs of four very different twenty-something girls: Hannah, an aspiring writer; Marnie, an art gallery assistant and cousins Jessa and Shoshanna.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 6.345,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-04-15",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 42282
+    },
+    {
       "id": 42297,
       "title": "Burlesque",
       "type": "movie",
@@ -53,6 +104,32 @@
         }
       ],
       "tmdb_id": 42297
+    },
+    {
+      "id": 42738,
+      "title": "Duck Dynasty",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jTXJFP9E9jo5SsGbhFs5L3WWUNX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wHzAEm93xEQ3UOGThif9GqfSOnW.jpg",
+      "plot_overview": "At first glance the Robertsons look like a typical Louisiana family who lives for duck hunting season. A closer look, however, reveals they live very well because of duck hunting season. The Robertsons own and operate Duck Commanders, which specializes in fabricating duck calls and decoys out of salvaged swamp wood. The company has grown from a mom-and-pop operation to a multimillionaire sporting empire, established in 1973 by family patriarch Phil (aka the Duck Commander) and now run by his bus",
+      "genres": [
+        "Reality",
+        "Comedy"
+      ],
+      "user_rating": 6.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-03-21",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 42738
     }
   ]
 }

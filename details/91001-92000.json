@@ -1,6 +1,6 @@
 {
   "range": "91001-92000",
-  "updated_at": 1765853014657,
+  "updated_at": 1765860582495,
   "shows": [
     {
       "id": 91239,
@@ -81,6 +81,56 @@
         }
       ],
       "tmdb_id": 91363
+    },
+    {
+      "id": 91586,
+      "title": "Insidious: Chapter 2",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i9oyhCYxIYH2082J0Rc3a3jQjRB.jpg",
+      "plot_overview": "The haunted Lambert family seeks to uncover the mysterious childhood secret that has left them dangerously connected to the spirit world.",
+      "genres": [],
+      "user_rating": 6.681,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-09-12",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 91586
+    },
+    {
+      "id": 91875,
+      "title": "Prodigal Son",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sp5BL7O4SnnTnXf9ECNrXbJQyqt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/27qMrYslAN7LGMpXWKHNm0EkVRy.jpg",
+      "plot_overview": "The son of a notorious serial killer becomes an acclaimed criminal psychologist who uses his unique insight into how killers think to help the NYPD.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 8.112,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-09-23",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 91875
     }
   ]
 }

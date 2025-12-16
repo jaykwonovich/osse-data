@@ -1,37 +1,37 @@
 {
   "range": "146001-147000",
-  "updated_at": 1765702770784,
+  "updated_at": 1765860582505,
   "shows": [
     {
-      "id": 146176,
-      "title": "Berlin",
-      "type": "tv_series",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/69YuvoiWTtK6oyYH2Jl4Q6SgZ59.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wJxZLiPbXrU601c6e9A6kYLejso.jpg",
-      "plot_overview": "During his glory days, Berlin and a gang assembled in Paris for one of his greatest plans ever: stealing 44 million euros' worth of jewels in one night.",
+      "id": 146304,
+      "title": "The Best Man Holiday",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/i4ecMHJQpclIEr4mh5uzjWr38GC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tYvexQjtcdZtxMGZsFadxBrLGaG.jpg",
+      "plot_overview": "When college friends reunite after 15 years over the Christmas holidays, they discover just how easy it is for long-forgotten rivalries and romances to be reignited.",
       "genres": [
-        "drama",
-        "action",
-        "crime"
+        "Comedy"
       ],
-      "user_rating": 7.565,
+      "user_rating": 6.5,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2023-12-29",
+      "release_date": "2013-11-15",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 146176,
-      "relevance_score": 7.7371
+      "tmdb_id": 146304
     }
   ]
 }

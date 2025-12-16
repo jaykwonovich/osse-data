@@ -1,6 +1,6 @@
 {
   "range": "259001-260000",
-  "updated_at": 1765853014678,
+  "updated_at": 1765860582519,
   "shows": [
     {
       "id": 259316,
@@ -49,6 +49,31 @@
       "tmdb_id": 259693
     },
     {
+      "id": 259694,
+      "title": "How to Be Single",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/a4Ce3qHqIyHM3QfGsiVTAu3YADJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bCakS265nbi6fYB3bwuzVLAsjsv.jpg",
+      "plot_overview": "New York City is full of lonely hearts seeking the right match, and what Alice, Robin, Lucy, Meg, Tom and David all have in common is the need to learn how to be single in a world filled with ever-evolving definitions of love.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.257,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-02-08",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 259694
+    },
+    {
       "id": 259731,
       "title": "HIS & HERS",
       "type": "tv_series",
@@ -85,7 +110,7 @@
       "next_season": 1,
       "next_air_date": "2026-01-08",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 100
     }
   ]
 }

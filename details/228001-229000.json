@@ -1,6 +1,6 @@
 {
   "range": "228001-229000",
-  "updated_at": 1765853014674,
+  "updated_at": 1765860582514,
   "shows": [
     {
       "id": 228056,
@@ -117,7 +117,7 @@
         "Comedy",
         "Family"
       ],
-      "user_rating": 7.533,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-10-01",
@@ -151,6 +151,12 @@
       "release_date": "2025-02-02",
       "streaming_services": [
         {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
           "service_id": 318,
           "service_name": "Starz",
           "type": "sub",
@@ -158,6 +164,31 @@
         }
       ],
       "tmdb_id": 228878
+    },
+    {
+      "id": 228967,
+      "title": "The Interview",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tIDC4xT65l7a8qbgg8GvwD5g8c5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rS8CR6cgTjNiBNQOUkITdeWVZ1k.jpg",
+      "plot_overview": "Dave Skylark and his producer Aaron Rapaport run the celebrity tabloid show \"Skylark Tonight\". When they land an interview with a surprise fan, North Korean dictator Kim Jong-un, they are recruited by the CIA to turn their trip to Pyongyang into an assassination mission.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.189,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-12-25",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 228967
     },
     {
       "id": 228970,
@@ -175,12 +206,6 @@
       "us_rating": null,
       "release_date": "2014-12-05",
       "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        },
         {
           "service_id": 15,
           "service_name": "Hulu",

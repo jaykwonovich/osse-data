@@ -1,31 +1,75 @@
 {
   "range": "760001-761000",
-  "updated_at": 1765853014718,
+  "updated_at": 1765860582571,
   "shows": [
     {
-      "id": 760329,
-      "title": "The Smashing Machine",
+      "id": 760104,
+      "title": "X",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vfbryKoLrisx8Xh37OaTjTyrFY0.jpg",
-      "plot_overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opioid dependence and a volatile relationship with his girlfriend Dawn.",
-      "genres": [
-        "Drama"
-      ],
-      "user_rating": 6.553,
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/70Rm9ItxKuEKN8iu6rNjfwAYUCJ.jpg",
+      "plot_overview": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+      "genres": [],
+      "user_rating": 6.734,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-10-01",
+      "release_date": "2022-03-17",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Theatrical",
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 760329
+      "tmdb_id": 760104
+    },
+    {
+      "id": 760741,
+      "title": "Beast",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/f18rGcLlawKjNC5KRh36S0mvRlY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pz7bGOUNJXyPKJ2GcJN6nhwBnCs.jpg",
+      "plot_overview": "A recently widowed man and his two teenage daughters travel to a game reserve in South Africa. However, their journey of healing soon turns into a fight for survival when a bloodthirsty lion starts to stalk them.",
+      "genres": [],
+      "user_rating": 6.545,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-08-11",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 760741
+    },
+    {
+      "id": 760926,
+      "title": "Gold",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/c0r75XaNHA4QMlDcitEscQW2Fn6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5Ou7l7iA3Ud2DzCmwU3OgqU8jIx.jpg",
+      "plot_overview": "In the not-too-distant future, two drifters traveling through the desert stumble across the biggest gold nugget ever found and the dream of immense wealth and greed takes hold. They hatch a plan to excavate their bounty, with one man leaving to secure the necessary tools while the other remains with the gold. The man who remains must endure harsh desert elements, ravenous wild dogs, and mysterious intruders, while battling the sinking suspicion that he has been abandoned to his fate.",
+      "genres": [],
+      "user_rating": 6.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-01-13",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 760926
     }
   ]
 }

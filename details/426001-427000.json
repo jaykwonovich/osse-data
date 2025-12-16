@@ -1,22 +1,42 @@
 {
   "range": "426001-427000",
-  "updated_at": 1765702770797,
+  "updated_at": 1765860582541,
   "shows": [
+    {
+      "id": 426063,
+      "title": "Nosferatu",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fYnEbgoNCxW9kL0IgOgtJb9JTBU.jpg",
+      "plot_overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "genres": [],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-12-25",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 426063
+    },
     {
       "id": 426543,
       "title": "The Nutcracker and the Four Realms",
       "type": "movie",
       "year": 2018,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/9vPDY8e7YxLwgVum7YZIUJbr4qc.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/l2ji4YiNSPBV69WjGBgU0gCvRqy.jpg",
       "plot_overview": "When Clara\u2019s mother leaves her a mysterious gift, she embarks on a journey to four secret realms\u2014where she discovers her greatest strength could change the world.",
       "genres": [
-        "fantasy",
-        "adventure",
-        "family"
+        "Family"
       ],
-      "user_rating": 6.088,
+      "user_rating": 6.089,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-10-26",
@@ -28,10 +48,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 426543,
-      "relevance_score": 9.6677
+      "tmdb_id": 426543
     }
   ]
 }

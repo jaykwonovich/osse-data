@@ -1,35 +1,59 @@
 {
   "range": "115001-116000",
-  "updated_at": 1765830970601,
+  "updated_at": 1765860582500,
   "shows": [
     {
-      "id": 115972,
-      "title": "Love & Hip Hop: Secrets Unlocked",
+      "id": 115004,
+      "title": "Mare of Easttown",
       "type": "tv_series",
       "year": 2021,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yKGUaoIDY8zRvwjPthOpUthkWzV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/geMhAFj82iWEDn43XI25xxkXwVS.jpg",
-      "plot_overview": "Love & Hip Hop cast members from the New York, Atlanta, Hollywood and Miami series react to unseen footage and spill tea about the shows' most unforgettable moments.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7X1IGIl1JMJ9YFzJymCVoqZbvTR.jpg",
+      "plot_overview": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.",
       "genres": [
-        "reality"
+        "Drama",
+        "Mystery",
+        "Crime"
       ],
-      "user_rating": 8.0,
+      "user_rating": 8.189,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2021-01-04",
+      "release_date": "2021-04-18",
       "streaming_services": [
         {
-          "service_id": 531,
-          "service_name": "Paramount+",
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 115972,
-      "relevance_score": 0.0679
+      "tmdb_id": 115004
+    },
+    {
+      "id": 115036,
+      "title": "The Book of Boba Fett",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oMWnpUUCeIqvTdP3IYZ0JnPdrmU.jpg",
+      "plot_overview": "Legendary bounty hunter Boba Fett and mercenary Fennec Shand must navigate the galaxy\u2019s underworld when they return to the sands of Tatooine to stake their claim on the territory once ruled by Jabba the Hutt and his crime syndicate.",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.515,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-12-29",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 115036
     }
   ]
 }

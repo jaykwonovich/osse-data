@@ -1,22 +1,17 @@
 {
   "range": "572001-573000",
-  "updated_at": 1765702700579,
+  "updated_at": 1765860582556,
   "shows": [
     {
       "id": 572802,
       "title": "Aquaman and the Lost Kingdom",
       "type": "movie",
       "year": 2023,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7S0bXv3BqCuPfImKRf5kkmBVYZR.jpg",
       "plot_overview": "Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Arthur (Aquaman) forges an alliance with his imprisoned brother. They must protect the kingdom.",
-      "genres": [
-        "action",
-        "adventure",
-        "fantasy"
-      ],
-      "user_rating": 6.565,
+      "genres": [],
+      "user_rating": 6.564,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-12-20",
@@ -26,12 +21,15 @@
           "service_name": "Netflix",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 572802,
-      "relevance_score": 9.2976
+      "tmdb_id": 572802
     }
   ]
 }

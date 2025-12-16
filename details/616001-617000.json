@@ -1,7 +1,32 @@
 {
   "range": "616001-617000",
-  "updated_at": 1765853014711,
+  "updated_at": 1765860582560,
   "shows": [
+    {
+      "id": 616037,
+      "title": "Thor: Love and Thunder",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+      "plot_overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher\u2019s vengeance and stop him before it\u2019s too late.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.39,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-07-06",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 616037
+    },
     {
       "id": 616251,
       "title": "The Broken Hearts Gallery",
@@ -26,6 +51,55 @@
         }
       ],
       "tmdb_id": 616251
+    },
+    {
+      "id": 616651,
+      "title": "Stillwater",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1lrPR7ah1KElPKnCsxmIRE1OlIh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/70xJCPOvP16XnrtO9WSkCek12sv.jpg",
+      "plot_overview": "Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 6.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-07-29",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 616651
+    },
+    {
+      "id": 616820,
+      "title": "Halloween Ends",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q06saepaXeBdkMibuN4R2fXmgIw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aTovumsNlDjof7YVoU5nW2RHaYn.jpg",
+      "plot_overview": "Four years after the events of Halloween in 2018, Laurie has decided to liberate herself from fear and rage and embrace life. But when a young man is accused of killing a boy he was babysitting, it ignites a cascade of violence and terror that will force Laurie to finally confront the evil she can\u2019t control, once and for all.",
+      "genres": [],
+      "user_rating": 6.065,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-10-12",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 616820
     }
   ]
 }

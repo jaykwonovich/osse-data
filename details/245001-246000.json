@@ -1,6 +1,6 @@
 {
   "range": "245001-246000",
-  "updated_at": 1765853014676,
+  "updated_at": 1765860582517,
   "shows": [
     {
       "id": 245026,
@@ -81,6 +81,32 @@
       "tmdb_id": 245219
     },
     {
+      "id": 245312,
+      "title": "A Man on the Inside",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/c09XdTLpLku2tqHt158NZBgC4hi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6EObfIe4akZGvCLXwXLJw3kPitQ.jpg",
+      "plot_overview": "A retired professor with a knack for snooping gets a new lease on life when a private investigator recruits him to go undercover and crack a case.",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "user_rating": 7.488,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-11-21",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 245312
+    },
+    {
       "id": 245827,
       "title": "Harlan Coben's Lazarus",
       "type": "tv_series",
@@ -104,29 +130,6 @@
         }
       ],
       "tmdb_id": 245827
-    },
-    {
-      "id": 245891,
-      "title": "John Wick",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
-      "plot_overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-      "genres": [],
-      "user_rating": 7.453,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-10-22",
-      "streaming_services": [
-        {
-          "service_id": 0,
-          "service_name": "Theatrical",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 245891
     }
   ]
 }

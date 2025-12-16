@@ -1,6 +1,6 @@
 {
   "range": "297001-298000",
-  "updated_at": 1765853014683,
+  "updated_at": 1765860582526,
   "shows": [
     {
       "id": 297005,
@@ -57,7 +57,7 @@
       "next_season": 1,
       "next_air_date": "2026-01-14",
       "next_episode": 1,
-      "relevance_score": 75,
+      "relevance_score": 100,
       "service_name": "Hulu",
       "service_id": 15,
       "prediction_source": "gemini",
@@ -172,6 +172,56 @@
       "tmdb_id": 297270
     },
     {
+      "id": 297556,
+      "title": "Justice League: Throne of Atlantis",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iaYZA8teYeIxmR8wRrEED5wwR0u.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ltlPFTMRsohmi2QbbSZUkAVg7Nc.jpg",
+      "plot_overview": "After the events of Justice League: War, Ocean Master and Black Manta have declared a war against the surface in retaliation of the aftermath of Apokoliptian-tyrant Darkseid's planetary invasion. Queen Atlanna seeks out her other son, Ocean Master\u2019s half-brother Arthur Curry, a half-human with aquatic powers with no knowledge of his Atlantean heritage, to restore balance.  Living with powers he doesn\u2019t understand and seeing the danger around him, Curry takes steps to embrace his destiny, joining",
+      "genres": [
+        "Animation"
+      ],
+      "user_rating": 6.988,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-01-13",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 297556
+    },
+    {
+      "id": 297608,
+      "title": "The Taking of Deborah Logan",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xqhTXB86dkKe4jalwUFIjiFgaYB.jpg",
+      "plot_overview": "What starts as a poignant medical documentary about Deborah Logan's descent into Alzheimer's disease and her daughter's struggles as caregiver degenerates into a maddening portrayal of dementia at its most frightening, as hair-raising events begin to plague the family and crew and an unspeakable malevolence threatens to tear the very fabric of sanity from them all.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 6.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-10-21",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 297608
+    },
+    {
       "id": 297664,
       "title": "No King Stands Alone",
       "type": "tv_series",
@@ -205,7 +255,7 @@
       "next_season": 1,
       "next_air_date": "2025-12-28",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 100
     },
     {
       "id": 297762,
@@ -263,7 +313,30 @@
       "next_season": 1,
       "next_air_date": "2026-01-05",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 100
+    },
+    {
+      "id": 297802,
+      "title": "Aquaman",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
+      "plot_overview": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
+      "genres": [],
+      "user_rating": 6.871,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-12-07",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 297802
     }
   ]
 }

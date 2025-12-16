@@ -1,6 +1,6 @@
 {
   "range": "50001-51000",
-  "updated_at": 1765853014647,
+  "updated_at": 1765860582483,
   "shows": [
     {
       "id": 50032,
@@ -45,6 +45,12 @@
       "release_date": "2014-04-14",
       "streaming_services": [
         {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
           "service_id": 9,
           "service_name": "Prime Video",
           "type": "sub",
@@ -80,27 +86,104 @@
       "tmdb_id": 50348
     },
     {
-      "id": 50619,
-      "title": "The Twilight Saga: Breaking Dawn - Part 1",
+      "id": 50456,
+      "title": "Hanna",
       "type": "movie",
       "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hBwDYiOPwXHuwiYGP82ekFNSeBr.jpg",
-      "plot_overview": "Bella Swan and Edward Cullen's honeymoon phase is abruptly disrupted by betrayals and unforeseen tragedies that endanger their world.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gRvxRMtejJa9jjfDDUibUIfIJbP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qq39KWLKBBJmOtj54grO58XyoXG.jpg",
+      "plot_overview": "Raised by her father, an ex-CIA agent, in the wilds of Finland, Hanna's upbringing has been geared to making her the perfect assassin. Sent into the world by her father on a mission, Hanna journeys across Europe, eluding agents dispatched after her by a ruthless intelligence operative. As she nears her ultimate target, Hanna faces startling revelations about her existence.",
       "genres": [],
-      "user_rating": 6.193,
+      "user_rating": 6.589,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2011-11-16",
+      "release_date": "2011-04-07",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Theatrical",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 50619
+      "tmdb_id": 50456
+    },
+    {
+      "id": 50544,
+      "title": "Friends with Benefits",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nKhhDFCdzxeJ3GUunQ570LDpUkz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p5HKeRbNRTZL2tvFhmXF8oVL1y6.jpg",
+      "plot_overview": "Dylan is done with relationships. Jamie decides to stop buying into the Hollywood clich\u00e9s of true love. When the two become friends they decide to try something new and take advantage of their mutual attraction - but without any emotional attachment.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.65,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-07-21",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 50544
+    },
+    {
+      "id": 50825,
+      "title": "Sleepy Hollow",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2RHj62XneYMCRPAyQrEIrKVij12.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jHkeqXYUU4khZEig88AFLMUOmep.jpg",
+      "plot_overview": "Ichabod Crane is resurrected and pulled two and a half centuries through time to unravel a mystery that dates all the way back to the founding fathers.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.425,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-09-16",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 50825
+    },
+    {
+      "id": 50837,
+      "title": "Martha Marcy May Marlene",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bgB4sa9UfCyGdamfKAZXyEWuAwR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eN60BXsEWxFfgatPpYbGMVO5qdM.jpg",
+      "plot_overview": "After several years of living with a cult, Martha finally escapes and calls her estranged sister, Lucy, for help. Martha finds herself at the quiet Connecticut home Lucy shares with her new husband, Ted, but the memories of what she experienced in the cult make peace hard to find. As flashbacks continue to torment her, Martha fails to shake a terrible sense of dread, especially in regard to the cult's manipulative leader.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.586,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-10-21",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 50837
     }
   ]
 }

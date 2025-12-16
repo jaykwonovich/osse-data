@@ -1,6 +1,6 @@
 {
   "range": "17001-18000",
-  "updated_at": 1765853014640,
+  "updated_at": 1765860582471,
   "shows": [
     {
       "id": 17159,
@@ -104,6 +104,31 @@
       "tmdb_id": 17379
     },
     {
+      "id": 17445,
+      "title": "Green Lantern: First Flight",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ii48ohKJrDPyrGGOBVJ8XSxr5Xk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/olCndjowxDs7YZrXm9OtT8vQ0Hb.jpg",
+      "plot_overview": "Test pilot Hal Jordan finds himself recruited as the newest member of the intergalactic police force, The Green Lantern Corps.",
+      "genres": [
+        "Animation"
+      ],
+      "user_rating": 6.953,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-07-28",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 17445
+    },
+    {
       "id": 17463,
       "title": "Kid vs. Kat",
       "type": "tv_series",
@@ -187,6 +212,33 @@
       "tmdb_id": 17814
     },
     {
+      "id": 17880,
+      "title": "Because of Winn-Dixie",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/k2zDrIqMFi8944h3BbBAQfsBn9h.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/A7DkuH1XcN9DKITdVdpRIwh7aVN.jpg",
+      "plot_overview": "A girl, abandoned by her mother when she was three, moves to a small town in Florida with her father. There, she adopts an orphaned dog she names Winn-Dixie. The bond between the girl and her special companion brings together the people in a small Florida town and heals her own troubled relationship with her father.",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.455,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2005-02-18",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 17880
+    },
+    {
       "id": 17937,
       "title": "Ghost Adventures",
       "type": "tv_series",
@@ -207,9 +259,73 @@
           "service_name": "Disney+",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 17937
+    },
+    {
+      "id": 17967,
+      "title": "Treme",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/k4pV1FUccFmmbz9DwUON7KWT0gi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/f1Zj0KJpaead6cUoOkpWZblMyET.jpg",
+      "plot_overview": "Trem\u00e9 takes its name from a neighborhood of New Orleans and portrays life in the aftermath of the 2005 hurricane. Beginning three months after Hurricane Katrina, the residents of New Orleans, including musicians, chefs, Mardi Gras Indians, and other New Orleanians struggle to rebuild their lives, their homes and their unique culture.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-04-11",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 17967
+    },
+    {
+      "id": 17979,
+      "title": "A Christmas Carol",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/goHDZUnqZJ7FN4h48Qh6MzJNExl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lSZUjoDoTDpmQzngjkOY4P9JqcM.jpg",
+      "plot_overview": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Drama"
+      ],
+      "user_rating": 6.897,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-11-04",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 17979
     }
   ]
 }

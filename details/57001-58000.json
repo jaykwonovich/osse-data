@@ -1,7 +1,33 @@
 {
   "range": "57001-58000",
-  "updated_at": 1765853014649,
+  "updated_at": 1765860582485,
   "shows": [
+    {
+      "id": 57120,
+      "title": "Meek's Cutoff",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jxjLpZseFdzMBvGfTscTTpM94Yk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hhD6lRCScoPd0k9VWTq4kYP8ToX.jpg",
+      "plot_overview": "A group of settlers traveling through the Oregon High Desert in 1845 find themselves stranded in harsh conditions.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "user_rating": 6.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-04-08",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 57120
+    },
     {
       "id": 57158,
       "title": "The Hobbit: The Desolation of Smaug",
@@ -24,6 +50,43 @@
         }
       ],
       "tmdb_id": 57158
+    },
+    {
+      "id": 57532,
+      "title": "PAW Patrol",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+      "plot_overview": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
+      "genres": [
+        "Animation",
+        "Kids"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-08-12",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 57532,
+      "is_returning": true,
+      "next_season": 12,
+      "next_air_date": "2025-12-17",
+      "next_episode": 8,
+      "relevance_score": 75
     },
     {
       "id": 57586,
@@ -49,6 +112,65 @@
         }
       ],
       "tmdb_id": 57586
+    },
+    {
+      "id": 57736,
+      "title": "The Musketeers",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6kOMlk4hlavwO5L82eLdklN0fm5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nkPWqWZQ84WtbUY5RktSPPrNdWO.jpg",
+      "plot_overview": "Set in 17th century Paris, musketeers Athos, Porthos, Aramis and D'Artagnan are members of an elite band of soldiers who fight for what is just. They are heroes in the truest and most abiding sense \u2013 men that can be trusted and believed in to do the right thing, regardless of personal risk.",
+      "genres": [
+        "Drama",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-01-19",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 57736
+    },
+    {
+      "id": 57800,
+      "title": "Ice Age: Continental Drift",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kyTlMMVWo1GffYoQctZwLqJcwaj.jpg",
+      "plot_overview": "Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 6.387,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-06-27",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 57800
     }
   ]
 }

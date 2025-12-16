@@ -1,6 +1,6 @@
 {
   "range": "294001-295000",
-  "updated_at": 1765853014682,
+  "updated_at": 1765860582525,
   "shows": [
     {
       "id": 294019,
@@ -59,7 +59,7 @@
       "next_season": 1,
       "next_air_date": "2026-02-01",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 100
     },
     {
       "id": 294219,
@@ -88,6 +88,29 @@
       "tmdb_id": 294219
     },
     {
+      "id": 294254,
+      "title": "Maze Runner: The Scorch Trials",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4mcOCiR06dqQ5eoEJcG3zvonjOa.jpg",
+      "plot_overview": "Thomas and his fellow Gladers face their greatest challenge yet: searching for clues about the mysterious and powerful organization known as WCKD. Their journey takes them to the Scorch, a desolate landscape filled with unimaginable obstacles. Teaming up with resistance fighters, the Gladers take on WCKD\u2019s vastly superior forces and uncover its shocking plans for them all.",
+      "genres": [],
+      "user_rating": 6.734,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-09-09",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 294254
+    },
+    {
       "id": 294679,
       "title": "Shark Quest: Hunt For The Apex Predator",
       "type": "tv_series",
@@ -111,6 +134,31 @@
         }
       ],
       "tmdb_id": 294679
+    },
+    {
+      "id": 294793,
+      "title": "All the Old Knives",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/g4tMniKxol1TBJrHlAtiDjjlx4Q.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xicKILMzPn6XZYCOpWwaxlUzg6S.jpg",
+      "plot_overview": "When the CIA discovers one of its agents leaked information that cost more than 100 people their lives, veteran operative Henry Pelham is assigned to root out the mole with his former lover and colleague Celia Harrison.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 6.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-04-08",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 294793
     },
     {
       "id": 294862,
@@ -168,6 +216,32 @@
         }
       ],
       "tmdb_id": 294895
+    },
+    {
+      "id": 294963,
+      "title": "Bone Tomahawk",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/orXMq2jZy8wFmePv7zXS2Kor7Ug.jpg",
+      "plot_overview": "During a shootout in a saloon, Sheriff Hunt injures a suspicious stranger. The doctor's assistant, wife of the local foreman, tends to him in prison. That night, the town is attacked and they both disappear\u2014only the arrow of a cannibal tribe is found. Hunt and a few of his men go in search of the prisoner and the foreman's wife.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "user_rating": 6.879,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-10-23",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 294963
     }
   ]
 }

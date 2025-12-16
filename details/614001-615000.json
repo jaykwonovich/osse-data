@@ -1,6 +1,6 @@
 {
   "range": "614001-615000",
-  "updated_at": 1765853014711,
+  "updated_at": 1765860582560,
   "shows": [
     {
       "id": 614409,
@@ -27,6 +27,29 @@
         }
       ],
       "tmdb_id": 614409
+    },
+    {
+      "id": 614479,
+      "title": "Insidious: The Red Door",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/d07phJqCx6z5wILDYqkyraorDPi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i2GVEvltEu3BXn5crBSxgKuTaca.jpg",
+      "plot_overview": "To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.",
+      "genres": [],
+      "user_rating": 6.528,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-07-05",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 614479
     },
     {
       "id": 614917,
@@ -80,6 +103,29 @@
       "tmdb_id": 614930
     },
     {
+      "id": 614933,
+      "title": "Atlas",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3TNSoa0UHGEzEz5ndXGjJVKo8RJ.jpg",
+      "plot_overview": "A brilliant counterterrorism analyst with a deep distrust of AI discovers it might be her only hope when a mission to capture a renegade robot goes awry.",
+      "genres": [],
+      "user_rating": 6.701,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-05-23",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 614933
+    },
+    {
       "id": 614934,
       "title": "Elvis",
       "type": "movie",
@@ -103,6 +149,31 @@
         }
       ],
       "tmdb_id": 614934
+    },
+    {
+      "id": 614939,
+      "title": "Bros",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6iFBzZ3LjmlE83pHok03Z9QPkAB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mezKuuKtAKPENnAVlT3TghkMACv.jpg",
+      "plot_overview": "Two emotionally unavailable men attempt a relationship.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-09-30",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 614939
     }
   ]
 }

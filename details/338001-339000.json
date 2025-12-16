@@ -1,31 +1,75 @@
 {
   "range": "338001-339000",
-  "updated_at": 1765853014689,
+  "updated_at": 1765860582532,
   "shows": [
     {
-      "id": 338969,
-      "title": "The Toxic Avenger Unrated",
+      "id": 338947,
+      "title": "Hellraiser",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cCWojb6N9UcTzNVtS4bOM3vQ30x.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ewxiPfbKklk9FJZ2ECsDyJDQjvX.jpg",
-      "plot_overview": "When a downtrodden janitor, Winston Gooze, is exposed to a catastrophic toxic accident, he\u2019s transformed into a new kind of hero: The Toxic Avenger. Now, Toxie must rise from outcast to savior, taking on ruthless corporate overlords and corrupt forces who threaten his son, his friends, and his community.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 6.099,
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3r3tZgKTw1554hcFoUfydLHE38w.jpg",
+      "plot_overview": "A young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension.",
+      "genres": [],
+      "user_rating": 6.17,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-08-28",
+      "release_date": "2022-09-28",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Theatrical",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 338969
+      "tmdb_id": 338947
+    },
+    {
+      "id": 338952,
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i3rRY0EKYhSpyOLRAQ7iB05zhAp.jpg",
+      "plot_overview": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause\u2014elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even",
+      "genres": [],
+      "user_rating": 6.842,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-11-14",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 338952
+    },
+    {
+      "id": 338953,
+      "title": "Fantastic Beasts: The Secrets of Dumbledore",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg",
+      "plot_overview": "Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.",
+      "genres": [],
+      "user_rating": 6.633,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-04-06",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 338953
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "37001-38000",
-  "updated_at": 1765853014644,
+  "updated_at": 1765860582478,
   "shows": [
     {
       "id": 37135,
@@ -43,7 +43,7 @@
         "Sci-Fi & Fantasy",
         "Comedy"
       ],
-      "user_rating": 8.544,
+      "user_rating": 8.545,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-05-03",
@@ -87,6 +87,57 @@
         }
       ],
       "tmdb_id": 37680
+    },
+    {
+      "id": 37786,
+      "title": "Sex and the City 2",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iHSRxhZsPaVuLCivvV6WEkMVGWU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g43Is0hLn5QKUZeCw1XY4t2r0hd.jpg",
+      "plot_overview": "Carrie, Charlotte, and Miranda are all married now, but they're still up for a little fun in the sun. When Samantha gets the chance to visit one of the most extravagant vacation destinations on the planet and offers to bring them all along, they surmise that a women-only retreat may be the perfect excuse to eschew their responsibilities and remember what life was like before they decided to settle down.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.08,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-05-26",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 37786
+    },
+    {
+      "id": 37834,
+      "title": "Knight and Day",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/a7JmOBMNj5erYTgt4u1mQgvHItu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k5mNW8qutywD3GhAuaq33qcQR2y.jpg",
+      "plot_overview": "A fugitive couple goes on a glamorous and sometimes deadly adventure where nothing and no one \u2013 even themselves \u2013 are what they seem. Amid shifting alliances and unexpected betrayals, they race across the globe, with their survival ultimately hinging on the battle of truth vs. trust.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.225,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-06-15",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 37834
     }
   ]
 }

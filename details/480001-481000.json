@@ -1,7 +1,34 @@
 {
   "range": "480001-481000",
-  "updated_at": 1765853014701,
+  "updated_at": 1765860582546,
   "shows": [
+    {
+      "id": 480001,
+      "title": "The Art of Self-Defense",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bTq793Qwl3tCXb94zrDPAwppbsC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cUkpSTVt0iUbIVFDxvUGs747OMW.jpg",
+      "plot_overview": "Casey is attacked at random on the street and enlists in a local dojo led by a charismatic and mysterious Sensei in an effort to learn how to defend himself. What he uncovers is a sinister world of fraternity, violence and hypermasculinity and a woman fighting for her place in it.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 6.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-07-12",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 480001
+    },
     {
       "id": 480530,
       "title": "Creed II",
@@ -26,6 +53,31 @@
         }
       ],
       "tmdb_id": 480530
+    },
+    {
+      "id": 480857,
+      "title": "Radioactive",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/akHIQu8W3rOgT28r25ggXaKcQIr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iFFC0ILEzcCGI8fJzixI9lI5n8o.jpg",
+      "plot_overview": "The story of Nobel Prize winner Marie Curie and her extraordinary scientific discoveries\u2014through the prism of her marriage to husband Pierre\u2014and the seismic and transformative effects their discovery of radium had on the 20th century.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.575,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-03-11",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 480857
     }
   ]
 }

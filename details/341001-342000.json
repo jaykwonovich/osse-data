@@ -1,19 +1,40 @@
 {
   "range": "341001-342000",
-  "updated_at": 1765702770782,
+  "updated_at": 1765860582532,
   "shows": [
+    {
+      "id": 341013,
+      "title": "Atomic Blonde",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g3hni0i9iAQ13jDGOFWavJFlojc.jpg",
+      "plot_overview": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+      "genres": [],
+      "user_rating": 6.431,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-07-26",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 341013
+    },
     {
       "id": 341174,
       "title": "Fifty Shades Darker",
       "type": "movie",
       "year": 2017,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/w3qa274gvca9t8pkUoG8nfQgTU3.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/16aJtXO6lObbBUr11IvkjB1QD1f.jpg",
       "plot_overview": "When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian\u2019s past start to circle the couple, determined to destroy their hopes for a future together.",
       "genres": [
-        "drama",
-        "romance"
+        "Drama"
       ],
       "user_rating": 6.475,
       "critic_score": null,
@@ -27,10 +48,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 341174,
-      "relevance_score": 6.3439
+      "tmdb_id": 341174
     }
   ]
 }

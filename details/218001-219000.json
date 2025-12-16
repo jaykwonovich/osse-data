@@ -1,40 +1,57 @@
 {
   "range": "218001-219000",
-  "updated_at": 1765841231963,
+  "updated_at": 1765860582512,
   "shows": [
     {
-      "id": 218557,
-      "title": "Portobello",
+      "id": 218589,
+      "title": "Those About to Die",
       "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7bKJLDysKBGJDVjBJMH2FnsumS0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mMzgvqMgcpJOCaeJdytrbWuaLfx.jpg",
-      "plot_overview": "During the height of his success, Enzo Tortora is arrested by the Italian police in his hotel room in what is only the beginning of the tragic downfall of an innocent man, and an odyssey that will drag Tortora from the heights to the abyss.",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vX71TGviqLsOtDNJ9q1QR4m14kH.jpg",
+      "plot_overview": "Within the spectacular, complex and corrupt world of gladiatorial sports in Ancient Rome, follow an ensemble of diverse characters across the many layers of Roman society where sports, politics and business intersect and collide.",
       "genres": [
-        "Drama",
-        "Crime"
+        "Drama"
       ],
-      "user_rating": 0.0,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2026-02-20",
+      "release_date": "2024-07-18",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
-      "production_companies": [
-        "Our Films",
-        "Kavac Film",
-        "ARTE"
+      "tmdb_id": 218589
+    },
+    {
+      "id": 218778,
+      "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pxbAepXQjsGFDHaR3dPndFSxDU0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fPnt0FJwd7iXEf0wUI1EB6a8952.jpg",
+      "plot_overview": "Alexander's day begins with gum stuck in his hair, followed by more calamities. Though he finds little sympathy from his family and begins to wonder if bad things only happen to him, his mom, dad, brother, and sister all find themselves living through their own terrible, horrible, no good, very bad day.",
+      "genres": [
+        "Family",
+        "Comedy"
       ],
-      "networks": [
-        "HBO Max"
+      "user_rating": 6.205,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-10-08",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
       ],
-      "tmdb_id": 218557
+      "tmdb_id": 218778
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "306001-307000",
-  "updated_at": 1765853014685,
+  "updated_at": 1765860582528,
   "shows": [
     {
       "id": 306492,
@@ -30,7 +30,7 @@
       "next_season": 1,
       "next_air_date": "2026-01-21",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 100
     },
     {
       "id": 306517,
@@ -66,7 +66,7 @@
       "next_season": 1,
       "next_air_date": "2025-12-29",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 100
     },
     {
       "id": 306657,
@@ -102,7 +102,7 @@
       "next_season": 1,
       "next_air_date": "2026-01-13",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 100
     },
     {
       "id": 306697,
@@ -136,7 +136,7 @@
       "next_season": 1,
       "next_air_date": "2025-12-19",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 100
     },
     {
       "id": 306745,
@@ -191,7 +191,7 @@
       "next_season": 1,
       "next_air_date": "2026-01-21",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 100
     },
     {
       "id": 306918,
@@ -221,11 +221,34 @@
       "next_season": 1,
       "next_air_date": "2026-01-14",
       "next_episode": 1,
-      "relevance_score": 75,
+      "relevance_score": 100,
       "service_name": "Peacock",
       "service_id": 386,
       "prediction_source": "gemini",
       "prediction_confidence": 0.85
+    },
+    {
+      "id": 306947,
+      "title": "The Invitation",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/UT0FaX3djSmvphvDopomPNWXIQ.jpg",
+      "plot_overview": "Will and his new girlfriend Kira are invited to a dinner with old friends at the house of Will\u2019s ex Eden and her new partner David. Although the evening appears to be relaxed, Will soon gets a creeping suspicion that their charming host David is up to something.",
+      "genres": [],
+      "user_rating": 6.426,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-04-08",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 306947
     }
   ]
 }
