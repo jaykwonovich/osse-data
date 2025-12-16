@@ -1,36 +1,55 @@
 {
   "range": "1034001-1035000",
-  "updated_at": 1765830970638,
+  "updated_at": 1765853014731,
   "shows": [
     {
       "id": 1034541,
       "title": "Terrifier 3",
       "type": "movie",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ju10W5gl3PPK3b7TjEmVOZap51I.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/18TSJF1WLA4CkymvVUcKDBwUJ9F.jpg",
       "plot_overview": "Five years after surviving Art the Clown's Halloween massacre, Sienna and Jonathan are still struggling to rebuild their shattered lives. As the holiday season approaches, they try to embrace the Christmas spirit and leave the horrors of the past behind. But just when they think they're safe, Art returns, determined to turn their holiday cheer into a new nightmare. The festive season quickly unravels as Art unleashes his twisted brand of terror, proving that no holiday is safe.",
-      "genres": [
-        "horror",
-        "thriller"
-      ],
+      "genres": [],
       "user_rating": 6.813,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-10-09",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1034541,
-      "relevance_score": 14.3631
+      "tmdb_id": 1034541
+    },
+    {
+      "id": 1034716,
+      "title": "People We Meet on Vacation",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6OY74xKj4HMSNebYlmLYIdnSbHv.jpg",
+      "plot_overview": "After a decade as unlikely best friends and travel buddies, free-spirited Poppy and routine-loving Alex wonder if they might be a perfect romantic match.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-01-08",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1034716
     }
   ]
 }

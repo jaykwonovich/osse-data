@@ -1,7 +1,30 @@
 {
   "range": "6001-7000",
-  "updated_at": 1765842560030,
+  "updated_at": 1765853014633,
   "shows": [
+    {
+      "id": 6114,
+      "title": "Bram Stoker's Dracula",
+      "type": "movie",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/n39glC4GkBeCbwdenES8ZBodim8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/88S6EYQBVyQktDfSqsB33I169jN.jpg",
+      "plot_overview": "Centuries-old vampire Count Dracula travels to Victorian London, where he becomes obsessed with Mina Murray\u2014the fianc\u00e9e of his solicitor, Jonathan Harker\u2014believing her to be the reincarnation of his long-lost love.",
+      "genres": [],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1992-11-13",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 6114
+    },
     {
       "id": 6357,
       "title": "The Twilight Zone",
@@ -28,6 +51,59 @@
         }
       ],
       "tmdb_id": 6357
+    },
+    {
+      "id": 6396,
+      "title": "SLC Punk",
+      "type": "movie",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7u3IZPuIOPjICi55K7cJgzV3e3B.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wihjnnTf6C2VReQgKKINCdzfjby.jpg",
+      "plot_overview": "Two former geeks become 1980s punks, then party and go to concerts while deciding what to do with their lives.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.112,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1998-09-24",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 6396
+    },
+    {
+      "id": 6620,
+      "title": "Sabrina",
+      "type": "movie",
+      "year": 1954,
+      "poster_url": "https://image.tmdb.org/t/p/w342/86ix9wBxiMAaISt4HpmXQm6Mlym.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oXTzokKufEGDcX7q5Cwoxlhmqxx.jpg",
+      "plot_overview": "Linus and David Larrabee are the two sons of a very wealthy family. Linus is all work \u2013 busily running the family corporate empire, he has no time for a wife and family. David is all play \u2013 technically he is employed by the family business, but never shows up for work, spends all his time entertaining, and has been married and divorced three times. Meanwhile, Sabrina Fairchild is the young, shy, and awkward daughter of the household chauffeur, who goes away to Paris for two years, and returns to",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1954-09-01",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 6620
     }
   ]
 }

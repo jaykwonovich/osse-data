@@ -1,55 +1,22 @@
 {
   "range": "520001-521000",
-  "updated_at": 1765702700553,
+  "updated_at": 1765853014705,
   "shows": [
     {
-      "id": 520758,
-      "title": "Chicken Run: Dawn of the Nugget",
+      "id": 520172,
+      "title": "Happiest Season",
       "type": "movie",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/exNtEY8QUuQh9e23wSQjkPxKIU3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
-      "plot_overview": "A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that's cooking up something suspicious.",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vzec9kkOSE93tygyfOktedkeOQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jOWgFmD1H5t6nL7ChbmX8oDFUZl.jpg",
+      "plot_overview": "A young woman's plans to propose to her girlfriend while at her family's annual holiday party are upended when she discovers her partner hasn't yet come out to her conservative parents.",
       "genres": [
-        "family",
-        "animation",
-        "adventure",
-        "comedy"
+        "Comedy"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.111,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2023-12-08",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 520758,
-      "relevance_score": 10.3609
-    },
-    {
-      "id": 520900,
-      "title": "The Personal History of David Copperfield",
-      "type": "movie",
-      "year": 2019,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2epgo9k2Jrs7qrTL1Rork1mDSKT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/udMUwcH9UBxwjvpRD3f0ExEJq89.jpg",
-      "plot_overview": "A fresh and distinctive take on Charles Dickens\u2019 semi-autobiographical masterpiece, The Personal History of David Copperfield, set in the 1840s, chronicles the life of its iconic title character as he navigates a chaotic world to find his elusive place within it. From his unhappy childhood to the discovery of his gift as a storyteller and writer, David\u2019s journey is by turns hilarious and tragic, but always full of life, colour and humanity.",
-      "genres": [
-        "comedy"
-      ],
-      "user_rating": 6.419,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2019-11-07",
+      "release_date": "2020-11-26",
       "streaming_services": [
         {
           "service_id": 15,
@@ -58,10 +25,55 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 520900,
-      "relevance_score": 9.2105
+      "tmdb_id": 520172
+    },
+    {
+      "id": 520594,
+      "title": "John Mulaney: Kid Gorgeous at Radio City",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fERO7sktbElVbGS1SGDKzQJWxtn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vDNRa1QAQqExIzmaYpGlkZw1vGL.jpg",
+      "plot_overview": "John Mulaney relays stories from his childhood and \"SNL,\" eviscerates the value of college and laments getting older in this electric comedy special.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.902,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-05-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 520594
+    },
+    {
+      "id": 520763,
+      "title": "A Quiet Place Part II",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/am782sUaTOGcEPEdUUjybwUZP1f.jpg",
+      "plot_overview": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+      "genres": [],
+      "user_rating": 7.449,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-05-21",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 520763
     }
   ]
 }

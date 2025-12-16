@@ -1,22 +1,73 @@
 {
   "range": "597001-598000",
-  "updated_at": 1765830970625,
+  "updated_at": 1765853014710,
   "shows": [
+    {
+      "id": 597219,
+      "title": "The Half of It",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8YSpQBdGvuvSj9pLsY2yoUb9fZn.jpg",
+      "plot_overview": "Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who needs help wooing the most popular girl in school. But their new and unlikely friendship gets tricky when Ellie discovers she has feelings for the same girl.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.084,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-05-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 597219
+    },
+    {
+      "id": 597316,
+      "title": "My Little Pony: A New Generation",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uvbj8puRj37Pc8FS4rIfVeReYFF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sw9Fa0IWFNv95heaS81mJmojV7Z.jpg",
+      "plot_overview": "Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals \u2014 and, hoof to heart, she\u2019s determined to prove it.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 7.712,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-09-22",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 597316
+    },
     {
       "id": 597922,
       "title": "The Greatest Beer Run Ever",
       "type": "movie",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ggf37TpcKaxwguhvtNn6MQpyqBn.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7bjaAcbrJDVvdF2Uew6rGp9Tp05.jpg",
       "plot_overview": "Chickie wants to support his friends fighting in Vietnam, so he does something wild\u2014personally bring them American beer. What starts as a well-meaning journey quickly changes Chickie's life and perspective.",
       "genres": [
-        "drama",
-        "comedy",
-        "war"
+        "Drama",
+        "Comedy"
       ],
-      "user_rating": 7.531,
+      "user_rating": 7.529,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-09-23",
@@ -28,10 +79,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 597922,
-      "relevance_score": 3.6773
+      "tmdb_id": 597922
     }
   ]
 }

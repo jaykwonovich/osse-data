@@ -1,7 +1,32 @@
 {
   "range": "282001-283000",
-  "updated_at": 1765842560062,
+  "updated_at": 1765853014680,
   "shows": [
+    {
+      "id": 282297,
+      "title": "Cowspiracy: The Sustainability Secret",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lzU2Qr2qTdPTB33aiaMTwSLULnY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7KYqBgUtQGInqHVEMRnlyneuCpA.jpg",
+      "plot_overview": "Follow the shocking, yet humorous, journey of an aspiring environmentalist, as he daringly seeks to find the real solution to the most pressing environmental issues and true path to sustainability.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.626,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-07-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 282297
+    },
     {
       "id": 282647,
       "title": "Heart of the Dawn: Inferno",
@@ -25,7 +50,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 282647
+      "tmdb_id": 282647,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-09",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 282723,
@@ -52,7 +82,12 @@
       "networks": [
         "Inspire!"
       ],
-      "tmdb_id": 282723
+      "tmdb_id": 282723,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-09",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 282842,
@@ -77,7 +112,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 282842
+      "tmdb_id": 282842,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-23",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

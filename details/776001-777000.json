@@ -1,20 +1,17 @@
 {
   "range": "776001-777000",
-  "updated_at": 1765830970629,
+  "updated_at": 1765853014720,
   "shows": [
     {
       "id": 776503,
       "title": "CODA",
       "type": "movie",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
       "plot_overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
       "genres": [
-        "drama",
-        "music",
-        "romance"
+        "Drama"
       ],
       "user_rating": 7.904,
       "critic_score": null,
@@ -28,10 +25,44 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 776503,
-      "relevance_score": 6.6012
+      "tmdb_id": 776503
+    },
+    {
+      "id": 776527,
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1LYWnmr5K3Hs3XEZ323bY0dBZsK.jpg",
+      "plot_overview": "During the same summer as Woodstock, over 300,000 people attended the Harlem Cultural Festival, celebrating African American music and culture, and promoting Black pride and unity. The footage from the festival sat in a basement, unseen for over 50 years, keeping this incredible event in America's history lost \u2014 until now.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-07-02",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 776527
     }
   ]
 }

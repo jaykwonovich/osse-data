@@ -1,7 +1,32 @@
 {
   "range": "244001-245000",
-  "updated_at": 1765842560058,
+  "updated_at": 1765853014676,
   "shows": [
+    {
+      "id": 244001,
+      "title": "Bo Burnham: What.",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kGDpMWPOKStmvf4F1gkqfeFZmXA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/prYkevCcHxZ9jEG4G1WSQup2mIA.jpg",
+      "plot_overview": "Left brain and right brain duke it out and then belt out a tune in comedian Bo Burnham's quick and clever one-man show. As intelligent as he is lanky, Burnham cynically pokes at pop entertainment while offering unadulterated showmanship of his own.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.84,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-12-17",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 244001
+    },
     {
       "id": 244244,
       "title": "Run Away",
@@ -33,7 +58,12 @@
       "networks": [
         "Netflix"
       ],
-      "tmdb_id": 244244
+      "tmdb_id": 244244,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-01",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 244416,
@@ -86,6 +116,31 @@
         }
       ],
       "tmdb_id": 244447
+    },
+    {
+      "id": 244786,
+      "title": "Whiplash",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1kuYEvLkX2nTkbfzN6X0w0xQFQU.jpg",
+      "plot_overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 8.375,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-10-10",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 244786
     }
   ]
 }

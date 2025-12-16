@@ -1,22 +1,45 @@
 {
   "range": "870001-871000",
-  "updated_at": 1765830970631,
+  "updated_at": 1765853014725,
   "shows": [
+    {
+      "id": 870028,
+      "title": "The Accountant\u00b2",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
+      "plot_overview": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
+      "genres": [
+        "Mystery",
+        "Crime"
+      ],
+      "user_rating": 7.123,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-04-23",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 870028
+    },
     {
       "id": 870360,
       "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
       "type": "movie",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/s2lB1kaYCdGSnZX5meQCiOR6HfX.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5U3VLeWr2H4Nd3G7IkHItFimsIz.jpg",
       "plot_overview": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)...that is if they don't drive each other crazy in the process.",
       "genres": [
-        "family",
-        "comedy",
-        "adventure",
-        "animation",
-        "sci-fi"
+        "Family",
+        "Comedy",
+        "Animation"
       ],
       "user_rating": 7.676,
       "critic_score": null,
@@ -24,16 +47,13 @@
       "release_date": "2024-08-01",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
+          "service_id": 0,
+          "service_name": "Theatrical",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 870360,
-      "relevance_score": 14.7435
+      "tmdb_id": 870360
     }
   ]
 }

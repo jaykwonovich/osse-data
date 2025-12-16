@@ -1,21 +1,43 @@
 {
   "range": "638001-639000",
-  "updated_at": 1765702700588,
+  "updated_at": 1765853014712,
   "shows": [
+    {
+      "id": 638449,
+      "title": "The Last Letter from Your Lover",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AmzVV7kqds8BJBXwnQtx5YpqFdU.jpg",
+      "plot_overview": "A young journalist in London becomes obsessed with a series of letters she discovers that recounts an intense star-crossed love affair from the 1960s.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.375,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-07-23",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 638449
+    },
     {
       "id": 638507,
       "title": "How to Train Your Dragon: Homecoming",
       "type": "movie",
       "year": 2019,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/kXj2Qrfm994yLeuADqbOieU1mUH.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lI2AHx0QQrNnEkUqUG01QHUdLDW.jpg",
       "plot_overview": "It's been ten years since the dragons moved to the Hidden World, and even though Toothless doesn't live in New Berk anymore, Hiccup continues the holiday traditions he once shared with his best friend. But the Vikings of New Berk were beginning to forget about their friendship with dragons. Hiccup, Astrid, and Gobber know just what to do to keep the dragons in the villagers' hearts. And across the sea, the dragons have a plan of their own...",
       "genres": [
-        "animation",
-        "fantasy",
-        "adventure",
-        "family"
+        "Animation",
+        "Family"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -29,41 +51,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 638507,
-      "relevance_score": 10.2303
-    },
-    {
-      "id": 638974,
-      "title": "Murder Mystery 2",
-      "type": "movie",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AwB7HGeDTrBGkP2WEnNwg8Wa0E4.jpg",
-      "plot_overview": "After starting their own detective agency, Nick and Audrey Spitz land a career-making case when their billionaire pal is kidnapped from his wedding.",
-      "genres": [
-        "mystery",
-        "comedy",
-        "crime"
-      ],
-      "user_rating": 6.391,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2023-03-28",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 638974,
-      "relevance_score": 9.7949
+      "tmdb_id": 638507
     }
   ]
 }

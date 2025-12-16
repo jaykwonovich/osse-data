@@ -1,7 +1,32 @@
 {
   "range": "289001-290000",
-  "updated_at": 1765842560063,
+  "updated_at": 1765853014681,
   "shows": [
+    {
+      "id": 289222,
+      "title": "The Zookeeper's Wife",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rE6W3KHdIuTdgRDLOOOMR3gfGgc.jpg",
+      "plot_overview": "The account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.319,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-03-24",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 289222
+    },
     {
       "id": 289411,
       "title": "LEGO Star Wars: Rebuild the Galaxy - Pieces of the Past",
@@ -49,8 +74,8 @@
       "release_date": "2026-02-23",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 531,
+          "service_name": "Paramount+",
           "type": "sub",
           "region": "US"
         }
@@ -63,7 +88,16 @@
       "networks": [
         "CBS"
       ],
-      "tmdb_id": 289560
+      "tmdb_id": 289560,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-02-23",
+      "next_episode": 1,
+      "relevance_score": 75,
+      "service_name": "Paramount+",
+      "service_id": 531,
+      "prediction_source": "gemini",
+      "prediction_confidence": 0.95
     }
   ]
 }

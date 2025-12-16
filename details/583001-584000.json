@@ -1,19 +1,17 @@
 {
   "range": "583001-584000",
-  "updated_at": 1765702700570,
+  "updated_at": 1765853014709,
   "shows": [
     {
       "id": 583083,
       "title": "The Kissing Booth 2",
       "type": "movie",
       "year": 2020,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bXdCpL1A1mW2sEBiTmYYFnb10XN.jpg",
       "plot_overview": "With college decisions looming, Elle juggles her long-distance romance with Noah, changing relationship with bestie Lee and feelings for a new classmate.",
       "genres": [
-        "comedy",
-        "romance"
+        "Comedy"
       ],
       "user_rating": 7.618,
       "critic_score": null,
@@ -27,23 +25,18 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 583083,
-      "relevance_score": 7.2973
+      "tmdb_id": 583083
     },
     {
       "id": 583406,
       "title": "Judas and the Black Messiah",
       "type": "movie",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fatz1aegtBGh7KS0gipcsw9MqUn.jpg",
       "plot_overview": "Bill O'Neal infiltrates the Black Panthers on the orders of FBI Agent Mitchell and J. Edgar Hoover. As Black Panther Chairman Fred Hampton ascends\u2014falling for a fellow revolutionary en route\u2014a battle wages for O\u2019Neal\u2019s soul.",
       "genres": [
-        "drama",
-        "history"
+        "Drama"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -57,10 +50,33 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 583406,
-      "relevance_score": 8.5866
+      "tmdb_id": 583406
+    },
+    {
+      "id": 583689,
+      "title": "Moxie",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aLBo1Ca9PggcWY98ItW5ZkdxTuA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aKIrKbszS7Kq0aTGTCRTYMp1EDX.jpg",
+      "plot_overview": "Inspired by her mom's rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-03-03",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 583689
     }
   ]
 }

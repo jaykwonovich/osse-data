@@ -1,79 +1,19 @@
 {
   "range": "1327001-1328000",
-  "updated_at": 1765651619787,
+  "updated_at": 1765853014743,
   "shows": [
-    {
-      "id": 1327182,
-      "title": "Untitled Pretentious Piggy Prequel",
-      "type": "movie",
-      "year": 2025,
-      "end_year": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "Untitled prequel to the critically acclaimed film \"The Grooks II\"",
-      "genres": [
-        "drama"
-      ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-12-31",
-      "streaming_services": [
-        {
-          "service_id": 0,
-          "service_name": "Coming Soon",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1327182,
-      "relevance_score": 0.0071
-    },
-    {
-      "id": 1327184,
-      "title": "Untitled I29 Entertainment Western",
-      "type": "movie",
-      "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uy1CnXYrGfRPZXnjAU4WOOOsAR5.jpg",
-      "backdrop_url": null,
-      "plot_overview": "Untitled project in production by I29 Entertainment",
-      "genres": [
-        "drama"
-      ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-12-31",
-      "streaming_services": [
-        {
-          "service_id": 0,
-          "service_name": "Coming Soon",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1327184,
-      "relevance_score": 0.0
-    },
     {
       "id": 1327819,
       "title": "Hoppers",
       "type": "movie",
       "year": 2026,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/12tvpCv413QvvJlZGf4lRq446tT.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "plot_overview": "Scientists have discovered how to \"hop\" human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world that are beyond anything she could have imagined.",
       "genres": [
-        "family",
-        "comedy",
-        "animation",
-        "sci-fi"
+        "Family",
+        "Comedy",
+        "Animation"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -82,15 +22,37 @@
       "streaming_services": [
         {
           "service_id": 0,
-          "service_name": "Coming Soon",
+          "service_name": "Theatrical",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1327819,
-      "relevance_score": 7.1641
+      "tmdb_id": 1327819
+    },
+    {
+      "id": 1327862,
+      "title": "Regretting You",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
+      "plot_overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.063,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-22",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1327862
     }
   ]
 }

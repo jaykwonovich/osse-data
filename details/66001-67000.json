@@ -1,6 +1,6 @@
 {
   "range": "66001-67000",
-  "updated_at": 1765842560039,
+  "updated_at": 1765853014651,
   "shows": [
     {
       "id": 66025,
@@ -33,6 +33,39 @@
         }
       ],
       "tmdb_id": 66025
+    },
+    {
+      "id": 66125,
+      "title": "Red Dog",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cbLh0tVqjqcDnob7w79XkIQ7gGI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wNJAXms3tiKSZ5Q9H5LPa3PkgPA.jpg",
+      "plot_overview": "The legendary true story of the Red Dog who united a disparate local community while roaming the Australian outback in search of his long lost master.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-08-04",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 66125
     },
     {
       "id": 66573,
@@ -85,7 +118,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 66732
+      "tmdb_id": 66732,
+      "is_returning": true,
+      "next_season": 5,
+      "next_air_date": "2025-12-25",
+      "next_episode": 5,
+      "relevance_score": 75
     },
     {
       "id": 66786,

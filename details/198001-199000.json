@@ -1,6 +1,6 @@
 {
   "range": "198001-199000",
-  "updated_at": 1765842560053,
+  "updated_at": 1765853014670,
   "shows": [
     {
       "id": 198102,
@@ -31,7 +31,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 198102
+      "tmdb_id": 198102,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-01-14",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 198178,
@@ -65,7 +70,63 @@
       "networks": [
         "Disney+"
       ],
-      "tmdb_id": 198178
+      "tmdb_id": 198178,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-27",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 198277,
+      "title": "Begin Again",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qx4HXHXt528hS4rwePZbZo20xqZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xrSRmL6pXnRfu9vKwayILkNgLP.jpg",
+      "plot_overview": "Gretta, a budding songwriter, finds herself alone after her boyfriend Dave ditches her. Her life gains purpose when Dan, a record label executive, notices her talent.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-06-27",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 198277
+    },
+    {
+      "id": 198663,
+      "title": "The Maze Runner",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
+      "plot_overview": "A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 7.191,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-09-10",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 198663
     }
   ]
 }

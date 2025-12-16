@@ -1,6 +1,6 @@
 {
   "range": "304001-305000",
-  "updated_at": 1765842560066,
+  "updated_at": 1765853014684,
   "shows": [
     {
       "id": 304806,
@@ -20,8 +20,8 @@
       "release_date": "2026-01-18",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 365,
+          "service_name": "MGM+",
           "type": "sub",
           "region": "US"
         }
@@ -32,7 +32,16 @@
       "networks": [
         "MGM+"
       ],
-      "tmdb_id": 304806
+      "tmdb_id": 304806,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-18",
+      "next_episode": 1,
+      "relevance_score": 75,
+      "service_name": "MGM+",
+      "service_id": 365,
+      "prediction_source": "gemini",
+      "prediction_confidence": 1.0
     },
     {
       "id": 304995,

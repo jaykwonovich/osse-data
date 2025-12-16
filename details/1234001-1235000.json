@@ -1,37 +1,54 @@
 {
   "range": "1234001-1235000",
-  "updated_at": 1765830970647,
+  "updated_at": 1765853014739,
   "shows": [
+    {
+      "id": 1234731,
+      "title": "Anaconda",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/93yXJVBBC04mhgv5FlZRT8Zyofp.jpg",
+      "plot_overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-12-24",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1234731
+    },
     {
       "id": 1234821,
       "title": "Jurassic World Rebirth",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fQOV47FHTJdaSuSUNlzP3zXUZWE.jpg",
       "plot_overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
-      "genres": [
-        "sci-fi",
-        "adventure",
-        "action"
-      ],
+      "genres": [],
       "user_rating": 6.379,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-07-01",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 0,
+          "service_name": "Theatrical",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1234821,
-      "relevance_score": 50.6527
+      "tmdb_id": 1234821
     }
   ]
 }

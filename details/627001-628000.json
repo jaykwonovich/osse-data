@@ -1,47 +1,69 @@
 {
   "range": "627001-628000",
-  "updated_at": 1765830970625,
+  "updated_at": 1765853014712,
   "shows": [
     {
-      "id": 627463,
-      "title": "The Assistant",
+      "id": 627070,
+      "title": "Tell Me Who I Am",
       "type": "movie",
-      "year": 2020,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fFJQYhnjKfgweZCbRNOE1E015DF.jpg",
-      "plot_overview": "A searing look at a day in the life of an assistant to a powerful executive. As Jane follows her daily routine, she grows increasingly aware of the insidious abuse that threatens every aspect of her position.",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oMfiD7wjdwRxPSdZ7gz7iNO3Z0B.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p4u1TYHqpIsmoNFy5eF53CxMY2i.jpg",
+      "plot_overview": "In this documentary, Alex trusts his twin, Marcus, to tell him about his past after he loses his memory. But Marcus is hiding a dark family secret.",
       "genres": [
-        "drama"
+        "Documentary",
+        "Drama",
+        "Mystery"
       ],
-      "user_rating": 6.294,
+      "user_rating": 7.352,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2020-01-31",
+      "release_date": "2019-10-18",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 627463,
-      "relevance_score": 9.5512
+      "tmdb_id": 627070
+    },
+    {
+      "id": 627469,
+      "title": "The Magical Christmas Shoes",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9lD7bAkjiKCSZjcoCGwfz4NcCNo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p936ueRc2uVAZ2taJP7Zmvam3Lp.jpg",
+      "plot_overview": "A pair of magical shoes step into Kayla Hummel\u2019s holiday season, allowing her to rediscover her Christmas spirit and find love too.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-11-22",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 627469
     },
     {
       "id": 627725,
       "title": "The Banker",
       "type": "movie",
       "year": 2020,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/biXzsw22U6vSd0XktmZwAOc4uik.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3ciAiEBD4yxZYoXMxEnZF6Q0u58.jpg",
       "plot_overview": "In the 1960s, two entrepreneurs hatch an ingenious business plan to fight for housing integration\u2014and equal access to the American Dream.",
       "genres": [
-        "drama"
+        "Drama"
       ],
       "user_rating": 7.638,
       "critic_score": null,
@@ -55,10 +77,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 627725,
-      "relevance_score": 3.5509
+      "tmdb_id": 627725
     }
   ]
 }

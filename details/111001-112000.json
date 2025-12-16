@@ -1,6 +1,6 @@
 {
   "range": "111001-112000",
-  "updated_at": 1765842560048,
+  "updated_at": 1765853014661,
   "shows": [
     {
       "id": 111110,
@@ -26,7 +26,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 111110
+      "tmdb_id": 111110,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-03-10",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 111803,
@@ -54,6 +59,44 @@
         }
       ],
       "tmdb_id": 111803
+    },
+    {
+      "id": 111969,
+      "title": "Stuck in Love",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/byic4VFVrpPyjDWK54CcsxYWW85.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/so5jtbB00IiW3dKbeI5JTdGNmK2.jpg",
+      "plot_overview": "An acclaimed writer, his ex-wife, and their teenaged children come to terms with the complexities of love in all its forms over the course of one tumultuous year.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-06-14",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 111969
     }
   ]
 }

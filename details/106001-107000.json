@@ -1,6 +1,6 @@
 {
   "range": "106001-107000",
-  "updated_at": 1765842560047,
+  "updated_at": 1765853014660,
   "shows": [
     {
       "id": 106158,
@@ -52,7 +52,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 106379
+      "tmdb_id": 106379,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2025-12-16",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 106388,
@@ -107,6 +112,33 @@
         }
       ],
       "tmdb_id": 106454
+    },
+    {
+      "id": 106646,
+      "title": "The Wolf of Wall Street",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+      "plot_overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 8.026,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-12-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 106646
     },
     {
       "id": 106925,

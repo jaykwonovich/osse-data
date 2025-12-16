@@ -1,23 +1,150 @@
 {
   "range": "13001-14000",
-  "updated_at": 1765830970573,
+  "updated_at": 1765853014637,
   "shows": [
+    {
+      "id": 13020,
+      "title": "Enron: The Smartest Guys in the Room",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zezeOElCxlPui9SFGj5ToZ4W1Nh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4enh5oCykgbpNiLTEYsnjZJhYVb.jpg",
+      "plot_overview": "A documentary about the Enron corporation, its faulty and corrupt business practices, and how they led to its fall.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.168,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2005-04-22",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13020
+    },
+    {
+      "id": 13042,
+      "title": "Presto",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1RMMyEkRPHvVxPDvhFmmw6xbcIb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aDMoJ8NlpyzWblxUnscHKCafvjP.jpg",
+      "plot_overview": "Dignity. Poise. Mystery. We expect nothing less from the great turn-of-the-century magician, Presto. But when Presto neglects to feed his rabbit one too many times, the magician finds he isn't the only one with a few tricks up his sleeve!",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 7.786,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-06-27",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13042
+    },
+    {
+      "id": 13060,
+      "title": "Lifted",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mh7VBbGPbGEITEPSSyRWQVO6HVW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/13CqQIOwZ0dkAxgzL7W4VcJLDAg.jpg",
+      "plot_overview": "When an overconfident teen alien gets behind the controls of a spaceship, he must attempt to abduct a slumbering farmer under the watchful eye of a critical instructor. But abducting humans requires precision and a gentle touch, and within a few missteps it's painfully clear why more humans don't go missing every year.",
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy"
+      ],
+      "user_rating": 7.456,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2006-12-28",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13060
+    },
+    {
+      "id": 13180,
+      "title": "Zeitgeist: Addendum",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5zlBxoyWRyzPOHO7QmmAC1WG9bK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/usAD0Fwx7pInwJtHwKiJnssp4iZ.jpg",
+      "plot_overview": "Zeitgeist: Addendum premiered at the 5th Annual Artivist Film Festival. Director Peter Joseph stated: \"The failure of our world to resolve the issues of war, poverty, and corruption, rests within a gross ignorance about what guides human behavior to begin with. It address the true source of the instability in our society, while offering the only fundamental, long-term solution.\"",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.232,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-10-02",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13180
+    },
+    {
+      "id": 13183,
+      "title": "Watchmen",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hfWsEZRTpqSfzofIhjjy7VL4o61.jpg",
+      "plot_overview": "In a gritty and alternate 1985, the glory days of costumed vigilantes have been brought to a close by a government crackdown. But after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so they uncover a sinister plot that puts all of humanity in grave danger.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-03-04",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13183
+    },
     {
       "id": 13187,
       "title": "A Charlie Brown Christmas",
       "type": "movie",
       "year": 1965,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/n2h4lBtZnYuRwSagKoFTSzVO9jp.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ucWnzjWWWd6CmRal8J3tWz6m1A7.jpg",
       "plot_overview": "When Charlie Brown complains about the overwhelming materialism that he sees amongst everyone during the Christmas season, Lucy suggests that he become director of the school Christmas pageant. Charlie Brown accepts, but it is a frustrating struggle. When an attempt to restore the proper spirit with a forlorn little fir Christmas tree fails, he needs Linus' help to learn the meaning of Christmas.",
       "genres": [
-        "animation",
-        "family",
-        "comedy",
-        "tv_movie"
+        "Animation",
+        "Family",
+        "Comedy"
       ],
-      "user_rating": 7.681,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1965-12-09",
@@ -29,25 +156,19 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 13187,
-      "relevance_score": 6.077
+      "tmdb_id": 13187
     },
     {
       "id": 13189,
       "title": "A Christmas Carol",
       "type": "movie",
       "year": 1984,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/m3T3iLdE6J5PrqvvP0XNHBvM2bm.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1WQ4bHXzS7DpGppkS2PcpFvpY7T.jpg",
       "plot_overview": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.",
       "genres": [
-        "drama",
-        "fantasy",
-        "tv_movie",
-        "family"
+        "Drama",
+        "Family"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -59,27 +180,28 @@
           "service_name": "Hulu",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 13189,
-      "relevance_score": 12.2451
+      "tmdb_id": 13189
     },
     {
       "id": 13353,
       "title": "It's the Great Pumpkin, Charlie Brown",
       "type": "movie",
       "year": 1966,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/k7F9aj6Vmz8rJ9lcm2mIgUiWDWV.jpg",
       "plot_overview": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle.",
       "genres": [
-        "family",
-        "animation",
-        "tv_movie",
-        "comedy"
+        "Family",
+        "Animation",
+        "Comedy"
       ],
       "user_rating": 7.483,
       "critic_score": null,
@@ -93,24 +215,96 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 13353,
-      "relevance_score": 3.7701
+      "tmdb_id": 13353
+    },
+    {
+      "id": 13363,
+      "title": "The Man from Earth",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/V086R82gNgWrotaXZFO4JhdgB1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gt4EnUGbbGbNOX0q47YII3WxB48.jpg",
+      "plot_overview": "A departing professor gathers his closest colleagues for an intimate farewell, but the night takes an unexpected turn when he shares a stunning secret about his past. As the conversation unfolds, skepticism and curiosity collide, challenging everything they thought they knew about history, science, and belief.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.627,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-06-10",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13363
+    },
+    {
+      "id": 13364,
+      "title": "Deliver Us from Evil",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4FSBT712p6OwawSqLCkloNSqMaM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4dZ88NOFhz2Ja5XQzwfyS7f18LF.jpg",
+      "plot_overview": "Documentary filmmaker Amy Berg investigates the life of 30-year pedophile Father Oliver O'Grady and exposes the corruption inside the Catholic Church that allowed him to abuse countless children. Victims' stories and a disturbing interview with O'Grady offer a view into the troubled mind of the spiritual leader who moved from parish to parish gaining trust ... all the while betraying so many.",
+      "genres": [
+        "Crime",
+        "Documentary"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2006-06-24",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13364
+    },
+    {
+      "id": 13368,
+      "title": "White Christmas",
+      "type": "movie",
+      "year": 1954,
+      "poster_url": "https://image.tmdb.org/t/p/w342/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uChOlEWqFwxwJ3eZP9eQj2yqczd.jpg",
+      "plot_overview": "Two talented song-and-dance men team up after the war to become one of the hottest acts in show business. In time they befriend and become romantically involved with the beautiful Haynes sisters who comprise a sister act.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.191,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1954-10-14",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13368
     },
     {
       "id": 13377,
       "title": "How the Grinch Stole Christmas!",
       "type": "movie",
       "year": 1966,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/7ir0iRuPK9OEuH569cp0nF5CJce.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1Q5b34cge5nClCpamxf3HkU18W1.jpg",
       "plot_overview": "Bitter and hateful, the Grinch is irritated at the thought of a nearby village having a happy time celebrating Christmas. Disguised as Santa Claus, with his dog made to look like a reindeer, he decides to raid the village to steal all the Christmas things.",
       "genres": [
-        "animation",
-        "family",
-        "comedy"
+        "Animation",
+        "Family",
+        "Comedy"
       ],
       "user_rating": 7.498,
       "critic_score": null,
@@ -124,30 +318,181 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 13377,
-      "relevance_score": 14.2931
+      "tmdb_id": 13377
     },
     {
-      "id": 13455,
-      "title": "Push",
+      "id": 13400,
+      "title": "Santa Claus Is Comin' to Town",
+      "type": "movie",
+      "year": 1970,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8BYZEKB0BQkbniS1WRzPaU38cmp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4byysN0CjC1vabe8bSGzPZWGU8Y.jpg",
+      "plot_overview": "A postman, S.D. Kluger, decides to answer some of the most common questions about Santa Claus, and tells us about a baby named Kris who is raised by a family of elf toymakers named Kringle. When Kris grows up, he wants to deliver toys to the children of Sombertown. But its Mayor is too mean to let that happen. And to make things worse, the Winter Warlock lives between the Kringles and Sombertown.",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 7.069,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1970-12-13",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13400
+    },
+    {
+      "id": 13413,
+      "title": "BURN\u00b7E",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1wOReJq1vArLBSejND2Jbw0KeKh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gaLg3gpoJScDNfkDw4itX79Gi8x.jpg",
+      "plot_overview": "What lengths will a robot undergo to do his job? BURN\u00b7E is a dedicated hard working robot who finds himself locked out of his ship. BURN\u00b7E quickly learns that completing a simple task can often be a very difficult endeavor.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 7.495,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-11-17",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13413
+    },
+    {
+      "id": 13446,
+      "title": "Withnail & I",
+      "type": "movie",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/i18cIp8A10A2JgByrfA9oIC9299.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bOgKCymrdPHPHozhRBNr9XhVD87.jpg",
+      "plot_overview": "Two out-of-work actors -- the anxious, luckless Marwood and his acerbic, alcoholic friend, Withnail -- spend their days drifting between their squalid flat, the unemployment office and the pub. When they take a holiday \"by mistake\" at the country house of Withnail's flamboyantly gay uncle, Monty, they encounter the unpleasant side of the English countryside: tedium, terrifying locals and torrential rain.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1987-06-19",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13446
+    },
+    {
+      "id": 13475,
+      "title": "Star Trek",
       "type": "movie",
       "year": 2009,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fHStfRjQGstuqtUz4Q22lbFU58M.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uQ5xARQz6BiKlppKCBnKmkfW76m.jpg",
-      "plot_overview": "After his father, an assassin, is brutally murdered, Nick Gant vows revenge on Division, the covert government agency that dabbles in psychic warfare and experimental drugs. Hiding in Hong Kong's underworld, Nick assembles a band of rogue psychics dedicated to destroying Division. Together with Cassie, a teenage clairvoyant, Nick goes in search of a missing girl and a stolen suitcase that could be the key to accomplishing their mutual goal.",
-      "genres": [
-        "sci-fi",
-        "action",
-        "adventure",
-        "thriller"
-      ],
-      "user_rating": 6.145,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cqXEwYFcwyKPZCKl1jAPaG3cMsl.jpg",
+      "plot_overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+      "genres": [],
+      "user_rating": 7.428,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2009-02-04",
+      "release_date": "2009-05-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13475
+    },
+    {
+      "id": 13479,
+      "title": "A Charlie Brown Thanksgiving",
+      "type": "movie",
+      "year": 1973,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+      "plot_overview": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to b",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1973-11-20",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13479
+    },
+    {
+      "id": 13494,
+      "title": "Red Sonja",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xSD0q1FiuZkvHuy7uscOLbmd1hR.jpg",
+      "plot_overview": "A young girl rises from the ashes of tragedy to become the most feared warrior woman of all time: the She-Devil with a Sword.",
+      "genres": [],
+      "user_rating": 5.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-07-31",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13494
+    },
+    {
+      "id": 13562,
+      "title": "My Man Godfrey",
+      "type": "movie",
+      "year": 1936,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wtfOW7fIxBZWY78rvUoPpWhMSiR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/96cNUk1Uj8fQcmbOTnpBauUdqzC.jpg",
+      "plot_overview": "Fifth Avenue socialite Irene Bullock needs a \"forgotten man\" to win a scavenger hunt, and no one is more forgotten than Godfrey Park, who resides in a dump by the East River. Irene hires Godfrey as a servant for her riotously unhinged family, to the chagrin of her spoiled sister, Cornelia, who tries her best to get Godfrey fired. As Irene falls for her new butler, Godfrey turns the tables and teaches the frivolous Bullocks a lesson or two.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.548,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1936-09-02",
       "streaming_services": [
         {
           "service_id": 9,
@@ -156,27 +501,61 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 13455,
-      "relevance_score": 13.0263
+      "tmdb_id": 13562
     },
     {
-      "id": 13796,
-      "title": "Underbelly",
-      "type": "tv_series",
-      "year": 2008,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/x6BQ3YYR4Xe4LsOkhazqxKprQ3O.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hoBZ9iuA8ejjIHN9RIvHI5mPWd0.jpg",
-      "plot_overview": "Underbelly is an Australian television true crime-drama series, each series is a stand alone story based on real-life events.",
+      "id": 13597,
+      "title": "Labyrinth",
+      "type": "movie",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/92tb8mgjgL1S2KwrZezyPHPkQ3R.jpg",
+      "plot_overview": "When Sarah is forced to babysit her half-brother Toby, she inadvertently summons the Goblin King who whisks Toby away to his castle at the center of a labyrinth. Sarah enters into a bargain with the Goblin King where she is given just thirteen hours to solve the labyrinth and rescue Toby, or else lose him forever.",
       "genres": [
-        "drama"
+        "Family"
       ],
-      "user_rating": 6.3,
+      "user_rating": 7.275,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2008-02-13",
+      "release_date": "1986-06-27",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13597
+    },
+    {
+      "id": 13830,
+      "title": "Shottas",
+      "type": "movie",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/chh2xSTVtMCFyFePm1zRbBmtqaX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8ErH7koBjggT4etFO23IQ3ZZ1BI.jpg",
+      "plot_overview": "A raw urban drama about two friends raised on the dangerous streets of Kingston, Jamaica. Biggs and Wayne take on the \"Shotta\" way of life to survive. As young boys, they begin a life of crime, eventually moving to the US where they begin a ruthless climb from the bottom. They remain bound to each other by their shottas loyalty as they aggressively take control of the Jamaican underworld.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.633,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2002-02-27",
       "streaming_services": [
         {
           "service_id": 9,
@@ -185,72 +564,217 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 13796,
-      "relevance_score": 31.9472
+      "tmdb_id": 13830
     },
     {
-      "id": 13859,
-      "title": "The Rifleman",
-      "type": "tv_series",
-      "year": 1958,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tYf5Sc83chWG2nBlo5xKdpBBwlI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4zZ0VjYxGERjhf5FdTuB0Y215Pi.jpg",
-      "plot_overview": "The Rifleman is an American Western television program starring Chuck Connors as rancher Lucas McCain and Johnny Crawford as his son, Mark McCain. It was set in the 1880s in the town of North Fork, New Mexico Territory. The show was filmed in black-and-white, half-hour episodes. \"The Rifleman\" aired on ABC from September 30, 1958 to April 8, 1963 as a production of Four Star Television. It was one of the first prime time series to have a widowed parent raise a child.",
+      "id": 13920,
+      "title": "Radio",
+      "type": "movie",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uQ6ci4iFHhB6TWB2f4wftR7AEly.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wDln5edQPFYMeKvakkYCLUXOPRP.jpg",
+      "plot_overview": "In the racially divided town of Anderson, South Carolina in 1976, football coach Harold Jones spots a mentally disabled African-American young man nicknamed Radio near his practice field and is inspired to befriend him. Soon, Radio is Jones' loyal assistant, and he becomes a student at T.L. Hanna High School. But things start to sour when Coach Jones begins taking guff from parents and fans who feel that his devotion to Radio is getting in the way of the team's quest for a championship.",
       "genres": [
-        "action",
-        "western",
-        "family"
+        "Drama"
       ],
-      "user_rating": 7.082,
+      "user_rating": 7.303,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1958-09-30",
+      "release_date": "2003-10-24",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 13859,
-      "relevance_score": 14.4353
+      "tmdb_id": 13920
     },
     {
-      "id": 13916,
-      "title": "Death Note",
-      "type": "tv_series",
-      "year": 2006,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mOlEbXcb6ufRJKogI35KqsSlCfB.jpg",
-      "plot_overview": "Light Yagami is an ace student with great prospects\u2014and he\u2019s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+      "id": 13925,
+      "title": "Luxo Jr.",
+      "type": "movie",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/as8xF0wOawngZ1G3qg5gs0VQea3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eIYhSbmr8MGpEzWRRKDqojOl7Ha.jpg",
+      "plot_overview": "A baby lamp finds a ball to play with and it's all fun and games until the ball bursts. Just when the elder Luxo thinks his kid will settle down for a bit, Luxo Jr. finds a ball ten times bigger.",
       "genres": [
-        "animation",
-        "mystery",
-        "sci-fi"
+        "Animation",
+        "Comedy"
       ],
-      "user_rating": 8.6,
+      "user_rating": 7.033,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2006-10-04",
+      "release_date": "1986-08-17",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 13916,
-      "relevance_score": 20.2281
+      "tmdb_id": 13925
+    },
+    {
+      "id": 13928,
+      "title": "Knick Knack",
+      "type": "movie",
+      "year": 1989,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ouk2QFv4NySNfitAgXqnTtO5vA1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qPbjBETj6O0tYy0s59L9qmc06Xo.jpg",
+      "plot_overview": "Life on a shelf as a snowman trapped in a snow-globe blizzard can become wearing, especially when you're surrounded by knickknacks from sunnier locales. When the jaded snowman finally breaks free of his glass house, his vacation plans are cut short.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 7.026,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1989-11-23",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13928
+    },
+    {
+      "id": 13929,
+      "title": "Geri's Game",
+      "type": "movie",
+      "year": 1997,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8PdCk3T9EkcKniUviDogWFCXx28.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3nqjJeI5XVxWayIgoYzrDUCdBZA.jpg",
+      "plot_overview": "An aging codger named Geri plays a daylong game of chess in the park against himself. Somehow, he begins losing to his livelier opponent. But just when the game's nearly over, Geri manages to turn the tables.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1997-11-24",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13929
+    },
+    {
+      "id": 13930,
+      "title": "For the Birds",
+      "type": "movie",
+      "year": 2000,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7GogfWZYkZh802fnaMoDBnu8cfV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pCshecgO5A15qURScLMqFtyPer4.jpg",
+      "plot_overview": "One by one, a flock of small birds perches on a telephone wire. Sitting close together has problems enough, and then comes along a large dopey bird that tries to join them. The birds of a feather can't help but make fun of him - and their clique mentality proves embarrassing in the end.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 7.479,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2000-11-02",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13930
+    },
+    {
+      "id": 13932,
+      "title": "Jack-Jack Attack",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uKMYT8aAJS9LA8IM1juMqbXTtqU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4IwoBJFfg24wNGD7A77XdSEXNLT.jpg",
+      "plot_overview": "The Parrs' baby Jack-Jack is thought to be normal, not having any super-powers like his parents or siblings. But when an outsider is hired to watch him, Jack-Jack shows his true potential.",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 7.298,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2005-03-15",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13932
+    },
+    {
+      "id": 13933,
+      "title": "One Man Band",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nBBl8gWJvVppKqyY4ugdm3znZ9G.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mYbnwRWnKiL44Yoyv9YJublvpB.jpg",
+      "plot_overview": "With one coin to make a wish at the piazza fountain, a peasant girl encounters two competing street performers who'd prefer the coin find its way into their tip jars. The little girl, Tippy, is caught in the middle as a musical duel ensues between the one-man-bands.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2005-06-21",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13933
+    },
+    {
+      "id": 13949,
+      "title": "Persuasion",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rDv38jqf3t0n4F9wGkQXBLx7wN9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dd4KuEWZNoLp733pPmrWFTvhCp0.jpg",
+      "plot_overview": "Living with her snobby family on the brink of bankruptcy, Anne Elliot is an unconforming woman with modern sensibilities. When Frederick Wentworth \u2013 the dashing one she once sent away \u2013 crashes back into her life, Anne must choose between putting the past behind her or listening to her heart when it comes to second chances.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-04-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 13949
     }
   ]
 }

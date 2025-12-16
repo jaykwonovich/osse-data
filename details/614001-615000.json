@@ -1,20 +1,18 @@
 {
   "range": "614001-615000",
-  "updated_at": 1765702720373,
+  "updated_at": 1765853014711,
   "shows": [
     {
       "id": 614409,
       "title": "To All the Boys: Always and Forever",
       "type": "movie",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/iepqdM52f4w75fNcvgRF5QoIAjm.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qjhcTGnjxYJqwBGlDzZkYWmne6e.jpg",
       "plot_overview": "Senior year of high school takes center stage as Lara Jean returns from a family trip to Korea and considers her college plans \u2014 with and without Peter.",
       "genres": [
-        "romance",
-        "comedy",
-        "drama"
+        "Comedy",
+        "Drama"
       ],
       "user_rating": 7.513,
       "critic_score": null,
@@ -28,25 +26,44 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 614409,
-      "relevance_score": 7.629
+      "tmdb_id": 614409
+    },
+    {
+      "id": 614917,
+      "title": "King Richard",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ljCKYCSRMNyZNyke5Lc1I8nW5b2.jpg",
+      "plot_overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.611,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-11-18",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 614917
     },
     {
       "id": 614930,
       "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
       "type": "movie",
       "year": 2023,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/kbnhvFPyXKCKLNhg1pkz6rXQ4Le.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2Cpg8hUn60PK9CW9d5SWf605Ah8.jpg",
       "plot_overview": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O'Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
       "genres": [
-        "animation",
-        "comedy",
-        "action",
-        "sci-fi"
+        "Animation",
+        "Comedy"
       ],
       "user_rating": 7.213,
       "critic_score": null,
@@ -60,10 +77,32 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 614930,
-      "relevance_score": 7.414
+      "tmdb_id": 614930
+    },
+    {
+      "id": 614934,
+      "title": "Elvis",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rva3UhKaMeiB0Vej5A2pm1leX7K.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xyS0NgcQ2pbGWcwvSSu3xKEBhoO.jpg",
+      "plot_overview": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.478,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-06-22",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 614934
     }
   ]
 }

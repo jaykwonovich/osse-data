@@ -1,36 +1,37 @@
 {
   "range": "515001-516000",
-  "updated_at": 1765702720386,
+  "updated_at": 1765853014705,
   "shows": [
     {
-      "id": 515841,
-      "title": "I Am Not an Easy Man",
+      "id": 515042,
+      "title": "Free Solo",
       "type": "movie",
       "year": 2018,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fPPT1MDkvY4XvzbHTd2DsL7qH7S.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/l6V9uWgQPz2kReUFYbfNUpPO1R3.jpg",
-      "plot_overview": "The chauvinist Damien wakes up in a world where women and men have their roles reversed in society, and everything is dominated by women.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/z2uuQasY4gQJ8VDAFki746JWeQJ.jpg",
+      "plot_overview": "Follow Alex Honnold as he attempts to become the first person to ever free solo climb Yosemite's 3,000 foot high El Capitan wall. With no ropes or safety gear, this would arguably be the greatest feat in rock climbing history.",
       "genres": [
-        "comedy",
-        "fantasy"
+        "Documentary"
       ],
-      "user_rating": 6.235,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2018-04-13",
+      "release_date": "2018-09-28",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 515841,
-      "relevance_score": 7.2218
+      "tmdb_id": 515042
     }
   ]
 }

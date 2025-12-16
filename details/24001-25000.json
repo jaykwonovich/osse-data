@@ -1,53 +1,43 @@
 {
   "range": "24001-25000",
-  "updated_at": 1765830970577,
+  "updated_at": 1765853014641,
   "shows": [
     {
-      "id": 24251,
-      "title": "I Want a Dog for Christmas, Charlie Brown",
+      "id": 24238,
+      "title": "Mary and Max",
       "type": "movie",
-      "year": 2003,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vMMvLReMzmLuWw0CVUxIxmbwpBz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ydLGDUeF0zWEN7pubDwTxLDqTOz.jpg",
-      "plot_overview": "Linus and Lucy's younger brother Rerun wants a dog for Christmas, and Snoopy's brother Spike may be the answer.",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ebmsM382m9IClLUzKYY2U5biFwM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+      "plot_overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
       "genres": [
-        "animation",
-        "comedy",
-        "family",
-        "tv_movie"
+        "Animation",
+        "Comedy",
+        "Drama"
       ],
-      "user_rating": 5.8,
+      "user_rating": 7.88,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2003-12-09",
+      "release_date": "2009-04-09",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 24251,
-      "relevance_score": 4.0382
+      "tmdb_id": 24238
     },
     {
       "id": 24428,
       "title": "The Avengers",
       "type": "movie",
       "year": 2012,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
       "plot_overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-      "genres": [
-        "sci-fi",
-        "action",
-        "adventure"
-      ],
+      "genres": [],
       "user_rating": 7.875,
       "critic_score": null,
       "us_rating": null,
@@ -60,10 +50,34 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 24428,
-      "relevance_score": 46.5963
+      "tmdb_id": 24428
+    },
+    {
+      "id": 24480,
+      "title": "Partly Cloudy",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oqYX2AJV53ibLVPrUZ1Z5XlGv5U.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sdyRGgBTHIqwDieL7WepBWlkNFh.jpg",
+      "plot_overview": "Everyone knows that the stork delivers babies, but where do the storks get the babies from? The answer lies up in the stratosphere, where cloud people sculpt babies from clouds and bring them to life. Gus, a lonely and insecure grey cloud, is a master at creating \"dangerous\" babies. Crocodiles, porcupines, rams and more - Gus's beloved creations are works of art, but more than a handful for his loyal delivery stork partner, Peck. As Gus's creations become more and more rambunctious, Peck's job g",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 7.756,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-05-28",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 24480
     }
   ]
 }

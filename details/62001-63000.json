@@ -1,6 +1,6 @@
 {
   "range": "62001-63000",
-  "updated_at": 1765842560038,
+  "updated_at": 1765853014650,
   "shows": [
     {
       "id": 62017,
@@ -27,6 +27,59 @@
         }
       ],
       "tmdb_id": 62017
+    },
+    {
+      "id": 62177,
+      "title": "Brave",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg",
+      "plot_overview": "In the mystical Scottish Highlands, Merida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Merida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Merida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Merida's quest \u2014 and serving as comic relief \u2014 are the kingdom's three lords: the enormous Lord MacGuffin, the",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.02,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-06-21",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62177
+    },
+    {
+      "id": 62211,
+      "title": "Monsters University",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hmAOMwVeJfdWXgK1Ikyl2eYkE99.jpg",
+      "plot_overview": "A look at the relationship between Mike and Sulley during their days at Monsters University \u2014 when they weren't necessarily the best of friends.",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 7.044,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-06-19",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62211
     },
     {
       "id": 62286,
@@ -167,7 +220,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 62650
+      "tmdb_id": 62650,
+      "is_returning": true,
+      "next_season": 11,
+      "next_air_date": "2026-01-07",
+      "next_episode": 8,
+      "relevance_score": 75
     },
     {
       "id": 62688,

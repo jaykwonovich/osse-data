@@ -1,19 +1,17 @@
 {
   "range": "1316001-1317000",
-  "updated_at": 1765651619786,
+  "updated_at": 1765853014742,
   "shows": [
     {
       "id": 1316092,
       "title": "\"Wuthering Heights\"",
       "type": "movie",
       "year": 2026,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fIBtlFOodItS39EggIC49OfwQgK.jpg",
       "plot_overview": "A passionate and tumultuous love story set against the backdrop of the Yorkshire moors, exploring the intense and destructive relationship between Heathcliff and Catherine Earnshaw.",
       "genres": [
-        "drama",
-        "romance"
+        "Drama"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -22,45 +20,12 @@
       "streaming_services": [
         {
           "service_id": 0,
-          "service_name": "Coming Soon",
+          "service_name": "Theatrical",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1316092,
-      "relevance_score": 3.0894
-    },
-    {
-      "id": 1316427,
-      "title": "7 Dogs",
-      "type": "movie",
-      "year": 2026,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dIzQNTfPdS8vRjhzXnqr2Xbh5AV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
-      "plot_overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
-      "genres": [
-        "action",
-        "comedy"
-      ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2026-03-20",
-      "streaming_services": [
-        {
-          "service_id": 0,
-          "service_name": "Coming Soon",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1316427,
-      "relevance_score": 1.0922
+      "tmdb_id": 1316092
     }
   ]
 }

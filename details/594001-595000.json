@@ -1,21 +1,19 @@
 {
   "range": "594001-595000",
-  "updated_at": 1765702770824,
+  "updated_at": 1765853014710,
   "shows": [
     {
       "id": 594328,
       "title": "Phineas and Ferb the Movie: Candace Against the Universe",
       "type": "movie",
       "year": 2020,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/m5ZGqyTN8BMRO3OApuSWHBfyySg.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hXz0u1wEYU7LogAPspwd1o4xBfj.jpg",
       "plot_overview": "Phineas and Ferb travel across the galaxy to rescue their older sister Candace, who has been abducted by aliens and taken to a utopia in a far-off planet, free of her pesky little brothers.",
       "genres": [
-        "family",
-        "animation",
-        "sci-fi",
-        "comedy"
+        "Family",
+        "Animation",
+        "Comedy"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -29,10 +27,34 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 594328,
-      "relevance_score": 8.2849
+      "tmdb_id": 594328
+    },
+    {
+      "id": 594530,
+      "title": "Lamp Life",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mJ95RnlammhYb6ZvBbQFLq8Jqnl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dRPCsvwgB1eyoBEtoGqulNhLd5C.jpg",
+      "plot_overview": "Bo Peep explains what happened to herself and her sheep between the events of Toy Story 2 and Toy Story 4.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.119,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-01-31",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 594530
     }
   ]
 }

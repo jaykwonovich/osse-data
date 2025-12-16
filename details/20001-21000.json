@@ -1,21 +1,71 @@
 {
   "range": "20001-21000",
-  "updated_at": 1765830970576,
+  "updated_at": 1765853014640,
   "shows": [
+    {
+      "id": 20312,
+      "title": "Interstate 60",
+      "type": "movie",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zZQt29qBWLoVVOo8HEFzFYRAgYQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ppdgXQ7rE9Whf3rCzaawQzmLVnx.jpg",
+      "plot_overview": "An aspiring painter meets various characters and learns valuable lessons while traveling across America.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.383,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2002-04-13",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 20312
+    },
+    {
+      "id": 20334,
+      "title": "The Shop Around the Corner",
+      "type": "movie",
+      "year": 1940,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wqgZSvgoctaadgwUdPYVsksivxn.jpg",
+      "plot_overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 8.094,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1940-01-12",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 20334
+    },
     {
       "id": 20352,
       "title": "Despicable Me",
       "type": "movie",
       "year": 2010,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
       "plot_overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
       "genres": [
-        "family",
-        "comedy",
-        "animation",
-        "sci-fi"
+        "Family",
+        "Comedy",
+        "Animation"
       ],
       "user_rating": 7.253,
       "critic_score": null,
@@ -29,10 +79,83 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 20352,
-      "relevance_score": 10.8174
+      "tmdb_id": 20352
+    },
+    {
+      "id": 20367,
+      "title": "Detour",
+      "type": "movie",
+      "year": 1945,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gJb9HRAs1V4bA0VKsWpT6mhv2RT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uGOKN4VeCsf249zypWfaAzfTxAB.jpg",
+      "plot_overview": "The life of Al Roberts, a pianist in a New York nightclub, turns into a nightmare when he decides to hitchhike to Los Angeles to visit his girlfriend.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.215,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1945-11-30",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 20367
+    },
+    {
+      "id": 20482,
+      "title": "The Naked City",
+      "type": "movie",
+      "year": 1948,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rex4oaiSCD8UQg9204R6hQcFrX9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yjEoHzWo4O8tTa7lrVNv2okVkLz.jpg",
+      "plot_overview": "After a former model is drowned in her bathtub, Detective James Halloran and Lieutenant Dan Muldoon attempt to piece together her murder.",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1948-03-04",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 20482
+    },
+    {
+      "id": 20544,
+      "title": "Something the Lord Made",
+      "type": "movie",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lk2wEO6Rt3mnZmfRTu8wvYiGPmp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oT6z05HLXAfgD2CI3cPMuqG8OAW.jpg",
+      "plot_overview": "A dramatization of the relationship between heart surgery pioneers Alfred Blalock and Vivien Thomas.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.851,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2004-05-30",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 20544
     }
   ]
 }

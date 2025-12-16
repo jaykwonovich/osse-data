@@ -1,6 +1,6 @@
 {
   "range": "306001-307000",
-  "updated_at": 1765842560067,
+  "updated_at": 1765853014685,
   "shows": [
     {
       "id": 306492,
@@ -25,7 +25,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 306492
+      "tmdb_id": 306492,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-21",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 306517,
@@ -56,7 +61,12 @@
       "networks": [
         "Netflix"
       ],
-      "tmdb_id": 306517
+      "tmdb_id": 306517,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-29",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 306657,
@@ -87,7 +97,12 @@
       "networks": [
         "Netflix"
       ],
-      "tmdb_id": 306657
+      "tmdb_id": 306657,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-13",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 306697,
@@ -116,7 +131,37 @@
       "networks": [
         "Tubi"
       ],
-      "tmdb_id": 306697
+      "tmdb_id": 306697,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-19",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 306745,
+      "title": "Freeheld",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/794PfYjTz3yxMRdTRmdFYt6w6ff.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8FgzQadEF68NYvmTVyuY4pCtred.jpg",
+      "plot_overview": "New Jersey car mechanic Stacie Andree and her police detective girlfriend Laurel Hester both battle to secure Hester's pension benefits after she was diagnosed with a terminal illness.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.21,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-10-02",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 306745
     },
     {
       "id": 306896,
@@ -141,7 +186,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 306896
+      "tmdb_id": 306896,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-21",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 306918,
@@ -158,15 +208,24 @@
       "release_date": "2026-01-14",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 306918
+      "tmdb_id": 306918,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-14",
+      "next_episode": 1,
+      "relevance_score": 75,
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "gemini",
+      "prediction_confidence": 0.85
     }
   ]
 }

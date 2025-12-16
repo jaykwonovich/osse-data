@@ -1,26 +1,23 @@
 {
   "range": "396001-397000",
-  "updated_at": 1765830970619,
+  "updated_at": 1765853014694,
   "shows": [
     {
-      "id": 396535,
-      "title": "Train to Busan",
+      "id": 396371,
+      "title": "Molly's Game",
       "type": "movie",
-      "year": 2016,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
-      "plot_overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yvbXGWjg30sj7rohEZvSe90jSJC.jpg",
+      "plot_overview": "Molly Bloom, a young skier and former Olympic hopeful becomes a successful entrepreneur (and a target of an FBI investigation) when she establishes a high-stakes, international poker game.",
       "genres": [
-        "horror",
-        "thriller",
-        "action",
-        "adventure"
+        "Drama",
+        "Crime"
       ],
-      "user_rating": 7.747,
+      "user_rating": 7.153,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2016-07-20",
+      "release_date": "2017-12-07",
       "streaming_services": [
         {
           "service_id": 8,
@@ -29,10 +26,33 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 396535,
-      "relevance_score": 13.9646
+      "tmdb_id": 396371
+    },
+    {
+      "id": 396774,
+      "title": "Bomb City",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kho48mWJ5xuiLn5bpuIvO6ZP7ep.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9tIGBB0VUWLLsiG4JqinSPKVYBE.jpg",
+      "plot_overview": "An ongoing feud between punk rockers and a more affluent clique in a small Texas town leads to a hate crime.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-03-31",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 396774
     }
   ]
 }

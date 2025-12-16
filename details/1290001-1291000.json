@@ -1,19 +1,16 @@
 {
   "range": "1290001-1291000",
-  "updated_at": 1765830970648,
+  "updated_at": 1765853014742,
   "shows": [
     {
       "id": 1290159,
       "title": "A House of Dynamite",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5SVRVwBfHCIkffiq0MmbdvnHWSz.jpg",
       "plot_overview": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.",
-      "genres": [
-        "thriller"
-      ],
+      "genres": [],
       "user_rating": 6.386,
       "critic_score": null,
       "us_rating": null,
@@ -26,10 +23,32 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1290159,
-      "relevance_score": 22.7279
+      "tmdb_id": 1290159
+    },
+    {
+      "id": 1290821,
+      "title": "Shelter",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/klvZs66SG19qmacdwxSRkdFQhQS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uCGzI1EtQWXG5yRPB5PSyOdFNcC.jpg",
+      "plot_overview": "Mason is a reclusive man living in a remote setting by the sea. When he chooses to rescue a young girl from drowning in a terrible storm, he unwittingly sets off a chain reaction that soon brings violence his way, forcing him to confront choices from his past.",
+      "genres": [
+        "Crime"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-01-29",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1290821
     }
   ]
 }

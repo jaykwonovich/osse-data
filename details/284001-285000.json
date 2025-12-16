@@ -1,7 +1,103 @@
 {
   "range": "284001-285000",
-  "updated_at": 1765842560062,
+  "updated_at": 1765853014680,
   "shows": [
+    {
+      "id": 284052,
+      "title": "Doctor Strange",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
+      "plot_overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+      "genres": [],
+      "user_rating": 7.418,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-10-25",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 284052
+    },
+    {
+      "id": 284053,
+      "title": "Thor: Ragnarok",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+      "plot_overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.583,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-10-02",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 284053
+    },
+    {
+      "id": 284054,
+      "title": "Black Panther",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AlFqBwJnokrp9zWTXOUv7uhkaeq.jpg",
+      "plot_overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret age",
+      "genres": [],
+      "user_rating": 7.365,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-02-13",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 284054
+    },
+    {
+      "id": 284293,
+      "title": "Still Alice",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yY6ypZPQl67J4RwOA6YBALNS3Wj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tw1IZuR6GVlSL4aqfsmLFfUJAN9.jpg",
+      "plot_overview": "Alice Howland, happily married with three grown children, is a renowned linguistics professor who starts to forget words. When she receives a devastating diagnosis, Alice and her family find their bonds tested.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.473,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-12-05",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 284293
+    },
     {
       "id": 284380,
       "title": "Southern Charm After Show",
@@ -49,7 +145,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 284838
+      "tmdb_id": 284838,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-08",
+      "next_episode": 7,
+      "relevance_score": 75
     }
   ]
 }

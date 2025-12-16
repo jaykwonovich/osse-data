@@ -1,22 +1,19 @@
 {
   "range": "402001-403000",
-  "updated_at": 1765830970619,
+  "updated_at": 1765853014695,
   "shows": [
     {
       "id": 402431,
       "title": "Wicked",
       "type": "movie",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/w22GVYotTIVC1dUd58mRhwPqiS.jpg",
       "plot_overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
       "genres": [
-        "drama",
-        "romance",
-        "fantasy"
+        "Drama"
       ],
-      "user_rating": 6.928,
+      "user_rating": 6.9,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-11-20",
@@ -28,10 +25,33 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 402431,
-      "relevance_score": 33.8033
+      "tmdb_id": 402431
+    },
+    {
+      "id": 402897,
+      "title": "The Death of Stalin",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/x2FqFdUxRekbNdow3vZdtDqL96z.jpg",
+      "plot_overview": "When dictator Joseph Stalin dies, his parasitic cronies square off in a frantic power struggle to become the next Soviet leader. As they bumble, brawl and back-stab their way to the top, the question remains \u2014 just who is running the government?",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.017,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-10-20",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 402897
     }
   ]
 }

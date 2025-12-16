@@ -1,6 +1,6 @@
 {
   "range": "303001-304000",
-  "updated_at": 1765842560066,
+  "updated_at": 1765853014684,
   "shows": [
     {
       "id": 303109,
@@ -50,7 +50,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 303166
+      "tmdb_id": 303166,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-29",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 303175,
@@ -130,7 +135,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 303544
+      "tmdb_id": 303544,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-01",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "61001-62000",
-  "updated_at": 1765842560038,
+  "updated_at": 1765853014650,
   "shows": [
     {
       "id": 61056,
@@ -173,6 +173,31 @@
       "tmdb_id": 61593
     },
     {
+      "id": 61791,
+      "title": "Rise of the Planet of the Apes",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dENLz9Np9EV5Ro8UIBhbKC8BmSS.jpg",
+      "plot_overview": "A highly intelligent chimpanzee named Caesar has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caesar decides to revolt against those who have harmed him.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.337,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-08-03",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61791
+    },
+    {
       "id": 61852,
       "title": "Henry Danger",
       "type": "tv_series",
@@ -224,7 +249,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 61865
+      "tmdb_id": 61865,
+      "is_returning": true,
+      "next_season": 13,
+      "next_air_date": "2026-01-04",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 61889,

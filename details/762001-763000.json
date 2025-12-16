@@ -1,22 +1,20 @@
 {
   "range": "762001-763000",
-  "updated_at": 1765830970628,
+  "updated_at": 1765853014719,
   "shows": [
     {
       "id": 762509,
       "title": "Mufasa: The Lion King",
       "type": "movie",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
       "plot_overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
       "genres": [
-        "adventure",
-        "family",
-        "animation"
+        "Family",
+        "Animation"
       ],
-      "user_rating": 7.34,
+      "user_rating": 7.338,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-12-18",
@@ -28,10 +26,32 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 762509,
-      "relevance_score": 18.2776
+      "tmdb_id": 762509
+    },
+    {
+      "id": 762975,
+      "title": "Purple Hearts",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4JyNWkryifWbWXJyxcWh3pVya6N.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jdZM1Gs6DtRGvosgqaXRrIkvYX7.jpg",
+      "plot_overview": "An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 8.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-07-29",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 762975
     }
   ]
 }

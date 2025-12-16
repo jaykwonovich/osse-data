@@ -1,6 +1,6 @@
 {
   "range": "119001-120000",
-  "updated_at": 1765842560049,
+  "updated_at": 1765853014662,
   "shows": [
     {
       "id": 119051,
@@ -30,6 +30,31 @@
       "tmdb_id": 119051
     },
     {
+      "id": 119450,
+      "title": "Dawn of the Planet of the Apes",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+      "plot_overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.334,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-07-08",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 119450
+    },
+    {
       "id": 119845,
       "title": "Power Book IV: Force",
       "type": "tv_series",
@@ -53,7 +78,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 119845
+      "tmdb_id": 119845,
+      "is_returning": true,
+      "next_season": 3,
+      "next_air_date": "2025-12-19",
+      "next_episode": 7,
+      "relevance_score": 75
     },
     {
       "id": 119934,

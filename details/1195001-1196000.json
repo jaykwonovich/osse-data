@@ -1,23 +1,44 @@
 {
   "range": "1195001-1196000",
-  "updated_at": 1765830970646,
+  "updated_at": 1765853014737,
   "shows": [
+    {
+      "id": 1195506,
+      "title": "Novocaine",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg",
+      "plot_overview": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-03-12",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1195506
+    },
     {
       "id": 1195631,
       "title": "William Tell",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/8SdaetXSTPyQVDb5pTEPRLBSx15.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bP6BqIljp4a3BqhxN7YPckcpKI.jpg",
       "plot_overview": "The narrative unfolds in the 14th Century, when the European nations vie for supremacy within the Holy Roman Empire. The ambitious Austrian Empire, desiring more land, invades neighbouring Switzerland, a serene and pastoral nation. Protagonist William Tell, a formerly peaceful hunter, finds himself forced to take action as his family and homeland come under threat from the oppressive Austrian King and his ruthless warlords.",
       "genres": [
-        "action",
-        "adventure",
-        "drama",
-        "history"
+        "Drama"
       ],
-      "user_rating": 6.237,
+      "user_rating": 6.236,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-01-17",
@@ -29,10 +50,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1195631,
-      "relevance_score": 13.7456
+      "tmdb_id": 1195631
     }
   ]
 }

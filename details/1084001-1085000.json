@@ -1,22 +1,17 @@
 {
   "range": "1084001-1085000",
-  "updated_at": 1765830970640,
+  "updated_at": 1765853014733,
   "shows": [
     {
       "id": 1084199,
       "title": "Companion",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cZnJ3ABPvsWGqwPcu06Eda493F9.jpg",
       "plot_overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
-      "genres": [
-        "horror",
-        "sci-fi",
-        "thriller"
-      ],
-      "user_rating": 7.043,
+      "genres": [],
+      "user_rating": 7.041,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-01-22",
@@ -26,27 +21,25 @@
           "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1084199,
-      "relevance_score": 17.0845
+      "tmdb_id": 1084199
     },
     {
       "id": 1084222,
       "title": "Operation Blood Hunt",
       "type": "movie",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/u36L4VEFTRIw11eK3xw8zjT0blT.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xp6lAdlYH5DfzxTL6h4W5lTV29G.jpg",
       "plot_overview": "Prolific expert of the occult and whiskey, Reverend Conte, accompanies a ragtag group of military rejects to a remote South Pacific Island to investigate the disappearance of Marines units  stationed there in 1944, said to be at the hands of the Japanese Imperial Army. Upon speaking  with the island\u2019s inhabitants, they soon discover the Marines had actually been massacred by a group of Lycanthropes, known to most as WEREWOLVES.",
-      "genres": [
-        "action",
-        "adventure",
-        "horror"
-      ],
+      "genres": [],
       "user_rating": 6.74,
       "critic_score": null,
       "us_rating": null,
@@ -59,10 +52,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1084222,
-      "relevance_score": 31.0184
+      "tmdb_id": 1084222
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "79001-80000",
-  "updated_at": 1765842560042,
+  "updated_at": 1765853014654,
   "shows": [
     {
       "id": 79061,
@@ -30,6 +30,39 @@
         }
       ],
       "tmdb_id": 79061
+    },
+    {
+      "id": 79113,
+      "title": "A Princess for Christmas",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qv7fx4gW2bNU3eUiwtaxh829Imq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ocyOdgL8pGS5KRpRfS69SsS2GMa.jpg",
+      "plot_overview": "After her sister and brother-in-law's tragic deaths, an American woman who is the guardian for her young niece and nephew is invited to a royal European castle for Christmas by her late brother-in-law's father, the Duke of Castlebury. Feeling out of place as a commoner, she is determined to give her family a merry Christmas and surprises herself when she falls for a handsome prince.",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-12-03",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 79113
     },
     {
       "id": 79340,
@@ -188,7 +221,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 79744
+      "tmdb_id": 79744,
+      "is_returning": true,
+      "next_season": 8,
+      "next_air_date": "2026-01-06",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

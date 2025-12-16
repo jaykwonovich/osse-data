@@ -1,22 +1,20 @@
 {
   "range": "1064001-1065000",
-  "updated_at": 1765830970639,
+  "updated_at": 1765853014732,
   "shows": [
     {
       "id": 1064213,
       "title": "Anora",
       "type": "movie",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg",
       "plot_overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
       "genres": [
-        "drama",
-        "comedy",
-        "romance"
+        "Drama",
+        "Comedy"
       ],
-      "user_rating": 7.049,
+      "user_rating": 7.05,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-10-14",
@@ -28,10 +26,34 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1064213,
-      "relevance_score": 18.0816
+      "tmdb_id": 1064213
+    },
+    {
+      "id": 1064486,
+      "title": "Memoir of a Snail",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+      "plot_overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 8.062,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-10-17",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1064486
     }
   ]
 }

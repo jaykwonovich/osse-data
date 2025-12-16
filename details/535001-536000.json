@@ -1,24 +1,22 @@
 {
   "range": "535001-536000",
-  "updated_at": 1765702700582,
+  "updated_at": 1765853014706,
   "shows": [
     {
-      "id": 535581,
-      "title": "The Dead Don't Die",
+      "id": 535544,
+      "title": "Downton Abbey",
       "type": "movie",
       "year": 2019,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ndvOjo7Nfk8ULnFLMXthPzhI62L.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cXyfAViYly0Lk2CVpEKgYbt9wKQ.jpg",
-      "plot_overview": "In the sleepy town of Centerville, the lives of a number of interconnected characters are disrupted by the undead.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lgQQ6n1vPw40buW7QGc1DxDzQS9.jpg",
+      "plot_overview": "The beloved Crawleys and their intrepid staff prepare for the most important moment of their lives. A royal visit from the King and Queen of England will unleash scandal, romance and intrigue that will leave the future of Downton hanging in the balance.",
       "genres": [
-        "comedy",
-        "horror"
+        "Drama"
       ],
-      "user_rating": 5.4,
+      "user_rating": 7.131,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2019-05-15",
+      "release_date": "2019-09-12",
       "streaming_services": [
         {
           "service_id": 8,
@@ -27,10 +25,32 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 535581,
-      "relevance_score": 9.805
+      "tmdb_id": 535544
+    },
+    {
+      "id": 535845,
+      "title": "Brian Banks",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4MnCFcFHYAEMG4NBTUKvjhf5AhU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fuSOcHaahBSr8y00ZSQzqgvGpHn.jpg",
+      "plot_overview": "An All-American football player's dreams to play in the NFL are halted when he is falsely accused of rape and sent to prison.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.206,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-08-09",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 535845
     }
   ]
 }

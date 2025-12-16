@@ -1,21 +1,17 @@
 {
   "range": "1087001-1088000",
-  "updated_at": 1765830970641,
+  "updated_at": 1765853014733,
   "shows": [
     {
       "id": 1087192,
       "title": "How to Train Your Dragon",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vHTFrcqJoCi1is3XN0PZe2LSnI2.jpg",
       "plot_overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
       "genres": [
-        "fantasy",
-        "family",
-        "action",
-        "adventure"
+        "Family"
       ],
       "user_rating": 7.985,
       "critic_score": null,
@@ -29,40 +25,32 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1087192,
-      "relevance_score": 37.396
+      "tmdb_id": 1087192
     },
     {
-      "id": 1087891,
-      "title": "The Amateur",
+      "id": 1087593,
+      "title": "Another End",
       "type": "movie",
-      "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aD7FXrm2GErTmzrIFBntPyhAqS9.jpg",
-      "plot_overview": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fuWWd7pQYGv21av3HonQg6oCkZL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jxvkfgYvAHn0ps874wgCirRfCyT.jpg",
+      "plot_overview": "In a future where consciousness can be transferred, Sal is urged by his sister to try a breakthrough technology that implants the memories and personality of the dead into the living. After the passing of his wife, Sal must decide how far he's willing to go to reconnect with the past.",
       "genres": [
-        "thriller",
-        "action"
+        "Drama"
       ],
-      "user_rating": 6.975,
+      "user_rating": 6.7,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-04-09",
+      "release_date": "2024-03-21",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 0,
+          "service_name": "Theatrical",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1087891,
-      "relevance_score": 14.3568
+      "tmdb_id": 1087593
     }
   ]
 }

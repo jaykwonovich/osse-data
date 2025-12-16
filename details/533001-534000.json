@@ -1,20 +1,40 @@
 {
   "range": "533001-534000",
-  "updated_at": 1765830970623,
+  "updated_at": 1765853014706,
   "shows": [
+    {
+      "id": 533533,
+      "title": "TRON: Ares",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/min9ZUDZbiguTiQ7yz1Hbqk78HT.jpg",
+      "plot_overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+      "genres": [],
+      "user_rating": 6.556,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-08",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 533533
+    },
     {
       "id": 533535,
       "title": "Deadpool & Wolverine",
       "type": "movie",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ufpeVEM64uZHPpzzeiDNIAdaeOD.jpg",
       "plot_overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
       "genres": [
-        "action",
-        "comedy",
-        "sci-fi"
+        "Comedy"
       ],
       "user_rating": 7.568,
       "critic_score": null,
@@ -28,10 +48,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 533535,
-      "relevance_score": 24.7486
+      "tmdb_id": 533535
     }
   ]
 }

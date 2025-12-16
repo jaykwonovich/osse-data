@@ -1,7 +1,32 @@
 {
   "range": "76001-77000",
-  "updated_at": 1765842560042,
+  "updated_at": 1765853014654,
   "shows": [
+    {
+      "id": 76180,
+      "title": "Empire of Dreams: The Story of the Star Wars Trilogy",
+      "type": "movie",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xq0MPT1lLxfznTRaAbInxWT2wfh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/11tVJLKi2PgcuNWqaCNPSOpINQx.jpg",
+      "plot_overview": "From the earliest versions of the script to the blockbuster debuts, explore the creation of the Star Wars Trilogy.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.738,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2004-09-20",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 76180
+    },
     {
       "id": 76231,
       "title": "Mayans M.C.",
@@ -55,6 +80,29 @@
       "tmdb_id": 76331
     },
     {
+      "id": 76341,
+      "title": "Mad Max: Fury Road",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
+      "plot_overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+      "genres": [],
+      "user_rating": 7.628,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-05-13",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 76341
+    },
+    {
       "id": 76479,
       "title": "The Boys",
       "type": "tv_series",
@@ -78,7 +126,60 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 76479
+      "tmdb_id": 76479,
+      "is_returning": true,
+      "next_season": 5,
+      "next_air_date": "2026-04-08",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 76589,
+      "title": "Justice League: Doom",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6IUhwX2fHPBzsKHpygW50a3tkEw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qo9eeHB1ZYNGATYTE9xHGh28IT5.jpg",
+      "plot_overview": "An adaptation of Mark Waid's \"Tower of Babel\" story from the JLA comic. Vandal Savage steals confidential files Batman has compiled on the members of the Justice League, and learns all their weaknesses.",
+      "genres": [
+        "Animation"
+      ],
+      "user_rating": 7.413,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-02-28",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 76589
+    },
+    {
+      "id": 76600,
+      "title": "Avatar: The Way of Water",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
+      "plot_overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "genres": [],
+      "user_rating": 7.609,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-12-14",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 76600
     },
     {
       "id": 76773,

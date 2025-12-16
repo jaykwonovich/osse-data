@@ -1,36 +1,62 @@
 {
   "range": "419001-420000",
-  "updated_at": 1765644325619,
+  "updated_at": 1765853014697,
   "shows": [
     {
-      "id": 419479,
-      "title": "The Babysitter",
+      "id": 419430,
+      "title": "Get Out",
       "type": "movie",
       "year": 2017,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uAzKNxGnbK5SL7VF7UeQyZdQLHV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wNW576H4HtGy3kQHDeI4x8uHEZ3.jpg",
-      "plot_overview": "When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
+      "plot_overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
       "genres": [
-        "comedy",
-        "horror"
+        "Mystery"
       ],
-      "user_rating": 6.173,
+      "user_rating": 7.621,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2017-10-13",
+      "release_date": "2017-02-24",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 419479,
-      "relevance_score": 15.4831
+      "tmdb_id": 419430
+    },
+    {
+      "id": 419478,
+      "title": "Midnight Sun",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vPG2zEKPXhovPW9S91SRnwr5JM1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9T8sj5io4SGCBTHsk5H8LGcfKVe.jpg",
+      "plot_overview": "Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.811,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-03-22",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 419478
     }
   ]
 }

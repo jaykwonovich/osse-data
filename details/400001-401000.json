@@ -1,26 +1,48 @@
 {
   "range": "400001-401000",
-  "updated_at": 1765702770782,
+  "updated_at": 1765853014695,
   "shows": [
     {
-      "id": 400155,
-      "title": "Hotel Transylvania 3: Summer Vacation",
+      "id": 400090,
+      "title": "The Nightingale",
       "type": "movie",
       "year": 2018,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/m03jul0YdVEOFXEQVUv6pOVQYGL.jpg",
-      "plot_overview": "Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship\u2019s captain, Ericka, who\u2019s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9nRpZmvdEgq8hMu1rNyc90XQtH6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kPKwqHl2rYsi9rFWJWA6afKdmlT.jpg",
+      "plot_overview": "In 1825, Clare, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker who is also marked by trauma from his own violence-filled past.",
       "genres": [
-        "animation",
-        "comedy",
-        "family",
-        "fantasy"
+        "Drama",
+        "Western"
       ],
-      "user_rating": 6.854,
+      "user_rating": 7.057,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2018-06-28",
+      "release_date": "2018-09-23",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 400090
+    },
+    {
+      "id": 400608,
+      "title": "Bo Burnham: Make Happy",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qVThhskXZZHDfj4m8jOx2CxIVIW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nicDo6SnBxK93ROGAhpKTOAhy2i.jpg",
+      "plot_overview": "Combining his trademark wit and self-deprecating humor with original music, Bo Burnham offers up his unique twist on life in this stand-up special about  life, death, sexuality, hypocrisy, mental illness and Pringles cans.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 8.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-06-03",
       "streaming_services": [
         {
           "service_id": 8,
@@ -29,10 +51,32 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 400155,
-      "relevance_score": 6.5256
+      "tmdb_id": 400608
+    },
+    {
+      "id": 400617,
+      "title": "Phantom Thread",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vpRMzPqHC03I7hPPET4Av2OT8dI.jpg",
+      "plot_overview": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.31,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-12-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 400617
     }
   ]
 }

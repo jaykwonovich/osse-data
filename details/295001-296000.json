@@ -1,6 +1,6 @@
 {
   "range": "295001-296000",
-  "updated_at": 1765842560064,
+  "updated_at": 1765853014682,
   "shows": [
     {
       "id": 295144,
@@ -77,7 +77,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 295571
+      "tmdb_id": 295571,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-01",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 295755,
@@ -121,8 +126,8 @@
       "release_date": "2026-02-25",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -134,7 +139,16 @@
       "networks": [
         "ABC"
       ],
-      "tmdb_id": 295778
+      "tmdb_id": 295778,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-02-25",
+      "next_episode": 1,
+      "relevance_score": 75,
+      "service_name": "Hulu",
+      "service_id": 15,
+      "prediction_source": "gemini",
+      "prediction_confidence": 0.9
     }
   ]
 }

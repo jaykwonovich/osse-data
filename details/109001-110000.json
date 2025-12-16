@@ -1,21 +1,43 @@
 {
   "range": "109001-110000",
-  "updated_at": 1765830970599,
+  "updated_at": 1765853014661,
   "shows": [
+    {
+      "id": 109424,
+      "title": "Captain Phillips",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8Td0kkocW6sD3uRpzwfMfkqMWhx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ihdFypo7MyfJvDSjK7Sbnsjhu8H.jpg",
+      "plot_overview": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.539,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-10-10",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 109424
+    },
     {
       "id": 109445,
       "title": "Frozen",
       "type": "movie",
       "year": 2013,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/u2bZhH3nTf0So0UIC1QxAqBvC07.jpg",
       "plot_overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa\u2019s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
       "genres": [
-        "animation",
-        "family",
-        "adventure",
-        "fantasy"
+        "Animation",
+        "Family"
       ],
       "user_rating": 7.249,
       "critic_score": null,
@@ -29,10 +51,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 109445,
-      "relevance_score": 21.1038
+      "tmdb_id": 109445
     }
   ]
 }

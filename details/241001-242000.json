@@ -1,6 +1,6 @@
 {
   "range": "241001-242000",
-  "updated_at": 1765842560057,
+  "updated_at": 1765853014676,
   "shows": [
     {
       "id": 241361,
@@ -60,7 +60,12 @@
       "networks": [
         "Prime Video"
       ],
-      "tmdb_id": 241372
+      "tmdb_id": 241372,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-02-18",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 241388,
@@ -145,7 +150,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 241609
+      "tmdb_id": 241609,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-04-02",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

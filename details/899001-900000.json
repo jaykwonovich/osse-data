@@ -1,20 +1,42 @@
 {
   "range": "899001-900000",
-  "updated_at": 1765830970633,
+  "updated_at": 1765853014726,
   "shows": [
+    {
+      "id": 899082,
+      "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8rft8A9nH43IReybFtYt21ezfMK.jpg",
+      "plot_overview": "An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-01-01",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 899082
+    },
     {
       "id": 899112,
       "title": "Violent Night",
       "type": "movie",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/e8CpMgdyihz9Td7amQDqubPuzfN.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
       "plot_overview": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn\u2019t prepared for a surprise combatant: Santa Claus is on the grounds, and he\u2019s about to show why this Nick is no saint.",
       "genres": [
-        "action",
-        "comedy",
-        "fantasy"
+        "Comedy"
       ],
       "user_rating": 7.241,
       "critic_score": null,
@@ -28,10 +50,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 899112,
-      "relevance_score": 9.1786
+      "tmdb_id": 899112
     }
   ]
 }

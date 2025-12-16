@@ -1,7 +1,33 @@
 {
   "range": "32001-33000",
-  "updated_at": 1765842560033,
+  "updated_at": 1765853014643,
   "shows": [
+    {
+      "id": 32040,
+      "title": "The Killing of a Chinese Bookie",
+      "type": "movie",
+      "year": 1976,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lShPFOAbQ6y6oFYUfecmrj7BUu6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/71oqZMM6dgKvi1WQztOoUHSzDdZ.jpg",
+      "plot_overview": "Cosmo Vittelli, the proprietor of a sleazy, low-rent Hollywood cabaret, has a real affection for the women who strip in his peepshows and the staff who keep up his dingy establishment. He also has a major gambling problem that has gotten him in trouble before. When Cosmo loses big-time at an underground casino run by mobster Mort, he isn't able to pay up. Mort then offers Cosmo the chance to pay back his debt by knocking off a pesky, Mafia-protected bookie.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1976-02-15",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32040
+    },
     {
       "id": 32692,
       "title": "Blue Bloods",
@@ -85,7 +111,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 32726
+      "tmdb_id": 32726,
+      "is_returning": true,
+      "next_season": 16,
+      "next_air_date": "2025-12-28",
+      "next_episode": 10,
+      "relevance_score": 75
     },
     {
       "id": 32895,

@@ -1,21 +1,18 @@
 {
   "range": "527001-528000",
-  "updated_at": 1765830970622,
+  "updated_at": 1765853014705,
   "shows": [
     {
       "id": 527435,
       "title": "The Christmas Chronicles",
       "type": "movie",
       "year": 2018,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/brENMyyhk13WLzKHBK20rBKx0u7.jpg",
       "plot_overview": "Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.",
       "genres": [
-        "comedy",
-        "adventure",
-        "family",
-        "fantasy"
+        "Comedy",
+        "Family"
       ],
       "user_rating": 7.148,
       "critic_score": null,
@@ -29,10 +26,58 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 527435,
-      "relevance_score": 16.914
+      "tmdb_id": 527435
+    },
+    {
+      "id": 527774,
+      "title": "Raya and the Last Dragon",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rcUcYzGGicDvhDs58uM44tJKB9F.jpg",
+      "plot_overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it\u2019s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 7.814,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-03-03",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 527774
+    },
+    {
+      "id": 527776,
+      "title": "Overcomer",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rVR3uN1yPRqYBBtNFSrEKCpRhaK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/704pWRU1CihHgIIKRSAZD7juXQy.jpg",
+      "plot_overview": "After reluctantly agreeing to coach cross-country, high school basketball Coach John Harrison helps the least likely runner attempt the impossible in the biggest race of the year.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-08-22",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 527776
     }
   ]
 }

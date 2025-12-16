@@ -1,22 +1,40 @@
 {
   "range": "1241001-1242000",
-  "updated_at": 1765830970647,
+  "updated_at": 1765853014739,
   "shows": [
+    {
+      "id": 1241436,
+      "title": "Warfare",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
+      "plot_overview": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
+      "genres": [],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-04-09",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1241436
+    },
     {
       "id": 1241470,
       "title": "Osiris",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
       "plot_overview": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
-      "genres": [
-        "sci-fi",
-        "action",
-        "horror"
-      ],
-      "user_rating": 6.286,
+      "genres": [],
+      "user_rating": 6.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-07-25",
@@ -28,59 +46,47 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1241470,
-      "relevance_score": 12.0176
+      "tmdb_id": 1241470
     },
     {
-      "id": 1241634,
-      "title": "Saiyaara",
+      "id": 1241921,
+      "title": "A Big Bold Beautiful Journey",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mguy0nefEUY7NKruffpLO3Stj3d.jpg",
-      "plot_overview": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
+      "plot_overview": "Sarah and David are single strangers who meet at a mutual friend\u2019s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures.",
       "genres": [
-        "romance",
-        "drama",
-        "music"
+        "Drama"
       ],
-      "user_rating": 6.4,
+      "user_rating": 6.281,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-07-18",
+      "release_date": "2025-09-17",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 0,
+          "service_name": "Theatrical",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1241634,
-      "relevance_score": 14.4104
+      "tmdb_id": 1241921
     },
     {
       "id": 1241982,
       "title": "Moana 2",
       "type": "movie",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
       "plot_overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
       "genres": [
-        "family",
-        "comedy",
-        "adventure",
-        "animation",
-        "fantasy"
+        "Family",
+        "Comedy",
+        "Animation"
       ],
-      "user_rating": 7.018,
+      "user_rating": 7.019,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-11-21",
@@ -92,22 +98,18 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1241982,
-      "relevance_score": 28.9006
+      "tmdb_id": 1241982
     },
     {
       "id": 1241983,
       "title": "Train Dreams",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gwohbraLtlTW7F9EAyxOckSBwf3.jpg",
       "plot_overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
       "genres": [
-        "drama"
+        "Drama"
       ],
       "user_rating": 7.29,
       "critic_score": null,
@@ -121,10 +123,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1241983,
-      "relevance_score": 20.1476
+      "tmdb_id": 1241983
     }
   ]
 }

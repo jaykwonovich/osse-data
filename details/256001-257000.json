@@ -1,6 +1,6 @@
 {
   "range": "256001-257000",
-  "updated_at": 1765842560060,
+  "updated_at": 1765853014677,
   "shows": [
     {
       "id": 256317,
@@ -110,7 +110,65 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 256748
+      "tmdb_id": 256748,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-21",
+      "next_episode": 10,
+      "relevance_score": 75
+    },
+    {
+      "id": 256835,
+      "title": "Toy Story That Time Forgot",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kVOaFo8RaYQceHfTqbZGmV9R80q.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4vetbabOgDQzpitnAkEVRiZP4P5.jpg",
+      "plot_overview": "During a post-Christmas play date, the gang find themselves in uncharted territory when the coolest set of action figures ever turn out to be dangerously delusional. It's all up to Trixie, the triceratops, if the gang hopes to return to Bonnie's room in this Toy Story That Time Forgot.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-12-02",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 256835
+    },
+    {
+      "id": 256962,
+      "title": "Little Boy",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lAU9pgq3niI6sFemcKm4FGGmrnW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xKtWcQD2yugIKz49LvZNHdLM09T.jpg",
+      "plot_overview": "An eight-year-old boy is willing to do whatever it takes to end World War II so he can bring his father home. The story reveals the indescribable love a father has for his little boy and the love a son has for his father.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.213,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-04-23",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 256962
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "296001-297000",
-  "updated_at": 1765842560064,
+  "updated_at": 1765853014682,
   "shows": [
     {
       "id": 296017,
@@ -26,6 +26,31 @@
         }
       ],
       "tmdb_id": 296017
+    },
+    {
+      "id": 296096,
+      "title": "Me Before You",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+      "plot_overview": "A small town girl is caught between dead-end jobs. A high-profile, successful man becomes wheelchair bound following an accident. The man decides his life is not worth living until the girl is hired for six months to be his new caretaker. Worlds apart and trapped together by circumstance, the two get off to a rocky start. But the girl becomes determined to prove to the man that life is worth living and as they embark on a series of adventures together, each finds their world changing in ways nei",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.924,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-06-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 296096
     },
     {
       "id": 296258,
@@ -126,8 +151,8 @@
       "release_date": "2026-01-08",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 531,
+          "service_name": "Paramount+",
           "type": "sub",
           "region": "US"
         }
@@ -138,7 +163,16 @@
       "networks": [
         "Paramount+"
       ],
-      "tmdb_id": 296523
+      "tmdb_id": 296523,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-08",
+      "next_episode": 1,
+      "relevance_score": 75,
+      "service_name": "Paramount+",
+      "service_id": 531,
+      "prediction_source": "gemini",
+      "prediction_confidence": 1.0
     },
     {
       "id": 296579,
@@ -163,7 +197,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 296579
+      "tmdb_id": 296579,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-19",
+      "next_episode": 6,
+      "relevance_score": 75
     },
     {
       "id": 296976,
@@ -215,7 +254,12 @@
         "Red And Black Films"
       ],
       "networks": [],
-      "tmdb_id": 296980
+      "tmdb_id": 296980,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-31",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 296987,

@@ -1,21 +1,42 @@
 {
   "range": "429001-430000",
-  "updated_at": 1765644325619,
+  "updated_at": 1765853014697,
   "shows": [
+    {
+      "id": 429200,
+      "title": "Good Time",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5AhkjcqqRxBdpYZ0TeOuTCuOUYq.jpg",
+      "plot_overview": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.209,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-08-11",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 429200
+    },
     {
       "id": 429617,
       "title": "Spider-Man: Far From Home",
       "type": "movie",
       "year": 2019,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
       "plot_overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
-      "genres": [
-        "action",
-        "adventure",
-        "sci-fi"
-      ],
+      "genres": [],
       "user_rating": 7.399,
       "critic_score": null,
       "us_rating": null,
@@ -28,10 +49,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 429617,
-      "relevance_score": 13.2365
+      "tmdb_id": 429617
     }
   ]
 }

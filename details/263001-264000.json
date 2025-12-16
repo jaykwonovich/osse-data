@@ -1,7 +1,38 @@
 {
   "range": "263001-264000",
-  "updated_at": 1765842560061,
+  "updated_at": 1765853014678,
   "shows": [
+    {
+      "id": 263115,
+      "title": "Logan",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+      "plot_overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.82,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-02-28",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 263115
+    },
     {
       "id": 263346,
       "title": "Ripple",
@@ -25,7 +56,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 263346
+      "tmdb_id": 263346,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-24",
+      "next_episode": 5,
+      "relevance_score": 75
     },
     {
       "id": 263361,
@@ -51,6 +87,31 @@
         }
       ],
       "tmdb_id": 263361
+    },
+    {
+      "id": 263614,
+      "title": "Virunga",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b59YdJZyRUu04hnWdmmz4kPjbTF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6KDpjoCxlNapSzqUdagloiQqljh.jpg",
+      "plot_overview": "Virunga in the Democratic Republic of the Congo is Africa\u2019s oldest national park, a UNESCO world heritage site, and a contested ground among insurgencies seeking to topple the government that see untold profits in the land. Among this ongoing power struggle, Virunga also happens to be the last natural habitat for the critically endangered mountain gorilla. The only thing standing in the way of the forces closing in around the gorillas: a handful of passionate park rangers and journalists fightin",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-11-07",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 263614
     }
   ]
 }

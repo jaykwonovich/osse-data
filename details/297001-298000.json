@@ -1,6 +1,6 @@
 {
   "range": "297001-298000",
-  "updated_at": 1765842560065,
+  "updated_at": 1765853014683,
   "shows": [
     {
       "id": 297005,
@@ -42,8 +42,8 @@
       "release_date": "2026-01-14",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -52,7 +52,16 @@
       "networks": [
         "FOX"
       ],
-      "tmdb_id": 297024
+      "tmdb_id": 297024,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-14",
+      "next_episode": 1,
+      "relevance_score": 75,
+      "service_name": "Hulu",
+      "service_id": 15,
+      "prediction_source": "gemini",
+      "prediction_confidence": 0.9
     },
     {
       "id": 297025,
@@ -77,7 +86,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 297025
+      "tmdb_id": 297025,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-18",
+      "next_episode": 3,
+      "relevance_score": 75
     },
     {
       "id": 297203,
@@ -132,6 +146,32 @@
       "tmdb_id": 297266
     },
     {
+      "id": 297270,
+      "title": "Tinker Bell and the Legend of the NeverBeast",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3S0mmmpYStB3GqodRghcfOt81wQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9s58ybtK5rj4QGmAtzOMzVeiY5P.jpg",
+      "plot_overview": "An ancient myth of a massive creature sparks the curiosity of Tinker Bell and her good friend Fawn, an animal fairy who\u2019s not afraid to break the rules to help an animal in need. But this creature is not welcome in Pixie Hollow \u2014 and the scout fairies are determined to capture the mysterious beast, who they fear will destroy their home. Fawn must convince her fairy friends to risk everything to rescue the NeverBeast.",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 7.358,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-12-12",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 297270
+    },
+    {
       "id": 297664,
       "title": "No King Stands Alone",
       "type": "tv_series",
@@ -160,7 +200,35 @@
       "networks": [
         "SmakSmak Enterprises"
       ],
-      "tmdb_id": 297664
+      "tmdb_id": 297664,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-28",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 297762,
+      "title": "Wonder Woman",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+      "plot_overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+      "genres": [],
+      "user_rating": 7.214,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-05-30",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 297762
     },
     {
       "id": 297773,
@@ -190,7 +258,12 @@
         "DreamArc Studios"
       ],
       "networks": [],
-      "tmdb_id": 297773
+      "tmdb_id": 297773,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-05",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

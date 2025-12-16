@@ -1,20 +1,43 @@
 {
   "range": "414001-415000",
-  "updated_at": 1765830970619,
+  "updated_at": 1765853014697,
   "shows": [
+    {
+      "id": 414425,
+      "title": "Mudbound",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tf21kSKepMOlnorszWaiFwksKU4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m0CrcOOSUK6Ylf0pkGfGX0BdDq7.jpg",
+      "plot_overview": "In the post\u2013World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.37,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-11-16",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 414425
+    },
     {
       "id": 414906,
       "title": "The Batman",
       "type": "movie",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
       "plot_overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
       "genres": [
-        "crime",
-        "mystery",
-        "thriller"
+        "Crime",
+        "Mystery"
       ],
       "user_rating": 7.66,
       "critic_score": null,
@@ -28,10 +51,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 414906,
-      "relevance_score": 15.4825
+      "tmdb_id": 414906
     }
   ]
 }

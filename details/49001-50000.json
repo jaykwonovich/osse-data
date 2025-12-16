@@ -1,6 +1,6 @@
 {
   "range": "49001-50000",
-  "updated_at": 1765842560036,
+  "updated_at": 1765853014647,
   "shows": [
     {
       "id": 49010,
@@ -53,6 +53,143 @@
         }
       ],
       "tmdb_id": 49011
+    },
+    {
+      "id": 49020,
+      "title": "Submarine",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nbzXX3CYtKUBrPeMcG7PVoLQHXB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zaa2noUk2Dm6IgdTWWEe4WpL08o.jpg",
+      "plot_overview": "15-year-old deep-thinking Welsh schoolboy Oliver Tate struggles to initiate and maintain a relationship with Jordana, his devilish, dark-haired classmate at their Swansea high school. As his parents' marriage begins to fall apart, similar problems arise in his relationship with Jordana.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-10-22",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 49020
+    },
+    {
+      "id": 49026,
+      "title": "The Dark Knight Rises",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+      "plot_overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-07-17",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 49026
+    },
+    {
+      "id": 49051,
+      "title": "The Hobbit: An Unexpected Journey",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e9XpCB9XoTSvek6O7PNvJMhSlIK.jpg",
+      "plot_overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+      "genres": [],
+      "user_rating": 7.364,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-12-12",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 49051
+    },
+    {
+      "id": 49444,
+      "title": "Kung Fu Panda 2",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/A23nZfFBa7gFD40IsiV5gOadyIi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/reHkSQwiYKK4SabnGDY1FWKie82.jpg",
+      "plot_overview": "Po and his friends fight to stop a peacock villain from conquering China with a deadly new weapon, but first the Dragon Warrior must come to terms with his past.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-05-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 49444
+    },
+    {
+      "id": 49538,
+      "title": "X-Men: First Class",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mCinjxmq2tRDzSgc8QcuRkV8yTo.jpg",
+      "plot_overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+      "genres": [],
+      "user_rating": 7.298,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-06-01",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 49538
     }
   ]
 }

@@ -1,22 +1,42 @@
 {
   "range": "1100001-1101000",
-  "updated_at": 1765830970641,
+  "updated_at": 1765853014734,
   "shows": [
+    {
+      "id": 1100099,
+      "title": "We Live in Time",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+      "plot_overview": "An up-and-coming chef and a recent divorc\u00e9e find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.256,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-10-10",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1100099
+    },
     {
       "id": 1100988,
       "title": "28 Years Later",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wxxSyWPPgssnkO6FbCAVyntLLSr.jpg",
       "plot_overview": "Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group lives on a small island connected to the mainland by a single, heavily-defended causeway. When one member departs on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
-      "genres": [
-        "horror",
-        "thriller",
-        "sci-fi"
-      ],
-      "user_rating": 6.663,
+      "genres": [],
+      "user_rating": 6.664,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-06-18",
@@ -28,10 +48,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1100988,
-      "relevance_score": 17.6465
+      "tmdb_id": 1100988
     }
   ]
 }

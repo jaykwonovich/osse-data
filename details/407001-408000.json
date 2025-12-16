@@ -1,24 +1,73 @@
 {
   "range": "407001-408000",
-  "updated_at": 1765702770780,
+  "updated_at": 1765853014695,
   "shows": [
     {
-      "id": 407436,
-      "title": "Mowgli: Legend of the Jungle",
+      "id": 407449,
+      "title": "Lucky",
       "type": "movie",
-      "year": 2018,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pApaVlxJCp2o4mrzCAD3AaLjq77.jpg",
-      "plot_overview": "A human child raised by wolves, must face off against a menacing tiger named Shere Khan, as well as his own origins.",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fy2K8jqCV9rNC8fHx9muPJTNaqs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/josJUt5eVMANf06mxSKnJlwjELB.jpg",
+      "plot_overview": "Follows the journey of a 90-year-old atheist and the quirky characters that inhabit his off-the-map desert town. He finds himself at the precipice of life, thrust into a journey of self-exploration.",
       "genres": [
-        "adventure",
-        "drama"
+        "Drama"
       ],
-      "user_rating": 6.472,
+      "user_rating": 7.319,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2018-11-25",
+      "release_date": "2017-09-29",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 407449
+    },
+    {
+      "id": 407655,
+      "title": "A Cinderella Story: If the Shoe Fits",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qtxOA6Sb8lK1PfRiwduxYVuzaEv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/urVVujFxDMojvl1zor3z6V8P7kl.jpg",
+      "plot_overview": "A contemporary musical version of the classic Cinderella story in which the servant step daughter hope to compete in a musical competition for a famous pop star.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-08-02",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 407655
+    },
+    {
+      "id": 407806,
+      "title": "13th",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hwn9CN2x5Qhm3laLRvZlXttL6LU.jpg",
+      "plot_overview": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.871,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-10-07",
       "streaming_services": [
         {
           "service_id": 8,
@@ -27,10 +76,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 407436,
-      "relevance_score": 5.8926
+      "tmdb_id": 407806
     }
   ]
 }

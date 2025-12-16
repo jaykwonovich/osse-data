@@ -1,6 +1,6 @@
 {
   "range": "116001-117000",
-  "updated_at": 1765842560049,
+  "updated_at": 1765853014662,
   "shows": [
     {
       "id": 116135,
@@ -28,6 +28,32 @@
         }
       ],
       "tmdb_id": 116135
+    },
+    {
+      "id": 116149,
+      "title": "Paddington",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+      "plot_overview": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.113,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-11-24",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 116149
     },
     {
       "id": 116450,
@@ -85,7 +111,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 116799
+      "tmdb_id": 116799,
+      "is_returning": true,
+      "next_season": 4,
+      "next_air_date": "2026-02-05",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

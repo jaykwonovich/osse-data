@@ -1,20 +1,19 @@
 {
   "range": "661001-662000",
-  "updated_at": 1765830970626,
+  "updated_at": 1765853014714,
   "shows": [
     {
       "id": 661374,
       "title": "Glass Onion: A Knives Out Mystery",
       "type": "movie",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
       "plot_overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
       "genres": [
-        "comedy",
-        "crime",
-        "mystery"
+        "Comedy",
+        "Crime",
+        "Mystery"
       ],
       "user_rating": 7.039,
       "critic_score": null,
@@ -28,10 +27,57 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 661374,
-      "relevance_score": 29.7926
+      "tmdb_id": 661374
+    },
+    {
+      "id": 661539,
+      "title": "A Complete Unknown",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kcCy5tKTe6WepVQ6SQaSewpmoCj.jpg",
+      "plot_overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.105,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-12-25",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 661539
+    },
+    {
+      "id": 661914,
+      "title": "One Night in Miami...",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1DLUb9PTDqXMSgsD7RmiJs7ZJIx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yUyuDacqA0IhWqEbPQPXBsEIbPX.jpg",
+      "plot_overview": "In the aftermath of Cassius Clay's defeat of Sonny Liston in 1964, the boxer meets with Malcolm X, Sam Cooke and Jim Brown to change the course of history in the segregated South.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.023,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-12-25",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 661914
     }
   ]
 }

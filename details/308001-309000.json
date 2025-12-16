@@ -1,6 +1,6 @@
 {
   "range": "308001-309000",
-  "updated_at": 1765842560067,
+  "updated_at": 1765853014685,
   "shows": [
     {
       "id": 308019,
@@ -25,7 +25,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 308019
+      "tmdb_id": 308019,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-08",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 308051,
@@ -50,7 +55,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 308051
+      "tmdb_id": 308051,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-02-12",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 308065,
@@ -79,7 +89,12 @@
         "ITV"
       ],
       "networks": [],
-      "tmdb_id": 308065
+      "tmdb_id": 308065,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-04",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 308098,
@@ -98,15 +113,24 @@
       "release_date": "2026-01-01",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 308098
+      "tmdb_id": 308098,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-01",
+      "next_episode": 1,
+      "relevance_score": 75,
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "gemini",
+      "prediction_confidence": 0.85
     },
     {
       "id": 308155,
@@ -131,7 +155,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 308155
+      "tmdb_id": 308155,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-25",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 308192,
@@ -156,7 +185,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 308192
+      "tmdb_id": 308192,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-15",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 308359,
@@ -181,7 +215,39 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 308359
+      "tmdb_id": 308359,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-13",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 308639,
+      "title": "Dope",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/n6u00imN7AX2NiyWUc5kTgHXmEf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4Yihb0wD1Jd2sQtNrKo9TOs8S3l.jpg",
+      "plot_overview": "Malcolm is carefully surviving life in a tough neighborhood in Los Angeles while juggling college applications, academic interviews, and the SAT. A chance invitation to an underground party leads him into an adventure that could allow him to go from being a geek, to being dope, to ultimately being himself.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 7.061,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-06-19",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 308639
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "240001-241000",
-  "updated_at": 1765842560057,
+  "updated_at": 1765853014675,
   "shows": [
     {
       "id": 240558,
@@ -62,7 +62,12 @@
       "networks": [
         "Prime Video"
       ],
-      "tmdb_id": 240740
+      "tmdb_id": 240740,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-03-11",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

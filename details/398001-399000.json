@@ -1,35 +1,83 @@
 {
   "range": "398001-399000",
-  "updated_at": 1765830970619,
+  "updated_at": 1765853014694,
   "shows": [
     {
-      "id": 398124,
-      "title": "ECW Super Summer Sizzler 1993",
+      "id": 398173,
+      "title": "The House That Jack Built",
       "type": "movie",
-      "year": 1993,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/997VDmCNbRIwLsU5ly55122N8Hw.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lTRv9qnTsHMvbu2gDMSOIBSZFTm.jpg",
-      "plot_overview": "\"Hot Stuff\" Eddie Gilbert faces Terry Funk in the Texas chain match massacre main event: The Sandman vs. Rockin' Rebel in a Philadelphia street fight match; Dick Murdoch takes on Dark Patriot Il.",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bMUGNkPaHOurcBK9g3XpJx3fxuO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1UAjYFLLQYOzFd0Ud6YQq2HoubU.jpg",
+      "plot_overview": "Failed architect, engineer and vicious murderer Jack narrates the details of some of his most elaborately orchestrated crimes, each of them a towering piece of art that defines his life's work as a serial killer for twelve years.",
       "genres": [
-        "action"
+        "Drama",
+        "Crime"
       ],
-      "user_rating": 2.0,
+      "user_rating": 7.13,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1993-06-19",
+      "release_date": "2018-10-04",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 398124,
-      "relevance_score": 9.3223
+      "tmdb_id": 398173
+    },
+    {
+      "id": 398818,
+      "title": "Call Me by Your Name",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+      "plot_overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 8.101,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-07-28",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 398818
+    },
+    {
+      "id": 398978,
+      "title": "The Irishman",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+      "plot_overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.581,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-11-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 398978
     }
   ]
 }

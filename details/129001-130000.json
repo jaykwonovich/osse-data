@@ -1,6 +1,6 @@
 {
   "range": "129001-130000",
-  "updated_at": 1765842560051,
+  "updated_at": 1765853014663,
   "shows": [
     {
       "id": 129552,
@@ -27,7 +27,37 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 129552
+      "tmdb_id": 129552,
+      "is_returning": true,
+      "next_season": 3,
+      "next_air_date": "2026-02-19",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 129670,
+      "title": "Nebraska",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/o1t2Mw18EEBnl8v4Nby3PFjxnM1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yePsFcldyZ6VnxaBr8ZbVEaOt4W.jpg",
+      "plot_overview": "An aging, booze-addled father takes a trip from Montana to Nebraska with his estranged son in order to claim what he believes to be a million-dollar sweepstakes prize.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.45,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-09-21",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 129670
     }
   ]
 }

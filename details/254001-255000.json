@@ -1,6 +1,6 @@
 {
   "range": "254001-255000",
-  "updated_at": 1765842560059,
+  "updated_at": 1765853014677,
   "shows": [
     {
       "id": 254071,
@@ -32,7 +32,38 @@
       "networks": [
         "Prime Video"
       ],
-      "tmdb_id": 254071
+      "tmdb_id": 254071,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-21",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 254320,
+      "title": "The Lobster",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hOBXwqctOrWZxIguHPfP5rbSmQU.jpg",
+      "plot_overview": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-10-15",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 254320
     },
     {
       "id": 254544,

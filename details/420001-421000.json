@@ -1,23 +1,70 @@
 {
   "range": "420001-421000",
-  "updated_at": 1765702770814,
+  "updated_at": 1765853014697,
   "shows": [
+    {
+      "id": 420809,
+      "title": "Maleficent: Mistress of Evil",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/skvI4rYFrKXS73BJxWGH54Omlvv.jpg",
+      "plot_overview": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
+      "genres": [
+        "Family"
+      ],
+      "user_rating": 7.301,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-10-16",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 420809
+    },
+    {
+      "id": 420814,
+      "title": "Christopher Robin",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3O5tanjVJGo8sgxC0Y8A1ecFB6d.jpg",
+      "plot_overview": "Christopher Robin, the boy who had countless adventures in the Hundred Acre Wood, has grown up and lost his way. Now it\u2019s up to his spirited and loveable stuffed animals, Winnie The Pooh, Tigger, Piglet, and the rest of the gang, to rekindle their friendship and remind him of endless days of childlike wonder and make-believe, when doing nothing was the very best something.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.306,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-08-01",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 420814
+    },
     {
       "id": 420817,
       "title": "Aladdin",
       "type": "movie",
       "year": 2019,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yJyZRrXaYUjhOrJGga8awbw4Rud.jpg",
       "plot_overview": "A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.",
       "genres": [
-        "adventure",
-        "fantasy",
-        "romance",
-        "family"
+        "Family"
       ],
-      "user_rating": 7.092,
+      "user_rating": 7.091,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-05-22",
@@ -29,27 +76,22 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 420817,
-      "relevance_score": 9.3284
+      "tmdb_id": 420817
     },
     {
       "id": 420818,
       "title": "The Lion King",
       "type": "movie",
       "year": 2019,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
       "plot_overview": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother\u2014and former heir to the throne\u2014has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
       "genres": [
-        "adventure",
-        "drama",
-        "family",
-        "animation"
+        "Drama",
+        "Family",
+        "Animation"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.102,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-07-12",
@@ -61,10 +103,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 420818,
-      "relevance_score": 9.1261
+      "tmdb_id": 420818
     }
   ]
 }

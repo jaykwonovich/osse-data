@@ -1,21 +1,73 @@
 {
   "range": "574001-575000",
-  "updated_at": 1765830970624,
+  "updated_at": 1765853014709,
   "shows": [
+    {
+      "id": 574074,
+      "title": "Kitbull",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mwKO3cZbxipgd9QAPboJVTDLPiN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xtj3EhrFHMrZCLTWH6LarEXAG8r.jpg",
+      "plot_overview": "An unlikely connection sparks between two creatures: a fiercely independent stray kitten and a pit bull. Together, they experience friendship for the first time.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Drama"
+      ],
+      "user_rating": 7.951,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-01-18",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 574074
+    },
+    {
+      "id": 574093,
+      "title": "Float",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mgwObpU1NCXfPqF7ZaTpi80mxsF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/noXgfgDAeVt8ZMUc4Ov6u9PHtOK.jpg",
+      "plot_overview": "A father discovers that his son floats, which makes him different from other kids.  To keep them both safe from the judgement of the world, Dad hides, covers, and grounds him. But when his son's ability becomes public, Dad must decide whether to run and hide or to accept his son as he is.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "user_rating": 7.26,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-11-12",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 574093
+    },
     {
       "id": 574475,
       "title": "Final Destination Bloodlines",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
       "plot_overview": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
       "genres": [
-        "horror",
-        "mystery"
+        "Mystery"
       ],
-      "user_rating": 7.104,
+      "user_rating": 7.105,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-05-14",
@@ -27,10 +79,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 574475,
-      "relevance_score": 30.0637
+      "tmdb_id": 574475
     }
   ]
 }

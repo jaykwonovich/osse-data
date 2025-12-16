@@ -1,37 +1,57 @@
 {
   "range": "1248001-1249000",
-  "updated_at": 1765830970648,
+  "updated_at": 1765853014740,
   "shows": [
     {
       "id": 1248226,
       "title": "Playdate",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
       "plot_overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian\u2014totally unprepared\u2014must survive one absurd obstacle after another.",
       "genres": [
-        "action",
-        "comedy",
-        "family"
+        "Comedy",
+        "Family"
       ],
-      "user_rating": 6.16,
+      "user_rating": 6.165,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-11-05",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
+          "service_id": 0,
+          "service_name": "Theatrical",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1248226,
-      "relevance_score": 44.1795
+      "tmdb_id": 1248226
+    },
+    {
+      "id": 1248753,
+      "title": "Amber Alert",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sI0WxsgVFE5RkPA7G6PznWRxBEW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vt37v6ouquokPYeEg3xqkzKjHRj.jpg",
+      "plot_overview": "A ride-share turns into a high-stakes game of cat and mouse after it follows a car fitting the description of an AMBER Alert.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.046,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-09-27",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1248753
     }
   ]
 }

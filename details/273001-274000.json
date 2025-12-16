@@ -1,6 +1,6 @@
 {
   "range": "273001-274000",
-  "updated_at": 1765842560061,
+  "updated_at": 1765853014679,
   "shows": [
     {
       "id": 273160,
@@ -33,7 +33,12 @@
         "FX",
         "Hulu"
       ],
-      "tmdb_id": 273160
+      "tmdb_id": 273160,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-21",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 273247,
@@ -59,6 +64,58 @@
         }
       ],
       "tmdb_id": 273247
+    },
+    {
+      "id": 273248,
+      "title": "The Hateful Eight",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
+      "plot_overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Western"
+      ],
+      "user_rating": 7.755,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-12-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 273248
+    },
+    {
+      "id": 273481,
+      "title": "Sicario",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+      "plot_overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+      "genres": [
+        "Crime"
+      ],
+      "user_rating": 7.415,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-09-17",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 273481
     },
     {
       "id": 273754,

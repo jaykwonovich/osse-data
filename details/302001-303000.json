@@ -1,6 +1,6 @@
 {
   "range": "302001-303000",
-  "updated_at": 1765842560066,
+  "updated_at": 1765853014684,
   "shows": [
     {
       "id": 302074,
@@ -20,8 +20,8 @@
       "release_date": "2026-02-24",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -32,7 +32,42 @@
       "networks": [
         "ABC"
       ],
-      "tmdb_id": 302074
+      "tmdb_id": 302074,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-02-24",
+      "next_episode": 1,
+      "relevance_score": 75,
+      "service_name": "Hulu",
+      "service_id": 15,
+      "prediction_source": "gemini",
+      "prediction_confidence": 0.9
+    },
+    {
+      "id": 302429,
+      "title": "Strange Magic",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vjCdrK8gGRFnyuZb1j9BzgN2RaY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aUbyQhWcPS7S0Su2d9Tgk3NxdPk.jpg",
+      "plot_overview": "A love potion works its devious charms on fairies, elves and the swamp-dwelling Bog King as they all try to possess the potion for themselves.",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 7.177,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-01-23",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 302429
     },
     {
       "id": 302540,
@@ -134,7 +169,38 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 302919
+      "tmdb_id": 302919,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-19",
+      "next_episode": 3,
+      "relevance_score": 75
+    },
+    {
+      "id": 302946,
+      "title": "The Accountant",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+      "plot_overview": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.131,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-10-13",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 302946
     }
   ]
 }

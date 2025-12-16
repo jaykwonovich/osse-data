@@ -1,6 +1,6 @@
 {
   "range": "56001-57000",
-  "updated_at": 1765842560037,
+  "updated_at": 1765853014649,
   "shows": [
     {
       "id": 56570,
@@ -26,7 +26,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 56570
+      "tmdb_id": 56570,
+      "is_returning": true,
+      "next_season": 8,
+      "next_air_date": "2026-03-06",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 56590,
@@ -52,6 +57,31 @@
         }
       ],
       "tmdb_id": 56590
+    },
+    {
+      "id": 56831,
+      "title": "The Sunset Limited",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8cwqylJVbCfMflcjXQ71CwsXdpf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iraunnwrss2DJy4xayyntWHaAZR.jpg",
+      "plot_overview": "A deeply religious black ex-con thwarts the suicide attempt of an asocial white college professor who tries to throw himself in front of an oncoming subway train, 'The Sunset Limited.' As the one attempts to connect on a rational, spiritual and emotional level, the other remains steadfast in his hard-earned despair. Locked in a philosophical debate, both passionately defend their personal credos and try to convert the other.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.212,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-02-12",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 56831
     }
   ]
 }

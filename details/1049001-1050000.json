@@ -1,20 +1,17 @@
 {
   "range": "1049001-1050000",
-  "updated_at": 1765651619765,
+  "updated_at": 1765853014731,
   "shows": [
     {
       "id": 1049574,
       "title": "Darkness of Man",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/mTYDsPX2n4kdMheBZnqe1tzcimH.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rSRA1p4e3laAAJflzdgtqNlx27Y.jpg",
       "plot_overview": "Russell Hatch, an Interpol operative who takes on the role of father figure to Jayden, the son of an informant killed in a routine raid gone wrong. Years later, Hatch finds himself protecting Jayden and his grandfather from a group of merciless gangs in an all-out turf war, stopping at nothing to protect Jayden and fight anyone getting in his way.",
       "genres": [
-        "action",
-        "crime",
-        "thriller"
+        "Crime"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -23,15 +20,37 @@
       "streaming_services": [
         {
           "service_id": 0,
-          "service_name": "Coming Soon",
+          "service_name": "Theatrical",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1049574,
-      "relevance_score": 2.7774
+      "tmdb_id": 1049574
+    },
+    {
+      "id": 1049638,
+      "title": "Rye Lane",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/int5eEKNc8g0V5i3XYaPeaC6paD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3di4noZGr04O2lyqgDgWNbyW1wA.jpg",
+      "plot_overview": "Two twenty-somethings, both reeling from bad break-ups, connect over the course of an eventful day in South London \u2013 helping each other deal with their nightmare exes, and potentially restoring their faith in romance.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-03-17",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1049638
     }
   ]
 }

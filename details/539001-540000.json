@@ -1,22 +1,95 @@
 {
   "range": "539001-540000",
-  "updated_at": 1765830970623,
+  "updated_at": 1765853014706,
   "shows": [
+    {
+      "id": 539537,
+      "title": "Fantasy Island",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dzfiE2VHY362dGI62XfZ2iI87CT.jpg",
+      "plot_overview": "A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 5.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-02-12",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 539537
+    },
+    {
+      "id": 539617,
+      "title": "Big Time Adolescence",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4VI2b0S2jKFEeAUGaKZ4CQbXLa1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2DwSRqFuqZoGqbJVkuAFsulYVQA.jpg",
+      "plot_overview": "A seemingly bright and mostly innocent 16-year-old named Mo attempts to navigate high school under the guidance of his best friend Zeke, an unmotivated-yet-charismatic college dropout. Although Zeke genuinely cares about Mo, things start to go awry as he teaches Mo nontraditional life lessons in drug dealing, partying, and dating. Meanwhile, Mo\u2019s well-meaning dad tries to step in and take back the reins of his son\u2019s upbringing.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-03-13",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 539617
+    },
+    {
+      "id": 539681,
+      "title": "DC League of Super-Pets",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qpPMewlugFaejXjz4YNDnpTniFX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xfNHRI2f5kHGvogxLd0C5sB90L7.jpg",
+      "plot_overview": "When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Animation"
+      ],
+      "user_rating": 7.181,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-07-27",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 539681
+    },
     {
       "id": 539972,
       "title": "Kraven the Hunter",
       "type": "movie",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/i47IUSsN126K11JUzqQIOi1Mg1M.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
       "plot_overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
-      "genres": [
-        "action",
-        "adventure",
-        "thriller"
-      ],
-      "user_rating": 6.47,
+      "genres": [],
+      "user_rating": 6.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-12-11",
@@ -28,10 +101,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 539972,
-      "relevance_score": 18.1525
+      "tmdb_id": 539972
     }
   ]
 }

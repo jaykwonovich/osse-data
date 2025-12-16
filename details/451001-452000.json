@@ -1,22 +1,18 @@
 {
   "range": "451001-452000",
-  "updated_at": 1765702770802,
+  "updated_at": 1765853014698,
   "shows": [
     {
       "id": 451048,
       "title": "Jungle Cruise",
       "type": "movie",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/3UPz63cGsAQlYQnkOHfAbUhl1O3.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7WJjFviFBffEJvkAms4uWwbcVUk.jpg",
       "plot_overview": "Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal \u2013 a discovery that will change the future of medicine.",
       "genres": [
-        "fantasy",
-        "adventure",
-        "family",
-        "action",
-        "comedy"
+        "Family",
+        "Comedy"
       ],
       "user_rating": 7.318,
       "critic_score": null,
@@ -30,29 +26,23 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 451048,
-      "relevance_score": 11.7686
+      "tmdb_id": 451048
     },
     {
-      "id": 451184,
-      "title": "Wasp Network",
+      "id": 451480,
+      "title": "The Guernsey Literary & Potato Peel Pie Society",
       "type": "movie",
-      "year": 2020,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fzjbeyEwmlpxu5CMzmFz8IDVELm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sOy92H9RdKfsC4OY4umZi2rPrur.jpg",
-      "plot_overview": "Havana, Cuba, 1990. Ren\u00e9 Gonz\u00e1lez, an airplane pilot, unexpectedly flees the country, leaving behind his wife Olga and his daughter Irma, and begins a new life in Miami, where he becomes a member of an anti-Castro organization.",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2XcN2aIma8TqShsOBPbcpxLzY1A.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mGDUIbcrdULI7N0eg1Ip7oY0aUS.jpg",
+      "plot_overview": "Free-spirited writer Juliet Ashton forms a life-changing bond with the delightful and eccentric Guernsey Literary and Potato Peel Pie Society, when she decides to write about the book club they formed during the occupation of Guernsey in WWII.",
       "genres": [
-        "drama",
-        "history",
-        "thriller"
+        "Drama"
       ],
-      "user_rating": 6.036,
+      "user_rating": 7.411,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2020-01-29",
+      "release_date": "2018-04-19",
       "streaming_services": [
         {
           "service_id": 8,
@@ -61,10 +51,32 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 451184,
-      "relevance_score": 8.0376
+      "tmdb_id": 451480
+    },
+    {
+      "id": 451915,
+      "title": "Beautiful Boy",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u2Gfv0mz3xePsgyCPHovrnFL1sB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sOhtC4cmaYPOlcjXCWxxrx2NKKn.jpg",
+      "plot_overview": "After he and his first wife separate, journalist David Sheff struggles to help their teenage son, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.546,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-10-12",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 451915
     }
   ]
 }

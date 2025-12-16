@@ -1,6 +1,6 @@
 {
   "range": "211001-212000",
-  "updated_at": 1765842560054,
+  "updated_at": 1765853014672,
   "shows": [
     {
       "id": 211288,
@@ -26,7 +26,35 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 211288
+      "tmdb_id": 211288,
+      "is_returning": true,
+      "next_season": 3,
+      "next_air_date": "2026-03-01",
+      "next_episode": 10,
+      "relevance_score": 75
+    },
+    {
+      "id": 211387,
+      "title": "Marvel One-Shot: Agent Carter",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4vFKKWPvCVDJTOWiwReBfpAMScP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kv8KDbi2I4F4MNBbBMCR4LDqP6H.jpg",
+      "plot_overview": "The film takes place one year after the events of Captain America: The First Avenger, in which Agent Carter, a member of the Strategic Scientific Reserve, is in search of the mysterious Zodiac.",
+      "genres": [],
+      "user_rating": 7.236,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-10-04",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 211387
     },
     {
       "id": 211684,

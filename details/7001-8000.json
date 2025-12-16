@@ -1,7 +1,32 @@
 {
   "range": "7001-8000",
-  "updated_at": 1765842560030,
+  "updated_at": 1765853014634,
   "shows": [
+    {
+      "id": 7214,
+      "title": "Coach Carter",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y3HOTTyM5nLsdUzXFtFCohG28qj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/n4CvA50GBtIPrSqCl8nMNZCliYI.jpg",
+      "plot_overview": "Based on a true story, in which Richmond High School head basketball coach Ken Carter made headlines in 1999 for benching his undefeated team due to poor academic results.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.574,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2005-01-14",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 7214
+    },
     {
       "id": 7225,
       "title": "Merlin",
@@ -30,6 +55,32 @@
       "tmdb_id": 7225
     },
     {
+      "id": 7326,
+      "title": "Juno",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
+      "plot_overview": "Faced with an unplanned pregnancy, sixteen year old high-schooler, Juno MacGuff, makes an unusual decision regarding her unborn child.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.054,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-12-05",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 7326
+    },
+    {
       "id": 7482,
       "title": "Leverage",
       "type": "tv_series",
@@ -56,6 +107,38 @@
         }
       ],
       "tmdb_id": 7482
+    },
+    {
+      "id": 7972,
+      "title": "Before the Devil Knows You're Dead",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/egIP0s1ws6fGHqTsVqVNcaEa5i2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ocAiyzGWhfr3PtNXxYih5s19c1h.jpg",
+      "plot_overview": "When two brothers organize the robbery of their parents' jewelry store, the job goes horribly wrong, triggering a series of events that send them and their family hurtling towards a shattering climax.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.112,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-09-26",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 7972
     }
   ]
 }

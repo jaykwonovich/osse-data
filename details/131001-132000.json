@@ -1,6 +1,6 @@
 {
   "range": "131001-132000",
-  "updated_at": 1765842560051,
+  "updated_at": 1765853014664,
   "shows": [
     {
       "id": 131378,
@@ -28,7 +28,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 131378
+      "tmdb_id": 131378,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2025-12-18",
+      "next_episode": 9,
+      "relevance_score": 75
     }
   ]
 }

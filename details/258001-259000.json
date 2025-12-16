@@ -1,7 +1,32 @@
 {
   "range": "258001-259000",
-  "updated_at": 1765842560060,
+  "updated_at": 1765853014678,
   "shows": [
+    {
+      "id": 258480,
+      "title": "Carol",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cJeled7EyPdur6TnCA5GYg0UVna.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o0ghC4XMIMdbRBXIqSvnPrxwj3W.jpg",
+      "plot_overview": "In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-11-20",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 258480
+    },
     {
       "id": 258742,
       "title": "All's Fair",
@@ -58,7 +83,12 @@
         "T\u00e9l\u00e9film Canada"
       ],
       "networks": [],
-      "tmdb_id": 258978
+      "tmdb_id": 258978,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-25",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

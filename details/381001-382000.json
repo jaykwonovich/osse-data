@@ -1,37 +1,54 @@
 {
   "range": "381001-382000",
-  "updated_at": 1765702700573,
+  "updated_at": 1765853014693,
   "shows": [
     {
-      "id": 381719,
-      "title": "Peter Rabbit",
+      "id": 381284,
+      "title": "Hidden Figures",
       "type": "movie",
-      "year": 2018,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lugOvdaNpbVGQK9TyMRDiUbLtY6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1wj8H9gdtkb98Tl3zu0hrHfW0qw.jpg",
-      "plot_overview": "Peter Rabbit's feud with Mr. McGregor escalates to greater heights than ever before as they rival for the affections of the warm-hearted animal lover who lives next door.",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+      "plot_overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson \u2013 brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history \u2013 the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
       "genres": [
-        "animation",
-        "adventure",
-        "family"
+        "Drama"
       ],
-      "user_rating": 6.695,
+      "user_rating": 8.051,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2018-02-07",
+      "release_date": "2016-12-10",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 381719,
-      "relevance_score": 7.9998
+      "tmdb_id": 381284
+    },
+    {
+      "id": 381288,
+      "title": "Split",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+      "plot_overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him \u2014 as well as everyone around him \u2014 as the walls between his compartments shatter apart.",
+      "genres": [],
+      "user_rating": 7.342,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-01-19",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 381288
     }
   ]
 }

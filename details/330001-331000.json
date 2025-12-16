@@ -1,22 +1,19 @@
 {
   "range": "330001-331000",
-  "updated_at": 1765702770801,
+  "updated_at": 1765853014687,
   "shows": [
     {
       "id": 330457,
       "title": "Frozen II",
       "type": "movie",
       "year": 2019,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
       "plot_overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
       "genres": [
-        "family",
-        "animation",
-        "adventure",
-        "comedy",
-        "fantasy"
+        "Family",
+        "Animation",
+        "Comedy"
       ],
       "user_rating": 7.24,
       "critic_score": null,
@@ -30,10 +27,30 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 330457,
-      "relevance_score": 10.321
+      "tmdb_id": 330457
+    },
+    {
+      "id": 330459,
+      "title": "Rogue One: A Star Wars Story",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+      "plot_overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+      "genres": [],
+      "user_rating": 7.503,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-12-14",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 330459
     }
   ]
 }

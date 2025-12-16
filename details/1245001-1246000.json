@@ -1,37 +1,58 @@
 {
   "range": "1245001-1246000",
-  "updated_at": 1765702700555,
+  "updated_at": 1765853014740,
   "shows": [
+    {
+      "id": 1245347,
+      "title": "Twinless",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9vaw9Az5tPLMjNLj426KgKsp0k8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fnvTC96lA7pf8ZlMKI2FgBZ86AP.jpg",
+      "plot_overview": "Two young men meet in a twin support group and form an unlikely friendship. Roman and Dennis both search for solace and an identity without their other halves and soon become inseparable outside the group.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.167,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-09-04",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1245347
+    },
     {
       "id": 1245993,
       "title": "Caught Stealing",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zWO3B2CTDguZqCrVQ2u5Xnp9VRS.jpg",
       "plot_overview": "Burned-out ex-baseball player Hank Thompson unexpectedly finds himself embroiled in a dangerous struggle for survival amidst the criminal underbelly of late 1990s New York City, forced to navigate a treacherous underworld he never imagined.",
       "genres": [
-        "crime",
-        "thriller",
-        "comedy"
+        "Crime",
+        "Comedy"
       ],
-      "user_rating": 6.917,
+      "user_rating": 6.919,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-08-26",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 0,
+          "service_name": "Theatrical",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1245993,
-      "relevance_score": 11.1598
+      "tmdb_id": 1245993
     }
   ]
 }

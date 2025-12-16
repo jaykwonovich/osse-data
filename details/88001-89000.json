@@ -1,7 +1,34 @@
 {
   "range": "88001-89000",
-  "updated_at": 1765842560044,
+  "updated_at": 1765853014656,
   "shows": [
+    {
+      "id": 88018,
+      "title": "The Skeleton Dance",
+      "type": "movie",
+      "year": 1929,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zYwp7SK4HRc9sf4oog3XP02dJv4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kw44acMdZBc1NAvuHAdMRO4i4pi.jpg",
+      "plot_overview": "The clock strikes midnight, the bats fly from the belfry, a dog howls at the full moon, and two black cats fight in the cemetery: a perfect time for four skeletons to come out and dance a bit.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 7.371,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1929-08-29",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 88018
+    },
     {
       "id": 88055,
       "title": "Servant",
@@ -80,6 +107,32 @@
         }
       ],
       "tmdb_id": 88396
+    },
+    {
+      "id": 88751,
+      "title": "Journey to the Center of the Earth",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kL55wY0s2H9JdwfjoWIp9plvYnl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/Adlc8JMVEXOelFO6hYpIYcGBx2T.jpg",
+      "plot_overview": "On a quest to find out what happened to his missing brother, a scientist, his nephew and their mountain guide discover a fantastic and dangerous lost world in the center of the earth.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 6.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-07-10",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 88751
     }
   ]
 }

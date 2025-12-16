@@ -1,20 +1,18 @@
 {
   "range": "1125001-1126000",
-  "updated_at": 1765830970643,
+  "updated_at": 1765853014734,
   "shows": [
     {
       "id": 1125257,
       "title": "Freakier Friday",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
       "plot_overview": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
       "genres": [
-        "comedy",
-        "fantasy",
-        "family"
+        "Comedy",
+        "Family"
       ],
       "user_rating": 6.839,
       "critic_score": null,
@@ -22,16 +20,13 @@
       "release_date": "2025-08-06",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 0,
+          "service_name": "Theatrical",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1125257,
-      "relevance_score": 15.7051
+      "tmdb_id": 1125257
     }
   ]
 }

@@ -1,22 +1,42 @@
 {
   "range": "566001-567000",
-  "updated_at": 1765644325623,
+  "updated_at": 1765853014708,
   "shows": [
+    {
+      "id": 566228,
+      "title": "The Inventor: Out for Blood in Silicon Valley",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u21ImPnHHX2SFgkdHIjwlpEwRux.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/911kCT2YwGBhFz1CNDfb0La8ybG.jpg",
+      "plot_overview": "With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world\u2019s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.054,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-01-24",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 566228
+    },
     {
       "id": 566525,
       "title": "Shang-Chi and the Legend of the Ten Rings",
       "type": "movie",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/d08HqqeBQSwN8i8MEvpsZ8Cb438.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fJbWgOb9pSQXihM9m10bRvl2dJ8.jpg",
       "plot_overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
-      "genres": [
-        "action",
-        "adventure",
-        "fantasy"
-      ],
-      "user_rating": 7.504,
+      "genres": [],
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-09-01",
@@ -28,10 +48,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 566525,
-      "relevance_score": 18.8448
+      "tmdb_id": 566525
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "246001-247000",
-  "updated_at": 1765842560058,
+  "updated_at": 1765853014676,
   "shows": [
     {
       "id": 246386,
@@ -27,7 +27,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 246386
+      "tmdb_id": 246386,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-19",
+      "next_episode": 7,
+      "relevance_score": 75
     },
     {
       "id": 246412,
@@ -61,7 +66,12 @@
       "networks": [
         "Peacock"
       ],
-      "tmdb_id": 246412
+      "tmdb_id": 246412,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-27",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

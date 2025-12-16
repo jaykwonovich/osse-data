@@ -1,21 +1,42 @@
 {
   "range": "1007001-1008000",
-  "updated_at": 1765830970637,
+  "updated_at": 1765853014730,
   "shows": [
+    {
+      "id": 1007401,
+      "title": "Mortal Kombat Legends: Snow Blind",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8wyOdQRVrpoUb2wMdGHykaD17GM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wanzoO9nrsMYWWAoBYH8zZdp4si.jpg",
+      "plot_overview": "Hellbent on taking over Earthrealm, Kano viciously attacks town after town with the aid of three cold-blooded Black Dragon mercenaries. Those who don\u2019t submit are annihilated but one young man won\u2019t bend the knee to Kano: Kenshi.",
+      "genres": [
+        "Animation"
+      ],
+      "user_rating": 7.814,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-10-09",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1007401
+    },
     {
       "id": 1007734,
       "title": "Nobody 2",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/xGLoqM9peusKQeuwlSw2Qlhx740.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/82C04rTiXYZ7c8XZv91Nu53w82Y.jpg",
       "plot_overview": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
-      "genres": [
-        "action",
-        "thriller"
-      ],
-      "user_rating": 7.039,
+      "genres": [],
+      "user_rating": 7.042,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-08-13",
@@ -27,10 +48,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1007734,
-      "relevance_score": 39.789
+      "tmdb_id": 1007734
     }
   ]
 }

@@ -1,7 +1,64 @@
 {
   "range": "286001-287000",
-  "updated_at": 1765842560063,
+  "updated_at": 1765853014681,
   "shows": [
+    {
+      "id": 286192,
+      "title": "Lava",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/blZSkXNN4CzRBxdxXnz3YpUjnJp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7cdsVkbs7tAuZJwJRYb65dN5kMv.jpg",
+      "plot_overview": "Inspired by the isolated beauty of tropical islands and the explosive allure of ocean volcanoes, Lava is a musical love story that takes place over millions of years.",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 7.262,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-10-10",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 286192
+    },
+    {
+      "id": 286217,
+      "title": "The Martian",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sq8oUjbBvKkqv9h0Ns5rQbbquhZ.jpg",
+      "plot_overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.691,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-09-30",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 286217
+    },
     {
       "id": 286280,
       "title": "Dissonance",
@@ -25,7 +82,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 286280
+      "tmdb_id": 286280,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-30",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 286801,

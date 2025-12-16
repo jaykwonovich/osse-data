@@ -1,20 +1,69 @@
 {
   "range": "438001-439000",
-  "updated_at": 1765830970620,
+  "updated_at": 1765853014698,
   "shows": [
+    {
+      "id": 438148,
+      "title": "Minions: The Rise of Gru",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+      "plot_overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Animation"
+      ],
+      "user_rating": 7.282,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-06-29",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 438148
+    },
+    {
+      "id": 438446,
+      "title": "Mommy Dead and Dearest",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l77SGOaXhLfkBPdl3UqsVMg0w1l.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yh0HQQRTWqBJpJtnombyXJz2L8I.jpg",
+      "plot_overview": "Child abuse, mental illness, and forbidden love converge in this mystery involving a mother and daughter who were thought to be living a fairy tale life that turned out to be a living nightmare.",
+      "genres": [
+        "Crime",
+        "Documentary"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-03-11",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 438446
+    },
     {
       "id": 438631,
       "title": "Dune",
       "type": "movie",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wYMbnrdRCREjNLwFlG5SLWzBjui.jpg",
       "plot_overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
-      "genres": [
-        "sci-fi",
-        "adventure"
-      ],
+      "genres": [],
       "user_rating": 7.777,
       "critic_score": null,
       "us_rating": null,
@@ -27,25 +76,20 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 438631,
-      "relevance_score": 17.8635
+      "tmdb_id": 438631
     },
     {
       "id": 438695,
       "title": "Sing 2",
       "type": "movie",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg",
       "plot_overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
       "genres": [
-        "family",
-        "comedy",
-        "music",
-        "animation"
+        "Family",
+        "Comedy",
+        "Animation"
       ],
       "user_rating": 7.836,
       "critic_score": null,
@@ -59,10 +103,32 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 438695,
-      "relevance_score": 8.8188
+      "tmdb_id": 438695
+    },
+    {
+      "id": 438970,
+      "title": "Sharknado 5: Global Swarming",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tV52jYHf2CkFzIMlrn87xs1aPM.jpg",
+      "plot_overview": "Fin and his wife April travel around the world to save their young son who's trapped inside a sharknado.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 4.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-08-06",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 438970
     }
   ]
 }

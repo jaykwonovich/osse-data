@@ -1,7 +1,32 @@
 {
   "range": "307001-308000",
-  "updated_at": 1765842560067,
+  "updated_at": 1765853014685,
   "shows": [
+    {
+      "id": 307081,
+      "title": "Southpaw",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kSQ49Fi3NVTqGGXILmxV2T2pdkG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zT9iYKMtmU82Jo44WbiuMOW7jRi.jpg",
+      "plot_overview": "Billy \"The Great\" Hope, the reigning junior middleweight boxing champion, has an impressive career, a loving wife and daughter, and a lavish lifestyle. However, when tragedy strikes, Billy hits rock bottom, losing his family, his house and his manager. He soon finds an unlikely savior in Tick Willis, a former fighter who trains the city's toughest amateur boxers. With his future on the line, Hope fights to reclaim the trust of those he loves the most.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.363,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-03-24",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 307081
+    },
     {
       "id": 307482,
       "title": "\u0627\u0644\u0645\u0624\u0633\u0633 \u0639\u062b\u0645\u0627\u0646",
@@ -27,7 +52,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 307482
+      "tmdb_id": 307482,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-18",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 307536,
@@ -58,7 +88,12 @@
       "networks": [
         "PBS"
       ],
-      "tmdb_id": 307536
+      "tmdb_id": 307536,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-02-03",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 307548,
@@ -86,7 +121,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 307548
+      "tmdb_id": 307548,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-02",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 307808,
@@ -113,7 +153,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 307808
+      "tmdb_id": 307808,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-25",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 307819,
@@ -144,7 +189,12 @@
         "Cool & Happy"
       ],
       "networks": [],
-      "tmdb_id": 307819
+      "tmdb_id": 307819,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-23",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 307823,
@@ -164,8 +214,8 @@
       "release_date": "2026-02-01",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
@@ -176,7 +226,16 @@
       "networks": [
         "ABC TV"
       ],
-      "tmdb_id": 307823
+      "tmdb_id": 307823,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-02-01",
+      "next_episode": 1,
+      "relevance_score": 75,
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "gemini",
+      "prediction_confidence": 0.8
     },
     {
       "id": 307873,
@@ -201,7 +260,12 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 307873
+      "tmdb_id": 307873,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-19",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 307913,
@@ -220,8 +284,8 @@
       "release_date": "2026-01-22",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 531,
+          "service_name": "Paramount+",
           "type": "sub",
           "region": "US"
         }
@@ -232,7 +296,16 @@
       "networks": [
         "Paramount+"
       ],
-      "tmdb_id": 307913
+      "tmdb_id": 307913,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-22",
+      "next_episode": 1,
+      "relevance_score": 75,
+      "service_name": "Paramount+",
+      "service_id": 531,
+      "prediction_source": "gemini",
+      "prediction_confidence": 1.0
     },
     {
       "id": 307980,
@@ -264,7 +337,12 @@
       "networks": [
         "Prime Video"
       ],
-      "tmdb_id": 307980
+      "tmdb_id": 307980,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-02-23",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

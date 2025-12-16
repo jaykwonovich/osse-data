@@ -1,23 +1,46 @@
 {
   "range": "555001-556000",
-  "updated_at": 1765702720393,
+  "updated_at": 1765853014708,
   "shows": [
+    {
+      "id": 555285,
+      "title": "Are You There God? It's Me, Margaret.",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qNmLEOGZy37vKAPqcTuZ47uCOS9.jpg",
+      "plot_overview": "When her family moves from New York City to New Jersey, an 11-year-old girl navigates new friends, feelings, and the beginning of adolescence.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.166,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-03-29",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 555285
+    },
     {
       "id": 555604,
       "title": "Guillermo del Toro's Pinocchio",
       "type": "movie",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2JeIqOdSM5nC1SQmuhUOfj3iB1U.jpg",
       "plot_overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
       "genres": [
-        "animation",
-        "fantasy",
-        "adventure",
-        "drama"
+        "Animation",
+        "Drama"
       ],
-      "user_rating": 8.039,
+      "user_rating": 8.04,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-11-09",
@@ -29,10 +52,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 555604,
-      "relevance_score": 7.7429
+      "tmdb_id": 555604
     }
   ]
 }

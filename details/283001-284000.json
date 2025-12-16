@@ -1,6 +1,6 @@
 {
   "range": "283001-284000",
-  "updated_at": 1765842560062,
+  "updated_at": 1765853014680,
   "shows": [
     {
       "id": 283585,
@@ -25,7 +25,85 @@
       ],
       "production_companies": [],
       "networks": [],
-      "tmdb_id": 283585
+      "tmdb_id": 283585,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-31",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 283587,
+      "title": "Beasts of No Nation",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg",
+      "plot_overview": "Based on the experiences of Agu, a child fighting in the civil war of a West African country. Follows Agu's journey as he's forced to join a group of soldiers. While he fears his commander and many of the men around him, his fledgling childhood has been brutally shattered by the war raging through his country, and he is at first torn between conflicting revulsion and fascination.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.587,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-09-11",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 283587
+    },
+    {
+      "id": 283591,
+      "title": "The Secret Scripture",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iVoZqwvGAwxvGVbYV5y04wpiBob.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ZjnHdS0gqPDcy0KI2azWR6HfEJ.jpg",
+      "plot_overview": "The hidden memoir of an elderly woman confined to a mental hospital reveals the history of her passionate yet tortured life, and of the religious and political upheavals in Ireland during the 1920s and 30s.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.274,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-03-23",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 283591
+    },
+    {
+      "id": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+      "plot_overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+      "genres": [],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-04-19",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 283995
     }
   ]
 }

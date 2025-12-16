@@ -1,38 +1,57 @@
 {
   "range": "23001-24000",
-  "updated_at": 1765830970576,
+  "updated_at": 1765853014641,
   "shows": [
     {
-      "id": 23998,
-      "title": "It's Christmastime Again, Charlie Brown",
+      "id": 23168,
+      "title": "The Town",
       "type": "movie",
-      "year": 1992,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/b1nc3Oe8ZR8mcjff64ya3jcVp0a.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/azxFuKwzTaT2NK6552FJzWNMGkq.jpg",
-      "plot_overview": "As the holiday season rolls around and all the Peanuts gang are getting ready for it. Whether it be Charlie Brown struggling to raise money for his girlfriend or Sally and Peppermint Patty struggling to rehearse and memorize their one word lines for the Christmas pageant, these kids try to keep with the Christmas spirit while Snoopy has his mischief to do.",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
+      "plot_overview": "Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her \u2013 but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
       "genres": [
-        "animation",
-        "tv_movie",
-        "family",
-        "comedy"
+        "Crime",
+        "Drama"
       ],
-      "user_rating": 6.0,
+      "user_rating": 7.215,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1992-11-27",
+      "release_date": "2010-09-15",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 23998,
-      "relevance_score": 5.0293
+      "tmdb_id": 23168
+    },
+    {
+      "id": 23383,
+      "title": "Hamlet",
+      "type": "movie",
+      "year": 1948,
+      "poster_url": "https://image.tmdb.org/t/p/w342/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
+      "plot_overview": "Winner of four Academy Awards, including Best Picture and Best Actor, Sir Laurence Olivier\u2019s Hamlet continues to be the most compelling version of Shakespeare\u2019s beloved tragedy. Olivier is at his most inspired\u2014both as director and as the melancholy Dane himself\u2014as he breathes new life into the words of one of the world\u2019s greatest dramatists.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1948-12-10",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 23383
     }
   ]
 }

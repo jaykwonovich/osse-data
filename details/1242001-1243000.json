@@ -1,20 +1,70 @@
 {
   "range": "1242001-1243000",
-  "updated_at": 1765830970648,
+  "updated_at": 1765853014739,
   "shows": [
+    {
+      "id": 1242018,
+      "title": "Billy Preston: That's the Way God Planned It",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bfb1T0BNkDVqrOrQmUPsaNsj7o1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bP9vfwl2YoBcfexbChXdYh44QQ2.jpg",
+      "plot_overview": "With his signature gospel sound on the Hammond B3, Billy Preston doublehandedly elevated the greatest artists of his time \u2013 from the Beatles to the Rolling Stones, from Aretha Franklin to Eric Clapton, from Ray Charles to Barbra Streisand to Sly and the Family Stone. In our film, we explore Billy's career and influence on generations of musicians, as he scored several number one hits of his own and became one of the most sought-after musicians in the world. He did all of this as a soul divided -",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-02-20",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1242018
+    },
+    {
+      "id": 1242419,
+      "title": "Roofman",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2YOnE2qmoyyOUqQsFit12gDSauk.jpg",
+      "plot_overview": "A former Army Ranger and struggling father turns to robbing McDonald\u2019s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys \u201cR\u201d Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
+      "genres": [
+        "Crime",
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.273,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-08",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1242419
+    },
     {
       "id": 1242434,
       "title": "Highest 2 Lowest",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/RFQtinuiHhOnbmJaCn3uzegCYF.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/94KROr9xO9u5Tq5gTdCJlVRRfhm.jpg",
       "plot_overview": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma.",
       "genres": [
-        "thriller",
-        "crime",
-        "drama"
+        "Crime",
+        "Drama"
       ],
       "user_rating": 5.534,
       "critic_score": null,
@@ -28,10 +78,32 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1242434,
-      "relevance_score": 7.3184
+      "tmdb_id": 1242434
+    },
+    {
+      "id": 1242526,
+      "title": "Sound of Hope: The Story of Possum Trot",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/47kytyhKjdY2fwuYR15bBNUUFLb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jO9gxKzxeAIe5h8W6r4KjwWrXeN.jpg",
+      "plot_overview": "Led by Donna and Reverend W.C. Martin, 22 families from a rural Black church in the small East Texas town of Possum Trot adopt 77 of the most difficult-to-place kids in the foster system and kickstart a movement in the process.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-07-04",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1242526
     }
   ]
 }

@@ -1,7 +1,33 @@
 {
   "range": "262001-263000",
-  "updated_at": 1765842560061,
+  "updated_at": 1765853014678,
   "shows": [
+    {
+      "id": 262481,
+      "title": "An Honest Liar",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sXgXPtynmZnLLISonrrc7XtrLKv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/heQXuVyPcPzG98NdU3VtXzWhD4N.jpg",
+      "plot_overview": "An Honest Liar tells the incredible story of the world-famous magician, escape artist, and world-renowned enemy of deception, James 'The Amazing' Randi. The film brings to life Randi's intricate investigations that publicly exposed psychics, faith healers, and con-artists with quasi-religious fervor. A master deceiver who came out of the closet at the age of 81, Randi created fictional characters, fake psychics, and even turned his partner of 25 years, Jose Alvarez, into a sham guru named Carlos",
+      "genres": [
+        "Comedy",
+        "Documentary"
+      ],
+      "user_rating": 7.078,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-04-18",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 262481
+    },
     {
       "id": 262793,
       "title": "PONIES",
@@ -32,7 +58,12 @@
       "networks": [
         "Peacock"
       ],
-      "tmdb_id": 262793
+      "tmdb_id": 262793,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-15",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

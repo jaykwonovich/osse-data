@@ -1,22 +1,17 @@
 {
   "range": "1071001-1072000",
-  "updated_at": 1765830970639,
+  "updated_at": 1765853014732,
   "shows": [
     {
       "id": 1071585,
       "title": "M3GAN 2.0",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/4a63rQqIDTrYNdcnTXdPsQyxVLo.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cT9ZfwoPDk8JbgkessmQgxAWiaM.jpg",
       "plot_overview": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
-      "genres": [
-        "action",
-        "sci-fi",
-        "thriller"
-      ],
-      "user_rating": 7.365,
+      "genres": [],
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-06-25",
@@ -28,10 +23,32 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1071585,
-      "relevance_score": 21.7841
+      "tmdb_id": 1071585
+    },
+    {
+      "id": 1071929,
+      "title": "A Perfect Christmas Pairing",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7paSHHxp47Tm3LUhGXY66Twb4lf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fkdOIYYFPOJo6lAhklq1ytgNFPy.jpg",
+      "plot_overview": "Winter sets in as top chef Grace Cooke, at the helm of a high-end restaurant, rakes in rave reviews due to her gastro-scientific approach to cuisine. She\u2019s close to a Michelin star when a bad review from a top critic rocks her world. With her boss\u2019 blessing, she takes time off to see her family at their winery B&B over Christmas. There, she connects with worldly travel writer Asher St. James, and sparks fly with family traditions as Asher helps her reconnect with her roots.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 5.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-11-01",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "Theatrical",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1071929
     }
   ]
 }

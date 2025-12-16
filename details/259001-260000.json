@@ -1,7 +1,53 @@
 {
   "range": "259001-260000",
-  "updated_at": 1765842560060,
+  "updated_at": 1765853014678,
   "shows": [
+    {
+      "id": 259316,
+      "title": "Fantastic Beasts and Where to Find Them",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+      "plot_overview": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
+      "genres": [],
+      "user_rating": 7.311,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-11-16",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 259316
+    },
+    {
+      "id": 259693,
+      "title": "The Conjuring 2",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ev5Ti7Q0REkoVLO7PkKaq1yZYQE.jpg",
+      "plot_overview": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+      "genres": [],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-06-08",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 259693
+    },
     {
       "id": 259731,
       "title": "HIS & HERS",
@@ -34,7 +80,12 @@
       "networks": [
         "Netflix"
       ],
-      "tmdb_id": 259731
+      "tmdb_id": 259731,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-08",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

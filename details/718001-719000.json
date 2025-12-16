@@ -1,20 +1,17 @@
 {
   "range": "718001-719000",
-  "updated_at": 1765830970627,
+  "updated_at": 1765853014717,
   "shows": [
     {
       "id": 718930,
       "title": "Bullet Train",
       "type": "movie",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
       "plot_overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe\u2014all with connected, yet conflicting, objectives\u2014on the world's fastest train.",
       "genres": [
-        "action",
-        "comedy",
-        "thriller"
+        "Comedy"
       ],
       "user_rating": 7.42,
       "critic_score": null,
@@ -26,12 +23,15 @@
           "service_name": "Hulu",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 718930,
-      "relevance_score": 11.0867
+      "tmdb_id": 718930
     }
   ]
 }

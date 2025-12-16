@@ -1,6 +1,6 @@
 {
   "range": "44001-45000",
-  "updated_at": 1765842560035,
+  "updated_at": 1765853014646,
   "shows": [
     {
       "id": 44006,
@@ -25,7 +25,43 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 44006
+      "tmdb_id": 44006,
+      "is_returning": true,
+      "next_season": 14,
+      "next_air_date": "2026-01-07",
+      "next_episode": 8,
+      "relevance_score": 75
+    },
+    {
+      "id": 44214,
+      "title": "Black Swan",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/viWheBd44bouiLCHgNMvahLThqx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g0geLM1zXpLb9mpqKw1ePcA5bTJ.jpg",
+      "plot_overview": "The story of a ballerina in a New York City ballet company whose life is completely consumed with dance. Nina lives with her retired ballerina mother who zealously supports her daughter's professional ambition. When the artistic director decides to replace the prima ballerina for the opening production of their new season, Nina is his first choice.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.686,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-12-03",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 44214
     },
     {
       "id": 44217,
@@ -56,25 +92,24 @@
     },
     {
       "id": 44264,
-      "title": "Endeavour",
-      "type": "tv_series",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/suX3F5e8XN9emrb52CQSwt2mRwx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/52UMX6fg1PHgkgZicP8eBktR7Ay.jpg",
-      "plot_overview": "The early days of a young Endeavour Morse, whose experiences as a detective constable with the Oxford City Police will ultimately shape his future.",
+      "title": "True Grit",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5dwlH8Krm2bsuc2Pubw2cBb03g5.jpg",
+      "plot_overview": "Following the murder of her father by a hired hand, a 14-year-old farm girl sets out to capture the killer. To aid her, she hires the toughest U.S. Marshal she can find\u2014a man with 'true grit'\u2014Reuben J. 'Rooster' Cogburn.",
       "genres": [
-        "Crime",
         "Drama",
-        "Mystery"
+        "Western"
       ],
-      "user_rating": 8.089,
+      "user_rating": 7.306,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2013-04-14",
+      "release_date": "2010-12-22",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }

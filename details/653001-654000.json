@@ -1,21 +1,16 @@
 {
   "range": "653001-654000",
-  "updated_at": 1765830970626,
+  "updated_at": 1765853014713,
   "shows": [
     {
       "id": 653346,
       "title": "Kingdom of the Planet of the Apes",
       "type": "movie",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iHYh4cdO8ylA3W0dUxTDVdyJ5G9.jpg",
       "plot_overview": "Several generations following Caesar's reign, apes \u2013 now the dominant species \u2013 live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
-      "genres": [
-        "sci-fi",
-        "adventure",
-        "action"
-      ],
+      "genres": [],
       "user_rating": 7.056,
       "critic_score": null,
       "us_rating": null,
@@ -28,10 +23,63 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 653346,
-      "relevance_score": 19.8036
+      "tmdb_id": 653346
+    },
+    {
+      "id": 653349,
+      "title": "Vacation Friends",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cCyJeTAct07ORPJPHyzxCrVtZzh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o0UGl6icA4DbhmDNgdZ5AWvuTtM.jpg",
+      "plot_overview": "When a straight-laced couple that has fun with a rowdy couple on vacation in Mexico return to the States, they discover that the crazy couple they met in Mexico followed them back home and decide to play tricks on them.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.041,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-08-27",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 653349
+    },
+    {
+      "id": 653567,
+      "title": "Miss Americana",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6VkNL9o5zFQmnRjl5vj7xMN94SL.jpg",
+      "plot_overview": "A raw and emotionally revealing look at one of the most iconic artists of our time during a transformational period in her life as she learns to embrace her role not only as a songwriter and performer, but as a woman harnessing the full power of her voice.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.844,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-01-31",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 653567
     }
   ]
 }

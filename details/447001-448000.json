@@ -1,19 +1,17 @@
 {
   "range": "447001-448000",
-  "updated_at": 1765830970620,
+  "updated_at": 1765853014698,
   "shows": [
     {
       "id": 447273,
       "title": "Snow White",
       "type": "movie",
       "year": 2025,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/xWWg47tTfparvjK0WJNX4xL8lW2.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
       "plot_overview": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
       "genres": [
-        "family",
-        "fantasy"
+        "Family"
       ],
       "user_rating": 4.3,
       "critic_score": null,
@@ -27,10 +25,30 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 447273,
-      "relevance_score": 16.483
+      "tmdb_id": 447273
+    },
+    {
+      "id": 447365,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+      "plot_overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+      "genres": [],
+      "user_rating": 7.932,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-05-03",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 447365
     }
   ]
 }

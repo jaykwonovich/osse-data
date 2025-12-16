@@ -1,23 +1,47 @@
 {
   "range": "779001-780000",
-  "updated_at": 1765702700570,
+  "updated_at": 1765853014720,
   "shows": [
+    {
+      "id": 779047,
+      "title": "Us Again",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/IP5g4EDQdvrXxlf1qbG9WQTdI6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9B4hHMsnjxo8NnTcKIfg3cjJzMi.jpg",
+      "plot_overview": "In a vibrant city pulsating with rhythm and movement, an elderly man and his young-at-heart wife rekindle their youthful passion for life and each other on one magical night.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-03-03",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 779047
+    },
     {
       "id": 779782,
       "title": "The School for Good and Evil",
       "type": "movie",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tSxbUnrnWlR5dQvUgqMI7sACmFD.jpg",
       "plot_overview": "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains \u2014 and find themselves on opposing sides of the battle between good and evil.",
       "genres": [
-        "fantasy",
-        "comedy",
-        "adventure",
-        "drama"
+        "Comedy",
+        "Drama"
       ],
-      "user_rating": 7.04,
+      "user_rating": 7.037,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-10-19",
@@ -29,10 +53,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 779782,
-      "relevance_score": 8.3177
+      "tmdb_id": 779782
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "34001-35000",
-  "updated_at": 1765842560033,
+  "updated_at": 1765853014644,
   "shows": [
     {
       "id": 34307,
@@ -27,6 +27,31 @@
         }
       ],
       "tmdb_id": 34307
+    },
+    {
+      "id": 34308,
+      "title": "Modigliani",
+      "type": "movie",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dyvkjImdzdERJnRPwx5Tj39c8a0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/volZgUC7W4QMIwWr3hAZPSZ6tb4.jpg",
+      "plot_overview": "Set in Paris in 1919, biopic centers on the life of late Italian artist Amedeo Modigliani, focusing on his last days as well as his rivalry with Pablo Picasso. Modigliani, a Jew, has fallen in love with Jeanne, a young and beautiful Catholic girl. The couple has an illegitimate child, and Jeanne's bigoted parents send the baby to a faraway convent to be raised by nuns.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2004-05-18",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 34308
     },
     {
       "id": 34391,
@@ -125,7 +150,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 34634
+      "tmdb_id": 34634,
+      "is_returning": true,
+      "next_season": 16,
+      "next_air_date": "2025-12-19",
+      "next_episode": 7,
+      "relevance_score": 75
     }
   ]
 }

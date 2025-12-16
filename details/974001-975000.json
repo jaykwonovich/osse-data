@@ -1,23 +1,44 @@
 {
   "range": "974001-975000",
-  "updated_at": 1765830970636,
+  "updated_at": 1765853014728,
   "shows": [
+    {
+      "id": 974576,
+      "title": "Conclave",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/91SnazWmEWnnH988aaz0l6NaWY9.jpg",
+      "plot_overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church\u2019s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-10-25",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 974576
+    },
     {
       "id": 974663,
       "title": "200% Wolf",
       "type": "movie",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/pHGB9jN31cDNKhR0VRNZsXZkGZQ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8VGiUMkjdevsVYHZ8tIpHl6EbbF.jpg",
       "plot_overview": "When Freddy Lupin's wayward wish transforms him into a werewolf and deposits a mischievous moon sprite on Earth, Freddy must restore the cosmic order before the earth and moon collide.",
       "genres": [
-        "animation",
-        "adventure",
-        "fantasy",
-        "family",
-        "action",
-        "comedy"
+        "Animation",
+        "Family",
+        "Comedy"
       ],
       "user_rating": 5.7,
       "critic_score": null,
@@ -31,10 +52,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 974663,
-      "relevance_score": 74.622
+      "tmdb_id": 974663
     }
   ]
 }

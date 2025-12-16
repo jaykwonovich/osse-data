@@ -1,20 +1,18 @@
 {
   "range": "1263001-1264000",
-  "updated_at": 1765702720381,
+  "updated_at": 1765853014740,
   "shows": [
     {
       "id": 1263012,
       "title": "Dead Man's Wire",
       "type": "movie",
       "year": 2026,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/8nwiRUHjFfEwGUTFWBZIoqGrlMu.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hZL878TkpBXnwtkT9m2M8j1Gt1I.jpg",
       "plot_overview": "Set in 1977 and based on a true story, Tony Kiritsis, a former real estate developer puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.",
       "genres": [
-        "drama",
-        "thriller",
-        "crime"
+        "Drama",
+        "Crime"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -23,44 +21,12 @@
       "streaming_services": [
         {
           "service_id": 0,
-          "service_name": "Coming Soon",
+          "service_name": "Theatrical",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1263012,
-      "relevance_score": 7.741
-    },
-    {
-      "id": 1263256,
-      "title": "Happy Gilmore 2",
-      "type": "movie",
-      "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nRwDPfYUzzzUQarfMxvPlasxzpL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/stCEYCxA3SknIIne1H4LmaIJ8ii.jpg",
-      "plot_overview": "Happy Gilmore isn't done with golf \u2014 not by a long shot. Since his retirement after his first Tour Championship win, Gilmore returns to finance his daughter's ballet classes.",
-      "genres": [
-        "comedy"
-      ],
-      "user_rating": 6.623,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-07-25",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 1263256,
-      "relevance_score": 7.677
+      "tmdb_id": 1263012
     }
   ]
 }

@@ -1,38 +1,63 @@
 {
   "range": "28001-29000",
-  "updated_at": 1765644325598,
+  "updated_at": 1765853014642,
   "shows": [
     {
-      "id": 28550,
-      "title": "It's the Easter Beagle, Charlie Brown",
+      "id": 28971,
+      "title": "Limelight",
       "type": "movie",
-      "year": 1974,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lzDobxxKOw2XiHmNxhqnozHhoDb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qk5oYh6Ke7KKxjbheC8FWwesh9k.jpg",
-      "plot_overview": "Charlie Brown, Linus and the entire Peanuts gang are off on a lively Easter egg hunt. They suspect they've spotted the Easter Bunny \u2026 but the trouble is, he looks a lot like a certain beagle who's near and dear to Charlie Brown's heart. Is it truly the Easter Bunny, or is it just the irrepressible Snoopy playing a trick on the kids?",
+      "year": 1952,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tDD11x3ZWCXXXwdpbGEU9uU4kh1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/43VCpwhBChDUMl2CERU61sQ3z5W.jpg",
+      "plot_overview": "A fading music hall comedian tries to help a despondent ballet dancer learn to walk and to again feel confident about life.",
       "genres": [
-        "family",
-        "animation",
-        "tv_movie",
-        "comedy"
+        "Drama"
       ],
-      "user_rating": 6.6,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1974-04-09",
+      "release_date": "1952-10-16",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 28550,
-      "relevance_score": 2.7771
+      "tmdb_id": 28971
+    },
+    {
+      "id": 28978,
+      "title": "The Circus",
+      "type": "movie",
+      "year": 1928,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hWw9HfQmd4Rn1Et4vgZQsEf5tEZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/Alhc9UUvZxOlYtcoNawT1u4oDVD.jpg",
+      "plot_overview": "Charlie, a wandering tramp, becomes a circus handyman - soon the star of the show - and falls in love with the circus owner's stepdaughter.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1928-01-06",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 28978
     }
   ]
 }

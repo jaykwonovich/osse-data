@@ -1,6 +1,6 @@
 {
   "range": "271001-272000",
-  "updated_at": 1765842560061,
+  "updated_at": 1765853014679,
   "shows": [
     {
       "id": 271053,
@@ -25,7 +25,35 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 271053
+      "tmdb_id": 271053,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2025-12-21",
+      "next_episode": 8,
+      "relevance_score": 75
+    },
+    {
+      "id": 271110,
+      "title": "Captain America: Civil War",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kvRT3GwcnqGHzPjXIVrVPhUix7Z.jpg",
+      "plot_overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+      "genres": [],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-04-27",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 271110
     },
     {
       "id": 271267,
@@ -52,6 +80,31 @@
         }
       ],
       "tmdb_id": 271267
+    },
+    {
+      "id": 271674,
+      "title": "Suite Fran\u00e7aise",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/j82SfPOqas5rvHbAHAPq7OgaSir.jpg",
+      "plot_overview": "France, 1940. In the first days of occupation, beautiful Lucile Angellier is trapped in a stifled existence with her controlling mother-in-law as they both await news of her husband: a prisoner of war. Parisian refugees start to pour into their small town, soon followed by a regiment of German soldiers who take up residence in the villagers' own homes. Lucile initially tries to ignore Bruno von Falk, the handsome and refined German officer staying with them. But soon, a powerful love draws them ",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-03-12",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 271674
     },
     {
       "id": 271823,

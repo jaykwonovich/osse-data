@@ -1,50 +1,17 @@
 {
   "range": "926001-927000",
-  "updated_at": 1765830970633,
+  "updated_at": 1765853014726,
   "shows": [
-    {
-      "id": 926008,
-      "title": "The Beanie Bubble",
-      "type": "movie",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9YDW8dCrQyRpppK5985hKY1Mc8X.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zzbEAP5d1Ci0QKitpaA8PykHIj4.jpg",
-      "plot_overview": "Ty was a frustrated toy salesman until his collaboration with three women turned his stuffed animals into a defining '90s trend. This behind-the-scenes look at history's biggest toy craze is a wild story about what\u2014and who\u2014is valued in this world.",
-      "genres": [
-        "comedy",
-        "drama"
-      ],
-      "user_rating": 6.446,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2023-07-21",
-      "streaming_services": [
-        {
-          "service_id": 350,
-          "service_name": "Apple TV+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 926008,
-      "relevance_score": 3.3858
-    },
     {
       "id": 926393,
       "title": "The Equalizer 3",
       "type": "movie",
       "year": 2023,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg",
       "plot_overview": "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
       "genres": [
-        "action",
-        "thriller",
-        "crime"
+        "Crime"
       ],
       "user_rating": 7.295,
       "critic_score": null,
@@ -58,10 +25,59 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 926393,
-      "relevance_score": 10.9899
+      "tmdb_id": 926393
+    },
+    {
+      "id": 926676,
+      "title": "Navalny",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/49TwWrtOnJjVrMAUvkgrX6WWf11.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aZQR5Np9fZjck0HM3qYs1wUgwYD.jpg",
+      "plot_overview": "Follows the man who survived an assassination attempt by poisoning with a lethal nerve agent in August 2020. During his months-long recovery, he makes shocking discoveries about the attempt on his life and decides to return home.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.255,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-04-08",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 926676
+    },
+    {
+      "id": 926899,
+      "title": "The House",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xhE1EYcD6U7m5R8AT7yf29CCxia.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hk4PwhKhT7q7jp1lvA8aiYqDluy.jpg",
+      "plot_overview": "Across different eras, a poor family, an anxious developer and a fed-up landlady become tied to the same mysterious house in this animated dark comedy.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 7.019,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-01-14",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 926899
     }
   ]
 }

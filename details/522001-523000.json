@@ -1,20 +1,43 @@
 {
   "range": "522001-523000",
-  "updated_at": 1765830970622,
+  "updated_at": 1765853014705,
   "shows": [
+    {
+      "id": 522212,
+      "title": "Just Mercy",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wfabrzHzfYTdCj3iSCY7OEQbND0.jpg",
+      "plot_overview": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned \u2014 including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.855,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-12-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 522212
+    },
     {
       "id": 522402,
       "title": "Finch",
       "type": "movie",
       "year": 2021,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uoc358GH6Yl7TufbUKHkETPu64B.jpg",
       "plot_overview": "On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator's beloved dog, learns about life, love, friendship, and what it means to be human.",
       "genres": [
-        "sci-fi",
-        "drama",
-        "adventure"
+        "Drama"
       ],
       "user_rating": 7.818,
       "critic_score": null,
@@ -28,10 +51,32 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 522402,
-      "relevance_score": 5.2466
+      "tmdb_id": 522402
+    },
+    {
+      "id": 522924,
+      "title": "The Art of Racing in the Rain",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/96sS0woEzf0zFSWjHVblOhsBfGd.jpg",
+      "plot_overview": "A family dog \u2013 with a near-human soul and a philosopher's mind \u2013 evaluates his life through the lessons learned by his human owner, a race-car driver.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 8.184,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-08-08",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 522924
     }
   ]
 }

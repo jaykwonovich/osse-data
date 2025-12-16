@@ -1,26 +1,29 @@
 {
   "range": "696001-697000",
-  "updated_at": 1765830970627,
+  "updated_at": 1765853014716,
   "shows": [
     {
-      "id": 696506,
-      "title": "Mickey 17",
+      "id": 696157,
+      "title": "Whitney Houston: I Wanna Dance with Somebody",
       "type": "movie",
-      "year": 2025,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hGLywNhy1Fo1rNFHsNZsXGS69B8.jpg",
-      "plot_overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job\u2026 to die, for a living.",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oodPJ3Op1pWBhnEFyw5fampRCWf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eHGys7Iw6TfW5NskICTA9kP9EkN.jpg",
+      "plot_overview": "The joyous, emotional, heartbreaking celebration of the life and music of Whitney Houston, the greatest female R&B pop vocalist of all time. Tracking her journey from obscurity to musical superstardom.",
       "genres": [
-        "sci-fi",
-        "comedy",
-        "adventure"
+        "Drama"
       ],
-      "user_rating": 6.839,
+      "user_rating": 7.013,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-02-28",
+      "release_date": "2022-12-20",
       "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 1899,
           "service_name": "Max",
@@ -28,10 +31,32 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 696506,
-      "relevance_score": 16.4291
+      "tmdb_id": 696157
+    },
+    {
+      "id": 696806,
+      "title": "The Adam Project",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg",
+      "plot_overview": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.007,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-03-11",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 696806
     }
   ]
 }

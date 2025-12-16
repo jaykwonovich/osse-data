@@ -1,6 +1,6 @@
 {
   "range": "290001-291000",
-  "updated_at": 1765842560063,
+  "updated_at": 1765853014681,
   "shows": [
     {
       "id": 290856,
@@ -36,7 +36,12 @@
         "CBS",
         "Paramount+"
       ],
-      "tmdb_id": 290856
+      "tmdb_id": 290856,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-03-01",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 290884,
@@ -55,8 +60,8 @@
       "release_date": "2026-01-08",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
@@ -67,7 +72,16 @@
       "networks": [
         "Bravo"
       ],
-      "tmdb_id": 290884
+      "tmdb_id": 290884,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-08",
+      "next_episode": 1,
+      "relevance_score": 75,
+      "service_name": "Peacock",
+      "service_id": 386,
+      "prediction_source": "gemini",
+      "prediction_confidence": 0.95
     },
     {
       "id": 290885,

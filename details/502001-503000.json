@@ -1,22 +1,44 @@
 {
   "range": "502001-503000",
-  "updated_at": 1765830970621,
+  "updated_at": 1765853014703,
   "shows": [
+    {
+      "id": 502033,
+      "title": "Sound of Metal",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg",
+      "plot_overview": "Metal drummer Ruben begins to lose his hearing. When a doctor tells him his condition will worsen, he thinks his career and life is over. His girlfriend Lou checks the former addict into a rehab for the deaf hoping it will prevent a relapse and help him adapt to his new life. After being welcomed and accepted just as he is, Ruben must choose between his new normal and the life he once knew.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.705,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-11-20",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 502033
+    },
     {
       "id": 502356,
       "title": "The Super Mario Bros. Movie",
       "type": "movie",
       "year": 2023,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
       "plot_overview": "While working underground to fix a water main, Brooklyn plumbers\u2014and brothers\u2014Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
       "genres": [
-        "family",
-        "comedy",
-        "adventure",
-        "animation",
-        "fantasy"
+        "Family",
+        "Comedy",
+        "Animation"
       ],
       "user_rating": 7.602,
       "critic_score": null,
@@ -30,10 +52,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 502356,
-      "relevance_score": 32.3675
+      "tmdb_id": 502356
     }
   ]
 }

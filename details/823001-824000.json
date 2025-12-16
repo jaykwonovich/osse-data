@@ -1,53 +1,16 @@
 {
   "range": "823001-824000",
-  "updated_at": 1765830970630,
+  "updated_at": 1765853014722,
   "shows": [
-    {
-      "id": 823219,
-      "title": "Flow",
-      "type": "movie",
-      "year": 2024,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
-      "plot_overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
-      "genres": [
-        "animation",
-        "adventure",
-        "fantasy",
-        "family"
-      ],
-      "user_rating": 8.12,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2024-08-29",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 823219,
-      "relevance_score": 18.1027
-    },
     {
       "id": 823464,
       "title": "Godzilla x Kong: The New Empire",
       "type": "movie",
       "year": 2024,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/veIyxxi5Gs8gvztLEW1Ysb8rrzs.jpg",
       "plot_overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence \u2013 and our own.",
-      "genres": [
-        "action",
-        "adventure",
-        "sci-fi"
-      ],
+      "genres": [],
       "user_rating": 7.072,
       "critic_score": null,
       "us_rating": null,
@@ -60,10 +23,33 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 823464,
-      "relevance_score": 16.1712
+      "tmdb_id": 823464
+    },
+    {
+      "id": 823754,
+      "title": "Bo Burnham: Inside",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9sfVyE3sP2dkCwDyV7UlYP5TAAR.jpg",
+      "plot_overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 8.007,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-07-22",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 823754
     }
   ]
 }

@@ -1,21 +1,43 @@
 {
   "range": "530001-531000",
-  "updated_at": 1765702720344,
+  "updated_at": 1765853014706,
   "shows": [
+    {
+      "id": 530385,
+      "title": "Midsommar",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
+      "plot_overview": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.152,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-07-03",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 530385
+    },
     {
       "id": 530915,
       "title": "1917",
       "type": "movie",
       "year": 2019,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg",
       "plot_overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
       "genres": [
-        "war",
-        "history",
-        "drama",
-        "action"
+        "Drama"
       ],
       "user_rating": 7.986,
       "critic_score": null,
@@ -29,10 +51,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 530915,
-      "relevance_score": 8.6515
+      "tmdb_id": 530915
     }
   ]
 }

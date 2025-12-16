@@ -1,6 +1,6 @@
 {
   "range": "257001-258000",
-  "updated_at": 1765842560060,
+  "updated_at": 1765853014678,
   "shows": [
     {
       "id": 257534,
@@ -46,8 +46,8 @@
       "release_date": "2026-01-13",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
@@ -59,7 +59,16 @@
       "networks": [
         "Disney Junior"
       ],
-      "tmdb_id": 257724
+      "tmdb_id": 257724,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-01-13",
+      "next_episode": 1,
+      "relevance_score": 75,
+      "service_name": "Disney+",
+      "service_id": 337,
+      "prediction_source": "gemini",
+      "prediction_confidence": 1.0
     }
   ]
 }

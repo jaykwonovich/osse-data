@@ -1,23 +1,47 @@
 {
   "range": "335001-336000",
-  "updated_at": 1765702770801,
+  "updated_at": 1765853014688,
   "shows": [
+    {
+      "id": 335360,
+      "title": "My Little Pony: The Movie",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AiJRCzcZSVs9xPHoEKZRp80TyTA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2UEIPqFkrOY7LyOCsjXZrx3NDmy.jpg",
+      "plot_overview": "A new dark force threatens Ponyville, and the Mane 6 \u2013 Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity \u2013 embark on an unforgettable journey beyond Equestria where they meet new friends and exciting challenges on a quest to use the magic of friendship and save their home.",
+      "genres": [
+        "Family",
+        "Animation"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-10-05",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 335360
+    },
     {
       "id": 335797,
       "title": "Sing",
       "type": "movie",
       "year": 2016,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/xviEKU073QAzeFRzWDdW9xDHPbB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
       "plot_overview": "A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.",
       "genres": [
-        "family",
-        "comedy",
-        "music",
-        "animation"
+        "Family",
+        "Comedy",
+        "Animation"
       ],
-      "user_rating": 7.119,
+      "user_rating": 7.12,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-11-23",
@@ -29,70 +53,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 335797,
-      "relevance_score": 7.6107
-    },
-    {
-      "id": 335977,
-      "title": "Indiana Jones and the Dial of Destiny",
-      "type": "movie",
-      "year": 2023,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/57JocxmicOoAMhkUSmdKBlpZWMT.jpg",
-      "plot_overview": "Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.",
-      "genres": [
-        "adventure",
-        "action"
-      ],
-      "user_rating": 6.527,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2023-06-25",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 335977,
-      "relevance_score": 14.3529
-    },
-    {
-      "id": 335983,
-      "title": "Venom",
-      "type": "movie",
-      "year": 2018,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hNsYUryiwxcdeTMkaBcPF3iEg0p.jpg",
-      "plot_overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
-      "genres": [
-        "sci-fi",
-        "action"
-      ],
-      "user_rating": 6.828,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2018-09-28",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 335983,
-      "relevance_score": 10.6962
+      "tmdb_id": 335797
     }
   ]
 }

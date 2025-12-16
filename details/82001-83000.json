@@ -1,6 +1,6 @@
 {
   "range": "82001-83000",
-  "updated_at": 1765842560043,
+  "updated_at": 1765853014655,
   "shows": [
     {
       "id": 82452,
@@ -54,7 +54,92 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 82596
+      "tmdb_id": 82596,
+      "is_returning": true,
+      "next_season": 5,
+      "next_air_date": "2025-12-18",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 82690,
+      "title": "Wreck-It Ralph",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
+      "plot_overview": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope ",
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-11-01",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 82690
+    },
+    {
+      "id": 82693,
+      "title": "Silver Linings Playbook",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nJuw7xhJ1tTz1PRlNSNVcrbYClQ.jpg",
+      "plot_overview": "After losing his job and wife, and spending time in an institution, a former teacher winds up living with his parents. He wants to rebuild his life and reconcile with his wife, but his father would be happy if he shared his obsession with the Philadelphia Eagles. Things get complicated when he meets Tiffany Maxwell who offers to help him reconnect with his wife if he will do something very important for her in exchange.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-11-16",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 82693
+    },
+    {
+      "id": 82702,
+      "title": "How to Train Your Dragon 2",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5MnP0h7RcUCeX7gpxMYoMScmfq7.jpg",
+      "plot_overview": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider. Now, Hiccup and Toothless find themselves at the center of a battle to protect Berk from a power-hungry warrior.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.677,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-06-05",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 82702
     },
     {
       "id": 82728,
@@ -134,6 +219,33 @@
         }
       ],
       "tmdb_id": 82856
+    },
+    {
+      "id": 82881,
+      "title": "Tangled Ever After",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ak5SCuJbdf8G4NbQ1KIUHjplrF1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6qvKbLYkfXXKM82M38UmDz3IfBk.jpg",
+      "plot_overview": "The kingdom is in a festive mood as everyone gathers for the royal wedding of Rapunzel and Flynn. However, when Pascal and Maximus, as flower chameleon and ring bearer, respectively, lose the gold bands, a frenzied search and recovery mission gets underway. As the desperate duo tries to find the rings before anyone discovers that they\u2019re missing, they leave behind a trail of comical chaos that includes flying lanterns, a flock of doves, a wine barrel barricade and a very sticky finale. Will Maxi",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-01-13",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 82881
     }
   ]
 }
