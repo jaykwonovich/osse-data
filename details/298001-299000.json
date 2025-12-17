@@ -1,6 +1,6 @@
 {
   "range": "298001-299000",
-  "updated_at": 1765860582526,
+  "updated_at": 1765951709338,
   "shows": [
     {
       "id": 298342,
@@ -36,7 +36,7 @@
       "next_season": 1,
       "next_air_date": "2025-12-26",
       "next_episode": 1,
-      "relevance_score": 100
+      "relevance_score": 125
     },
     {
       "id": 298343,
@@ -75,7 +75,7 @@
       "next_season": 1,
       "next_air_date": "2026-02-20",
       "next_episode": 1,
-      "relevance_score": 100
+      "relevance_score": 125
     },
     {
       "id": 298618,
@@ -86,7 +86,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
       "plot_overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
       "genres": [],
-      "user_rating": 6.622,
+      "user_rating": 6.623,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-06-13",
@@ -125,6 +125,32 @@
         }
       ],
       "tmdb_id": 298756
+    },
+    {
+      "id": 298819,
+      "title": "Dish It Out",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4nxwPOGG45oWjhufCrXrv5kLyKg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/JJNq86BWuSencpIiisgem7Xbqn.jpg",
+      "plot_overview": "Tilly Ramsay, a passionate foodie and aspiring chef, steps out of her famous father's shadow and into her own culinary adventures! Tilly takes viewers on a journey celebrating online trends and family favorite recipes - alongside some familiar faces and some surprise visitors who join her in the kitchen.",
+      "genres": [
+        "Reality",
+        "Talk"
+      ],
+      "user_rating": 10.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-09-05",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 298819
     }
   ]
 }

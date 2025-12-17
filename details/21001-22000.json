@@ -1,6 +1,6 @@
 {
   "range": "21001-22000",
-  "updated_at": 1765860582473,
+  "updated_at": 1765951708969,
   "shows": [
     {
       "id": 21159,
@@ -64,7 +64,7 @@
         "Comedy",
         "Family"
       ],
-      "user_rating": 6.731,
+      "user_rating": 6.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2004-08-04",
@@ -79,6 +79,29 @@
       "tmdb_id": 21385
     },
     {
+      "id": 21407,
+      "title": "The Collector",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e33HSokiAxhj8ptpAr2xAU4jnd8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pEfM9UCuCwoUtXWm8pZab7uQTuu.jpg",
+      "plot_overview": "Desperate to repay his debt to his ex-wife, an ex-con plots a heist at his new employer's country home, unaware that a second criminal has also targeted the property, and rigged it with a series of deadly traps.",
+      "genres": [],
+      "user_rating": 6.609,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-07-09",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 21407
+    },
+    {
       "id": 21510,
       "title": "White Collar",
       "type": "tv_series",
@@ -91,7 +114,7 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 8.243,
+      "user_rating": 8.242,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-10-23",
@@ -124,6 +147,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -176,12 +205,6 @@
         {
           "service_id": 8,
           "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         },

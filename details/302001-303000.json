@@ -1,6 +1,6 @@
 {
   "range": "302001-303000",
-  "updated_at": 1765860582527,
+  "updated_at": 1765951709338,
   "shows": [
     {
       "id": 302074,
@@ -37,7 +37,7 @@
       "next_season": 1,
       "next_air_date": "2026-02-24",
       "next_episode": 1,
-      "relevance_score": 100,
+      "relevance_score": 125,
       "service_name": "Hulu",
       "service_id": 15,
       "prediction_source": "gemini",
@@ -121,6 +121,32 @@
       "tmdb_id": 302606
     },
     {
+      "id": 302679,
+      "title": "Who Hired the Hitman?",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/n4Co9iJjG9YOM4qdN8FZuTEcMbj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/apBeqJE69J0zueyZz7wfs3AFUD6.jpg",
+      "plot_overview": "The mystery isn\u2019t who pulls the trigger, but who pulls the strings. In these twisted whodunit investigations, solid alibis and crime scene forensics mean nothing when detectives are on the hunt for an evil mastermind.",
+      "genres": [
+        "Crime",
+        "Documentary"
+      ],
+      "user_rating": 10.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-11-04",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 302679
+    },
+    {
       "id": 302699,
       "title": "Central Intelligence",
       "type": "movie",
@@ -131,7 +157,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 6.417,
+      "user_rating": 6.416,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-06-15",

@@ -1,6 +1,6 @@
 {
   "range": "228001-229000",
-  "updated_at": 1765860582514,
+  "updated_at": 1765951709321,
   "shows": [
     {
       "id": 228056,
@@ -117,7 +117,7 @@
         "Comedy",
         "Family"
       ],
-      "user_rating": 7.5,
+      "user_rating": 7.53,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-10-01",
@@ -201,11 +201,17 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.007,
+      "user_rating": 7.006,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-12-05",
       "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 15,
           "service_name": "Hulu",

@@ -1,6 +1,6 @@
 {
   "genre": "comedy",
-  "updated_at": 1765860582430,
+  "updated_at": 1765951708929,
   "shows": [
     {
       "id": 245026,
@@ -11,7 +11,7 @@
       "genre": "comedy",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.997,
+      "user_rating": 9.003,
       "release_date": "2024-10-29"
     },
     {
@@ -59,7 +59,7 @@
       "genre": "comedy",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 8.6,
+      "user_rating": 8.589,
       "release_date": "2005-03-24"
     },
     {
@@ -107,7 +107,7 @@
       "genre": "comedy",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.468,
+      "user_rating": 8.469,
       "release_date": "2000-01-09"
     },
     {
@@ -141,8 +141,8 @@
       "year": 2019,
       "poster_url": "https://image.tmdb.org/t/p/w342/tnIq3yiLMZJpaJyRs8FNV7WJs6V.jpg",
       "genre": "comedy",
-      "service_id": 386,
-      "service_name": "Peacock",
+      "service_id": 9,
+      "service_name": "Prime Video",
       "user_rating": 8.4,
       "release_date": "2019-08-22"
     },
@@ -275,7 +275,7 @@
       "genre": "comedy",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 8.247,
+      "user_rating": 8.249,
       "release_date": "1969-10-05"
     },
     {
@@ -303,18 +303,6 @@
       "release_date": "2019-01-11"
     },
     {
-      "id": 247168,
-      "title": "Chad Powers",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wgMS8irQKfMrR6mJhKtK6vbxDTC.jpg",
-      "genre": "comedy",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 8.2,
-      "release_date": "2025-09-30"
-    },
-    {
       "id": 31251,
       "title": "Victorious",
       "type": "tv_series",
@@ -339,6 +327,18 @@
       "release_date": "1995-04-21"
     },
     {
+      "id": 247168,
+      "title": "Chad Powers",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wgMS8irQKfMrR6mJhKtK6vbxDTC.jpg",
+      "genre": "comedy",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.184,
+      "release_date": "2025-09-30"
+    },
+    {
       "id": 803796,
       "title": "KPop Demon Hunters",
       "type": "movie",
@@ -347,7 +347,7 @@
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.186,
+      "user_rating": 8.183,
       "release_date": "2025-06-20"
     },
     {
@@ -375,18 +375,6 @@
       "release_date": "2014-09-21"
     },
     {
-      "id": 10098,
-      "title": "The Kid",
-      "type": "movie",
-      "year": 1921,
-      "poster_url": "https://image.tmdb.org/t/p/w342/A9NWYyn7eX0H9XIjaOvfWJ9mCGA.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.145,
-      "release_date": "1921-01-21"
-    },
-    {
       "id": 60573,
       "title": "Silicon Valley",
       "type": "tv_series",
@@ -407,8 +395,20 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.141,
+      "user_rating": 8.14,
       "release_date": "1952-04-10"
+    },
+    {
+      "id": 1100,
+      "title": "How I Met Your Mother",
+      "type": "tv_series",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+      "genre": "comedy",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.139,
+      "release_date": "2005-09-19"
     },
     {
       "id": 110971,
@@ -447,18 +447,6 @@
       "release_date": "2012-02-27"
     },
     {
-      "id": 1100,
-      "title": "How I Met Your Mother",
-      "type": "tv_series",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
-      "genre": "comedy",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 8.1,
-      "release_date": "2005-09-19"
-    },
-    {
       "id": 239,
       "title": "Some Like It Hot",
       "type": "movie",
@@ -469,6 +457,18 @@
       "service_name": "Prime Video",
       "user_rating": 8.1,
       "release_date": "1959-03-19"
+    },
+    {
+      "id": 10098,
+      "title": "The Kid",
+      "type": "movie",
+      "year": 1921,
+      "poster_url": "https://image.tmdb.org/t/p/w342/A9NWYyn7eX0H9XIjaOvfWJ9mCGA.jpg",
+      "genre": "comedy",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.1,
+      "release_date": "1921-01-21"
     },
     {
       "id": 20334,
@@ -515,7 +515,7 @@
       "genre": "comedy",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 8.057,
+      "user_rating": 8.06,
       "release_date": "2017-03-16"
     },
     {
@@ -529,6 +529,18 @@
       "service_name": "Netflix",
       "user_rating": 8.049,
       "release_date": "2021-02-24"
+    },
+    {
+      "id": 71728,
+      "title": "Young Sheldon",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+      "genre": "comedy",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.046,
+      "release_date": "2017-09-25"
     },
     {
       "id": 4546,
@@ -567,6 +579,18 @@
       "release_date": "2009-04-09"
     },
     {
+      "id": 4507,
+      "title": "The Thick of It",
+      "type": "tv_series",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xuOz95tUuXclfnlOID7ejtREYqf.jpg",
+      "genre": "comedy",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 8.028,
+      "release_date": "2005-05-19"
+    },
+    {
       "id": 823754,
       "title": "Bo Burnham: Inside",
       "type": "movie",
@@ -587,7 +611,7 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 8.003,
+      "user_rating": 8.004,
       "release_date": "2001-10-02"
     },
     {
@@ -601,30 +625,6 @@
       "service_name": "Netflix",
       "user_rating": 8.0,
       "release_date": "2023-05-18"
-    },
-    {
-      "id": 337404,
-      "title": "Cruella",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg",
-      "genre": "comedy",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 8.0,
-      "release_date": "2021-05-26"
-    },
-    {
-      "id": 71728,
-      "title": "Young Sheldon",
-      "type": "tv_series",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-      "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.0,
-      "release_date": "2017-09-25"
     },
     {
       "id": 400608,
@@ -651,18 +651,6 @@
       "release_date": "2009-09-17"
     },
     {
-      "id": 962,
-      "title": "The Gold Rush",
-      "type": "movie",
-      "year": 1925,
-      "poster_url": "https://image.tmdb.org/t/p/w342/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.0,
-      "release_date": "1925-07-13"
-    },
-    {
       "id": 83631,
       "title": "What We Do in the Shadows",
       "type": "tv_series",
@@ -671,8 +659,32 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.988,
+      "user_rating": 7.986,
       "release_date": "2019-03-27"
+    },
+    {
+      "id": 962,
+      "title": "The Gold Rush",
+      "type": "movie",
+      "year": 1925,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.984,
+      "release_date": "1925-07-13"
+    },
+    {
+      "id": 337404,
+      "title": "Cruella",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg",
+      "genre": "comedy",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.982,
+      "release_date": "2021-05-26"
     },
     {
       "id": 5371,
@@ -683,7 +695,7 @@
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.969,
+      "user_rating": 7.971,
       "release_date": "2007-09-08"
     },
     {
@@ -721,18 +733,6 @@
       "service_name": "Netflix",
       "user_rating": 7.95,
       "release_date": "2018-06-19"
-    },
-    {
-      "id": 930094,
-      "title": "Red, White & Royal Blue",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ta3ReqbdEcLJM3mcHMzbYFZI8v7.jpg",
-      "genre": "comedy",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.942,
-      "release_date": "2023-07-27"
     },
     {
       "id": 2742,
@@ -855,18 +855,6 @@
       "release_date": "2018-05-01"
     },
     {
-      "id": 236235,
-      "title": "The Gentlemen",
-      "type": "tv_series",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.9,
-      "release_date": "2024-03-07"
-    },
-    {
       "id": 201834,
       "title": "ted",
       "type": "tv_series",
@@ -877,6 +865,18 @@
       "service_name": "Peacock",
       "user_rating": 7.9,
       "release_date": "2024-01-11"
+    },
+    {
+      "id": 930094,
+      "title": "Red, White & Royal Blue",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ta3ReqbdEcLJM3mcHMzbYFZI8v7.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.9,
+      "release_date": "2023-07-27"
     },
     {
       "id": 28978,
@@ -899,7 +899,7 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.893,
+      "user_rating": 7.892,
       "release_date": "2018-03-25"
     },
     {
@@ -937,6 +937,30 @@
       "service_name": "Disney+",
       "user_rating": 7.89,
       "release_date": "2018-01-03"
+    },
+    {
+      "id": 56590,
+      "title": "The Eric Andre Show",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mXmZJy8AtOF5s5SMW3WfAVxYG7V.jpg",
+      "genre": "comedy",
+      "service_id": 318,
+      "service_name": "Starz",
+      "user_rating": 7.879,
+      "release_date": "2012-05-20"
+    },
+    {
+      "id": 236235,
+      "title": "The Gentlemen",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "genre": "comedy",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.873,
+      "release_date": "2024-03-07"
     },
     {
       "id": 4396,
@@ -1011,18 +1035,6 @@
       "release_date": "2011-12-02"
     },
     {
-      "id": 2996,
-      "title": "The Office",
-      "type": "tv_series",
-      "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oX2JKE1RzAONMbYlujHx0hRAJo1.jpg",
-      "genre": "comedy",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.828,
-      "release_date": "2001-07-09"
-    },
-    {
       "id": 198,
       "title": "To Be or Not to Be",
       "type": "movie",
@@ -1031,7 +1043,7 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.824,
+      "user_rating": 7.817,
       "release_date": "1942-03-06"
     },
     {
@@ -1053,8 +1065,8 @@
       "year": 1975,
       "poster_url": "https://image.tmdb.org/t/p/w342/7nTkHjETdGMYK1phHwDbPsrzbYl.jpg",
       "genre": "comedy",
-      "service_id": 9,
-      "service_name": "Prime Video",
+      "service_id": 386,
+      "service_name": "Peacock",
       "user_rating": 7.802,
       "release_date": "1975-04-03"
     },
@@ -1069,6 +1081,18 @@
       "service_name": "Hulu",
       "user_rating": 7.801,
       "release_date": "1996-09-27"
+    },
+    {
+      "id": 97645,
+      "title": "Solar Opposites",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/m431Q9FgkilJGxBnXSot4Gy87b2.jpg",
+      "genre": "comedy",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.8,
+      "release_date": "2020-05-08"
     },
     {
       "id": 546554,
@@ -1119,16 +1143,16 @@
       "release_date": "2008-09-26"
     },
     {
-      "id": 97645,
-      "title": "Solar Opposites",
+      "id": 2996,
+      "title": "The Office",
       "type": "tv_series",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/m431Q9FgkilJGxBnXSot4Gy87b2.jpg",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oX2JKE1RzAONMbYlujHx0hRAJo1.jpg",
       "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.796,
-      "release_date": "2020-05-08"
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.8,
+      "release_date": "2001-07-09"
     },
     {
       "id": 2693,
@@ -1163,7 +1187,7 @@
       "genre": "comedy",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.758,
+      "user_rating": 7.759,
       "release_date": "1979-08-17"
     },
     {
@@ -1239,18 +1263,6 @@
       "release_date": "2025-03-10"
     },
     {
-      "id": 792307,
-      "title": "Poor Things",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
-      "genre": "comedy",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.7,
-      "release_date": "2023-12-07"
-    },
-    {
       "id": 65291,
       "title": "Stuck in the Middle",
       "type": "tv_series",
@@ -1261,18 +1273,6 @@
       "service_name": "Disney+",
       "user_rating": 7.7,
       "release_date": "2016-02-14"
-    },
-    {
-      "id": 1424,
-      "title": "Orange Is the New Black",
-      "type": "tv_series",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
-      "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.7,
-      "release_date": "2013-07-11"
     },
     {
       "id": 709,
@@ -1395,6 +1395,18 @@
       "release_date": "1963-12-01"
     },
     {
+      "id": 1424,
+      "title": "Orange Is the New Black",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
+      "genre": "comedy",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.659,
+      "release_date": "2013-07-11"
+    },
+    {
       "id": 2317,
       "title": "My Name Is Earl",
       "type": "tv_series",
@@ -1417,6 +1429,18 @@
       "service_name": "Max",
       "user_rating": 7.656,
       "release_date": "2022-03-03"
+    },
+    {
+      "id": 792307,
+      "title": "Poor Things",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "genre": "comedy",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.654,
+      "release_date": "2023-12-07"
     },
     {
       "id": 508933,
@@ -1499,20 +1523,8 @@
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.618,
-      "release_date": "2020-07-24"
-    },
-    {
-      "id": 111803,
-      "title": "The White Lotus",
-      "type": "tv_series",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
       "user_rating": 7.617,
-      "release_date": "2021-07-11"
+      "release_date": "2020-07-24"
     },
     {
       "id": 624932,
@@ -1527,16 +1539,16 @@
       "release_date": "2019-08-26"
     },
     {
-      "id": 4605,
-      "title": "The Suite Life of Zack & Cody",
+      "id": 111803,
+      "title": "The White Lotus",
       "type": "tv_series",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7u6LVPMOHqsdYsiu0UqDB0FROLk.jpg",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
       "genre": "comedy",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.617,
-      "release_date": "2005-03-18"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.615,
+      "release_date": "2021-07-11"
     },
     {
       "id": 74204,
@@ -1563,6 +1575,18 @@
       "release_date": "2016-10-13"
     },
     {
+      "id": 4605,
+      "title": "The Suite Life of Zack & Cody",
+      "type": "tv_series",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7u6LVPMOHqsdYsiu0UqDB0FROLk.jpg",
+      "genre": "comedy",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.6,
+      "release_date": "2005-03-18"
+    },
+    {
       "id": 1906,
       "title": "Shameless",
       "type": "tv_series",
@@ -1587,18 +1611,6 @@
       "release_date": "1985-09-14"
     },
     {
-      "id": 433,
-      "title": "Mary Poppins",
-      "type": "movie",
-      "year": 1964,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pHyWpWn2pRIfhS3Arcn4SKtKKW4.jpg",
-      "genre": "comedy",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.6,
-      "release_date": "1964-12-17"
-    },
-    {
       "id": 466282,
       "title": "To All the Boys I've Loved Before",
       "type": "movie",
@@ -1607,7 +1619,7 @@
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.596,
+      "user_rating": 7.595,
       "release_date": "2018-08-17"
     },
     {
@@ -1631,7 +1643,7 @@
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.59,
+      "user_rating": 7.589,
       "release_date": "1999-03-30"
     },
     {
@@ -1707,6 +1719,18 @@
       "release_date": "1987-09-22"
     },
     {
+      "id": 433,
+      "title": "Mary Poppins",
+      "type": "movie",
+      "year": 1964,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pHyWpWn2pRIfhS3Arcn4SKtKKW4.jpg",
+      "genre": "comedy",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.556,
+      "release_date": "1964-12-17"
+    },
+    {
       "id": 13562,
       "title": "My Man Godfrey",
       "type": "movie",
@@ -1753,18 +1777,6 @@
       "service_name": "Peacock",
       "user_rating": 7.523,
       "release_date": "1992-11-12"
-    },
-    {
-      "id": 95941,
-      "title": "Zoey's Extraordinary Playlist",
-      "type": "tv_series",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xhF6IXlq4HjEqoAqoPTq4YkgHB1.jpg",
-      "genre": "comedy",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.52,
-      "release_date": "2020-01-07"
     },
     {
       "id": 2132,
@@ -1827,16 +1839,16 @@
       "release_date": "1966-07-13"
     },
     {
-      "id": 436969,
-      "title": "The Suicide Squad",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+      "id": 95941,
+      "title": "Zoey's Extraordinary Playlist",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xhF6IXlq4HjEqoAqoPTq4YkgHB1.jpg",
       "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
+      "service_id": 386,
+      "service_name": "Peacock",
       "user_rating": 7.5,
-      "release_date": "2021-07-28"
+      "release_date": "2020-01-07"
     },
     {
       "id": 346648,
@@ -1959,6 +1971,18 @@
       "release_date": "2012-04-22"
     },
     {
+      "id": 436969,
+      "title": "The Suicide Squad",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+      "genre": "comedy",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.478,
+      "release_date": "2021-07-28"
+    },
+    {
       "id": 550988,
       "title": "Free Guy",
       "type": "movie",
@@ -1967,7 +1991,7 @@
       "genre": "comedy",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.464,
+      "user_rating": 7.463,
       "release_date": "2021-08-11"
     },
     {
@@ -1989,8 +2013,8 @@
       "year": 2006,
       "poster_url": "https://image.tmdb.org/t/p/w342/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg",
       "genre": "comedy",
-      "service_id": 9,
-      "service_name": "Prime Video",
+      "service_id": 15,
+      "service_name": "Hulu",
       "user_rating": 7.46,
       "release_date": "2006-10-11"
     },
@@ -2003,7 +2027,7 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.46,
+      "user_rating": 7.459,
       "release_date": "1990-03-23"
     },
     {
@@ -2099,7 +2123,7 @@
       "genre": "comedy",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.426,
+      "user_rating": 7.425,
       "release_date": "1992-12-11"
     },
     {
@@ -2111,20 +2135,8 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.42,
+      "user_rating": 7.419,
       "release_date": "2022-08-03"
-    },
-    {
-      "id": 11031,
-      "title": "This Is Spinal Tap",
-      "type": "movie",
-      "year": 1984,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kAJ3zmvfcFJ1r8dbsXYQD28RL7K.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.42,
-      "release_date": "1984-03-02"
     },
     {
       "id": 860159,
@@ -2163,18 +2175,6 @@
       "release_date": "2018-12-05"
     },
     {
-      "id": 46838,
-      "title": "Tucker and Dale vs. Evil",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
-      "genre": "comedy",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.4,
-      "release_date": "2010-01-22"
-    },
-    {
       "id": 8624,
       "title": "Eastbound & Down",
       "type": "tv_series",
@@ -2197,6 +2197,30 @@
       "service_name": "Netflix",
       "user_rating": 7.4,
       "release_date": "1991-09-17"
+    },
+    {
+      "id": 11031,
+      "title": "This Is Spinal Tap",
+      "type": "movie",
+      "year": 1984,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kAJ3zmvfcFJ1r8dbsXYQD28RL7K.jpg",
+      "genre": "comedy",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.4,
+      "release_date": "1984-03-02"
+    },
+    {
+      "id": 46838,
+      "title": "Tucker and Dale vs. Evil",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
+      "genre": "comedy",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.391,
+      "release_date": "2010-01-22"
     },
     {
       "id": 82782,
@@ -2255,7 +2279,7 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.358,
+      "user_rating": 7.359,
       "release_date": "2011-09-20"
     },
     {
@@ -2343,6 +2367,18 @@
       "release_date": "2020-07-10"
     },
     {
+      "id": 91602,
+      "title": "Modern Love",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cP9CJ9nvPT3cnnBSlGFgwq7odIR.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.329,
+      "release_date": "2019-10-18"
+    },
+    {
       "id": 809107,
       "title": "Z-O-M-B-I-E-S 3",
       "type": "movie",
@@ -2351,7 +2387,7 @@
       "genre": "comedy",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.331,
+      "user_rating": 7.328,
       "release_date": "2022-07-09"
     },
     {
@@ -2391,18 +2427,6 @@
       "release_date": "1964-07-07"
     },
     {
-      "id": 15157,
-      "title": "Another Cinderella Story",
-      "type": "movie",
-      "year": 2008,
-      "poster_url": "https://image.tmdb.org/t/p/w342/Acw0Syw7s8QFTCkdJgtGR2Eg0SB.jpg",
-      "genre": "comedy",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.312,
-      "release_date": "2008-09-16"
-    },
-    {
       "id": 420814,
       "title": "Christopher Robin",
       "type": "movie",
@@ -2437,6 +2461,30 @@
       "service_name": "Netflix",
       "user_rating": 7.3,
       "release_date": "2016-06-16"
+    },
+    {
+      "id": 57774,
+      "title": "Looking",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cMIRpZUOXwZcDoGyRJnwrrZQYzW.jpg",
+      "genre": "comedy",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.3,
+      "release_date": "2014-01-19"
+    },
+    {
+      "id": 15157,
+      "title": "Another Cinderella Story",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bW957WNXiiUvIGFaUVL7wMeD776.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.3,
+      "release_date": "2008-09-16"
     },
     {
       "id": 4623,
@@ -2531,7 +2579,7 @@
       "genre": "comedy",
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.288,
+      "user_rating": 7.293,
       "release_date": "2025-05-15"
     },
     {
@@ -2579,7 +2627,7 @@
       "genre": "comedy",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.266,
+      "user_rating": 7.265,
       "release_date": "1999-05-21"
     },
     {
@@ -2595,18 +2643,6 @@
       "release_date": "2011-10-11"
     },
     {
-      "id": 11663,
-      "title": "The Commitments",
-      "type": "movie",
-      "year": 1991,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iccBDq9aS1gwi6b8aJjBgPU4t2D.jpg",
-      "genre": "comedy",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.26,
-      "release_date": "1991-08-14"
-    },
-    {
       "id": 19908,
       "title": "Zombieland",
       "type": "movie",
@@ -2617,6 +2653,18 @@
       "service_name": "Prime Video",
       "user_rating": 7.259,
       "release_date": "2009-10-02"
+    },
+    {
+      "id": 11663,
+      "title": "The Commitments",
+      "type": "movie",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iccBDq9aS1gwi6b8aJjBgPU4t2D.jpg",
+      "genre": "comedy",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.259,
+      "release_date": "1991-08-14"
     },
     {
       "id": 8363,
@@ -2663,7 +2711,7 @@
       "genre": "comedy",
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.243,
+      "user_rating": 7.244,
       "release_date": "2023-12-14"
     },
     {
@@ -2675,20 +2723,8 @@
       "genre": "comedy",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.241,
+      "user_rating": 7.24,
       "release_date": "2022-11-30"
-    },
-    {
-      "id": 360606,
-      "title": "Adventures in Babysitting",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/t12bYhmv7LIcHT4TGGpW6WaMV2W.jpg",
-      "genre": "comedy",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.241,
-      "release_date": "2016-06-24"
     },
     {
       "id": 413279,
@@ -2727,6 +2763,18 @@
       "release_date": "2023-09-20"
     },
     {
+      "id": 360606,
+      "title": "Adventures in Babysitting",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/t12bYhmv7LIcHT4TGGpW6WaMV2W.jpg",
+      "genre": "comedy",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.238,
+      "release_date": "2016-06-24"
+    },
+    {
       "id": 17379,
       "title": "Last Holiday",
       "type": "movie",
@@ -2747,7 +2795,7 @@
       "genre": "comedy",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.224,
+      "user_rating": 7.223,
       "release_date": "1983-06-07"
     },
     {
@@ -2775,18 +2823,6 @@
       "release_date": "1998-07-28"
     },
     {
-      "id": 850,
-      "title": "A Christmas Story",
-      "type": "movie",
-      "year": 1983,
-      "poster_url": "https://image.tmdb.org/t/p/w342/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
-      "genre": "comedy",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.216,
-      "release_date": "1983-11-18"
-    },
-    {
       "id": 256962,
       "title": "Little Boy",
       "type": "movie",
@@ -2797,6 +2833,18 @@
       "service_name": "Prime Video",
       "user_rating": 7.213,
       "release_date": "2015-04-23"
+    },
+    {
+      "id": 850,
+      "title": "A Christmas Story",
+      "type": "movie",
+      "year": 1983,
+      "poster_url": "https://image.tmdb.org/t/p/w342/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
+      "genre": "comedy",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.213,
+      "release_date": "1983-11-18"
     },
     {
       "id": 34573,
@@ -2823,6 +2871,18 @@
       "release_date": "2019-11-07"
     },
     {
+      "id": 642885,
+      "title": "Hocus Pocus 2",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg",
+      "genre": "comedy",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.2,
+      "release_date": "2022-09-27"
+    },
+    {
       "id": 134373,
       "title": "The Sex Lives of College Girls",
       "type": "tv_series",
@@ -2831,7 +2891,7 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.201,
+      "user_rating": 7.2,
       "release_date": "2021-11-18"
     },
     {
@@ -2907,16 +2967,16 @@
       "release_date": "2016-10-09"
     },
     {
-      "id": 407655,
-      "title": "A Cinderella Story: If the Shoe Fits",
-      "type": "movie",
+      "id": 65150,
+      "title": "Vice Principals",
+      "type": "tv_series",
       "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qtxOA6Sb8lK1PfRiwduxYVuzaEv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/hbAH3WlLpeAxJ06xpF4Uwg9j7kr.jpg",
       "genre": "comedy",
-      "service_id": 9,
-      "service_name": "Prime Video",
+      "service_id": 1899,
+      "service_name": "Max",
       "user_rating": 7.2,
-      "release_date": "2016-08-02"
+      "release_date": "2016-07-17"
     },
     {
       "id": 198277,
@@ -3075,18 +3135,6 @@
       "release_date": "1985-04-25"
     },
     {
-      "id": 40807,
-      "title": "50/50",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8f9tM9JVB4ETBhxlQcXIjLckArl.jpg",
-      "genre": "comedy",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.177,
-      "release_date": "2011-09-30"
-    },
-    {
       "id": 2771,
       "title": "American Splendor",
       "type": "movie",
@@ -3095,20 +3143,44 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.176,
+      "user_rating": 7.18,
       "release_date": "2003-08-15"
     },
     {
-      "id": 642885,
-      "title": "Hocus Pocus 2",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg",
+      "id": 61692,
+      "title": "Fresh Off the Boat",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/o8ekdtv98EnrymVLw3VJ2WoFBoM.jpg",
       "genre": "comedy",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.172,
-      "release_date": "2022-09-27"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.179,
+      "release_date": "2015-02-04"
+    },
+    {
+      "id": 40807,
+      "title": "50/50",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8f9tM9JVB4ETBhxlQcXIjLckArl.jpg",
+      "genre": "comedy",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.178,
+      "release_date": "2011-09-30"
+    },
+    {
+      "id": 407655,
+      "title": "A Cinderella Story: If the Shoe Fits",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qtxOA6Sb8lK1PfRiwduxYVuzaEv.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.173,
+      "release_date": "2016-08-02"
     },
     {
       "id": 454983,
@@ -3155,7 +3227,7 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.151,
+      "user_rating": 7.152,
       "release_date": "2009-06-02"
     },
     {
@@ -3183,18 +3255,6 @@
       "release_date": "2023-02-13"
     },
     {
-      "id": 61381,
-      "title": "black-ish",
-      "type": "tv_series",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ga1zJ6UejPIfyL8BA22pK6dqsC8.jpg",
-      "genre": "comedy",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.142,
-      "release_date": "2014-09-24"
-    },
-    {
       "id": 927,
       "title": "Gremlins",
       "type": "movie",
@@ -3203,8 +3263,20 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.137,
+      "user_rating": 7.138,
       "release_date": "1984-06-08"
+    },
+    {
+      "id": 4610,
+      "title": "Hannah Montana",
+      "type": "tv_series",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/usJAQAA7s9lJGGOGehIZdzKPCke.jpg",
+      "genre": "comedy",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.136,
+      "release_date": "2006-03-24"
     },
     {
       "id": 879540,
@@ -3255,16 +3327,16 @@
       "release_date": "2010-09-10"
     },
     {
-      "id": 4610,
-      "title": "Hannah Montana",
+      "id": 61381,
+      "title": "black-ish",
       "type": "tv_series",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/usJAQAA7s9lJGGOGehIZdzKPCke.jpg",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ga1zJ6UejPIfyL8BA22pK6dqsC8.jpg",
       "genre": "comedy",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.132,
-      "release_date": "2006-03-24"
+      "user_rating": 7.123,
+      "release_date": "2014-09-24"
     },
     {
       "id": 664300,
@@ -3495,18 +3567,6 @@
       "release_date": "1947-12-25"
     },
     {
-      "id": 279601,
-      "title": "Man vs Baby",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
-      "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.073,
-      "release_date": "2025-12-11"
-    },
-    {
       "id": 646380,
       "title": "Don't Look Up",
       "type": "movie",
@@ -3587,7 +3647,7 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.051,
+      "user_rating": 7.05,
       "release_date": "2023-12-06"
     },
     {
@@ -3687,6 +3747,18 @@
       "release_date": "2010-02-14"
     },
     {
+      "id": 254320,
+      "title": "The Lobster",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+      "genre": "comedy",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.034,
+      "release_date": "2015-10-15"
+    },
+    {
       "id": 2028,
       "title": "Say Anything...",
       "type": "movie",
@@ -3707,7 +3779,7 @@
       "genre": "comedy",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.031,
+      "user_rating": 7.03,
       "release_date": "2024-10-31"
     },
     {
@@ -3759,18 +3831,6 @@
       "release_date": "2017-10-20"
     },
     {
-      "id": 639720,
-      "title": "IF",
-      "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
-      "genre": "comedy",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.016,
-      "release_date": "2024-05-08"
-    },
-    {
       "id": 556678,
       "title": "Emma.",
       "type": "movie",
@@ -3805,6 +3865,18 @@
       "service_name": "Peacock",
       "user_rating": 7.007,
       "release_date": "2020-07-22"
+    },
+    {
+      "id": 639720,
+      "title": "IF",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.0,
+      "release_date": "2024-05-08"
     },
     {
       "id": 197373,
@@ -3867,18 +3939,6 @@
       "release_date": "2020-06-10"
     },
     {
-      "id": 254320,
-      "title": "The Lobster",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.0,
-      "release_date": "2015-10-15"
-    },
-    {
       "id": 43775,
       "title": "Dog with a Blog",
       "type": "tv_series",
@@ -3925,18 +3985,6 @@
       "service_name": "Disney+",
       "user_rating": 7.0,
       "release_date": "1993-10-01"
-    },
-    {
-      "id": 6878,
-      "title": "Homeward Bound: The Incredible Journey",
-      "type": "movie",
-      "year": 1993,
-      "poster_url": "https://image.tmdb.org/t/p/w342/el6dJEpK97OJRQiQhuiSGk2jkV5.jpg",
-      "genre": "comedy",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.0,
-      "release_date": "1993-02-03"
     },
     {
       "id": 526,
@@ -4007,8 +4055,20 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 6.987,
+      "user_rating": 6.986,
       "release_date": "2019-03-29"
+    },
+    {
+      "id": 615665,
+      "title": "Holidate",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oXCLSlCRWWHsSSwLJSVIC0DDWsE.jpg",
+      "genre": "comedy",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.985,
+      "release_date": "2020-10-27"
     },
     {
       "id": 746036,
@@ -4019,7 +4079,7 @@
       "genre": "comedy",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 6.982,
+      "user_rating": 6.98,
       "release_date": "2024-04-24"
     },
     {
@@ -4033,6 +4093,18 @@
       "service_name": "Prime Video",
       "user_rating": 6.976,
       "release_date": "2008-07-03"
+    },
+    {
+      "id": 6878,
+      "title": "Homeward Bound: The Incredible Journey",
+      "type": "movie",
+      "year": 1993,
+      "poster_url": "https://image.tmdb.org/t/p/w342/el6dJEpK97OJRQiQhuiSGk2jkV5.jpg",
+      "genre": "comedy",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 6.975,
+      "release_date": "1993-02-03"
     },
     {
       "id": 854,
@@ -4071,18 +4143,6 @@
       "release_date": "2001-08-03"
     },
     {
-      "id": 917496,
-      "title": "Beetlejuice Beetlejuice",
-      "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 6.959,
-      "release_date": "2024-09-04"
-    },
-    {
       "id": 112211,
       "title": "Platonic",
       "type": "tv_series",
@@ -4093,6 +4153,18 @@
       "service_name": "Apple TV+",
       "user_rating": 6.958,
       "release_date": "2023-05-23"
+    },
+    {
+      "id": 917496,
+      "title": "Beetlejuice Beetlejuice",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+      "genre": "comedy",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.956,
+      "release_date": "2024-09-04"
     },
     {
       "id": 343668,
@@ -4107,6 +4179,18 @@
       "release_date": "2017-09-20"
     },
     {
+      "id": 279601,
+      "title": "Man vs Baby",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+      "genre": "comedy",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.949,
+      "release_date": "2025-12-11"
+    },
+    {
       "id": 10707,
       "title": "The Squid and the Whale",
       "type": "movie",
@@ -4115,7 +4199,7 @@
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 6.947,
+      "user_rating": 6.948,
       "release_date": "2005-10-05"
     },
     {
@@ -4191,18 +4275,6 @@
       "release_date": "2023-04-18"
     },
     {
-      "id": 989662,
-      "title": "A Different Man",
-      "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lZZKTEvo92u1J5pm7QoEA5yN3du.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 6.905,
-      "release_date": "2024-08-24"
-    },
-    {
       "id": 38408,
       "title": "Life As We Know It",
       "type": "movie",
@@ -4211,7 +4283,7 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 6.904,
+      "user_rating": 6.905,
       "release_date": "2010-10-02"
     },
     {
@@ -4227,6 +4299,18 @@
       "release_date": "2021-11-11"
     },
     {
+      "id": 989662,
+      "title": "A Different Man",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lZZKTEvo92u1J5pm7QoEA5yN3du.jpg",
+      "genre": "comedy",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.902,
+      "release_date": "2024-08-24"
+    },
+    {
       "id": 271267,
       "title": "The Chair Company",
       "type": "tv_series",
@@ -4237,18 +4321,6 @@
       "service_name": "Max",
       "user_rating": 6.9,
       "release_date": "2025-10-12"
-    },
-    {
-      "id": 1195506,
-      "title": "Novocaine",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
-      "genre": "comedy",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 6.9,
-      "release_date": "2025-03-12"
     },
     {
       "id": 98892,
@@ -4287,6 +4359,18 @@
       "release_date": "2019-06-14"
     },
     {
+      "id": 525946,
+      "title": "Troop Zero",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yr1RzTrVIfS5n9zvClUfAtZDyUn.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.9,
+      "release_date": "2019-02-01"
+    },
+    {
       "id": 407447,
       "title": "The Extraordinary Journey of the Fakir",
       "type": "movie",
@@ -4297,6 +4381,18 @@
       "service_name": "Prime Video",
       "user_rating": 6.9,
       "release_date": "2018-05-09"
+    },
+    {
+      "id": 9451,
+      "title": "Election",
+      "type": "movie",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5gPOFU6IPvDrx50XaPCK4twNw79.jpg",
+      "genre": "comedy",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.9,
+      "release_date": "1999-04-23"
     },
     {
       "id": 2567,
@@ -4419,18 +4515,6 @@
       "release_date": "2004-02-13"
     },
     {
-      "id": 9451,
-      "title": "Election",
-      "type": "movie",
-      "year": 1999,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5gPOFU6IPvDrx50XaPCK4twNw79.jpg",
-      "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 6.87,
-      "release_date": "1999-04-23"
-    },
-    {
       "id": 727745,
       "title": "The Kissing Booth 3",
       "type": "movie",
@@ -4455,6 +4539,18 @@
       "release_date": "2025-06-24"
     },
     {
+      "id": 1195506,
+      "title": "Novocaine",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.859,
+      "release_date": "2025-03-12"
+    },
+    {
       "id": 12268,
       "title": "The Pink Panther Strikes Again",
       "type": "movie",
@@ -4477,6 +4573,18 @@
       "service_name": "Netflix",
       "user_rating": 6.852,
       "release_date": "2003-02-07"
+    },
+    {
+      "id": 1648,
+      "title": "Bill & Ted's Excellent Adventure",
+      "type": "movie",
+      "year": 1989,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
+      "genre": "comedy",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.847,
+      "release_date": "1989-02-17"
     },
     {
       "id": 254470,
@@ -4559,7 +4667,7 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 6.833,
+      "user_rating": 6.832,
       "release_date": "2023-12-21"
     },
     {
@@ -4599,18 +4707,6 @@
       "release_date": "2002-09-17"
     },
     {
-      "id": 956842,
-      "title": "Fly Me to the Moon",
-      "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gjk8YdXpItoC1in53FCrZMFIuBx.jpg",
-      "genre": "comedy",
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 6.81,
-      "release_date": "2024-07-10"
-    },
-    {
       "id": 76535,
       "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
       "type": "movie",
@@ -4623,6 +4719,18 @@
       "release_date": "2011-10-25"
     },
     {
+      "id": 5994,
+      "title": "The Family Man",
+      "type": "movie",
+      "year": 2000,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9wToOVsKuf0XeKhlauzCa3D8Gui.jpg",
+      "genre": "comedy",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.809,
+      "release_date": "2000-12-12"
+    },
+    {
       "id": 974931,
       "title": "Totally Killer",
       "type": "movie",
@@ -4631,32 +4739,20 @@
       "genre": "comedy",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 6.808,
+      "user_rating": 6.807,
       "release_date": "2023-09-28"
     },
     {
-      "id": 974635,
-      "title": "Hit Man",
+      "id": 956842,
+      "title": "Fly Me to the Moon",
       "type": "movie",
       "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gjk8YdXpItoC1in53FCrZMFIuBx.jpg",
       "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
+      "service_id": 350,
+      "service_name": "Apple TV+",
       "user_rating": 6.8,
-      "release_date": "2024-05-16"
-    },
-    {
-      "id": 814776,
-      "title": "Bottoms",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg",
-      "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 6.8,
-      "release_date": "2023-08-25"
+      "release_date": "2024-07-10"
     },
     {
       "id": 267463,
@@ -4671,40 +4767,16 @@
       "release_date": "2014-09-06"
     },
     {
-      "id": 1417,
-      "title": "Glee",
-      "type": "tv_series",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg",
-      "genre": "comedy",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 6.8,
-      "release_date": "2009-05-19"
-    },
-    {
-      "id": 5994,
-      "title": "The Family Man",
+      "id": 496,
+      "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
       "type": "movie",
-      "year": 2000,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9wToOVsKuf0XeKhlauzCa3D8Gui.jpg",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg",
       "genre": "comedy",
-      "service_id": 386,
-      "service_name": "Peacock",
+      "service_id": 15,
+      "service_name": "Hulu",
       "user_rating": 6.8,
-      "release_date": "2000-12-12"
-    },
-    {
-      "id": 1648,
-      "title": "Bill & Ted's Excellent Adventure",
-      "type": "movie",
-      "year": 1989,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
-      "genre": "comedy",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 6.8,
-      "release_date": "1989-02-17"
+      "release_date": "2006-11-01"
     },
     {
       "id": 13342,
@@ -4719,6 +4791,30 @@
       "release_date": "1982-08-13"
     },
     {
+      "id": 25970,
+      "title": "I Married a Witch",
+      "type": "movie",
+      "year": 1942,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pOtHcQfo0wCesRfeDPacrS2bD3W.jpg",
+      "genre": "comedy",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.8,
+      "release_date": "1942-10-30"
+    },
+    {
+      "id": 974635,
+      "title": "Hit Man",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+      "genre": "comedy",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.799,
+      "release_date": "2024-05-16"
+    },
+    {
       "id": 2616,
       "title": "Uncle Buck",
       "type": "movie",
@@ -4729,6 +4825,18 @@
       "service_name": "Prime Video",
       "user_rating": 6.796,
       "release_date": "1989-08-16"
+    },
+    {
+      "id": 1151039,
+      "title": "Nonnas",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg",
+      "genre": "comedy",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.789,
+      "release_date": "2025-05-01"
     },
     {
       "id": 59860,
@@ -4743,16 +4851,16 @@
       "release_date": "2011-07-01"
     },
     {
-      "id": 496,
-      "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
-      "type": "movie",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg",
+      "id": 1417,
+      "title": "Glee",
+      "type": "tv_series",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg",
       "genre": "comedy",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 6.784,
-      "release_date": "2006-11-01"
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 6.77,
+      "release_date": "2009-05-19"
     },
     {
       "id": 772,
@@ -4765,18 +4873,6 @@
       "service_name": "Disney+",
       "user_rating": 6.769,
       "release_date": "1992-11-15"
-    },
-    {
-      "id": 1013850,
-      "title": "A Real Pain",
-      "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
-      "genre": "comedy",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 6.766,
-      "release_date": "2024-11-01"
     },
     {
       "id": 197449,
@@ -4801,6 +4897,18 @@
       "service_name": "Hulu",
       "user_rating": 6.764,
       "release_date": "2004-04-13"
+    },
+    {
+      "id": 1013850,
+      "title": "A Real Pain",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
+      "genre": "comedy",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.763,
+      "release_date": "2024-11-01"
     },
     {
       "id": 12626,
@@ -4839,6 +4947,30 @@
       "release_date": "2000-07-07"
     },
     {
+      "id": 814776,
+      "title": "Bottoms",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg",
+      "genre": "comedy",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.746,
+      "release_date": "2023-08-25"
+    },
+    {
+      "id": 634,
+      "title": "Bridget Jones's Diary",
+      "type": "movie",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dkauRl9TosBFikftrC3OVcKWDoz.jpg",
+      "genre": "comedy",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.739,
+      "release_date": "2001-04-13"
+    },
+    {
       "id": 67156,
       "title": "Man with a Plan",
       "type": "tv_series",
@@ -4875,18 +5007,6 @@
       "release_date": "2023-03-09"
     },
     {
-      "id": 1239193,
-      "title": "Deep Cover",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1vXTHTbSQJs9r2hp4Uk08XzKwPp.jpg",
-      "genre": "comedy",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 6.708,
-      "release_date": "2025-06-12"
-    },
-    {
       "id": 1267905,
       "title": "The Roses",
       "type": "movie",
@@ -4895,8 +5015,20 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 6.707,
+      "user_rating": 6.711,
       "release_date": "2025-08-27"
+    },
+    {
+      "id": 1239193,
+      "title": "Deep Cover",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1vXTHTbSQJs9r2hp4Uk08XzKwPp.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.706,
+      "release_date": "2025-06-12"
     },
     {
       "id": 614939,
@@ -4909,18 +5041,6 @@
       "service_name": "Peacock",
       "user_rating": 6.7,
       "release_date": "2022-09-30"
-    },
-    {
-      "id": 634,
-      "title": "Bridget Jones's Diary",
-      "type": "movie",
-      "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dkauRl9TosBFikftrC3OVcKWDoz.jpg",
-      "genre": "comedy",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 6.7,
-      "release_date": "2001-04-13"
     },
     {
       "id": 10660,
@@ -5015,7 +5135,7 @@
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 6.688,
+      "user_rating": 6.687,
       "release_date": "2005-06-07"
     },
     {
@@ -5031,30 +5151,6 @@
       "release_date": "2017-07-08"
     },
     {
-      "id": 1363123,
-      "title": "The Family Plan 2",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
-      "genre": "comedy",
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 6.683,
-      "release_date": "2025-11-11"
-    },
-    {
-      "id": 792293,
-      "title": "Dumb Money",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/e9u7luSxFKOZgPTB9XHFnPArGdP.jpg",
-      "genre": "comedy",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 6.683,
-      "release_date": "2023-09-15"
-    },
-    {
       "id": 879444,
       "title": "Accident Man: Hitman's Holiday",
       "type": "movie",
@@ -5065,6 +5161,18 @@
       "service_name": "Prime Video",
       "user_rating": 6.683,
       "release_date": "2022-10-14"
+    },
+    {
+      "id": 792293,
+      "title": "Dumb Money",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e9u7luSxFKOZgPTB9XHFnPArGdP.jpg",
+      "genre": "comedy",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.682,
+      "release_date": "2023-09-15"
     },
     {
       "id": 7453,
@@ -5079,11 +5187,23 @@
       "release_date": "2005-04-28"
     },
     {
+      "id": 1363123,
+      "title": "The Family Plan 2",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
+      "genre": "comedy",
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 6.675,
+      "release_date": "2025-11-11"
+    },
+    {
       "id": 9614,
       "title": "Happy Gilmore",
       "type": "movie",
       "year": 1996,
-      "poster_url": "https://image.tmdb.org/t/p/w342/epFP29rGrLPseuKxpz3mGKr23Do.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
       "genre": "comedy",
       "service_id": 9,
       "service_name": "Prime Video",
@@ -5099,7 +5219,7 @@
       "genre": "comedy",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 6.665,
+      "user_rating": 6.663,
       "release_date": "2017-10-06"
     },
     {
@@ -5115,18 +5235,6 @@
       "release_date": "2025-01-16"
     },
     {
-      "id": 10719,
-      "title": "Elf",
-      "type": "movie",
-      "year": 2003,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 6.659,
-      "release_date": "2003-11-07"
-    },
-    {
       "id": 1321439,
       "title": "The Wrong Paris",
       "type": "movie",
@@ -5137,6 +5245,18 @@
       "service_name": "Netflix",
       "user_rating": 6.658,
       "release_date": "2025-09-11"
+    },
+    {
+      "id": 10719,
+      "title": "Elf",
+      "type": "movie",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+      "genre": "comedy",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.658,
+      "release_date": "2003-11-07"
     },
     {
       "id": 50544,
@@ -5183,7 +5303,7 @@
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 6.64,
+      "user_rating": 6.639,
       "release_date": "2025-08-22"
     },
     {
@@ -5195,7 +5315,7 @@
       "genre": "comedy",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 6.63,
+      "user_rating": 6.624,
       "release_date": "2025-05-23"
     },
     {
@@ -5219,7 +5339,7 @@
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 6.613,
+      "user_rating": 6.615,
       "release_date": "2025-07-25"
     },
     {
@@ -5231,7 +5351,7 @@
       "genre": "comedy",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 6.603,
+      "user_rating": 6.602,
       "release_date": "1988-05-27"
     },
     {
@@ -5247,6 +5367,18 @@
       "release_date": "1996-03-08"
     },
     {
+      "id": 135615,
+      "title": "American Born Chinese",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cwTYt6DKuMY6RSmQ269fpYH9ELN.jpg",
+      "genre": "comedy",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 6.6,
+      "release_date": "2023-05-24"
+    },
+    {
       "id": 683340,
       "title": "Vengeance",
       "type": "movie",
@@ -5259,28 +5391,16 @@
       "release_date": "2022-07-29"
     },
     {
-      "id": 480001,
-      "title": "The Art of Self-Defense",
+      "id": 529862,
+      "title": "Brittany Runs a Marathon",
       "type": "movie",
       "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bTq793Qwl3tCXb94zrDPAwppbsC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/aSWePCEtLpNdD7ykW6OuZqvVhyn.jpg",
       "genre": "comedy",
-      "service_id": 15,
-      "service_name": "Hulu",
+      "service_id": 9,
+      "service_name": "Prime Video",
       "user_rating": 6.6,
-      "release_date": "2019-07-12"
-    },
-    {
-      "id": 413658,
-      "title": "The Warriors Gate",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8l2DHcrCTgy1XuFHZmL2BbClJVO.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 6.6,
-      "release_date": "2016-11-18"
+      "release_date": "2019-08-23"
     },
     {
       "id": 7211,
@@ -5343,6 +5463,30 @@
       "release_date": "2006-12-20"
     },
     {
+      "id": 2779,
+      "title": "The Curse of the Jade Scorpion",
+      "type": "movie",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mfvWefUp09oaLLxb8KhsvUYi7mX.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.593,
+      "release_date": "2001-08-10"
+    },
+    {
+      "id": 413658,
+      "title": "The Warriors Gate",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8l2DHcrCTgy1XuFHZmL2BbClJVO.jpg",
+      "genre": "comedy",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.59,
+      "release_date": "2016-11-18"
+    },
+    {
       "id": 396810,
       "title": "The Last Word",
       "type": "movie",
@@ -5353,6 +5497,18 @@
       "service_name": "Hulu",
       "user_rating": 6.588,
       "release_date": "2017-03-03"
+    },
+    {
+      "id": 92591,
+      "title": "Bernie",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rW5CetooG545jpkPNpD4FjFAXfe.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.58,
+      "release_date": "2012-04-27"
     },
     {
       "id": 3049,
@@ -5403,6 +5559,18 @@
       "release_date": "2023-11-22"
     },
     {
+      "id": 480001,
+      "title": "The Art of Self-Defense",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bTq793Qwl3tCXb94zrDPAwppbsC.jpg",
+      "genre": "comedy",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.554,
+      "release_date": "2019-07-12"
+    },
+    {
       "id": 1493,
       "title": "Miss Congeniality",
       "type": "movie",
@@ -5415,18 +5583,6 @@
       "release_date": "2000-12-22"
     },
     {
-      "id": 4825,
-      "title": "Guys and Dolls",
-      "type": "movie",
-      "year": 1955,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mrSM6laJJLBVdMdWfeNRa1innnk.jpg",
-      "genre": "comedy",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 6.534,
-      "release_date": "1955-12-23"
-    },
-    {
       "id": 503125,
       "title": "Little Monsters",
       "type": "movie",
@@ -5435,7 +5591,7 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 6.524,
+      "user_rating": 6.52,
       "release_date": "2019-08-29"
     },
     {
@@ -5447,8 +5603,20 @@
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 6.515,
+      "user_rating": 6.514,
       "release_date": "2011-05-13"
+    },
+    {
+      "id": 13680,
+      "title": "The Game Plan",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fcLFvIqCUrhY96mkSmr3okxaMEw.jpg",
+      "genre": "comedy",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 6.508,
+      "release_date": "2007-09-28"
     },
     {
       "id": 8012,
@@ -5459,7 +5627,7 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 6.504,
+      "user_rating": 6.503,
       "release_date": "1995-10-20"
     },
     {
@@ -5487,16 +5655,16 @@
       "release_date": "2025-12-05"
     },
     {
-      "id": 374052,
-      "title": "The Love Witch",
+      "id": 967847,
+      "title": "Ghostbusters: Frozen Empire",
       "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/q6mZjCwGn9KCTrStTRM88pui0is.jpg",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg",
       "genre": "comedy",
-      "service_id": 386,
-      "service_name": "Peacock",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 6.5,
-      "release_date": "2016-11-11"
+      "release_date": "2024-03-20"
     },
     {
       "id": 146304,
@@ -5583,6 +5751,18 @@
       "release_date": "1988-06-17"
     },
     {
+      "id": 4825,
+      "title": "Guys and Dolls",
+      "type": "movie",
+      "year": 1955,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mrSM6laJJLBVdMdWfeNRa1innnk.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.5,
+      "release_date": "1955-12-23"
+    },
+    {
       "id": 45243,
       "title": "The Hangover Part II",
       "type": "movie",
@@ -5631,16 +5811,16 @@
       "release_date": "2007-09-09"
     },
     {
-      "id": 967847,
-      "title": "Ghostbusters: Frozen Empire",
+      "id": 9689,
+      "title": "Hollywood Ending",
       "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aDRbdtNoTRoYnIpH3g1icGeHGBh.jpg",
       "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 6.481,
-      "release_date": "2024-03-20"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.485,
+      "release_date": "2002-05-03"
     },
     {
       "id": 20048,
@@ -5691,6 +5871,18 @@
       "release_date": "2022-03-23"
     },
     {
+      "id": 3980,
+      "title": "Critters",
+      "type": "movie",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zLL6nX13AfigvvNQ9GyNXhKVrmg.jpg",
+      "genre": "comedy",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.47,
+      "release_date": "1986-04-11"
+    },
+    {
       "id": 649609,
       "title": "Renfield",
       "type": "movie",
@@ -5699,20 +5891,8 @@
       "genre": "comedy",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 6.464,
+      "user_rating": 6.463,
       "release_date": "2023-04-07"
-    },
-    {
-      "id": 1272149,
-      "title": "Bridget Jones: Mad About the Boy",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/e5VR3nhLYG60znxaqU84wv4VSCb.jpg",
-      "genre": "comedy",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 6.462,
-      "release_date": "2025-02-12"
     },
     {
       "id": 63492,
@@ -5727,6 +5907,18 @@
       "release_date": "2011-09-30"
     },
     {
+      "id": 1272149,
+      "title": "Bridget Jones: Mad About the Boy",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e5VR3nhLYG60znxaqU84wv4VSCb.jpg",
+      "genre": "comedy",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.457,
+      "release_date": "2025-02-12"
+    },
+    {
       "id": 339927,
       "title": "Kevin Hart: What Now?",
       "type": "movie",
@@ -5739,6 +5931,18 @@
       "release_date": "2016-10-14"
     },
     {
+      "id": 374052,
+      "title": "The Love Witch",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q6mZjCwGn9KCTrStTRM88pui0is.jpg",
+      "genre": "comedy",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.455,
+      "release_date": "2016-11-11"
+    },
+    {
       "id": 594767,
       "title": "Shazam! Fury of the Gods",
       "type": "movie",
@@ -5747,7 +5951,7 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 6.448,
+      "user_rating": 6.447,
       "release_date": "2023-03-15"
     },
     {
@@ -5783,7 +5987,7 @@
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 6.441,
+      "user_rating": 6.44,
       "release_date": "2024-01-10"
     },
     {
@@ -5797,210 +6001,6 @@
       "service_name": "Hulu",
       "user_rating": 6.439,
       "release_date": "2020-08-27"
-    },
-    {
-      "id": 44147,
-      "title": "Wild Target",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ejKD5DQ7jouzEkz1fx5Fr8li2ZA.jpg",
-      "genre": "comedy",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 6.436,
-      "release_date": "2010-06-17"
-    },
-    {
-      "id": 1106289,
-      "title": "The Pickup",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vFWvWhfAvij8UIngg2Vf6JV95Cr.jpg",
-      "genre": "comedy",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 6.432,
-      "release_date": "2025-07-27"
-    },
-    {
-      "id": 9716,
-      "title": "Everyone Says I Love You",
-      "type": "movie",
-      "year": 1996,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cFOZ4bNbWtnIIboc43M86yhwPBX.jpg",
-      "genre": "comedy",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 6.424,
-      "release_date": "1996-12-06"
-    },
-    {
-      "id": 520900,
-      "title": "The Personal History of David Copperfield",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2epgo9k2Jrs7qrTL1Rork1mDSKT.jpg",
-      "genre": "comedy",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 6.419,
-      "release_date": "2019-11-07"
-    },
-    {
-      "id": 302699,
-      "title": "Central Intelligence",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hXQVMbRNpf7c93e8clMY4W5DRm6.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 6.417,
-      "release_date": "2016-06-15"
-    },
-    {
-      "id": 1153714,
-      "title": "Death of a Unicorn",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 6.415,
-      "release_date": "2025-03-27"
-    },
-    {
-      "id": 999644,
-      "title": "You Are So Not Invited to My Bat Mitzvah",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ukpifWBW2xEmMtJX4bCpoNpWEr2.jpg",
-      "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 6.405,
-      "release_date": "2023-08-18"
-    },
-    {
-      "id": 399725,
-      "title": "Ideal Home",
-      "type": "movie",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bmXBT2uL4HQGimyfy5iu4ESnEaJ.jpg",
-      "genre": "comedy",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 6.403,
-      "release_date": "2018-06-21"
-    },
-    {
-      "id": 897087,
-      "title": "Freelance",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
-      "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 6.402,
-      "release_date": "2023-10-05"
-    },
-    {
-      "id": 1302916,
-      "title": "Heart Eyes",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
-      "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 6.4,
-      "release_date": "2025-02-06"
-    },
-    {
-      "id": 738646,
-      "title": "Operation Christmas Drop",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1fUcKFDy58DhWYd5Y7Nu5DgpxaE.jpg",
-      "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 6.4,
-      "release_date": "2020-11-05"
-    },
-    {
-      "id": 606117,
-      "title": "A Cinderella Story: Christmas Wish",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ozBX0u5caaJFli9AssqJmARb5R.jpg",
-      "genre": "comedy",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 6.4,
-      "release_date": "2019-10-15"
-    },
-    {
-      "id": 209403,
-      "title": "Bad Words",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hZo399sszo6QxEPOmqJiq5NhQeU.jpg",
-      "genre": "comedy",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 6.4,
-      "release_date": "2013-09-06"
-    },
-    {
-      "id": 8491,
-      "title": "Weekend at Bernie's",
-      "type": "movie",
-      "year": 1989,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4RtjBkBSqHG46uieHgTtM7oKlpo.jpg",
-      "genre": "comedy",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 6.4,
-      "release_date": "1989-07-05"
-    },
-    {
-      "id": 667739,
-      "title": "The Man from Toronto",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uTCfTibqtk4f90cC59bLPMOmsfc.jpg",
-      "genre": "comedy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 6.399,
-      "release_date": "2022-12-23"
-    },
-    {
-      "id": 61969,
-      "title": "Angie Tribeca",
-      "type": "tv_series",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xi6gGST5L7FiUiYDPifHGtzl3zG.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 6.391,
-      "release_date": "2016-01-17"
-    },
-    {
-      "id": 616037,
-      "title": "Thor: Love and Thunder",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
-      "genre": "comedy",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 6.39,
-      "release_date": "2022-07-06"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "32001-33000",
-  "updated_at": 1765860582475,
+  "updated_at": 1765951708972,
   "shows": [
     {
       "id": 32022,
@@ -51,7 +51,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 32025
+      "tmdb_id": 32025,
+      "is_returning": true,
+      "next_season": 23,
+      "next_air_date": "2025-12-17",
+      "next_episode": 12,
+      "relevance_score": 75
     },
     {
       "id": 32040,
@@ -124,7 +129,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/34Z8NJEG8KtRiGu8PG7I9Plza2S.jpg",
       "plot_overview": "A doctor uses special eye drops to give himself x-ray vision, but the new power has disastrous consequences.",
       "genres": [],
-      "user_rating": 6.6,
+      "user_rating": 6.618,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1963-07-13",
@@ -312,7 +317,7 @@
         "Mystery",
         "Comedy"
       ],
-      "user_rating": 7.9,
+      "user_rating": 7.907,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-07-12",

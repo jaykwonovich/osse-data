@@ -1,6 +1,6 @@
 {
   "range": "25001-26000",
-  "updated_at": 1765860582473,
+  "updated_at": 1765951708970,
   "shows": [
     {
       "id": 25037,
@@ -292,7 +292,7 @@
         "Crime",
         "Drama"
       ],
-      "user_rating": 6.819,
+      "user_rating": 6.818,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-11-11",
@@ -305,6 +305,31 @@
         }
       ],
       "tmdb_id": 25941
+    },
+    {
+      "id": 25970,
+      "title": "I Married a Witch",
+      "type": "movie",
+      "year": 1942,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pOtHcQfo0wCesRfeDPacrS2bD3W.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xrb2llOfcqX5dL5JLca4ZiTdwyu.jpg",
+      "plot_overview": "A 17th-century witch returns to wreak havoc in the life of a descendant of the Puritan witch hunter who burned her.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1942-10-30",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 25970
     }
   ]
 }

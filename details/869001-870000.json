@@ -1,7 +1,34 @@
 {
   "range": "869001-870000",
-  "updated_at": 1765860582579,
+  "updated_at": 1765951709413,
   "shows": [
+    {
+      "id": 869612,
+      "title": "Master Gardener",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/afkyHDaMblwX2F1zJzMrTnPsDUH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kmsC7wvrKbla7kCg6YTWHtxmaGI.jpg",
+      "plot_overview": "Narvel Roth is a meticulous horticulturist who is devoted to tending the grounds of a beautiful estate and pandering to his employer, the wealthy dowager Mrs. Haverhill. When she demands that he take on her wayward and troubled niece, it unlocks dark secrets from a buried violent past.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "user_rating": 6.009,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-05-19",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 869612
+    },
     {
       "id": 869626,
       "title": "Marcel the Shell with Shoes On",
@@ -29,6 +56,31 @@
         }
       ],
       "tmdb_id": 869626
+    },
+    {
+      "id": 869641,
+      "title": "Vacation Friends 2",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gyaqhppr9BnBCFF0R2dXeIe4J1k.jpg",
+      "plot_overview": "Newly married Marcus and Emily invite Ron and Kyla, who are also newly married with a baby, to join them at a Caribbean resort, where Marcus is meeting with the owners about a construction contract for a Chicago hotel. But when the party begins the couples' relaxing vacation quickly becomes a wild adventure.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.329,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-08-24",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 869641
     }
   ]
 }

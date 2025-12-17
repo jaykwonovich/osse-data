@@ -1,6 +1,6 @@
 {
   "range": "43001-44000",
-  "updated_at": 1765860582481,
+  "updated_at": 1765951709015,
   "shows": [
     {
       "id": 43020,
@@ -20,6 +20,12 @@
       "us_rating": null,
       "release_date": "2012-05-27",
       "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",

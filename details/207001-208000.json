@@ -1,6 +1,6 @@
 {
   "range": "207001-208000",
-  "updated_at": 1765860582511,
+  "updated_at": 1765951709315,
   "shows": [
     {
       "id": 207703,
@@ -27,6 +27,38 @@
         }
       ],
       "tmdb_id": 207703
+    },
+    {
+      "id": 207863,
+      "title": "Mayfair Witches",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eDl1veju2Hf3tyFmGAedtGXb9Yv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9DHo5qXkG0titQmr2PF92N3aYYk.jpg",
+      "plot_overview": "An intuitive young neurosurgeon discovers that she is the unlikely heir to a family of witches. As she grapples with her newfound powers, she must contend with a sinister presence that has haunted her family for generations.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-01-08",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 207863
     }
   ]
 }

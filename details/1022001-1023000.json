@@ -1,6 +1,6 @@
 {
   "range": "1022001-1023000",
-  "updated_at": 1765860582588,
+  "updated_at": 1765951709483,
   "shows": [
     {
       "id": 1022256,
@@ -13,7 +13,7 @@
       "genres": [
         "Documentary"
       ],
-      "user_rating": 8.64,
+      "user_rating": 8.639,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-11-04",
@@ -40,7 +40,7 @@
         "Comedy",
         "Animation"
       ],
-      "user_rating": 7.0,
+      "user_rating": 6.975,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-06-18",
@@ -106,6 +106,32 @@
         }
       ],
       "tmdb_id": 1022796
+    },
+    {
+      "id": 1022964,
+      "title": "Candy Cane Lane",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/of6Ds591FJTKoBHYjDFzH6jlTyK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sp6egj5NHHRGmCMdIoTNdbLwACR.jpg",
+      "plot_overview": "A man, determined to win the neighborhood's annual Christmas decorating contest, makes a pact with an elf to help him win. However, the elf casts a spell bringing the twelve days of Christmas to life, bringing chaos to the small, unsuspecting town.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 6.008,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-11-29",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1022964
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "303001-304000",
-  "updated_at": 1765860582527,
+  "updated_at": 1765951709338,
   "shows": [
     {
       "id": 303109,
@@ -55,7 +55,7 @@
       "next_season": 1,
       "next_air_date": "2025-12-29",
       "next_episode": 1,
-      "relevance_score": 100
+      "relevance_score": 125
     },
     {
       "id": 303175,
@@ -140,7 +140,32 @@
       "next_season": 1,
       "next_air_date": "2026-01-01",
       "next_episode": 1,
-      "relevance_score": 100
+      "relevance_score": 125
+    },
+    {
+      "id": 303992,
+      "title": "Anything But Gray",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zP7ktD7Vmz6FeqSyx6r0TOS4dDa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pi4l78Fs5J6kpPhob3MLEkVkK8X.jpg",
+      "plot_overview": "Designer Gray Benko turns homes in Charleston, South Carolina, into colourful masterpieces with the help of her dad, Grumpy, and her design partner Chelcie.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-10-25",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 303992
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "83001-84000",
-  "updated_at": 1765860582493,
+  "updated_at": 1765951709226,
   "shows": [
     {
       "id": 83564,
@@ -40,7 +40,7 @@
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.988,
+      "user_rating": 7.986,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-03-27",
@@ -67,7 +67,7 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.478,
+      "user_rating": 7.479,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-10-25",
@@ -134,6 +134,32 @@
         }
       ],
       "tmdb_id": 83867
+    },
+    {
+      "id": 83870,
+      "title": "The Plot Against America",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rC5GUHvKxlk3WPyCh4mQ5q6HDxG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5bbXx8oopd6a6ZeG7uuxQK6JFRp.jpg",
+      "plot_overview": "An alternate American history told through the eyes of a working-class Jewish family in New Jersey, as they watch the political rise of Charles Lindbergh, an aviator-hero and xenophobic populist, who becomes president and turns the nation toward fascism.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "user_rating": 6.725,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-03-16",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 83870
     }
   ]
 }
