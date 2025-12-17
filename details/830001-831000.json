@@ -1,6 +1,6 @@
 {
   "range": "830001-831000",
-  "updated_at": 1765951709400,
+  "updated_at": 1765990396779,
   "shows": [
     {
       "id": 830784,
@@ -51,6 +51,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }

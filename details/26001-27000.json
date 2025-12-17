@@ -1,6 +1,6 @@
 {
   "range": "26001-27000",
-  "updated_at": 1765951708971,
+  "updated_at": 1765990396677,
   "shows": [
     {
       "id": 26389,
@@ -42,6 +42,12 @@
       "release_date": "2009-10-16",
       "streaming_services": [
         {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
           "service_id": 386,
           "service_name": "Peacock",
           "type": "sub",
@@ -63,7 +69,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.303,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-08-28",

@@ -1,6 +1,6 @@
 {
   "range": "1001-2000",
-  "updated_at": 1765951708950,
+  "updated_at": 1765990396656,
   "shows": [
     {
       "id": 1044,
@@ -90,7 +90,7 @@
       "genres": [
         "Mystery"
       ],
-      "user_rating": 7.9,
+      "user_rating": 7.916,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1949-08-31",
@@ -497,7 +497,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.792,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1976-11-20",
@@ -735,7 +735,7 @@
         "Drama",
         "Western"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.569,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-11-06",
@@ -816,7 +816,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.728,
+      "user_rating": 7.725,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2007-09-24",
@@ -870,7 +870,7 @@
         "War & Politics",
         "Crime"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.579,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-10-02",
@@ -1182,7 +1182,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.913,
+      "user_rating": 7.912,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2007-09-24",
@@ -1415,6 +1415,12 @@
       "us_rating": null,
       "release_date": "2013-03-04",
       "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 9,
           "service_name": "Prime Video",
@@ -1984,24 +1990,25 @@
     },
     {
       "id": 1546,
-      "title": "Thumbsucker",
-      "type": "movie",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kXC029FtR06qkT8S6zBQ26uJczu.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uTh7Uyy5sdGmcl2AgqJoHlxP3PE.jpg",
-      "plot_overview": "Justin Cobb, a teenager in suburban Oregon, copes with his thumb-sucking problem, romance, and his diagnosis with ADHD and subsequent experience using Ritalin.",
+      "title": "Recess",
+      "type": "tv_series",
+      "year": 1997,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/PJSgscE4Es0TXmgIqp3X6ey8Ux.jpg",
+      "plot_overview": "Join a group of six fourth-grade best friends at Third Street Elementary School on their fun-filled adventures in their school playground. Through the ups-and-downs of adolescence, they must wrestle with authority, avoid the school snitch, and try their best to win at kick-ball.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "Animation",
+        "Kids",
+        "Comedy"
       ],
-      "user_rating": 6.2,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2005-09-16",
+      "release_date": "1997-09-13",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
@@ -2251,7 +2258,7 @@
         "Drama",
         "Family"
       ],
-      "user_rating": 8.275,
+      "user_rating": 8.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1946-12-20",
@@ -2467,7 +2474,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.223,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1983-06-07",
@@ -2494,7 +2501,7 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.302,
+      "user_rating": 8.301,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2005-09-13",
@@ -2517,7 +2524,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zZZ1FDl5FPClZ9OnMrlaPA4Iuxv.jpg",
       "plot_overview": "In 2019, Lincoln Six-Echo is a resident of a seemingly \"Utopian\" but contained facility. Like all of the inhabitants of this carefully-controlled environment, Lincoln hopes to be chosen to go to The Island \u2014 reportedly the last uncontaminated location on the planet. But Lincoln soon discovers that everything about his existence is a lie.",
       "genres": [],
-      "user_rating": 6.687,
+      "user_rating": 6.686,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2005-07-21",
@@ -2571,7 +2578,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dAi6Yymj9SqSMg6BzF6PW5Qhirh.jpg",
       "plot_overview": "Jack Traven, an LAPD cop on SWAT detail, and veteran SWAT officer Harry Temple thwart an extortionist-bomber's scheme for a $3\u00a0million ransom. As they corner the bomber, he flees and detonates a bomb vest, seemingly killing himself. Weeks later, Jack witnesses a mass transit city bus explode and nearby a pay phone rings. On the phone is that same bomber looking for vengeance and the money he's owed. He gives a personal challenge to Jack: a bomb is rigged on another city bus - if it slows down be",
       "genres": [],
-      "user_rating": 7.145,
+      "user_rating": 7.144,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1994-06-09",
@@ -2645,7 +2652,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 6.847,
+      "user_rating": 6.848,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1989-02-17",
@@ -2675,6 +2682,12 @@
       "us_rating": null,
       "release_date": "1991-07-19",
       "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",
@@ -2900,6 +2913,33 @@
         }
       ],
       "tmdb_id": 1696
+    },
+    {
+      "id": 1705,
+      "title": "Fringe",
+      "type": "tv_series",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eksjqZGaGUtSZJD6nWQPsqzDMn0.jpg",
+      "plot_overview": "FBI Special Agent Olivia Dunham, brilliant but formerly institutionalized scientist Walter Bishop and his scheming, reluctant son Peter uncover a deadly mystery involving a series of unbelievable events and realize they may be a part of a larger, more disturbing pattern that blurs the line between science fiction and technology.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 8.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-09-09",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1705
     },
     {
       "id": 1712,
@@ -3263,6 +3303,31 @@
       "tmdb_id": 1824
     },
     {
+      "id": 1825,
+      "title": "Over the Top",
+      "type": "movie",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/a926UPf4EYbHfjdzf012M5YHiQ5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hkRvqzBR1lzUxUFCXxQGN0dbzwS.jpg",
+      "plot_overview": "Lincoln Hawk a hard-luck big-rig trucker takes us under the glaring Las Vegas lights for all the boisterous action of the World Armwrestling Championship. Relying on wits and willpower, Hawk tries to rebuild his life by capturing the first-place prize money, and the love of the son he abandoned years earlier into the keeping of his rich, ruthless father-in-law.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.445,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1987-02-13",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1825
+    },
+    {
       "id": 1830,
       "title": "Lord of War",
       "type": "movie",
@@ -3316,6 +3381,29 @@
       "tmdb_id": 1834
     },
     {
+      "id": 1858,
+      "title": "Transformers",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1P7w3AImoEOWJX7nn3fdaKDfEQA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
+      "plot_overview": "Young teenager Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots \u2013 the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it.",
+      "genres": [],
+      "user_rating": 6.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-06-27",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1858
+    },
+    {
       "id": 1865,
       "title": "Pirates of the Caribbean: On Stranger Tides",
       "type": "movie",
@@ -3352,7 +3440,7 @@
         "Family",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.894,
+      "user_rating": 7.896,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2007-08-17",
@@ -3412,7 +3500,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
       "plot_overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
       "genres": [],
-      "user_rating": 8.394,
+      "user_rating": 8.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1980-05-20",
@@ -3435,7 +3523,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
       "plot_overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
       "genres": [],
-      "user_rating": 7.903,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1983-05-25",
@@ -3634,7 +3722,7 @@
         "Crime",
         "Drama"
       ],
-      "user_rating": 8.206,
+      "user_rating": 8.205,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2005-09-13",

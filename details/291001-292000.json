@@ -1,6 +1,6 @@
 {
   "range": "291001-292000",
-  "updated_at": 1765951709336,
+  "updated_at": 1765990396728,
   "shows": [
     {
       "id": 291081,
@@ -65,11 +65,34 @@
       "next_season": 1,
       "next_air_date": "2026-01-06",
       "next_episode": 1,
-      "relevance_score": 125,
+      "relevance_score": 150,
       "service_name": "Hulu",
       "service_id": 15,
       "prediction_source": "gemini",
       "prediction_confidence": 0.95
+    },
+    {
+      "id": 291276,
+      "title": "Unlocked",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/76rh9uQWW0LmdCGe8kMwDbSbLB9.jpg",
+      "plot_overview": "After failing to apprehend the terrorist behind a Paris attack that claimed dozens of lives, CIA agent Alice Racine is forced to live in London as a caseworker. Her mentor unexpectedly calls her back into action when the CIA discovers that another attack is imminent. Alice soon learns that the classified information she's uncovered has been compromised...",
+      "genres": [],
+      "user_rating": 6.248,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-04-27",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 291276
     },
     {
       "id": 291334,
@@ -108,7 +131,7 @@
       "next_season": 1,
       "next_air_date": "2026-02-23",
       "next_episode": 1,
-      "relevance_score": 125,
+      "relevance_score": 150,
       "service_name": "Peacock",
       "service_id": 386,
       "prediction_source": "gemini",
@@ -151,7 +174,7 @@
       "next_season": 1,
       "next_air_date": "2026-01-26",
       "next_episode": 1,
-      "relevance_score": 125,
+      "relevance_score": 150,
       "service_name": "Hulu",
       "service_id": 15,
       "prediction_source": "gemini",
@@ -220,7 +243,7 @@
         "Family",
         "Comedy"
       ],
-      "user_rating": 8.6,
+      "user_rating": 8.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-10-06",

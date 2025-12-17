@@ -1,6 +1,6 @@
 {
   "range": "12001-13000",
-  "updated_at": 1765951708964,
+  "updated_at": 1765990396671,
   "shows": [
     {
       "id": 12092,
@@ -612,6 +612,32 @@
       "tmdb_id": 12786
     },
     {
+      "id": 12834,
+      "title": "Leaves of Grass",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jzJMDtkGZBwr2p3yAcMfrXxMfkS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uhQS0C251mo32ZJkcjfFtJ0RN9P.jpg",
+      "plot_overview": "An Ivy League professor returns home, where his pot-growing twin brother has concocted a plan to take down a local drug lord.",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "user_rating": 6.001,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-09-13",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 12834
+    },
+    {
       "id": 12900,
       "title": "Conspiracy",
       "type": "movie",
@@ -635,6 +661,32 @@
         }
       ],
       "tmdb_id": 12900
+    },
+    {
+      "id": 12912,
+      "title": "Chaos Theory",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iP4DJqTeMMQJ3J0eyt2RjRH6NZH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/41jcP1qLW6dxr2FYaaW5jSERVPR.jpg",
+      "plot_overview": "Frank Allen, a professional speaker who lectures on time management has a perfectly ordered and scheduled life, down to the minute. When his wife sets his clock forward 10 minutes as a joke, his day is thrown off. Deciding that his strictly ordered life has done him little good, he begins to make multiple choice index cards, choosing one at random and doing what is written on the card.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-10-26",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 12912
     }
   ]
 }

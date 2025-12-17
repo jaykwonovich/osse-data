@@ -1,6 +1,6 @@
 {
   "range": "323001-324000",
-  "updated_at": 1765951709341,
+  "updated_at": 1765990396736,
   "shows": [
     {
       "id": 323272,
@@ -43,6 +43,12 @@
       "us_rating": null,
       "release_date": "2016-01-14",
       "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",

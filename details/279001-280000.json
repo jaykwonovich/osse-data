@@ -1,6 +1,6 @@
 {
   "range": "279001-280000",
-  "updated_at": 1765951709333,
+  "updated_at": 1765990396726,
   "shows": [
     {
       "id": 279601,
@@ -14,7 +14,7 @@
         "Comedy",
         "Family"
       ],
-      "user_rating": 6.949,
+      "user_rating": 6.908,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-12-11",
@@ -27,6 +27,32 @@
         }
       ],
       "tmdb_id": 279601
+    },
+    {
+      "id": 279690,
+      "title": "He Never Died",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vzqwe4uuINJhbPqvlbVShBnCvHv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9LnbH36b9L85azfbbaXmgJQBVsG.jpg",
+      "plot_overview": "Jack is a solitary man with a mysterious past. His strange habits will soon become stranger when his past catches up with him.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.228,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-12-18",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 279690
     }
   ]
 }

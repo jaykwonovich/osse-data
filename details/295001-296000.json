@@ -1,6 +1,6 @@
 {
   "range": "295001-296000",
-  "updated_at": 1765951709337,
+  "updated_at": 1765990396729,
   "shows": [
     {
       "id": 295144,
@@ -53,6 +53,31 @@
       "tmdb_id": 295258
     },
     {
+      "id": 295309,
+      "title": "Her Last Broadcast: The Abduction of Jodi Huisentruit",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dA1MfnJezhhpL9VDh0sx0LD0XaU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/h6OMcX0k96eBNKdkMB4m4Q1rSwi.jpg",
+      "plot_overview": "In 1995, rising TV news anchor Jodi Huisentruit disappeared from her Iowa apartment just before dawn, leaving behind signs of a violent abduction. Her case quickly became one of the nation\u2019s most haunting unsolved mysteries. Now, 30 years later, \u201cHer Last Broadcast: The Abduction of Jodi Huisentruit\u201d follows a major break that reenergized the case.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 5.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2025-07-15",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 295309
+    },
+    {
       "id": 295571,
       "title": "Life in a Glimpse",
       "type": "tv_series",
@@ -82,7 +107,7 @@
       "next_season": 1,
       "next_air_date": "2026-01-01",
       "next_episode": 1,
-      "relevance_score": 125
+      "relevance_score": 150
     },
     {
       "id": 295755,
@@ -144,7 +169,7 @@
       "next_season": 1,
       "next_air_date": "2026-02-25",
       "next_episode": 1,
-      "relevance_score": 125,
+      "relevance_score": 150,
       "service_name": "Hulu",
       "service_id": 15,
       "prediction_source": "gemini",

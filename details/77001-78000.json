@@ -1,6 +1,6 @@
 {
   "range": "77001-78000",
-  "updated_at": 1765951709099,
+  "updated_at": 1765990396695,
   "shows": [
     {
       "id": 77016,
@@ -72,6 +72,12 @@
       "us_rating": null,
       "release_date": "2018-09-14",
       "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 9,
           "service_name": "Prime Video",

@@ -1,22 +1,45 @@
 {
   "range": "619001-620000",
-  "updated_at": 1765644325624,
+  "updated_at": 1765990396764,
   "shows": [
+    {
+      "id": 619278,
+      "title": "Inside Man: Most Wanted",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zcDZisqVQK9akfKgyrB9HYzYuVh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/OvMX5sgJ0vLmKQbIiS5yy7jn5H.jpg",
+      "plot_overview": "An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve.",
+      "genres": [
+        "Crime"
+      ],
+      "user_rating": 6.334,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-09-24",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 619278
+    },
     {
       "id": 619979,
       "title": "Deep Water",
       "type": "movie",
       "year": 2022,
-      "end_year": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xpOkZAgYwTeEdmvOXmXK7LbJ8vj.jpg",
       "plot_overview": "A well-to-do husband who allows his wife to have affairs in order to avoid a divorce becomes a prime suspect in the disappearance of her lovers.",
       "genres": [
-        "drama",
-        "mystery",
-        "thriller"
+        "Drama",
+        "Mystery"
       ],
-      "user_rating": 5.821,
+      "user_rating": 5.822,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-03-17",
@@ -28,10 +51,7 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 619979,
-      "relevance_score": 8.6014
+      "tmdb_id": 619979
     }
   ]
 }
