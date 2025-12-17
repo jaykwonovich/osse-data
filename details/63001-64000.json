@@ -1,6 +1,6 @@
 {
   "range": "63001-64000",
-  "updated_at": 1765990396691,
+  "updated_at": 1765995583306,
   "shows": [
     {
       "id": 63174,
@@ -100,9 +100,9 @@
       "release_date": "2015-08-28",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -135,6 +135,31 @@
         }
       ],
       "tmdb_id": 63401
+    },
+    {
+      "id": 63404,
+      "title": "Taskmaster",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oHLZyN7G7EpXCHxYdpMcuUNCUgS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pQMDBrA1AdMLK1mZwNvQSRDxQGP.jpg",
+      "plot_overview": "Greg Davies is the Taskmaster, and with the help of his ever-loyal assistant Alex Horne, they will set out to test the wiles, wit, wisdom and skills of five hyper-competitive comedians. Who will be crowned the Taskmaster champion in this brand new game show?",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 8.236,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-07-28",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 63404
     },
     {
       "id": 63492,

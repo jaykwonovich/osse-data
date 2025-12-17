@@ -1,6 +1,6 @@
 {
   "range": "39001-40000",
-  "updated_at": 1765990396682,
+  "updated_at": 1765995583299,
   "shows": [
     {
       "id": 39269,
@@ -19,15 +19,9 @@
       "release_date": "2012-04-05",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -117,6 +111,31 @@
       "tmdb_id": 39297
     },
     {
+      "id": 39340,
+      "title": "2 Broke Girls",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wW1SDEoZ6pDfnSkVQuXwOo8ICep.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/u04AvxFIDgL9JSd9xoVNK3BoBEd.jpg",
+      "plot_overview": "Comedy about the unlikely friendship that develops between two very different young women who meet waitressing at a diner in trendy Williamsburg, Brooklyn, and form a bond over one day owning their own successful cupcake business. Only one thing stands in their way \u2013 they\u2019re broke.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.203,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-09-19",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 39340
+    },
+    {
       "id": 39351,
       "title": "Grimm",
       "type": "tv_series",
@@ -135,15 +154,9 @@
       "release_date": "2011-10-28",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -167,9 +180,9 @@
       "release_date": "2011-09-21",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],

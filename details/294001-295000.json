@@ -1,6 +1,6 @@
 {
   "range": "294001-295000",
-  "updated_at": 1765990396729,
+  "updated_at": 1765995583342,
   "shows": [
     {
       "id": 294019,
@@ -59,7 +59,7 @@
       "next_season": 1,
       "next_air_date": "2026-02-01",
       "next_episode": 1,
-      "relevance_score": 150
+      "relevance_score": 200
     },
     {
       "id": 294219,
@@ -177,9 +177,9 @@
       "release_date": "2022-04-08",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -285,9 +285,9 @@
       "release_date": "2015-10-23",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],

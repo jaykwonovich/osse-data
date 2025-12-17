@@ -1,6 +1,6 @@
 {
   "range": "117001-118000",
-  "updated_at": 1765990396704,
+  "updated_at": 1765995583319,
   "shows": [
     {
       "id": 117030,
@@ -39,15 +39,21 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mjYU7EwVeOtM39ArdWHZk78VhYm.jpg",
       "plot_overview": "When the White House (Secret Service Code: \"Olympus\") is captured by a terrorist mastermind and the President is kidnapped, disgraced former Presidential guard Mike Banning finds himself trapped within the building. As the national security team scrambles to respond, they are forced to rely on Banning's inside knowledge to help retake the White House, save the President and avert an even bigger disaster.",
       "genres": [],
-      "user_rating": 6.413,
+      "user_rating": 6.414,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-03-20",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

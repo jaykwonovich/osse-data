@@ -1,6 +1,6 @@
 {
   "range": "84001-85000",
-  "updated_at": 1765990396696,
+  "updated_at": 1765995583311,
   "shows": [
     {
       "id": 84175,
@@ -176,9 +176,9 @@
       "release_date": "2022-09-01",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -208,6 +208,36 @@
         }
       ],
       "tmdb_id": 84892
+    },
+    {
+      "id": 84910,
+      "title": "The Masked Singer",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sT0TpxenCsghbRZ7NiEJg2ubzZx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fvL8uPX0j3PF8FXHqGpJTfq0Qzu.jpg",
+      "plot_overview": "Celebrities compete in a singing competition with one major twist: each singer is shrouded from head to toe in an elaborate costume, complete with full face mask to conceal his or her identity. One singer will be eliminated each week, ultimately revealing his or her true identity.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 7.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-01-02",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 84910,
+      "is_returning": true,
+      "next_season": 14,
+      "next_air_date": "2026-01-07",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 84958,

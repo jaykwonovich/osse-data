@@ -1,6 +1,6 @@
 {
   "range": "12001-13000",
-  "updated_at": 1765990396671,
+  "updated_at": 1765995583288,
   "shows": [
     {
       "id": 12092,
@@ -104,6 +104,31 @@
         }
       ],
       "tmdb_id": 12144
+    },
+    {
+      "id": 12146,
+      "title": "The Missing",
+      "type": "movie",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/86s5nw5F1G8lJtEowO0LBB4hoBW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o8bs4oCB3qCooYfpMhXY4evNVLi.jpg",
+      "plot_overview": "When rancher and single mother of two Maggie Gilkeson sees her teenage daughter, Lily, kidnapped by Apache rebels, she reluctantly accepts the help of her estranged father, Samuel, in tracking down the kidnappers. Along the way, the two must learn to reconcile the past and work together if they are going to have any hope of getting Lily back before she is taken over the border and forced to become a prostitute.",
+      "genres": [
+        "Western"
+      ],
+      "user_rating": 6.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2003-11-26",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 12146
     },
     {
       "id": 12153,
@@ -603,9 +628,15 @@
       "release_date": "2008-01-24",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -629,9 +660,15 @@
       "release_date": "2009-09-13",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

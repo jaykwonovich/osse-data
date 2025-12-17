@@ -1,6 +1,6 @@
 {
   "range": "26001-27000",
-  "updated_at": 1765990396677,
+  "updated_at": 1765995583295,
   "shows": [
     {
       "id": 26389,
@@ -42,15 +42,9 @@
       "release_date": "2009-10-16",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -82,6 +76,31 @@
         }
       ],
       "tmdb_id": 26736
+    },
+    {
+      "id": 26954,
+      "title": "Puppet Master II",
+      "type": "movie",
+      "year": 1990,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dy5tzZFWFTjbNyG4KNP6yMjZ6l9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g1p7uOEcfcDmwztyEzUmkGagG47.jpg",
+      "plot_overview": "A new team of paranormal researchers has come to the hotel to investigate its murder-soaked past; the puppets -- led by a new member, Torch -- shed some light on the matter, as they tunnel, burn, strangle and hook to survive.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 5.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1990-02-07",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 26954
     }
   ]
 }

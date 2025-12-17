@@ -1,6 +1,6 @@
 {
   "range": "367001-368000",
-  "updated_at": 1765990396741,
+  "updated_at": 1765995583354,
   "shows": [
     {
       "id": 367147,
@@ -20,9 +20,15 @@
       "release_date": "2017-05-28",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],

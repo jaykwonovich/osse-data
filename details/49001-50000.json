@@ -1,6 +1,6 @@
 {
   "range": "49001-50000",
-  "updated_at": 1765990396687,
+  "updated_at": 1765995583302,
   "shows": [
     {
       "id": 49009,
@@ -46,9 +46,9 @@
       "release_date": "2013-05-12",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -197,9 +197,9 @@
       "release_date": "2012-07-17",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -427,9 +427,15 @@
       "release_date": "2010-08-04",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],

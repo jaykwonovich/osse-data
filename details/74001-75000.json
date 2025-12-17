@@ -1,6 +1,6 @@
 {
   "range": "74001-75000",
-  "updated_at": 1765990396694,
+  "updated_at": 1765995583309,
   "shows": [
     {
       "id": 74016,
@@ -156,9 +156,15 @@
       "release_date": "2011-03-19",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

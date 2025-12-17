@@ -1,6 +1,6 @@
 {
   "range": "43001-44000",
-  "updated_at": 1765990396684,
+  "updated_at": 1765995583300,
   "shows": [
     {
       "id": 43020,
@@ -21,19 +21,56 @@
       "release_date": "2012-05-27",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 43020
+    },
+    {
+      "id": 43082,
+      "title": "Key & Peele",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qxBLWVlKLj04LECpPNBn825ZPf7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mBgxHCH5jl6btlBQkxmf2DgnhpV.jpg",
+      "plot_overview": "Key & Peele is an American sketch comedy television show. It stars Keegan-Michael Key and Jordan Peele, both former cast members of MADtv. Each episode of the show consists of several pre-taped sketches starring the two actors, introduced by Key and Peele in front of a live studio audience.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.618,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-01-31",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 43082
     },
     {
       "id": 43347,
@@ -79,9 +116,9 @@
       "release_date": "1947-01-30",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -115,6 +152,64 @@
       "tmdb_id": 43775
     },
     {
+      "id": 43901,
+      "title": "Longmire",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nh3n0jQeS0FgWH84kzyc8q5yLEp.jpg",
+      "plot_overview": "A Wyoming sheriff rebuilds his life and career following the death of his wife. Based on the \u201cWalt Longmire\u201d series of mystery novels written by best-selling author Craig Johnson.",
+      "genres": [
+        "Western",
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-06-03",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 43901
+    },
+    {
+      "id": 43920,
+      "title": "Dog Pound",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gp2ZbLAH1mlcGHoM1c8Bo2t13JI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7far1lb1wzsjtE9owzZji4YfqNU.jpg",
+      "plot_overview": "Three juvenile delinquents arrive at a correctional center and are put under the care of an experienced guard.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.199,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-04-24",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 43920
+    },
+    {
       "id": 43982,
       "title": "Line of Duty",
       "type": "tv_series",
@@ -133,21 +228,27 @@
       "release_date": "2012-06-26",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

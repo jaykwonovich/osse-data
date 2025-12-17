@@ -1,6 +1,6 @@
 {
   "range": "46001-47000",
-  "updated_at": 1765990396686,
+  "updated_at": 1765995583301,
   "shows": [
     {
       "id": 46028,
@@ -78,13 +78,39 @@
       "release_date": "2010-01-22",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 46296
+    },
+    {
+      "id": 46441,
+      "title": "Tyler Perry's The Haves and the Have Nots",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6BkYldJ3QWe9huaRaqvcM3EzdH3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oXQL2ahBekJt3cfUpiXVUnNAQ11.jpg",
+      "plot_overview": "Follow the complicated dynamic between the rich and powerful Cryer family and the hired help who work in their opulent Savannah, Georgia, mansion.",
+      "genres": [
+        "Soap",
+        "Drama"
+      ],
+      "user_rating": 7.467,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-05-28",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 46441
     },
     {
       "id": 46503,
@@ -154,9 +180,9 @@
       "release_date": "2010-12-01",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -236,9 +262,15 @@
       "release_date": "2017-04-30",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

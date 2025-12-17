@@ -1,6 +1,6 @@
 {
   "range": "271001-272000",
-  "updated_at": 1765990396725,
+  "updated_at": 1765995583338,
   "shows": [
     {
       "id": 271053,
@@ -98,9 +98,15 @@
       "release_date": "2015-03-12",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

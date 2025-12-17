@@ -1,6 +1,6 @@
 {
   "range": "8001-9000",
-  "updated_at": 1765990396664,
+  "updated_at": 1765995583283,
   "shows": [
     {
       "id": 8009,
@@ -17,15 +17,15 @@
       "release_date": "1986-03-07",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -74,9 +74,21 @@
       "release_date": "2008-12-10",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -152,6 +164,31 @@
         }
       ],
       "tmdb_id": 8208
+    },
+    {
+      "id": 8292,
+      "title": "Four Brothers",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8cO39cnWSZQi2ncPG5TxL3YRzKc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2pITFeesu6aikrEknoH6bNXOdhk.jpg",
+      "plot_overview": "Four adopted brothers return to their Detroit hometown when their mother is murdered and vow to exact revenge on the killers.",
+      "genres": [
+        "Crime"
+      ],
+      "user_rating": 6.813,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2005-08-11",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8292
     },
     {
       "id": 8346,
@@ -397,6 +434,36 @@
       "tmdb_id": 8491
     },
     {
+      "id": 8514,
+      "title": "RuPaul's Drag Race",
+      "type": "tv_series",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lgJvUN66DXJZyZjfYzbkwMAi1iI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hEtBwhqAzHKihQ1H9QD2kj8bJ5.jpg",
+      "plot_overview": "Join RuPaul, the world's most famous drag queen, as the host, mentor and judge for the ultimate in drag queen competitions. The top drag queens in the U.S. will vie for drag stardom as RuPaul, in full glamazon drag, will reign supreme in all judging and eliminations while helping guide the contestants as they prepare for each challenge.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-02-02",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8514,
+      "is_returning": true,
+      "next_season": 18,
+      "next_air_date": "2026-01-02",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
       "id": 8536,
       "title": "Superman II",
       "type": "movie",
@@ -547,6 +614,32 @@
         }
       ],
       "tmdb_id": 8665
+    },
+    {
+      "id": 8669,
+      "title": "Charlie Bartlett",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l0jr9jSIW2TYFuunPtDQ1exyjtI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eCK6auUIfnQnIQ5ufVIl7fvllOb.jpg",
+      "plot_overview": "Awkward teenager Charlie Bartlett has trouble fitting in at a new high school. Charlie needs some friends fast, and decides that the best way to find them is to appoint himself the resident psychiatrist. He becomes one of the most popular guys in school by doling out advice and, occasionally, medication, to the student body.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.675,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-02-22",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8669
     },
     {
       "id": 8738,

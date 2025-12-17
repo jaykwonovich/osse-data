@@ -1,6 +1,6 @@
 {
   "range": "31001-32000",
-  "updated_at": 1765990396679,
+  "updated_at": 1765995583296,
   "shows": [
     {
       "id": 31011,
@@ -123,9 +123,9 @@
       "release_date": "2009-11-12",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -268,6 +268,31 @@
       "tmdb_id": 31917
     },
     {
+      "id": 31941,
+      "title": "Blue Mountain State",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lPAOv8kE2AuD4jliyJ6ziKQIAGi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/A9Ld3VO4vPwXV2vV9CmtmnHwrXD.jpg",
+      "plot_overview": "Three incoming freshman in a big-time, Midwestern college football program have to juggle football, girls, class and nonstop hazing.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-01-11",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 31941
+    },
+    {
       "id": 31952,
       "title": "The Vampire Lovers",
       "type": "movie",
@@ -289,6 +314,37 @@
         }
       ],
       "tmdb_id": 31952
+    },
+    {
+      "id": 31991,
+      "title": "WWE NXT",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8BaPwADDUeg752Dxf0VSUHMQuYc.jpg",
+      "plot_overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-02-23",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 31991,
+      "is_returning": true,
+      "next_season": 19,
+      "next_air_date": "2025-12-23",
+      "next_episode": 51,
+      "relevance_score": 75
     }
   ]
 }

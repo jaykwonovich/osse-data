@@ -1,66 +1,38 @@
 {
   "range": "101001-102000",
-  "updated_at": 1765702770826,
+  "updated_at": 1765995583315,
   "shows": [
     {
-      "id": 101359,
-      "title": "The Secret of Skinwalker Ranch",
-      "type": "tv_series",
-      "year": 2020,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/j8PpovebgIhrt89AQVvkogcX34v.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6gdTUejzzULZFcPWVdITyHmN88X.jpg",
-      "plot_overview": "The investigation of the world\u2019s most mysterious hot spot for UFO and \u201cHigh Strangeness\u201d phenomena with astrophysicist Dr. Travis Taylor who joins real estate tycoon Brandon Fugal, along with his team of scientists and researchers on Utah\u2019s notorious Skinwalker Ranch. The team utilizes cutting edge technology to investigate the 512-acre property to uncover the possibly \u201cotherworldly\u201d perpetrators behind it all. With everything from mysterious animal deaths to hidden underground workings and poss",
+      "id": 101731,
+      "title": "The Magic of Belle Isle",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/imoZLjmCnfG4f69Dq0f2Zsr9XOR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fM4TVNg27IBCYAz8FUiLefWck1p.jpg",
+      "plot_overview": "In an effort to tap into his original talent, a wheelchair-bound author moves to a rural town, where he befriends a single mother and her three kids, who help reignite his passion for writing.",
       "genres": [
-        "reality",
-        "documentary"
+        "Drama",
+        "Comedy"
       ],
-      "user_rating": 8.1,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2020-03-31",
+      "release_date": "2012-07-06",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 101359,
-      "relevance_score": 5.0438
-    },
-    {
-      "id": 101722,
-      "title": "Mike Brewer's World of Cars",
-      "type": "tv_series",
-      "year": 2020,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nhDwhZiocJHT5qqNn5WXPVKXWDe.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dGYm2Ttu47H6VTmrLNQXzF4GrAx.jpg",
-      "plot_overview": "This Wheeler Dealer is going global! Watch Mike Brewer travel the world to indulge his passion for all things automotive.",
-      "genres": [
-        "documentary",
-        "reality"
-      ],
-      "user_rating": 6.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2020-03-03",
-      "streaming_services": [
-        {
-          "service_id": 531,
-          "service_name": "Paramount+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 101722,
-      "relevance_score": 0.0438
+      "tmdb_id": 101731
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "1134001-1135000",
-  "updated_at": 1765990396796,
+  "updated_at": 1765995583426,
   "shows": [
     {
       "id": 1134055,
@@ -17,9 +17,15 @@
       "release_date": "2023-08-15",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],

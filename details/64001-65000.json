@@ -1,6 +1,6 @@
 {
   "range": "64001-65000",
-  "updated_at": 1765990396691,
+  "updated_at": 1765995583306,
   "shows": [
     {
       "id": 64099,
@@ -19,9 +19,9 @@
       "release_date": "2016-01-03",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -45,9 +45,9 @@
       "release_date": "2015-08-07",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -78,6 +78,31 @@
         }
       ],
       "tmdb_id": 64328
+    },
+    {
+      "id": 64353,
+      "title": "Versailles",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fMqCRNpc2FadD0n7vJLRmlS0aEt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cWe83yD8s7B1OZ71ntIS5fCeqWC.jpg",
+      "plot_overview": "The story of a young Louis XIV on his journey to become the most powerful monarch in Europe, from his battles with the fronde through his development into the Sun King.\u00a0Historical and fictional characters guide us in a world of betrayal and political maneuvering, revealing Versailles in all its glory and brutality.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.709,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-11-16",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64353
     },
     {
       "id": 64432,
@@ -155,6 +180,57 @@
         }
       ],
       "tmdb_id": 64686
+    },
+    {
+      "id": 64689,
+      "title": "Killing Them Softly",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4xGuNyCX46pwEpdQISRYiaBXEN7.jpg",
+      "plot_overview": "Jackie Cogan is an enforcer hired to restore order after three dumb guys rob a Mob protected card game, causing the local criminal economy to collapse.",
+      "genres": [
+        "Crime"
+      ],
+      "user_rating": 6.026,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-07-30",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64689
+    },
+    {
+      "id": 64690,
+      "title": "Drive",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oeEiUwvqHxWT0XqD3YlViaiJOVD.jpg",
+      "plot_overview": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-09-15",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64690
     },
     {
       "id": 64752,

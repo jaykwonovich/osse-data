@@ -1,6 +1,6 @@
 {
   "range": "65001-66000",
-  "updated_at": 1765990396691,
+  "updated_at": 1765995583306,
   "shows": [
     {
       "id": 65150,
@@ -122,9 +122,27 @@
       "release_date": "2017-01-07",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -201,15 +219,15 @@
       "release_date": "2016-09-23",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],

@@ -1,6 +1,6 @@
 {
   "range": "47001-48000",
-  "updated_at": 1765990396687,
+  "updated_at": 1765995583302,
   "shows": [
     {
       "id": 47054,
@@ -27,6 +27,31 @@
         }
       ],
       "tmdb_id": 47054
+    },
+    {
+      "id": 47333,
+      "title": "Jane Eyre",
+      "type": "movie",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2vyt97wy8dEJYILoDoiPwTzLnzK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/s4WgUHG8RieewPBL44i8hYrBy2m.jpg",
+      "plot_overview": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meet the dark, cold, and abrupt master of the house, Mr. Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Mr. Rochester's terrible secret be about to destroy it forever?",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1996-01-20",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 47333
     },
     {
       "id": 47640,
@@ -98,9 +123,9 @@
       "release_date": "2014-01-25",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],

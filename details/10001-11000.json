@@ -1,6 +1,6 @@
 {
   "range": "10001-11000",
-  "updated_at": 1765990396668,
+  "updated_at": 1765995583286,
   "shows": [
     {
       "id": 10009,
@@ -53,6 +53,32 @@
         }
       ],
       "tmdb_id": 10010
+    },
+    {
+      "id": 10013,
+      "title": "Peggy Sue Got Married",
+      "type": "movie",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jS9teOrTRD0TX1XrqaXM6kwRbji.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rR5GhPfulwOHeEbvuom8gwgo2i9.jpg",
+      "plot_overview": "At her 25th high school reunion, Peggy Sue faints and awakens in 1960\u2014back in her senior year, before her marriage and all her regrets. Given a second chance to relive her youth, she must decide whether to change the choices that shaped her life or embrace the past that made her who she is.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.12,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1986-10-10",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 10013
     },
     {
       "id": 10020,
@@ -283,6 +309,32 @@
       "tmdb_id": 10122
     },
     {
+      "id": 10137,
+      "title": "Stuart Little",
+      "type": "movie",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/362lcwTJlNyAhitTlp2UraECISR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eDN9AA0IkGuuQKuINFvENisI79t.jpg",
+      "plot_overview": "When the Littles adopt Stuart, the mouse, George is initially unwelcoming to his new brother, and the family cat, Snowbell, is even less enthusiastic. Stuart resolves to face these difficulties with as much pluck and courage as he can muster.",
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 6.066,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1999-12-17",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 10137
+    },
+    {
       "id": 10138,
       "title": "Iron Man 2",
       "type": "movie",
@@ -335,6 +387,31 @@
         }
       ],
       "tmdb_id": 10140
+    },
+    {
+      "id": 10142,
+      "title": "Casualties of War",
+      "type": "movie",
+      "year": 1989,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aQFBJPlPv8wAe4qUWDMQC7CN9Za.jpg",
+      "plot_overview": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they unnecessarily kidnap a female villager.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.147,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1989-08-18",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 10142
     },
     {
       "id": 10144,
@@ -433,13 +510,40 @@
       "release_date": "2010-03-18",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 10191
+    },
+    {
+      "id": 10192,
+      "title": "Shrek Forever After",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg",
+      "plot_overview": "A midlife-crisis burdened Shrek, longing for the days when he felt like a real ogre, makes a pact with magic deal-maker Rumpelstiltskin. But when he's duped and sent to a twisted version of Far Far Away\u2014where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met\u2014he sets out to restore his world and reclaim his true love.",
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 6.391,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-05-20",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 10192
     },
     {
       "id": 10193,
@@ -586,9 +690,27 @@
       "release_date": "2002-01-25",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -640,13 +762,44 @@
       "release_date": "2009-09-17",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 10283
+    },
+    {
+      "id": 10313,
+      "title": "The Men Who Stare at Goats",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5boJKypPQmgABssbKOk2RvsCnSv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lAJpYAepH7bic2TmE7ZP8q404P4.jpg",
+      "plot_overview": "A reporter in Iraq might just have the story of a lifetime when he meets Lyn Cassady, a guy who claims to be a former member of the U.S. Army's New Earth Army, a unit that employs paranormal powers in their missions.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 5.969,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-10-17",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 10313
     },
     {
       "id": 10315,
@@ -747,21 +900,21 @@
       "release_date": "1968-10-04",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1018,9 +1171,9 @@
       "release_date": "1994-04-29",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1069,21 +1222,9 @@
       "release_date": "1994-11-18",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1262,9 +1403,15 @@
       "release_date": "1996-10-25",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1339,19 +1486,56 @@
       "release_date": "1988-11-09",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 10585
+    },
+    {
+      "id": 10610,
+      "title": "The Medallion",
+      "type": "movie",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lbjFWKfe8WdS8Pj6WVPlyEKeVEo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bfegQ8scwwEASEXZzdtTNQErY7F.jpg",
+      "plot_overview": "A Hong Kong detective suffers a fatal accident involving a mysterious medallion and is transformed into an immortal warrior with superhuman powers.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 5.605,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2003-08-15",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 10610
     },
     {
       "id": 10625,
@@ -1737,6 +1921,31 @@
       "tmdb_id": 10839
     },
     {
+      "id": 10849,
+      "title": "The Purple Rose of Cairo",
+      "type": "movie",
+      "year": 1985,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ccsint43E44B7NGceEhVimD93Yt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3wwMtp2F7CgmOl2EX9q1r2yjOEk.jpg",
+      "plot_overview": "Cecilia is a waitress in New Jersey, living a dreary life during the Great Depression. Her only escape from her mundane reality is the movie theatre. After losing her job, Cecilia goes to see 'The Purple Rose of Cairo' in hopes of raising her spirits, where she watches dashing archaeologist Tom Baxter time and again.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.392,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1985-03-01",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 10849
+    },
+    {
       "id": 10857,
       "title": "When the Wind Blows",
       "type": "movie",
@@ -1883,9 +2092,15 @@
       "release_date": "1979-11-14",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1915,6 +2130,45 @@
         }
       ],
       "tmdb_id": 10925
+    },
+    {
+      "id": 10938,
+      "title": "Bob the Builder",
+      "type": "tv_series",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jfIAxRMSLuMjczB0ezl8L9Ukzfi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5tf3hx7RbUovAYGMZ6slmoROWI1.jpg",
+      "plot_overview": "Bob the Builder and his machine team are ready to tackle any project. Bob and the Can-Do Crew demonstrate the power of positive thinking, problem-solving, teamwork, and follow-through. The team always shows that \u201cThe Fun Is In Getting It Done!\u201d",
+      "genres": [
+        "Kids",
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 5.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1999-04-12",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 10938
     },
     {
       "id": 10948,

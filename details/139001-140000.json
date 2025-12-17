@@ -1,37 +1,38 @@
 {
   "range": "139001-140000",
-  "updated_at": 1765830970604,
+  "updated_at": 1765995583323,
   "shows": [
     {
-      "id": 139790,
-      "title": "\u0413\u043e\u0440\u044f\u0447\u0430\u044f \u0442\u043e\u0447\u043a\u0430",
-      "type": "tv_series",
-      "year": 2020,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fTStCZZn9X4r7GGg79Cn5uwvI8y.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/V2MhmezdyW18VK1ymz4sB8fYcR.jpg",
-      "plot_overview": "",
+      "id": 139567,
+      "title": "Fire with Fire",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kziBJGQFo9f0Vkj9s37qI0G9I0I.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6ZNqWfUXdxiNVqwgO2doLlkmgQc.jpg",
+      "plot_overview": "A fireman takes an unexpected course of action when a man whom he's been ordered to testify against\u2014after being held up at a local convenience store\u2014threatens him.",
       "genres": [
-        "crime",
-        "action",
-        "drama"
+        "Crime",
+        "Drama"
       ],
-      "user_rating": 10.0,
+      "user_rating": 5.68,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2020-01-27",
+      "release_date": "2012-08-31",
       "streaming_services": [
         {
-          "service_id": 531,
-          "service_name": "Paramount+",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 139790,
-      "relevance_score": 1.4603
+      "tmdb_id": 139567
     }
   ]
 }

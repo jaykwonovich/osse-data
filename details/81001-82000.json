@@ -1,6 +1,6 @@
 {
   "range": "81001-82000",
-  "updated_at": 1765990396696,
+  "updated_at": 1765995583311,
   "shows": [
     {
       "id": 81144,
@@ -19,9 +19,15 @@
       "release_date": "2018-10-01",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],

@@ -1,6 +1,6 @@
 {
   "range": "62001-63000",
-  "updated_at": 1765990396690,
+  "updated_at": 1765995583305,
   "shows": [
     {
       "id": 62017,
@@ -180,15 +180,15 @@
       "release_date": "2015-08-23",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -265,9 +265,9 @@
       "release_date": "2015-06-24",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -291,9 +291,9 @@
       "release_date": "2011-02-11",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -486,13 +486,45 @@
       "release_date": "2015-06-14",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 62822
+    },
+    {
+      "id": 62835,
+      "title": "Colombiana",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rEdGDgRB3gducezNSIyx2lbKQy4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2PlRuZUjqC58bqm6MOjOAraEdFA.jpg",
+      "plot_overview": "After witnessing her parents\u2019 murder as a child in Bogota, Cataleya Restrepo grows up to be a stone-cold assassin. She works for her uncle as a hitman by day, but her personal time is spent engaging in vigilante murders that she hopes will lead her to her ultimate target: the mobster responsible for her parents' death.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 6.639,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-07-27",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62835
     },
     {
       "id": 62875,
@@ -536,9 +568,9 @@
       "release_date": "2015-06-22",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],

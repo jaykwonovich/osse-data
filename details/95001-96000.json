@@ -1,6 +1,6 @@
 {
   "range": "95001-96000",
-  "updated_at": 1765990396699,
+  "updated_at": 1765995583314,
   "shows": [
     {
       "id": 95057,
@@ -52,6 +52,38 @@
         }
       ],
       "tmdb_id": 95171
+    },
+    {
+      "id": 95205,
+      "title": "The Equalizer",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oxJG9F16AUji71jpPxkEOBWanMP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/z8CzVVAGHRRmgJQ6ZRjr8OuCmlj.jpg",
+      "plot_overview": "Robyn McCall, an enigmatic former CIA operative with a mysterious background, uses her extensive skills to help those with nowhere else to turn.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.289,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-02-07",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 95205
     },
     {
       "id": 95249,
@@ -134,6 +166,32 @@
       "tmdb_id": 95396
     },
     {
+      "id": 95403,
+      "title": "The Peripheral",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2e5NNQu9B1fXBNllRj8fzysCguP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hIZFG7MK4leU4axRFKJWqrjhmxZ.jpg",
+      "plot_overview": "Stuck in a small Appalachian town, a young woman\u2019s only escape from the daily grind is playing advanced video games. She is such a good player that a company sends her a new video game system to test\u2026but it has a surprise in store. It unlocks all of her dreams of finding a purpose, romance, and glamour in what seems like a game\u2026but it also puts her and her family in real danger.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "user_rating": 7.685,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-10-20",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 95403
+    },
+    {
       "id": 95480,
       "title": "Slow Horses",
       "type": "tv_series",
@@ -186,9 +244,9 @@
       "release_date": "2021-03-25",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

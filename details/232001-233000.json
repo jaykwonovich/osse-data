@@ -1,6 +1,6 @@
 {
   "range": "232001-233000",
-  "updated_at": 1765990396720,
+  "updated_at": 1765995583332,
   "shows": [
     {
       "id": 232125,
@@ -49,9 +49,15 @@
       "release_date": "2015-09-02",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

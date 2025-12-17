@@ -1,6 +1,6 @@
 {
   "range": "61001-62000",
-  "updated_at": 1765990396690,
+  "updated_at": 1765995583305,
   "shows": [
     {
       "id": 61014,
@@ -46,15 +46,9 @@
       "release_date": "2014-09-25",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -135,9 +129,21 @@
       "release_date": "2014-09-12",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -175,6 +181,31 @@
       "tmdb_id": 61381
     },
     {
+      "id": 61427,
+      "title": "Kingdom",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xkRyopANOnO60KWm6DjozXlq9w4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vzgIoCjNKDDpeEoDRqzTEwXPSo6.jpg",
+      "plot_overview": "A raw family drama set against the world of Mixed Martial Arts (MMA) in Venice, California. Alvey Kulina owns Navy St. MMA with the help of his girlfriend Lisa Prince. He is willing to go through extraordinary means to make sure his fighters are taken care of, but all of this responsibility comes at a steep price. He has complicated relationships with both of his sons, Jay and Nate, who are both struggling with their own identities and places within Alvey\u2019s life and gym.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.877,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-10-08",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61427
+    },
+    {
       "id": 61457,
       "title": "Grantchester",
       "type": "tv_series",
@@ -205,6 +236,33 @@
       "next_air_date": "2026-01-07",
       "next_episode": 1,
       "relevance_score": 75
+    },
+    {
+      "id": 61511,
+      "title": "Father Brown",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u8LUC3O1hiEDKP2SFZK68iYqMzl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eesuJC91i5MPGOZvEtoa11cPqe5.jpg",
+      "plot_overview": "Father Brown is based on G. K. Chesterton's detective stories about a Catholic priest who doubles as an amateur detective in order to try and solve mysteries.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-01-14",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61511
     },
     {
       "id": 61550,
@@ -259,6 +317,33 @@
       "tmdb_id": 61593
     },
     {
+      "id": 61599,
+      "title": "The Librarians",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1EBMUCxPjGQneeyshurFBpqXVL9.jpg",
+      "plot_overview": "A group of librarians set off on adventures in an effort to save mysterious, ancient artifacts. Based on the series of \"The Librarian\" movies.",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 7.177,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-12-07",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61599
+    },
+    {
       "id": 61662,
       "title": "Schitt's Creek",
       "type": "tv_series",
@@ -275,9 +360,9 @@
       "release_date": "2015-01-13",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -326,9 +411,9 @@
       "release_date": "2015-01-07",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -405,9 +490,9 @@
       "release_date": "2014-01-11",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],

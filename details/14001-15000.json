@@ -1,6 +1,6 @@
 {
   "range": "14001-15000",
-  "updated_at": 1765990396672,
+  "updated_at": 1765995583290,
   "shows": [
     {
       "id": 14002,
@@ -26,6 +26,69 @@
         }
       ],
       "tmdb_id": 14002
+    },
+    {
+      "id": 14009,
+      "title": "The Addams Family",
+      "type": "tv_series",
+      "year": 1964,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9eqmCtAY9d2WwafLBYXRKYepgeA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vPWjtsNklEMYiSF0BiQ1QLHbCSC.jpg",
+      "plot_overview": "A satirical inversion of the ideal of the perfect American nuclear family, they are an eccentric wealthy family who delight in everything grotesque and macabre, and are never really aware that people find them bizarre or frightening. In fact, they themselves are often terrified by \"normal\" people.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.996,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1964-09-18",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 14009
+    },
+    {
+      "id": 14035,
+      "title": "Meatballs",
+      "type": "movie",
+      "year": 1979,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9YA2erSNcca9NWd0xePC9ArFWnx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/t6Zw34ikaxaZTga5aJkcv8kT8FK.jpg",
+      "plot_overview": "Tripper is the head counselor at a budget summer camp called Camp Northstar. In truth, he's young at heart and only marginally more mature than the campers themselves. Tripper befriends Rudy, a loner camper who has trouble fitting in. As Tripper inspires his young charges to defeat rival Camp Mohawk in the annual Olympiad competition, Rudy plays matchmaker between Tripper and Roxanne, a female counselor at Northstar.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 5.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1979-06-28",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 14035
     },
     {
       "id": 14048,
@@ -308,6 +371,31 @@
       "tmdb_id": 14624
     },
     {
+      "id": 14637,
+      "title": "Nothing But the Truth",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ueJXKG3PFoDPEhcKtIjP52fCRQ5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k5SLaqFAEdDLlMv6KaNOj5eL0SA.jpg",
+      "plot_overview": "When reporter Rachel Armstrong writes a story that reveals the identity of a covert CIA operative, the government demands that Rachel reveal her source. She defies the special prosecutor and is thrown in jail. Meanwhile, her attorney, Albert Burnside argues her case all the way to the U.S. Supreme Court.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.944,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-12-19",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 14637
+    },
+    {
       "id": 14658,
       "title": "Survivor",
       "type": "tv_series",
@@ -324,9 +412,9 @@
       "release_date": "2000-05-31",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -356,13 +444,56 @@
       "release_date": "2009-06-04",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 14666
+    },
+    {
+      "id": 14728,
+      "title": "The Librarian: The Curse of the Judas Chalice",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eRfLvdrDNDMj68EedUGrrIHiuW4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fWnWHEYVYDOMGSLfiRki2FyKGvB.jpg",
+      "plot_overview": "While on a dangerous mission to recover the historic Judas Chalice, Flynn is saved by Simone. But when double-crossed by a respected professor and ambushed by a ruthless gang, Flynn realizes Simone's secret, his true mission and a shocking discovery are all lying within a decaying New Orleans crypt.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.264,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-10-25",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 14728
     },
     {
       "id": 14748,
@@ -466,6 +597,38 @@
         }
       ],
       "tmdb_id": 14814
+    },
+    {
+      "id": 14836,
+      "title": "Coraline",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+      "plot_overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 7.896,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-02-05",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 14836
     },
     {
       "id": 14844,

@@ -1,6 +1,6 @@
 {
   "range": "16001-17000",
-  "updated_at": 1765990396674,
+  "updated_at": 1765995583292,
   "shows": [
     {
       "id": 16085,
@@ -79,6 +79,31 @@
       "tmdb_id": 16237
     },
     {
+      "id": 16279,
+      "title": "The Great Buck Howard",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iglKvmA7sq6Pnd6KWFnT6WW9Vpn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bzjGojNGoLuGvbaeEbjI8BFhJ1f.jpg",
+      "plot_overview": "When a law school dropout answers an advertisement to be a personal assistant he unknowingly signs on to work for a belligerent has-been magician struggling to resurrect his career. This leads to a journey across the country staging the comeback of a lifetime.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-01-18",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 16279
+    },
+    {
       "id": 16296,
       "title": "Killer Klowns from Outer Space",
       "type": "movie",
@@ -95,9 +120,27 @@
       "release_date": "1988-05-27",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -154,6 +197,37 @@
       "tmdb_id": 16391
     },
     {
+      "id": 16553,
+      "title": "Little Manhattan",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z0RNI1NMtsvLsuTo1rWZfNHVs1z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/f5XOH9b9oV7yzIqhKDEXtDx0uz9.jpg",
+      "plot_overview": "Ten-year-old Gabe is just a normal kid growing up in Manhattan until Rosemary Telesco walks into his karate class. But before Gabe can tell Rosemary how he feels, she reveals that she will not be going to public school any more. Gabe has a lot more to learn about life, love, and girls.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2005-09-26",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 16553
+    },
+    {
       "id": 16562,
       "title": "The Cutting Edge",
       "type": "movie",
@@ -198,9 +272,15 @@
       "release_date": "2005-10-06",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

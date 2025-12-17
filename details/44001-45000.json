@@ -1,6 +1,6 @@
 {
   "range": "44001-45000",
-  "updated_at": 1765990396684,
+  "updated_at": 1765995583300,
   "shows": [
     {
       "id": 44006,
@@ -207,9 +207,9 @@
       "release_date": "2010-12-22",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -357,15 +357,21 @@
         "Drama",
         "Crime"
       ],
-      "user_rating": 8.021,
+      "user_rating": 8.004,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-05-01",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -391,9 +397,9 @@
       "release_date": "2011-03-02",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],

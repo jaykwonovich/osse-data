@@ -1,6 +1,6 @@
 {
   "range": "5001-6000",
-  "updated_at": 1765990396662,
+  "updated_at": 1765995583281,
   "shows": [
     {
       "id": 5021,
@@ -19,15 +19,9 @@
       "release_date": "1972-09-14",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -293,13 +287,94 @@
       "release_date": "1988-09-30",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 5680
+    },
+    {
+      "id": 5687,
+      "title": "The Smurfs",
+      "type": "tv_series",
+      "year": 1981,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cezQyM5cO454vUdLiLOkv78K64D.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1szJqm8ksrwbPheLfEZn2ohTGbg.jpg",
+      "plot_overview": "Classic Saturday-morning cartoon series featuring magical blue elf-like creatures called Smurfs. The Smurfs, named for their personalities, inhabit a village of mushroom houses in an enchanted forest. These loveable creatures are led by Papa Smurf and live carefree... except for one major threat to their existance: Gargamel, an evil but inept wizard who lives in a stone-built house in the forest; and his feline companion, the equally nasty Azrael. ",
+      "genres": [
+        "Animation",
+        "Family",
+        "Sci-Fi & Fantasy",
+        "Kids",
+        "Comedy"
+      ],
+      "user_rating": 6.956,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1981-09-12",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 5687
+    },
+    {
+      "id": 5690,
+      "title": "Moonlight",
+      "type": "tv_series",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3rWk9g0Oup5WHcrpjvw5zW1WhLc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9q096hngNt9jBJVM3hi9beNNK9E.jpg",
+      "plot_overview": "Mick St. John is a captivating, charming and immortal private investigator from Los Angeles, who defies the traditional blood-sucking norms of his vampire tendencies by using his wit and powerful supernatural abilities to help the living.",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-09-28",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 5690
     },
     {
       "id": 5693,
@@ -404,9 +479,15 @@
       "release_date": "1995-10-27",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -536,21 +617,15 @@
       "release_date": "2001-01-19",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],

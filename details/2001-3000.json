@@ -1,6 +1,6 @@
 {
   "range": "2001-3000",
-  "updated_at": 1765990396659,
+  "updated_at": 1765995583276,
   "shows": [
     {
       "id": 2004,
@@ -115,6 +115,32 @@
       "tmdb_id": 2024
     },
     {
+      "id": 2025,
+      "title": "Beverly Hills, 90210",
+      "type": "tv_series",
+      "year": 1990,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b7BYfkhu653D894krwGO1ysIKTf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iMFsQ7yyToYg7SkS9Ml0by9UJ0X.jpg",
+      "plot_overview": "Follow the lives of a group of teenagers living in the upscale, star-studded community of Beverly Hills, California and attending the fictitious West Beverly Hills High School and, subsequently, the fictitious California University after graduation.",
+      "genres": [
+        "Drama",
+        "Soap"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1990-10-04",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2025
+    },
+    {
       "id": 2028,
       "title": "Say Anything...",
       "type": "movie",
@@ -206,9 +232,9 @@
       "release_date": "2004-07-15",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -317,6 +343,32 @@
       "tmdb_id": 2064
     },
     {
+      "id": 2093,
+      "title": "Matlock",
+      "type": "tv_series",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2eGYyekQjcAXVmcYW1g4keR4plV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6NJdscx3qb2H7h8rEHFn9i6vTcs.jpg",
+      "plot_overview": "Matlock is an American television legal drama, starring Andy Griffith in the title role of criminal defense attorney Ben Matlock. The show, produced by The Fred Silverman Company, Dean Hargrove Productions, Viacom Productions and Paramount Television originally aired from September 23, 1986 to May 8, 1992 on NBC; and from November 5, 1992 until May 7, 1995 on ABC.\n\nThe show's format is similar to that of CBS's Perry Mason, with Matlock identifying the perpetrators and then confronting them in dr",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1986-03-03",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2093
+    },
+    {
       "id": 2098,
       "title": "Batman: The Animated Series",
       "type": "tv_series",
@@ -403,6 +455,32 @@
       "tmdb_id": 2112
     },
     {
+      "id": 2119,
+      "title": "Airwolf",
+      "type": "tv_series",
+      "year": 1984,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4PAN7zPqmR9b73een97WkxqCTQN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i9dFFpTMIitrfIAm3GeCXDBGKLE.jpg",
+      "plot_overview": "As part of a deal with an intelligence agency to look for his missing brother, a renegade pilot goes on missions with an advanced battle helicopter.",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1984-01-22",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2119
+    },
+    {
       "id": 2122,
       "title": "King of the Hill",
       "type": "tv_series",
@@ -446,15 +524,27 @@
       "release_date": "1961-10-03",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -503,13 +593,36 @@
       "release_date": "1984-12-14",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 2148
+    },
+    {
+      "id": 2164,
+      "title": "Stargate",
+      "type": "movie",
+      "year": 1994,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4T6Po0XnZlevmhfPh3ZfEs5butR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/s2bqHApZlliCuwgyHod0qucrYqZ.jpg",
+      "plot_overview": "An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.",
+      "genres": [],
+      "user_rating": 7.011,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1994-10-28",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2164
     },
     {
       "id": 2171,
@@ -530,19 +643,39 @@
       "release_date": "2003-09-28",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 2171
+    },
+    {
+      "id": 2196,
+      "title": "Death at a Funeral",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xyTxrJnjbSJQzcbKIP6S1uqLuxy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lIXNL1uoEyuTLqaTAqtBYoc71WF.jpg",
+      "plot_overview": "A myriad of outrageous calamities befalls an eccentric English clan with more than a few skeletons in its closets when the family's patriarch dies an unexpected death.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-08-17",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2196
     },
     {
       "id": 2211,
@@ -562,9 +695,21 @@
       "release_date": "1984-09-07",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -616,13 +761,39 @@
       "release_date": "1994-09-21",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 2243
+    },
+    {
+      "id": 2251,
+      "title": "Taxi",
+      "type": "tv_series",
+      "year": 1978,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pua3A2XSaO6bP6WhVDBRbcyRTAS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8Y8vn9feCVUoJRXpWK6xno5VrUz.jpg",
+      "plot_overview": "Louie De Palma is a cantankerous, acerbic taxi dispatcher in New York City. He tries to maintain order over a collection of varied and strange characters who drive for him. As he bullies and insults them from the safety of his \u201ccage,\u201d they form a special bond among themselves, becoming friends and supporting each other through the inevitable trials and tribulations of life.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1978-09-12",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2251
     },
     {
       "id": 2260,
@@ -643,15 +814,15 @@
       "release_date": "2006-07-07",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -827,19 +998,39 @@
       "release_date": "2004-07-15",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 2290
+    },
+    {
+      "id": 2303,
+      "title": "Hawaii Five-O",
+      "type": "tv_series",
+      "year": 1968,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8iFAlqhfY1D0ithTrfKTxObPlUH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9as2hYKrhbKWj4ePtFMftQfEsEX.jpg",
+      "plot_overview": "Hawaii Five-O is an American police procedural drama series produced by CBS Productions and Leonard Freeman. Set in Hawaii, the show originally aired for 12 seasons from 1968 to 1980, and continues in reruns. Jack Lord portrayed Detective Lieutenant Steve McGarrett, the head of a special state police task force which was based on an actual unit that existed under martial law in the 1940s. The theme music composed by Morton Stevens became especially popular. Many episodes would end with McGarrett",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1968-09-20",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2303
     },
     {
       "id": 2304,
@@ -859,9 +1050,9 @@
       "release_date": "1984-10-09",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -935,15 +1126,9 @@
       "release_date": "1998-01-20",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -968,9 +1153,9 @@
       "release_date": "2007-02-18",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1022,15 +1207,9 @@
       "release_date": "1993-11-03",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1083,21 +1262,27 @@
       "release_date": "2005-05-30",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1107,6 +1292,34 @@
       "next_air_date": "2026-01-01",
       "next_episode": 12,
       "relevance_score": 75
+    },
+    {
+      "id": 2384,
+      "title": "Knight Rider",
+      "type": "tv_series",
+      "year": 1982,
+      "poster_url": "https://image.tmdb.org/t/p/w342/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fmPo20ZTzxNketxL2jt6ZX6KSPi.jpg",
+      "plot_overview": "Michael Long, an undercover police officer, is shot while investigating a case and left for dead by his assailants. He is rescued by Wilton Knight, a wealthy, dying millionaire and inventor who arranges life-saving surgery, including a new face and a new identity--that of Michael Knight. Michael is then given a special computerized and indestructible car called the Knight Industries Two Thousand (nicknamed KITT), and a mission: apprehend criminals who are beyond the reach of the law. The series ",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Crime"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1982-09-26",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2384
     },
     {
       "id": 2389,
@@ -1152,15 +1365,9 @@
       "release_date": "2001-09-24",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1246,6 +1453,44 @@
       "tmdb_id": 2428
     },
     {
+      "id": 2430,
+      "title": "Doc Martin",
+      "type": "tv_series",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zmd4ZpdXWnjKVrenqvYyYstOkwK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g0LCSXvweUAMW8jB3O2ECMwDAua.jpg",
+      "plot_overview": "Doc Martin is a British television comedy drama series starring Martin Clunes in the title role. It was created by Dominic Minghella after the character of Dr. Martin Bamford in the 2000 comedy film Saving Grace. The show is set in the fictional seaside village of Portwenn and filmed on location in the village of Port Isaac, Cornwall, England, with most interior scenes shot in a converted local barn. Five series aired between 2004 and 2011, together with a feature-length special that aired on Ch",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 8.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2004-09-02",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2430
+    },
+    {
       "id": 2440,
       "title": "Highway to Heaven",
       "type": "tv_series",
@@ -1264,15 +1509,21 @@
       "release_date": "1984-09-19",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1322,9 +1573,9 @@
       "release_date": "2004-09-22",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1349,19 +1600,44 @@
       "release_date": "1961-01-07",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 2473
+    },
+    {
+      "id": 2490,
+      "title": "The IT Crowd",
+      "type": "tv_series",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qZXkBoOUYzvKI4UCMzDQ5kqWHjh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dqtpDD9Ro1uSdEOX8P1T6M3QdFI.jpg",
+      "plot_overview": "The comedic misadventures of Roy, Moss, and their grifting supervisor Jen, a 'motley crew' of IT support workers at a large corporation headed by a hotheaded yuppie.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 8.164,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2006-02-03",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2490
     },
     {
       "id": 2493,
@@ -1394,6 +1670,85 @@
         }
       ],
       "tmdb_id": 2493
+    },
+    {
+      "id": 2506,
+      "title": "Wings",
+      "type": "tv_series",
+      "year": 1990,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eqf5p8fU7liYAMznUBMWMeSYfCQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3wGykQ9hQzX6YVayQRvEDVhU8bF.jpg",
+      "plot_overview": "Brothers Brian and Joe Hackett attempt to run an airline on the New England island of Nantucket while surrounded by their various wacky friends and employees.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.851,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1990-04-19",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2506
+    },
+    {
+      "id": 2530,
+      "title": "Mr. Bean: The Animated Series",
+      "type": "tv_series",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zVuWmf6oqB91OANUKWo0VqCLov4.jpg",
+      "plot_overview": "The animated daily trials and tribulations of clueless yet clever loner Mr Bean (aided by his best friend Teddy of course!) as he stumbles from one mishap to the next, always finding complex solutions to the simplest of problems.",
+      "genres": [
+        "Kids",
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 6.862,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2002-01-05",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2530
+    },
+    {
+      "id": 2565,
+      "title": "Joe Versus the Volcano",
+      "type": "movie",
+      "year": 1990,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fwjMUuDZUxedfsUpVQKQN8cYfzB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qZ8t05qidOjhSSsaByxxpu6CKOH.jpg",
+      "plot_overview": "Hypochondriac Joe Banks finds out he has six months to live, quits his dead end job, musters the courage to ask his co-worker out on a date, and is then hired to jump into a volcano by a mysterious visitor.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 5.783,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1990-03-09",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2565
     },
     {
       "id": 2566,
@@ -1500,15 +1855,9 @@
       "release_date": "2005-04-12",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1590,6 +1939,34 @@
         }
       ],
       "tmdb_id": 2621
+    },
+    {
+      "id": 2625,
+      "title": "Diagnosis: Murder",
+      "type": "tv_series",
+      "year": 1993,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5yhozeY2KgYXQQE9kfbiIyypYiI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gVAwcl83Ys1dtcFCiLuCLAx6xge.jpg",
+      "plot_overview": "Dr. Mark Sloan is a good-natured, offbeat physician who is called upon to solve murders.",
+      "genres": [
+        "Drama",
+        "Family",
+        "Mystery",
+        "Crime"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1993-10-29",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2625
     },
     {
       "id": 2639,
@@ -1823,9 +2200,9 @@
       "release_date": "1977-03-15",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1993,6 +2370,32 @@
       "tmdb_id": 2723
     },
     {
+      "id": 2730,
+      "title": "I Love Lucy",
+      "type": "tv_series",
+      "year": 1951,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mPUSrFTvQqwEqTtfukxJBtkbxWj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg",
+      "plot_overview": "Cuban Bandleader Ricky Ricardo would be happy if his wife Lucy would just be a housewife. Instead she tries constantly to perform at the Tropicana where he works, and make life comically frantic in the apartment building they share with landlords Fred and Ethel Mertz, who also happen to be their best friends.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.889,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1951-10-15",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2730
+    },
+    {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
       "type": "tv_series",
@@ -2054,6 +2457,57 @@
         }
       ],
       "tmdb_id": 2742
+    },
+    {
+      "id": 2750,
+      "title": "Silent Witness",
+      "type": "tv_series",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yRwf0yAZvYMfFLMonPusv6F256s.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kFDQweHyB3bxcG2qllKv13npgI6.jpg",
+      "plot_overview": "A team of exceptional forensic pathologists and scientists investigate heinous crimes and use their skills to catch the people responsible.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1996-02-21",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2750
+    },
+    {
+      "id": 2755,
+      "title": "Rules of Engagement",
+      "type": "tv_series",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tRma9RQCgwLXqkDrCPyrQwsazuJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xYnYBGtDsuduzIznvVKeLnpEtXt.jpg",
+      "plot_overview": "Rules of Engagement is a comedy about the different phases of male/female relationships, as seen through the eyes of a newly engaged couple, Adam and Jennifer, a long-time married pair, Jeff and Audrey, and a single guy on the prowl, Russell. As they find out, the often confusing stages of a relationship can seem like being on a roller coaster. People can describe the ride to you, but to really know what it's like you have to experience it for yourself.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.094,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-02-05",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2755
     },
     {
       "id": 2756,
@@ -2233,6 +2687,73 @@
         }
       ],
       "tmdb_id": 2832
+    },
+    {
+      "id": 2855,
+      "title": "Relic Hunter",
+      "type": "tv_series",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/t04oqIsBlRnxKOWhBL6SlEQowZ5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uAfsRtKnCdtHTF49yyvfyCyL5Uu.jpg",
+      "plot_overview": "Sydney Fox is a professor and globe-trotting \"relic hunter\" who looks for ancient artifacts to return to museums and/or the descendants of the original owner. She is aided by her linguistic assistant Nigel and occasionally by her somewhat air-headed secretary Claudia. She often ends up battling rival hunters seeking out artifacts for the money.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1999-09-25",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2855
+    },
+    {
+      "id": 2875,
+      "title": "MacGyver",
+      "type": "tv_series",
+      "year": 1985,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zhgJNHbFxGkqdsKdkZLBrDWagOv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/etU3Zrl7FA20m4LvmkFvdZOUE8u.jpg",
+      "plot_overview": "He's everyone's favorite action hero... but he's a hero with a difference. Angus MacGyver is a secret agent whose wits are his deadliest weapon. Armed with only a knapsack filled with everyday items he picks up along the way, he improvises his way out of every peril the bad guys throw at him.\n\nMaking a bomb out of chewing gum? Fixing a speeding car's breaks... while he's riding in it? Using soda pop to cook up tear gas? That's all in a day's adventures for MacGyver. He's part Boy Scout, part gen",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Crime"
+      ],
+      "user_rating": 7.73,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1985-09-29",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 2875
     },
     {
       "id": 2898,
@@ -2466,9 +2987,21 @@
       "release_date": "2000-10-02",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

@@ -1,6 +1,6 @@
 {
   "range": "17001-18000",
-  "updated_at": 1765990396674,
+  "updated_at": 1765995583292,
   "shows": [
     {
       "id": 17159,
@@ -26,6 +26,31 @@
         }
       ],
       "tmdb_id": 17159
+    },
+    {
+      "id": 17182,
+      "title": "Eye for an Eye",
+      "type": "movie",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y2lZSdJ1o0VvLegTw3ad6KFtxra.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lOiIE1MS7q756PYHYiAw6glruxZ.jpg",
+      "plot_overview": "It's fire and brimstone time as grieving mother Karen McCann takes justice into her own hands when a kangaroo court in Los Angeles fails to convict Robert Doob, the monster who raped and murdered her 17-year-old daughter.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.183,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1996-01-12",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 17182
     },
     {
       "id": 17264,
@@ -150,13 +175,57 @@
       "release_date": "2008-10-25",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 17463
+    },
+    {
+      "id": 17474,
+      "title": "The Man in the Moon",
+      "type": "movie",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/v4y1JWl8ZXt7DuAymQlzWFkY8Zd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8odZHjwMWWUg2gntUjndLIb8sT0.jpg",
+      "plot_overview": "Maureen Trant and her younger sibling Dani share a strong connection, but local boy Court Foster threatens to throw their bond off balance. Dani and Court meet first and have a flirtatious rapport -- but when he meets Maureen, he falls hard and they begin a passionate affair. The new couple try to keep their love hidden from Dani, but she soon learns the truth, disavowing her sister. But a heartbreaking accident later reunites the girls.",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1991-09-30",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 17474
     },
     {
       "id": 17572,

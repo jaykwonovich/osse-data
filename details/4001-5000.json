@@ -1,6 +1,6 @@
 {
   "range": "4001-5000",
-  "updated_at": 1765990396661,
+  "updated_at": 1765995583279,
   "shows": [
     {
       "id": 4046,
@@ -21,9 +21,27 @@
       "release_date": "2002-05-13",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -48,9 +66,9 @@
       "release_date": "2005-09-22",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -74,9 +92,9 @@
       "release_date": "1965-09-17",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -154,9 +172,21 @@
       "release_date": "1957-09-21",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -240,6 +270,31 @@
       "tmdb_id": 4238
     },
     {
+      "id": 4239,
+      "title": "Married... with Children",
+      "type": "tv_series",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qxdOgESOkBMmfcWUizL01mbdqzl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/y6nEgbjMUpYLnVUwZDzX95wH5Vj.jpg",
+      "plot_overview": "Al Bundy is an unsuccessful middle aged shoe salesman with a miserable life and an equally dysfunctional family. He hates his job, his wife is lazy, his son is dysfunctional (especially with women), and his daughter is dim-witted and promiscuous.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.717,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1987-04-05",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 4239
+    },
+    {
       "id": 4241,
       "title": "8 Simple Rules",
       "type": "tv_series",
@@ -311,9 +366,15 @@
       "release_date": "1984-10-06",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -338,9 +399,21 @@
       "release_date": "1999-03-19",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -426,6 +499,38 @@
       "tmdb_id": 4313
     },
     {
+      "id": 4324,
+      "title": "Dr. Quinn, Medicine Woman",
+      "type": "tv_series",
+      "year": 1993,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rF32uo83bzezkEUQ8VGarbCJi32.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tXJf6radpACrCQPYIU0ARFsVV7z.jpg",
+      "plot_overview": "Dr. Michaela Quinn journeys to Colorado Springs to be the town's physician after her father's death in 1868.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "user_rating": 7.607,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1993-01-01",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 4324
+    },
+    {
       "id": 4327,
       "title": "Mr. Bean",
       "type": "tv_series",
@@ -442,15 +547,27 @@
       "release_date": "1990-01-01",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -476,13 +593,58 @@
       "release_date": "1962-10-04",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 4333
+    },
+    {
+      "id": 4336,
+      "title": "Drawn Together",
+      "type": "tv_series",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/12gxxU70l3Ng7WlllpA7QmeqTQF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vmfWHWnLfy6aT2caIgeSapYX8Aq.jpg",
+      "plot_overview": "The world's first animated reality series gathers icons from all corners of the cartoon universe and lets them loose, with plenty of cameras to catch their exploits. Here's what happens when eight cartoon characters stop being polite and start getting real.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Reality"
+      ],
+      "user_rating": 8.191,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2004-10-27",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 4336
     },
     {
       "id": 4348,
@@ -501,9 +663,9 @@
       "release_date": "2005-09-16",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -537,6 +699,33 @@
       "tmdb_id": 4351
     },
     {
+      "id": 4357,
+      "title": "Mission: Impossible",
+      "type": "tv_series",
+      "year": 1966,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1PnUBKbDR1F2w5qicblLg1QGTif.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/com4DoP6rNkf1fs5KiuLPCRVK6V.jpg",
+      "plot_overview": "Mission: Impossible is an American television series that was created and initially produced by Bruce Geller. It chronicles the missions of a team of secret government agents known as the Impossible Missions Force. In the first season, the team is led by Dan Briggs, played by Steven Hill; Jim Phelps, played by Peter Graves, takes charge for the remaining seasons. A hallmark of the series shows Briggs or Phelps receiving his instructions on a recording that then self-destructs, followed by the th",
+      "genres": [
+        "Action & Adventure",
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1966-09-17",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 4357
+    },
+    {
       "id": 4376,
       "title": "JAG",
       "type": "tv_series",
@@ -555,9 +744,9 @@
       "release_date": "1995-09-23",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -587,6 +776,39 @@
         }
       ],
       "tmdb_id": 4379
+    },
+    {
+      "id": 4386,
+      "title": "Baywatch",
+      "type": "tv_series",
+      "year": 1989,
+      "poster_url": "https://image.tmdb.org/t/p/w342/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vrH6fiKBR1OvRmu4EcLSNtIEYsU.jpg",
+      "plot_overview": "Join the Baywatch lifeguards on their thrilling adventures filled with beautiful beaches and those iconic red swimsuits.",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 5.956,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1989-04-23",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 4386
     },
     {
       "id": 4392,
@@ -659,15 +881,27 @@
       "release_date": "1992-10-03",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -828,13 +1062,64 @@
       "release_date": "1993-01-31",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 4464
+    },
+    {
+      "id": 4475,
+      "title": "The Private Lives of Pippa Lee",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eHN6AaAcks2c8HTVaQzJKSJLp7h.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ayEMwa3URnwQEG7LXhzRBHkfOGA.jpg",
+      "plot_overview": "After her much older husband forces a move to a suburban retirement community, Pippa Lee engages in a period of reflection and finds herself heading toward a quiet nervous breakdown.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 5.857,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-07-07",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 4475
+    },
+    {
+      "id": 4477,
+      "title": "Becker",
+      "type": "tv_series",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hno1hP545G5xS1l4mLBXaY7NIqn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wdQ9nON4M93VDwkwcPAkuVLS2yM.jpg",
+      "plot_overview": "Becker is a dedicated, outspoken and talented doctor with a gruff exterior. While he tends to offend those who try to get close to him, he is extremely dedicated to his medical practice in the Bronx, N.Y., where he always goes the extra mile to help those in need. But Dr. John Becker looks at the world around him and sees a society gone mad, full of incongruities and just plain wrong thinking. And he has no qualms about saying anything that comes to mind \u2013 anything.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.111,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1998-11-02",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 4477
     },
     {
       "id": 4482,
@@ -856,9 +1141,9 @@
       "release_date": "1964-09-17",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1213,6 +1498,39 @@
       "tmdb_id": 4598
     },
     {
+      "id": 4600,
+      "title": "Robin Hood",
+      "type": "tv_series",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wz0CSuIiUpvHtpbPxVhMQWKtLTG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9Xg1HLQsCteuHTKvUrtqnsKXkN4.jpg",
+      "plot_overview": "An updated series following the life of Robin Hood and his Merry Men in Sherwood forest. Together they steal from the rich and give to the poor - all the while avoiding their enemies Sir Guy of Gisborne and the Sheriff of Nottingham.",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Comedy"
+      ],
+      "user_rating": 6.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2006-10-07",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 4600
+    },
+    {
       "id": 4601,
       "title": "Law & Order: Criminal Intent",
       "type": "tv_series",
@@ -1336,9 +1654,9 @@
       "release_date": "1988-09-17",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1631,9 +1949,9 @@
       "release_date": "1997-07-27",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1716,15 +2034,27 @@
       "release_date": "1986-09-22",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1781,6 +2111,36 @@
         }
       ],
       "tmdb_id": 4709
+    },
+    {
+      "id": 4775,
+      "title": "Would I Lie to You?",
+      "type": "tv_series",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aKwbYr95WANVjAzG8VtvadYWfLH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4YNm4rg9Fu9WHBLhSYyjHLUqAQK.jpg",
+      "plot_overview": "A comedic panel show featuring team captains Lee Mack and David Mitchell plus two guests per side, hosted by Rob Brydon (formerly Angus Deayton). Each person must reveal embarrassing facts and outrageous lies during a series of different rounds including \"Home Truths\", \"This Is My...\" and \"Quickfire Lies\". It is up to the opposing team to tell tall tales from fantastic facts.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-06-16",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 4775,
+      "is_returning": true,
+      "next_season": 19,
+      "next_air_date": "2026-01-02",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 4808,
@@ -1852,9 +2212,15 @@
       "release_date": "1955-12-23",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1886,6 +2252,33 @@
         }
       ],
       "tmdb_id": 4886
+    },
+    {
+      "id": 4920,
+      "title": "Damages",
+      "type": "tv_series",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bowEbW8Q3Oc02BvHBKTL5gWv9Nx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lAsz5DYQpXcOONSVuZdZIrtZoIv.jpg",
+      "plot_overview": "Damages is an American legal thriller television series created by the writing and production trio of Daniel Zelman and brothers Glenn and Todd A. Kessler. The plot revolves around the brilliant, ruthless lawyer Patty Hewes and her prot\u00e9g\u00e9e, recent law school graduate Ellen Parsons. Each season features a major case that Hewes and her firm take on, while also examining a chapter of the complicated relationship between Ellen and Patty. The first two seasons center around the law firm Hewes & Asso",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.443,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-07-24",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 4920
     },
     {
       "id": 4922,
@@ -1930,9 +2323,9 @@
       "release_date": "1968-04-12",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

@@ -1,7 +1,34 @@
 {
   "range": "38001-39000",
-  "updated_at": 1765990396681,
+  "updated_at": 1765995583299,
   "shows": [
+    {
+      "id": 38055,
+      "title": "Megamind",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+      "plot_overview": "After Megamind, a highly intelligent alien supervillain, defeats his long-time nemesis Metro Man, Megamind creates a new hero to fight, but must act to save the city when his \"creation\" becomes an even worse villain than he was.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.014,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-10-28",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 38055
+    },
     {
       "id": 38234,
       "title": "Undisputed III: Redemption",
@@ -20,9 +47,9 @@
       "release_date": "2010-04-17",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -177,15 +204,15 @@
       "release_date": "2012-01-11",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],

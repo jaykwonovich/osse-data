@@ -1,6 +1,6 @@
 {
   "range": "1-1000",
-  "updated_at": 1765990396652,
+  "updated_at": 1765995583268,
   "shows": [
     {
       "id": 11,
@@ -147,13 +147,45 @@
       "release_date": "2005-01-03",
       "streaming_services": [
         {
-          "service_id": 531,
-          "service_name": "Paramount+",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 36
+    },
+    {
+      "id": 45,
+      "title": "Top Gear",
+      "type": "tv_series",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rDH6nurRs1XobsOZGQY4bj4Vrvh.jpg",
+      "plot_overview": "This fast-paced and stunt-filled motor show tests whether cars, both mundane and extraordinary, live up to their manufacturers' claims. The long-running show travels to locations around the world, performing extreme stunts and challenges to see what the featured cars are capable of doing. The current hosts are Paddy Mcguinness, Chris Harris and Andrew \"Freddie\" Flintoff.",
+      "genres": [
+        "Reality",
+        "Talk"
+      ],
+      "user_rating": 7.54,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2002-10-20",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 45
     },
     {
       "id": 52,
@@ -272,15 +304,15 @@
       "release_date": "2000-10-11",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -427,9 +459,21 @@
       "release_date": "2003-09-03",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -455,9 +499,9 @@
       "release_date": "1997-03-10",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -465,22 +509,36 @@
     },
     {
       "id": 97,
-      "title": "Tron",
-      "type": "movie",
-      "year": 1982,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jigY9B6TKz4qlfikZcd18qtzTK4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vUmeBHiGp5r2ydd8aEvbNLamTVD.jpg",
-      "plot_overview": "When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world...And becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment.",
-      "genres": [],
-      "user_rating": 6.652,
+      "title": "The Drew Carey Show",
+      "type": "tv_series",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cWboJ8Cfi5NgHoENAB0gYtgZHkR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vAHR5oY1jZLpyKFhnQf7Qj66mMp.jpg",
+      "plot_overview": "Drew is an assistant director of personnel in a Cleveland department store and he has been stuck there for ten years. Other than fighting with co-worker Mimi, his hobbies include drinking beer and not being able to get dates. To make a few extra bucks he has a micro-brewery going in his garage with his buddies.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 6.503,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1982-07-09",
+      "release_date": "1995-09-13",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -539,31 +597,24 @@
     },
     {
       "id": 105,
-      "title": "Sex and the City",
-      "type": "tv_series",
-      "year": 1998,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jfLp8gTfdi9d8onEFJ60kp1Bl1e.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mXtL24G2Awyl3lKFtreMHnH5qFC.jpg",
-      "plot_overview": "Based on the bestselling book by Candace Bushnell, Sex and the City tells the story of four best friends, all single and in their late thirties, as they pursue their careers and talk about their sex lives, all while trying to survive the New York social scene.\u00a0",
+      "title": "Back to the Future",
+      "type": "movie",
+      "year": 1985,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pZCLGHynFPOv8dve6u9waxknLth.jpg",
+      "plot_overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
       "genres": [
-        "Drama",
         "Comedy"
       ],
-      "user_rating": 7.398,
+      "user_rating": 8.322,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1998-06-06",
+      "release_date": "1985-07-03",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -571,22 +622,25 @@
     },
     {
       "id": 106,
-      "title": "Predator",
-      "type": "movie",
-      "year": 1987,
-      "poster_url": "https://image.tmdb.org/t/p/w342/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
-      "plot_overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-      "genres": [],
-      "user_rating": 7.541,
+      "title": "The Andy Griffith Show",
+      "type": "tv_series",
+      "year": 1960,
+      "poster_url": "https://image.tmdb.org/t/p/w342/smOam7qXPnqlfDlMx4I0UxK5ULB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/szx8lk5wIv1jU3NpMBZVjjs96Fi.jpg",
+      "plot_overview": "The Andy Griffith Show is an American sitcom first televised on CBS between October 3, 1960 and April 1, 1968. Andy Griffith portrays the widowed sheriff of the fictional small community of Mayberry, North Carolina. His life is complicated by an inept, but well-meaning deputy, Barney Fife, a spinster aunt and housekeeper, Aunt Bee, and a precocious young son, Opie. Local ne'er-do-wells, bumbling pals, and temperamental girlfriends further complicate his life. Andy Griffith stated in a Today Show",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.638,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1987-06-12",
+      "release_date": "1960-10-03",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -751,22 +805,26 @@
     },
     {
       "id": 121,
-      "title": "The Lord of the Rings: The Two Towers",
-      "type": "movie",
-      "year": 2002,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
-      "plot_overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman await",
-      "genres": [],
-      "user_rating": 8.411,
+      "title": "Doctor Who",
+      "type": "tv_series",
+      "year": 1963,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+      "plot_overview": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.888,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2002-12-18",
+      "release_date": "1963-11-23",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -839,9 +897,15 @@
       "release_date": "1975-09-04",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -875,37 +939,36 @@
     },
     {
       "id": 141,
-      "title": "Donnie Darko",
-      "type": "movie",
-      "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
-      "plot_overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+      "title": "Cheers",
+      "type": "tv_series",
+      "year": 1982,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5U7NIuRK836GutAlo7TLPfmVtGW.jpg",
+      "plot_overview": "The story about a blue-collar Boston bar run by former sports star Sam Malone and the quirky and wonderful people who worked and drank there.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "Comedy"
       ],
-      "user_rating": 7.767,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2001-01-19",
+      "release_date": "1982-09-30",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -929,46 +992,62 @@
       "release_date": "2008-07-16",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 155
     },
     {
-      "id": 162,
-      "title": "Edward Scissorhands",
-      "type": "movie",
-      "year": 1990,
-      "poster_url": "https://image.tmdb.org/t/p/w342/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
-      "plot_overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+      "id": 160,
+      "title": "Teenage Mutant Ninja Turtles",
+      "type": "tv_series",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AaihPizftZo5YCqzEgHMwkceaEo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/s1Kr1RntP2b8MdUKTYJxNmcVEBP.jpg",
+      "plot_overview": "Four turtles fall into the sewers and are befriended by Hamato Yoshi a Japanese man sent to New York who was forced to live in the sewers. One day he sees a strange green glow which transforms the four turtles into human-like creatures. Hamato (now Master Splinter) changes into a giant rat from the green glow and teaches the turtles the skills of the ninja as they team up with news reporter April O'Neil to battle against Yoshi's arch enemy Shredder and Krang, an alien warlord from Dimension X.",
       "genres": [
-        "Drama"
+        "Action & Adventure",
+        "Animation",
+        "Comedy",
+        "Kids"
       ],
-      "user_rating": 7.72,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1990-12-07",
+      "release_date": "1987-12-14",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
-        },
+        }
+      ],
+      "tmdb_id": 160
+    },
+    {
+      "id": 162,
+      "title": "Night Court",
+      "type": "tv_series",
+      "year": 1984,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bpEVtr4NCkbmTdponemKSjt9POc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bNYJxbtslqHdbNfIT9XXjbwEZuX.jpg",
+      "plot_overview": "An eccentric fun-loving judge presides over an urban night court and all the silliness going on there.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.281,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1984-01-04",
+      "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1038,9 +1117,9 @@
       "release_date": "2002-10-31",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1147,9 +1226,9 @@
       "release_date": "2014-08-20",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1378,6 +1457,34 @@
       "tmdb_id": 239
     },
     {
+      "id": 240,
+      "title": "Jackie Chan Adventures",
+      "type": "tv_series",
+      "year": 2000,
+      "poster_url": "https://image.tmdb.org/t/p/w342/by2GTFpd2BQ5uJxWPlfcmfrNrfB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cjvyqIvCKQtUzd3J5TbVnCFbSNZ.jpg",
+      "plot_overview": "Jackie Chan teams up in this anim\u00e9-style adventure with his 11-year-old fictive-niece, Jade, traveling the globe to locate a dozen magical talismans before the sinister Dark Hand does. Helping Jackie and Jade is Uncle, a cantankerous but wise antiquities expert. Though officially Jackie works as an archaeologist, in reality he also assists Captain Black, leader of the covert police squad Section 13.",
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 8.169,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2000-09-09",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 240
+    },
+    {
       "id": 246,
       "title": "Avatar: The Last Airbender",
       "type": "tv_series",
@@ -1464,29 +1571,60 @@
     },
     {
       "id": 252,
-      "title": "Willy Wonka & the Chocolate Factory",
-      "type": "movie",
-      "year": 1971,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aAL7kV0l3yZtbCFs7J8m4gXldqR.jpg",
-      "plot_overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+      "title": "Everybody Hates Chris",
+      "type": "tv_series",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4BYXh0cY3AyyUB05CTLVJO5FjCM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qji729gwCW88RpIIWidlaLTul3V.jpg",
+      "plot_overview": "Chris is a teenager growing up as the eldest of three children in Brooklyn, New York during the early 1980s. Uprooted to a new neighborhood and bused to a predominantly white middle school two-hours away by his strict, hard-working parents, Chris struggles to find his place while keeping his siblings in line at home and surmounting the challenges of junior high.",
       "genres": [
-        "Family",
         "Comedy"
       ],
-      "user_rating": 7.5,
+      "user_rating": 8.072,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1971-06-29",
+      "release_date": "2005-09-22",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 252
+    },
+    {
+      "id": 253,
+      "title": "Star Trek",
+      "type": "tv_series",
+      "year": 1966,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bPsxOpHVpVCX3hFz2fxnF1Vz3Dj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ywK4VrR7vL56mDGXDLMtFypwqA8.jpg",
+      "plot_overview": "Space. The Final Frontier. The U.S.S. Enterprise embarks on a five year mission to explore the galaxy. The Enterprise is under the command of Captain James T. Kirk with First Officer Mr. Spock, from the planet Vulcan. With a determined crew, the Enterprise encounters Klingons, Romulans, time paradoxes, tribbles and genetic supermen led by Khan Noonian Singh. Their mission is to explore strange new worlds, to seek new life and new civilizations, and to boldly go where no man has gone before.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "user_rating": 8.01,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1966-09-08",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 253
     },
     {
       "id": 260,
@@ -1619,9 +1757,9 @@
       "release_date": "2005-06-10",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1649,6 +1787,32 @@
         }
       ],
       "tmdb_id": 280
+    },
+    {
+      "id": 284,
+      "title": "The Apartment",
+      "type": "movie",
+      "year": 1960,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2L8U8rUyWeFTb6n1egTNeJsEsvj.jpg",
+      "plot_overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 8.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1960-06-21",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 284
     },
     {
       "id": 285,
@@ -1724,6 +1888,32 @@
       "tmdb_id": 297
     },
     {
+      "id": 299,
+      "title": "Ocean's Eleven",
+      "type": "movie",
+      "year": 1960,
+      "poster_url": "https://image.tmdb.org/t/p/w342/A4R6u7SidBPVXMVzGSysCiRGTRz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vJLSt7NvYP85nR4XJ8CxnMadf6G.jpg",
+      "plot_overview": "Danny Ocean and his gang attempt to rob the five biggest casinos in Las Vegas in one night.",
+      "genres": [
+        "Crime",
+        "Comedy"
+      ],
+      "user_rating": 6.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1960-08-10",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 299
+    },
+    {
       "id": 311,
       "title": "Once Upon a Time in America",
       "type": "movie",
@@ -1748,6 +1938,33 @@
         }
       ],
       "tmdb_id": 311
+    },
+    {
+      "id": 314,
+      "title": "Star Trek: Enterprise",
+      "type": "tv_series",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gH5HQbMsSfPc0R41JYTefjB7klZ.jpg",
+      "plot_overview": "During the mid-22nd century, a century before Captain Kirk's five-year mission, Jonathan Archer captains the United Earth ship Enterprise during the early years of Starfleet, leading up to the Earth-Romulan War and the formation of the Federation.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 7.552,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2001-09-26",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 314
     },
     {
       "id": 329,
@@ -1819,6 +2036,31 @@
       "tmdb_id": 331
     },
     {
+      "id": 334,
+      "title": "Magnolia",
+      "type": "movie",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mFfyE5DPFDqoes4HIcElHc2a15y.jpg",
+      "plot_overview": "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.727,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1999-12-17",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 334
+    },
+    {
       "id": 339,
       "title": "Night on Earth",
       "type": "movie",
@@ -1843,6 +2085,32 @@
         }
       ],
       "tmdb_id": 339
+    },
+    {
+      "id": 345,
+      "title": "Eyes Wide Shut",
+      "type": "movie",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+      "plot_overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.485,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1999-07-16",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 345
     },
     {
       "id": 346,
@@ -2021,9 +2289,15 @@
       "release_date": "1957-04-10",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2158,15 +2432,9 @@
       "release_date": "2002-09-17",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2272,6 +2540,31 @@
         }
       ],
       "tmdb_id": 435
+    },
+    {
+      "id": 451,
+      "title": "Leaving Las Vegas",
+      "type": "movie",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wTrFpGe3U65kXTldIUxuM2hmOAK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5m5VhSN1lTk3egtrNzqNv5nwMuG.jpg",
+      "plot_overview": "Ben Sanderson, an alcoholic Hollywood screenwriter who lost everything because of his drinking, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.25,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1995-10-27",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 451
     },
     {
       "id": 453,
@@ -2405,9 +2698,15 @@
       "release_date": "1996-03-29",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2467,24 +2766,26 @@
     },
     {
       "id": 496,
-      "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
-      "type": "movie",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jJYOr36wS1B6EyGjLY17r9kNHHh.jpg",
-      "plot_overview": "Kazakh journalist Borat Sagdiyev travels to America to make a documentary. As he zigzags across the nation, Borat meets real people in real situations with hysterical consequences. His backwards behavior generates strong reactions around him exposing prejudices and hypocrisies in American culture.",
+      "title": "Family Ties",
+      "type": "tv_series",
+      "year": 1982,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vxERANdozlMKgl7VqGxbAvZ6u1O.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m4G421LlrPxqdtq980PLM91u38Y.jpg",
+      "plot_overview": "Former 1960s flower children Steven and Elyse Keaton raise their conservative son Alex, daughters Mallory and Jennifer, and later, youngest child Andrew.",
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Drama",
+        "Family"
       ],
-      "user_rating": 6.784,
+      "user_rating": 7.226,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2006-11-01",
+      "release_date": "1982-09-22",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2533,9 +2834,9 @@
       "release_date": "1992-09-23",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2584,19 +2885,45 @@
       "release_date": "1969-11-10",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 502
+    },
+    {
+      "id": 504,
+      "title": "Monster",
+      "type": "movie",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aevmNtJCNG4ZlfEeEGZ79frMUes.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nUJk4UjWS9YvBJUepCWziQ1QYSf.jpg",
+      "plot_overview": "An emotionally scarred highway drifter shoots a sadistic trick who rapes her, and ultimately becomes America's first female serial killer.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.211,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2003-12-24",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 504
     },
     {
       "id": 508,
@@ -2654,6 +2981,38 @@
         }
       ],
       "tmdb_id": 509
+    },
+    {
+      "id": 512,
+      "title": "Third Watch",
+      "type": "tv_series",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rWQmgNLdyZGIL6Xuo9ImL0Kh6wt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gQYwrYJUf8Vq8biFFqkHCj4QsOk.jpg",
+      "plot_overview": "The exploits of a group of men and women who serve the City of New York as police officers, firemen, and paramedics, all working the same fictional 55th precinct during the 3pm to 11pm shift - the 'Third Watch'.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.911,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1999-09-23",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 512
     },
     {
       "id": 513,
@@ -2934,40 +3293,25 @@
     },
     {
       "id": 562,
-      "title": "Die Hard",
-      "type": "movie",
-      "year": 1988,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg",
-      "plot_overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
-      "genres": [],
-      "user_rating": 7.802,
+      "title": "The Ellen DeGeneres Show",
+      "type": "tv_series",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3jMCaxKK4r5A5gu196dCCrk5d6X.jpg",
+      "plot_overview": "The Ellen DeGeneres Show, often shortened to just Ellen, is an American television talk show hosted by comedian/actress Ellen DeGeneres.",
+      "genres": [
+        "Comedy",
+        "Talk"
+      ],
+      "user_rating": 5.64,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1988-07-15",
+      "release_date": "2003-09-08",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2997,6 +3341,33 @@
         }
       ],
       "tmdb_id": 567
+    },
+    {
+      "id": 580,
+      "title": "Star Trek: Deep Space Nine",
+      "type": "tv_series",
+      "year": 1993,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cm3srKkyVn8zUK40ox8ZNjRJRdE.jpg",
+      "plot_overview": "At Deep Space Nine, a space station located next to a wormhole in the vicinity of the liberated planet of Bajor, Commander Sisko and crew welcome alien visitors, root out evildoers and solve all types of unexpected problems that come their way.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 7.892,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1993-01-03",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 580
     },
     {
       "id": 581,
@@ -3095,9 +3466,9 @@
       "release_date": "1974-04-07",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -3147,15 +3518,27 @@
       "release_date": "1992-09-19",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -3207,9 +3590,15 @@
       "release_date": "1996-09-27",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -3239,6 +3628,31 @@
         }
       ],
       "tmdb_id": 615
+    },
+    {
+      "id": 621,
+      "title": "Grease",
+      "type": "movie",
+      "year": 1978,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hPBIursfYm5ziEmNPrJXkKIDrdI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pdhDFmVQSA0f5i5IL0gpWROjgZ5.jpg",
+      "plot_overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.373,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1978-06-16",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 621
     },
     {
       "id": 630,
@@ -3290,6 +3704,32 @@
         }
       ],
       "tmdb_id": 634
+    },
+    {
+      "id": 640,
+      "title": "Catch Me If You Can",
+      "type": "movie",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sdYgEkKCDPWNU6KnoL4qd8xZ4w7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ggC3Brchf4RqPitEh7cROFoeAWn.jpg",
+      "plot_overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 8.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2002-12-16",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 640
     },
     {
       "id": 641,
@@ -3773,6 +4213,55 @@
       "tmdb_id": 680
     },
     {
+      "id": 682,
+      "title": "The Man with the Golden Gun",
+      "type": "movie",
+      "year": 1974,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xVkbKwGnBVNQ122GN5bCTMyPbWz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3tpNEbRahT8smy7RraaWa0xg9Gv.jpg",
+      "plot_overview": "Cool government operative James Bond searches for a stolen invention that can turn the sun's heat into a destructive weapon. He soon crosses paths with the menacing Francisco Scaramanga, a hitman so skilled he has a seven-figure working fee. Bond then joins forces with the swimsuit-clad Mary Goodnight, and together they track Scaramanga to a Thai tropical isle hideout where the killer-for-hire lures the slick spy into a deadly maze for a final duel.",
+      "genres": [],
+      "user_rating": 6.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1974-12-04",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 682
+    },
+    {
+      "id": 686,
+      "title": "Contact",
+      "type": "movie",
+      "year": 1997,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg",
+      "plot_overview": "A radio astronomer receives the first extraterrestrial radio signal ever picked up on Earth. As the world powers scramble to decipher the message and decide upon a course of action, she must make some difficult decisions between her beliefs, the truth, and reality.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.437,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1997-07-11",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 686
+    },
+    {
       "id": 687,
       "title": "Dead Man Walking",
       "type": "movie",
@@ -3789,9 +4278,9 @@
       "release_date": "1995-12-29",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -4143,6 +4632,56 @@
       "tmdb_id": 762
     },
     {
+      "id": 764,
+      "title": "Midsomer Murders",
+      "type": "tv_series",
+      "year": 1997,
+      "poster_url": "https://image.tmdb.org/t/p/w342/31wojXBSLT6LYTUMyc6BiyXqUyP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+      "plot_overview": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1997-03-23",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 764,
+      "is_returning": true,
+      "next_season": 24,
+      "next_air_date": "2025-12-29",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
       "id": 767,
       "title": "Harry Potter and the Half-Blood Prince",
       "type": "movie",
@@ -4330,15 +4869,9 @@
       "release_date": "1993-11-24",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -4361,9 +4894,21 @@
       "release_date": "1986-12-19",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -4393,6 +4938,45 @@
         }
       ],
       "tmdb_id": 796
+    },
+    {
+      "id": 799,
+      "title": "Sherlock Holmes",
+      "type": "tv_series",
+      "year": 1984,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mVmGmdfdWxVZ2vSbC8De0UG5QJW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fnArp9iDW0mM5Hu6JbIUlVuHRGj.jpg",
+      "plot_overview": "Sherlock Holmes uses his abilities to take on cases by private clients and those that the Scotland Yard are unable to solve, along with his friend Dr. Watson.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 8.122,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1984-04-24",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 799
     },
     {
       "id": 808,
@@ -4500,6 +5084,56 @@
         }
       ],
       "tmdb_id": 812
+    },
+    {
+      "id": 815,
+      "title": "Peep Show",
+      "type": "tv_series",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6rdoQ0cTjsEQLIwEjhBV8U98oUm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pYEFwZj6YDR8OhX9tyO78IoJADe.jpg",
+      "plot_overview": "Peep Show follows the lives of two men from their twenties to thirties, Mark Corrigan, who has steady employment for most of the series, and Jeremy \"Jez\" Usbourne, an unemployed would-be musician.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 8.043,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2003-09-19",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 815
+    },
+    {
+      "id": 821,
+      "title": "Judgment at Nuremberg",
+      "type": "movie",
+      "year": 1961,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b6vYatvui1EXeFYfpDX4rcbueuP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bDsXa3PV3biQ8ZK1tQyK4vlkvCc.jpg",
+      "plot_overview": "In 1947, four German judges who served on the bench during the Nazi regime face a military tribunal to answer charges of crimes against humanity. Chief Justice Haywood hears evidence and testimony not only from lead defendant Ernst Janning and his defense attorney Hans Rolfe, but also from the widow of a Nazi general, an idealistic U.S. Army captain and reluctant witness Irene Wallner.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 8.019,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1961-12-18",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 821
     },
     {
       "id": 824,
@@ -4964,9 +5598,9 @@
       "release_date": "1946-12-25",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -4997,6 +5631,32 @@
         }
       ],
       "tmdb_id": 888
+    },
+    {
+      "id": 896,
+      "title": "The Lost World",
+      "type": "tv_series",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iCpCsyJ1CYLQOp4y52ctrAco9oj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ovq59utLtOqqMBphohyKqvVqfpb.jpg",
+      "plot_overview": "Early 20th-century adventurers find themselves fighting for survival after their hot-air balloon crashes into a remote part of the Amazon, stranding them on a prehistoric plateau.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "user_rating": 7.14,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1999-04-03",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 896
     },
     {
       "id": 900,
@@ -5080,6 +5740,31 @@
         }
       ],
       "tmdb_id": 914
+    },
+    {
+      "id": 916,
+      "title": "Bullitt",
+      "type": "movie",
+      "year": 1968,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2ffzF1WmeXtH420fSUoCrecFvDA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iKO7UEnXJUumjbjNwP4719n7vds.jpg",
+      "plot_overview": "Senator Walter Chalmers is aiming to take down mob boss Pete Ross with the help of testimony from the criminal's hothead brother Johnny, who is in protective custody in San Francisco under the watch of police lieutenant Frank Bullitt. When a pair of mob hitmen enter the scene, Bullitt follows their trail through a maze of complications and double-crosses. This thriller includes one of the most famous car chases ever filmed.",
+      "genres": [
+        "Crime"
+      ],
+      "user_rating": 7.152,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1968-10-17",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 916
     },
     {
       "id": 918,
@@ -5279,30 +5964,78 @@
     },
     {
       "id": 954,
-      "title": "The Rockford Files",
-      "type": "tv_series",
-      "year": 1974,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fniHEsTeqHMg41GlCYJxZVgtn7H.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tUKU1WLqMtIZHUl8lP9bLAJx0nl.jpg",
-      "plot_overview": "Cranky but likable L.A. PI Jim Rockford pulls no punches (but takes plenty of them). An ex-con sent to the slammer for a crime he didn't commit, Rockford takes on cases others don't want, aided by his tough old man, his lawyer girlfriend and some shady associates from his past.",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "user_rating": 7.585,
+      "title": "Mission: Impossible",
+      "type": "movie",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eDtsTxALld2gPw9lO1hQIJXqMHu.jpg",
+      "plot_overview": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+      "genres": [],
+      "user_rating": 7.015,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1974-09-13",
+      "release_date": "1996-05-22",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 954
+    },
+    {
+      "id": 955,
+      "title": "Mission: Impossible II",
+      "type": "movie",
+      "year": 2000,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hfnrual76gPeNFduhD4xzHWpfTw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg",
+      "plot_overview": "With computer genius Luther Stickell at his side and a beautiful thief on his mind, agent Ethan Hunt races across Australia and Spain to stop a former IMF agent from unleashing a genetically engineered biological weapon called Chimera. This mission, should Hunt choose to accept it, plunges him into the center of an international crisis of terrifying magnitude.",
+      "genres": [],
+      "user_rating": 6.135,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2000-05-24",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 955
+    },
+    {
+      "id": 956,
+      "title": "Mission: Impossible III",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bYKeB9uUcPmvikjouEEQ86uvPw9.jpg",
+      "plot_overview": "Retired from active duty, and training recruits for the Impossible Mission Force, agent Ethan Hunt faces the toughest foe of his career: Owen Davian, an international broker of arms and information, who's as cunning as he is ruthless. Davian emerges to threaten Hunt and all that he holds dear \u2013 including the woman Hunt loves.",
+      "genres": [],
+      "user_rating": 6.754,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2006-04-25",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 956
     },
     {
       "id": 962,
@@ -5322,15 +6055,9 @@
       "release_date": "1925-07-13",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

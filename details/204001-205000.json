@@ -1,6 +1,6 @@
 {
   "range": "204001-205000",
-  "updated_at": 1765990396716,
+  "updated_at": 1765995583328,
   "shows": [
     {
       "id": 204082,
@@ -17,9 +17,21 @@
       "release_date": "2013-11-12",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

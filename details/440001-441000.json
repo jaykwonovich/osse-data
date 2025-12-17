@@ -1,7 +1,34 @@
 {
   "range": "440001-441000",
-  "updated_at": 1765990396748,
+  "updated_at": 1765995583365,
   "shows": [
+    {
+      "id": 440161,
+      "title": "The Sisters Brothers",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hbUGrEaJgFz9NWh34HHUb4vLjkG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2cI0rmMgoZOqP78iQDZwQASkKT3.jpg",
+      "plot_overview": "Oregon, 1851. Hermann Kermit Warm, a chemist and aspiring gold prospector, keeps a profitable secret that the Commodore wants to know, so he sends the Sisters brothers, two notorious assassins, to capture him on his way to California.",
+      "genres": [
+        "Western",
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 6.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-09-19",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 440161
+    },
     {
       "id": 440472,
       "title": "The Upside",
@@ -27,6 +54,35 @@
         }
       ],
       "tmdb_id": 440472
+    },
+    {
+      "id": 440597,
+      "title": "Wish Upon",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rYpOaLb908aDspCuaa1o7nn5Bf.jpg",
+      "plot_overview": "A teenage girl discovers a box with magical powers, but those powers comes with a deadly price.",
+      "genres": [],
+      "user_rating": 5.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-07-07",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 440597
     }
   ]
 }

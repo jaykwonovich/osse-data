@@ -1,6 +1,6 @@
 {
   "range": "18001-19000",
-  "updated_at": 1765990396674,
+  "updated_at": 1765995583293,
   "shows": [
     {
       "id": 18032,
@@ -177,15 +177,9 @@
       "release_date": "2009-09-17",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -210,9 +204,9 @@
       "release_date": "2009-11-02",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -452,6 +446,29 @@
         }
       ],
       "tmdb_id": 18785
+    },
+    {
+      "id": 18823,
+      "title": "Clash of the Titans",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hUUTJPmvBvBKILNLrBu16pRxr6M.jpg",
+      "plot_overview": "Born of a god but raised as a man, Perseus is helpless to save his family from Hades, vengeful god of the underworld. With nothing to lose, Perseus volunteers to lead a dangerous mission to defeat Hades before he can seize power from Zeus and unleash hell on earth. Battling unholy demons and fearsome beasts, Perseus and his warriors will only survive if Perseus accepts his power as a god, defies fate and creates his own destiny.",
+      "genres": [],
+      "user_rating": 5.918,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-03-26",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 18823
     },
     {
       "id": 18947,

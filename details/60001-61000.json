@@ -1,6 +1,6 @@
 {
   "range": "60001-61000",
-  "updated_at": 1765990396690,
+  "updated_at": 1765995583304,
   "shows": [
     {
       "id": 60059,
@@ -72,9 +72,9 @@
       "release_date": "2011-04-15",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -177,9 +177,9 @@
       "release_date": "2015-01-14",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -205,9 +205,15 @@
       "release_date": "2014-01-05",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],

@@ -1,6 +1,6 @@
 {
   "range": "6001-7000",
-  "updated_at": 1765990396663,
+  "updated_at": 1765995583281,
   "shows": [
     {
       "id": 6072,
@@ -126,9 +126,15 @@
       "release_date": "1959-10-02",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -252,9 +258,9 @@
       "release_date": "1987-04-21",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],

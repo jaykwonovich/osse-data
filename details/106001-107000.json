@@ -1,6 +1,6 @@
 {
   "range": "106001-107000",
-  "updated_at": 1765990396701,
+  "updated_at": 1765995583316,
   "shows": [
     {
       "id": 106116,
@@ -66,15 +66,15 @@
         "Action & Adventure",
         "Drama"
       ],
-      "user_rating": 8.2,
+      "user_rating": 8.196,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-04-10",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -140,6 +140,33 @@
       "tmdb_id": 106454
     },
     {
+      "id": 106502,
+      "title": "Leverage: Redemption",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/i3Evib4bHONndY7pZ9gbznYUcGj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eW4hXSkTfPJImqWl1YyecbAM5d2.jpg",
+      "plot_overview": "The Hitter, the Hacker, the Grifter and the Thief are together again, this time with help from a new tech genius and corporate fixer, to take on a new kind of villain. From the man who created an opioid crisis from the comfort of his boardroom to the shadowy security firm that helps hide dangerous secrets for a price - when someone needs help, they provide... Leverage.",
+      "genres": [
+        "Action & Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.374,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-07-08",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 106502
+    },
+    {
       "id": 106646,
       "title": "The Wolf of Wall Street",
       "type": "movie",
@@ -158,9 +185,9 @@
       "release_date": "2013-12-25",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],

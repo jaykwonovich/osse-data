@@ -1,7 +1,41 @@
 {
   "range": "1001-2000",
-  "updated_at": 1765990396656,
+  "updated_at": 1765995583273,
   "shows": [
+    {
+      "id": 1018,
+      "title": "Bonanza",
+      "type": "tv_series",
+      "year": 1959,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wQ1iVrG871anxkEUwWTRdPRi0j1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/61OxoiBHvGFOB4gufYfypHyCbI4.jpg",
+      "plot_overview": "The High-Sierra adventures of Ben Cartwright and his sons as they run and defend their ranch while helping the surrounding community.",
+      "genres": [
+        "Western",
+        "Action & Adventure",
+        "Drama",
+        "Family"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1959-09-12",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1018
+    },
     {
       "id": 1044,
       "title": "Planet Earth",
@@ -46,9 +80,15 @@
       "release_date": "1999-03-19",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -71,9 +111,21 @@
       "release_date": "1991-07-12",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -96,9 +148,9 @@
       "release_date": "1949-08-31",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -144,9 +196,15 @@
       "release_date": "1981-05-23",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -169,9 +227,9 @@
       "release_date": "2007-07-19",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -229,6 +287,37 @@
       "tmdb_id": 1213
     },
     {
+      "id": 1220,
+      "title": "The Graham Norton Show",
+      "type": "tv_series",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2pJYis3LUEgFC3UErTQVgmUV1hN.jpg",
+      "plot_overview": "Each week celebrity guests join Irish comedian\u00a0Graham Norton to discuss what's being going on around the world that week. The guests poke fun and share their opinions on the main news stories. Graham is often joined by a band or artist to play the show out.",
+      "genres": [
+        "Comedy",
+        "Talk"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-02-22",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1220,
+      "is_returning": true,
+      "next_season": 33,
+      "next_air_date": "2025-12-19",
+      "next_episode": 12,
+      "relevance_score": 75
+    },
+    {
       "id": 1246,
       "title": "Rocky Balboa",
       "type": "movie",
@@ -252,6 +341,29 @@
         }
       ],
       "tmdb_id": 1246
+    },
+    {
+      "id": 1250,
+      "title": "Ghost Rider",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1pyU94dAY7npDQCKuxCSyX9KthN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qxg6bnwNnOivrY0drBbPVrIAbaH.jpg",
+      "plot_overview": "In order to save his dying father, young stunt cyclist Johnny Blaze sells his soul to Mephistopheles and sadly parts from the pure-hearted Roxanne Simpson, the love of his life. Years later, Johnny's path crosses again with Roxanne, now a go-getting reporter, and also with Mephistopheles, who offers to release Johnny's soul if Johnny becomes the fabled, fiery 'Ghost Rider'.",
+      "genres": [],
+      "user_rating": 5.584,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-01-15",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1250
     },
     {
       "id": 1262,
@@ -426,9 +538,9 @@
       "release_date": "2008-10-03",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -741,9 +853,15 @@
       "release_date": "2011-11-06",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -768,9 +886,9 @@
       "release_date": "2010-10-31",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1062,9 +1180,9 @@
       "release_date": "2002-03-12",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1214,15 +1332,9 @@
       "release_date": "2009-03-09",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1338,9 +1450,9 @@
       "release_date": "2013-06-30",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1398,6 +1510,33 @@
       "tmdb_id": 1425
     },
     {
+      "id": 1426,
+      "title": "Luther",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
+      "plot_overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.859,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-05-04",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1426
+    },
+    {
       "id": 1427,
       "title": "Broadchurch",
       "type": "tv_series",
@@ -1416,21 +1555,21 @@
       "release_date": "2013-03-04",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1453,21 +1592,15 @@
       "release_date": "2003-01-23",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1602,6 +1735,31 @@
       "relevance_score": 75
     },
     {
+      "id": 1435,
+      "title": "The Good Wife",
+      "type": "tv_series",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lasNCd45fpPLirlA7QxkuopWro.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uinrziSwEmS6s8VvGBad5sed7bF.jpg",
+      "plot_overview": "Alicia Florrick boldly assumes full responsibility for her family and re-enters the workforce after her husband's very public sex and political corruption scandal lands him in jail.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.588,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-09-22",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1435
+    },
+    {
       "id": 1436,
       "title": "Justified",
       "type": "tv_series",
@@ -1681,6 +1839,57 @@
       "tmdb_id": 1438
     },
     {
+      "id": 1441,
+      "title": "The Contract",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sU2yzV3T1LetBdQPAeBRDb4YwLo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/btd9VPSfnVh0pHZqbiUJLsOkBDf.jpg",
+      "plot_overview": "Attempting to recover from a recent family trauma by escaping into the woods for a peaceful hiking trip, an ex-lawman and his young son stumble across a dangerous contract killer.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 5.716,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2006-04-05",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1441
+    },
+    {
+      "id": 1443,
+      "title": "The Virgin Suicides",
+      "type": "movie",
+      "year": 2000,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6b6UpsOXmjO8mJKYsGTG9HW49CN.jpg",
+      "plot_overview": "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.12,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2000-04-21",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1443
+    },
+    {
       "id": 1447,
       "title": "Psych",
       "type": "tv_series",
@@ -1712,6 +1921,33 @@
         }
       ],
       "tmdb_id": 1447
+    },
+    {
+      "id": 1449,
+      "title": "Mutant X",
+      "type": "tv_series",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yiKg027jdpkSsguVBI9WqliNWez.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/A2BqbbSs9E4emekdxdvWzLK6lpx.jpg",
+      "plot_overview": "Mutant X is a science fiction television series that debuted on October 6, 2001. The show was created by Avi Arad, and it centers around Mutant X, a team of \"New Mutants\" who possess extraordinary powers as a result of genetic engineering. The members of Mutant X were used as test subjects in a series of covert government experiments. The mission of Mutant X is to seek out and protect their fellow New Mutants. The series was filmed in Toronto, Ontario, Canada.\n\nEven though the series had high ra",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "user_rating": 6.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2001-10-06",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1449
     },
     {
       "id": 1450,
@@ -1783,9 +2019,21 @@
       "release_date": "2002-06-16",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1810,15 +2058,27 @@
       "release_date": "1987-04-12",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1858,21 +2118,15 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.295,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2006-08-18",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -1903,6 +2157,31 @@
         }
       ],
       "tmdb_id": 1493
+    },
+    {
+      "id": 1495,
+      "title": "Kingdom of Heaven",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+      "plot_overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.005,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2005-05-03",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1495
     },
     {
       "id": 1508,
@@ -2047,30 +2326,34 @@
     },
     {
       "id": 1554,
-      "title": "Down by Law",
-      "type": "movie",
-      "year": 1986,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4IyxoUQ7BB5kcSd7gASe2dTyWu7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8kVPLOzuZ1G9EBYxcOrzaHbxCeC.jpg",
-      "plot_overview": "A disc jockey, a pimp and an Italian tourist escape from jail in New Orleans.",
+      "title": "QI",
+      "type": "tv_series",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/35SFXXXE05T23n7ztSHwa4cqzSy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ikS12cRIPV1ZDVmCVKMNfMmow9Y.jpg",
+      "plot_overview": "Comedy quiz show full of quirky facts, in which contestants are rewarded more if their answers are 'quite interesting'.",
       "genres": [
-        "Crime",
-        "Drama",
-        "Comedy"
+        "Comedy",
+        "Talk"
       ],
-      "user_rating": 7.339,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1986-09-20",
+      "release_date": "2003-09-11",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
-      "tmdb_id": 1554
+      "tmdb_id": 1554,
+      "is_returning": true,
+      "next_season": 23,
+      "next_air_date": "2025-12-23",
+      "next_episode": 9,
+      "relevance_score": 75
     },
     {
       "id": 1558,
@@ -2195,27 +2478,27 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.592,
+      "user_rating": 7.593,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2006-12-07",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2238,9 +2521,9 @@
       "release_date": "2003-10-03",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2264,9 +2547,9 @@
       "release_date": "1946-12-20",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2357,6 +2640,33 @@
       "tmdb_id": 1597
     },
     {
+      "id": 1606,
+      "title": "Ghost Whisperer",
+      "type": "tv_series",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9ZtGupUFaHhws7mOcwhNTtRpRHC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1QDj9jm16h7QAEWfuX5hrKNr4Tn.jpg",
+      "plot_overview": "Newlywed Melinda Gordon tries to help the dead communicate with loved ones, but sometimes the messages she receives are intense and confusing. Most of Melinda's efforts involve resolving conflicts that are preventing the spirits from passing over.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Drama"
+      ],
+      "user_rating": 8.077,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2005-09-23",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1606
+    },
+    {
       "id": 1610,
       "title": "Fever Pitch",
       "type": "movie",
@@ -2373,9 +2683,9 @@
       "release_date": "1997-04-04",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2399,9 +2709,15 @@
       "release_date": "2001-12-07",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2464,6 +2780,33 @@
       "tmdb_id": 1618
     },
     {
+      "id": 1620,
+      "title": "CSI: Miami",
+      "type": "tv_series",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+      "plot_overview": "CSI: Miami follows Crime Scene Investigators working for the Miami-Dade Police Department as they use physical evidence, similar to their Las Vegas counterparts, to solve grisly murders. The series mixes deduction, gritty subject matter, and character-driven drama in the same vein as the original series in the CSI franchise, except that the Miami CSIs are cops first, scientists second.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "user_rating": 7.711,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2002-09-23",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1620
+    },
+    {
       "id": 1621,
       "title": "Trading Places",
       "type": "movie",
@@ -2480,9 +2823,9 @@
       "release_date": "1983-06-07",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2683,19 +3026,46 @@
       "release_date": "1991-07-19",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 1649
+    },
+    {
+      "id": 1660,
+      "title": "I Dream of Jeannie",
+      "type": "tv_series",
+      "year": 1965,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ljlyB3C3uU8Hd1krfEsYn2BVyaj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/z5yI0aIRyogoflSXdI17iwTqzjG.jpg",
+      "plot_overview": "While on a mission, American astronaut Captain Tony Nelson is forced to make an emergency landing that will forever change his life. On a deserted South Pacific island, Captain Nelson happens upon a bottle containing a beautiful two-thousand-year-old female genie named Jeannie. Rescuing her from the bottle nets Tony the requisite three wishes, and then some, when Jeannie pledges total devotion to her new \"master\".",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1965-09-18",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1660
     },
     {
       "id": 1663,
@@ -2716,9 +3086,9 @@
       "release_date": "1974-01-18",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -2822,39 +3192,21 @@
       "release_date": "2004-12-01",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 365,
-          "service_name": "MGM+",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -3278,6 +3630,59 @@
       "tmdb_id": 1813
     },
     {
+      "id": 1818,
+      "title": "Lexx",
+      "type": "tv_series",
+      "year": 1997,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oSDZ9YpDvAbXxzbC3YdknfyBR3W.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6HCTF1qRwysB7Q5pJjPTTTY0spr.jpg",
+      "plot_overview": "A Time Prophet predicted that Kai would be the one to destroy the divine order in the league of the 20,000 planets, someday that will happen, but not today. Today a cowardly security guard, an undead assassin, a female with a body designed for sex and a robot head madly in love with her all make up the crew of the spaceship Lexx, the most powerful weapon in the two universes.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1997-04-18",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1818
+    },
+    {
+      "id": 1823,
+      "title": "The Love Boat",
+      "type": "tv_series",
+      "year": 1977,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fnsnazlj2bt3Fuj0pJ7wBPmuMLO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2XtfGULDOvBiPByLscc9UEqrf0z.jpg",
+      "plot_overview": "Passengers who search for romantic nights aboard a beautiful ship travelling to tropical or mysterious countries, decide to pass their vacation aboard the \"Love Boat\", where Gopher, Dr. Bricker, Isaac, Julie, and Captain Stubing try their best to please them, and sometimes help them fall in love. Things are not always so easy, but in the end, love wins.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 6.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1977-09-24",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1823
+    },
+    {
       "id": 1824,
       "title": "50 First Dates",
       "type": "movie",
@@ -3319,9 +3724,9 @@
       "release_date": "1987-02-13",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -3345,9 +3750,9 @@
       "release_date": "2005-09-16",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -3379,6 +3784,33 @@
         }
       ],
       "tmdb_id": 1834
+    },
+    {
+      "id": 1855,
+      "title": "Star Trek: Voyager",
+      "type": "tv_series",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7YFranrnnIcCrgsLYQsoq8aE3Ir.jpg",
+      "plot_overview": "Pulled to the far side of the galaxy, where the Federation is 75 years away at maximum warp speed, a Starfleet ship must cooperate with Maquis rebels to find a way home.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.786,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1995-01-16",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1855
     },
     {
       "id": 1858,
@@ -3675,9 +4107,27 @@
       "release_date": "2004-01-13",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -3749,6 +4199,31 @@
       "tmdb_id": 1911
     },
     {
+      "id": 1922,
+      "title": "All in the Family",
+      "type": "tv_series",
+      "year": 1971,
+      "poster_url": "https://image.tmdb.org/t/p/w342/s2Y9QWyuyjRP78DZsatknEjn0iN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qP6w5T2aMTTkIW5qFqziWhgYlPu.jpg",
+      "plot_overview": "Archie Bunker, a working class bigot, constantly squabbles with his family over the important issues of the day.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1971-01-12",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1922
+    },
+    {
       "id": 1923,
       "title": "Twin Peaks: Fire Walk with Me",
       "type": "movie",
@@ -3799,28 +4274,43 @@
     },
     {
       "id": 1930,
-      "title": "The Amazing Spider-Man",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/HVcza6tJtWFrLriuh3Ano4Vt46.jpg",
-      "plot_overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance \u2013 leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision c",
-      "genres": [],
-      "user_rating": 6.723,
+      "title": "The Beverly Hillbillies",
+      "type": "tv_series",
+      "year": 1962,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sEZs4szkwBXIK3DOm37MnQN9fIe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nA19z9LnWYebUt3iqoYvkwRKIUI.jpg",
+      "plot_overview": "Jed Clampett's swamp is loaded with oil. When a wildcatter discovers the huge pool, Jed sells his land to the O.K. Oil Company and at the urging of cousin Pearl, moves his family to a 35-room mansion in Beverly Hills, California.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 6.9,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2012-06-23",
+      "release_date": "1962-09-26",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -3907,24 +4397,43 @@
     },
     {
       "id": 1948,
-      "title": "Crank",
-      "type": "movie",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rsKmhnvzJezjwC1Ud2Hh37oNpdQ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8JPz1636hMcaADngF4H4KOxXfp1.jpg",
-      "plot_overview": "Chev Chelios, a hit man wanting to go straight, lets his latest target slip away. Then he awakes the next morning to a phone call that informs him he has been poisoned and has only an hour to live unless he keeps adrenaline coursing through his body while he searches for an antidote.",
+      "title": "Degrassi",
+      "type": "tv_series",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AfqQ4lZAi9LWyhnHm3VCpm2hLpB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6Rvq9wwTDyH1k1Qg660KXTknTfG.jpg",
+      "plot_overview": "The life of a group of adolescents going through the trials and tribulations of teendom at Degrassi Community School.",
       "genres": [
-        "Crime"
+        "Drama",
+        "Soap"
       ],
-      "user_rating": 6.647,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2006-08-31",
+      "release_date": "2001-10-14",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -4055,19 +4564,40 @@
       "release_date": "1998-10-07",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
       "tmdb_id": 1981
+    },
+    {
+      "id": 1996,
+      "title": "The Flintstones",
+      "type": "tv_series",
+      "year": 1960,
+      "poster_url": "https://image.tmdb.org/t/p/w342/30P6ifagQ3fguTsI33KMmDLTAx6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jqweieg5sg0HLlVjugP9fWDiIJq.jpg",
+      "plot_overview": "The misadventures of two modern-day Stone Age families, the Flintstones and the Rubbles.",
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy"
+      ],
+      "user_rating": 7.418,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1960-09-30",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1996
     },
     {
       "id": 1998,

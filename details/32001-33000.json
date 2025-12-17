@@ -1,6 +1,6 @@
 {
   "range": "32001-33000",
-  "updated_at": 1765990396679,
+  "updated_at": 1765995583297,
   "shows": [
     {
       "id": 32022,
@@ -45,9 +45,9 @@
       "release_date": "2010-01-18",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -56,7 +56,7 @@
       "next_season": 23,
       "next_air_date": "2025-12-17",
       "next_episode": 12,
-      "relevance_score": 100
+      "relevance_score": 75
     },
     {
       "id": 32040,
@@ -83,6 +83,31 @@
         }
       ],
       "tmdb_id": 32040
+    },
+    {
+      "id": 32294,
+      "title": "Hot in Cleveland",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oSd0I8hc62W8xZVCOpZvRXS90Ty.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nDhhWFhjEaihxFFiqJ7mfUX1DlY.jpg",
+      "plot_overview": "Three fabulous, eccentric, LA best friends of a certain age have their lives changed forever when their plane unexpectedly lands in Cleveland and they soon rediscover themselves in this new \"promised land.\"",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.303,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-06-16",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32294
     },
     {
       "id": 32390,
@@ -121,6 +146,33 @@
       "relevance_score": 75
     },
     {
+      "id": 32415,
+      "title": "Conan",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2Ib8kvWa9gGhJrAfGlhIvbmtbWn.jpg",
+      "plot_overview": "A late night television talk show hosted by  Conan O'Brien.",
+      "genres": [
+        "Talk",
+        "Comedy",
+        "News"
+      ],
+      "user_rating": 7.111,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-11-08",
+      "streaming_services": [
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32415
+    },
+    {
       "id": 32569,
       "title": "X: The Man with the X-Ray Eyes",
       "type": "movie",
@@ -144,6 +196,34 @@
       "tmdb_id": 32569
     },
     {
+      "id": 32605,
+      "title": "The Looney Tunes Show",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bZWdejWhkgJmXjdQ70DjiJS7v7O.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fAYIAFe8EOF2trdI2tpNk2dL5z4.jpg",
+      "plot_overview": "Bugs Bunny, Daffy Duck and the rest of the \u201cLooney Tunes\u201d characters are back with more adventures for a new generation of viewers. The animated series features roommates Bugs and Daffy moving out of the woods and into the suburbs, interacting with their neighbors, who happen to be other \"Looney Tunes\" favorites -- including Sylvester, Tweety, Porky Pig and Foghorn Leghorn.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids"
+      ],
+      "user_rating": 8.094,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-05-03",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32605
+    },
+    {
       "id": 32608,
       "title": "Ancient Aliens",
       "type": "tv_series",
@@ -162,27 +242,21 @@
       "release_date": "2010-04-20",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         },
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -231,9 +305,9 @@
       "release_date": "2010-09-24",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
           "region": "US"
         }
       ],
@@ -302,6 +376,38 @@
       "next_air_date": "2025-12-28",
       "next_episode": 10,
       "relevance_score": 75
+    },
+    {
+      "id": 32868,
+      "title": "Nikita",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/762vNuJRCKv4Dw27cSza77YTvJz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/v26LJqvONINHfmUVuIGZyllbCIO.jpg",
+      "plot_overview": "Nikita will stop at nothing to expose and destroy Division, the secret U.S. agency who trained her as a spy and assassin.",
+      "genres": [
+        "Drama",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.239,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-09-09",
+      "streaming_services": [
+        {
+          "service_id": 73,
+          "service_name": "Tubi",
+          "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 207,
+          "service_name": "The Roku Channel",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32868
     },
     {
       "id": 32895,

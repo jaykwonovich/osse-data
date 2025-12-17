@@ -1,7 +1,32 @@
 {
   "range": "434001-435000",
-  "updated_at": 1765990396747,
+  "updated_at": 1765995583365,
   "shows": [
+    {
+      "id": 434203,
+      "title": "Newness",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vySlYPqOrI5s8Nu6bzpGKQbotVy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fvFrMDT1aKd1bap493IT2KqTLC7.jpg",
+      "plot_overview": "In contemporary Los Angeles, two millennials navigating a social media\u2013driven hookup culture begin a relationship that pushes both emotional and physical boundaries.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 6.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-11-03",
+      "streaming_services": [
+        {
+          "service_id": 300,
+          "service_name": "Pluto TV",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 434203
+    },
     {
       "id": 434714,
       "title": "My Days of Mercy",
@@ -26,6 +51,32 @@
         }
       ],
       "tmdb_id": 434714
+    },
+    {
+      "id": 434873,
+      "title": "It Stains the Sands Red",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rBCjDBa2Dau9WqEslCpdJni394M.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9bA0JHOvaNVZHQdfgzXPdAEyBhe.jpg",
+      "plot_overview": "In the throes of a zombie apocalypse, a troubled woman from Las Vegas with a dark past, finds herself stranded in the desert with a lone and ravenous zombie on her tail.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 5.577,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-10-08",
+      "streaming_services": [
+        {
+          "service_id": 613,
+          "service_name": "Freevee",
+          "type": "free",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 434873
     }
   ]
 }
