@@ -1,6 +1,6 @@
 {
   "range": "29001-30000",
-  "updated_at": 1780003048295,
+  "updated_at": 1780004424336,
   "shows": [
     {
       "id": 29698,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/A5j7Q6ltJRYPZ3Wz2azcGZtwPem.jpg",
       "plot_overview": "James Gillespie is 12 years old. The world he knew is changing. Haunted by a secret, he has become a stranger in his own family. He is drawn to the canal where he creates a world of his own. He finds an awkward tenderness with Margaret Anne, a vulnerable 14 year old expressing a need for love in all the wrong ways, and befriends Kenny, who possesses an unusual innocence in spite of the harsh surroundings.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.097,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 29698
+      "tmdb_id": 29698,
+      "genre": "drama"
     },
     {
       "id": 29845,
@@ -36,7 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uOLcJJYZ3hbFSrKQPDaLhrYnjUv.jpg",
       "plot_overview": "Mabel Longhetti, desperate and lonely, is married to a Los Angeles municipal construction worker, Nick. Increasingly unstable, especially in the company of others, she craves happiness, but her extremely volatile behavior convinces Nick that she poses a danger to their family and decides to commit her to an institution for six months. Alone with a trio of kids to raise on his own, he awaits her return, which holds more than a few surprises.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 7.789,
       "critic_score": null,
@@ -50,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 29845
+      "tmdb_id": 29845,
+      "genre": "drama"
     },
     {
       "id": 29884,
@@ -61,8 +64,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eVzQFWYICGBql9cfss1WKn0CxZK.jpg",
       "plot_overview": "A group of academics have spent years shut up in a house working on the definitive encyclopedia. When one of them discovers that his entry on slang is hopelessly outdated, he ventures into the wide world to learn about the evolving language. Here he meets Sugarpuss O\u2019Shea, a nightclub singer, who\u2019s on top of all the slang\u2014and, it just so happens, needs a place to stay.",
       "genres": [
-        "Comedy",
-        "Crime"
+        "comedy",
+        "crime"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -76,7 +79,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 29884
+      "tmdb_id": 29884,
+      "genre": "comedy"
     }
   ]
 }

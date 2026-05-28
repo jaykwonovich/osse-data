@@ -1,6 +1,6 @@
 {
   "range": "78001-79000",
-  "updated_at": 1780003048310,
+  "updated_at": 1780004424353,
   "shows": [
     {
       "id": 78036,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9YrrHB7LIiuMElYpgeLbXi0uZj9.jpg",
       "plot_overview": "A masked figure known as \"The Curious\" collects tales of dark magic, otherworldly encounters and twisted technology in this kids anthology series.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Mystery"
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.173,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 78036
+      "tmdb_id": 78036,
+      "genre": "mystery"
     },
     {
       "id": 78173,
@@ -37,10 +38,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yVcuoQNo36FlZTavqjjjpsaUJyL.jpg",
       "plot_overview": "Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.",
       "genres": [
-        "Family",
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "family",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.371,
       "critic_score": null,
@@ -54,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 78173
+      "tmdb_id": 78173,
+      "genre": "action & adventure"
     },
     {
       "id": 78191,
@@ -65,9 +67,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gzOIymABxmetAECXtazEYCpMmfb.jpg",
       "plot_overview": "A dangerously charming, obsessive man goes to extreme measures to insert himself into the lives of women who fascinate him.",
       "genres": [
-        "Mystery",
-        "Crime",
-        "Drama"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 8.011,
       "critic_score": null,
@@ -81,7 +83,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 78191
+      "tmdb_id": 78191,
+      "genre": "crime"
     },
     {
       "id": 78903,
@@ -92,9 +95,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yYhu8ED3DxwzoLhdH5nlfMPJrXY.jpg",
       "plot_overview": "A group of young adults who met online are mercilessly hunted by a shadowy deep state organization after they come into possession of a near-mythical cult underground graphic novel.",
       "genres": [
-        "Drama",
-        "Action & Adventure",
-        "Mystery"
+        "action & adventure",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.187,
       "critic_score": null,
@@ -108,7 +111,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 78903
+      "tmdb_id": 78903,
+      "genre": "action & adventure"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "754001-755000",
-  "updated_at": 1780003048380,
+  "updated_at": 1780004424422,
   "shows": [
     {
       "id": 754609,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AhkirfgU32n0D1uxpaGYJEKy2Hu.jpg",
       "plot_overview": "A 1950s London cleaning lady falls in love with an haute couture dress by Christian Dior and decides to gamble everything for the sake of this folly.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.32,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 754609
+      "tmdb_id": 754609,
+      "genre": "comedy"
     }
   ]
 }

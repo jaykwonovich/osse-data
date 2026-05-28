@@ -1,6 +1,6 @@
 {
   "range": "204001-205000",
-  "updated_at": 1780003048333,
+  "updated_at": 1780004424373,
   "shows": [
     {
       "id": 204135,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hoLPJjPfYdEWJXG1y7OCgOeipaF.jpg",
       "plot_overview": "When the world\u2019s most popular sport combines with magic, awesomeness escalates quicker than a dragon-powered strike!",
       "genres": [
-        "Animation"
+        "animation"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -38,7 +38,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-09",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "animation"
     },
     {
       "id": 204154,
@@ -49,10 +50,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rrREM1cowfMZ8SmrJ9KCFO3y4j6.jpg",
       "plot_overview": "When a deep space freighter is damaged by a solar flare its surviving crew are stranded on a beautiful and unforgiving planet. They begin to learn the true nature of this planet as they try to survive long enough to escape or be rescued.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Animation",
-        "Action & Adventure"
+        "action & adventure",
+        "animation",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.486,
       "critic_score": null,
@@ -66,7 +67,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 204154
+      "tmdb_id": 204154,
+      "genre": "action & adventure"
     },
     {
       "id": 204284,
@@ -77,8 +79,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iFPbB1II79kZNPbT7ePx2W06cd2.jpg",
       "plot_overview": "With a construction crew, a legion of actors, and seemingly unlimited resources, Nathan Fielder allows ordinary people to prepare for life's biggest moments by \"rehearsing\" them in carefully crafted simulations of his own design. When a single misstep could shatter your entire world, why leave life to chance?",
       "genres": [
-        "Comedy",
-        "Documentary"
+        "comedy",
+        "documentary"
       ],
       "user_rating": 8.006,
       "critic_score": null,
@@ -92,7 +94,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 204284
+      "tmdb_id": 204284,
+      "genre": "comedy"
     }
   ]
 }

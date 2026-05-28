@@ -1,6 +1,6 @@
 {
   "range": "713001-714000",
-  "updated_at": 1780003048379,
+  "updated_at": 1780004424420,
   "shows": [
     {
       "id": 713776,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tfhKc6tMxBVZuiipbXWUYdXyMYj.jpg",
       "plot_overview": "In this Oscar-winning short film, grieving parents journey through an emotional void as they mourn the loss of a child after a tragic school shooting.",
       "genres": [
-        "Drama",
-        "Animation"
+        "animation",
+        "drama"
       ],
       "user_rating": 7.683,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 713776
+      "tmdb_id": 713776,
+      "genre": "animation"
     }
   ]
 }

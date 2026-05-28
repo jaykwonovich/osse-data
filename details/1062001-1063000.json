@@ -1,6 +1,6 @@
 {
   "range": "1062001-1063000",
-  "updated_at": 1780003048395,
+  "updated_at": 1780004424434,
   "shows": [
     {
       "id": 1062722,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
       "plot_overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
       "genres": [
-        "Drama"
+        "drama",
+        "fantasy",
+        "horror"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1062722
+      "tmdb_id": 1062722,
+      "genre": "drama"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "541001-542000",
-  "updated_at": 1780003048368,
+  "updated_at": 1780004424410,
   "shows": [
     {
       "id": 541671,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1yktYsxkmUtUFTUnCAUaqG6FEiz.jpg",
       "plot_overview": "Taking place during the events of John Wick: Chapter 3 \u2013 Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
       "genres": [
-        "Crime"
+        "action",
+        "crime",
+        "thriller"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 541671
+      "tmdb_id": 541671,
+      "genre": "action"
     }
   ]
 }

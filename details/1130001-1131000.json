@@ -1,6 +1,6 @@
 {
   "range": "1130001-1131000",
-  "updated_at": 1780003048396,
+  "updated_at": 1780004424436,
   "shows": [
     {
       "id": 1130276,
@@ -10,7 +10,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/7AfBMebJS8mEtSV5ymdxEPpgvXb.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/84h6avqHvW2TgLfERuqYkQwzjp1.jpg",
       "plot_overview": "A new father going through a marital separation joins a dating app and matches with a beautiful but mysterious young woman... whose powers of seduction and manipulation entangle him in a mystery more horrifying than he could have ever imagined.",
-      "genres": [],
+      "genres": [
+        "horror",
+        "thriller"
+      ],
       "user_rating": 8.577,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1130276
+      "tmdb_id": 1130276,
+      "genre": "horror"
     }
   ]
 }

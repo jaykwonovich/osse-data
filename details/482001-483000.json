@@ -1,6 +1,6 @@
 {
   "range": "482001-483000",
-  "updated_at": 1780003048363,
+  "updated_at": 1780004424406,
   "shows": [
     {
       "id": 482321,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/40WhgHxqkVPJeFIGeVFF48DB5e5.jpg",
       "plot_overview": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 482321
+      "tmdb_id": 482321,
+      "genre": "animation"
     }
   ]
 }

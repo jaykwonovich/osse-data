@@ -1,6 +1,6 @@
 {
   "range": "28001-29000",
-  "updated_at": 1780003048295,
+  "updated_at": 1780004424336,
   "shows": [
     {
       "id": 28297,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aJcr2XzbFt2jqKtCnlw9Po1ZA2f.jpg",
       "plot_overview": "Timeworn Joe Collins and his fellow inmates live under the heavy thumb of the sadistic, power-tripping guard Captain Munsey. Only Collins' dreams of escape keep him going, but how can he possibly bust out of Munsey's chains?",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.32,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 28297
+      "tmdb_id": 28297,
+      "genre": "crime"
     },
     {
       "id": 28971,
@@ -37,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/43VCpwhBChDUMl2CERU61sQ3z5W.jpg",
       "plot_overview": "A fading music hall comedian tries to help a despondent ballet dancer learn to walk and to again feel confident about life.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.901,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 28971
+      "tmdb_id": 28971,
+      "genre": "comedy"
     },
     {
       "id": 28978,
@@ -63,8 +65,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bgoeWIDk4Grlyyt7pdty56Uz8TJ.jpg",
       "plot_overview": "Charlie, a wandering tramp, becomes a circus handyman - soon the star of the show - and falls in love with the circus owner's stepdaughter.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -84,7 +86,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 28978
+      "tmdb_id": 28978,
+      "genre": "comedy"
     }
   ]
 }

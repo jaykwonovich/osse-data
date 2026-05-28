@@ -1,6 +1,6 @@
 {
   "range": "57001-58000",
-  "updated_at": 1780003048303,
+  "updated_at": 1780004424345,
   "shows": [
     {
       "id": 57092,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yMNYyc5PBy4e70AcLsARvJW8NS3.jpg",
       "plot_overview": "Set against the backdrop of the Wars of the Roses, the series is the story of the women caught up in the protracted conflict for the throne of England.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.328,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 57092
+      "tmdb_id": 57092,
+      "genre": "drama"
     },
     {
       "id": 57158,
@@ -35,7 +36,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hwPnxzIgQFfXl5zP0Yh8bViCMzf.jpg",
       "plot_overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.578,
       "critic_score": null,
       "us_rating": null,
@@ -48,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 57158
+      "tmdb_id": 57158,
+      "genre": "action"
     },
     {
       "id": 57276,
@@ -59,8 +65,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fhIxXKTzGptL09psh3myhtndADD.jpg",
       "plot_overview": "The story of New York farmer, Abe Woodhull, who bands together with a group of childhood friends to form The Culper Ring, an unlikely group of spies who turn the tide in America\u2019s fight for independence.",
       "genres": [
-        "War & Politics",
-        "Drama"
+        "drama",
+        "war & politics"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -74,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 57276
+      "tmdb_id": 57276,
+      "genre": "drama"
     },
     {
       "id": 57586,
@@ -85,7 +92,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mFTlNXsPzny0geJLxdo3ddzFR1Q.jpg",
       "plot_overview": "African Cats captures the real-life love, humor and determination of the majestic kings of the savanna. The story features Mara, an endearing lion cub who strives to grow up with her mother\u2019s strength, spirit and wisdom; Sita, a fearless cheetah and single mother of five mischievous newborns; and Fang, a proud leader of the pride who must defend his family from a once banished lion.",
       "genres": [
-        "Documentary"
+        "adventure",
+        "documentary"
       ],
       "user_rating": 7.367,
       "critic_score": null,
@@ -99,7 +107,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 57586
+      "tmdb_id": 57586,
+      "genre": "adventure"
     },
     {
       "id": 57736,
@@ -110,8 +119,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nkPWqWZQ84WtbUY5RktSPPrNdWO.jpg",
       "plot_overview": "Set in 17th century Paris, musketeers Athos, Porthos, Aramis and D'Artagnan are members of an elite band of soldiers who fight for what is just. They are heroes in the truest and most abiding sense \u2013 men that can be trusted and believed in to do the right thing, regardless of personal risk.",
       "genres": [
-        "Drama",
-        "Action & Adventure"
+        "action & adventure",
+        "drama"
       ],
       "user_rating": 7.033,
       "critic_score": null,
@@ -131,7 +140,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 57736
+      "tmdb_id": 57736,
+      "genre": "action & adventure"
     },
     {
       "id": 57774,
@@ -142,8 +152,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rZ6AgXjB5pQG9xqTcvCHzEOK42r.jpg",
       "plot_overview": "Three friends in San Francisco who explore the fun and sometimes overwhelming options available to a new generation of gay men.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -157,7 +167,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 57774
+      "tmdb_id": 57774,
+      "genre": "comedy"
     }
   ]
 }

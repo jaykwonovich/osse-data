@@ -1,6 +1,6 @@
 {
   "range": "252001-253000",
-  "updated_at": 1780003048340,
+  "updated_at": 1780004424383,
   "shows": [
     {
       "id": 252605,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/os8wDJd1mux77dwDEZ4ZNgFHg2X.jpg",
       "plot_overview": "Awkward teen Harriet has always wanted to fit in. Until she gets scouted by a top London model agent and learns that some people are meant to stand out.",
       "genres": [
-        "Drama",
-        "Family",
-        "Comedy"
+        "comedy",
+        "drama",
+        "family"
       ],
       "user_rating": 7.093,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 252605
+      "tmdb_id": 252605,
+      "genre": "comedy"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "656001-657000",
-  "updated_at": 1780003048376,
+  "updated_at": 1780004424418,
   "shows": [
     {
       "id": 656690,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iYqoT9VBGdGTuLl3cjfbG7ZXDkP.jpg",
       "plot_overview": "This documentary-drama hybrid explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations.",
       "genres": [
-        "Documentary",
-        "Drama"
+        "documentary",
+        "drama"
       ],
       "user_rating": 7.459,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 656690
+      "tmdb_id": 656690,
+      "genre": "documentary"
     }
   ]
 }

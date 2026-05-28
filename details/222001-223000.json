@@ -1,6 +1,6 @@
 {
   "range": "222001-223000",
-  "updated_at": 1780003048336,
+  "updated_at": 1780004424378,
   "shows": [
     {
       "id": 222023,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gkw5MAAD8jr06RXT5pd2ibNN5bR.jpg",
       "plot_overview": "The inner workings of an American jury trial through the eyes of one particular juror, Ronald Gladden. Gladden is unaware the entire case is fake, everyone except him is an actor and everything that happens \u2014 inside the courtroom and out \u2014 is carefully planned.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.602,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 222023
+      "tmdb_id": 222023,
+      "genre": "comedy"
     },
     {
       "id": 222405,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mxs62JGInE5pQcWa7keHmEpY87P.jpg",
       "plot_overview": "The powerful real-life story of Lali Sokolov, a Jewish prisoner who was tasked with tattooing ID numbers on prisoners' arms in the Auschwitz-Birkenau concentration camp during World War II.",
       "genres": [
-        "Drama",
-        "War & Politics"
+        "drama",
+        "war & politics"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 222405
+      "tmdb_id": 222405,
+      "genre": "drama"
     },
     {
       "id": 222935,
@@ -62,7 +64,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oQaVV7p916HO5MDI820zzs1pin9.jpg",
       "plot_overview": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a patient named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -76,7 +79,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 222935
+      "tmdb_id": 222935,
+      "genre": "drama"
     }
   ]
 }

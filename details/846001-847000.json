@@ -1,6 +1,6 @@
 {
   "range": "846001-847000",
-  "updated_at": 1780003048387,
+  "updated_at": 1780004424426,
   "shows": [
     {
       "id": 846214,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jBUukLTCmXL79itbmK5JtQvImYS.jpg",
       "plot_overview": "Loki is banished from Asgard once again and must face his toughest opponents yet: the Simpsons and Springfield\u2019s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of superheroes and villains.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 846214
+      "tmdb_id": 846214,
+      "genre": "animation"
     },
     {
       "id": 846433,
@@ -38,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/Aqldsq65Nj1KAkQD2MzkZsAk5N5.jpg",
       "plot_overview": "A noir thriller set in Miami, the film follows an enforcer who discovers his femme fatale boss has branched out into cyber sex trafficking, putting a young runaway he\u2019s befriended at risk. He sacrifices everything to save the young girl from the deadly organization he\u2019s spent his life building.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.033,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 846433
+      "tmdb_id": 846433,
+      "genre": "crime"
     }
   ]
 }

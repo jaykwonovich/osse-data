@@ -1,6 +1,6 @@
 {
   "range": "594001-595000",
-  "updated_at": 1780003048371,
+  "updated_at": 1780004424414,
   "shows": [
     {
       "id": 594328,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hXz0u1wEYU7LogAPspwd1o4xBfj.jpg",
       "plot_overview": "Phineas and Ferb travel across the galaxy to rescue their older sister Candace, who has been abducted by aliens and taken to a utopia in a far-off planet, free of her pesky little brothers.",
       "genres": [
-        "Family",
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.247,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 594328
+      "tmdb_id": 594328,
+      "genre": "animation"
     },
     {
       "id": 594530,
@@ -38,9 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dRPCsvwgB1eyoBEtoGqulNhLd5C.jpg",
       "plot_overview": "Bo Peep explains what happened to herself and her sheep between the events of Toy Story 2 and Toy Story 4.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -54,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 594530
+      "tmdb_id": 594530,
+      "genre": "animation"
     }
   ]
 }

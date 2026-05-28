@@ -1,6 +1,6 @@
 {
   "range": "921001-922000",
-  "updated_at": 1780003048389,
+  "updated_at": 1780004424428,
   "shows": [
     {
       "id": 921655,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zQG1FYDqoWo2hYhE5GVZ1yrWSfh.jpg",
       "plot_overview": "Chasing his dream to join an elite K-9 unit, a state trooper partners with a fellow underdog: clever but naughty shelter pup Ruby. Based on a true story.",
       "genres": [
-        "Family",
-        "Drama"
+        "drama",
+        "family"
       ],
       "user_rating": 7.478,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 921655
+      "tmdb_id": 921655,
+      "genre": "drama"
     }
   ]
 }

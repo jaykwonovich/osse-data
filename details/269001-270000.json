@@ -1,6 +1,6 @@
 {
   "range": "269001-270000",
-  "updated_at": 1780003048343,
+  "updated_at": 1780004424385,
   "shows": [
     {
       "id": 269149,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
       "plot_overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 269149
+      "tmdb_id": 269149,
+      "genre": "animation"
     }
   ]
 }

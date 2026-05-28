@@ -1,6 +1,6 @@
 {
   "range": "565001-566000",
-  "updated_at": 1780003048369,
+  "updated_at": 1780004424412,
   "shows": [
     {
       "id": 565716,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vzmUkbi07g2dKVL6YCr8FX3LFgn.jpg",
       "plot_overview": "In post-industrial Ohio, a Chinese billionaire opens a new factory in the husk of an abandoned General Motors plant, hiring two thousand blue-collar Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 565716
+      "tmdb_id": 565716,
+      "genre": "documentary"
     }
   ]
 }

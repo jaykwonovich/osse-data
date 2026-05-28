@@ -1,6 +1,6 @@
 {
   "range": "416001-417000",
-  "updated_at": 1780003048360,
+  "updated_at": 1780004424400,
   "shows": [
     {
       "id": 416144,
@@ -11,7 +11,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aqSN0jyzGrJUqCe0OeVzSymcRbk.jpg",
       "plot_overview": "Mumbai, India, November 26, 2008. While several terrorists spread hatred and death through the city, others attack the Taj Mahal Palace Hotel. Both hotel staff and guests risk their lives, making unthinkable sacrifices to protect themselves and keep everyone safe while help arrives.",
       "genres": [
-        "Drama"
+        "action",
+        "drama",
+        "history",
+        "thriller"
       ],
       "user_rating": 7.535,
       "critic_score": null,
@@ -25,7 +28,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 416144
+      "tmdb_id": 416144,
+      "genre": "action"
     },
     {
       "id": 416477,
@@ -36,8 +40,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
       "plot_overview": "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family's expectations, and his true feelings.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -51,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 416477
+      "tmdb_id": 416477,
+      "genre": "comedy"
     },
     {
       "id": 416494,
@@ -62,7 +67,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qegwTsiVjrNY9nwkwzLJQ5r4204.jpg",
       "plot_overview": "After being uprooted by his parents' separation and unable to fit into his new hometown, a teenager stumbles upon a magical app that causes his social media updates to come true.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "fantasy",
+        "science fiction"
       ],
       "user_rating": 7.276,
       "critic_score": null,
@@ -76,7 +83,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 416494
+      "tmdb_id": 416494,
+      "genre": "comedy"
     }
   ]
 }

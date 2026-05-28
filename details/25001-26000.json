@@ -1,6 +1,6 @@
 {
   "range": "25001-26000",
-  "updated_at": 1780003048294,
+  "updated_at": 1780004424333,
   "shows": [
     {
       "id": 25037,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ojYxYkbO939H9OSayf5IKvbFA6i.jpg",
       "plot_overview": "General Candy, who's overseeing an English squad in 1943, is a veteran leader who doesn't have the respect of the men he's training and is considered out-of-touch with what's needed to win the war. But it wasn't always this way. Flashing back to his early career in the Boer War and World War I, we see a dashing young officer whose life has been shaped by three different women, and by a lasting friendship with a German soldier.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.444,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 25037
+      "tmdb_id": 25037,
+      "genre": "comedy"
     },
     {
       "id": 25318,
@@ -37,7 +38,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sOhrxGvSJOaAJdBXHu1vQImfGuj.jpg",
       "plot_overview": "The true story of WWII's notorious Sobibor Nazi death camp, where a courageous inmate orchestrates and leads the escape of over 300 prisoners.",
       "genres": [
-        "Drama"
+        "drama",
+        "thriller",
+        "tv movie",
+        "war"
       ],
       "user_rating": 7.214,
       "critic_score": null,
@@ -51,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 25318
+      "tmdb_id": 25318,
+      "genre": "drama"
     },
     {
       "id": 25405,
@@ -62,7 +67,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kSKz1rGzYdCp3cXwaJgmDzZfs2C.jpg",
       "plot_overview": "Lt. Col. Michael Strobl, a volunteer military escort accompanies the body of Lance Cpl. Chance Phelps to his hometown in Wyoming.",
       "genres": [
-        "Drama"
+        "drama",
+        "tv movie",
+        "war"
       ],
       "user_rating": 7.179,
       "critic_score": null,
@@ -76,7 +83,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 25405
+      "tmdb_id": 25405,
+      "genre": "drama"
     },
     {
       "id": 25468,
@@ -87,8 +95,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/r3zwnGMmRb7LaDNQluHVXAkZNoY.jpg",
       "plot_overview": "Two old friends meet for dinner; as one tells anecdotes detailing his experiences, the other notices their differing worldviews.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.505,
       "critic_score": null,
@@ -102,7 +110,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 25468
+      "tmdb_id": 25468,
+      "genre": "comedy"
     }
   ]
 }

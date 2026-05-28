@@ -1,6 +1,6 @@
 {
   "range": "530001-531000",
-  "updated_at": 1780003048367,
+  "updated_at": 1780004424410,
   "shows": [
     {
       "id": 530915,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
       "plot_overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "war"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 530915
+      "tmdb_id": 530915,
+      "genre": "drama"
     }
   ]
 }

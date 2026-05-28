@@ -1,6 +1,6 @@
 {
   "range": "582001-583000",
-  "updated_at": 1780003048370,
+  "updated_at": 1780004424413,
   "shows": [
     {
       "id": 582014,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gESm6yc2MZpSXakgqLF0OlLaRn1.jpg",
       "plot_overview": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 582014
+      "tmdb_id": 582014,
+      "genre": "crime"
     }
   ]
 }

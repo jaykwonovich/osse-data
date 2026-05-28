@@ -1,6 +1,6 @@
 {
   "range": "123001-124000",
-  "updated_at": 1780003048325,
+  "updated_at": 1780004424365,
   "shows": [
     {
       "id": 123192,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kv9KH67hsVJ8RLplUBoc1kZlAtY.jpg",
       "plot_overview": "In 1979 Manhattan, a young man is arrested for a shocking crime \u2014 and an unlikely investigator must solve the mystery behind it.",
       "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 123192
+      "tmdb_id": 123192,
+      "genre": "crime"
     },
     {
       "id": 123548,
@@ -38,9 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1swj9HxDkjzsO3yHlSwRA38hMFN.jpg",
       "plot_overview": "As revolution sweeps France, Richter Belmont fights to uphold his family's legacy and prevent the rise of a ruthless, power-hungry vampire ruler.",
       "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "animation",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.775,
       "critic_score": null,
@@ -54,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 123548
+      "tmdb_id": 123548,
+      "genre": "animation"
     }
   ]
 }

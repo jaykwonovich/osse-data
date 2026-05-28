@@ -1,6 +1,6 @@
 {
   "range": "16001-17000",
-  "updated_at": 1780003048291,
+  "updated_at": 1780004424330,
   "shows": [
     {
       "id": 16320,
@@ -10,7 +10,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3aGsZdB5ud6LmU9lppwTLh2fqH1.jpg",
       "plot_overview": "When the renegade crew of Serenity agrees to hide a fugitive on their ship, they find themselves in an action-packed battle between the relentless military might of a totalitarian regime who will destroy anything \u2013 or anyone \u2013 to get the girl back and the bloodthirsty creatures who roam the uncharted areas of space. But... the greatest danger of all may be on their ship.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.361,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +28,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 16320
+      "tmdb_id": 16320,
+      "genre": "action"
     },
     {
       "id": 16328,
@@ -34,7 +40,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cnf41Zu7ue1VgYdJEIYRC9w5yhS.jpg",
       "plot_overview": "A young American soldier, rendered in pseudocoma from an artillery shell from WWI, recalls his life leading up to that point.",
       "genres": [
-        "Drama"
+        "drama",
+        "war"
       ],
       "user_rating": 7.478,
       "critic_score": null,
@@ -48,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 16328
+      "tmdb_id": 16328,
+      "genre": "drama"
     },
     {
       "id": 16391,
@@ -59,7 +67,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hAyWibhJjMHyWXrMVX8N2MrEqF8.jpg",
       "plot_overview": "A group of Anglican nuns, led by Sister Clodagh, are sent to a mountain in the Himalayas. The climate in the region is hostile and the nuns are housed in an odd old palace. They work to establish a school and a hospital, but slowly their focus shifts. Sister Ruth falls for a government worker, Mr. Dean, and begins to question her vow of celibacy. As Sister Ruth obsesses over Mr. Dean, Sister Clodagh becomes immersed in her own memories of love.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -73,7 +81,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 16391
+      "tmdb_id": 16391,
+      "genre": "drama"
     },
     {
       "id": 16553,
@@ -84,7 +93,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/f5XOH9b9oV7yzIqhKDEXtDx0uz9.jpg",
       "plot_overview": "Ten-year-old Gabe Burton is just an average kid growing up in Manhattan until Rosemary Telesco walks into his karate class. But before Gabe can tell Rosemary how he feels, she reveals that she won't be going to public school any more. Gabe has a lot more to learn about life, love, and girls.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "romance"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -98,7 +108,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 16553
+      "tmdb_id": 16553,
+      "genre": "comedy"
     },
     {
       "id": 16562,
@@ -109,8 +120,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bgAaibovqLnGSOwpRYUL5Y1cIZf.jpg",
       "plot_overview": "Two former Olympians, one a figure skater and the other a hockey player, pin their hopes of one last shot at Olympic glory on one another. That is, of course, if they can keep from killing each other in the process...",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.227,
       "critic_score": null,
@@ -124,7 +135,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 16562
+      "tmdb_id": 16562,
+      "genre": "comedy"
     },
     {
       "id": 16608,
@@ -135,9 +147,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5ndWXHSKcdN6uYSPOLlxnSMuAEE.jpg",
       "plot_overview": "In 1880s Australia, a lawman offers renegade Charlie Burns a difficult choice. In order to save his younger brother from the gallows, Charlie must hunt down and kill his older brother, who is wanted for rape and murder. Venturing into one of the Outback's most inhospitable regions, Charlie faces a terrible moral dilemma that can end only in violence.",
       "genres": [
-        "Crime",
-        "Drama",
-        "Western"
+        "crime",
+        "drama",
+        "western"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -151,7 +163,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 16608
+      "tmdb_id": 16608,
+      "genre": "crime"
     },
     {
       "id": 16620,
@@ -162,7 +175,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jXDanAOPM6gmypt72WlkZwrPuK0.jpg",
       "plot_overview": "Los Angeles teenager Ritchie Valens becomes an overnight rock 'n' roll success in 1958, thanks to a love ballad called \"Donna\" that he wrote for his girlfriend. But as his star rises, Valens has conflicts with his jealous brother, Bob, and becomes haunted by a recurring nightmare of a plane crash just as he begins his first national tour alongside Buddy Holly.",
       "genres": [
-        "Drama"
+        "drama",
+        "music"
       ],
       "user_rating": 7.261,
       "critic_score": null,
@@ -182,7 +196,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 16620
+      "tmdb_id": 16620,
+      "genre": "drama"
     },
     {
       "id": 16633,
@@ -193,7 +208,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/d7gEJYEookiF0SHPD8fMXcCgpC9.jpg",
       "plot_overview": "Young writer Richard Collier is met on the opening night of his first play by an old lady who begs him to \"Come back to me\". Mystified, he tries to find out about her, and learns that she is a famous stage actress from the early twentieth century. Becoming more and more obsessed with her, by self-hypnosis he manages to travel back in time\u2014where he meets her.",
       "genres": [
-        "Drama"
+        "drama",
+        "fantasy",
+        "romance"
       ],
       "user_rating": 7.531,
       "critic_score": null,
@@ -207,7 +224,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 16633
+      "tmdb_id": 16633,
+      "genre": "drama"
     },
     {
       "id": 16869,
@@ -218,7 +236,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
       "plot_overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
       "genres": [
-        "Drama"
+        "drama",
+        "thriller",
+        "war"
       ],
       "user_rating": 8.218,
       "critic_score": null,
@@ -232,7 +252,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 16869
+      "tmdb_id": 16869,
+      "genre": "drama"
     },
     {
       "id": 16946,
@@ -243,7 +264,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dHXC5kwNrGUdZ3BCZW0C2ZF0n4A.jpg",
       "plot_overview": "David Attenborough looks at the extraordinary ends to which animals and plants go in order to survive. Featuring epic spectacles, amazing TV firsts and examples of new wildlife behaviour.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 8.39,
       "critic_score": null,
@@ -257,7 +278,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 16946
+      "tmdb_id": 16946,
+      "genre": "documentary"
     },
     {
       "id": 16997,
@@ -268,9 +290,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nWfpVLgioDXQsAbfL6UJxYz6d3d.jpg",
       "plot_overview": "Track the intertwined real-life stories of three U.S. Marines \u2013 Robert Leckie, John Basilone, and Eugene Sledge \u2013 across the vast canvas of the Pacific Theater during World War II. A companion piece to the 2001 miniseries Band of Brothers.",
       "genres": [
-        "Drama",
-        "Action & Adventure",
-        "War & Politics"
+        "action & adventure",
+        "drama",
+        "war & politics"
       ],
       "user_rating": 7.788,
       "critic_score": null,
@@ -284,7 +306,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 16997
+      "tmdb_id": 16997,
+      "genre": "action & adventure"
     }
   ]
 }

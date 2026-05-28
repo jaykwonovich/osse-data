@@ -1,6 +1,6 @@
 {
   "range": "308001-309000",
-  "updated_at": 1780003048349,
+  "updated_at": 1780004424390,
   "shows": [
     {
       "id": 308112,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5ECEMrt5DbTcXQqGfVwhtOtdcJl.jpg",
       "plot_overview": "Directors Judd Apatow and Michael Bonfiglio explore the life and legacy of Mel Brooks, one of the most enduring comedic voices of our time.",
       "genres": [
-        "Documentary",
-        "Comedy"
+        "comedy",
+        "documentary"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 308112
+      "tmdb_id": 308112,
+      "genre": "comedy"
     },
     {
       "id": 308136,
@@ -37,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6W62wf6iQnniUkqOoHFoBnv960j.jpg",
       "plot_overview": "Back to the earliest days of the community that would one day grow into beloved Hope Valley, exploring faith, courage, and the joy of building a life together from the ground up.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 9.0,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 308136
+      "tmdb_id": 308136,
+      "genre": "drama"
     },
     {
       "id": 308402,
@@ -62,7 +64,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ifCvSx7U1EiRoleSUtv1Nb9NBoS.jpg",
       "plot_overview": "Freshly divorced Lori and recently widowed minister Malcolm, friends with teens, navigate singlehood while questioning if their longstanding bond hints at a romantic future",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 8.5,
       "critic_score": null,
@@ -76,7 +78,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 308402
+      "tmdb_id": 308402,
+      "genre": "drama"
     },
     {
       "id": 308639,
@@ -87,9 +90,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4Yihb0wD1Jd2sQtNrKo9TOs8S3l.jpg",
       "plot_overview": "Malcolm is carefully surviving life in a tough neighborhood in Los Angeles while juggling college applications, academic interviews, and the SAT. A chance invitation to an underground party leads him into an adventure that could allow him to go from being a geek, to being dope, to ultimately being himself.",
       "genres": [
-        "Crime",
-        "Drama",
-        "Comedy"
+        "comedy",
+        "crime",
+        "drama"
       ],
       "user_rating": 7.052,
       "critic_score": null,
@@ -103,7 +106,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 308639
+      "tmdb_id": 308639,
+      "genre": "comedy"
     },
     {
       "id": 308670,
@@ -144,7 +148,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9FMgZLwXhB6kJHeLmg2fzI48W13.jpg",
       "plot_overview": "The rise and fall of the Inca is a story of a civilization marked by gold, power and ingenuity. From monumental cities and vast empires stretching across the Andes to dazzling treasures that inspired legends, the Incas conquered millions and reshaped South America. But their golden age ended suddenly, leaving behind mysteries, monumental ruins, and a legacy that still captivates the world.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -158,7 +162,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 308975
+      "tmdb_id": 308975,
+      "genre": "documentary"
     }
   ]
 }

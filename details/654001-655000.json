@@ -1,6 +1,6 @@
 {
   "range": "654001-655000",
-  "updated_at": 1780003048375,
+  "updated_at": 1780004424418,
   "shows": [
     {
       "id": 654754,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8ys6VgwZCIQ7nN4Nv4z7GPPuFMv.jpg",
       "plot_overview": "This documentary offers a deeply intimate look at extraordinary teenager Billie Eilish. Award-winning filmmaker R.J. Cutler follows her journey on the road, onstage, and at home with her family as the writing and recording of her debut album changes her life.",
       "genres": [
-        "Documentary"
+        "documentary",
+        "music"
       ],
       "user_rating": 8.225,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 654754
+      "tmdb_id": 654754,
+      "genre": "documentary"
     }
   ]
 }

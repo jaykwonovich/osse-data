@@ -1,6 +1,6 @@
 {
   "range": "209001-210000",
-  "updated_at": 1780003048334,
+  "updated_at": 1780004424375,
   "shows": [
     {
       "id": 209167,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/42iDbOtqWqPvI3FnP3KafLFrQq.jpg",
       "plot_overview": "Serial killer Jeffrey Dahmer confesses to his gruesome crimes in unguarded interviews, offering an unsettling view into a disturbed mind.",
       "genres": [
-        "Documentary",
-        "Crime"
+        "crime",
+        "documentary"
       ],
       "user_rating": 7.784,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 209167
+      "tmdb_id": 209167,
+      "genre": "crime"
     },
     {
       "id": 209332,
@@ -37,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/v0cVF5nO5FvcF5oLyQX5ayYpypu.jpg",
       "plot_overview": "A young boy growing up in the suburbs of 1980s Brisbane faces the harsh realities of life \u2014 and the looming dangers that threaten his family.",
       "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.324,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 209332
+      "tmdb_id": 209332,
+      "genre": "crime"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "300001-301000",
-  "updated_at": 1780003048347,
+  "updated_at": 1780004424389,
   "shows": [
     {
       "id": 300480,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/auLT0EPtqtt5MwryoC2MoAG595F.jpg",
       "plot_overview": "Follow the challenges of a group of feral British cats who seek companionship.",
       "genres": [
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -39,7 +39,8 @@
       "next_season": 1,
       "next_air_date": "2026-08-07",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "animation"
     },
     {
       "id": 300669,
@@ -50,7 +51,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3mIVOqDbYeucnw09TpjgHvSjXfu.jpg",
       "plot_overview": "A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong.",
       "genres": [
-        "Crime"
+        "crime",
+        "horror",
+        "thriller"
       ],
       "user_rating": 7.012,
       "critic_score": null,
@@ -64,7 +67,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 300669
+      "tmdb_id": 300669,
+      "genre": "crime"
     }
   ]
 }

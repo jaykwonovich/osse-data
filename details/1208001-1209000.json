@@ -1,6 +1,6 @@
 {
   "range": "1208001-1209000",
-  "updated_at": 1780003048399,
+  "updated_at": 1780004424437,
   "shows": [
     {
       "id": 1208348,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/euoXeFAOt9o7yAWA9zGZk7DdZWZ.jpg",
       "plot_overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1208348
+      "tmdb_id": 1208348,
+      "genre": "comedy"
     },
     {
       "id": 1208476,
@@ -37,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tEFYrXJXMBSNQNuHKJcobHQ3IRM.jpg",
       "plot_overview": "Ricky Gervais dishes out controversial takes on political correctness and oversensitivity in a taboo-busting comedy special about the end of humanity.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.171,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1208476
+      "tmdb_id": 1208476,
+      "genre": "comedy"
     }
   ]
 }

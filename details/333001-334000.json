@@ -1,6 +1,6 @@
 {
   "range": "333001-334000",
-  "updated_at": 1780003048353,
+  "updated_at": 1780004424394,
   "shows": [
     {
       "id": 333371,
@@ -11,7 +11,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
       "plot_overview": "After a catastrophic car crash, a young woman wakes up in a survivalist's underground bunker, where he claims to have saved her from an apocalyptic attack that has left the outside world uninhabitable.",
       "genres": [
-        "Drama"
+        "drama",
+        "horror",
+        "science fiction",
+        "thriller"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -25,7 +28,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 333371
+      "tmdb_id": 333371,
+      "genre": "drama"
     }
   ]
 }

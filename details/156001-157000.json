@@ -1,6 +1,6 @@
 {
   "range": "156001-157000",
-  "updated_at": 1780003048330,
+  "updated_at": 1780004424370,
   "shows": [
     {
       "id": 156022,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wNAfVj1ObGNye5fQM4tJXJGtU0.jpg",
       "plot_overview": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can\u2019t stand idly by \u2013 he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked a",
       "genres": [
-        "Crime"
+        "action",
+        "crime",
+        "thriller"
       ],
       "user_rating": 7.286,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 156022
+      "tmdb_id": 156022,
+      "genre": "action"
     },
     {
       "id": 156401,
@@ -36,7 +39,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/x9OGgP3B6xKFuD5Lu8fCyMRLLQl.jpg",
       "plot_overview": "Recently separated forty-something Toby Fleishman dives into the brave new world of app-based dating with the kind of success he never had dating in his youth. But just at the start of his first summer of sexual freedom, his ex-wife disappears, leaving him with the kids and no hint of where she is or whether she plans to return.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -50,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 156401
+      "tmdb_id": 156401,
+      "genre": "drama"
     },
     {
       "id": 156933,
@@ -61,8 +65,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dzsg5Akwfw1lsVoaPmvLcLSrKkh.jpg",
       "plot_overview": "A horrific murder upends the Chicago Prosecuting Attorney's Office when one of its own is suspected of the crime\u2014leaving the accused fighting to keep his family together.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.851,
       "critic_score": null,
@@ -76,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 156933
+      "tmdb_id": 156933,
+      "genre": "drama"
     }
   ]
 }

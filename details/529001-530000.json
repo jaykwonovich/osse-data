@@ -1,6 +1,6 @@
 {
   "range": "529001-530000",
-  "updated_at": 1780003048367,
+  "updated_at": 1780004424409,
   "shows": [
     {
       "id": 529203,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
       "plot_overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.44,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 529203
+      "tmdb_id": 529203,
+      "genre": "animation"
     },
     {
       "id": 529531,
@@ -38,7 +39,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/n26DIR4qNozRawHix7HtTSATGGL.jpg",
       "plot_overview": "The Australian comedian Hannah Gadsby is taking an anti-comedy stance in her newest special.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.894,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 529531
+      "tmdb_id": 529531,
+      "genre": "comedy"
     }
   ]
 }

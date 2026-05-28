@@ -1,6 +1,6 @@
 {
   "range": "1040001-1041000",
-  "updated_at": 1780003048394,
+  "updated_at": 1780004424433,
   "shows": [
     {
       "id": 1040148,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/r2u2MOaOLWSi6onaAo37Vf39xGy.jpg",
       "plot_overview": "Ruby Gillman, a sweet and awkward high school student, discovers she's a direct descendant of the warrior kraken queens. The kraken are sworn to protect the oceans of the world against the vain, power-hungry mermaids. Destined to inherit the throne from her commanding grandmother, Ruby must use her newfound powers to protect those she loves most.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1040148
+      "tmdb_id": 1040148,
+      "genre": "animation"
     }
   ]
 }

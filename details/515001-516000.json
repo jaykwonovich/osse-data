@@ -1,6 +1,6 @@
 {
   "range": "515001-516000",
-  "updated_at": 1780003048366,
+  "updated_at": 1780004424409,
   "shows": [
     {
       "id": 515001,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lTyikzfGgRX5ZqIfVeT26APYfRL.jpg",
       "plot_overview": "Jojo, a lonely German boy during World War II has his world shaken when he learns that his single mother is hiding a Jewish girl in their home. Influenced by a buffoonish imaginary version of Adolf Hitler, he begins to question his beliefs and confront the conflict between propaganda and his own humanity.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.986,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 515001
+      "tmdb_id": 515001,
+      "genre": "comedy"
     },
     {
       "id": 515042,
@@ -37,7 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/z2uuQasY4gQJ8VDAFki746JWeQJ.jpg",
       "plot_overview": "Follow Alex Honnold as he attempts to become the first person to ever free solo climb Yosemite's 3,000 foot high El Capitan wall. With no ropes or safety gear, this would arguably be the greatest feat in rock climbing history.",
       "genres": [
-        "Documentary"
+        "adventure",
+        "documentary"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -57,7 +59,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 515042
+      "tmdb_id": 515042,
+      "genre": "adventure"
     }
   ]
 }

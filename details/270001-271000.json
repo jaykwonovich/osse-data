@@ -1,6 +1,6 @@
 {
   "range": "270001-271000",
-  "updated_at": 1780003048343,
+  "updated_at": 1780004424386,
   "shows": [
     {
       "id": 270476,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
       "plot_overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Comedy"
+        "comedy",
+        "drama",
+        "mystery"
       ],
       "user_rating": 8.261,
       "critic_score": null,
@@ -32,7 +32,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-02",
       "next_episode": 8,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "comedy"
     },
     {
       "id": 270572,
@@ -43,8 +44,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
       "plot_overview": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
       "genres": [
-        "Drama",
-        "Action & Adventure"
+        "action & adventure",
+        "drama"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -58,7 +59,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 270572
+      "tmdb_id": 270572,
+      "genre": "action & adventure"
     },
     {
       "id": 270600,
@@ -69,8 +71,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ya1HVt01QYG6KLQr9SHvbI1LT5c.jpg",
       "plot_overview": "Set in present-day suburbia, a young couple returns to the husband's childhood home. Their world is upended when new neighbors move in across the street, bringing old secrets of the cul-de-sac to light, and new deadly threats shatter the illusion of their quiet little neighborhood.",
       "genres": [
-        "Comedy",
-        "Mystery"
+        "comedy",
+        "mystery"
       ],
       "user_rating": 5.189,
       "critic_score": null,
@@ -84,7 +86,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 270600
+      "tmdb_id": 270600,
+      "genre": "comedy"
     }
   ]
 }

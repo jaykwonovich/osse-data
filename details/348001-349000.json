@@ -1,6 +1,6 @@
 {
   "range": "348001-349000",
-  "updated_at": 1780003048355,
+  "updated_at": 1780004424395,
   "shows": [
     {
       "id": 348893,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tCsYQTkQx7vknDmTw666K1XxAdx.jpg",
       "plot_overview": "In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for. When he finds out the wife of the man he accidentally killed is in trouble, Boyka offers to fight in a series of impossible battles to free her from a life of servitude.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 348893
+      "tmdb_id": 348893,
+      "genre": "crime"
     }
   ]
 }

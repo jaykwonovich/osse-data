@@ -1,6 +1,6 @@
 {
   "range": "205001-206000",
-  "updated_at": 1780003048333,
+  "updated_at": 1780004424373,
   "shows": [
     {
       "id": 205002,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iPtKjG8dbfqYxPDUn28bVk5eDIJ.jpg",
       "plot_overview": "Meet the bizarre, amazing and breathtaking creatures and landscapes of a vibrant lost world; and discover how life not only survived during the cataclysmic events of this prehistoric era, but thrived.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -37,7 +37,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-11",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "documentary"
     },
     {
       "id": 205504,
@@ -48,8 +49,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/i6wdNXc1qCFIn8JxwrRWtak5ykP.jpg",
       "plot_overview": "Royal Crackers was once the king of snacks, but the empire is crumbling. When the family patriarch, tyrannical company founder Theodore Hornsby Sr. ends up in a \u201csuper coma,\u201d the rest of the Hornsbys will take their lack of talent and business acumen and try to make Royal Crackers the success it once was.",
       "genres": [
-        "Comedy",
-        "Animation"
+        "animation",
+        "comedy"
       ],
       "user_rating": 5.652,
       "critic_score": null,
@@ -63,7 +64,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 205504
+      "tmdb_id": 205504,
+      "genre": "animation"
     },
     {
       "id": 205715,
@@ -74,9 +76,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tldMHeR7UnihV5ffrxxM8cDhbtT.jpg",
       "plot_overview": "At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.",
       "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -90,7 +92,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 205715
+      "tmdb_id": 205715,
+      "genre": "action & adventure"
     }
   ]
 }

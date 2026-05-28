@@ -1,6 +1,6 @@
 {
   "range": "338001-339000",
-  "updated_at": 1780003048354,
+  "updated_at": 1780004424395,
   "shows": [
     {
       "id": 338766,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6s8BdbXyWf1SZJXupsepayLj3su.jpg",
       "plot_overview": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
       "genres": [
-        "Western",
-        "Crime",
-        "Drama"
+        "crime",
+        "drama",
+        "western"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 338766
+      "tmdb_id": 338766,
+      "genre": "crime"
     }
   ]
 }

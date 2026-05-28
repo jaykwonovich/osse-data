@@ -1,6 +1,6 @@
 {
   "range": "1100001-1101000",
-  "updated_at": 1780003048396,
+  "updated_at": 1780004424435,
   "shows": [
     {
       "id": 1100099,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
       "plot_overview": "An up-and-coming chef and a recent divorc\u00e9e find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1100099
+      "tmdb_id": 1100099,
+      "genre": "drama"
     }
   ]
 }

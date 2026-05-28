@@ -1,6 +1,6 @@
 {
   "range": "778001-779000",
-  "updated_at": 1780003048382,
+  "updated_at": 1780004424423,
   "shows": [
     {
       "id": 778810,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rEX8tOPvdgWqURQWx6oEzQqSWsM.jpg",
       "plot_overview": "The film explores the world of firefighters in 1920s New York City and tells the story of a 16-year-old girl who will have to become a hero in order to save her city.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.214,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 778810
+      "tmdb_id": 778810,
+      "genre": "animation"
     },
     {
       "id": 778855,
@@ -38,9 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7neeXze9HB3MTxDYyh3wwysydMN.jpg",
       "plot_overview": "Young Chickenhare is the adopted son of King Peter, a famous adventurer. Part chicken and part hare, he has a really tough time growing up and disguises himself as a hare to avoid the mockeries of his peers. When the day of the Royal Adventurer Society trials comes, Chickenhare, hampered by his disguise, fails miserably. But he is determined to grab a second chance and find the Scepter of the Hamster of Darkness, before his evil Uncle Lapin. The Scepter will give immense power to its holder. If ",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -54,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 778855
+      "tmdb_id": 778855,
+      "genre": "animation"
     }
   ]
 }

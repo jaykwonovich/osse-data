@@ -1,6 +1,6 @@
 {
   "range": "1002001-1003000",
-  "updated_at": 1780003048393,
+  "updated_at": 1780004424432,
   "shows": [
     {
       "id": 1002185,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/23HvwdsAQeL0MxN9fm3d8m1NaPw.jpg",
       "plot_overview": "The life of engineer and former NASA astronaut Jos\u00e9 M. Hern\u00e1ndez, the first migrant farmworker to go to space.",
       "genres": [
-        "Drama"
+        "drama",
+        "history"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1002185
+      "tmdb_id": 1002185,
+      "genre": "drama"
     }
   ]
 }

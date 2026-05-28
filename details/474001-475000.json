@@ -1,6 +1,6 @@
 {
   "range": "474001-475000",
-  "updated_at": 1780003048363,
+  "updated_at": 1780004424405,
   "shows": [
     {
       "id": 474354,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rKzHtW1bdboA89FwiyRBNTY7edc.jpg",
       "plot_overview": "On 22 July 2011, neo-Nazi terrorist Anders Behring Breivik murdered 77 young people attending a Labour Party Youth Camp on Ut\u00f8ya Island outside of Oslo. This three-part story focuses on the survivors, the political leadership of Norway, and the lawyers involved.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.073,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 474354
+      "tmdb_id": 474354,
+      "genre": "crime"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "512001-513000",
-  "updated_at": 1780003048366,
+  "updated_at": 1780004424408,
   "shows": [
     {
       "id": 512263,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4oQlzl5JsnmUF14LCNacOm9PUVl.jpg",
       "plot_overview": "The story of a child star attempting to mend his relationship with his law-breaking, alcohol-abusing father over the course of a decade, loosely based on Shia LaBeouf\u2019s life.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.033,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 512263
+      "tmdb_id": 512263,
+      "genre": "drama"
     },
     {
       "id": 512895,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nHNNKoqQOIWODk5mMyW8CvDisem.jpg",
       "plot_overview": "The love story between a pampered Cocker Spaniel named Lady and a streetwise mongrel named Tramp. Lady finds herself out on the street after her owners have a baby and is saved from a pack by Tramp, who tries to show her to live her life footloose and collar-free.",
       "genres": [
-        "Family",
-        "Comedy"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.163,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 512895
+      "tmdb_id": 512895,
+      "genre": "comedy"
     }
   ]
 }

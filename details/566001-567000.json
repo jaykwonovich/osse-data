@@ -1,6 +1,6 @@
 {
   "range": "566001-567000",
-  "updated_at": 1780003048369,
+  "updated_at": 1780004424412,
   "shows": [
     {
       "id": 566228,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/911kCT2YwGBhFz1CNDfb0La8ybG.jpg",
       "plot_overview": "With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world\u2019s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 566228
+      "tmdb_id": 566228,
+      "genre": "documentary"
     },
     {
       "id": 566525,
@@ -35,7 +36,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/r7K6Xt0RX4Mw0cAbZVw5cyb1Tux.jpg",
       "plot_overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.495,
       "critic_score": null,
       "us_rating": null,
@@ -48,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 566525
+      "tmdb_id": 566525,
+      "genre": "action"
     }
   ]
 }

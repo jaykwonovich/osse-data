@@ -1,6 +1,6 @@
 {
   "range": "831001-832000",
-  "updated_at": 1780003048385,
+  "updated_at": 1780004424425,
   "shows": [
     {
       "id": 831223,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ip8BQ2qhW2QoGpuTLyEDrhhvf54.jpg",
       "plot_overview": "The story of Jennifer Dulos, the wealthy Connecticut mother-of-five who mysteriously\u00a0vanished\u00a0on May 24, 2019. Jennifer believed that she had found her Prince Charming in Fotis Dulos, but by the time of her disappearance, their 13-year marriage had disintegrated and they were engaged in a bitter divorce and a contentious custody dispute for their five children. When she disappeared without a trace after dropping off her children at school, the police turned the spotlight on Fotis, who claimed th",
       "genres": [
-        "Mystery",
-        "Crime"
+        "crime",
+        "mystery"
       ],
       "user_rating": 7.792,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 831223
+      "tmdb_id": 831223,
+      "genre": "crime"
     },
     {
       "id": 831405,
@@ -37,7 +38,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4gWUlxECoziJ9TrGNfymNYxZf6Z.jpg",
       "plot_overview": "When Lois Lane is killed, an unhinged Superman decides to take control of the Earth. Determined to stop him, Batman creates a team of freedom-fighting heroes. But when superheroes go to war, can the world survive?",
       "genres": [
-        "Animation"
+        "action",
+        "animation",
+        "fantasy",
+        "science fiction"
       ],
       "user_rating": 7.331,
       "critic_score": null,
@@ -51,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 831405
+      "tmdb_id": 831405,
+      "genre": "action"
     },
     {
       "id": 831827,
@@ -62,8 +67,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/d3dkL8C7gfd8cv5xJLBJ3IG37nY.jpg",
       "plot_overview": "On an idyllic beach in the Pacific Northwest, curiosity gets the better of a young raccoon whose frustrated parent attempts to keep them both safe.",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 8.1,
       "critic_score": null,
@@ -77,7 +82,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 831827
+      "tmdb_id": 831827,
+      "genre": "animation"
     }
   ]
 }

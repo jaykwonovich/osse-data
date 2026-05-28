@@ -1,6 +1,6 @@
 {
   "range": "304001-305000",
-  "updated_at": 1780003048348,
+  "updated_at": 1780004424390,
   "shows": [
     {
       "id": 304550,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lJ6rDjQQmMHz5m4GTPDi6vJXVck.jpg",
       "plot_overview": "When a woman vanishes, police find bodies along Long Island's shore. Years of dead ends and overlooked victims stall the case until a new task force spots a suspect hiding in plain sight. With trial looming, insiders and families speak.",
       "genres": [
-        "Documentary",
-        "Crime"
+        "crime",
+        "documentary"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 304550
+      "tmdb_id": 304550,
+      "genre": "crime"
     }
   ]
 }

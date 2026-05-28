@@ -1,6 +1,6 @@
 {
   "range": "913001-914000",
-  "updated_at": 1780003048389,
+  "updated_at": 1780004424428,
   "shows": [
     {
       "id": 913823,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3oRwn7WIMt4Vtw65mnydDQHthwQ.jpg",
       "plot_overview": "A doomed love triangle between intrepid French scientists Katia and Maurice Krafft, and their beloved volcanoes.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.548,
       "critic_score": null,
@@ -31,7 +31,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 913823
+      "tmdb_id": 913823,
+      "genre": "documentary"
     },
     {
       "id": 913862,
@@ -42,7 +43,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5CUdP1wrg4S6yZrDHuW3JLohYLO.jpg",
       "plot_overview": "Investigators reveal how Boeing\u2019s alleged priority of profit over safety could have contributed to two catastrophic crashes within months of each other.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.049,
       "critic_score": null,
@@ -56,7 +57,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 913862
+      "tmdb_id": 913862,
+      "genre": "documentary"
     }
   ]
 }

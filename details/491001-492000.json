@@ -1,6 +1,6 @@
 {
   "range": "491001-492000",
-  "updated_at": 1780003048364,
+  "updated_at": 1780004424406,
   "shows": [
     {
       "id": 491418,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hgESQ2sK21j22Yode4w99jfwj44.jpg",
       "plot_overview": "When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 491418
+      "tmdb_id": 491418,
+      "genre": "comedy"
     },
     {
       "id": 491480,
@@ -37,7 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lB8mrGjgOxVuiGzBNbHfUrFw02d.jpg",
       "plot_overview": "Against all the odds, a thirteen year old boy in Malawi invents an unconventional way to save his family and village from famine.",
       "genres": [
-        "Drama"
+        "drama",
+        "history"
       ],
       "user_rating": 7.879,
       "critic_score": null,
@@ -51,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 491480
+      "tmdb_id": 491480,
+      "genre": "drama"
     }
   ]
 }

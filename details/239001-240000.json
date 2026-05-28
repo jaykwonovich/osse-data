@@ -1,6 +1,6 @@
 {
   "range": "239001-240000",
-  "updated_at": 1780003048338,
+  "updated_at": 1780004424381,
   "shows": [
     {
       "id": 239826,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
       "plot_overview": "Detective Ren\u00e9e Ballard plunges into a web of murder and corruption as she hunts a ruthless serial killer and uncovers a sinister police conspiracy that threatens everything she stands for. With her own demons nipping at her heels, Ballard must outwit both criminals and colleagues to bring long-overdue justice to the victims and their families.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 239826
+      "tmdb_id": 239826,
+      "genre": "crime"
     }
   ]
 }

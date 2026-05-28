@@ -1,6 +1,6 @@
 {
   "range": "217001-218000",
-  "updated_at": 1780003048335,
+  "updated_at": 1780004424377,
   "shows": [
     {
       "id": 217460,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6qDujYplO8CFrjtgUdqDesidxV.jpg",
       "plot_overview": "A group of courtesans attempts to escape the grasp of a notorious kingpin \u2013 but political corruption and blood ties make freedom a near-impossible goal.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.4,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 217460
+      "tmdb_id": 217460,
+      "genre": "crime"
     },
     {
       "id": 217993,
@@ -37,7 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uD6AG36ykWAwKfSrLBuaVmpRC0.jpg",
       "plot_overview": "The world is under attack by an alien armada led by the powerful Apokoliptian, Darkseid. A group of superheroes consisting of Superman, Batman, Wonder Woman, The Flash, Green Lantern, Cyborg, and Shazam must set aside their differences and gather together to defend Earth.",
       "genres": [
-        "Animation"
+        "action",
+        "animation"
       ],
       "user_rating": 7.437,
       "critic_score": null,
@@ -51,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 217993
+      "tmdb_id": 217993,
+      "genre": "action"
     }
   ]
 }

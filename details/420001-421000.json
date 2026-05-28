@@ -1,6 +1,6 @@
 {
   "range": "420001-421000",
-  "updated_at": 1780003048360,
+  "updated_at": 1780004424401,
   "shows": [
     {
       "id": 420622,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ecinn4iRxpQs4mW7Y7n0b41Qgbe.jpg",
       "plot_overview": "The unconventional life of Dr. William Marston, the Harvard psychologist and inventor who helped invent the modern lie detector test and co-created Wonder Woman in 1941.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 7.164,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 420622
+      "tmdb_id": 420622,
+      "genre": "drama"
     },
     {
       "id": 420809,
@@ -36,7 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/skvI4rYFrKXS73BJxWGH54Omlvv.jpg",
       "plot_overview": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
       "genres": [
-        "Family"
+        "adventure",
+        "family",
+        "fantasy"
       ],
       "user_rating": 7.296,
       "critic_score": null,
@@ -50,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 420809
+      "tmdb_id": 420809,
+      "genre": "adventure"
     },
     {
       "id": 420814,
@@ -61,8 +66,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hnh4oqnGPlVFEMUuw41nYxKRYf0.jpg",
       "plot_overview": "Christopher Robin, the boy who had countless adventures in the Hundred Acre Wood, has grown up and lost his way. Now it\u2019s up to his spirited and loveable stuffed animals, Winnie The Pooh, Tigger, Piglet, and the rest of the gang, to rekindle their friendship and remind him of endless days of childlike wonder and make-believe, when doing nothing was the very best something.",
       "genres": [
-        "Comedy",
-        "Family"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.304,
       "critic_score": null,
@@ -76,7 +81,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 420814
+      "tmdb_id": 420814,
+      "genre": "comedy"
     },
     {
       "id": 420817,
@@ -87,7 +93,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yJyZRrXaYUjhOrJGga8awbw4Rud.jpg",
       "plot_overview": "A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.",
       "genres": [
-        "Family"
+        "adventure",
+        "family",
+        "fantasy",
+        "romance"
       ],
       "user_rating": 7.085,
       "critic_score": null,
@@ -101,7 +110,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 420817
+      "tmdb_id": 420817,
+      "genre": "adventure"
     },
     {
       "id": 420818,
@@ -112,9 +122,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
       "plot_overview": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother\u2014and former heir to the throne\u2014has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
       "genres": [
-        "Drama",
-        "Family",
-        "Animation"
+        "animation",
+        "drama",
+        "family"
       ],
       "user_rating": 7.097,
       "critic_score": null,
@@ -128,7 +138,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 420818
+      "tmdb_id": 420818,
+      "genre": "animation"
     }
   ]
 }

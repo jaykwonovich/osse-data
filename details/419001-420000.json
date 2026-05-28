@@ -1,6 +1,6 @@
 {
   "range": "419001-420000",
-  "updated_at": 1780003048360,
+  "updated_at": 1780004424401,
   "shows": [
     {
       "id": 419430,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
       "plot_overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
       "genres": [
-        "Mystery"
+        "horror",
+        "mystery",
+        "thriller"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 419430
+      "tmdb_id": 419430,
+      "genre": "horror"
     },
     {
       "id": 419478,
@@ -36,7 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9T8sj5io4SGCBTHsk5H8LGcfKVe.jpg",
       "plot_overview": "Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 7.804,
       "critic_score": null,
@@ -56,7 +60,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 419478
+      "tmdb_id": 419478,
+      "genre": "drama"
     }
   ]
 }

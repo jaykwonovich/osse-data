@@ -1,6 +1,6 @@
 {
   "range": "41001-42000",
-  "updated_at": 1780003048299,
+  "updated_at": 1780004424341,
   "shows": [
     {
       "id": 41692,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/grThKpUYZ5nHppqAEvmF0pTSJa0.jpg",
       "plot_overview": "A pair of longtime friends and former Texas Rangers crave one last adventure before hanging-up their spurs. After stealing over a thousand head of cattle from rustlers south of the border, they recruit an unlikely crew of hands to drive the herd 3,000 miles north to the grasslands of Montana.",
       "genres": [
-        "Drama",
-        "Western"
+        "drama",
+        "western"
       ],
       "user_rating": 7.936,
       "critic_score": null,
@@ -32,7 +32,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 41692
+      "tmdb_id": 41692,
+      "genre": "drama"
     },
     {
       "id": 41727,
@@ -43,8 +44,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cwosIp9M9B6TcLnv0bBg86s0WUx.jpg",
       "plot_overview": "Banshee is an American drama television series set in a small town in Pennsylvania Amish country and features an enigmatic ex-con posing as a murdered sheriff who imposes his own brand of justice while also cooking up plans that serve his own interests.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.969,
       "critic_score": null,
@@ -58,7 +59,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 41727
+      "tmdb_id": 41727,
+      "genre": "crime"
     },
     {
       "id": 41889,
@@ -69,7 +71,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/e0Xx0uaVBjvT07WgY6ukNonUlZs.jpg",
       "plot_overview": "A thrilling and raw crime drama following a gang of drug dealers in Hackney, London - an honest and gripping rendition of inner-city drug and gang culture.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.444,
       "critic_score": null,
@@ -83,7 +85,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 41889
+      "tmdb_id": 41889,
+      "genre": "drama"
     }
   ]
 }

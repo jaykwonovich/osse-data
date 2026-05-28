@@ -1,6 +1,6 @@
 {
   "range": "147001-148000",
-  "updated_at": 1780003048329,
+  "updated_at": 1780004424369,
   "shows": [
     {
       "id": 147050,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/j7HEQlQoWA2weOR7jS1h5YbsEvM.jpg",
       "plot_overview": "When an intriguing novel appears at the bedside of a journalist whose career has been built on revealing transgressions, she is horrified to realize she's a key character in a long-buried story\u2014one that exposes her darkest secret.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.452,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 147050
+      "tmdb_id": 147050,
+      "genre": "drama"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "324001-325000",
-  "updated_at": 1780003048353,
+  "updated_at": 1780004424393,
   "shows": [
     {
       "id": 324002,
@@ -11,7 +11,7 @@
       "backdrop_url": null,
       "plot_overview": "The Sidemen are joined by a guest contestant as they take on a series of culinary challenges \u2013 a starter, main and dessert \u2013 with teams rotating every episode and individual points on the line.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -37,7 +37,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-18",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "reality"
     },
     {
       "id": 324004,
@@ -78,7 +79,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
       "plot_overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins\u2019 guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world\u2019s most dangerous killers.",
       "genres": [
-        "Crime"
+        "action",
+        "crime",
+        "thriller"
       ],
       "user_rating": 7.337,
       "critic_score": null,
@@ -92,7 +95,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 324552
+      "tmdb_id": 324552,
+      "genre": "action"
     },
     {
       "id": 324560,
@@ -103,8 +107,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aBY4QcxdLgaGLf3ZHUvuKjRm8yF.jpg",
       "plot_overview": "In the menacing inferno of the old North-American West, Liz is a genuine survivor who is hunted by a vengeful preacher for a crime she didn\u2019t commit.",
       "genres": [
-        "Western",
-        "Drama"
+        "drama",
+        "western"
       ],
       "user_rating": 7.156,
       "critic_score": null,
@@ -118,7 +122,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 324560
+      "tmdb_id": 324560,
+      "genre": "drama"
     },
     {
       "id": 324786,
@@ -129,7 +134,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
       "plot_overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "war"
       ],
       "user_rating": 8.2,
       "critic_score": null,
@@ -143,7 +150,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 324786
+      "tmdb_id": 324786,
+      "genre": "drama"
     },
     {
       "id": 324849,
@@ -154,9 +162,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rWYtghaUJSDvQm4jmXiCPXBHUdQ.jpg",
       "plot_overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -170,7 +178,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 324849
+      "tmdb_id": 324849,
+      "genre": "animation"
     },
     {
       "id": 324857,
@@ -181,7 +190,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
       "plot_overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
       "genres": [
-        "Animation"
+        "action",
+        "adventure",
+        "animation",
+        "science fiction"
       ],
       "user_rating": 8.393,
       "critic_score": null,
@@ -195,7 +207,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 324857
+      "tmdb_id": 324857,
+      "genre": "action"
     }
   ]
 }

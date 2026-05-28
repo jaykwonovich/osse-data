@@ -1,6 +1,6 @@
 {
   "range": "359001-360000",
-  "updated_at": 1780003048355,
+  "updated_at": 1780004424396,
   "shows": [
     {
       "id": 359724,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
       "plot_overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
       "genres": [
-        "Drama"
+        "action",
+        "drama",
+        "history"
       ],
       "user_rating": 8.007,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 359724
+      "tmdb_id": 359724,
+      "genre": "action"
     },
     {
       "id": 359940,
@@ -36,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
       "plot_overview": "After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.057,
       "critic_score": null,
@@ -51,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 359940
+      "tmdb_id": 359940,
+      "genre": "crime"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "940001-941000",
-  "updated_at": 1780003048390,
+  "updated_at": 1780004424429,
   "shows": [
     {
       "id": 940551,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gklkxY0veMajdCiGe6ggsh07VG2.jpg",
       "plot_overview": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
       "genres": [
-        "Family",
-        "Comedy",
-        "Animation"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 940551
+      "tmdb_id": 940551,
+      "genre": "animation"
     }
   ]
 }

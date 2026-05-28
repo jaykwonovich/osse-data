@@ -1,6 +1,6 @@
 {
   "range": "169001-170000",
-  "updated_at": 1780003048331,
+  "updated_at": 1780004424371,
   "shows": [
     {
       "id": 169813,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uTmwbGpjH9GVXz1kjyuKeW0jlI4.jpg",
       "plot_overview": "Grace, a compassionate young supervisor at a foster care facility, helps at-risk teens. But when a new charge dredges up memories of her own troubled past, Grace's tough exterior begins eroding.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.755,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 169813
+      "tmdb_id": 169813,
+      "genre": "drama"
     },
     {
       "id": 169881,
@@ -36,7 +37,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5VuOmxGfqu7yf05q8Q6SUKOh7oe.jpg",
       "plot_overview": "England, 1021: Born in a miserable mining town, Robert Cole swears to become a physician and vanquish disease and death. His harsh path of many years, a quest for knowledge besieged by countless challenges and sacrifices, leads him to the remote Isfahan, in Persia, where he meets Ibn Sina, the greatest healer of his time.",
       "genres": [
-        "Drama"
+        "adventure",
+        "drama",
+        "history"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -50,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 169881
+      "tmdb_id": 169881,
+      "genre": "adventure"
     }
   ]
 }

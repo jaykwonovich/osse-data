@@ -1,6 +1,6 @@
 {
   "range": "248001-249000",
-  "updated_at": 1780003048340,
+  "updated_at": 1780004424382,
   "shows": [
     {
       "id": 248830,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pr1vZU0cxyWEtrXSaozLZiLFfxr.jpg",
       "plot_overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi\u2014a teenage phenom with immense potential\u2014and maybe save himself.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.252,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 248830
+      "tmdb_id": 248830,
+      "genre": "comedy"
     },
     {
       "id": 248852,
@@ -37,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oGsh97JAA6LYu92B6TEswrjac8W.jpg",
       "plot_overview": "In the vast expanse of Yosemite National Park, a woman's death draws a federal agent into lawless terrain \u2014 where nature obeys no rules but its own.",
       "genres": [
-        "Mystery",
-        "Drama"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 248852
+      "tmdb_id": 248852,
+      "genre": "drama"
     }
   ]
 }

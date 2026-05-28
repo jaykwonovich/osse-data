@@ -1,6 +1,6 @@
 {
   "range": "828001-829000",
-  "updated_at": 1780003048385,
+  "updated_at": 1780004424425,
   "shows": [
     {
       "id": 828613,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/30COvn7g7PP58wBkrnnh7Ws9bJS.jpg",
       "plot_overview": "Two strangers believe in love but never seem to be able to find its true meaning. In a wild twist of events, fate puts each in the other's path on one stormy New Year's Eve.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "romance"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 828613
+      "tmdb_id": 828613,
+      "genre": "comedy"
     }
   ]
 }

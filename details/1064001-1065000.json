@@ -1,6 +1,6 @@
 {
   "range": "1064001-1065000",
-  "updated_at": 1780003048395,
+  "updated_at": 1780004424434,
   "shows": [
     {
       "id": 1064213,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg",
       "plot_overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.073,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1064213
+      "tmdb_id": 1064213,
+      "genre": "comedy"
     },
     {
       "id": 1064486,
@@ -37,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
       "plot_overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Drama"
+        "animation",
+        "comedy",
+        "drama"
       ],
       "user_rating": 8.032,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1064486
+      "tmdb_id": 1064486,
+      "genre": "animation"
     }
   ]
 }

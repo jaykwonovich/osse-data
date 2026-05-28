@@ -1,6 +1,6 @@
 {
   "range": "467001-468000",
-  "updated_at": 1780003048363,
+  "updated_at": 1780004424404,
   "shows": [
     {
       "id": 467062,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fHM3ChEYaoAEcCCpRokQzN2DBYy.jpg",
       "plot_overview": "A documentary on the life and career of one of the most influential film directors of all time, Steven Spielberg.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.557,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 467062
+      "tmdb_id": 467062,
+      "genre": "documentary"
     },
     {
       "id": 467244,
@@ -36,7 +37,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
       "plot_overview": "The commandant of Auschwitz, Rudolf H\u00f6ss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "war"
       ],
       "user_rating": 7.016,
       "critic_score": null,
@@ -50,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 467244
+      "tmdb_id": 467244,
+      "genre": "drama"
     }
   ]
 }

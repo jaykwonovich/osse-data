@@ -1,6 +1,6 @@
 {
   "range": "53001-54000",
-  "updated_at": 1780003048302,
+  "updated_at": 1780004424344,
   "shows": [
     {
       "id": 53565,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sE8MaqJVQObAKhyxIFNdTHRfQxv.jpg",
       "plot_overview": "Mickey Mouse, piloting a steamboat, delights his passenger, Minnie Mouse, by making musical instruments out of the menagerie on deck.",
       "genres": [
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 53565
+      "tmdb_id": 53565,
+      "genre": "animation"
     },
     {
       "id": 53606,
@@ -37,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jHaZMdEQVZUKsfE3yCZ1atSXEWw.jpg",
       "plot_overview": "Rebellious Mickey and good-natured Gus navigate the thrills and agonies of modern relationships.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.13,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 53606
+      "tmdb_id": 53606,
+      "genre": "comedy"
     }
   ]
 }

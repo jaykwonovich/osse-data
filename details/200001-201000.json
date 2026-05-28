@@ -1,6 +1,6 @@
 {
   "range": "200001-201000",
-  "updated_at": 1780003048332,
+  "updated_at": 1780004424373,
   "shows": [
     {
       "id": 200481,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4nQMxOfOYP4cYI69XRt9Gm1jA2E.jpg",
       "plot_overview": "It is just another evening commute until the rain starts to fall, and the city comes alive to the sound of dripping rain pipes, whistling awnings and gurgling gutters.",
       "genres": [
-        "Animation"
+        "animation",
+        "romance"
       ],
       "user_rating": 7.522,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 200481
+      "tmdb_id": 200481,
+      "genre": "animation"
     },
     {
       "id": 200875,
@@ -36,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
       "plot_overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace \u2013 all while a U.S. military operation seeks to exploit Derry for its own objectives.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 8.213,
       "critic_score": null,
@@ -51,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 200875
+      "tmdb_id": 200875,
+      "genre": "drama"
     }
   ]
 }

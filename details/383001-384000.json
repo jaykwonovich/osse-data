@@ -1,6 +1,6 @@
 {
   "range": "383001-384000",
-  "updated_at": 1780003048357,
+  "updated_at": 1780004424398,
   "shows": [
     {
       "id": 383498,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
       "plot_overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
       "genres": [
-        "Comedy"
+        "action",
+        "adventure",
+        "comedy"
       ],
       "user_rating": 7.49,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 383498
+      "tmdb_id": 383498,
+      "genre": "action"
     }
   ]
 }

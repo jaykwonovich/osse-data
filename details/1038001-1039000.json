@@ -1,6 +1,6 @@
 {
   "range": "1038001-1039000",
-  "updated_at": 1780003048394,
+  "updated_at": 1780004424433,
   "shows": [
     {
       "id": 1038392,
@@ -10,7 +10,9 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/byWgphT74ClOVa8EOGzYDkl8DVL.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/i8MupUe4xgmYXoRNAQMYvuoexSU.jpg",
       "plot_overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
-      "genres": [],
+      "genres": [
+        "horror"
+      ],
       "user_rating": 6.9,
       "critic_score": null,
       "us_rating": null,
@@ -29,7 +31,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1038392
+      "tmdb_id": 1038392,
+      "genre": "horror"
     }
   ]
 }

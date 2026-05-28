@@ -1,6 +1,6 @@
 {
   "range": "257001-258000",
-  "updated_at": 1780003048341,
+  "updated_at": 1780004424384,
   "shows": [
     {
       "id": 257519,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vk7AdYfhmCuWsRrTPMg7Yif8AAt.jpg",
       "plot_overview": "Shah Latif is a struggling actor on the cusp of landing the role of a lifetime, only to find himself thrust into a full blown existential crisis and trippy conspiracy thriller all at the same time.",
       "genres": [
-        "Drama",
-        "Comedy",
-        "Sci-Fi & Fantasy"
+        "comedy",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 6.424,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 257519
+      "tmdb_id": 257519,
+      "genre": "comedy"
     },
     {
       "id": 257724,
@@ -38,10 +39,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/e7lAmzEjBlHQAotmsTeiOmSJLjz.jpg",
       "plot_overview": "Hey A.J.! is a high-energy journey with a curious, driven and extremely imaginative young lady. Telling her tale will call for fast-paced escapades, memorable songs and \u201ctransplendent\u201d storytelling! AJ includes her family and friends in all her fantastical adventures. In collaboration with a Super Bowl Champion/Children's author, the SGS team brings this adventurous children's book series to television.",
       "genres": [
-        "Kids",
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family",
+        "kids"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -60,7 +61,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-05",
       "next_episode": 43,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "animation"
     },
     {
       "id": 257994,
@@ -71,7 +73,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
       "plot_overview": "When Niall's estranged 'brother' Ruben shows up at his wedding, it leads to an explosion of violence that catapults us back through their lives.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 8.957,
       "critic_score": null,
@@ -90,7 +92,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-02",
       "next_episode": 6,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "drama"
     }
   ]
 }

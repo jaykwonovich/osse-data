@@ -1,6 +1,6 @@
 {
   "range": "283001-284000",
-  "updated_at": 1780003048344,
+  "updated_at": 1780004424387,
   "shows": [
     {
       "id": 283151,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg",
       "plot_overview": "Hollis Shaw, a famed food influencer known for her delicious recipes, impeccable taste, and warm demeanor suffers a devastating loss. Unable to move forward, the death starts to expose the cracks in Hollis's picture-perfect life\u2014her strained marriage, her complicated relationship with her daughter, and her growing pursuit of validation from her followers. In an effort to overcome grief and find herself again, Hollis gets the idea to host a weekend away at her house on Nantucket with three friend",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -37,7 +37,8 @@
       "next_season": 1,
       "next_air_date": "2026-07-16",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "drama"
     },
     {
       "id": 283297,
@@ -48,8 +49,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8Y9wQ10waDsKV7jDC6QXmxAl0dO.jpg",
       "plot_overview": "Annie along with her twin brother were raised in New York by their single dad before they find out that their estranged grandfather left them an island on a lake in his will.",
       "genres": [
-        "Mystery",
-        "Drama"
+        "drama",
+        "mystery"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -76,7 +77,8 @@
       "next_season": 1,
       "next_air_date": "2026-08-05",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "drama"
     },
     {
       "id": 283304,
@@ -87,7 +89,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3gkLLksdSz3J1aBCU1ZODeAznjx.jpg",
       "plot_overview": "Follow Laura Ingalls, a young pioneer girl who comes-of-age during America's westward expansion, and her family as they travel across the country in search of a new life.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -115,7 +117,8 @@
       "next_season": 1,
       "next_air_date": "2026-07-09",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "drama"
     },
     {
       "id": 283587,
@@ -126,7 +129,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg",
       "plot_overview": "Based on the experiences of Agu, a child fighting in the civil war of a West African country. Follows Agu's journey as he's forced to join a group of soldiers. While he fears his commander and many of the men around him, his fledgling childhood has been brutally shattered by the war raging through his country, and he is at first torn between conflicting revulsion and fascination.",
       "genres": [
-        "Drama"
+        "drama",
+        "war"
       ],
       "user_rating": 7.586,
       "critic_score": null,
@@ -140,7 +144,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 283587
+      "tmdb_id": 283587,
+      "genre": "drama"
     },
     {
       "id": 283591,
@@ -151,7 +156,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ZjnHdS0gqPDcy0KI2azWR6HfEJ.jpg",
       "plot_overview": "The hidden memoir of an elderly woman confined to a mental hospital reveals the history of her passionate yet tortured life, and of the religious and political upheavals in Ireland during the 1920s and 30s.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 7.238,
       "critic_score": null,
@@ -165,7 +171,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 283591
+      "tmdb_id": 283591,
+      "genre": "drama"
     },
     {
       "id": 283995,
@@ -175,7 +182,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
       "plot_overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
@@ -188,7 +199,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 283995
+      "tmdb_id": 283995,
+      "genre": "action"
     }
   ]
 }

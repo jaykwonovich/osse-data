@@ -1,6 +1,6 @@
 {
   "range": "211001-212000",
-  "updated_at": 1780003048334,
+  "updated_at": 1780004424375,
   "shows": [
     {
       "id": 211178,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/m8BuLCx997QVljT0wdss62QaRre.jpg",
       "plot_overview": "The untold true story of four brave women who served as key espionage agents and turned the tide of the American Civil War in favor of the North, risking life and liberty to help win the war and preserve democracy. A Richmond Socialite and her daughter, a formerly enslaved African-American, and a courtesan build the first successful female spy ring.",
       "genres": [
-        "Drama",
-        "War & Politics",
-        "Action & Adventure"
+        "action & adventure",
+        "drama",
+        "war & politics"
       ],
       "user_rating": 4.3,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 211178
+      "tmdb_id": 211178,
+      "genre": "action & adventure"
     },
     {
       "id": 211288,
@@ -38,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
       "plot_overview": "Lone-wolf survivalist Colter Shaw roams the country as a \u201creward seeker,\u201d using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.53,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 211288
+      "tmdb_id": 211288,
+      "genre": "crime"
     },
     {
       "id": 211358,
@@ -64,8 +66,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zooSXzEZCqULXUZZpwqiLEGcid7.jpg",
       "plot_overview": "Fourteen-year old Reena Virk went to join friends at a party and never returned home. Through the eyes of Rebecca Godfrey and a local police officer, learn the hidden world of the young girls accused of the murder \u2014 revealing startling truths about the unlikely killer.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -79,7 +81,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 211358
+      "tmdb_id": 211358,
+      "genre": "crime"
     },
     {
       "id": 211387,
@@ -89,7 +92,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/4vFKKWPvCVDJTOWiwReBfpAMScP.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kv8KDbi2I4F4MNBbBMCR4LDqP6H.jpg",
       "plot_overview": "Agent Peggy Carter is relegated to a desk job and frustrated at her male boss and comrades' sexist dismissal of her place in the SSR. Ordered to work late one night, Carter gets an alert that the villain Zodiac has been spotted and decides to take care of it herself.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.247,
       "critic_score": null,
       "us_rating": null,
@@ -102,7 +109,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 211387
+      "tmdb_id": 211387,
+      "genre": "action"
     },
     {
       "id": 211684,
@@ -113,9 +121,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fkeVnvxVx4x2PdDOOzSblFUGTVt.jpg",
       "plot_overview": "After washing ashore in France, Daryl struggles to piece together how he got there and why, as he navigates a fractured, walker-infested landscape to find his way home. During his journey, Daryl has to protect a young boy, Laurent, who is seen as a messiah, while facing new, dangerous walker variants and the \"Power of the Living\" paramilitary group, as the connections he forms along the way complicate his plan to return home.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Drama"
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -129,7 +137,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 211684
+      "tmdb_id": 211684,
+      "genre": "action & adventure"
     }
   ]
 }

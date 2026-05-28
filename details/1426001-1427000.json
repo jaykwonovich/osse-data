@@ -1,6 +1,6 @@
 {
   "range": "1426001-1427000",
-  "updated_at": 1780003048407,
+  "updated_at": 1780004424441,
   "shows": [
     {
       "id": 1426776,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg",
       "plot_overview": "What will be her last straw? A devastatingly bad day pushes a hardworking single mother to the breaking point \u2014 and into a shocking act of desperation.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1426776
+      "tmdb_id": 1426776,
+      "genre": "crime"
     }
   ]
 }

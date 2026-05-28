@@ -1,6 +1,6 @@
 {
   "range": "278001-279000",
-  "updated_at": 1780003048343,
+  "updated_at": 1780004424386,
   "shows": [
     {
       "id": 278178,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg",
       "plot_overview": "An innocent father serving life for the murder of his own son receives evidence that his child may still be alive\u2014and must break out of prison to find out the truth.",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Crime"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -38,7 +38,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-18",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "crime"
     },
     {
       "id": 278624,
@@ -49,8 +50,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/61fYaqL1CyMyA5c7Zm9zcMcFqHl.jpg",
       "plot_overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life\u2014and a way out.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -78,7 +79,8 @@
       "next_season": 1,
       "next_air_date": "2026-07-14",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "crime"
     }
   ]
 }

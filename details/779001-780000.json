@@ -1,6 +1,6 @@
 {
   "range": "779001-780000",
-  "updated_at": 1780003048382,
+  "updated_at": 1780004424423,
   "shows": [
     {
       "id": 779047,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9B4hHMsnjxo8NnTcKIfg3cjJzMi.jpg",
       "plot_overview": "In a vibrant city pulsating with rhythm and movement, an elderly man and his young-at-heart wife rekindle their youthful passion for life and each other on one magical night.",
       "genres": [
-        "Animation",
-        "Drama",
-        "Family"
+        "animation",
+        "drama",
+        "family"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 779047
+      "tmdb_id": 779047,
+      "genre": "animation"
     },
     {
       "id": 779782,
@@ -38,7 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tSxbUnrnWlR5dQvUgqMI7sACmFD.jpg",
       "plot_overview": "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains \u2014 and find themselves on opposing sides of the battle between good and evil.",
       "genres": [
-        "Comedy"
+        "adventure",
+        "comedy",
+        "fantasy"
       ],
       "user_rating": 7.03,
       "critic_score": null,
@@ -52,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 779782
+      "tmdb_id": 779782,
+      "genre": "adventure"
     }
   ]
 }

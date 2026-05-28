@@ -1,6 +1,6 @@
 {
   "range": "429001-430000",
-  "updated_at": 1780003048361,
+  "updated_at": 1780004424401,
   "shows": [
     {
       "id": 429617,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/34jW8LvjRplM8Pv06cBFDpLlenR.jpg",
       "plot_overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 429617
+      "tmdb_id": 429617,
+      "genre": "action"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "727001-728000",
-  "updated_at": 1780003048379,
+  "updated_at": 1780004424421,
   "shows": [
     {
       "id": 727306,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pYp4rYNHp3n1dSUbPh3aHtf60wX.jpg",
       "plot_overview": "The story of Ray-Ray McElrathbey, a freshman football player for Clemson University, who secretly raised his younger brother on campus after his home life became too unsteady.",
       "genres": [
-        "Family",
-        "Drama"
+        "drama",
+        "family"
       ],
       "user_rating": 7.527,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 727306
+      "tmdb_id": 727306,
+      "genre": "drama"
     }
   ]
 }

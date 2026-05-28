@@ -1,6 +1,6 @@
 {
   "range": "317001-318000",
-  "updated_at": 1780003048350,
+  "updated_at": 1780004424391,
   "shows": [
     {
       "id": 317264,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rpTXtmNfu9oDtXpURY1phU3NVkW.jpg",
       "plot_overview": "Explores lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more, showing that when loyalty turns to lies, the truth does more than break hearts - it changes everything.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 317264
+      "tmdb_id": 317264,
+      "genre": "documentary"
     },
     {
       "id": 317265,
@@ -82,9 +83,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zfIBE61QElvyI1osp36ja5IPqnK.jpg",
       "plot_overview": "The new short-form anthology series, \u201cLocker Diaries,\u201d stars characters from the popular Disney Channel franchise, Phineas And Ferb. \u201cLocker Diaries\u201d offers viewers a fresh perspective on their favorite shows and movies, inviting them to peek into the hallways and lives of their favorite characters as they open their school lockers. With each locker opened, a new short adventure is revealed, ranging from the dramatic and funny to the chilling and surprising.",
       "genres": [
-        "Animation",
-        "Kids",
-        "Family"
+        "animation",
+        "family",
+        "kids"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -107,7 +108,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-06",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "animation"
     },
     {
       "id": 317494,
@@ -150,7 +152,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/awZwLXuPAGZEARF3y18S3qWt5LH.jpg",
       "plot_overview": "A young girl overcomes her disadvantaged upbringing in the slums of Uganda to become a Chess master.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.232,
       "critic_score": null,
@@ -164,7 +166,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 317557
+      "tmdb_id": 317557,
+      "genre": "drama"
     },
     {
       "id": 317875,
@@ -175,7 +178,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wfFwC0x577iPBcJwIykj9cCIXAY.jpg",
       "plot_overview": "NSYNC's Joey Fatone exposes the secret machinery behind manufactured superstardom \u2014 and its devastating human cost. Candid interviews with artists from Boyz II Men, 98 Degrees, and others reveal the darker realities of power struggles and exploitation.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 8.7,
       "critic_score": null,
@@ -189,7 +192,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 317875
+      "tmdb_id": 317875,
+      "genre": "documentary"
     },
     {
       "id": 317952,
@@ -200,8 +204,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lHFsMi0uprGSD25sIR1OVeqFiFR.jpg",
       "plot_overview": "In the Mexican state of Michoac\u00e1n, Dr. Jose Mireles, a small-town physician known as \"El Doctor,\" shepherds a citizen uprising against the Knights Templar, the violent drug cartel that has wreaked havoc on the region for years. Meanwhile, in Arizona's Altar Valley\u2014a narrow, 52-mile-long desert corridor known as Cocaine Alley\u2014Tim \"Nailer\" Foley, an American veteran, heads a small paramilitary group called Arizona Border Recon, whose goal is to halt Mexico\u2019s drug wars from seeping across our borde",
       "genres": [
-        "Drama",
-        "Documentary"
+        "documentary",
+        "drama"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -215,7 +219,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 317952
+      "tmdb_id": 317952,
+      "genre": "documentary"
     }
   ]
 }

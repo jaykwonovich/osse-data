@@ -1,6 +1,6 @@
 {
   "range": "618001-619000",
-  "updated_at": 1780003048373,
+  "updated_at": 1780004424415,
   "shows": [
     {
       "id": 618344,
@@ -11,7 +11,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/miChhr7EXynB2R5JLvMcz2oBgi2.jpg",
       "plot_overview": "Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good \u2013 the Justice League, Teen Titans, Suicide Squad and assorted others \u2013 must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.",
       "genres": [
-        "Animation"
+        "action",
+        "adventure",
+        "animation",
+        "fantasy"
       ],
       "user_rating": 8.198,
       "critic_score": null,
@@ -25,7 +28,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 618344
+      "tmdb_id": 618344,
+      "genre": "action"
     },
     {
       "id": 618588,
@@ -36,7 +40,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jw4SNkaSgbrO7VJPsZUZqbBg1Ph.jpg",
       "plot_overview": "Over the course of ten days and 435 miles, an unbreakable bond is forged between pro adventure racer Michael Light and a scrappy street dog companion dubbed Arthur. As the team is pushed to their outer limits of endurance in the race, Arthur redefines what victory, loyalty and friendship truly mean.",
       "genres": [
-        "Drama"
+        "adventure",
+        "drama"
       ],
       "user_rating": 7.546,
       "critic_score": null,
@@ -50,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 618588
+      "tmdb_id": 618588,
+      "genre": "adventure"
     }
   ]
 }

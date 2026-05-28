@@ -1,6 +1,6 @@
 {
   "range": "489001-490000",
-  "updated_at": 1780003048364,
+  "updated_at": 1780004424406,
   "shows": [
     {
       "id": 489999,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jOqOduY1tLhXgVZo7ypCtDVr0mM.jpg",
       "plot_overview": "After David Kim's 16-year-old daughter goes missing, a local investigation is opened and a detective is assigned to the case. But 37 hours later and without a single lead, David decides to search the one place no one has looked yet, where all secrets are kept today: his daughter's laptop.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 489999
+      "tmdb_id": 489999,
+      "genre": "drama"
     }
   ]
 }

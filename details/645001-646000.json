@@ -1,6 +1,6 @@
 {
   "range": "645001-646000",
-  "updated_at": 1780003048375,
+  "updated_at": 1780004424417,
   "shows": [
     {
       "id": 645757,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1rpyQcniNIJgsE0wKLOqPk2n7b7.jpg",
       "plot_overview": "It's an unforgettable Christmas for the townsfolk of Wellington-on-Sea when the worst snowstorm in history alters everyone's plans \u2014 including Santa's.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.15,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 645757
+      "tmdb_id": 645757,
+      "genre": "animation"
     },
     {
       "id": 645886,
@@ -38,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kbOB9DGl8qwhDRcXOmXfmcmadeD.jpg",
       "plot_overview": "A woman is released from prison after serving a sentence for a violent crime and re-enters a society that refuses to forgive her past.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.415,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 645886
+      "tmdb_id": 645886,
+      "genre": "crime"
     }
   ]
 }

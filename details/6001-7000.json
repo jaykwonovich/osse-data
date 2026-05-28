@@ -1,6 +1,6 @@
 {
   "range": "6001-7000",
-  "updated_at": 1780003048285,
+  "updated_at": 1780004424323,
   "shows": [
     {
       "id": 6127,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1lBEfsnzUkxtxzvFwimENpM6bEP.jpg",
       "plot_overview": "The adventures of Miss Jane Marple, an elderly spinster living in the quiet little village of St Mary Mead. During her many visits to friends and relatives in other villages, Miss Marple often stumbles upon mysterious murders which she helps solve. Although the police are sometimes reluctant to accept Miss Marple's help, her reputation and unparalleled powers of observation eventually win them over.",
       "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.801,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 6127
+      "tmdb_id": 6127,
+      "genre": "crime"
     },
     {
       "id": 6549,
@@ -38,10 +39,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uPbpYFYXlUdTDEmfoubKNfdEZZx.jpg",
       "plot_overview": "Wolverine and the X-Men must join together again to not only battle the increasingly powerful Mutant Response Division, but also to prevent a catastrophic future that Xavier has warned Wolverine must never come to pass.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.479,
       "critic_score": null,
@@ -55,7 +56,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 6549
+      "tmdb_id": 6549,
+      "genre": "action & adventure"
     },
     {
       "id": 6618,
@@ -66,9 +68,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uesigtATJKTf38YyUPuxD5X9YGj.jpg",
       "plot_overview": "Total Drama Island focuses on twenty-two teenagers' arrival at Camp Wawanakwa to compete on a reality television show. The contestants are divided into two teams and must compete in challenges every three days. While the winning team earns invincibility, the losing team has to vote off one of their own players. Whoever is voted off must walk the Dock of Shame to the Boat of Losers and leave the island. The teams eventually dissolve and the elimination process continues until the last contestant ",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.509,
       "critic_score": null,
@@ -82,7 +84,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 6618
+      "tmdb_id": 6618,
+      "genre": "animation"
     },
     {
       "id": 6673,
@@ -93,9 +96,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/80KgNNF0bpoDvU5iNXT07Lgb2wL.jpg",
       "plot_overview": "A young boy who grew up inside a talking whale sets sail for magical Candied Island, accompanied by Capt. K'nuckles, a crusty old pirate.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Comedy",
-        "Animation"
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.061,
       "critic_score": null,
@@ -109,7 +112,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 6673
+      "tmdb_id": 6673,
+      "genre": "animation"
     },
     {
       "id": 6782,
@@ -120,12 +124,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nfAUOxd3qeZZpfPESIivZOyvije.jpg",
       "plot_overview": "\"Pucca\" is a TV series based on a Flash animation series published by Vooz Character Systems. It follows the trails and exploits of a South Korean girl named Pucca who is insanely in love with a prideful ninja named Garu. Meanwhile, Garu and Pucca help their town of Sooga Village out when evil ninjas attack, as well as diffuse a lot of the absurd situations that frequently plague the town. This show could best be described as a cleaned-up version of South Park meets Looney Tunes meets Naruto. Th",
       "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Comedy",
-        "Kids",
-        "Family",
-        "Action & Adventure"
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family",
+        "kids",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.199,
       "critic_score": null,
@@ -139,7 +143,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 6782
+      "tmdb_id": 6782,
+      "genre": "action & adventure"
     },
     {
       "id": 6978,
@@ -150,7 +155,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ehHskGgDUchxGyG33vUQZWNng43.jpg",
       "plot_overview": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fianc\u00e9e is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm.",
       "genres": [
-        "Comedy"
+        "action",
+        "adventure",
+        "comedy",
+        "fantasy"
       ],
       "user_rating": 7.206,
       "critic_score": null,
@@ -164,7 +172,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 6978
+      "tmdb_id": 6978,
+      "genre": "action"
     }
   ]
 }

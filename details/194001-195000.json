@@ -1,6 +1,6 @@
 {
   "range": "194001-195000",
-  "updated_at": 1780003048331,
+  "updated_at": 1780004424372,
   "shows": [
     {
       "id": 194583,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
       "plot_overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
       "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.931,
       "critic_score": null,
@@ -32,7 +32,8 @@
       "next_season": 3,
       "next_air_date": "2026-07-26",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "action & adventure"
     },
     {
       "id": 194764,
@@ -43,8 +44,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4TdmuuwiIiKw3JOjIuhdgYxRXnN.jpg",
       "plot_overview": "With the city in peril following the seawall's collapse, Oswald \"Oz\" Cobb seeks to fill the power vacuum left by the death of Carmine Falcone and finally give his mother Francis the life he's always promised. But first, Oz must confront his enemies and his own demoralizing reputation as \"the Penguin.\"",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.4,
       "critic_score": null,
@@ -58,7 +59,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 194764
+      "tmdb_id": 194764,
+      "genre": "crime"
     },
     {
       "id": 194766,
@@ -69,7 +71,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
       "plot_overview": "Every summer, Belly and her family head to the Fishers\u2019 beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It\u2019s a summer of first love, first heartbreak and growing up \u2014 it's the summer she turns pretty.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 8.1,
       "critic_score": null,
@@ -83,7 +85,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 194766
+      "tmdb_id": 194766,
+      "genre": "drama"
     }
   ]
 }

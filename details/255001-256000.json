@@ -1,6 +1,6 @@
 {
   "range": "255001-256000",
-  "updated_at": 1780003048341,
+  "updated_at": 1780004424384,
   "shows": [
     {
       "id": 255661,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8mmDLb108DoFZlE8sfc64TRqLvm.jpg",
       "plot_overview": "Sherlock Holmes is a disgraced young man, raw and unfiltered, when he finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy that changes his life forever.",
       "genres": [
-        "Action & Adventure",
-        "Mystery"
+        "action & adventure",
+        "mystery"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 255661
+      "tmdb_id": 255661,
+      "genre": "action & adventure"
     },
     {
       "id": 255760,
@@ -37,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uTjjlqLdhRppddN4eCjMZlp387z.jpg",
       "plot_overview": "A life-long housecat decides that he doesn\u2019t want to live with people anymore. Loosely inspired by a real break-up and the cat caught in the middle, Kevin dares to ask himself, \"Is there a world where I don\u2019t do the owner thing and am just\u2026 single for the rest of my life?\"",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Sci-Fi & Fantasy"
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
       ],
       "user_rating": 5.8,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 255760
+      "tmdb_id": 255760,
+      "genre": "animation"
     },
     {
       "id": 255868,
@@ -64,9 +66,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg",
       "plot_overview": "Riley is growing up and when her memories need some extra processing, Joy and the rest of the Core Emotions send them to Dream Productions.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.755,
       "critic_score": null,
@@ -80,7 +82,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 255868
+      "tmdb_id": 255868,
+      "genre": "animation"
     }
   ]
 }

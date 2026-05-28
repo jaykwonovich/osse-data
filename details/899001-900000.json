@@ -1,6 +1,6 @@
 {
   "range": "899001-900000",
-  "updated_at": 1780003048389,
+  "updated_at": 1780004424428,
   "shows": [
     {
       "id": 899082,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8rft8A9nH43IReybFtYt21ezfMK.jpg",
       "plot_overview": "An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 899082
+      "tmdb_id": 899082,
+      "genre": "documentary"
     },
     {
       "id": 899112,
@@ -36,7 +37,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
       "plot_overview": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn\u2019t prepared for a surprise combatant: Santa Claus is on the grounds, and he\u2019s about to show why this Nick is no saint.",
       "genres": [
-        "Comedy"
+        "action",
+        "comedy",
+        "fantasy",
+        "thriller"
       ],
       "user_rating": 7.223,
       "critic_score": null,
@@ -50,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 899112
+      "tmdb_id": 899112,
+      "genre": "action"
     }
   ]
 }

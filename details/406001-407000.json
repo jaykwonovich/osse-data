@@ -1,6 +1,6 @@
 {
   "range": "406001-407000",
-  "updated_at": 1780003048359,
+  "updated_at": 1780004424399,
   "shows": [
     {
       "id": 406785,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bAqEMKPKkYjH3JeW4jeda2AogpR.jpg",
       "plot_overview": "This is the story of the internal struggle between a man's Brain\u2014a pragmatic protector who calculates his every move, and his Heart\u2014a free-spirited adventurer who wants to let loose.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.828,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 406785
+      "tmdb_id": 406785,
+      "genre": "animation"
     },
     {
       "id": 406990,
@@ -38,7 +39,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/j7ij93mtHXAF8D3PjRSEaKPHpIE.jpg",
       "plot_overview": "In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.",
       "genres": [
-        "Mystery"
+        "action",
+        "mystery",
+        "science fiction",
+        "thriller"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -52,7 +56,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 406990
+      "tmdb_id": 406990,
+      "genre": "action"
     }
   ]
 }

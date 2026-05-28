@@ -1,6 +1,6 @@
 {
   "range": "183001-184000",
-  "updated_at": 1780003048331,
+  "updated_at": 1780004424371,
   "shows": [
     {
       "id": 183011,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/35RYg50KXsenD4TrpZzzBm2X4cK.jpg",
       "plot_overview": "The Flash finds himself in a war-torn alternate timeline and teams up with alternate versions of his fellow heroes to restore the timeline.",
       "genres": [
-        "Animation"
+        "action",
+        "animation",
+        "science fiction"
       ],
       "user_rating": 7.883,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 183011
+      "tmdb_id": 183011,
+      "genre": "action"
     }
   ]
 }

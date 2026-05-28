@@ -1,6 +1,6 @@
 {
   "range": "693001-694000",
-  "updated_at": 1780003048377,
+  "updated_at": 1780004424419,
   "shows": [
     {
       "id": 693134,
@@ -10,7 +10,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
       "plot_overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
-      "genres": [],
+      "genres": [
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 8.128,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 693134
+      "tmdb_id": 693134,
+      "genre": "adventure"
     }
   ]
 }

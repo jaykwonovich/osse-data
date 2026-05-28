@@ -1,6 +1,6 @@
 {
   "range": "1114001-1115000",
-  "updated_at": 1780003048396,
+  "updated_at": 1780004424435,
   "shows": [
     {
       "id": 1114513,
@@ -10,7 +10,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
       "plot_overview": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
-      "genres": [],
+      "genres": [
+        "horror",
+        "thriller"
+      ],
       "user_rating": 7.121,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1114513
+      "tmdb_id": 1114513,
+      "genre": "horror"
     }
   ]
 }

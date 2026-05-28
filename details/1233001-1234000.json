@@ -1,6 +1,6 @@
 {
   "range": "1233001-1234000",
-  "updated_at": 1780003048399,
+  "updated_at": 1780004424438,
   "shows": [
     {
       "id": 1233413,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/oucvKATkCI77ngtPjxAI9SAZW42.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
       "plot_overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "genres": [],
+      "genres": [
+        "action",
+        "horror",
+        "thriller"
+      ],
       "user_rating": 7.489,
       "critic_score": null,
       "us_rating": null,
@@ -29,7 +33,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1233413
+      "tmdb_id": 1233413,
+      "genre": "action"
     }
   ]
 }

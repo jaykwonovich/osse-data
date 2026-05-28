@@ -1,6 +1,6 @@
 {
   "range": "449001-450000",
-  "updated_at": 1780003048362,
+  "updated_at": 1780004424402,
   "shows": [
     {
       "id": 449176,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nJSPkq5dtASykhiYIZhpCX9Zgeq.jpg",
       "plot_overview": "Everyone deserves a great love story, but for 17-year-old Simon Spier, it's a little more complicated. He hasn't told his family or friends that he's gay, and he doesn't know the identity of the anonymous classmate that he's fallen for online.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.972,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 449176
+      "tmdb_id": 449176,
+      "genre": "comedy"
     },
     {
       "id": 449406,
@@ -37,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/e6DlxuwzeZozu6D3h636gyDAHLo.jpg",
       "plot_overview": "A music-loving kinkajou named Vivo embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 449406
+      "tmdb_id": 449406,
+      "genre": "animation"
     }
   ]
 }

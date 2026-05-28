@@ -1,6 +1,6 @@
 {
   "range": "233001-234000",
-  "updated_at": 1780003048338,
+  "updated_at": 1780004424380,
   "shows": [
     {
       "id": 233629,
@@ -11,10 +11,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zdE0HzIFadTkGliGyh8DbMuZ3IH.jpg",
       "plot_overview": "One victim, found dead on a London street. Four detectives, in four different time periods, must solve the mystery to protect Britain's future.",
       "genres": [
-        "Crime",
-        "Mystery",
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "crime",
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.125,
       "critic_score": null,
@@ -28,7 +28,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 233629
+      "tmdb_id": 233629,
+      "genre": "crime"
     }
   ]
 }

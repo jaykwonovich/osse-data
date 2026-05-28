@@ -1,6 +1,6 @@
 {
   "range": "675001-676000",
-  "updated_at": 1780003048377,
+  "updated_at": 1780004424419,
   "shows": [
     {
       "id": 675353,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xuLA0pii2IMJW2puT7EvJtgpg0H.jpg",
       "plot_overview": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
       "genres": [
-        "Family",
-        "Comedy"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.428,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 675353
+      "tmdb_id": 675353,
+      "genre": "comedy"
     },
     {
       "id": 675445,
@@ -37,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wawIfsBlzgZYtHrBn8RUtGIZTgF.jpg",
       "plot_overview": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.33,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 675445
+      "tmdb_id": 675445,
+      "genre": "animation"
     }
   ]
 }

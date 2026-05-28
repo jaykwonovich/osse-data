@@ -1,6 +1,6 @@
 {
   "range": "360001-361000",
-  "updated_at": 1780003048355,
+  "updated_at": 1780004424396,
   "shows": [
     {
       "id": 360606,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eWCeRLTavVwPt3uOGUF1ewzwH6e.jpg",
       "plot_overview": "Two teen rival babysitters, Jenny and Lola, team up to hunt down one of their kids who accidentally ran away into the big city without any supervision.",
       "genres": [
-        "Comedy",
-        "Family"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.235,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 360606
+      "tmdb_id": 360606,
+      "genre": "comedy"
     }
   ]
 }

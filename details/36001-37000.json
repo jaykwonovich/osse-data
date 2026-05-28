@@ -1,6 +1,6 @@
 {
   "range": "36001-37000",
-  "updated_at": 1780003048297,
+  "updated_at": 1780004424339,
   "shows": [
     {
       "id": 36040,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uA5GfPzRU1vRVY7pDfqXQmjRTPI.jpg",
       "plot_overview": "Under the pretense of having a picnic, a geologist takes his teenage daughter and 6-year-old son into the Australian outback and attempts to shoot them. When he fails, he turns the gun on himself, and the two city-bred children must contend with harsh wilderness alone. They are saved by a chance encounter with an Aboriginal boy who shows them how to survive, and in the process underscores the disharmony between nature and modern life.",
       "genres": [
-        "Drama"
+        "adventure",
+        "drama"
       ],
       "user_rating": 7.307,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 36040
+      "tmdb_id": 36040,
+      "genre": "adventure"
     },
     {
       "id": 36208,
@@ -36,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/j6izee2sNjefaFb2haOfbcKjaGc.jpg",
       "plot_overview": "The Tramp and his dog companion struggle to survive in the inner city.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.316,
       "critic_score": null,
@@ -56,7 +58,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 36208
+      "tmdb_id": 36208,
+      "genre": "comedy"
     },
     {
       "id": 36657,
@@ -66,7 +69,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3QUVzbcNyfGe3ocWkYAT8emK8Co.jpg",
       "plot_overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.014,
       "critic_score": null,
       "us_rating": null,
@@ -79,7 +86,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 36657
+      "tmdb_id": 36657,
+      "genre": "action"
     },
     {
       "id": 36658,
@@ -89,7 +97,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/bst4alFUXCxISwdRUKSMhhkrX1M.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7TYITrR804tLITNur3b8VLCK6tw.jpg",
       "plot_overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join Magneto and Mystique to unhinge Stryker's scheme to exterminate all mutants.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.036,
       "critic_score": null,
       "us_rating": null,
@@ -102,7 +114,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 36658
+      "tmdb_id": 36658,
+      "genre": "action"
     },
     {
       "id": 36950,
@@ -113,7 +126,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9BMEUvc5TxYJF5xmygls2hnhnMP.jpg",
       "plot_overview": "Controversy and legal problems follow Dr. Jack Kevorkian as he advocates assisted suicide.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "tv movie"
       ],
       "user_rating": 7.018,
       "critic_score": null,
@@ -127,7 +142,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 36950
+      "tmdb_id": 36950,
+      "genre": "drama"
     },
     {
       "id": 36970,
@@ -138,9 +154,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8Jys5rX9IQkKxVfNeq8OKdSSx9g.jpg",
       "plot_overview": "An ecological drama/documentary, filmed throughout the globe. Part thriller, part meditation on the vanishing wonders of the sub-aquatic world.",
       "genres": [
-        "Documentary",
-        "Family",
-        "Drama"
+        "documentary",
+        "drama",
+        "family"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -154,7 +170,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 36970
+      "tmdb_id": 36970,
+      "genre": "documentary"
     },
     {
       "id": 36994,
@@ -165,7 +182,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zDSvUcCR2nkrGhLUTIgqQ18P27U.jpg",
       "plot_overview": "The misadventures of three recent college dropouts, roommates, and co-workers at a telemarketing company and their drug dealer.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -179,7 +196,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 36994
+      "tmdb_id": 36994,
+      "genre": "comedy"
     }
   ]
 }

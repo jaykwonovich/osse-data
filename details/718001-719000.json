@@ -1,6 +1,6 @@
 {
   "range": "718001-719000",
-  "updated_at": 1780003048379,
+  "updated_at": 1780004424421,
   "shows": [
     {
       "id": 718930,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
       "plot_overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe\u2014all with connected, yet conflicting, objectives\u2014on the world's fastest train.",
       "genres": [
-        "Comedy"
+        "action",
+        "comedy",
+        "thriller"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 718930
+      "tmdb_id": 718930,
+      "genre": "action"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "1159001-1160000",
-  "updated_at": 1780003048397,
+  "updated_at": 1780004424436,
   "shows": [
     {
       "id": 1159831,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
       "plot_overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
-      "genres": [],
+      "genres": [
+        "fantasy",
+        "horror",
+        "science fiction"
+      ],
       "user_rating": 6.213,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1159831
+      "tmdb_id": 1159831,
+      "genre": "fantasy"
     }
   ]
 }

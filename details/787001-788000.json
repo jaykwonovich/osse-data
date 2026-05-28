@@ -1,6 +1,6 @@
 {
   "range": "787001-788000",
-  "updated_at": 1780003048382,
+  "updated_at": 1780004424423,
   "shows": [
     {
       "id": 787428,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jluekweyhxIzixl4MvqIfPZyxr0.jpg",
       "plot_overview": "A man trying to get home to his dog becomes stuck in a time loop that forces him to relive a deadly run-in with a cop.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.03,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 787428
+      "tmdb_id": 787428,
+      "genre": "drama"
     },
     {
       "id": 787699,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
       "plot_overview": "Willy Wonka \u2013 chock-full of ideas and determined to change the world one delectable bite at a time \u2013 is proof that the best things in life begin with a dream, and if you\u2019re lucky enough to meet Willy Wonka, anything is possible.",
       "genres": [
-        "Comedy",
-        "Family"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.04,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 787699
+      "tmdb_id": 787699,
+      "genre": "comedy"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "135001-136000",
-  "updated_at": 1780003048327,
+  "updated_at": 1780004424368,
   "shows": [
     {
       "id": 135204,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1RVbRNKws7IzNeTnmDvunxdlhA9.jpg",
       "plot_overview": "Embark on the ultimate winter getaway with some of Bravo\u2019s beloved Summer House and Southern Charm cast members and their friends during a two-week vacation in Stowe, Vermont. Reach new peaks when this rowdy crew kicks off an epic experience filled with hot tub hookups and snowy shenanigans.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 8.8,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 135204
+      "tmdb_id": 135204,
+      "genre": "reality"
     },
     {
       "id": 135250,
@@ -36,7 +37,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3MCHc74eGFBcE507jKQez6xMpFH.jpg",
       "plot_overview": "Explore the wild, tragic and controversial life and career of heavyweight champion Mike Tyson - one of the most polarizing figures in sports culture.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.481,
       "critic_score": null,
@@ -50,7 +51,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 135250
+      "tmdb_id": 135250,
+      "genre": "drama"
     },
     {
       "id": 135934,
@@ -61,8 +63,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xRQNXmR9HG32FJqaRh8TqVUMfTA.jpg",
       "plot_overview": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice.",
       "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy"
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.2,
       "critic_score": null,
@@ -81,7 +83,8 @@
       "next_season": 4,
       "next_air_date": "2026-06-03",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "animation"
     }
   ]
 }

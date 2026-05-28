@@ -1,6 +1,6 @@
 {
   "range": "313001-314000",
-  "updated_at": 1780003048349,
+  "updated_at": 1780004424391,
   "shows": [
     {
       "id": 313298,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8X2R9uLys3SmkRuQAmSI96xxJAF.jpg",
       "plot_overview": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the forces that shaped their evolution.",
       "genres": [
-        "Documentary",
-        "Animation"
+        "animation",
+        "documentary"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 313298
+      "tmdb_id": 313298,
+      "genre": "animation"
     },
     {
       "id": 313756,
@@ -37,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tRMGuCXsTF3j174Q8NwdmBwGiRZ.jpg",
       "plot_overview": "Long referred to but never before seen, the mythical and delicious Flavortown will be the setting for this multi-round, culinary competition. In each episode, Fieri will welcome three chefs to Flavortown where skills and cooking chops can earn advantages and ultimately a win. Competitors will choose their own adventure as they compete in authentic food establishments ranging from street food carts to neighborhood spots to fast casual eateries and the finest fine dining restaurants in the world. ",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 313756
+      "tmdb_id": 313756,
+      "genre": "reality"
     },
     {
       "id": 313938,
@@ -92,9 +94,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mS3l4HMv6xCY7XLnoIsJtrHk6wn.jpg",
       "plot_overview": "Glimpse the drama happening in the school hallways of Shadyside & Sunnyside and discover the secret adventures that unfold.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Family",
-        "Kids"
+        "family",
+        "kids",
+        "sci-fi & fantasy"
       ],
       "user_rating": 6.3,
       "critic_score": null,
@@ -108,7 +110,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 313973
+      "tmdb_id": 313973,
+      "genre": "family"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "411001-412000",
-  "updated_at": 1780003048359,
+  "updated_at": 1780004424400,
   "shows": [
     {
       "id": 411728,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8jSzjgJFhV7nA5hG2LSq2qaG1BN.jpg",
       "plot_overview": "Professor James Murray begins work compiling words for the first edition of the Oxford English Dictionary in the mid 19th century, and receives over 10,000 entries from a patient at Broadmoor Criminal Lunatic Asylum, Dr. William Minor.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.126,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 411728
+      "tmdb_id": 411728,
+      "genre": "drama"
     }
   ]
 }

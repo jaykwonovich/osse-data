@@ -1,6 +1,6 @@
 {
   "range": "603001-604000",
-  "updated_at": 1780003048372,
+  "updated_at": 1780004424414,
   "shows": [
     {
       "id": 603692,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
       "plot_overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
       "genres": [
-        "Crime"
+        "action",
+        "crime",
+        "thriller"
       ],
       "user_rating": 7.706,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 603692
+      "tmdb_id": 603692,
+      "genre": "action"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "556001-557000",
-  "updated_at": 1780003048369,
+  "updated_at": 1780004424411,
   "shows": [
     {
       "id": 556901,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iHGukqqDLWSPE6HeJF4fob6r1D7.jpg",
       "plot_overview": "The comedic modern-day quintet takes on their 2003 counterparts when villains from each of their worlds join forces to pit the two Titan teams against each other. They'll need to set aside their differences and work together to combat Trigon, Hexagon, Santa Claus (that's right, Santa!) and time itself in order to save the multiverse.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.527,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 556901
+      "tmdb_id": 556901,
+      "genre": "animation"
     },
     {
       "id": 556984,
@@ -38,7 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/v8Nf6Y1qL1Q3PWTBezXNPPaXqza.jpg",
       "plot_overview": "What was supposed to be a peaceful protest turned into a violent clash with the police. What followed was one of the most notorious trials in history.",
       "genres": [
-        "Drama"
+        "drama",
+        "history"
       ],
       "user_rating": 7.657,
       "critic_score": null,
@@ -52,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 556984
+      "tmdb_id": 556984,
+      "genre": "drama"
     }
   ]
 }

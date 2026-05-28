@@ -1,6 +1,6 @@
 {
   "range": "1184001-1185000",
-  "updated_at": 1780003048398,
+  "updated_at": 1780004424437,
   "shows": [
     {
       "id": 1184918,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
       "plot_overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
       "genres": [
-        "Family",
-        "Animation"
+        "animation",
+        "family"
       ],
       "user_rating": 8.311,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1184918
+      "tmdb_id": 1184918,
+      "genre": "animation"
     }
   ]
 }

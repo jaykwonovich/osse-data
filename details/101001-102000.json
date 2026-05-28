@@ -1,6 +1,6 @@
 {
   "range": "101001-102000",
-  "updated_at": 1780003048320,
+  "updated_at": 1780004424360,
   "shows": [
     {
       "id": 101267,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cZRcHeM3pwIPOomIkGlEUpIpWF.jpg",
       "plot_overview": "Giving fans unprecedented access to the real life of the music sensation, Katy Perry: Part of Me exposes the hard work, dedication and phenomenal talent of a girl who remained true to herself and her vision in order to achieve her dreams. Featuring rare behind-the-scenes interviews, personal moments between Katy and her friends, and all-access footage of rehearsals, choreography, Katy\u2019s signature style and more, Katy Perry: Part of Me reveals the singer\u2019s unwavering belief that if you can be you",
       "genres": [
-        "Documentary"
+        "documentary",
+        "music"
       ],
       "user_rating": 7.157,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 101267
+      "tmdb_id": 101267,
+      "genre": "documentary"
     },
     {
       "id": 101299,
@@ -35,7 +37,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
       "plot_overview": "After surviving the Hunger Games, Katniss and Peeta struggle with the consequences of their victory as unrest spreads across Panem. Forced back into the spotlight, they become symbols of hope and resistance while the Capitol prepares a new and deadly challenge that will change the future of the nation forever.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.427,
       "critic_score": null,
       "us_rating": null,
@@ -48,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 101299
+      "tmdb_id": 101299,
+      "genre": "action"
     }
   ]
 }

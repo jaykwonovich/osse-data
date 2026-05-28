@@ -1,6 +1,6 @@
 {
   "range": "547001-548000",
-  "updated_at": 1780003048368,
+  "updated_at": 1780004424411,
   "shows": [
     {
       "id": 547016,
@@ -10,7 +10,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
       "plot_overview": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
-      "genres": [],
+      "genres": [
+        "action",
+        "fantasy"
+      ],
       "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 547016
+      "tmdb_id": 547016,
+      "genre": "action"
     }
   ]
 }

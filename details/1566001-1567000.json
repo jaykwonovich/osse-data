@@ -1,6 +1,6 @@
 {
   "range": "1566001-1567000",
-  "updated_at": 1780003048408,
+  "updated_at": 1780004424444,
   "shows": [
     {
       "id": 1566269,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/h5hCdU9KvcCbBihSNfn3vtML7tV.jpg",
       "plot_overview": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
       "genres": [
-        "Family",
-        "Comedy"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1566269
+      "tmdb_id": 1566269,
+      "genre": "comedy"
     }
   ]
 }

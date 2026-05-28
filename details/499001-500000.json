@@ -1,6 +1,6 @@
 {
   "range": "499001-500000",
-  "updated_at": 1780003048365,
+  "updated_at": 1780004424407,
   "shows": [
     {
       "id": 499932,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gWPz2ucZxzbnbTQCJHADDCcGi9o.jpg",
       "plot_overview": "In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.177,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 499932
+      "tmdb_id": 499932,
+      "genre": "crime"
     }
   ]
 }

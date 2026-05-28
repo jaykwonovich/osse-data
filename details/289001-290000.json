@@ -1,6 +1,6 @@
 {
   "range": "289001-290000",
-  "updated_at": 1780003048345,
+  "updated_at": 1780004424388,
   "shows": [
     {
       "id": 289219,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
       "plot_overview": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
       "genres": [
-        "Action & Adventure",
-        "Animation",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.5,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 289219
+      "tmdb_id": 289219,
+      "genre": "action & adventure"
     },
     {
       "id": 289222,
@@ -38,7 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rE6W3KHdIuTdgRDLOOOMR3gfGgc.jpg",
       "plot_overview": "The account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "war"
       ],
       "user_rating": 7.325,
       "critic_score": null,
@@ -52,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 289222
+      "tmdb_id": 289222,
+      "genre": "drama"
     }
   ]
 }

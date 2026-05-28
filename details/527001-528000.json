@@ -1,6 +1,6 @@
 {
   "range": "527001-528000",
-  "updated_at": 1780003048367,
+  "updated_at": 1780004424409,
   "shows": [
     {
       "id": 527435,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zQVsXIPXU040BnFtBmzoOfYGcDu.jpg",
       "plot_overview": "Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.",
       "genres": [
-        "Comedy",
-        "Family"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.16,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 527435
+      "tmdb_id": 527435,
+      "genre": "comedy"
     },
     {
       "id": 527774,
@@ -37,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zmX7ObPaRfiCmY6LMalUb1bJDKj.jpg",
       "plot_overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it\u2019s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 527774
+      "tmdb_id": 527774,
+      "genre": "animation"
     }
   ]
 }

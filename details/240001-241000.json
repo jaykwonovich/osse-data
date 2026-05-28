@@ -1,6 +1,6 @@
 {
   "range": "240001-241000",
-  "updated_at": 1780003048339,
+  "updated_at": 1780004424381,
   "shows": [
     {
       "id": 240667,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4zP0CfrUBQFWMlWoB4p8aS4D4IA.jpg",
       "plot_overview": "After spending graduation night together, Emma and Dexter go their separate ways \u2014 but their lives remain intertwined.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.683,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 240667
+      "tmdb_id": 240667,
+      "genre": "drama"
     },
     {
       "id": 240740,
@@ -36,9 +37,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oHnlulBoE3XbI3HIYWY0dZfh5RH.jpg",
       "plot_overview": "Renowned forensic pathologist Dr. Kay Scarpetta returns to her position as Virginia's Chief Medical Examiner, where she investigates a haunting murder with eerie reminders from her first big case decades ago. In 1998, Scarpetta works alongside Detective Pete Marino and FBI Agent Benton Wesley as they investigate a series of brutal stranglings. Based on the best-selling novels by Patricia Cornwell.",
       "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 6.473,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 240740
+      "tmdb_id": 240740,
+      "genre": "crime"
     }
   ]
 }

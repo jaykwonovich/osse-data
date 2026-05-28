@@ -1,6 +1,6 @@
 {
   "range": "17001-18000",
-  "updated_at": 1780003048291,
+  "updated_at": 1780004424330,
   "shows": [
     {
       "id": 17035,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wAEOFMX407pMVdtVriRpIZE9Iaw.jpg",
       "plot_overview": "The first 40 days of the war in Iraq as seen through the eyes of an elite group of U.S. Marines who spearheaded the invasion along with an embedded Rolling Stone reporter. A vivid account of the soldiers and of the forces that guided them in an often-improvised initiative.",
       "genres": [
-        "War & Politics",
-        "Drama",
-        "Action & Adventure"
+        "action & adventure",
+        "drama",
+        "war & politics"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17035
+      "tmdb_id": 17035,
+      "genre": "action & adventure"
     },
     {
       "id": 17136,
@@ -38,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6vXnGv5ly9leE6QGBRCzrUuG2tG.jpg",
       "plot_overview": "A seductive woman gets an innocent professor mixed up in murder.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.374,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17136
+      "tmdb_id": 17136,
+      "genre": "crime"
     },
     {
       "id": 17204,
@@ -64,8 +66,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sOFwEeWmlQufAQwLH7OXnw2oLlj.jpg",
       "plot_overview": "A horrific triple child murder leads to an indictment and trial of three nonconformist boys based on questionable evidence.",
       "genres": [
-        "Documentary",
-        "Crime"
+        "crime",
+        "documentary"
       ],
       "user_rating": 7.568,
       "critic_score": null,
@@ -79,7 +81,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17204
+      "tmdb_id": 17204,
+      "genre": "crime"
     },
     {
       "id": 17287,
@@ -90,7 +93,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AmmgWFPclweF5fdjdy9ITksMAVC.jpg",
       "plot_overview": "A group of struggling actors and dysfunctional dreamers wait for their big break while they are stuck serving hors d'oeurves for a Hollywood catering company 'Party Down.'",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -104,7 +107,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17287
+      "tmdb_id": 17287,
+      "genre": "comedy"
     },
     {
       "id": 17346,
@@ -115,7 +119,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8gMOMHSkSTJ5NbHvHYK6amERLNM.jpg",
       "plot_overview": "Edie Bouvier Beale and her mother, Edith, two aging, eccentric relatives of Jackie Kennedy Onassis, are the sole inhabitants of a Long Island estate. The women reveal themselves to be misfits with outsized, engaging personalities. Much of the conversation is centered on their pasts, as mother and daughter now rarely leave home.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -129,7 +133,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17346
+      "tmdb_id": 17346,
+      "genre": "documentary"
     },
     {
       "id": 17431,
@@ -140,7 +145,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mvUAo9ACgmLpS4Ofc2IwD4n7WCt.jpg",
       "plot_overview": "With only three weeks left in his three-year contract, Sam Bell is eager to return to Earth. Stationed alone at a Moon-based facility with his computer assistant GERTY, an unexpected accident sets off a series of unsettling events that shake his isolation.",
       "genres": [
-        "Drama"
+        "drama",
+        "science fiction"
       ],
       "user_rating": 7.566,
       "critic_score": null,
@@ -154,7 +160,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17431
+      "tmdb_id": 17431,
+      "genre": "drama"
     },
     {
       "id": 17450,
@@ -165,8 +172,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/33YoD1DbilLkTvUMfWXwt0PUodD.jpg",
       "plot_overview": "Detective Inspector Chandler investigates copycat killers in London's East End.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.285,
       "critic_score": null,
@@ -192,7 +199,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17450
+      "tmdb_id": 17450,
+      "genre": "crime"
     },
     {
       "id": 17463,
@@ -203,12 +211,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sEOXPdfhXcZwxLAFEqkhuSIHquL.jpg",
       "plot_overview": "Ten-year-old Coop Burtonburger's life takes a turn for the worse when his little sister, Millie, brings home a mysterious stray cat who, in reality, is an evil cybernetic alien in disguise. To make matters worse, neither his family nor anyone else believes him, except for his best friend, Dennis. Now, Coop risks his life every day as he attempts to foil the cat's diabolical schemes and prove to the world that the family pet is an evil mastermind.",
       "genres": [
-        "Action & Adventure",
-        "Animation",
-        "Comedy",
-        "Sci-Fi & Fantasy",
-        "Family",
-        "Kids"
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family",
+        "kids",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.865,
       "critic_score": null,
@@ -222,7 +230,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17463
+      "tmdb_id": 17463,
+      "genre": "action & adventure"
     },
     {
       "id": 17519,
@@ -233,8 +242,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8JjoTjafHCtqe8LIkNzTpWDYV0Y.jpg",
       "plot_overview": "Zeke and Luther want nothing more in the world than to become world-famous skateboarders. Together with their friends, skating rivals, and family, Zeke & Luther find themselves always busy getting into mischief.",
       "genres": [
-        "Comedy",
-        "Family"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -248,7 +257,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17519
+      "tmdb_id": 17519,
+      "genre": "comedy"
     },
     {
       "id": 17572,
@@ -259,10 +269,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gzoDeOxJ1mvtoBQdk94l5HzVil2.jpg",
       "plot_overview": "Clarence Buttowski, a young boy, aspires to become the world's greatest daredevil, as he gets help from Gunther, his loyal friend and partner-in-crime.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Comedy",
-        "Kids"
+        "action & adventure",
+        "animation",
+        "comedy",
+        "kids"
       ],
       "user_rating": 8.127,
       "critic_score": null,
@@ -276,7 +286,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17572
+      "tmdb_id": 17572,
+      "genre": "action & adventure"
     },
     {
       "id": 17611,
@@ -287,7 +298,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wjWyxg8bJATeYOUkNE2aUdYE0eh.jpg",
       "plot_overview": "A raw and authentic look into the Los Angeles crime scene, going far inside the lives of cops, criminals, victims and their families. The show centers on four main characters: Officer John Cooper, a seasoned cop who will have to prove himself again after recovering from surgery; Officer Ben Sherman, who still has much to learn after recently completing his training rotation; Detective Lydia Adams, whose unending caseload hits closer to home; and Sammy Bryant, a former detective who decided to go",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -301,7 +312,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17611
+      "tmdb_id": 17611,
+      "genre": "drama"
     },
     {
       "id": 17814,
@@ -312,7 +324,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dm1bqDSw3MJTjYCeuNUv122BXFp.jpg",
       "plot_overview": "A highway patrol officer, two criminals, and a station secretary form an unlikely alliance to defend a defunct Los Angeles precinct against a siege by a bloodthirsty street gang.",
       "genres": [
-        "Crime"
+        "action",
+        "crime",
+        "thriller"
       ],
       "user_rating": 7.268,
       "critic_score": null,
@@ -326,7 +340,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17814
+      "tmdb_id": 17814,
+      "genre": "action"
     },
     {
       "id": 17937,
@@ -337,7 +352,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/u64huzTnF3jEYUXJ4BDlpHy2L3K.jpg",
       "plot_overview": "Paranormal investigator Zak Bagans and his crew, Nick Groff and Aaron Goodwin, search for haunted locations both domestically and internationally. During their investigations, Zak and crew acquaint themselves with the general area; interview locals about the hauntings; and go face-to-face with the evil spirits who reportedly haunt these locations.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 7.691,
       "critic_score": null,
@@ -357,7 +372,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17937
+      "tmdb_id": 17937,
+      "genre": "reality"
     },
     {
       "id": 17967,
@@ -368,7 +384,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/f1Zj0KJpaead6cUoOkpWZblMyET.jpg",
       "plot_overview": "Trem\u00e9 takes its name from a neighborhood of New Orleans and portrays life in the aftermath of the 2005 hurricane. Beginning three months after Hurricane Katrina, the residents of New Orleans, including musicians, chefs, Mardi Gras Indians, and other New Orleanians struggle to rebuild their lives, their homes and their unique culture.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -382,7 +398,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 17967
+      "tmdb_id": 17967,
+      "genre": "drama"
     }
   ]
 }

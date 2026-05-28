@@ -1,6 +1,6 @@
 {
   "range": "249001-250000",
-  "updated_at": 1780003048340,
+  "updated_at": 1780004424382,
   "shows": [
     {
       "id": 249042,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/llZodlkVKRkTdUsiRxvn8h80hhx.jpg",
       "plot_overview": "When a 13-year-old is accused of the murder of a classmate, his family, therapist and the detective in charge are all left asking: what really happened?",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.856,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 249042
+      "tmdb_id": 249042,
+      "genre": "crime"
     },
     {
       "id": 249522,
@@ -37,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/p1rQJ5bljPSk3LoCo5UKRkpsiSd.jpg",
       "plot_overview": "I gathered 1,000 people to fight for $5,000,000, the LARGEST cash prize in TV history! We're also giving away a private island, Lamborghinis, and millions more in cash throughout the competition! Go watch to see the greatest show ever made!",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 7.442,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 249522
+      "tmdb_id": 249522,
+      "genre": "reality"
     },
     {
       "id": 249688,
@@ -62,7 +64,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jfesUBA5dUxlPw2E1M7fCahTHG8.jpg",
       "plot_overview": "The story of the five-day interview between Rolling Stone reporter David Lipsky and acclaimed novelist David Foster Wallace, which took place right after the 1996 publication of Wallace's groundbreaking epic novel, 'Infinite Jest.'",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.01,
       "critic_score": null,
@@ -76,7 +78,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 249688
+      "tmdb_id": 249688,
+      "genre": "drama"
     }
   ]
 }

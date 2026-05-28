@@ -1,6 +1,6 @@
 {
   "range": "870001-871000",
-  "updated_at": 1780003048387,
+  "updated_at": 1780004424427,
   "shows": [
     {
       "id": 870028,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
       "plot_overview": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
       "genres": [
-        "Mystery",
-        "Crime"
+        "crime",
+        "mystery"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 870028
+      "tmdb_id": 870028,
+      "genre": "crime"
     },
     {
       "id": 870360,
@@ -37,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5U3VLeWr2H4Nd3G7IkHItFimsIz.jpg",
       "plot_overview": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)...that is if they don't drive each other crazy in the process.",
       "genres": [
-        "Family",
-        "Comedy",
-        "Animation"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.546,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 870360
+      "tmdb_id": 870360,
+      "genre": "animation"
     }
   ]
 }

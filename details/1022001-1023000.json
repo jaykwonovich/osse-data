@@ -1,6 +1,6 @@
 {
   "range": "1022001-1023000",
-  "updated_at": 1780003048393,
+  "updated_at": 1780004424433,
   "shows": [
     {
       "id": 1022256,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/u3MWQCdHyCK7IADtat4sVmBXd9U.jpg",
       "plot_overview": "After years in the limelight, Selena Gomez achieves unimaginable stardom. But just as she reaches a new peak, an unexpected turn pulls her into darkness. This uniquely raw and intimate documentary spans her six-year journey into a new light.",
       "genres": [
-        "Documentary"
+        "documentary",
+        "music"
       ],
       "user_rating": 8.5,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1022256
+      "tmdb_id": 1022256,
+      "genre": "documentary"
     },
     {
       "id": 1022787,
@@ -36,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ukPu5xYOBAnh5H46uK4aQOirW2b.jpg",
       "plot_overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 6.911,
       "critic_score": null,
@@ -52,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1022787
+      "tmdb_id": 1022787,
+      "genre": "animation"
     },
     {
       "id": 1022789,
@@ -63,9 +66,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
       "plot_overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.546,
       "critic_score": null,
@@ -79,7 +82,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1022789
+      "tmdb_id": 1022789,
+      "genre": "animation"
     }
   ]
 }

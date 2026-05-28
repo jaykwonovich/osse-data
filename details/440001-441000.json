@@ -1,6 +1,6 @@
 {
   "range": "440001-441000",
-  "updated_at": 1780003048361,
+  "updated_at": 1780004424402,
   "shows": [
     {
       "id": 440472,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ct2I74zKDrK1Ts2jJa9WixJrigg.jpg",
       "plot_overview": "Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who's trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 440472
+      "tmdb_id": 440472,
+      "genre": "comedy"
     }
   ]
 }

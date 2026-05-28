@@ -1,6 +1,6 @@
 {
   "range": "829001-830000",
-  "updated_at": 1780003048385,
+  "updated_at": 1780004424425,
   "shows": [
     {
       "id": 829280,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/n2OaA7Je0fgcVnfJM7xDJoPny7x.jpg",
       "plot_overview": "Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends \u2014 and Sherlock himself \u2014 to unravel.",
       "genres": [
-        "Mystery",
-        "Crime"
+        "crime",
+        "mystery"
       ],
       "user_rating": 7.404,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 829280
+      "tmdb_id": 829280,
+      "genre": "crime"
     },
     {
       "id": 829402,
@@ -37,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wdUnHg8bOmTkHzkvxSY9sCeqJ6q.jpg",
       "plot_overview": "A star athlete reluctantly returns home to take over his father's duties as Ultraman, shielding Tokyo from giant monsters as he becomes a legendary hero.",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 8.038,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 829402
+      "tmdb_id": 829402,
+      "genre": "animation"
     }
   ]
 }

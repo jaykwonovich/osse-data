@@ -1,6 +1,6 @@
 {
   "range": "254001-255000",
-  "updated_at": 1780003048341,
+  "updated_at": 1780004424383,
   "shows": [
     {
       "id": 254071,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
       "plot_overview": "A typical day at Lochmill Capital is upended when armed thieves burst in and force Zara and her best friend Luke to execute their demands. In the aftermath, conflicted detective Rhys races against time to find out who stole \u00a34 billion pounds of people's pensions and why.",
       "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.489,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 254071
+      "tmdb_id": 254071,
+      "genre": "crime"
     },
     {
       "id": 254320,
@@ -38,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
       "plot_overview": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.026,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 254320
+      "tmdb_id": 254320,
+      "genre": "comedy"
     },
     {
       "id": 254420,
@@ -64,8 +66,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qDuNYLq4ykp5K4SpAnLp4H38ksy.jpg",
       "plot_overview": "Follow Elle Woods in high school as we learn about the life experiences that shaped her into the iconic young woman we came to know and love in the first Legally Blonde film.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -93,7 +95,8 @@
       "next_season": 1,
       "next_air_date": "2026-07-01",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "comedy"
     },
     {
       "id": 254528,
@@ -104,7 +107,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g9gWKJJdRknKGXDGh7VGTp6SIOb.jpg",
       "plot_overview": "A professional golfer becomes the face of a controversial new league competing with the PGA Tour.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -130,7 +133,8 @@
       "next_season": 1,
       "next_air_date": "2026-07-16",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "comedy"
     },
     {
       "id": 254953,
@@ -141,7 +145,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mhZAT8ktiNi7YwuL50kmumsau69.jpg",
       "plot_overview": "On a college campus, an author navigates a complicated relationship with his daughter.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.513,
       "critic_score": null,
@@ -155,7 +159,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 254953
+      "tmdb_id": 254953,
+      "genre": "comedy"
     }
   ]
 }

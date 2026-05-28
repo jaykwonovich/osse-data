@@ -1,6 +1,6 @@
 {
   "range": "242001-243000",
-  "updated_at": 1780003048339,
+  "updated_at": 1780004424381,
   "shows": [
     {
       "id": 242054,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rhwN3mIN89zlDveR0gv0VkrspXa.jpg",
       "plot_overview": "A brilliant, eccentric detective must solve a murder in the White House residence \u2014 where the staff and guests at a state dinner are all suspects.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 242054
+      "tmdb_id": 242054,
+      "genre": "comedy"
     },
     {
       "id": 242845,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tlD0m7SiX6Cep5gQEr9JnFyvG38.jpg",
       "plot_overview": "After a harrowing home invasion and kidnapping in 2015, a couple is accused of staging the ordeal when the woman reappears, haunting the couple with a new series of tortures.",
       "genres": [
-        "Crime",
-        "Documentary"
+        "crime",
+        "documentary"
       ],
       "user_rating": 7.44,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 242845
+      "tmdb_id": 242845,
+      "genre": "crime"
     }
   ]
 }

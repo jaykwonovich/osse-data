@@ -1,6 +1,6 @@
 {
   "range": "503001-504000",
-  "updated_at": 1780003048365,
+  "updated_at": 1780004424407,
   "shows": [
     {
       "id": 503919,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
       "plot_overview": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
       "genres": [
-        "Drama"
+        "drama",
+        "fantasy",
+        "thriller"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 503919
+      "tmdb_id": 503919,
+      "genre": "drama"
     }
   ]
 }

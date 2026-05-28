@@ -1,6 +1,6 @@
 {
   "range": "776001-777000",
-  "updated_at": 1780003048382,
+  "updated_at": 1780004424423,
   "shows": [
     {
       "id": 776503,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
       "plot_overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
       "genres": [
-        "Drama"
+        "drama",
+        "music",
+        "romance"
       ],
       "user_rating": 7.89,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 776503
+      "tmdb_id": 776503,
+      "genre": "drama"
     },
     {
       "id": 776527,
@@ -36,7 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1LYWnmr5K3Hs3XEZ323bY0dBZsK.jpg",
       "plot_overview": "During the same summer as Woodstock, over 300,000 people attended the Harlem Cultural Festival, celebrating African American music and culture, and promoting Black pride and unity. The footage from the festival sat in a basement, unseen for over 50 years, keeping this incredible event in America's history lost \u2014 until now.",
       "genres": [
-        "Documentary"
+        "documentary",
+        "history",
+        "music"
       ],
       "user_rating": 7.639,
       "critic_score": null,
@@ -56,7 +61,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 776527
+      "tmdb_id": 776527,
+      "genre": "documentary"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "40001-41000",
-  "updated_at": 1780003048299,
+  "updated_at": 1780004424340,
   "shows": [
     {
       "id": 40008,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
       "plot_overview": "Both a gift and a curse, Graham has the extraordinary ability to think like his prey\u2014he sees what they see, feels what they feel. But while Graham is pursuing an especially troubling, cannibalistic murderer, Special Agent Jack Crawford teams him with a highly respected psychiatrist \u2013 a man with a taste for the criminal minded \u2013 Dr. Hannibal Lecter.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.3,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 40008
+      "tmdb_id": 40008,
+      "genre": "crime"
     },
     {
       "id": 40026,
@@ -37,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nGDsZDEZW0Uc5XtyfC7m7tH5q95.jpg",
       "plot_overview": "Dance Moms is an American dance reality series that debuted on Lifetime on July 13, 2011. Created by Collins Avenue Productions, it is set in Pittsburgh, Pennsylvania, at the Abby Lee Dance Company, and follows children's early careers in dance show business and their mothers.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -69,7 +70,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 40026
+      "tmdb_id": 40026,
+      "genre": "reality"
     },
     {
       "id": 40075,
@@ -80,12 +82,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
       "plot_overview": "Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer helping their great uncle Stan run a tourist trap in the mysterious town of Gravity Falls, Oregon.",
       "genres": [
-        "Action & Adventure",
-        "Animation",
-        "Comedy",
-        "Family",
-        "Mystery",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.612,
       "critic_score": null,
@@ -99,7 +101,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 40075
+      "tmdb_id": 40075,
+      "genre": "action & adventure"
     },
     {
       "id": 40290,
@@ -110,7 +113,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qfsVbdpVV745Q9szApNRDw6kDuq.jpg",
       "plot_overview": "This hit cooking competition series sees award-winning chef Gordon Ramsay and other celebrity chefs put a group of contestants through a series of challenges and elimination rounds, in order to turn one home cook into a culinary master.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 7.068,
       "critic_score": null,
@@ -129,7 +132,8 @@
       "next_season": 16,
       "next_air_date": "2026-06-03",
       "next_episode": 8,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "reality"
     },
     {
       "id": 40293,
@@ -140,7 +144,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wHcLMdK85CIJu76RNxnq6rhS2FF.jpg",
       "plot_overview": "The series follows the \"untold\" story of Leonardo Da Vinci: the genius during his early years in Renaissance Florence. As a 25-year old artist, inventor, swordsman, lover, dreamer and idealist, he struggles to live within the confines of his own reality and time as he begins to not only see the future, but invent it.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.528,
       "critic_score": null,
@@ -160,7 +164,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 40293
+      "tmdb_id": 40293,
+      "genre": "drama"
     },
     {
       "id": 40619,
@@ -171,9 +176,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/i05QKKn8GqAdmQSeAztxhuqN6dt.jpg",
       "plot_overview": "When Day, a sunny fellow, encounters Night, a stranger of distinctly darker moods, sparks fly! Day and Night are frightened and suspicious of each other at first, and quickly get off on the wrong foot. But as they discover each other's unique qualities--and come to realize that each of them offers a different window onto the same world-the friendship helps both to gain a new perspective.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -187,7 +192,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 40619
+      "tmdb_id": 40619,
+      "genre": "animation"
     }
   ]
 }

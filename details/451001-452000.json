@@ -1,6 +1,6 @@
 {
   "range": "451001-452000",
-  "updated_at": 1780003048362,
+  "updated_at": 1780004424403,
   "shows": [
     {
       "id": 451048,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7WJjFviFBffEJvkAms4uWwbcVUk.jpg",
       "plot_overview": "Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal \u2013 a discovery that will change the future of medicine.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 451048
+      "tmdb_id": 451048,
+      "genre": "action"
     },
     {
       "id": 451480,
@@ -34,7 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mGDUIbcrdULI7N0eg1Ip7oY0aUS.jpg",
       "plot_overview": "Free-spirited writer Juliet Ashton forms a life-changing bond with the delightful and eccentric Guernsey Literary and Potato Peel Pie Society, when she decides to write about the book club they formed during the occupation of Guernsey in WWII.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "romance"
       ],
       "user_rating": 7.399,
       "critic_score": null,
@@ -48,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 451480
+      "tmdb_id": 451480,
+      "genre": "drama"
     },
     {
       "id": 451915,
@@ -59,7 +67,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sOhtC4cmaYPOlcjXCWxxrx2NKKn.jpg",
       "plot_overview": "After he and his first wife separate, journalist David Sheff struggles to help their teenage son, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.548,
       "critic_score": null,
@@ -73,7 +81,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 451915
+      "tmdb_id": 451915,
+      "genre": "drama"
     }
   ]
 }

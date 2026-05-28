@@ -1,6 +1,6 @@
 {
   "range": "933001-934000",
-  "updated_at": 1780003048390,
+  "updated_at": 1780004424429,
   "shows": [
     {
       "id": 933260,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8ODNt5olCeIqBYTP3GgXEQYTfeX.jpg",
       "plot_overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-      "genres": [],
+      "genres": [
+        "horror",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.135,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 933260
+      "tmdb_id": 933260,
+      "genre": "horror"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "433001-434000",
-  "updated_at": 1780003048361,
+  "updated_at": 1780004424402,
   "shows": [
     {
       "id": 433247,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4hEp8ZAycjitk7UOX0VpfSFnwRU.jpg",
       "plot_overview": "A 5-year-old girl embarks on a harrowing quest for survival amid the sudden rise and terrifying reign of the Khmer Rouge in Cambodia.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "war"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 433247
+      "tmdb_id": 433247,
+      "genre": "drama"
     },
     {
       "id": 433471,
@@ -36,9 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/f13RF99zjorGVJnSSsOqyj5dzYh.jpg",
       "plot_overview": "A Pixar short about a lost-and-found box and the unseen monster within.",
       "genres": [
-        "Family",
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.532,
       "critic_score": null,
@@ -52,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 433471
+      "tmdb_id": 433471,
+      "genre": "animation"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "502001-503000",
-  "updated_at": 1780003048365,
+  "updated_at": 1780004424407,
   "shows": [
     {
       "id": 502033,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg",
       "plot_overview": "Metal drummer Ruben begins to lose his hearing. When a doctor tells him his condition will worsen, he thinks his career and life is over. His girlfriend Lou checks the former addict into a rehab for the deaf hoping it will prevent a relapse and help him adapt to his new life. After being welcomed and accepted just as he is, Ruben must choose between his new normal and the life he once knew.",
       "genres": [
-        "Drama"
+        "drama",
+        "music"
       ],
       "user_rating": 7.699,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 502033
+      "tmdb_id": 502033,
+      "genre": "drama"
     },
     {
       "id": 502356,
@@ -36,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
       "plot_overview": "While working underground to fix a water main, Brooklyn plumbers\u2014and brothers\u2014Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
       "genres": [
-        "Family",
-        "Comedy",
-        "Animation"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.602,
       "critic_score": null,
@@ -52,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 502356
+      "tmdb_id": 502356,
+      "genre": "animation"
     },
     {
       "id": 502425,
@@ -63,7 +66,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vwbmp3vvX4U0VjinaQktYOBt5kW.jpg",
       "plot_overview": "South Africa, 1978. Tim Jenkin and Stephen Lee, two white political activists from the African National Congress imprisoned by the apartheid regime, put a plan in motion to escape from the infamous Pretoria Prison.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "thriller"
       ],
       "user_rating": 7.167,
       "critic_score": null,
@@ -77,7 +82,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 502425
+      "tmdb_id": 502425,
+      "genre": "drama"
     }
   ]
 }

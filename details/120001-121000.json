@@ -1,6 +1,6 @@
 {
   "range": "120001-121000",
-  "updated_at": 1780003048324,
+  "updated_at": 1780004424364,
   "shows": [
     {
       "id": 120452,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hZ9MlxA80rLGh5OExoJEeIEBByD.jpg",
       "plot_overview": "The early adventures of young Harvard symbologist Robert Langdon, who must solve a series of deadly puzzles to save his kidnapped mentor and thwart a chilling global conspiracy.",
       "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Mystery"
+        "action & adventure",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.224,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 120452
+      "tmdb_id": 120452,
+      "genre": "action & adventure"
     },
     {
       "id": 120462,
@@ -38,9 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nleG20xwqGsEbCEHnIRRwZmz3l6.jpg",
       "plot_overview": "A limited anthology series that explores terror in America.",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Crime"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -54,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 120462
+      "tmdb_id": 120462,
+      "genre": "crime"
     },
     {
       "id": 120911,
@@ -65,8 +67,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
       "plot_overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
       "genres": [
-        "Action & Adventure",
-        "Drama"
+        "action & adventure",
+        "drama"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -85,7 +87,8 @@
       "next_season": 2,
       "next_air_date": "2026-10-21",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "action & adventure"
     },
     {
       "id": 120998,
@@ -96,8 +99,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ccOzCmrglAjRGtqv5ClTaBEsWt8.jpg",
       "plot_overview": "Follow Charlie Cale, a woman with an extraordinary ability to tell when someone is lying, as she hits the road and, at every stop, encounters a new cast of characters and crimes she can't help but solve.",
       "genres": [
-        "Crime",
-        "Mystery"
+        "crime",
+        "mystery"
       ],
       "user_rating": 7.469,
       "critic_score": null,
@@ -111,7 +114,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 120998
+      "tmdb_id": 120998,
+      "genre": "crime"
     }
   ]
 }

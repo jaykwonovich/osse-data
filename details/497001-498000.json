@@ -1,6 +1,6 @@
 {
   "range": "497001-498000",
-  "updated_at": 1780003048364,
+  "updated_at": 1780004424407,
   "shows": [
     {
       "id": 497582,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
       "plot_overview": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
       "genres": [
-        "Mystery",
-        "Crime"
+        "crime",
+        "mystery"
       ],
       "user_rating": 7.228,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 497582
+      "tmdb_id": 497582,
+      "genre": "crime"
     },
     {
       "id": 497698,
@@ -36,7 +37,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
       "plot_overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
@@ -49,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 497698
+      "tmdb_id": 497698,
+      "genre": "action"
     },
     {
       "id": 497828,
@@ -60,8 +66,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vNPY4oCSUp7CxbHkKJNRx1fmCl0.jpg",
       "plot_overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.011,
       "critic_score": null,
@@ -75,7 +81,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 497828
+      "tmdb_id": 497828,
+      "genre": "comedy"
     }
   ]
 }

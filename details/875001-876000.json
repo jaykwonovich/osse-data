@@ -1,6 +1,6 @@
 {
   "range": "875001-876000",
-  "updated_at": 1780003048388,
+  "updated_at": 1780004424427,
   "shows": [
     {
       "id": 875828,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aouxo2EaR7QSGBBUNTITuW0lj4z.jpg",
       "plot_overview": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family \u2014 and his nation.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.243,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 875828
+      "tmdb_id": 875828,
+      "genre": "crime"
     }
   ]
 }

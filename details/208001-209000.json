@@ -1,6 +1,6 @@
 {
   "range": "208001-209000",
-  "updated_at": 1780003048333,
+  "updated_at": 1780004424374,
   "shows": [
     {
       "id": 208569,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9pGzG5CYx2XM8JFFQvMk9Z3z9ze.jpg",
       "plot_overview": "Special Agent Will Trent was abandoned at birth and endured a harsh coming-of-age in Atlanta's overwhelmed foster care system. Determined to make sure no one feels as he did, he now has the highest clearance rate.",
       "genres": [
-        "Crime",
-        "Drama",
-        "Comedy"
+        "comedy",
+        "crime",
+        "drama"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 208569
+      "tmdb_id": 208569,
+      "genre": "comedy"
     }
   ]
 }

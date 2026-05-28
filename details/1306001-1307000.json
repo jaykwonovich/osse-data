@@ -1,6 +1,6 @@
 {
   "range": "1306001-1307000",
-  "updated_at": 1780003048404,
+  "updated_at": 1780004424440,
   "shows": [
     {
       "id": 1306368,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
       "plot_overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question.",
       "genres": [
-        "Crime"
+        "action",
+        "crime",
+        "thriller"
       ],
       "user_rating": 7.07,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1306368
+      "tmdb_id": 1306368,
+      "genre": "action"
     }
   ]
 }

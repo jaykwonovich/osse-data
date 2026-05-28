@@ -1,6 +1,6 @@
 {
   "range": "472001-473000",
-  "updated_at": 1780003048363,
+  "updated_at": 1780004424405,
   "shows": [
     {
       "id": 472424,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5TVSZotk3mjNjlDUQ1NBtO1Hu2H.jpg",
       "plot_overview": "Follow pop provocateur Lady Gaga as she releases a new album, preps for her Super Bowl halftime show, and confronts physical and emotional struggles.",
       "genres": [
-        "Documentary"
+        "documentary",
+        "music"
       ],
       "user_rating": 7.436,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 472424
+      "tmdb_id": 472424,
+      "genre": "documentary"
     },
     {
       "id": 472983,
@@ -36,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1CDdClx0DGembBYjRWFH7HB2uff.jpg",
       "plot_overview": "ZIM discovers his almighty leaders never had any intention of coming to Earth and he loses confidence in himself for the first time in his life, which is the big break his human nemesis, Dib has been waiting for.",
       "genres": [
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy"
       ],
       "user_rating": 7.413,
       "critic_score": null,
@@ -51,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 472983
+      "tmdb_id": 472983,
+      "genre": "animation"
     }
   ]
 }

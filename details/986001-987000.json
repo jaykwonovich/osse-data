@@ -1,6 +1,6 @@
 {
   "range": "986001-987000",
-  "updated_at": 1780003048392,
+  "updated_at": 1780004424431,
   "shows": [
     {
       "id": 986056,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
       "plot_overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 986056
+      "tmdb_id": 986056,
+      "genre": "action"
     }
   ]
 }

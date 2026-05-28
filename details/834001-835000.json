@@ -1,6 +1,6 @@
 {
   "range": "834001-835000",
-  "updated_at": 1780003048386,
+  "updated_at": 1780004424426,
   "shows": [
     {
       "id": 834027,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gV2wSIlNMIUxEArKYrTF2NX4tjb.jpg",
       "plot_overview": "For over 40 years Val Kilmer, one of Hollywood\u2019s most mercurial and/or misunderstood actors has been documenting his own life and craft through film and video. He has amassed thousands of hours of footage, from 16mm home movies made with his brothers, to time spent in iconic roles for blockbuster movies like Top Gun, The Doors, Tombstone, and Batman Forever. This raw, wildly original and unflinching documentary reveals a life lived to extremes and a heart-filled, sometimes hilarious look at what",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.212,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 834027
+      "tmdb_id": 834027,
+      "genre": "documentary"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "392001-393000",
-  "updated_at": 1780003048357,
+  "updated_at": 1780004424398,
   "shows": [
     {
       "id": 392216,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qnTeIxszgMsFJmPXVGLtj7rxVxN.jpg",
       "plot_overview": "Phineas and Ferb become the galaxy's unlikeliest last hope when they must return the Death Star plans to the Rebel Alliance.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.158,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 392216
+      "tmdb_id": 392216,
+      "genre": "animation"
     }
   ]
 }

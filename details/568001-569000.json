@@ -1,6 +1,6 @@
 {
   "range": "568001-569000",
-  "updated_at": 1780003048370,
+  "updated_at": 1780004424412,
   "shows": [
     {
       "id": 568124,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
       "plot_overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family\u2014every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.569,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 568124
+      "tmdb_id": 568124,
+      "genre": "animation"
     }
   ]
 }

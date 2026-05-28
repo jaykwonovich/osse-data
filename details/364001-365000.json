@@ -1,6 +1,6 @@
 {
   "range": "364001-365000",
-  "updated_at": 1780003048356,
+  "updated_at": 1780004424396,
   "shows": [
     {
       "id": 364689,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sTOhZruocNubL0HxjvdouwCEL9I.jpg",
       "plot_overview": "Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow. But one day five men come to choose the \"biggest, fastest, roughest bull\" for the bullfights in Madrid\u2014 and Ferdinand is mistakenly chosen.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 364689
+      "tmdb_id": 364689,
+      "genre": "animation"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "1265001-1266000",
-  "updated_at": 1780003048400,
+  "updated_at": 1780004424439,
   "shows": [
     {
       "id": 1265609,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
       "plot_overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "genres": [],
+      "genres": [
+        "action",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1265609
+      "tmdb_id": 1265609,
+      "genre": "action"
     }
   ]
 }

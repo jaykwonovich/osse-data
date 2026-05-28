@@ -1,6 +1,6 @@
 {
   "range": "457001-458000",
-  "updated_at": 1780003048362,
+  "updated_at": 1780004424403,
   "shows": [
     {
       "id": 457840,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fhajBJchq74U0KmVV1uSH6mMjxw.jpg",
       "plot_overview": "The ambitious friends come together during the holidays after a mystery assailant targets one of their own. A comedic thrill-ride follows, as the wild and unpredictable Psych team pursues the bad guys, justice \u2026 and, of course, food!",
       "genres": [
-        "Comedy",
-        "Crime",
-        "Mystery"
+        "comedy",
+        "crime",
+        "mystery"
       ],
       "user_rating": 7.258,
       "critic_score": null,
@@ -33,7 +33,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 457840
+      "tmdb_id": 457840,
+      "genre": "comedy"
     }
   ]
 }

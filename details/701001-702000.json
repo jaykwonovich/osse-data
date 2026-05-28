@@ -1,6 +1,6 @@
 {
   "range": "701001-702000",
-  "updated_at": 1780003048378,
+  "updated_at": 1780004424420,
   "shows": [
     {
       "id": 701387,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
       "plot_overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "science fiction",
+        "thriller"
       ],
       "user_rating": 7.324,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 701387
+      "tmdb_id": 701387,
+      "genre": "comedy"
     }
   ]
 }

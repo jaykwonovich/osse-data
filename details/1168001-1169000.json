@@ -1,6 +1,6 @@
 {
   "range": "1168001-1169000",
-  "updated_at": 1780003048398,
+  "updated_at": 1780004424437,
   "shows": [
     {
       "id": 1168190,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
       "plot_overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
       "genres": [
-        "Comedy",
-        "Crime",
-        "Mystery"
+        "comedy",
+        "crime",
+        "mystery"
       ],
       "user_rating": 6.958,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1168190
+      "tmdb_id": 1168190,
+      "genre": "comedy"
     }
   ]
 }

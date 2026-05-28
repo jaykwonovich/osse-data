@@ -1,6 +1,6 @@
 {
   "range": "26001-27000",
-  "updated_at": 1780003048294,
+  "updated_at": 1780004424334,
   "shows": [
     {
       "id": 26101,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tXRpbIxcQeGxfs0opfm6XgXAyzX.jpg",
       "plot_overview": "This docuseries examines the decades-old murder of Sister Catherine Cesnik and its suspected link to a priest accused of abuse.",
       "genres": [
-        "Documentary",
-        "Mystery",
-        "Crime"
+        "crime",
+        "documentary",
+        "mystery"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 26101
+      "tmdb_id": 26101,
+      "genre": "crime"
     },
     {
       "id": 26736,
@@ -38,9 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9Qvc6fzE3PzodgJ9no11GlLYZJF.jpg",
       "plot_overview": "A young wizard accidentally conjures a spell that puts her family in jeopardy.",
       "genres": [
-        "Family",
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama",
+        "family"
       ],
       "user_rating": 7.303,
       "critic_score": null,
@@ -54,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 26736
+      "tmdb_id": 26736,
+      "genre": "comedy"
     }
   ]
 }

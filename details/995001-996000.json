@@ -1,6 +1,6 @@
 {
   "range": "995001-996000",
-  "updated_at": 1780003048393,
+  "updated_at": 1780004424432,
   "shows": [
     {
       "id": 995133,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wO0MIGcA7w7tBI9Ey80Q4Z7qnPm.jpg",
       "plot_overview": "The unlikely friendship of a boy, a mole, a fox and a horse traveling together in the boy's search for home.",
       "genres": [
-        "Animation",
-        "Family",
-        "Drama"
+        "animation",
+        "drama",
+        "family"
       ],
       "user_rating": 8.2,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 995133
+      "tmdb_id": 995133,
+      "genre": "animation"
     }
   ]
 }

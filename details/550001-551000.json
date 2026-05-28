@@ -1,6 +1,6 @@
 {
   "range": "550001-551000",
-  "updated_at": 1780003048368,
+  "updated_at": 1780004424411,
   "shows": [
     {
       "id": 550205,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg",
       "plot_overview": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 550205
+      "tmdb_id": 550205,
+      "genre": "animation"
     },
     {
       "id": 550776,
@@ -38,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gPW90IPq6Go8hlT0n7Es3cFl7ly.jpg",
       "plot_overview": "On the night she plans on taking her own life, 17-year-old 'Lisa McVey' is kidnapped and finds herself fighting to stay alive and is raped. She manages to talk her attacker into releasing her, but when she returns home, no one believes her story except for one detective, who suspects she was abducted by a serial killer. Based on horrifying true events.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.026,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 550776
+      "tmdb_id": 550776,
+      "genre": "crime"
     },
     {
       "id": 550988,
@@ -64,7 +66,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7py8kUCYaOdFn1TfVS87BDBySOz.jpg",
       "plot_overview": "A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.",
       "genres": [
-        "Comedy"
+        "adventure",
+        "comedy",
+        "science fiction"
       ],
       "user_rating": 7.451,
       "critic_score": null,
@@ -78,7 +82,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 550988
+      "tmdb_id": 550988,
+      "genre": "adventure"
     }
   ]
 }

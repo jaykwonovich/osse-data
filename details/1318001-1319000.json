@@ -1,6 +1,6 @@
 {
   "range": "1318001-1319000",
-  "updated_at": 1780003048405,
+  "updated_at": 1780004424440,
   "shows": [
     {
       "id": 1318447,
@@ -10,7 +10,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
       "plot_overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "genres": [],
+      "genres": [
+        "action",
+        "thriller"
+      ],
       "user_rating": 6.698,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1318447
+      "tmdb_id": 1318447,
+      "genre": "action"
     }
   ]
 }

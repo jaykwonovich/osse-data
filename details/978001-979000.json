@@ -1,6 +1,6 @@
 {
   "range": "978001-979000",
-  "updated_at": 1780003048392,
+  "updated_at": 1780004424431,
   "shows": [
     {
       "id": 978592,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/s1pLloOCKSEzaOwz8PRJgyo5TFX.jpg",
       "plot_overview": "Roy Freeman, an ex-homicide detective with a fractured memory, is forced to revisit a case he can't remember. As a man's life hangs in the balance on death row, Freeman must piece together the brutal evidence from a decade-old murder investigation, uncovering a sinister web of buried secrets and betrayals linking to his past. With only instincts to trust, he faces a chilling truth - sometimes, it's best to let sleeping dogs lie.",
       "genres": [
-        "Mystery",
-        "Crime",
-        "Drama"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.002,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 978592
+      "tmdb_id": 978592,
+      "genre": "crime"
     }
   ]
 }

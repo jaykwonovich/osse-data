@@ -1,6 +1,6 @@
 {
   "range": "288001-289000",
-  "updated_at": 1780003048345,
+  "updated_at": 1780004424388,
   "shows": [
     {
       "id": 288055,
@@ -11,11 +11,11 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hMMWtinDnIjvUeiWKmvpkmnxGnK.jpg",
       "plot_overview": "Two outlaws must navigate the galaxy's dangerous underworld as they chart their destinies.",
       "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Crime",
-        "Drama"
+        "action & adventure",
+        "animation",
+        "crime",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -29,7 +29,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 288055
+      "tmdb_id": 288055,
+      "genre": "action & adventure"
     },
     {
       "id": 288453,
@@ -40,7 +41,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wxlGZZge4QpjLoZa7M3ZMBDNZyz.jpg",
       "plot_overview": "\u201cNext Gen NYC\u201d follows a tangled web of friends raised in the spotlight \u2014 or at least close enough for good lighting \u2014 as they stumble into adulthood one brunch, breakup and spontaneous decision at a time.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -59,7 +60,8 @@
       "next_season": 2,
       "next_air_date": "2026-06-24",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "reality"
     },
     {
       "id": 288670,
@@ -70,7 +72,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mooCqZv9h5rF3vvBt5vKGbYahUH.jpg",
       "plot_overview": "British incarnation of NBC's legendary late-night comedy showcase. Broadcast live each week, this UK version brings the high-wire, anything-can-happen energy that makes 'SNL' a cultural force, now reimagined through a distinctly British lens.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 4.417,
       "critic_score": null,
@@ -84,7 +86,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 288670
+      "tmdb_id": 288670,
+      "genre": "comedy"
     }
   ]
 }

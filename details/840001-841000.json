@@ -1,6 +1,6 @@
 {
   "range": "840001-841000",
-  "updated_at": 1780003048386,
+  "updated_at": 1780004424426,
   "shows": [
     {
       "id": 840464,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wns4x1GyxCudgOZRyhXKjXVJf3T.jpg",
       "plot_overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "genres": [],
+      "genres": [
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 6.413,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 840464
+      "tmdb_id": 840464,
+      "genre": "adventure"
     }
   ]
 }

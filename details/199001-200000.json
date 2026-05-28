@@ -1,6 +1,6 @@
 {
   "range": "199001-200000",
-  "updated_at": 1780003048332,
+  "updated_at": 1780004424372,
   "shows": [
     {
       "id": 199001,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
       "plot_overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.753,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 199001
+      "tmdb_id": 199001,
+      "genre": "drama"
     },
     {
       "id": 199318,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aAVRi7XqkJZE6uUEn2Enbhj8rPx.jpg",
       "plot_overview": "The tight-knit Garvey sisters have always looked out for one another. But when the toxic brother-in-law they all wanted dead actually dies, it turns their lives upside down and tests their bond like nothing before.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.485,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 199318
+      "tmdb_id": 199318,
+      "genre": "crime"
     }
   ]
 }

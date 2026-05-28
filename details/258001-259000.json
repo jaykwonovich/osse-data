@@ -1,6 +1,6 @@
 {
   "range": "258001-259000",
-  "updated_at": 1780003048341,
+  "updated_at": 1780004424384,
   "shows": [
     {
       "id": 258036,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4X86dOxMsrZudL0PdsMv30NGBWZ.jpg",
       "plot_overview": "Inside the bubble of Silicon Valley, a data-mining CEO strives to turn insight and influence into profit and power in this darkly comedic look at the warped dreams, outsized egos, and ethical lapses of the self-styled inventors of the future.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.444,
       "critic_score": null,
@@ -31,7 +31,8 @@
       "next_season": 1,
       "next_air_date": "2026-05-31",
       "next_episode": 8,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "comedy"
     },
     {
       "id": 258480,
@@ -42,7 +43,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/o0ghC4XMIMdbRBXIqSvnPrxwj3W.jpg",
       "plot_overview": "In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -56,7 +58,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 258480
+      "tmdb_id": 258480,
+      "genre": "drama"
     },
     {
       "id": 258918,
@@ -67,9 +70,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/l6kJn2V8Xxnb1VIPa5gYzcmmEqn.jpg",
       "plot_overview": "A brother and sister venture from the US to Sydney, determined to grow their new spray tan business Tansform, but when they get caught up in the city's criminal underworld, they must figure out how to stay alive, out of prison, and in the black.",
       "genres": [
-        "Comedy",
-        "Crime",
-        "Drama"
+        "comedy",
+        "crime",
+        "drama"
       ],
       "user_rating": 7.273,
       "critic_score": null,
@@ -83,7 +86,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 258918
+      "tmdb_id": 258918,
+      "genre": "comedy"
     }
   ]
 }

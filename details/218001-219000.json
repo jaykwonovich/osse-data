@@ -1,6 +1,6 @@
 {
   "range": "218001-219000",
-  "updated_at": 1780003048335,
+  "updated_at": 1780004424377,
   "shows": [
     {
       "id": 218274,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5jybpfzbMbBu1QTPkWKYHkwrJhY.jpg",
       "plot_overview": "With the expertise of entomologist and fellow National Geographic Explorer Dr. Samuel Ramsey, the series uses groundbreaking filming technology to reveal the extraordinary world of bees; and uncover their astonishing architecture and intelligence, unlocking their secrets and featuring never-before-filmed moments.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 9.0,
       "critic_score": null,
@@ -31,7 +31,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 218274
+      "tmdb_id": 218274,
+      "genre": "documentary"
     },
     {
       "id": 218342,
@@ -42,9 +43,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8H3KFYBklgxPiGsc8yWNWqGPZ9G.jpg",
       "plot_overview": "Five years after the death of schoolgirl Andie Bell, Pippa Fitz-Amobi sets out to uncover what really happened to her. Sal Singh, Andie's boyfriend, admitted to the murder before taking his own life, but Pip doesn't believe he's responsible and teams up with Sal's brother Ravi to uncover the truth. If Sal Singh isn't a murderer and the real killer is still out there, how far will they go to keep Pip from finding out the truth?",
       "genres": [
-        "Crime",
-        "Mystery",
-        "Drama"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.382,
       "critic_score": null,
@@ -63,7 +64,8 @@
       "next_season": 2,
       "next_air_date": "2026-06-03",
       "next_episode": 3,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "crime"
     },
     {
       "id": 218347,
@@ -74,8 +76,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
       "plot_overview": "Rhiannon Lewis doesn't make much of an impression - people walk past her in the street without a second glance. That is until she is pushed over the edge and loses control. Rhiannon's life transforms, but can she keep her killer secret?",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.471,
       "critic_score": null,
@@ -89,7 +91,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 218347
+      "tmdb_id": 218347,
+      "genre": "comedy"
     },
     {
       "id": 218589,
@@ -100,7 +103,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vX71TGviqLsOtDNJ9q1QR4m14kH.jpg",
       "plot_overview": "Within the spectacular, complex and corrupt world of gladiatorial sports in Ancient Rome, follow an ensemble of diverse characters across the many layers of Roman society where sports, politics and business intersect and collide.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -114,7 +117,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 218589
+      "tmdb_id": 218589,
+      "genre": "drama"
     }
   ]
 }

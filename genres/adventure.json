@@ -1,6 +1,6 @@
 {
   "genre": "adventure",
-  "updated_at": 1765830970557,
+  "updated_at": 1780004424301,
   "shows": [
     {
       "id": 122,
@@ -8,10 +8,15 @@
       "type": "movie",
       "year": 2003,
       "poster_url": "https://image.tmdb.org/t/p/w342/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
-      "genre": "adventure",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.5,
+      "user_rating": 8.498,
       "release_date": "2003-12-17"
     },
     {
@@ -20,10 +25,15 @@
       "type": "movie",
       "year": 2001,
       "poster_url": "https://image.tmdb.org/t/p/w342/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
-      "genre": "adventure",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.426,
+      "user_rating": 8.435,
       "release_date": "2001-12-18"
     },
     {
@@ -32,11 +42,52 @@
       "type": "movie",
       "year": 2002,
       "poster_url": "https://image.tmdb.org/t/p/w342/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
-      "genre": "adventure",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.411,
+      "user_rating": 8.4,
       "release_date": "2002-12-18"
+    },
+    {
+      "id": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "animation",
+        "science fiction"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.393,
+      "release_date": "2018-12-06"
+    },
+    {
+      "id": 569094,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "animation",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 8.335,
+      "release_date": "2023-05-31"
     },
     {
       "id": 299536,
@@ -44,10 +95,15 @@
       "type": "movie",
       "year": 2018,
       "poster_url": "https://image.tmdb.org/t/p/w342/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-      "genre": "adventure",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.235,
+      "user_rating": 8.236,
       "release_date": "2018-04-25"
     },
     {
@@ -56,11 +112,84 @@
       "type": "movie",
       "year": 1977,
       "poster_url": "https://image.tmdb.org/t/p/w342/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
-      "genre": "adventure",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.204,
+      "user_rating": 8.205,
       "release_date": "1977-05-25"
+    },
+    {
+      "id": 299534,
+      "title": "Avengers: Endgame",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 8.2,
+      "release_date": "2019-04-24"
+    },
+    {
+      "id": 618344,
+      "title": "Justice League Dark: Apokolips War",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.198,
+      "release_date": "2020-05-05"
+    },
+    {
+      "id": 693134,
+      "title": "Dune: Part Two",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.128,
+      "release_date": "2024-02-27"
+    },
+    {
+      "id": 791373,
+      "title": "Zack Snyder's Justice League",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.1,
+      "release_date": "2021-03-18"
     },
     {
       "id": 12445,
@@ -69,10 +198,48 @@
       "year": 2011,
       "poster_url": "https://image.tmdb.org/t/p/w342/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
       "genre": "adventure",
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 8.08,
+      "release_date": "2011-07-12"
+    },
+    {
+      "id": 62,
+      "title": "2001: A Space Odyssey",
+      "type": "movie",
+      "year": 1968,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "mystery",
+        "science fiction"
+      ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.084,
-      "release_date": "2011-07-12"
+      "user_rating": 8.049,
+      "release_date": "1968-04-02"
+    },
+    {
+      "id": 24428,
+      "title": "The Avengers",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 8.031,
+      "release_date": "2012-04-25"
     },
     {
       "id": 673,
@@ -81,10 +248,115 @@
       "year": 2004,
       "poster_url": "https://image.tmdb.org/t/p/w342/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
       "genre": "adventure",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.01,
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 8.008,
       "release_date": "2004-05-31"
+    },
+    {
+      "id": 634649,
+      "title": "Spider-Man: No Way Home",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.935,
+      "release_date": "2021-12-15"
+    },
+    {
+      "id": 1087192,
+      "title": "How to Train Your Dragon",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.933,
+      "release_date": "2025-06-06"
+    },
+    {
+      "id": 447365,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.93,
+      "release_date": "2023-05-03"
+    },
+    {
+      "id": 85,
+      "title": "Raiders of the Lost Ark",
+      "type": "movie",
+      "year": 1981,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.923,
+      "release_date": "1981-06-12"
+    },
+    {
+      "id": 515042,
+      "title": "Free Solo",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "documentary"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.9,
+      "release_date": "2018-09-28"
+    },
+    {
+      "id": 118340,
+      "title": "Guardians of the Galaxy",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.9,
+      "release_date": "2014-07-30"
     },
     {
       "id": 671,
@@ -93,22 +365,64 @@
       "year": 2001,
       "poster_url": "https://image.tmdb.org/t/p/w342/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
       "genre": "adventure",
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.899,
+      "user_rating": 7.9,
       "release_date": "2001-11-16"
+    },
+    {
+      "id": 89,
+      "title": "Indiana Jones and the Last Crusade",
+      "type": "movie",
+      "year": 1989,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.851,
+      "release_date": "1989-05-24"
     },
     {
       "id": 22,
       "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
       "type": "movie",
       "year": 2003,
-      "poster_url": "https://image.tmdb.org/t/p/w342/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
-      "genre": "adventure",
+      "poster_url": "https://image.tmdb.org/t/p/w342/kvDwL2gTf6yxujbsWbsGQB3Z9Wa.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.817,
+      "user_rating": 7.824,
       "release_date": "2003-07-09"
+    },
+    {
+      "id": 522402,
+      "title": "Finch",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama",
+        "science fiction"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.806,
+      "release_date": "2021-11-04"
     },
     {
       "id": 674,
@@ -117,10 +431,64 @@
       "year": 2005,
       "poster_url": "https://image.tmdb.org/t/p/w342/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
       "genre": "adventure",
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.8,
+      "release_date": "2005-11-16"
+    },
+    {
+      "id": 762,
+      "title": "Monty Python and the Holy Grail",
+      "type": "movie",
+      "year": 1975,
+      "poster_url": "https://image.tmdb.org/t/p/w342/h3rksLHevpCbHfSoaUXm85nt2CH.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.8,
+      "release_date": "1975-04-03"
+    },
+    {
+      "id": 438631,
+      "title": "Dune",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "science fiction"
+      ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.801,
-      "release_date": "2005-11-16"
+      "user_rating": 7.781,
+      "release_date": "2021-09-15"
+    },
+    {
+      "id": 1242898,
+      "title": "Predator: Badlands",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.742,
+      "release_date": "2025-11-05"
     },
     {
       "id": 12444,
@@ -129,9 +497,13 @@
       "year": 2010,
       "poster_url": "https://image.tmdb.org/t/p/w342/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
       "genre": "adventure",
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.738,
+      "user_rating": 7.734,
       "release_date": "2010-11-17"
     },
     {
@@ -140,10 +512,15 @@
       "type": "movie",
       "year": 2023,
       "poster_url": "https://image.tmdb.org/t/p/w342/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
-      "genre": "adventure",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "drama"
+      ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.735,
+      "user_rating": 7.709,
       "release_date": "2023-08-09"
     },
     {
@@ -153,22 +530,65 @@
       "year": 2002,
       "poster_url": "https://image.tmdb.org/t/p/w342/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
       "genre": "adventure",
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.705,
+      "user_rating": 7.704,
       "release_date": "2002-11-13"
     },
     {
-      "id": 767,
-      "title": "Harry Potter and the Half-Blood Prince",
+      "id": 545611,
+      "title": "Everything Everywhere All at Once",
       "type": "movie",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
-      "genre": "adventure",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.682,
-      "release_date": "2009-07-15"
+      "user_rating": 7.7,
+      "release_date": "2022-03-24"
+    },
+    {
+      "id": 100402,
+      "title": "Captain America: The Winter Soldier",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.7,
+      "release_date": "2014-03-20"
+    },
+    {
+      "id": 1726,
+      "title": "Iron Man",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.7,
+      "release_date": "2008-04-30"
     },
     {
       "id": 675,
@@ -177,34 +597,527 @@
       "year": 2007,
       "poster_url": "https://image.tmdb.org/t/p/w342/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
       "genre": "adventure",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.674,
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.7,
       "release_date": "2007-07-08"
     },
     {
-      "id": 11688,
-      "title": "The Emperor's New Groove",
+      "id": 9912,
+      "title": "The World's Fastest Indian",
       "type": "movie",
-      "year": 2000,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vUIwPFAAXeCUuS040uGC0xSatcG.jpg",
       "genre": "adventure",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.555,
-      "release_date": "2000-12-15"
+      "genres": [
+        "adventure",
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.7,
+      "release_date": "2005-10-12"
     },
     {
-      "id": 58,
-      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "id": 286217,
+      "title": "The Martian",
       "type": "movie",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
       "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama",
+        "science fiction"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.699,
+      "release_date": "2015-09-30"
+    },
+    {
+      "id": 767,
+      "title": "Harry Potter and the Half-Blood Prince",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.68,
+      "release_date": "2009-07-15"
+    },
+    {
+      "id": 506574,
+      "title": "Descendants 3",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy",
+        "music",
+        "tv movie"
+      ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.373,
-      "release_date": "2006-07-06"
+      "user_rating": 7.671,
+      "release_date": "2019-08-02"
+    },
+    {
+      "id": 293660,
+      "title": "Deadpool",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.623,
+      "release_date": "2016-02-09"
+    },
+    {
+      "id": 19995,
+      "title": "Avatar",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.605,
+      "release_date": "2009-12-16"
+    },
+    {
+      "id": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.6,
+      "release_date": "2017-04-25"
+    },
+    {
+      "id": 76600,
+      "title": "Avatar: The Way of Water",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.593,
+      "release_date": "2022-12-14"
+    },
+    {
+      "id": 630,
+      "title": "The Wizard of Oz",
+      "type": "movie",
+      "year": 1939,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.584,
+      "release_date": "1939-08-15"
+    },
+    {
+      "id": 57158,
+      "title": "The Hobbit: The Desolation of Smaug",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.578,
+      "release_date": "2013-12-11"
+    },
+    {
+      "id": 106,
+      "title": "Predator",
+      "type": "movie",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.553,
+      "release_date": "1987-06-12"
+    },
+    {
+      "id": 618588,
+      "title": "Arthur the King",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zkKB3kOun5DKAkm61pHvLbrjxfa.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.546,
+      "release_date": "2024-02-22"
+    },
+    {
+      "id": 967,
+      "title": "Spartacus",
+      "type": "movie",
+      "year": 1960,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama",
+        "history",
+        "war"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.538,
+      "release_date": "1960-10-13"
+    },
+    {
+      "id": 575264,
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2023-07-08"
+    },
+    {
+      "id": 436969,
+      "title": "The Suicide Squad",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.5,
+      "release_date": "2021-07-28"
+    },
+    {
+      "id": 330459,
+      "title": "Rogue One: A Star Wars Story",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.5,
+      "release_date": "2016-12-14"
+    },
+    {
+      "id": 127585,
+      "title": "X-Men: Days of Future Past",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.5,
+      "release_date": "2014-05-15"
+    },
+    {
+      "id": 566525,
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.495,
+      "release_date": "2021-09-01"
+    },
+    {
+      "id": 383498,
+      "title": "Deadpool 2",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.49,
+      "release_date": "2018-05-15"
+    },
+    {
+      "id": 588228,
+      "title": "The Tomorrow War",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.479,
+      "release_date": "2021-09-03"
+    },
+    {
+      "id": 1895,
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.467,
+      "release_date": "2005-05-17"
+    },
+    {
+      "id": 786892,
+      "title": "Furiosa: A Mad Max Saga",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.454,
+      "release_date": "2024-05-22"
+    },
+    {
+      "id": 550988,
+      "title": "Free Guy",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "comedy",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.451,
+      "release_date": "2021-08-11"
+    },
+    {
+      "id": 101299,
+      "title": "The Hunger Games: Catching Fire",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.427,
+      "release_date": "2013-11-15"
+    },
+    {
+      "id": 284052,
+      "title": "Doctor Strange",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.42,
+      "release_date": "2016-10-25"
+    },
+    {
+      "id": 318279,
+      "title": "Meru",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hcGQ5KHcs7vwK1dXsPoKYQQTt3q.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.416,
+      "release_date": "2015-01-25"
+    },
+    {
+      "id": 429617,
+      "title": "Spider-Man: Far From Home",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.4,
+      "release_date": "2019-06-28"
+    },
+    {
+      "id": 284054,
+      "title": "Black Panther",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.4,
+      "release_date": "2018-02-13"
+    },
+    {
+      "id": 417320,
+      "title": "Descendants 2",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qoNlGfQmFZ37Gf5fRBaCTLlOZtx.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.4,
+      "release_date": "2017-07-21"
+    },
+    {
+      "id": 271110,
+      "title": "Captain America: Civil War",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.4,
+      "release_date": "2016-04-27"
     },
     {
       "id": 49051,
@@ -212,23 +1125,439 @@
       "type": "movie",
       "year": 2012,
       "poster_url": "https://image.tmdb.org/t/p/w342/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
-      "genre": "adventure",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.364,
+      "user_rating": 7.4,
       "release_date": "2012-12-12"
     },
     {
-      "id": 762509,
-      "title": "Mufasa: The Lion King",
+      "id": 87827,
+      "title": "Life of Pi",
       "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
       "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.4,
+      "release_date": "2012-11-20"
+    },
+    {
+      "id": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.34,
-      "release_date": "2024-12-18"
+      "user_rating": 7.4,
+      "release_date": "2006-07-06"
+    },
+    {
+      "id": 20312,
+      "title": "Interstate 60",
+      "type": "movie",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zZQt29qBWLoVVOo8HEFzFYRAgYQ.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama",
+        "fantasy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.385,
+      "release_date": "2002-04-13"
+    },
+    {
+      "id": 57586,
+      "title": "African Cats",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "documentary"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.367,
+      "release_date": "2011-04-21"
+    },
+    {
+      "id": 16320,
+      "title": "Serenity",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.361,
+      "release_date": "2005-09-25"
+    },
+    {
+      "id": 2756,
+      "title": "The Abyss",
+      "type": "movie",
+      "year": 1989,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.352,
+      "release_date": "1989-08-09"
+    },
+    {
+      "id": 1061474,
+      "title": "Superman",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.344,
+      "release_date": "2025-07-09"
+    },
+    {
+      "id": 387426,
+      "title": "Okja",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama",
+        "science fiction"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.334,
+      "release_date": "2017-06-28"
+    },
+    {
+      "id": 122917,
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.334,
+      "release_date": "2014-12-10"
+    },
+    {
+      "id": 315635,
+      "title": "Spider-Man: Homecoming",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.33,
+      "release_date": "2017-07-05"
+    },
+    {
+      "id": 425909,
+      "title": "Ghostbusters: Afterlife",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.327,
+      "release_date": "2021-11-18"
+    },
+    {
+      "id": 259316,
+      "title": "Fantastic Beasts and Where to Find Them",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.309,
+      "release_date": "2016-11-16"
+    },
+    {
+      "id": 558,
+      "title": "Spider-Man 2",
+      "type": "movie",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.308,
+      "release_date": "2004-06-25"
+    },
+    {
+      "id": 87,
+      "title": "Indiana Jones and the Temple of Doom",
+      "type": "movie",
+      "year": 1984,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.307,
+      "release_date": "1984-05-23"
+    },
+    {
+      "id": 36040,
+      "title": "Walkabout",
+      "type": "movie",
+      "year": 1971,
+      "poster_url": "https://image.tmdb.org/t/p/w342/24vooYt5StgtgcQObVr1GHuM5gy.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.307,
+      "release_date": "1971-07-01"
+    },
+    {
+      "id": 986056,
+      "title": "Thunderbolts*",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.3,
+      "release_date": "2025-04-30"
+    },
+    {
+      "id": 451048,
+      "title": "Jungle Cruise",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.3,
+      "release_date": "2021-07-28"
+    },
+    {
+      "id": 99861,
+      "title": "Avengers: Age of Ultron",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.3,
+      "release_date": "2015-04-22"
+    },
+    {
+      "id": 169881,
+      "title": "The Physician",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/18eJr4Fc4HKymLgKLgGQbD37SPK.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.3,
+      "release_date": "2013-12-25"
+    },
+    {
+      "id": 49538,
+      "title": "X-Men: First Class",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.3,
+      "release_date": "2011-06-01"
+    },
+    {
+      "id": 13597,
+      "title": "Labyrinth",
+      "type": "movie",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.3,
+      "release_date": "1986-06-27"
+    },
+    {
+      "id": 420809,
+      "title": "Maleficent: Mistress of Evil",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.296,
+      "release_date": "2019-10-16"
+    },
+    {
+      "id": 2270,
+      "title": "Stardust",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7zbFmxy3DqKYL2M8Hop6uylp2Uy.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.29,
+      "release_date": "2007-08-10"
+    },
+    {
+      "id": 615666,
+      "title": "A Boy Called Christmas",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1sRejtiHOZGggZd9RcmdqbapLM5.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.284,
+      "release_date": "2021-11-24"
+    },
+    {
+      "id": 590223,
+      "title": "Love and Monsters",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "comedy",
+        "fantasy",
+        "science fiction"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.271,
+      "release_date": "2020-10-16"
     },
     {
       "id": 285,
@@ -236,11 +1565,363 @@
       "type": "movie",
       "year": 2007,
       "poster_url": "https://image.tmdb.org/t/p/w342/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
-      "genre": "adventure",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.266,
+      "user_rating": 7.271,
       "release_date": "2007-05-19"
+    },
+    {
+      "id": 140607,
+      "title": "Star Wars: The Force Awakens",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.249,
+      "release_date": "2015-12-15"
+    },
+    {
+      "id": 211387,
+      "title": "Marvel One-Shot: Agent Carter",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4vFKKWPvCVDJTOWiwReBfpAMScP.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.247,
+      "release_date": "2013-10-04"
+    },
+    {
+      "id": 8844,
+      "title": "Jumanji",
+      "type": "movie",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iWV47r6kFneCiApgrMII5HSkfHw.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.247,
+      "release_date": "1995-12-15"
+    },
+    {
+      "id": 453395,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.23,
+      "release_date": "2022-05-04"
+    },
+    {
+      "id": 1029575,
+      "title": "The Family Plan",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.223,
+      "release_date": "2023-12-14"
+    },
+    {
+      "id": 70160,
+      "title": "The Hunger Games",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.223,
+      "release_date": "2012-03-12"
+    },
+    {
+      "id": 297762,
+      "title": "Wonder Woman",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.209,
+      "release_date": "2017-05-30"
+    },
+    {
+      "id": 6978,
+      "title": "Big Trouble in Little China",
+      "type": "movie",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.206,
+      "release_date": "1986-05-30"
+    },
+    {
+      "id": 948713,
+      "title": "The Last Kingdom: Seven Kings Must Die",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qcNDxDzd5OW9wE3c8nWxCBQoBrM.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "war"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.205,
+      "release_date": "2023-04-14"
+    },
+    {
+      "id": 1019939,
+      "title": "Hundreds of Beavers",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jBg64OA2QEWL0zaOFMoAGipeGjJ.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "2024-01-26"
+    },
+    {
+      "id": 497698,
+      "title": "Black Widow",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.2,
+      "release_date": "2021-07-07"
+    },
+    {
+      "id": 912908,
+      "title": "Strays",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/n1hqbSCtyBAxaXEl1Dj3ipXJAJG.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "comedy"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.167,
+      "release_date": "2023-08-17"
+    },
+    {
+      "id": 1924,
+      "title": "Superman",
+      "type": "movie",
+      "year": 1978,
+      "poster_url": "https://image.tmdb.org/t/p/w342/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.166,
+      "release_date": "1978-12-14"
+    },
+    {
+      "id": 575265,
+      "title": "Mission: Impossible - The Final Reckoning",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.163,
+      "release_date": "2025-05-17"
+    },
+    {
+      "id": 277217,
+      "title": "Descendants",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.156,
+      "release_date": "2015-07-31"
+    },
+    {
+      "id": 563,
+      "title": "Starship Troopers",
+      "type": "movie",
+      "year": 1997,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.106,
+      "release_date": "1997-11-07"
+    },
+    {
+      "id": 774752,
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "comedy",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.1,
+      "release_date": "2022-11-24"
+    },
+    {
+      "id": 524047,
+      "title": "Greenland",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.1,
+      "release_date": "2020-07-29"
+    },
+    {
+      "id": 102899,
+      "title": "Ant-Man",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.1,
+      "release_date": "2015-07-14"
+    },
+    {
+      "id": 102651,
+      "title": "Maleficent",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.1,
+      "release_date": "2014-05-28"
     },
     {
       "id": 411,
@@ -249,130 +1930,509 @@
       "year": 2005,
       "poster_url": "https://image.tmdb.org/t/p/w342/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
       "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.135,
+      "user_rating": 7.1,
       "release_date": "2005-12-07"
     },
     {
-      "id": 59468,
-      "title": "The Way",
+      "id": 11639,
+      "title": "The Dark Crystal",
       "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uaRfG7n92IiuYcKLl7LJo2gr6qO.jpg",
+      "year": 1982,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fZPxRaa6gvCyGCh9Xk5kyPqz7fp.jpg",
       "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.132,
-      "release_date": "2010-09-10"
+      "user_rating": 7.1,
+      "release_date": "1982-12-17"
     },
     {
-      "id": 118,
-      "title": "Charlie and the Chocolate Factory",
+      "id": 173,
+      "title": "20,000 Leagues Under the Sea",
       "type": "movie",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+      "year": 1954,
+      "poster_url": "https://image.tmdb.org/t/p/w342/heAEH85fdxEgV98LizHbQCL95iZ.jpg",
       "genre": "adventure",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.04,
-      "release_date": "2005-07-13"
-    },
-    {
-      "id": 10138,
-      "title": "Iron Man 2",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
-      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "fantasy",
+        "science fiction"
+      ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 6.848,
-      "release_date": "2010-04-28"
+      "user_rating": 7.1,
+      "release_date": "1954-12-23"
     },
     {
-      "id": 339964,
-      "title": "Valerian and the City of a Thousand Planets",
+      "id": 12232,
+      "title": "The Thief of Bagdad",
       "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg",
+      "year": 1940,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8Fs29JYTOkDluTXgbvLRIaps6PO.jpg",
       "genre": "adventure",
+      "genres": [
+        "adventure",
+        "fantasy",
+        "romance"
+      ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 6.63,
-      "release_date": "2017-07-19"
+      "user_rating": 7.1,
+      "release_date": "1940-02-19"
     },
     {
-      "id": 507086,
-      "title": "Jurassic World Dominion",
+      "id": 420817,
+      "title": "Aladdin",
       "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
       "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.085,
+      "release_date": "2019-05-22"
+    },
+    {
+      "id": 926,
+      "title": "Galaxy Quest",
+      "type": "movie",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "comedy",
+        "science fiction"
+      ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 6.63,
-      "release_date": "2022-06-01"
+      "user_rating": 7.083,
+      "release_date": "1999-12-25"
     },
     {
-      "id": 818110,
-      "title": "The Magic Flute",
+      "id": 336843,
+      "title": "Maze Runner: The Death Cure",
       "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/AeIKugiQy1e3RZTrwXH1a84D8eo.jpg",
-      "genre": "adventure",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/drbERzlA4cuRWhsTXfFOY4mRR4f.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.082,
+      "release_date": "2018-01-10"
+    },
+    {
+      "id": 653346,
+      "title": "Kingdom of the Planet of the Apes",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 6.442,
-      "release_date": "2022-09-30"
+      "user_rating": 7.056,
+      "release_date": "2024-05-08"
     },
     {
-      "id": 1098006,
-      "title": "Fountain of Youth",
+      "id": 823464,
+      "title": "Godzilla x Kong: The New Empire",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg",
-      "genre": "adventure",
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 6.291,
-      "release_date": "2025-05-19"
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.051,
+      "release_date": "2024-03-27"
     },
     {
-      "id": 32657,
-      "title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "id": 36658,
+      "title": "X2",
       "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg",
-      "genre": "adventure",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bst4alFUXCxISwdRUKSMhhkrX1M.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 6.21,
-      "release_date": "2010-02-01"
+      "user_rating": 7.036,
+      "release_date": "2003-04-27"
     },
     {
-      "id": 217,
-      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "id": 460465,
+      "title": "Mortal Kombat",
       "type": "movie",
-      "year": 2008,
-      "poster_url": "https://image.tmdb.org/t/p/w342/56As6XEM1flWvprX4LgkPl8ii4K.jpg",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.031,
+      "release_date": "2021-04-07"
+    },
+    {
+      "id": 779782,
+      "title": "The School for Good and Evil",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg",
       "genre": "adventure",
+      "genres": [
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.03,
+      "release_date": "2022-10-19"
+    },
+    {
+      "id": 20766,
+      "title": "The Road",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qLaXnLzqleBWQtjvZ6JGVSaKoC3.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama"
+      ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 6.018,
-      "release_date": "2008-05-21"
+      "user_rating": 7.016,
+      "release_date": "2009-11-25"
     },
     {
-      "id": 1478288,
-      "title": "Blaze and the Monster Machines: Super Wheels",
+      "id": 36657,
+      "title": "X-Men",
+      "type": "movie",
+      "year": 2000,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.014,
+      "release_date": "2000-07-13"
+    },
+    {
+      "id": 847,
+      "title": "Willow",
+      "type": "movie",
+      "year": 1988,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.01,
+      "release_date": "1988-05-20"
+    },
+    {
+      "id": 505642,
+      "title": "Black Panther: Wakanda Forever",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.006,
+      "release_date": "2022-11-09"
+    },
+    {
+      "id": 1011477,
+      "title": "Karate Kid: Legends",
       "type": "movie",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/blwYLLCFZDAo6V8VUCwsIotb8W0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/c90Lt7OQGsOmhv6x4JoFdoHzw5l.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.0,
+      "release_date": "2025-05-08"
+    },
+    {
+      "id": 670292,
+      "title": "The Creator",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.0,
+      "release_date": "2023-09-27"
+    },
+    {
+      "id": 639933,
+      "title": "The Northman",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.0,
+      "release_date": "2022-04-07"
+    },
+    {
+      "id": 1771,
+      "title": "Captain America: The First Avenger",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.0,
+      "release_date": "2011-07-22"
+    },
+    {
+      "id": 564,
+      "title": "The Mummy",
+      "type": "movie",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.974,
+      "release_date": "1999-04-16"
+    },
+    {
+      "id": 617126,
+      "title": "The Fantastic 4: First Steps",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/abqOz6EL3yXyOOafCPZxjL1M5bQ.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 6.965,
+      "release_date": "2025-07-23"
+    },
+    {
+      "id": 1930,
+      "title": "The Amazing Spider-Man",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 6.736,
+      "release_date": "2012-06-23"
+    },
+    {
+      "id": 533533,
+      "title": "TRON: Ares",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 6.492,
+      "release_date": "2025-10-08"
+    },
+    {
+      "id": 840464,
+      "title": "Greenland 2: Migration",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
       "genre": "adventure",
-      "service_id": 531,
-      "service_name": "Paramount+",
-      "user_rating": 0.0,
-      "release_date": "2025-01-01"
+      "genres": [
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.413,
+      "release_date": "2026-01-07"
+    },
+    {
+      "id": 1734,
+      "title": "The Mummy Returns",
+      "type": "movie",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.404,
+      "release_date": "2001-05-04"
+    },
+    {
+      "id": 1234821,
+      "title": "Jurassic World Rebirth",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.3,
+      "release_date": "2025-06-23"
+    },
+    {
+      "id": 1234731,
+      "title": "Anaconda",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "comedy",
+        "horror"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 5.901,
+      "release_date": "2025-12-24"
+    },
+    {
+      "id": 1084577,
+      "title": "Balls Up",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 5.872,
+      "release_date": "2026-04-15"
+    },
+    {
+      "id": 1735,
+      "title": "The Mummy: Tomb of the Dragon Emperor",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/A3acM1lX5PNWQa6r5qeMAJOxbnT.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 5.5,
+      "release_date": "2008-07-01"
     }
   ]
 }

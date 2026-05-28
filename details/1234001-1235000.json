@@ -1,6 +1,6 @@
 {
   "range": "1234001-1235000",
-  "updated_at": 1780003048399,
+  "updated_at": 1780004424438,
   "shows": [
     {
       "id": 1234731,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
       "plot_overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
       "genres": [
-        "Comedy"
+        "adventure",
+        "comedy",
+        "horror"
       ],
       "user_rating": 5.901,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1234731
+      "tmdb_id": 1234731,
+      "genre": "adventure"
     },
     {
       "id": 1234821,
@@ -35,7 +38,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
       "plot_overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 6.3,
       "critic_score": null,
       "us_rating": null,
@@ -48,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1234821
+      "tmdb_id": 1234821,
+      "genre": "action"
     }
   ]
 }

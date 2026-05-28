@@ -1,6 +1,6 @@
 {
   "range": "215001-216000",
-  "updated_at": 1780003048335,
+  "updated_at": 1780004424377,
   "shows": [
     {
       "id": 215522,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/trSbjzHQlCxykhGfnS0JMgsGbCC.jpg",
       "plot_overview": "One year after a mysterious accident left her with amnesia, 17-year-old Cadence returns to Beechwood, an island off Martha's Vineyard, seeking answers. As three generations of the distinguished Sinclair family gather at their private summer utopia, no one will talk about the accident \u2013 neither her childhood friends \"The Liars\" nor her first love Gat, forcing her to uncover the truth herself.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.218,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 215522
+      "tmdb_id": 215522,
+      "genre": "drama"
     },
     {
       "id": 215866,
@@ -37,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
       "plot_overview": "A mother and son fleeing from their past form a found family while confronting a harsh landscape of freedom and cruelty in the American West.",
       "genres": [
-        "Western",
-        "Drama",
-        "Action & Adventure"
+        "action & adventure",
+        "drama",
+        "western"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 215866
+      "tmdb_id": 215866,
+      "genre": "action & adventure"
     },
     {
       "id": 215874,
@@ -64,7 +66,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/r178SNOqH4VD1aydevTdiULhJ4R.jpg",
       "plot_overview": "Through a scholarship to a top school, Ishaya ends up in the luxurious world of the happy few in Nigeria, but a secret threatens not only to put an end to this.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 8.104,
       "critic_score": null,
@@ -78,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 215874
+      "tmdb_id": 215874,
+      "genre": "drama"
     }
   ]
 }

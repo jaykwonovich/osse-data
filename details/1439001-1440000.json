@@ -1,6 +1,6 @@
 {
   "range": "1439001-1440000",
-  "updated_at": 1780003048407,
+  "updated_at": 1780004424441,
   "shows": [
     {
       "id": 1439930,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
       "plot_overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.4,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1439930
+      "tmdb_id": 1439930,
+      "genre": "crime"
     }
   ]
 }

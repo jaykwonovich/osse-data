@@ -1,6 +1,6 @@
 {
   "range": "1003001-1004000",
-  "updated_at": 1780003048393,
+  "updated_at": 1780004424432,
   "shows": [
     {
       "id": 1003180,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vVxkzboAYykG7hMwga50KN5gNfo.jpg",
       "plot_overview": "Cat experts dive into the mind of the feline to reveal the true capabilities of the pouncing pet in this captivating and cuddly documentary.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.227,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1003180
+      "tmdb_id": 1003180,
+      "genre": "documentary"
     }
   ]
 }

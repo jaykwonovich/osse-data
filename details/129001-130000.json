@@ -1,6 +1,6 @@
 {
   "range": "129001-130000",
-  "updated_at": 1780003048326,
+  "updated_at": 1780004424366,
   "shows": [
     {
       "id": 129141,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/Af4mmlfn0f5QbUXmmTa9EGstJc8.jpg",
       "plot_overview": "Rebellious Brooklyn teen Summer Torres is sent to live with family friends in the tiny town of Shorehaven on the Great Ocean Road, Victoria, AUS. Despite her best efforts, Summer falls in love with the town, the people and the surf.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.271,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 129141
+      "tmdb_id": 129141,
+      "genre": "drama"
     },
     {
       "id": 129495,
@@ -36,9 +37,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2CIpC7glUacb1urK8Rdr6O2rZnc.jpg",
       "plot_overview": "When family man Nick Brewer is abducted in a crime with a sinister online twist, those closest to him race to uncover who is behind it and why.",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Crime"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.151,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 129495
+      "tmdb_id": 129495,
+      "genre": "crime"
     },
     {
       "id": 129552,
@@ -63,9 +65,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gklrevVndG98GHGDwfm8y8kxESo.jpg",
       "plot_overview": "Brought together by a midnight phone call, an FBI agent and a cybersecurity expert must unravel an ever-growing web of political conspiracies.",
       "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Mystery"
+        "action & adventure",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.708,
       "critic_score": null,
@@ -79,7 +81,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 129552
+      "tmdb_id": 129552,
+      "genre": "action & adventure"
     },
     {
       "id": 129677,
@@ -90,7 +93,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/l6ZOctV4K6gfLRWf7jQQzNOLCtr.jpg",
       "plot_overview": "Though claims of extraterrestrial encounters have long been dismissed, many believe the existence of UFOs is not just likely, but a certainty.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.262,
       "critic_score": null,
@@ -104,7 +107,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 129677
+      "tmdb_id": 129677,
+      "genre": "documentary"
     },
     {
       "id": 129959,
@@ -115,11 +119,11 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/j7FL6KfjEjrGSXt6peQw7U3VL0R.jpg",
       "plot_overview": "Follow the adventures of Po, who partners up with a no-nonsense English knight named Wandering Blade to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Comedy",
-        "Kids",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "comedy",
+        "kids",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.494,
       "critic_score": null,
@@ -133,7 +137,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 129959
+      "tmdb_id": 129959,
+      "genre": "action & adventure"
     }
   ]
 }

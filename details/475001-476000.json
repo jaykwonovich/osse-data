@@ -1,6 +1,6 @@
 {
   "range": "475001-476000",
-  "updated_at": 1780003048363,
+  "updated_at": 1780004424406,
   "shows": [
     {
       "id": 475557,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
       "plot_overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.125,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 475557
+      "tmdb_id": 475557,
+      "genre": "crime"
     }
   ]
 }

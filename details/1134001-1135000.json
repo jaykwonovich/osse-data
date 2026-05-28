@@ -1,6 +1,6 @@
 {
   "range": "1134001-1135000",
-  "updated_at": 1780003048397,
+  "updated_at": 1780004424436,
   "shows": [
     {
       "id": 1134055,
@@ -10,7 +10,9 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/5kCEHZnUeAZFJvE3l8K5OYjIwjj.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gTydwZInr9ncMVFdYUzTcXtiTiT.jpg",
       "plot_overview": "Posing as hunters, a group of terrorists are in search of $100 million that was stolen and lost in a plane crash en route from Afghanistan.",
-      "genres": [],
+      "genres": [
+        "action"
+      ],
       "user_rating": 8.086,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1134055
+      "tmdb_id": 1134055,
+      "genre": "action"
     }
   ]
 }

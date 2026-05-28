@@ -1,6 +1,6 @@
 {
   "range": "107001-108000",
-  "updated_at": 1780003048322,
+  "updated_at": 1780004424361,
   "shows": [
     {
       "id": 107113,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/WCnEPf4ZNPjszndmrFlDxZ5Uvd.jpg",
       "plot_overview": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.",
       "genres": [
-        "Comedy",
-        "Mystery",
-        "Crime"
+        "comedy",
+        "crime",
+        "mystery"
       ],
       "user_rating": 8.449,
       "critic_score": null,
@@ -33,7 +33,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 107113
+      "tmdb_id": 107113,
+      "genre": "comedy"
     },
     {
       "id": 107124,
@@ -44,8 +45,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kgEFD11dQdi8tCUgdNX1Ul02LlW.jpg",
       "plot_overview": "Yakko, Wakko and Dot return for all-new big laughs and the occasional epic takedown of authority figures in serious need of an ego check. Joining the Warners are Starbox & Cindy on their latest play date while Pinky and the Brain's ideas for world domination lead them to all new adventures.",
       "genres": [
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy"
       ],
       "user_rating": 8.4,
       "critic_score": null,
@@ -59,7 +60,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 107124
+      "tmdb_id": 107124,
+      "genre": "animation"
     },
     {
       "id": 107365,
@@ -70,7 +72,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/929XdVflzbgQWtKFDOnak3saK0R.jpg",
       "plot_overview": "The journey of a book smart teen whose life is forever transformed when he moves from the streets of west Philadelphia to live with his relatives in one of LA\u2019s wealthiest suburbs.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.681,
       "critic_score": null,
@@ -84,7 +86,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 107365
+      "tmdb_id": 107365,
+      "genre": "drama"
     }
   ]
 }

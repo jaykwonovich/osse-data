@@ -1,6 +1,6 @@
 {
   "range": "210001-211000",
-  "updated_at": 1780003048334,
+  "updated_at": 1780004424375,
   "shows": [
     {
       "id": 210232,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bebZzFw1mBzF9UwCO3ocW0PIIby.jpg",
       "plot_overview": "A family moves into their suburban dream home, only to discover they've inherited a nightmare.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 210232
+      "tmdb_id": 210232,
+      "genre": "drama"
     },
     {
       "id": 210235,
@@ -37,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bJDJb5NLokHVVtFMQ4jTEijwKI5.jpg",
       "plot_overview": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Mystery"
+        "action & adventure",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.331,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 210235
+      "tmdb_id": 210235,
+      "genre": "action & adventure"
     },
     {
       "id": 210916,
@@ -64,9 +66,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rey2eh6752C2UbGYRileKk1PVTo.jpg",
       "plot_overview": "Recruited out of law school by the CIA, a daredevil young attorney leaps unprepared into the dangerous world of international espionage.",
       "genres": [
-        "Drama",
-        "Crime",
-        "Action & Adventure"
+        "action & adventure",
+        "crime",
+        "drama"
       ],
       "user_rating": 7.457,
       "critic_score": null,
@@ -80,7 +82,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 210916
+      "tmdb_id": 210916,
+      "genre": "action & adventure"
     }
   ]
 }

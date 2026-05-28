@@ -1,6 +1,6 @@
 {
   "range": "948001-949000",
-  "updated_at": 1780003048390,
+  "updated_at": 1780004424429,
   "shows": [
     {
       "id": 948713,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/qcNDxDzd5OW9wE3c8nWxCBQoBrM.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kEhCztSTP4ixu7R0AIWg8vvcvbb.jpg",
       "plot_overview": "In the wake of King Edward's death, Uhtred of Bebbanburg and his comrades adventure across a fractured kingdom in the hopes of uniting England at last.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "war"
+      ],
       "user_rating": 7.205,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 948713
+      "tmdb_id": 948713,
+      "genre": "action"
     }
   ]
 }

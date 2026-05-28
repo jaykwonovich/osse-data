@@ -1,6 +1,6 @@
 {
   "range": "1371001-1372000",
-  "updated_at": 1780003048406,
+  "updated_at": 1780004424441,
   "shows": [
     {
       "id": 1371185,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8dlna8rRcf5gDCRzEsjtHizpj1X.jpg",
       "plot_overview": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
       "genres": [
-        "Drama"
+        "drama",
+        "music",
+        "romance"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1371185
+      "tmdb_id": 1371185,
+      "genre": "drama"
     },
     {
       "id": 1371727,
@@ -36,9 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9Rhs8yzMTtAcOUvJXqUg7kzljb7.jpg",
       "plot_overview": "Buster Moon dreams up a star-studded spectacle set to Michael Jackson's \"Thriller\" in this animated short featuring characters from the hit \"Sing\" films.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.155,
       "critic_score": null,
@@ -52,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1371727
+      "tmdb_id": 1371727,
+      "genre": "animation"
     }
   ]
 }

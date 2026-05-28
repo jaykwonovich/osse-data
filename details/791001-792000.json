@@ -1,6 +1,6 @@
 {
   "range": "791001-792000",
-  "updated_at": 1780003048383,
+  "updated_at": 1780004424423,
   "shows": [
     {
       "id": 791373,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
       "plot_overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 8.1,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 791373
+      "tmdb_id": 791373,
+      "genre": "action"
     }
   ]
 }

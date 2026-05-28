@@ -1,6 +1,6 @@
 {
   "range": "766001-767000",
-  "updated_at": 1780003048381,
+  "updated_at": 1780004424422,
   "shows": [
     {
       "id": 766507,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/2FKjLRt7oK1bRRIrxgWmthbBdFh.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sNhzcUw5cg4JwICjnHZ5XhTKNrU.jpg",
       "plot_overview": "When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.",
-      "genres": [],
+      "genres": [
+        "action",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 766507
+      "tmdb_id": 766507,
+      "genre": "action"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "131001-132000",
-  "updated_at": 1780003048327,
+  "updated_at": 1780004424367,
   "shows": [
     {
       "id": 131142,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/58TgKra21gmqJ77dke2Ys1d0fJe.jpg",
       "plot_overview": "An anthology of sweeping true love stories that captured the world\u2019s attention.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 8.3,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 131142
+      "tmdb_id": 131142,
+      "genre": "drama"
     },
     {
       "id": 131378,
@@ -36,10 +37,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vRAM2el4bAygzUWfwXdt34E71Ee.jpg",
       "plot_overview": "Fionna and Cake \u2013 with the help of the former Ice King, Simon Petrikov - embark on a multiverse-hopping adventure and journey of self-discovery. All the while a powerful new antagonist determined to track them down and erase them from existence, lurks in the shadows.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Comedy",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.7,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 131378
+      "tmdb_id": 131378,
+      "genre": "action & adventure"
     },
     {
       "id": 131651,
@@ -64,8 +66,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pxhxhEKJXznWEavLXJWUxxxdo2X.jpg",
       "plot_overview": "Modern history can be divided into two time frames: before 9/11 and after 9/11. This five-part docuseries is a cohesive chronicle of the September 11, 2001 attacks on the U.S., offering illuminating perspectives and personal stories of how the catastrophic events of that day changed the course of the nation.",
       "genres": [
-        "Documentary",
-        "War & Politics"
+        "documentary",
+        "war & politics"
       ],
       "user_rating": 7.246,
       "critic_score": null,
@@ -79,7 +81,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 131651
+      "tmdb_id": 131651,
+      "genre": "documentary"
     },
     {
       "id": 131927,
@@ -90,8 +93,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/e6v08948EZVvLrx0sWpmglguY9e.jpg",
       "plot_overview": "10 years after Dexter went missing in the eye of Hurricane Laura, we find him living under an assumed name in the small town of Iron Lake, New York.  Dexter may be embracing his new life, but in the wake of unexpected events in this close-knit community, his Dark Passenger beckons.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.921,
       "critic_score": null,
@@ -105,7 +108,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 131927
+      "tmdb_id": 131927,
+      "genre": "crime"
     }
   ]
 }

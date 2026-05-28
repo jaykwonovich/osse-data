@@ -1,6 +1,6 @@
 {
   "range": "246001-247000",
-  "updated_at": 1780003048339,
+  "updated_at": 1780004424382,
   "shows": [
     {
       "id": 246246,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ywJcUIMTCjstPLvvyIiPWP3G3m3.jpg",
       "plot_overview": "A stripper's fate takes a turn when she crosses paths with the wealthy, dysfunctional family behind a cosmetics dynasty and a devious trafficking scheme.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.722,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 246246
+      "tmdb_id": 246246,
+      "genre": "drama"
     },
     {
       "id": 246386,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg",
       "plot_overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
       "genres": [
-        "Mystery",
-        "Crime"
+        "crime",
+        "mystery"
       ],
       "user_rating": 8.034,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 246386
+      "tmdb_id": 246386,
+      "genre": "crime"
     },
     {
       "id": 246412,
@@ -62,9 +64,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mRVPTh5JpzvXNtgNXppKROOdrzd.jpg",
       "plot_overview": "When an analyst discovers his eyes and ears have been hacked, he's drawn into a controlled world designed by his agency to draw out their enemies.",
       "genres": [
-        "Action & Adventure",
-        "Mystery",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 6.483,
       "critic_score": null,
@@ -78,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 246412
+      "tmdb_id": 246412,
+      "genre": "action & adventure"
     }
   ]
 }

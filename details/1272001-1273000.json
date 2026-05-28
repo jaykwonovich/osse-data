@@ -1,6 +1,6 @@
 {
   "range": "1272001-1273000",
-  "updated_at": 1780003048400,
+  "updated_at": 1780004424439,
   "shows": [
     {
       "id": 1272837,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
       "plot_overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
-      "genres": [],
+      "genres": [
+        "horror",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.117,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1272837
+      "tmdb_id": 1272837,
+      "genre": "horror"
     }
   ]
 }

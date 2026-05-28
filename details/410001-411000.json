@@ -1,6 +1,6 @@
 {
   "range": "410001-411000",
-  "updated_at": 1780003048359,
+  "updated_at": 1780004424400,
   "shows": [
     {
       "id": 410113,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9p3bwHTpX5Axpyp4gxqmDxWaau0.jpg",
       "plot_overview": "The Loud family travel to Scotland and discover they are descendants of Scottish royalty as they move into their giant ancestral castle.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.26,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 410113
+      "tmdb_id": 410113,
+      "genre": "animation"
     },
     {
       "id": 410718,
@@ -38,7 +39,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mGBmiWmi7JqeTWnrPicRbkXcsuO.jpg",
       "plot_overview": "A look at how climate change affects our environment and what society can do to prevent the demise of endangered species, ecosystems, and native communities across the planet.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 410718
+      "tmdb_id": 410718,
+      "genre": "documentary"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "327001-328000",
-  "updated_at": 1780003048353,
+  "updated_at": 1780004424394,
   "shows": [
     {
       "id": 327331,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lFLwxSd9JReOBBxoUwQFBANcyIl.jpg",
       "plot_overview": "The story of M\u00f6tley Cr\u00fce and their rise from the Sunset Strip club scene of the early 1980s to superstardom.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.434,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 327331
+      "tmdb_id": 327331,
+      "genre": "comedy"
     }
   ]
 }

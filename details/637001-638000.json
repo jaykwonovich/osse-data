@@ -1,6 +1,6 @@
 {
   "range": "637001-638000",
-  "updated_at": 1780003048374,
+  "updated_at": 1780004424416,
   "shows": [
     {
       "id": 637649,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
       "plot_overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.574,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 637649
+      "tmdb_id": 637649,
+      "genre": "crime"
     },
     {
       "id": 637693,
@@ -37,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fZkhO3JhRajayNejQUaIiBegayM.jpg",
       "plot_overview": "Lucky Prescott's life is changed forever when she moves from her home in the city to a small frontier town and befriends a wild mustang named Spirit.",
       "genres": [
-        "Animation",
-        "Family",
-        "Western"
+        "animation",
+        "family",
+        "western"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 637693
+      "tmdb_id": 637693,
+      "genre": "animation"
     }
   ]
 }

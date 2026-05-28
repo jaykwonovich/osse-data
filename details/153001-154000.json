@@ -1,6 +1,6 @@
 {
   "range": "153001-154000",
-  "updated_at": 1780003048329,
+  "updated_at": 1780004424369,
   "shows": [
     {
       "id": 153657,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uBYyvlqcOi6CxmWdokVrb7JICLg.jpg",
       "plot_overview": "Bosch is now making a living as a private investigator two years after he quit the LAPD and finds himself working with one time enemy and top-notch attorney Honey \u201cMoney\u201d Chandler. Meanwhile, Bosch's daughter Maddie is venturing into the world of the LAPD.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.913,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 153657
+      "tmdb_id": 153657,
+      "genre": "crime"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "863001-864000",
-  "updated_at": 1780003048387,
+  "updated_at": 1780004424427,
   "shows": [
     {
       "id": 863873,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jcpUCn3oFKitAnbwosoPqaMFccj.jpg",
       "plot_overview": "When an 8-year-old girl mysteriously vanishes on Caddo Lake, a series of past deaths and disappearances begin to link together, forever altering a broken family\u2019s history.",
       "genres": [
-        "Mystery"
+        "mystery",
+        "science fiction",
+        "thriller"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 863873
+      "tmdb_id": 863873,
+      "genre": "mystery"
     }
   ]
 }

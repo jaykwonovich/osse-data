@@ -1,6 +1,6 @@
 {
   "range": "279001-280000",
-  "updated_at": 1780003048344,
+  "updated_at": 1780004424386,
   "shows": [
     {
       "id": 279471,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uekZzyLReK777QKO9xKwiPOelCQ.jpg",
       "plot_overview": "After shielding himself and his daughter from his family for over a decade, Malcolm is dragged back into their orbit when Hal and Lois demand his presence at their 40th anniversary party.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 8.045,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 279471
+      "tmdb_id": 279471,
+      "genre": "comedy"
     },
     {
       "id": 279601,
@@ -37,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
       "plot_overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
       "genres": [
-        "Comedy",
-        "Family"
+        "comedy",
+        "family"
       ],
       "user_rating": 6.869,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 279601
+      "tmdb_id": 279601,
+      "genre": "comedy"
     },
     {
       "id": 279884,
@@ -63,7 +65,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/z8jxrxboQA3amcwcMVnB4IZAPR4.jpg",
       "plot_overview": "One of the greatest tennis players of all time, Rafael Nadal, reflects on his career, legacy and final season on the court.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -88,7 +90,8 @@
       "next_season": 1,
       "next_air_date": "2026-05-29",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "documentary"
     }
   ]
 }

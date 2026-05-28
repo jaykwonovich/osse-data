@@ -1,6 +1,6 @@
 {
   "range": "119001-120000",
-  "updated_at": 1780003048324,
+  "updated_at": 1780004424364,
   "shows": [
     {
       "id": 119051,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
       "plot_overview": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends \u2014 and foes \u2014 at Nevermore Academy.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Mystery",
-        "Comedy"
+        "comedy",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.348,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 119051
+      "tmdb_id": 119051,
+      "genre": "comedy"
     },
     {
       "id": 119450,
@@ -38,7 +39,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3SozaNPOYUadcmTPgndDibMyDNC.jpg",
       "plot_overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
       "genres": [
-        "Drama"
+        "action",
+        "drama",
+        "science fiction",
+        "thriller"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -52,7 +56,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 119450
+      "tmdb_id": 119450,
+      "genre": "action"
     },
     {
       "id": 119845,
@@ -63,8 +68,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jzjmaQViwuzl82lTniqMQch9jk1.jpg",
       "plot_overview": "Tommy Egan leaves New York behind and plans to take on Chicago, using his outsider status to break all the local rules and rewrite them on his quest to become the biggest drug dealer in the city.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.306,
       "critic_score": null,
@@ -78,7 +83,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 119845
+      "tmdb_id": 119845,
+      "genre": "crime"
     },
     {
       "id": 119934,
@@ -89,9 +95,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fv2GZXxw53LXpgFLKOArE5Yut8F.jpg",
       "plot_overview": "Interconnected phone conversations chronicle the mysterious story of a group of strangers whose lives are thrown into disarray in the lead-up to an apocalyptic event.",
       "genres": [
-        "Mystery",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.069,
       "critic_score": null,
@@ -105,7 +111,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 119934
+      "tmdb_id": 119934,
+      "genre": "drama"
     }
   ]
 }

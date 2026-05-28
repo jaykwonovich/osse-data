@@ -1,6 +1,6 @@
 {
   "range": "393001-394000",
-  "updated_at": 1780003048357,
+  "updated_at": 1780004424398,
   "shows": [
     {
       "id": 393624,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wONHmd6x0UW6AV1DLzxlNwH9sQn.jpg",
       "plot_overview": "The true story of British intelligence whistleblower Katharine Gun who\u2014prior to the 2003 Iraq invasion\u2014leaked a top-secret NSA memo exposing a joint US-UK illegal spying operation against members of the UN Security Council. The memo proposed blackmailing member states into voting for war.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "thriller"
       ],
       "user_rating": 7.216,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 393624
+      "tmdb_id": 393624,
+      "genre": "drama"
     }
   ]
 }

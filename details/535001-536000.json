@@ -1,6 +1,6 @@
 {
   "range": "535001-536000",
-  "updated_at": 1780003048367,
+  "updated_at": 1780004424410,
   "shows": [
     {
       "id": 535544,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lgQQ6n1vPw40buW7QGc1DxDzQS9.jpg",
       "plot_overview": "The beloved Crawleys and their intrepid staff prepare for the most important moment of their lives. A royal visit from the King and Queen of England will unleash scandal, romance and intrigue that will leave the future of Downton hanging in the balance.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "romance"
       ],
       "user_rating": 7.134,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 535544
+      "tmdb_id": 535544,
+      "genre": "drama"
     }
   ]
 }

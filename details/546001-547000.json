@@ -1,6 +1,6 @@
 {
   "range": "546001-547000",
-  "updated_at": 1780003048368,
+  "updated_at": 1780004424411,
   "shows": [
     {
       "id": 546121,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rLchzndbDRy41J9X363pMePbV5x.jpg",
       "plot_overview": "Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.",
       "genres": [
-        "Drama"
+        "drama",
+        "horror",
+        "thriller"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 546121
+      "tmdb_id": 546121,
+      "genre": "drama"
     },
     {
       "id": 546554,
@@ -36,9 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
       "plot_overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
       "genres": [
-        "Comedy",
-        "Crime",
-        "Mystery"
+        "comedy",
+        "crime",
+        "mystery"
       ],
       "user_rating": 7.841,
       "critic_score": null,
@@ -52,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 546554
+      "tmdb_id": 546554,
+      "genre": "comedy"
     },
     {
       "id": 546728,
@@ -63,9 +67,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/s0soN8OvruecCZkabzJqjsV73K8.jpg",
       "plot_overview": "Taking place during the events of Incredibles 2, Edna Mode babysits Jack-Jack.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -79,7 +83,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 546728
+      "tmdb_id": 546728,
+      "genre": "animation"
     }
   ]
 }

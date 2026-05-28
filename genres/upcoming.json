@@ -1,15 +1,37 @@
 {
   "genre": "upcoming",
-  "updated_at": 1780003068291,
-  "processing_stats": {
-    "total": 74,
-    "rules": 8,
-    "gemini": 0,
-    "cache": 0,
-    "kept": 74,
-    "filtered": 0
-  },
+  "updated_at": 1780004424311,
   "shows": [
+    {
+      "id": 310355,
+      "title": "Rough Draft",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-08-21"
+    },
+    {
+      "id": 321048,
+      "title": "Piggy: Rise Of The Insolence",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-08-21"
+    },
     {
       "id": 294722,
       "title": "The Dynasty: UConn Huskies",
@@ -23,18 +45,7 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 0.0,
-      "release_date": "2026-08-20",
-      "production_companies": [
-        "Skydance Sports",
-        "Learfield Studios",
-        "Revue Studios"
-      ],
-      "networks": [
-        "Apple TV"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
+      "release_date": "2026-08-20"
     },
     {
       "id": 95350,
@@ -42,26 +53,47 @@
       "type": "tv_series",
       "year": 2026,
       "poster_url": "https://image.tmdb.org/t/p/w342/9WvY1jicpfYLA6KoczwvdMRNGvc.jpg",
-      "genre": "sci-fi & fantasy",
+      "genre": "mystery",
       "genres": [
-        "sci-fi & fantasy",
-        "mystery"
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 0.0,
-      "release_date": "2026-08-16",
-      "production_companies": [
-        "DC Studios",
-        "HBO",
-        "Warner Bros. Television"
+      "release_date": "2026-08-16"
+    },
+    {
+      "id": 320781,
+      "title": "Emberfall",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
       ],
-      "networks": [
-        "HBO"
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-08-16"
+    },
+    {
+      "id": 291350,
+      "title": "Anna Pigeon",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l0sbmOGftWTiDGresoukB7UGNuN.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
       ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-08-07"
     },
     {
       "id": 300480,
@@ -77,18 +109,7 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 0.0,
-      "release_date": "2026-08-07",
-      "production_companies": [
-        "Blink Industries",
-        "Derek Productions",
-        "Shush Creative"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
+      "release_date": "2026-08-07"
     },
     {
       "id": 283297,
@@ -96,26 +117,30 @@
       "type": "tv_series",
       "year": 2026,
       "poster_url": null,
-      "genre": "mystery",
+      "genre": "drama",
       "genres": [
-        "mystery",
-        "drama"
+        "drama",
+        "mystery"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 0.0,
-      "release_date": "2026-08-05",
-      "production_companies": [
-        "Amazon MGM Studios",
-        "Fake Empire Productions",
-        "LuckyChap Entertainment"
+      "release_date": "2026-08-05"
+    },
+    {
+      "id": 319938,
+      "title": "KakuseiHunter Omegahorn",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
       ],
-      "networks": [
-        "Prime Video"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-08-02"
     },
     {
       "id": 8840,
@@ -131,985 +156,7 @@
       "service_id": 318,
       "service_name": "Starz",
       "user_rating": 0.0,
-      "release_date": "2026-07-31",
-      "production_companies": [
-        "Starz",
-        "G-Unit Film & Television",
-        "Expanded Media"
-      ],
-      "networks": [
-        "STARZ"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iQbTbwmLX5Nh1nlH21YUJPWt3Zo.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 0.0,
-      "release_date": "2026-07-23",
-      "production_companies": [
-        "Warner Bros. Television",
-        "Chuck Lorre Productions"
-      ],
-      "networks": [
-        "HBO Max"
-      ],
-      "prediction_source": "rules",
-      "prediction_confidence": 0.9,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 254528,
-      "title": "The Hawk",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/klwdBtkpdW1RIqOl0dkSWJ7mtjq.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-07-16",
-      "production_companies": [
-        "Gloria Sanchez Productions",
-        "T-Street"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 283151,
-      "title": "The Five Star Weekend",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/A0Y6xf8IDDL2dBV3mvu8fWPFYLG.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 0.0,
-      "release_date": "2026-07-16",
-      "production_companies": [
-        "Dinner Party Productions",
-        "UCP"
-      ],
-      "networks": [
-        "Peacock"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 294607,
-      "title": "TRINITY",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-07-16",
-      "production_companies": [
-        "HTM Television",
-        "20th Television"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 241882,
-      "title": "Ride or Die",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "action & adventure",
-      "genres": [
-        "action & adventure"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 0.0,
-      "release_date": "2026-07-15",
-      "production_companies": [
-        "Double Dream",
-        "Orit Entertainment",
-        "Paramount Television Studios",
-        "Amazon MGM Studios"
-      ],
-      "networks": [
-        "Prime Video"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 278624,
-      "title": "Lucky",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rUcgdTYP07efa673pAP9sZLKPc7.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "crime"
-      ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 0.0,
-      "release_date": "2026-07-14",
-      "production_companies": [
-        "Tropper Ink Productions",
-        "Hello Sunshine",
-        "Lady Killer Productions",
-        "Apple Studios"
-      ],
-      "networks": [
-        "Apple TV"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 320503,
-      "title": "Dancing with the Stars: The Next Pro",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tAYW5vaNZ49eSkYw34SDxVrqKMS.jpg",
-      "genre": "reality",
-      "genres": [
-        "reality"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 0.0,
-      "release_date": "2026-07-13",
-      "production_companies": [
-        "BBC Studios"
-      ],
-      "networks": [
-        "ABC"
-      ],
-      "prediction_source": "rules",
-      "prediction_confidence": 0.7,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 286709,
-      "title": "The Westies",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ckyYa7G7IZ7HpoTcaAenJlKL9aH.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "crime"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 0.0,
-      "release_date": "2026-07-12",
-      "production_companies": [
-        "Chris Brancato",
-        "MGM+ Studios"
-      ],
-      "networks": [
-        "MGM+"
-      ],
-      "prediction_source": "rules",
-      "prediction_confidence": 0.85,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 283304,
-      "title": "Little House on the Prairie",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-07-09",
-      "production_companies": [
-        "CBS Studios",
-        "Anonymous Content",
-        "Friendly Family Productions",
-        "Joy Coalition"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 254420,
-      "title": "Elle",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aaxl6bYhG6pzhCCe6Oxk5pAesBN.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "drama"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 0.0,
-      "release_date": "2026-07-01",
-      "production_companies": [
-        "Hello Sunshine",
-        "Amazon MGM Studios",
-        "Marc Platt Productions",
-        "Reunion Pacific Entertainment"
-      ],
-      "networks": [
-        "Prime Video"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 256694,
-      "title": "Adventure Time: Side Quests",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "animation",
-      "genres": [
-        "animation",
-        "action & adventure",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 0.0,
-      "release_date": "2026-06-29",
-      "production_companies": [
-        "Cartoon Network Studios"
-      ],
-      "networks": [
-        "Hulu",
-        "Disney+"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 295780,
-      "title": "Life, Larry and the Pursuit of Unhappiness",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fJ0KbC08ZKNVhHVZXEJE1VChYyH.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 0.0,
-      "release_date": "2026-06-26",
-      "production_companies": [
-        "Higher Ground",
-        "HBO"
-      ],
-      "networks": [
-        "HBO"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 322427,
-      "title": "The American Experiment",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-06-24",
-      "production_companies": [
-        "Luminant Media",
-        "Playtone"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 278178,
-      "title": "I Will Find You",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery",
-        "crime"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-06-18",
-      "production_companies": [
-        "Final Twist Productions"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 324002,
-      "title": "Sidemen Present: SideMenu",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "reality",
-      "genres": [
-        "reality"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 0.0,
-      "release_date": "2026-06-18",
-      "production_companies": [
-        "Sidemen Entertaintment"
-      ],
-      "networks": [
-        "YouTube",
-        "Prime Video"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 321623,
-      "title": "The Season",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vJJkkSqMEvmXso1Vi5WAjCqnFR7.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 0.0,
-      "release_date": "2026-06-17",
-      "production_companies": [
-        "PCCW Media",
-        "SK Global Entertainment"
-      ],
-      "networks": [
-        "Hulu",
-        "Now TV"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 322928,
-      "title": "Million Dollar Nannies",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "reality",
-      "genres": [
-        "reality"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 0.0,
-      "release_date": "2026-06-17",
-      "production_companies": [
-        "Hi Mom Productions",
-        "3 Ball Productions",
-        "Walt Disney Television Alternative"
-      ],
-      "networks": [
-        "Freeform"
-      ],
-      "prediction_source": "rules",
-      "prediction_confidence": 0.95,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 205002,
-      "title": "Surviving Earth",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vC6kbdHg4FNceYdxUJnX69ATx9n.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 0.0,
-      "release_date": "2026-06-11",
-      "production_companies": [
-        "Universal Television Alternative Studio",
-        "Loud Minds"
-      ],
-      "networks": [
-        "NBC"
-      ],
-      "prediction_source": "rules",
-      "prediction_confidence": 0.7,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 260592,
-      "title": "Every Year After",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 0.0,
-      "release_date": "2026-06-10",
-      "production_companies": [
-        "Amazon MGM Studios",
-        "Reunion Pacific Entertainment"
-      ],
-      "networks": [
-        "Prime Video"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 323660,
-      "title": "The Rest Is Football",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jLeffM85zW1J8TvkidRtO9pVwiJ.jpg",
-      "genre": "talk",
-      "genres": [
-        "talk"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-06-10",
-      "production_companies": [
-        "Goalhanger Podcasts"
-      ],
-      "networks": [
-        "Netflix",
-        "YouTube"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 322803,
-      "title": "Outlast: The Jungle",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
-      "genre": "reality",
-      "genres": [
-        "reality"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-06-10",
-      "production_companies": [],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 204135,
-      "title": "Dragon Striker",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
-      "genre": "animation",
-      "genres": [
-        "animation"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 0.0,
-      "release_date": "2026-06-09",
-      "production_companies": [
-        "La Chouette Compagnie",
-        "Disney Television Animation",
-        "The Walt Disney Company EMEA"
-      ],
-      "networks": [
-        "Disney XD"
-      ],
-      "prediction_source": "rules",
-      "prediction_confidence": 0.9,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 318203,
-      "title": "Alice and Steve",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gPou8wNiTz1uleLKllclrqanXXf.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "drama"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 0.0,
-      "release_date": "2026-06-08",
-      "production_companies": [
-        "Clerkenwell Films",
-        "The Walt Disney Company EMEA"
-      ],
-      "networks": [
-        "Disney+"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 323411,
-      "title": "The Vampire Lestat",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hcouWCN92SAw7O1XxYT6nkWPkz3.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 0.0,
-      "release_date": "2026-06-07",
-      "production_companies": [
-        "AMC Studios",
-        "Gran Via Productions",
-        "Dwight Street Book Club"
-      ],
-      "networks": [
-        "AMC"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 317375,
-      "title": "Locker Diaries: Phineas And Ferb",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "animation",
-      "genres": [
-        "animation",
-        "kids",
-        "family"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 0.0,
-      "release_date": "2026-06-06",
-      "production_companies": [
-        "Disney Channel"
-      ],
-      "networks": [],
-      "prediction_source": "rules",
-      "prediction_confidence": 0.9,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 277439,
-      "title": "Cape Fear",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "crime"
-      ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 0.0,
-      "release_date": "2026-06-04",
-      "production_companies": [
-        "Eat the Cat",
-        "Amblin Television",
-        "UCP",
-        "Apple Studios"
-      ],
-      "networks": [
-        "Apple TV"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 280511,
-      "title": "The Witness",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zz99X2bWxpwys6Y4Ew7YltKKtqr.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "crime"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-06-04",
-      "production_companies": [
-        "STV Studios"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 322687,
-      "title": "Two Years Later",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1xzFf55zYVDtQI9o3wlsOb6A5Lp.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 531,
-      "service_name": "Paramount+",
-      "user_rating": 0.0,
-      "release_date": "2026-06-04",
-      "production_companies": [],
-      "networks": [
-        "Paramount+"
-      ],
-      "prediction_source": "rules",
-      "prediction_confidence": 0.95,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 323111,
-      "title": "Michael Jackson: The Verdict",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pJaq1DFjtz0F8a1KHFndJ9be20p.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-06-03",
-      "production_companies": [
-        "Candle True Stories"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 284725,
-      "title": "Not Suitable for Work",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 0.0,
-      "release_date": "2026-06-02",
-      "production_companies": [
-        "Warner Bros. Television",
-        "3 Arts Entertainment",
-        "Kaling International"
-      ],
-      "networks": [
-        "Hulu"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 322992,
-      "title": "Devotion: Obedience or Betrayal",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wp0M1y8DTcw01lrokRmLdg6MLiW.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 531,
-      "service_name": "Paramount+",
-      "user_rating": 0.0,
-      "release_date": "2026-06-02",
-      "production_companies": [
-        "See It Now Studios",
-        "NHNZ"
-      ],
-      "networks": [
-        "Paramount+"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 322974,
-      "title": "Bring Me the Beauties: A Model Cult",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/k8Dtiv903vlZNl1Txqqxoejtb2I.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 0.0,
-      "release_date": "2026-06-01",
-      "production_companies": [
-        "HBO Documentary Films",
-        "Library Films"
-      ],
-      "networks": [
-        "HBO"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 279884,
-      "title": "Rafa",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-05-29",
-      "production_companies": [
-        "Skydance Sports"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 319934,
-      "title": "Calabasas Confidential",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2kKpGTxUx7JMk4uUOd7mDdNM9gF.jpg",
-      "genre": "reality",
-      "genres": [
-        "reality"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-05-29",
-      "production_companies": [
-        "Wheelhouse's Spoke Studios",
-        "Kismet Media"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0
-    },
-    {
-      "id": 310355,
-      "title": "Rough Draft",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-08-21",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
-    },
-    {
-      "id": 321048,
-      "title": "Piggy: Rise Of The Insolence",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-08-21",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
-    },
-    {
-      "id": 320781,
-      "title": "Emberfall",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-08-16",
-      "production_companies": [
-        "SmakSmak Enterprises"
-      ],
-      "networks": [
-        "SmakSmak Enterprises"
-      ],
-      "relevance_score": 50.0
-    },
-    {
-      "id": 291350,
-      "title": "Anna Pigeon",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/l0sbmOGftWTiDGresoukB7UGNuN.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery",
-        "crime"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-08-07",
-      "production_companies": [
-        "Cineflix Productions",
-        "December Films",
-        "SEVEN24 Films"
-      ],
-      "networks": [
-        "USA Network"
-      ],
-      "relevance_score": 50.0
-    },
-    {
-      "id": 319938,
-      "title": "KakuseiHunter Omegahorn",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-08-02",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-07-31"
     },
     {
       "id": 321954,
@@ -1124,15 +171,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-07-29",
-      "production_companies": [
-        "Scout Productions",
-        "Belcheri Productions"
-      ],
-      "networks": [
-        "Freeform"
-      ],
-      "relevance_score": 50.0
+      "release_date": "2026-07-29"
     },
     {
       "id": 290307,
@@ -1140,19 +179,32 @@
       "type": "tv_series",
       "year": 2026,
       "poster_url": null,
-      "genre": "sci-fi & fantasy",
+      "genre": "drama",
       "genres": [
-        "sci-fi & fantasy",
         "drama",
-        "mystery"
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-07-24",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-07-24"
+    },
+    {
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iQbTbwmLX5Nh1nlH21YUJPWt3Zo.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-07-23"
     },
     {
       "id": 323976,
@@ -1167,10 +219,67 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-07-17",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-07-17"
+    },
+    {
+      "id": 254528,
+      "title": "The Hawk",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/klwdBtkpdW1RIqOl0dkSWJ7mtjq.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-07-16"
+    },
+    {
+      "id": 283151,
+      "title": "The Five Star Weekend",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/A0Y6xf8IDDL2dBV3mvu8fWPFYLG.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 0.0,
+      "release_date": "2026-07-16"
+    },
+    {
+      "id": 294607,
+      "title": "TRINITY",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-07-16"
+    },
+    {
+      "id": 241882,
+      "title": "Ride or Die",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 0.0,
+      "release_date": "2026-07-15"
     },
     {
       "id": 321953,
@@ -1185,14 +294,69 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-07-15",
-      "production_companies": [
-        "BBC Studios"
+      "release_date": "2026-07-15"
+    },
+    {
+      "id": 278624,
+      "title": "Lucky",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rUcgdTYP07efa673pAP9sZLKPc7.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama"
       ],
-      "networks": [
-        "FOX"
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 0.0,
+      "release_date": "2026-07-14"
+    },
+    {
+      "id": 320503,
+      "title": "Dancing with the Stars: The Next Pro",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tAYW5vaNZ49eSkYw34SDxVrqKMS.jpg",
+      "genre": "reality",
+      "genres": [
+        "reality"
       ],
-      "relevance_score": 50.0
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-07-13"
+    },
+    {
+      "id": 286709,
+      "title": "The Westies",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ckyYa7G7IZ7HpoTcaAenJlKL9aH.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-07-12"
+    },
+    {
+      "id": 283304,
+      "title": "Little House on the Prairie",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-07-09"
     },
     {
       "id": 323132,
@@ -1200,24 +364,15 @@
       "type": "tv_series",
       "year": 2026,
       "poster_url": null,
-      "genre": "sci-fi & fantasy",
+      "genre": "action & adventure",
       "genres": [
-        "sci-fi & fantasy",
-        "action & adventure"
+        "action & adventure",
+        "sci-fi & fantasy"
       ],
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-07-09",
-      "production_companies": [
-        "Critical Role Productions"
-      ],
-      "networks": [
-        "YouTube",
-        "Twitch",
-        "Beacon"
-      ],
-      "relevance_score": 50.0
+      "release_date": "2026-07-09"
     },
     {
       "id": 313938,
@@ -1232,10 +387,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-07-07",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-07-07"
     },
     {
       "id": 323168,
@@ -1251,12 +403,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-07-05",
-      "production_companies": [],
-      "networks": [
-        "TLC UK"
-      ],
-      "relevance_score": 50.0
+      "release_date": "2026-07-05"
     },
     {
       "id": 308670,
@@ -1271,10 +418,23 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-07-02",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-07-02"
+    },
+    {
+      "id": 254420,
+      "title": "Elle",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aaxl6bYhG6pzhCCe6Oxk5pAesBN.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 0.0,
+      "release_date": "2026-07-01"
     },
     {
       "id": 314990,
@@ -1289,10 +449,39 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-07-01",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-07-01"
+    },
+    {
+      "id": 256694,
+      "title": "Adventure Time: Side Quests",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 0.0,
+      "release_date": "2026-06-29"
+    },
+    {
+      "id": 295780,
+      "title": "Life, Larry and the Pursuit of Unhappiness",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fJ0KbC08ZKNVhHVZXEJE1VChYyH.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 0.0,
+      "release_date": "2026-06-26"
     },
     {
       "id": 317494,
@@ -1307,12 +496,22 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-26",
-      "production_companies": [],
-      "networks": [
-        "Samsung TV Plus"
+      "release_date": "2026-06-26"
+    },
+    {
+      "id": 322427,
+      "title": "The American Experiment",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "documentary",
+      "genres": [
+        "documentary"
       ],
-      "relevance_score": 50.0
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-06-24"
     },
     {
       "id": 323043,
@@ -1327,12 +526,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-21",
-      "production_companies": [],
-      "networks": [
-        "A&E"
-      ],
-      "relevance_score": 50.0
+      "release_date": "2026-06-21"
     },
     {
       "id": 323842,
@@ -1347,10 +541,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-20",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-06-20"
     },
     {
       "id": 321961,
@@ -1365,12 +556,69 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-19",
-      "production_companies": [],
-      "networks": [
-        "YouTube"
+      "release_date": "2026-06-19"
+    },
+    {
+      "id": 278178,
+      "title": "I Will Find You",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
       ],
-      "relevance_score": 50.0
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-06-18"
+    },
+    {
+      "id": 324002,
+      "title": "Sidemen Present: SideMenu",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "reality",
+      "genres": [
+        "reality"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 0.0,
+      "release_date": "2026-06-18"
+    },
+    {
+      "id": 321623,
+      "title": "The Season",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vJJkkSqMEvmXso1Vi5WAjCqnFR7.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 0.0,
+      "release_date": "2026-06-17"
+    },
+    {
+      "id": 322928,
+      "title": "Million Dollar Nannies",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "reality",
+      "genres": [
+        "reality"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-06-17"
     },
     {
       "id": 323041,
@@ -1385,12 +633,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-15",
-      "production_companies": [],
-      "networks": [
-        "TLC"
-      ],
-      "relevance_score": 50.0
+      "release_date": "2026-06-15"
     },
     {
       "id": 316536,
@@ -1405,10 +648,22 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-12",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-06-12"
+    },
+    {
+      "id": 205002,
+      "title": "Surviving Earth",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vC6kbdHg4FNceYdxUJnX69ATx9n.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-06-11"
     },
     {
       "id": 319782,
@@ -1423,10 +678,83 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-11",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-06-11"
+    },
+    {
+      "id": 260592,
+      "title": "Every Year After",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 0.0,
+      "release_date": "2026-06-10"
+    },
+    {
+      "id": 323660,
+      "title": "The Rest Is Football",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jLeffM85zW1J8TvkidRtO9pVwiJ.jpg",
+      "genre": "talk",
+      "genres": [
+        "talk"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-06-10"
+    },
+    {
+      "id": 322803,
+      "title": "Outlast: The Jungle",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
+      "genre": "reality",
+      "genres": [
+        "reality"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-06-10"
+    },
+    {
+      "id": 204135,
+      "title": "Dragon Striker",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-06-09"
+    },
+    {
+      "id": 318203,
+      "title": "Alice and Steve",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gPou8wNiTz1uleLKllclrqanXXf.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 0.0,
+      "release_date": "2026-06-08"
     },
     {
       "id": 323541,
@@ -1441,14 +769,23 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-08",
-      "production_companies": [
-        "Big Table Media"
+      "release_date": "2026-06-08"
+    },
+    {
+      "id": 323411,
+      "title": "The Vampire Lestat",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hcouWCN92SAw7O1XxYT6nkWPkz3.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "sci-fi & fantasy"
       ],
-      "networks": [
-        "HGTV"
-      ],
-      "relevance_score": 50.0
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 0.0,
+      "release_date": "2026-06-07"
     },
     {
       "id": 323039,
@@ -1463,15 +800,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-07",
-      "production_companies": [
-        "Twofour",
-        "National Geographic"
-      ],
-      "networks": [
-        "National Geographic"
-      ],
-      "relevance_score": 50.0
+      "release_date": "2026-06-07"
     },
     {
       "id": 322785,
@@ -1486,12 +815,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-07",
-      "production_companies": [],
-      "networks": [
-        "Food Network"
-      ],
-      "relevance_score": 50.0
+      "release_date": "2026-06-07"
     },
     {
       "id": 322400,
@@ -1506,15 +830,24 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-07",
-      "production_companies": [
-        "October Films",
-        "CNN"
+      "release_date": "2026-06-07"
+    },
+    {
+      "id": 317375,
+      "title": "Locker Diaries: Phineas And Ferb",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "family",
+        "kids"
       ],
-      "networks": [
-        "CNN"
-      ],
-      "relevance_score": 50.0
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-06-06"
     },
     {
       "id": 321917,
@@ -1529,12 +862,99 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-06",
-      "production_companies": [],
-      "networks": [
-        "YouTube"
+      "release_date": "2026-06-06"
+    },
+    {
+      "id": 277439,
+      "title": "Cape Fear",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama"
       ],
-      "relevance_score": 50.0
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 0.0,
+      "release_date": "2026-06-04"
+    },
+    {
+      "id": 280511,
+      "title": "The Witness",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zz99X2bWxpwys6Y4Ew7YltKKtqr.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-06-04"
+    },
+    {
+      "id": 322687,
+      "title": "Two Years Later",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1xzFf55zYVDtQI9o3wlsOb6A5Lp.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-06-04"
+    },
+    {
+      "id": 323111,
+      "title": "Michael Jackson: The Verdict",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pJaq1DFjtz0F8a1KHFndJ9be20p.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-06-03"
+    },
+    {
+      "id": 284725,
+      "title": "Not Suitable for Work",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 0.0,
+      "release_date": "2026-06-02"
+    },
+    {
+      "id": 322992,
+      "title": "Devotion: Obedience or Betrayal",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wp0M1y8DTcw01lrokRmLdg6MLiW.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 531,
+      "service_name": "Paramount+",
+      "user_rating": 0.0,
+      "release_date": "2026-06-02"
     },
     {
       "id": 323636,
@@ -1549,10 +969,22 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-02",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-06-02"
+    },
+    {
+      "id": 322974,
+      "title": "Bring Me the Beauties: A Model Cult",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/k8Dtiv903vlZNl1Txqqxoejtb2I.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 0.0,
+      "release_date": "2026-06-01"
     },
     {
       "id": 319385,
@@ -1567,15 +999,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-01",
-      "production_companies": [
-        "Superluna Studios",
-        "3BMG"
-      ],
-      "networks": [
-        "History"
-      ],
-      "relevance_score": 50.0
+      "release_date": "2026-06-01"
     },
     {
       "id": 315531,
@@ -1590,12 +1014,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-01",
-      "production_companies": [
-        "09STUDIO"
-      ],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-06-01"
     },
     {
       "id": 285079,
@@ -1610,10 +1029,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-01",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-06-01"
     },
     {
       "id": 320079,
@@ -1630,12 +1046,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-01",
-      "production_companies": [
-        "Xelot Film"
-      ],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-06-01"
     },
     {
       "id": 323449,
@@ -1643,20 +1054,15 @@
       "type": "tv_series",
       "year": 2026,
       "poster_url": null,
-      "genre": "talk",
+      "genre": "reality",
       "genres": [
-        "talk",
-        "reality"
+        "reality",
+        "talk"
       ],
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-01",
-      "production_companies": [],
-      "networks": [
-        "ITV2"
-      ],
-      "relevance_score": 50.0
+      "release_date": "2026-06-01"
     },
     {
       "id": 323879,
@@ -1671,10 +1077,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-06-01",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-06-01"
     },
     {
       "id": 315321,
@@ -1689,15 +1092,37 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-05-30",
-      "production_companies": [
-        "The Intellectual Property Corporation",
-        "CNN"
+      "release_date": "2026-05-30"
+    },
+    {
+      "id": 279884,
+      "title": "Rafa",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
       ],
-      "networks": [
-        "CNN"
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-05-29"
+    },
+    {
+      "id": 319934,
+      "title": "Calabasas Confidential",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2kKpGTxUx7JMk4uUOd7mDdNM9gF.jpg",
+      "genre": "reality",
+      "genres": [
+        "reality"
       ],
-      "relevance_score": 50.0
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-05-29"
     },
     {
       "id": 324004,
@@ -1712,10 +1137,7 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-05-29",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0
+      "release_date": "2026-05-29"
     }
   ]
 }

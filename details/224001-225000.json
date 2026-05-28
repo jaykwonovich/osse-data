@@ -1,6 +1,6 @@
 {
   "range": "224001-225000",
-  "updated_at": 1780003048336,
+  "updated_at": 1780004424378,
   "shows": [
     {
       "id": 224263,
@@ -11,10 +11,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
       "plot_overview": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
       "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Mystery",
-        "Action & Adventure"
+        "action & adventure",
+        "animation",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.788,
       "critic_score": null,
@@ -28,7 +28,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 224263
+      "tmdb_id": 224263,
+      "genre": "action & adventure"
     },
     {
       "id": 224372,
@@ -39,9 +40,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
       "plot_overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.43,
       "critic_score": null,
@@ -55,7 +56,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 224372
+      "tmdb_id": 224372,
+      "genre": "action & adventure"
     },
     {
       "id": 224522,
@@ -66,7 +68,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ws1SRtoZHli7ag36yC5ojUlt5Oh.jpg",
       "plot_overview": "Follow a group of friends as they vacation in the historical Oak Bluffs area of Martha\u2019s Vineyard, one of the most picturesque destinations in New England. From yacht parties to electrifying romance, both fun and drama are on the docket for these young professionals and entrepreneurs during their island getaway.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 4.8,
       "critic_score": null,
@@ -80,7 +82,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 224522
+      "tmdb_id": 224522,
+      "genre": "reality"
     },
     {
       "id": 224941,
@@ -91,8 +94,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
       "plot_overview": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don't have: time.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Mystery"
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.067,
       "critic_score": null,
@@ -106,7 +109,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 224941
+      "tmdb_id": 224941,
+      "genre": "mystery"
     }
   ]
 }

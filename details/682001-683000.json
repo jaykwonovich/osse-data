@@ -1,6 +1,6 @@
 {
   "range": "682001-683000",
-  "updated_at": 1780003048377,
+  "updated_at": 1780004424419,
   "shows": [
     {
       "id": 682110,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sW7VOrkHKYIeV9PaYc5IqGU2XK8.jpg",
       "plot_overview": "After years of swimming every day in the freezing ocean at the tip of Africa, Craig Foster meets an unlikely teacher: a young octopus who displays remarkable curiosity. Visiting her den and tracking her movements for months on end he eventually wins the animal\u2019s trust and they develop a never-before-seen bond between human and wild animal.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.872,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 682110
+      "tmdb_id": 682110,
+      "genre": "documentary"
     },
     {
       "id": 682507,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7Y3LdmsZukXhmwxtO0UF95BFBTt.jpg",
       "plot_overview": "Abandoned by her family, Kya raises herself all alone in the marshes outside of her small town. When her former boyfriend is found dead, Kya is instantly branded by the local townspeople and law enforcement as the prime suspect for his murder.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 682507
+      "tmdb_id": 682507,
+      "genre": "drama"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "615001-616000",
-  "updated_at": 1780003048372,
+  "updated_at": 1780004424415,
   "shows": [
     {
       "id": 615666,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/odKqOY6VE6C59YAdGHB0b5Havye.jpg",
       "plot_overview": "An ordinary young boy called Nikolas sets out on an extraordinary adventure into the snowy north in search of his father who is on a quest to discover the fabled village of the elves, Elfhelm. Taking with him a headstrong reindeer called Blitzen and a loyal pet mouse, Nikolas soon meets his destiny in this magical and endearing story that proves nothing is impossible\u2026",
       "genres": [
-        "Family"
+        "adventure",
+        "family",
+        "fantasy"
       ],
       "user_rating": 7.284,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 615666
+      "tmdb_id": 615666,
+      "genre": "adventure"
     },
     {
       "id": 615777,
@@ -36,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg",
       "plot_overview": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.355,
       "critic_score": null,
@@ -51,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 615777
+      "tmdb_id": 615777,
+      "genre": "comedy"
     }
   ]
 }

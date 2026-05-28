@@ -1,6 +1,6 @@
 {
   "range": "823001-824000",
-  "updated_at": 1780003048385,
+  "updated_at": 1780004424425,
   "shows": [
     {
       "id": 823452,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gub9e0qRZWmmzTV77A6T95HELIF.jpg",
       "plot_overview": "The triumphant underdog story of the University of Washington men's rowing team, who stunned the world by competing at the 1936 Berlin Olympics.",
       "genres": [
-        "Drama"
+        "drama",
+        "history"
       ],
       "user_rating": 7.261,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 823452
+      "tmdb_id": 823452,
+      "genre": "drama"
     },
     {
       "id": 823464,
@@ -35,7 +37,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gvLG3Fnznkxl4SmYfcK8gUuqxM8.jpg",
       "plot_overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence \u2013 and our own.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.051,
       "critic_score": null,
       "us_rating": null,
@@ -54,7 +60,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 823464
+      "tmdb_id": 823464,
+      "genre": "action"
     },
     {
       "id": 823754,
@@ -65,8 +72,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9sfVyE3sP2dkCwDyV7UlYP5TAAR.jpg",
       "plot_overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.998,
       "critic_score": null,
@@ -80,7 +87,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 823754
+      "tmdb_id": 823754,
+      "genre": "comedy"
     }
   ]
 }

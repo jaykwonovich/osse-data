@@ -1,6 +1,6 @@
 {
   "range": "1-1000",
-  "updated_at": 1780003048275,
+  "updated_at": 1780004424312,
   "shows": [
     {
       "id": 11,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg",
       "plot_overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 8.205,
       "critic_score": null,
       "us_rating": null,
@@ -29,7 +33,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 11
+      "tmdb_id": 11,
+      "genre": "action"
     },
     {
       "id": 12,
@@ -40,8 +45,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
       "plot_overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 7.819,
       "critic_score": null,
@@ -61,7 +66,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 12
+      "tmdb_id": 12,
+      "genre": "animation"
     },
     {
       "id": 22,
@@ -71,7 +77,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/kvDwL2gTf6yxujbsWbsGQB3Z9Wa.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zXMGAtDqJ58P8G3W4bwKyYffPhn.jpg",
       "plot_overview": "When wily pirate Captain Barbossa seizes Jack Sparrow\u2019s beloved ship, the Black Pearl, and kidnaps the governor\u2019s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her\u2014only to uncover a terrifying curse that turns Barbossa\u2019s crew into the undead.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.824,
       "critic_score": null,
       "us_rating": null,
@@ -84,7 +94,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 22
+      "tmdb_id": 22,
+      "genre": "action"
     },
     {
       "id": 34,
@@ -95,7 +106,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7PVrAFtg3eAkRhfXzCE00j6XtKn.jpg",
       "plot_overview": "Hyacinth Bucket (whose name, she insists, is pronounced \"Bouquet\") is a suburban housewife in the West Midlands. She would be the first to tell you that she is a gracious hostess, a respected citizen, and a well-connected member of high society. If you don't believe that, just ask her best friend Elizabeth, held captive in Hyacinth's kitchen; or the postmen and neighbours who bristle at the sound of her voice; or Richard, her weary and compliant husband.\n\nIn fact, Hyacinth's reputation could be ",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.686,
       "critic_score": null,
@@ -109,7 +120,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 34
+      "tmdb_id": 34,
+      "genre": "comedy"
     },
     {
       "id": 35,
@@ -120,9 +132,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
       "plot_overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.022,
       "critic_score": null,
@@ -136,7 +148,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 35
+      "tmdb_id": 35,
+      "genre": "animation"
     },
     {
       "id": 45,
@@ -147,8 +160,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rDH6nurRs1XobsOZGQY4bj4Vrvh.jpg",
       "plot_overview": "This fast-paced and stunt-filled motor show tests whether cars, both mundane and extraordinary, live up to their manufacturers' claims. The long-running show travels to locations around the world, performing extreme stunts and challenges to see what the featured cars are capable of doing. The current hosts are Paddy Mcguinness, Chris Harris and Andrew \"Freddie\" Flintoff.",
       "genres": [
-        "Reality",
-        "Talk"
+        "reality",
+        "talk"
       ],
       "user_rating": 7.574,
       "critic_score": null,
@@ -162,7 +175,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 45
+      "tmdb_id": 45,
+      "genre": "reality"
     },
     {
       "id": 52,
@@ -173,9 +187,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rf2uHKzPniVL5LvSVxg5ACxv4cS.jpg",
       "plot_overview": "Crank up the 8-track and flash back to a time when platform shoes and puka shells were all the rage in this hilarious retro-sitcom. For Eric, Kelso, Jackie, Hyde, Donna and Fez, a group of high school teens who spend most of their time hanging out in Eric\u2019s basement, life in the \u201870s isn\u2019t always so groovy. But between trying to figure out the meaning of life, avoiding their parents, and dealing with out-of-control hormones, they\u2019ve learned one thing for sure: they\u2019ll always get by with a little",
       "genres": [
-        "Comedy",
-        "Family",
-        "Drama"
+        "comedy",
+        "drama",
+        "family"
       ],
       "user_rating": 7.929,
       "critic_score": null,
@@ -189,7 +203,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 52
+      "tmdb_id": 52,
+      "genre": "comedy"
     },
     {
       "id": 58,
@@ -199,7 +214,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
       "plot_overview": "Captain Jack Sparrow\u2019s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won\u2019t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests\u2014assuming they can evade execution for aiding a pirate.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
@@ -212,7 +231,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 58
+      "tmdb_id": 58,
+      "genre": "action"
     },
     {
       "id": 62,
@@ -223,7 +243,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
       "plot_overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
       "genres": [
-        "Mystery"
+        "adventure",
+        "mystery",
+        "science fiction"
       ],
       "user_rating": 8.049,
       "critic_score": null,
@@ -237,7 +259,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 62
+      "tmdb_id": 62,
+      "genre": "adventure"
     },
     {
       "id": 63,
@@ -248,7 +271,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg",
       "plot_overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsibl",
       "genres": [
-        "Mystery"
+        "mystery",
+        "science fiction",
+        "thriller"
       ],
       "user_rating": 7.606,
       "critic_score": null,
@@ -262,7 +287,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 63
+      "tmdb_id": 63,
+      "genre": "mystery"
     },
     {
       "id": 69,
@@ -273,7 +299,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pMBKzEotLUzk3NuQiyVjZEDlH70.jpg",
       "plot_overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
       "genres": [
-        "Drama"
+        "drama",
+        "music",
+        "romance"
       ],
       "user_rating": 7.497,
       "critic_score": null,
@@ -287,7 +315,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 69
+      "tmdb_id": 69,
+      "genre": "drama"
     },
     {
       "id": 71,
@@ -298,8 +327,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/urzflyf41uySpgciGHdQzpcaMOY.jpg",
       "plot_overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -313,7 +342,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 71
+      "tmdb_id": 71,
+      "genre": "comedy"
     },
     {
       "id": 77,
@@ -324,7 +354,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
       "plot_overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
       "genres": [
-        "Mystery"
+        "mystery",
+        "thriller"
       ],
       "user_rating": 8.2,
       "critic_score": null,
@@ -350,7 +381,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 77
+      "tmdb_id": 77,
+      "genre": "mystery"
     },
     {
       "id": 85,
@@ -360,7 +392,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
       "plot_overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure"
+      ],
       "user_rating": 7.923,
       "critic_score": null,
       "us_rating": null,
@@ -373,7 +408,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 85
+      "tmdb_id": 85,
+      "genre": "action"
     },
     {
       "id": 87,
@@ -383,7 +419,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
       "plot_overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees \u2013 and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure"
+      ],
       "user_rating": 7.307,
       "critic_score": null,
       "us_rating": null,
@@ -396,7 +435,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 87
+      "tmdb_id": 87,
+      "genre": "action"
     },
     {
       "id": 88,
@@ -407,7 +447,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6iDQCBUSZKzY8Rnu8ECwl2gXcfG.jpg",
       "plot_overview": "Expecting the usual tedium that accompanies a summer in the Catskills with her family, 17-year-old Frances 'Baby' Houseman is surprised to find herself stepping into the shoes of a professional hoofer\u2014and unexpectedly falling in love.",
       "genres": [
-        "Drama"
+        "drama",
+        "music",
+        "romance"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -421,7 +463,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 88
+      "tmdb_id": 88,
+      "genre": "drama"
     },
     {
       "id": 89,
@@ -431,7 +474,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg",
       "plot_overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Ma",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure"
+      ],
       "user_rating": 7.851,
       "critic_score": null,
       "us_rating": null,
@@ -444,7 +490,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 89
+      "tmdb_id": 89,
+      "genre": "action"
     },
     {
       "id": 90,
@@ -455,9 +502,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vxGd8N7Vyfi49xhxZexEXQhRW7O.jpg",
       "plot_overview": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of the incident based on cockpit voice recorders and air traffic control transcripts, as well as eyewitnesses recounts and interviews with aviation experts.",
       "genres": [
-        "Documentary",
-        "Drama",
-        "Crime"
+        "crime",
+        "documentary",
+        "drama"
       ],
       "user_rating": 8.196,
       "critic_score": null,
@@ -477,7 +524,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 90
+      "tmdb_id": 90,
+      "genre": "crime"
     },
     {
       "id": 95,
@@ -488,9 +536,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
       "plot_overview": "Into every generation a slayer is born: one girl in all the world, a chosen one. She alone will wield the strength and skill to fight the vampires, demons, and the forces of darkness; to stop the spread of their evil and the swell of their number. She is the Slayer.",
       "genres": [
-        "Comedy",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "comedy",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.106,
       "critic_score": null,
@@ -504,7 +552,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 95
+      "tmdb_id": 95,
+      "genre": "comedy"
     },
     {
       "id": 105,
@@ -515,8 +564,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jvHw1zF20kYA9gbF2VprXD6uJpq.jpg",
       "plot_overview": "Based on the bestselling book by Candace Bushnell, Sex and the City tells the story of four best friends, all single and in their late thirties, as they pursue their careers and talk about their sex lives, all while trying to survive the New York social scene.\u00a0",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -536,7 +585,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 105
+      "tmdb_id": 105,
+      "genre": "comedy"
     },
     {
       "id": 106,
@@ -546,7 +596,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/otkJlfjB7zJ5h34FEIfemenMbCy.jpg",
       "plot_overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.553,
       "critic_score": null,
       "us_rating": null,
@@ -559,7 +614,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 106
+      "tmdb_id": 106,
+      "genre": "action"
     },
     {
       "id": 111,
@@ -570,8 +626,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1qM2BYNE11Viby8ImC9LC00DgDr.jpg",
       "plot_overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.156,
       "critic_score": null,
@@ -585,7 +641,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 111
+      "tmdb_id": 111,
+      "genre": "crime"
     },
     {
       "id": 114,
@@ -596,7 +653,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
       "plot_overview": "Vivian is a carefree, streetwise diamond in the rough when she meets sophisticated billionaire Edward in a chance encounter that turns into a week-long business arrangement. But Vivian's energetic spirit challenges Edward's no-nonsense approach to life, and soon they are teaching each other \u2013 and falling in love!",
       "genres": [
-        "Comedy"
+        "comedy",
+        "romance"
       ],
       "user_rating": 7.448,
       "critic_score": null,
@@ -610,7 +668,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 114
+      "tmdb_id": 114,
+      "genre": "comedy"
     },
     {
       "id": 115,
@@ -621,8 +680,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hXsy4XCCHrUk81XoRhcooyWejao.jpg",
       "plot_overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
       "genres": [
-        "Comedy",
-        "Crime"
+        "comedy",
+        "crime"
       ],
       "user_rating": 7.839,
       "critic_score": null,
@@ -636,7 +695,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 115
+      "tmdb_id": 115,
+      "genre": "comedy"
     },
     {
       "id": 116,
@@ -647,7 +707,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yUJf20GQ5vifhk9QDxUGotAEaLz.jpg",
       "plot_overview": "Chris, a former tennis pro, takes a job as an instructor and befriends his wealthy young student, Tom. After being introduced to his family, Chris is soon engaged to Tom's sister, Chloe. Despite the professional and financial advantages that this relationship affords him, Chris becomes obsessed with Tom's fiancee, American actress Nola.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance",
+        "thriller"
       ],
       "user_rating": 7.359,
       "critic_score": null,
@@ -661,7 +723,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 116
+      "tmdb_id": 116,
+      "genre": "drama"
     },
     {
       "id": 118,
@@ -672,8 +735,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg",
       "plot_overview": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
       "genres": [
-        "Comedy",
-        "Family"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.039,
       "critic_score": null,
@@ -687,7 +750,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 118
+      "tmdb_id": 118,
+      "genre": "comedy"
     },
     {
       "id": 120,
@@ -697,7 +761,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
       "plot_overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 8.435,
       "critic_score": null,
       "us_rating": null,
@@ -710,7 +778,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 120
+      "tmdb_id": 120,
+      "genre": "action"
     },
     {
       "id": 121,
@@ -720,7 +789,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
       "plot_overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman await",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 8.4,
       "critic_score": null,
       "us_rating": null,
@@ -733,7 +806,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 121
+      "tmdb_id": 121,
+      "genre": "action"
     },
     {
       "id": 122,
@@ -743,7 +817,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
       "plot_overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to dest",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 8.498,
       "critic_score": null,
       "us_rating": null,
@@ -756,7 +834,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 122
+      "tmdb_id": 122,
+      "genre": "action"
     },
     {
       "id": 126,
@@ -767,9 +846,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jCXk0VvqiyulPBzHf1hDN1PK0mW.jpg",
       "plot_overview": "Combines four to five segments of dramatic re-enactments, interviews and updates of real human and paranormal mysteries. An audience interactive call-to-action request allowed viewers to call in with tips to help solve the cases.",
       "genres": [
-        "Mystery",
-        "Drama",
-        "Crime"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.716,
       "critic_score": null,
@@ -789,7 +868,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 126
+      "tmdb_id": 126,
+      "genre": "crime"
     },
     {
       "id": 134,
@@ -800,7 +880,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3igZ4K3pKIEoD2nyvgmmVOMuz3E.jpg",
       "plot_overview": "The crew of Moonbase Alpha must struggle to survive when a massive explosion throws the Moon from orbit into deep space.",
       "genres": [
-        "Sci-Fi & Fantasy"
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.115,
       "critic_score": null,
@@ -820,7 +900,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 134
+      "tmdb_id": 134,
+      "genre": "sci-fi & fantasy"
     },
     {
       "id": 141,
@@ -831,8 +912,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
       "plot_overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.763,
       "critic_score": null,
@@ -852,7 +933,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 141
+      "tmdb_id": 141,
+      "genre": "drama"
     },
     {
       "id": 155,
@@ -863,7 +945,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
       "plot_overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
       "genres": [
-        "Crime"
+        "action",
+        "crime",
+        "thriller"
       ],
       "user_rating": 8.531,
       "critic_score": null,
@@ -877,7 +961,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 155
+      "tmdb_id": 155,
+      "genre": "action"
     },
     {
       "id": 162,
@@ -888,7 +973,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
       "plot_overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.72,
       "critic_score": null,
@@ -908,7 +993,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 162
+      "tmdb_id": 162,
+      "genre": "comedy"
     },
     {
       "id": 164,
@@ -919,8 +1005,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
       "plot_overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -934,7 +1020,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 164
+      "tmdb_id": 164,
+      "genre": "comedy"
     },
     {
       "id": 167,
@@ -945,8 +1032,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/v8xav2JYqqn3O14s0PR4UgWBz95.jpg",
       "plot_overview": "Prot is a patient at a mental hospital who claims to be from a far away planet. His psychiatrist tries to help him, only to begin to doubt his own explanations.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.211,
       "critic_score": null,
@@ -960,7 +1047,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 167
+      "tmdb_id": 167,
+      "genre": "drama"
     },
     {
       "id": 171,
@@ -971,8 +1059,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/weME33HlqhoexXlX9wJ0C9VipCU.jpg",
       "plot_overview": "Sassy sitcom centering on radio and television personality Martin Payne. Series focuses on his romantic relationship with girlfriend Gina, her best friend Pam and escapades with best friends Tommy and Cole.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.576,
       "critic_score": null,
@@ -992,7 +1080,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 171
+      "tmdb_id": 171,
+      "genre": "comedy"
     },
     {
       "id": 173,
@@ -1002,7 +1091,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/heAEH85fdxEgV98LizHbQCL95iZ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6kN5rkADuRtVw7kLD08JyQHZ5OB.jpg",
       "plot_overview": "A ship sent to investigate a wave of mysterious sinkings encounters the advanced submarine, the Nautilus, commanded by Captain Nemo.",
-      "genres": [],
+      "genres": [
+        "adventure",
+        "fantasy",
+        "science fiction"
+      ],
       "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
@@ -1015,7 +1108,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 173
+      "tmdb_id": 173,
+      "genre": "adventure"
     },
     {
       "id": 176,
@@ -1026,8 +1120,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
       "plot_overview": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
       "genres": [
-        "Mystery",
-        "Crime"
+        "crime",
+        "mystery"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -1041,7 +1135,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 176
+      "tmdb_id": 176,
+      "genre": "crime"
     },
     {
       "id": 184,
@@ -1052,8 +1147,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg",
       "plot_overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan \u2014 with help from a bail bondsman \u2014 to keep the money for herself.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.357,
       "critic_score": null,
@@ -1067,7 +1162,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 184
+      "tmdb_id": 184,
+      "genre": "crime"
     },
     {
       "id": 185,
@@ -1078,9 +1174,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gPXlZQr7PR3Ay2pP6XBdvVKmM25.jpg",
       "plot_overview": "Carniv\u00e0le is an American television series set in the United States during the Great Depression and Dust Bowl. In tracing the lives of two disparate groups of people, its overarching story depicts the battle between good and evil and the struggle between free will and destiny; the storyline mixes Christian theology with gnosticism and Masonic lore, particularly that of the Knights Templar.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Mystery",
-        "Drama"
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.889,
       "critic_score": null,
@@ -1094,7 +1190,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 185
+      "tmdb_id": 185,
+      "genre": "drama"
     },
     {
       "id": 186,
@@ -1105,9 +1202,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6k6vAUa0Fm73HB0QBOJbFGTgPq5.jpg",
       "plot_overview": "After the unexpected death of her husband, a suburban mom resorts to selling weed to support her family.",
       "genres": [
-        "Comedy",
-        "Crime",
-        "Drama"
+        "comedy",
+        "crime",
+        "drama"
       ],
       "user_rating": 7.481,
       "critic_score": null,
@@ -1121,7 +1218,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 186
+      "tmdb_id": 186,
+      "genre": "comedy"
     },
     {
       "id": 192,
@@ -1132,8 +1230,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/v4d6PPfqHeUNSdcyBVQ2Xb8yBk0.jpg",
       "plot_overview": "14th-century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence; which is considerable.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -1153,7 +1251,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 192
+      "tmdb_id": 192,
+      "genre": "drama"
     },
     {
       "id": 198,
@@ -1164,7 +1263,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/28vvMlh490bxipmhkbYTQissiof.jpg",
       "plot_overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "romance",
+        "war"
       ],
       "user_rating": 7.801,
       "critic_score": null,
@@ -1178,7 +1279,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 198
+      "tmdb_id": 198,
+      "genre": "comedy"
     },
     {
       "id": 205,
@@ -1189,10 +1291,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jkvvXaN7FPVKGlk8oj9PL0FHNtj.jpg",
       "plot_overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
       "genres": [
-        "Comedy",
-        "Mystery",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "comedy",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.719,
       "critic_score": null,
@@ -1206,7 +1308,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 205
+      "tmdb_id": 205,
+      "genre": "action & adventure"
     },
     {
       "id": 207,
@@ -1217,7 +1320,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sJzekWt8wobtQZel7n8gM3NjiVt.jpg",
       "plot_overview": "The series provides children with valuable tools for growth in key areas of music, social skill development, and cognitive learning through integrated programs combining music, movement, and exploration. With Bear and all his friends, learn about cooperation, teamwork and more.",
       "genres": [
-        "Kids"
+        "kids"
       ],
       "user_rating": 7.523,
       "critic_score": null,
@@ -1231,7 +1334,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 207
+      "tmdb_id": 207,
+      "genre": "kids"
     },
     {
       "id": 218,
@@ -1241,7 +1345,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
       "plot_overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
-      "genres": [],
+      "genres": [
+        "action",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.682,
       "critic_score": null,
       "us_rating": null,
@@ -1260,7 +1368,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 218
+      "tmdb_id": 218,
+      "genre": "action"
     },
     {
       "id": 219,
@@ -1271,8 +1380,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gHZ0m4CVV64GROPLBy8iQOJy0Dr.jpg",
       "plot_overview": "A suburban family that takes in a mysterious teen naive to the world around him. As Kyle begins to show signs of brilliance, solving the mystery of his origin and potential abilities becomes the family's mission.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.045,
       "critic_score": null,
@@ -1286,7 +1395,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 219
+      "tmdb_id": 219,
+      "genre": "drama"
     },
     {
       "id": 229,
@@ -1296,7 +1406,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hrED8MSOn4xJP9Cpk7WomUcFKGI.jpg",
       "plot_overview": "Dr. Frankenstein and his monster both turn out to be alive after being attacked by an angry mob. The now-chastened scientist attempts to escape his past, but a former mentor forces him to assist with the creation of a new creature.",
-      "genres": [],
+      "genres": [
+        "horror",
+        "science fiction"
+      ],
       "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
@@ -1309,7 +1422,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 229
+      "tmdb_id": 229,
+      "genre": "horror"
     },
     {
       "id": 237,
@@ -1320,8 +1434,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/w6mvtiWPuzfV5lPJAXA2sQ8xqBL.jpg",
       "plot_overview": "Kung Lao has triumphed in the Mortal Kombat tournament, defeating Shang Tsung and saving Earth Realm. Now, he must train a new generation of warriors for the next tournament. Meanwhile, an exiled Shang Tsung attempts to thwart Lao's efforts with the aid of supernatural warriors such as Scorpion and Sub-Zero.",
       "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.028,
       "critic_score": null,
@@ -1335,7 +1449,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 237
+      "tmdb_id": 237,
+      "genre": "action & adventure"
     },
     {
       "id": 239,
@@ -1346,8 +1461,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
       "plot_overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
       "genres": [
-        "Comedy",
-        "Crime"
+        "comedy",
+        "crime"
       ],
       "user_rating": 8.079,
       "critic_score": null,
@@ -1361,7 +1476,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 239
+      "tmdb_id": 239,
+      "genre": "comedy"
     },
     {
       "id": 246,
@@ -1372,9 +1488,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
       "plot_overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.8,
       "critic_score": null,
@@ -1394,7 +1510,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 246
+      "tmdb_id": 246,
+      "genre": "action & adventure"
     },
     {
       "id": 251,
@@ -1405,8 +1522,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5QWdGKrPWJQ3WcafuYA2PXL6uQG.jpg",
       "plot_overview": "The surreal adventures of three anthropomorphic fast food items: Master Shake, Frylock and Meatwad, and their human nextdoor neighbor, Carl Brutananadilewski.",
       "genres": [
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy"
       ],
       "user_rating": 7.496,
       "critic_score": null,
@@ -1426,7 +1543,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 251
+      "tmdb_id": 251,
+      "genre": "animation"
     },
     {
       "id": 252,
@@ -1437,8 +1555,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aAL7kV0l3yZtbCFs7J8m4gXldqR.jpg",
       "plot_overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
       "genres": [
-        "Family",
-        "Comedy"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -1464,7 +1582,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 252
+      "tmdb_id": 252,
+      "genre": "comedy"
     },
     {
       "id": 260,
@@ -1475,7 +1594,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zqLR4jm0lPFGnyN55QBSf4pzz5n.jpg",
       "plot_overview": "Richard Hanney has a rude awakening when a glamorous female spy falls into his bed - with a knife in her back. Having a bit of trouble explaining it all to Scotland Yard, he heads for the hills of Scotland to try to clear his name by locating the spy ring known as The 39 Steps.",
       "genres": [
-        "Mystery"
+        "mystery",
+        "thriller"
       ],
       "user_rating": 7.329,
       "critic_score": null,
@@ -1495,7 +1615,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 260
+      "tmdb_id": 260,
+      "genre": "mystery"
     },
     {
       "id": 268,
@@ -1506,7 +1627,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rBN6GPKUDZ6ZKAQiEZegZ0DZb6V.jpg",
       "plot_overview": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
       "genres": [
-        "Crime"
+        "action",
+        "crime",
+        "fantasy"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -1520,7 +1643,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 268
+      "tmdb_id": 268,
+      "genre": "action"
     },
     {
       "id": 269,
@@ -1531,7 +1655,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eDNSgT1xPMKYcEzJ5GG0PCE3NcN.jpg",
       "plot_overview": "In Tree Hill, North Carolina two half brothers share a last name and nothing else. Brooding, blue-collar Lucas is a talented street-side basketball player, but his skills are appreciated only by his friends at the river court. Popular, affluent Nathan basks in the hero-worship of the town, as the star of his high school team. And both boys are the son of former college ball player Dan Scott whose long ago choice to abandon Lucas and his mother Karen, will haunt him long into his life with wife D",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -1551,7 +1675,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 269
+      "tmdb_id": 269,
+      "genre": "drama"
     },
     {
       "id": 272,
@@ -1562,8 +1687,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
       "plot_overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.725,
       "critic_score": null,
@@ -1577,7 +1702,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 272
+      "tmdb_id": 272,
+      "genre": "crime"
     },
     {
       "id": 275,
@@ -1588,8 +1714,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/747dgDfL5d8esobk7h4odaOFhUq.jpg",
       "plot_overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will ",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -1603,7 +1729,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 275
+      "tmdb_id": 275,
+      "genre": "crime"
     },
     {
       "id": 281,
@@ -1614,8 +1741,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lPvwp0esgdnb6L7ypTbgwhhAMxz.jpg",
       "plot_overview": "In the last days of 1999, ex-cop turned street hustler Lenny Nero receives a disc which contains the memories of the murder of a prostitute. With the help of bodyguard Mace, he starts to investigate and is pulled deeper and deeper in a whirl of murder, blackmail and intrigue.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.011,
       "critic_score": null,
@@ -1629,7 +1756,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 281
+      "tmdb_id": 281,
+      "genre": "crime"
     },
     {
       "id": 285,
@@ -1639,7 +1767,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
       "plot_overview": "After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Elizabeth Swann, and Captain Barbossa journey to the ends of the earth to rescue him. And as the East India Trading Company tightens its grip on the seas under Lord Cutler Beckett\u2014now in control of Davy Jones\u2014the fate of piracy hangs by a thread. Now, they must unite the pirate lords for one final stand. But as loyalties are tested and alliances shift, each must ultimately choose where they stand in the battle for freedo",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.271,
       "critic_score": null,
       "us_rating": null,
@@ -1652,7 +1784,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 285
+      "tmdb_id": 285,
+      "genre": "action"
     },
     {
       "id": 289,
@@ -1663,7 +1796,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
       "plot_overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 8.14,
       "critic_score": null,
@@ -1677,7 +1811,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 289
+      "tmdb_id": 289,
+      "genre": "drama"
     },
     {
       "id": 311,
@@ -1688,8 +1823,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xlDUjb0Q5Dv6jPQRF5VE4IMjIy.jpg",
       "plot_overview": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.381,
       "critic_score": null,
@@ -1703,7 +1838,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 311
+      "tmdb_id": 311,
+      "genre": "crime"
     },
     {
       "id": 319,
@@ -1714,7 +1850,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
       "plot_overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
       "genres": [
-        "Crime"
+        "action",
+        "crime",
+        "romance"
       ],
       "user_rating": 7.538,
       "critic_score": null,
@@ -1728,7 +1866,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 319
+      "tmdb_id": 319,
+      "genre": "action"
     },
     {
       "id": 339,
@@ -1739,8 +1878,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xOeGBXInQnwV9BGlneL8r65nL3q.jpg",
       "plot_overview": "A quintet of cabbies in five cities and their remarkable fares on the same eventful night.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.518,
       "critic_score": null,
@@ -1754,7 +1893,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 339
+      "tmdb_id": 339,
+      "genre": "comedy"
     },
     {
       "id": 341,
@@ -1765,7 +1905,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wwim9vwDUrKbXeKcHSwvimWDqcy.jpg",
       "plot_overview": "The close-knit Walker family deals with struggles and triumphs.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -1779,7 +1919,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 341
+      "tmdb_id": 341,
+      "genre": "drama"
     },
     {
       "id": 346,
@@ -1790,11 +1931,11 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3lTao8ECc1OidUuelD3NcR01DmI.jpg",
       "plot_overview": "American Dragon is a coming of age comedy-action series about Jake Long, a 13-year-old Asian-American boy who strives to find balance in his life as a skateboard-grinding, New York 'tween while learning to master his mystical powers (in his secret identity) as the American Dragon, the protector and guardian of all magical creatures secretly living amidst the human world.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Action & Adventure",
-        "Family",
-        "Kids"
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family",
+        "kids"
       ],
       "user_rating": 7.729,
       "critic_score": null,
@@ -1808,7 +1949,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 346
+      "tmdb_id": 346,
+      "genre": "action & adventure"
     },
     {
       "id": 350,
@@ -1819,8 +1961,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
       "plot_overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.423,
       "critic_score": null,
@@ -1846,7 +1988,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 350
+      "tmdb_id": 350,
+      "genre": "comedy"
     },
     {
       "id": 384,
@@ -1857,9 +2000,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9coN2jb3hdDZzN6vxI26cMhElwS.jpg",
       "plot_overview": "Doug Funnie experiences common predicaments while attending school in his new hometown of Bluffington, Virginia.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Kids"
+        "animation",
+        "comedy",
+        "kids"
       ],
       "user_rating": 7.23,
       "critic_score": null,
@@ -1873,7 +2016,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 384
+      "tmdb_id": 384,
+      "genre": "animation"
     },
     {
       "id": 387,
@@ -1884,9 +2028,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aasp5EmwclAQbwfGABWLTNLhjwB.jpg",
       "plot_overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, ",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.708,
       "critic_score": null,
@@ -1905,7 +2049,8 @@
       "next_season": 16,
       "next_air_date": "2026-05-29",
       "next_episode": 21,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "animation"
     },
     {
       "id": 388,
@@ -1916,8 +2061,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uxbVIwkhwhLsZJTZKL8VHAgB3ip.jpg",
       "plot_overview": "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -1931,7 +2076,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 388
+      "tmdb_id": 388,
+      "genre": "crime"
     },
     {
       "id": 404,
@@ -1942,7 +2088,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1S81PpyGwS8eVx4W75uSKzMw4B0.jpg",
       "plot_overview": "Retired farmer and widower Alvin Straight learns one day that his distant brother Lyle has suffered a stroke and may not recover. Alvin is determined to make things right with Lyle while he still can, but his brother lives in Wisconsin, while Alvin is stuck in Iowa with no car and no driver's license. He then has the idea of making the trip on his old lawnmower, thus beginning a picturesque and at times deeply spiritual odyssey.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -1956,7 +2102,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 404
+      "tmdb_id": 404,
+      "genre": "drama"
     },
     {
       "id": 408,
@@ -1967,8 +2114,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4yWayBvwl9gHXaWrDrAslxjL7mh.jpg",
       "plot_overview": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as \"the fairest in the land,\" and Snow White's beauty surpasses her own.",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -1982,7 +2129,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 408
+      "tmdb_id": 408,
+      "genre": "animation"
     },
     {
       "id": 411,
@@ -1993,7 +2141,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tuDhEdza074bA497bO9WFEPs6O6.jpg",
       "plot_overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
       "genres": [
-        "Family"
+        "adventure",
+        "family",
+        "fantasy"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -2007,7 +2157,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 411
+      "tmdb_id": 411,
+      "genre": "adventure"
     },
     {
       "id": 416,
@@ -2018,11 +2169,11 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2CqC0XVbK2mdEkVVDDKXi1jWG0M.jpg",
       "plot_overview": "Harvey Birdman, Attorney at Law features ex-superhero Harvey T. Birdman of Birdman and the Galaxy Trio as an attorney working for a law firm alongside other cartoon stars from 1960s and 1970s Hanna-Barbera cartoon series. Similarly, Harvey's clients are also primarily composed of characters taken from Hanna-Barbera cartoon series of the same era. Many of Birdman's nemeses featured in his former cartoon series also became attorneys, often representing the opposing side of a given case.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Animation",
-        "Comedy",
-        "Action & Adventure",
-        "Crime"
+        "action & adventure",
+        "animation",
+        "comedy",
+        "crime",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.947,
       "critic_score": null,
@@ -2048,7 +2199,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 416
+      "tmdb_id": 416,
+      "genre": "action & adventure"
     },
     {
       "id": 424,
@@ -2059,7 +2211,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
       "plot_overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "war"
       ],
       "user_rating": 8.569,
       "critic_score": null,
@@ -2073,7 +2227,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 424
+      "tmdb_id": 424,
+      "genre": "drama"
     },
     {
       "id": 425,
@@ -2084,9 +2239,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
       "plot_overview": "Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -2100,7 +2255,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 425
+      "tmdb_id": 425,
+      "genre": "animation"
     },
     {
       "id": 433,
@@ -2111,8 +2267,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uS9QP9WfHMjNW65BYdY4nL80SRP.jpg",
       "plot_overview": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.",
       "genres": [
-        "Comedy",
-        "Family"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.544,
       "critic_score": null,
@@ -2126,7 +2282,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 433
+      "tmdb_id": 433,
+      "genre": "comedy"
     },
     {
       "id": 456,
@@ -2137,9 +2294,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
       "plot_overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
       "genres": [
-        "Family",
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 8.017,
       "critic_score": null,
@@ -2159,7 +2316,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 456
+      "tmdb_id": 456,
+      "genre": "animation"
     },
     {
       "id": 469,
@@ -2170,8 +2328,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zhSELy6slpnyDTkCX8bIyBtwoK6.jpg",
       "plot_overview": "New York layabout Willie forms an unexpected bond with his young Hungarian cousin Eva when she pays him a surprise visit. Later, Eva moves in with their aunt in Cleveland, and Willie takes his best friend Eddie to see her\u2014a visit that culminates in a strange, eventful trip to Florida.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.153,
       "critic_score": null,
@@ -2185,7 +2343,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 469
+      "tmdb_id": 469,
+      "genre": "comedy"
     },
     {
       "id": 484,
@@ -2196,9 +2355,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eciikZDLyEBQanGh3zpGNuYHtQ3.jpg",
       "plot_overview": "An unassuming mystery writer turned sleuth uses her professional insight to help solve real-life homicide cases.",
       "genres": [
-        "Mystery",
-        "Crime",
-        "Drama"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -2212,7 +2371,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 484
+      "tmdb_id": 484,
+      "genre": "crime"
     },
     {
       "id": 492,
@@ -2223,8 +2383,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2duvg8bPkSKq5pekqzBgwyCYAxI.jpg",
       "plot_overview": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.419,
       "critic_score": null,
@@ -2238,7 +2398,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 492
+      "tmdb_id": 492,
+      "genre": "comedy"
     },
     {
       "id": 500,
@@ -2249,7 +2410,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
       "plot_overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
       "genres": [
-        "Crime"
+        "crime",
+        "thriller"
       ],
       "user_rating": 8.114,
       "critic_score": null,
@@ -2263,7 +2425,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 500
+      "tmdb_id": 500,
+      "genre": "crime"
     },
     {
       "id": 501,
@@ -2274,7 +2437,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hAlB9MaamrP1eDhGA4AkjSAPxAf.jpg",
       "plot_overview": "Follows the story of \"Grizzly Man\" Timothy Treadwell and what the thirteen summers in a National Park in Alaska were like in his attempt to protect the grizzly bears. The film is full of unique images and a look into the spirit of a man who sacrificed himself for nature.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.53,
       "critic_score": null,
@@ -2288,7 +2451,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 501
+      "tmdb_id": 501,
+      "genre": "documentary"
     },
     {
       "id": 502,
@@ -2299,8 +2463,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
       "plot_overview": "On a special inner city street, the inhabitants\u2014human and muppet\u2014teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
       "genres": [
-        "Kids",
-        "Comedy"
+        "comedy",
+        "kids"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -2320,7 +2484,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 502
+      "tmdb_id": 502,
+      "genre": "comedy"
     },
     {
       "id": 508,
@@ -2331,8 +2496,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
       "plot_overview": "Eight very different couples deal with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.098,
       "critic_score": null,
@@ -2346,7 +2511,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 508
+      "tmdb_id": 508,
+      "genre": "comedy"
     },
     {
       "id": 513,
@@ -2357,9 +2523,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/A8We2BSM6hJ1VWzncssnU2fFsft.jpg",
       "plot_overview": "As new villains overrun Gotham City of the future, the aging Bruce Wayne hangs up the cape of the once invincible Batman. But when troubled teenager Terry McGinnis stumbles upon the Dark Knight's secret, a new alliance is forged. And a triumphant new Batman is born.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.179,
       "critic_score": null,
@@ -2373,7 +2539,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 513
+      "tmdb_id": 513,
+      "genre": "action & adventure"
     },
     {
       "id": 524,
@@ -2384,8 +2551,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
       "plot_overview": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.997,
       "critic_score": null,
@@ -2399,7 +2566,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 524
+      "tmdb_id": 524,
+      "genre": "crime"
     },
     {
       "id": 525,
@@ -2410,8 +2578,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
       "plot_overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
       "genres": [
-        "Comedy",
-        "Crime"
+        "comedy",
+        "crime"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -2425,7 +2593,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 525
+      "tmdb_id": 525,
+      "genre": "comedy"
     },
     {
       "id": 541,
@@ -2436,8 +2605,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3biBcohe172vLq243lFKreiEOwA.jpg",
       "plot_overview": "When illegal card dealer and recovering heroin addict Frankie Machine gets out of prison, he decides to straighten up. Armed with nothing but an old drum set, Frankie tries to get honest work as a drummer. But when his former employer and his old drug dealer re-enter his life, Frankie finds it hard to stay clean and eventually finds himself succumbing to his old habits.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -2451,7 +2620,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 541
+      "tmdb_id": 541,
+      "genre": "crime"
     },
     {
       "id": 543,
@@ -2462,10 +2632,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1HZpsTp3N8QQDSNDu5yEmBAb7s1.jpg",
       "plot_overview": "Follow the adventures and misadventures of Penny, a 14-year-old African American girl who's doing her best to navigate through the early years of teen-dom. Penny's every encounter inevitably spirals into bigger than life situations filled with hi-jinks, hilarity and heart. Her quest to balance her home, school and social lives are further complicated by friends like the sassy Dijonay, Penny's nemesis LaCienega Boulevardez, her loving, if not over-protective parents and her hip-to-the-groove-gran",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Kids",
-        "Family"
+        "animation",
+        "comedy",
+        "family",
+        "kids"
       ],
       "user_rating": 7.743,
       "critic_score": null,
@@ -2479,7 +2649,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 543
+      "tmdb_id": 543,
+      "genre": "animation"
     },
     {
       "id": 549,
@@ -2490,8 +2661,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
       "plot_overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.313,
       "critic_score": null,
@@ -2517,7 +2688,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 549
+      "tmdb_id": 549,
+      "genre": "crime"
     },
     {
       "id": 557,
@@ -2527,7 +2699,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
       "plot_overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
-      "genres": [],
+      "genres": [
+        "action",
+        "science fiction"
+      ],
       "user_rating": 7.329,
       "critic_score": null,
       "us_rating": null,
@@ -2552,7 +2727,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 557
+      "tmdb_id": 557,
+      "genre": "action"
     },
     {
       "id": 558,
@@ -2562,7 +2738,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
       "plot_overview": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.308,
       "critic_score": null,
       "us_rating": null,
@@ -2587,7 +2767,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 558
+      "tmdb_id": 558,
+      "genre": "action"
     },
     {
       "id": 561,
@@ -2597,7 +2778,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/26OvB15pqk3eiKJG8LrXDVzO7Mw.jpg",
       "plot_overview": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
-      "genres": [],
+      "genres": [
+        "action",
+        "fantasy",
+        "horror"
+      ],
       "user_rating": 7.153,
       "critic_score": null,
       "us_rating": null,
@@ -2610,7 +2795,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 561
+      "tmdb_id": 561,
+      "genre": "action"
     },
     {
       "id": 562,
@@ -2620,7 +2806,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
       "plot_overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
-      "genres": [],
+      "genres": [
+        "action",
+        "thriller"
+      ],
       "user_rating": 7.811,
       "critic_score": null,
       "us_rating": null,
@@ -2633,7 +2822,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 562
+      "tmdb_id": 562,
+      "genre": "action"
     },
     {
       "id": 563,
@@ -2643,7 +2833,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7iEfnj3rfyunky6BzvnlwqfoEF0.jpg",
       "plot_overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.106,
       "critic_score": null,
       "us_rating": null,
@@ -2656,7 +2851,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 563
+      "tmdb_id": 563,
+      "genre": "action"
     },
     {
       "id": 564,
@@ -2666,7 +2862,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
       "plot_overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love\u2014along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 6.974,
       "critic_score": null,
       "us_rating": null,
@@ -2685,7 +2885,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 564
+      "tmdb_id": 564,
+      "genre": "action"
     },
     {
       "id": 581,
@@ -2696,8 +2897,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
       "plot_overview": "Wounded Civil War soldier John Dunbar tries to commit suicide\u2014and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
       "genres": [
-        "Drama",
-        "Western"
+        "drama",
+        "western"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -2711,7 +2912,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 581
+      "tmdb_id": 581,
+      "genre": "drama"
     },
     {
       "id": 583,
@@ -2722,7 +2924,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lOrM3OQhHlzEkpF7Ih3GghecrA8.jpg",
       "plot_overview": "Brian Cohen is an average young Jewish man, but through a series of ridiculous events, he gains a reputation as the Messiah. When he's not dodging his followers or being scolded by his shrill mother, the hapless Brian has to contend with the pompous Pontius Pilate and acronym-obsessed members of a separatist movement. Rife with Monty Python's signature absurdity, the tale finds Brian's life paralleling Biblical lore, albeit with many more laughs.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.762,
       "critic_score": null,
@@ -2742,7 +2944,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 583
+      "tmdb_id": 583,
+      "genre": "comedy"
     },
     {
       "id": 585,
@@ -2753,9 +2956,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
       "plot_overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.849,
       "critic_score": null,
@@ -2769,7 +2972,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 585
+      "tmdb_id": 585,
+      "genre": "animation"
     },
     {
       "id": 590,
@@ -2780,7 +2984,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3oHFSEr4TRnsyTxWGrmY8Xi2FrR.jpg",
       "plot_overview": "The story of three women searching for more potent, meaningful lives. Each is alive at a different time and place, all are linked by their yearnings and their fears. Their stories intertwine, and finally come together in a surprising, transcendent moment of shared recognition.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -2794,7 +2998,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 590
+      "tmdb_id": 590,
+      "genre": "drama"
     },
     {
       "id": 592,
@@ -2805,9 +3010,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/s7yfiwIshKQIT6M8ZcTnFKXHs8B.jpg",
       "plot_overview": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered.",
       "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.502,
       "critic_score": null,
@@ -2821,7 +3026,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 592
+      "tmdb_id": 592,
+      "genre": "crime"
     },
     {
       "id": 604,
@@ -2832,9 +3038,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oIFxhR3nMmzZmj51gwifNR1whC4.jpg",
       "plot_overview": "Fighting for truth, justice and the last slice of pizza, these five superheroes are living proof you're never too young to save the planet. Protecting Earth and beyond, the Teen Titans use martial arts and gadgetry to battle villains.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.363,
       "critic_score": null,
@@ -2848,7 +3054,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 604
+      "tmdb_id": 604,
+      "genre": "action & adventure"
     },
     {
       "id": 605,
@@ -2859,9 +3066,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4PhaaA593zHfAyYUIXVWTih3qcD.jpg",
       "plot_overview": "On her sixteenth birthday, Sabrina Spellman discovers she has magical powers. She lives with her 600-year-old aunts Hilda and Zelda as well as talking cat Salem in the fictional town of Westbridge, Massachusetts.",
       "genres": [
-        "Comedy",
-        "Family",
-        "Sci-Fi & Fantasy"
+        "comedy",
+        "family",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.799,
       "critic_score": null,
@@ -2875,7 +3082,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 605
+      "tmdb_id": 605,
+      "genre": "comedy"
     },
     {
       "id": 606,
@@ -2886,7 +3094,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5hCGJLTuRlD5WoscKhVPHVnD4gz.jpg",
       "plot_overview": "Tells the life story of Danish author Karen Blixen, who at the beginning of the 20th century moved to Africa to build a new life for herself. The film is based on her 1937 autobiographical novel.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "romance"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -2900,7 +3110,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 606
+      "tmdb_id": 606,
+      "genre": "drama"
     },
     {
       "id": 612,
@@ -2911,7 +3122,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/titl6uMe5u974sLAA2Zy1kFi4sC.jpg",
       "plot_overview": "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack.",
       "genres": [
-        "Drama"
+        "action",
+        "drama",
+        "history",
+        "thriller"
       ],
       "user_rating": 7.132,
       "critic_score": null,
@@ -2925,7 +3139,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 612
+      "tmdb_id": 612,
+      "genre": "action"
     },
     {
       "id": 615,
@@ -2936,9 +3151,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
       "plot_overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Sci-Fi & Fantasy"
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.37,
       "critic_score": null,
@@ -2957,7 +3172,8 @@
       "next_season": 11,
       "next_air_date": "2026-08-03",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "animation"
     },
     {
       "id": 620,
@@ -2968,7 +3184,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
       "plot_overview": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "fantasy"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -2982,7 +3199,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 620
+      "tmdb_id": 620,
+      "genre": "comedy"
     },
     {
       "id": 630,
@@ -2993,7 +3211,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg",
       "plot_overview": "Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
       "genres": [
-        "Family"
+        "adventure",
+        "family",
+        "fantasy"
       ],
       "user_rating": 7.584,
       "critic_score": null,
@@ -3007,7 +3227,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 630
+      "tmdb_id": 630,
+      "genre": "adventure"
     },
     {
       "id": 634,
@@ -3018,7 +3239,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xKqLdmlf7FJ2VKYtA0qjBgg89RJ.jpg",
       "plot_overview": "A former professional baseball player, along with his preteen daughter, moves into New York advertising executive Angela Bower's house to be both a housekeeper and a father figure to her young son. Tony 's laid-back personality contrasts with Angela's type-A behavior.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -3038,7 +3259,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 634
+      "tmdb_id": 634,
+      "genre": "comedy"
     },
     {
       "id": 641,
@@ -3049,8 +3271,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fAGYRJCujRBMw7TCuTp893eSG8e.jpg",
       "plot_overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -3064,7 +3286,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 641
+      "tmdb_id": 641,
+      "genre": "crime"
     },
     {
       "id": 653,
@@ -3075,8 +3298,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nLaF4UJbjotJzXhTZWUJgD7FeFI.jpg",
       "plot_overview": "Part-American, part-Scandinavian death-metal band Dethklok has a lingering effect on its fans, who take the words seriously and do anything Dethklok lyrics say. The government fears the band's influence and sets out to destroy it by covert means; for example, by sending military pharmaceutical psychotropic drug manufacturers. Deemed sociopaths for tossing hot coffee at their concert attendees, two of the band members are alcoholics, and they all have self-esteem issues.",
       "genres": [
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -3090,7 +3313,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 653
+      "tmdb_id": 653,
+      "genre": "animation"
     },
     {
       "id": 655,
@@ -3101,7 +3325,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg",
       "plot_overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 8.1,
       "critic_score": null,
@@ -3115,7 +3339,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 655
+      "tmdb_id": 655,
+      "genre": "drama"
     },
     {
       "id": 656,
@@ -3126,9 +3351,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vn9iFlwSvl8B9YE1qayrKWMxoEV.jpg",
       "plot_overview": "With the help of his friend \u201cThe Man in the Yellow Hat,\u201d a curious little monkey named George sets out on adventures to learn about the world around him.",
       "genres": [
-        "Animation",
-        "Family",
-        "Kids"
+        "animation",
+        "family",
+        "kids"
       ],
       "user_rating": 7.154,
       "critic_score": null,
@@ -3148,7 +3373,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 656
+      "tmdb_id": 656,
+      "genre": "animation"
     },
     {
       "id": 668,
@@ -3159,11 +3385,11 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rC8p2xuywf4633s1gBinfENKbqF.jpg",
       "plot_overview": "Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight for a world that fears and hates them.",
       "genres": [
-        "Kids",
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Drama"
+        "action & adventure",
+        "animation",
+        "drama",
+        "kids",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.969,
       "critic_score": null,
@@ -3177,7 +3403,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 668
+      "tmdb_id": 668,
+      "genre": "action & adventure"
     },
     {
       "id": 669,
@@ -3188,8 +3415,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jxD0pcORCx9j0C0AYjjudbHnOm4.jpg",
       "plot_overview": "This pioneering documentary film depicts the lives of the indigenous Inuit people of Canada's northern Quebec region. Although the production contains some fictional elements, it vividly shows how its resourceful subjects survive in such a harsh climate, revealing how they construct their igloo homes and find food by hunting and fishing. The film also captures the beautiful, if unforgiving, frozen landscape of the Great White North, far removed from conventional civilization.",
       "genres": [
-        "Documentary",
-        "Drama"
+        "documentary",
+        "drama"
       ],
       "user_rating": 7.09,
       "critic_score": null,
@@ -3203,7 +3430,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 669
+      "tmdb_id": 669,
+      "genre": "documentary"
     },
     {
       "id": 671,
@@ -3213,7 +3441,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
       "plot_overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths\u2014and about the villain who's to blame.",
-      "genres": [],
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
@@ -3232,7 +3463,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 671
+      "tmdb_id": 671,
+      "genre": "adventure"
     },
     {
       "id": 672,
@@ -3242,7 +3474,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
       "plot_overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
-      "genres": [],
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.704,
       "critic_score": null,
       "us_rating": null,
@@ -3261,7 +3496,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 672
+      "tmdb_id": 672,
+      "genre": "adventure"
     },
     {
       "id": 673,
@@ -3271,7 +3507,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
       "plot_overview": "Harry Potter's life is in danger once more as dangerous wizard Sirius Black has escaped from Azkaban Prison and is heading to Hogwarts.",
-      "genres": [],
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 8.008,
       "critic_score": null,
       "us_rating": null,
@@ -3290,7 +3529,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 673
+      "tmdb_id": 673,
+      "genre": "adventure"
     },
     {
       "id": 674,
@@ -3300,7 +3540,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1OV7hau4D3rWGS5bu8sqBYeVpe.jpg",
       "plot_overview": "When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools. Signs of Voldemort's return emerge as Harry's friends help him prepare for the Triwizard Tournament.",
-      "genres": [],
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
@@ -3319,7 +3562,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 674
+      "tmdb_id": 674,
+      "genre": "adventure"
     },
     {
       "id": 675,
@@ -3329,7 +3573,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
       "plot_overview": "When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.",
-      "genres": [],
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
@@ -3348,7 +3595,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 675
+      "tmdb_id": 675,
+      "genre": "adventure"
     },
     {
       "id": 676,
@@ -3359,10 +3607,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/e7gXqszTL2hWhTOkGA1HIJFnSZ0.jpg",
       "plot_overview": "Tom and Jerry Tales is an American animated television series featuring the cat-and-mouse duo Tom and Jerry.",
       "genres": [
-        "Animation",
-        "Kids",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family",
+        "kids"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -3376,7 +3624,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 676
+      "tmdb_id": 676,
+      "genre": "animation"
     },
     {
       "id": 678,
@@ -3387,7 +3636,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9qGWOflC5WNhaKk2UPYu55SjjNj.jpg",
       "plot_overview": "The peaceful life of a gas station owner is disrupted when a man from his past arrives in town and forces him to return to the dark world he had tried to escape.",
       "genres": [
-        "Crime"
+        "crime",
+        "thriller"
       ],
       "user_rating": 7.655,
       "critic_score": null,
@@ -3401,7 +3651,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 678
+      "tmdb_id": 678,
+      "genre": "crime"
     },
     {
       "id": 680,
@@ -3412,8 +3663,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
       "plot_overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
       "genres": [
-        "Crime",
-        "Comedy"
+        "comedy",
+        "crime"
       ],
       "user_rating": 8.5,
       "critic_score": null,
@@ -3427,7 +3678,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 680
+      "tmdb_id": 680,
+      "genre": "comedy"
     },
     {
       "id": 688,
@@ -3438,7 +3690,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/o6ixncGLOtRPz78vEIy9p1cOn9J.jpg",
       "plot_overview": "The West Wing provides a glimpse into presidential politics in the nation's capital as it tells the stories of the members of a fictional presidential administration. These interesting characters have humor and dedication that touches the heart while the politics that they discuss touch on everyday life.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 8.262,
       "critic_score": null,
@@ -3458,7 +3710,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 688
+      "tmdb_id": 688,
+      "genre": "drama"
     },
     {
       "id": 693,
@@ -3469,9 +3722,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hW9NOFs8xUevb90KQYHhbifp9Po.jpg",
       "plot_overview": "Looking down on her friends and family isn't a way of life for Mary Alice Young... it's a way of death. One day, in her perfect house, in the loveliest of suburbs, Mary Alice ended it all. Now she's taking us into the lives of her family, friends and neighbors, commenting from her elevated P.O.V.",
       "genres": [
-        "Mystery",
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.899,
       "critic_score": null,
@@ -3491,7 +3744,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 693
+      "tmdb_id": 693,
+      "genre": "comedy"
     },
     {
       "id": 696,
@@ -3502,8 +3756,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
       "plot_overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.716,
       "critic_score": null,
@@ -3517,7 +3771,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 696
+      "tmdb_id": 696,
+      "genre": "comedy"
     },
     {
       "id": 703,
@@ -3528,8 +3783,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
       "plot_overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.73,
       "critic_score": null,
@@ -3543,7 +3798,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 703
+      "tmdb_id": 703,
+      "genre": "comedy"
     },
     {
       "id": 704,
@@ -3554,7 +3810,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg",
       "plot_overview": "Capturing John Lennon, Paul McCartney, George Harrison and Ringo Starr in their electrifying element, 'A Hard Day's Night' is a wildly irreverent journey through this pastiche of a day in the life of The Beatles during 1964. The band have to use all their guile and wit to avoid the pursuing fans and press to reach their scheduled television performance, in spite of Paul's troublemaking grandfather and Ringo's arrest.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "music"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -3568,7 +3825,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 704
+      "tmdb_id": 704,
+      "genre": "comedy"
     },
     {
       "id": 709,
@@ -3579,8 +3837,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mofoDq8K1tvhSKE00NrlLkS7Mrg.jpg",
       "plot_overview": "A series of pop-culture parodies using stop-motion animation of toys, action figures and dolls. The title character was an ordinary chicken until he was run down by a car and subsequently brought back to life in cyborg form by mad scientist Fritz Huhnmorder, who tortures Robot Chicken by forcing him to watch a random selection of TV shows, the sketches that make up the body of each episode.",
       "genres": [
-        "Comedy",
-        "Animation"
+        "animation",
+        "comedy"
       ],
       "user_rating": 7.653,
       "critic_score": null,
@@ -3594,7 +3852,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 709
+      "tmdb_id": 709,
+      "genre": "animation"
     },
     {
       "id": 720,
@@ -3605,11 +3864,11 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/myI4QvUU18UiGglr6NEjNkciXOk.jpg",
       "plot_overview": "Scrooge McDuck finds his hands full at home when nephews Huey, Dewey and Louie move to Duckburg. Joined by their loyal pals Launchpad McQuack, Gyro Gearloose and Mrs. Beakley, the DuckTales gang never fails to deliver a wealth of adventure. Get ready for a fortune of fun with DuckTales!",
       "genres": [
-        "Animation",
-        "Mystery",
-        "Sci-Fi & Fantasy",
-        "Comedy",
-        "Kids"
+        "animation",
+        "comedy",
+        "kids",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.659,
       "critic_score": null,
@@ -3623,7 +3882,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 720
+      "tmdb_id": 720,
+      "genre": "animation"
     },
     {
       "id": 746,
@@ -3634,7 +3894,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg",
       "plot_overview": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.",
       "genres": [
-        "Drama"
+        "drama",
+        "history"
       ],
       "user_rating": 7.581,
       "critic_score": null,
@@ -3648,7 +3909,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 746
+      "tmdb_id": 746,
+      "genre": "drama"
     },
     {
       "id": 753,
@@ -3659,7 +3921,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wVpZAFqzcXKlHw3Dx85EpnG9vvW.jpg",
       "plot_overview": "Middle-aged suburban husband Richard abruptly tells his wife, Maria, that he wants a divorce. As Richard takes up with a younger woman, Maria enjoys a night on the town with her friends and meets a younger man. As the couple and those around them confront a seemingly futile search for what they've lost -- love, excitement, passion -- this classic American independent film explores themes of aging and alienation.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -3673,7 +3935,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 753
+      "tmdb_id": 753,
+      "genre": "drama"
     },
     {
       "id": 756,
@@ -3684,8 +3947,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg",
       "plot_overview": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 7.34,
       "critic_score": null,
@@ -3699,7 +3962,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 756
+      "tmdb_id": 756,
+      "genre": "animation"
     },
     {
       "id": 762,
@@ -3710,7 +3974,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
       "plot_overview": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
       "genres": [
-        "Comedy"
+        "adventure",
+        "comedy",
+        "fantasy"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -3730,7 +3996,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 762
+      "tmdb_id": 762,
+      "genre": "adventure"
     },
     {
       "id": 767,
@@ -3740,7 +4007,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg",
       "plot_overview": "Dumbledore tries to prepare Harry for the final battle with Voldemort while Death Eaters wreak havoc in both Muggle and Wizard worlds.",
-      "genres": [],
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.68,
       "critic_score": null,
       "us_rating": null,
@@ -3759,7 +4029,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 767
+      "tmdb_id": 767,
+      "genre": "adventure"
     },
     {
       "id": 769,
@@ -3770,8 +4041,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
       "plot_overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.453,
       "critic_score": null,
@@ -3785,7 +4056,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 769
+      "tmdb_id": 769,
+      "genre": "crime"
     },
     {
       "id": 770,
@@ -3796,7 +4068,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4FHcxMtVruMr7ltU2cItWssLjTP.jpg",
       "plot_overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance",
+        "war"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -3810,7 +4084,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 770
+      "tmdb_id": 770,
+      "genre": "drama"
     },
     {
       "id": 771,
@@ -3821,8 +4096,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
       "plot_overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
       "genres": [
-        "Comedy",
-        "Family"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.465,
       "critic_score": null,
@@ -3836,7 +4111,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 771
+      "tmdb_id": 771,
+      "genre": "comedy"
     },
     {
       "id": 788,
@@ -3847,9 +4123,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/f9X91dUckoRzOZlw4XBUOfkN9FC.jpg",
       "plot_overview": "Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spouse, is crushed by a court order allowing only weekly visits with his kids. When Daniel learns his ex needs a housekeeper, he gets the job -- disguised as a British nanny. Soon he becomes not only his children's best pal but the kind of parent he should have been from the start.",
       "genres": [
-        "Comedy",
-        "Drama",
-        "Family"
+        "comedy",
+        "drama",
+        "family"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -3881,7 +4157,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 788
+      "tmdb_id": 788,
+      "genre": "comedy"
     },
     {
       "id": 790,
@@ -3892,9 +4169,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rwxxDbG9Kijki7CkmB4k64MSbte.jpg",
       "plot_overview": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions.",
       "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 8.179,
       "critic_score": null,
@@ -3908,7 +4185,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 790
+      "tmdb_id": 790,
+      "genre": "crime"
     },
     {
       "id": 808,
@@ -3919,9 +4197,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
       "plot_overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.762,
       "critic_score": null,
@@ -3941,7 +4219,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 808
+      "tmdb_id": 808,
+      "genre": "animation"
     },
     {
       "id": 809,
@@ -3952,9 +4231,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
       "plot_overview": "Happily ever after never seemed so far far away when a trip to meet the in-laws turns into a hilariously twisted adventure for Shrek and Fiona. With the help of his faithful Donkey, Shrek takes on a potion-brewing Fairy Godmother, the pompous Prince Charming, and the ogre-killer, Puss In Boots.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.315,
       "critic_score": null,
@@ -3974,7 +4253,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 809
+      "tmdb_id": 809,
+      "genre": "animation"
     },
     {
       "id": 812,
@@ -3985,8 +4265,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
       "plot_overview": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -4000,7 +4280,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 812
+      "tmdb_id": 812,
+      "genre": "animation"
     },
     {
       "id": 815,
@@ -4011,7 +4292,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pYEFwZj6YDR8OhX9tyO78IoJADe.jpg",
       "plot_overview": "Peep Show follows the lives of two men from their twenties to thirties, Mark Corrigan, who has steady employment for most of the series, and Jeremy \"Jez\" Usbourne, an unemployed would-be musician.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 8.063,
       "critic_score": null,
@@ -4031,7 +4312,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 815
+      "tmdb_id": 815,
+      "genre": "comedy"
     },
     {
       "id": 838,
@@ -4042,8 +4324,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vnKZUdnoJYn7jv68XVKHk6wzzaC.jpg",
       "plot_overview": "A couple of high school graduates spend one final night cruising the strip with their buddies before they go off to college.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -4057,7 +4339,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 838
+      "tmdb_id": 838,
+      "genre": "comedy"
     },
     {
       "id": 847,
@@ -4067,7 +4350,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3sF6AibdbTTkswfSRxXEGCt5w6s.jpg",
       "plot_overview": "The evil Queen Bavmorda hunts the newborn princess Elora Danan, a child prophesied to bring about her downfall. When the royal infant is found by Willow, a timid farmer and aspiring sorcerer, he's entrusted with delivering her from evil.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.01,
       "critic_score": null,
       "us_rating": null,
@@ -4080,7 +4367,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 847
+      "tmdb_id": 847,
+      "genre": "action"
     },
     {
       "id": 849,
@@ -4091,7 +4379,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9GybuKLYceOhgV09BQ60MKTT5nN.jpg",
       "plot_overview": "A British sketch comedy series with the shows being composed of surreality, risqu\u00e9 or innuendo-laden humour, sight gags and observational sketches without punchlines.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 8.279,
       "critic_score": null,
@@ -4111,7 +4399,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 849
+      "tmdb_id": 849,
+      "genre": "comedy"
     },
     {
       "id": 851,
@@ -4122,7 +4411,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vKvoOlhhaZCsiGQDvaZQqyGq1oA.jpg",
       "plot_overview": "Returning home from a shopping trip to a nearby town, bored suburban housewife Laura Jesson is thrown by happenstance into an acquaintance with virtuous doctor Alec Harvey. Their casual friendship soon develops during their weekly visits into something more emotionally fulfilling than either expected, and they must wrestle with the potential havoc their deepening relationship would have on their lives and the lives of those they love.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -4136,7 +4426,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 851
+      "tmdb_id": 851,
+      "genre": "drama"
     },
     {
       "id": 856,
@@ -4147,9 +4438,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/udIE8Cdon9wnYmVIOFYrBPfA2Mq.jpg",
       "plot_overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Crime"
+        "animation",
+        "comedy",
+        "crime"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -4163,7 +4454,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 856
+      "tmdb_id": 856,
+      "genre": "animation"
     },
     {
       "id": 860,
@@ -4174,7 +4466,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qtamfYGFfDLfGRcucx1zNwohRts.jpg",
       "plot_overview": "High school student David Lightman has a talent for hacking. But while trying to hack into a computer system to play unreleased video games, he unwittingly taps into the Department of Defense's war computer and initiates a confrontation of global proportions. Together with his friend and a wizardly computer genius, David must race against time to outwit his opponent and prevent a nuclear Armageddon.",
       "genres": [
-        "Drama"
+        "drama",
+        "science fiction",
+        "thriller"
       ],
       "user_rating": 7.068,
       "critic_score": null,
@@ -4188,7 +4482,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 860
+      "tmdb_id": 860,
+      "genre": "drama"
     },
     {
       "id": 862,
@@ -4199,9 +4494,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
       "plot_overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
       "genres": [
-        "Family",
-        "Comedy",
-        "Animation"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -4221,7 +4516,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 862
+      "tmdb_id": 862,
+      "genre": "animation"
     },
     {
       "id": 863,
@@ -4232,9 +4528,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
       "plot_overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.606,
       "critic_score": null,
@@ -4248,7 +4544,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 863
+      "tmdb_id": 863,
+      "genre": "animation"
     },
     {
       "id": 864,
@@ -4259,8 +4556,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ucFDgf7Nw6cEwPh5o4cacp3k1aW.jpg",
       "plot_overview": "When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican bobsled team.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.018,
       "critic_score": null,
@@ -4274,7 +4571,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 864
+      "tmdb_id": 864,
+      "genre": "comedy"
     },
     {
       "id": 872,
@@ -4285,7 +4583,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
       "plot_overview": "In 1927 Hollywood, a silent film star falls for a chorus girl just as he and his paranoid screen partner struggle to make the difficult transition to talking pictures.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "romance"
       ],
       "user_rating": 8.1,
       "critic_score": null,
@@ -4299,7 +4598,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 872
+      "tmdb_id": 872,
+      "genre": "comedy"
     },
     {
       "id": 873,
@@ -4310,9 +4610,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8xr2imLUMyvIybraMOq4umBl6nz.jpg",
       "plot_overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
       "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 8.078,
       "critic_score": null,
@@ -4332,7 +4632,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 873
+      "tmdb_id": 873,
+      "genre": "crime"
     },
     {
       "id": 887,
@@ -4343,7 +4644,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/n0og4mDtl08x9RLTWXt8zUKpqXQ.jpg",
       "plot_overview": "It's the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance",
+        "war"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -4357,7 +4660,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 887
+      "tmdb_id": 887,
+      "genre": "drama"
     },
     {
       "id": 888,
@@ -4368,8 +4672,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tszlsbfyTOPSZe2z6K4mwHtcnmI.jpg",
       "plot_overview": "Bitten by a neogenetic spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
       "genres": [
-        "Animation",
-        "Action & Adventure"
+        "action & adventure",
+        "animation"
       ],
       "user_rating": 8.302,
       "critic_score": null,
@@ -4383,7 +4687,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 888
+      "tmdb_id": 888,
+      "genre": "action & adventure"
     },
     {
       "id": 891,
@@ -4394,10 +4699,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aAMn59bq6DZQtWoYqsIOUkVWSgc.jpg",
       "plot_overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
       "genres": [
-        "Family",
-        "Action & Adventure",
-        "Animation",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "family",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.658,
       "critic_score": null,
@@ -4423,7 +4728,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 891
+      "tmdb_id": 891,
+      "genre": "action & adventure"
     },
     {
       "id": 894,
@@ -4434,9 +4740,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dieT9MczvZXpCLrIAjs3vKYWKa7.jpg",
       "plot_overview": "After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre Kafkaesque prison. His warders demand information. He gives them nothing, but only tries to escape.",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy",
-        "Mystery"
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -4450,7 +4756,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 894
+      "tmdb_id": 894,
+      "genre": "drama"
     },
     {
       "id": 896,
@@ -4461,8 +4768,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ovq59utLtOqqMBphohyKqvVqfpb.jpg",
       "plot_overview": "Early 20th-century adventurers find themselves fighting for survival after their hot-air balloon crashes into a remote part of the Amazon, stranding them on a prehistoric plateau.",
       "genres": [
-        "Action & Adventure",
-        "Drama"
+        "action & adventure",
+        "drama"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -4476,7 +4783,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 896
+      "tmdb_id": 896,
+      "genre": "action & adventure"
     },
     {
       "id": 898,
@@ -4487,8 +4795,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1J6QXImtqIQxiOdVTonLV5IbRwA.jpg",
       "plot_overview": "After killing a prison guard, convict Robert Stroud faces life imprisonment in solitary confinement. Driven nearly mad by loneliness and despair, Stroud's life gains new meaning when he happens upon a helpless baby sparrow in the exercise yard and nurses it back to health. Despite having only a third grade education, Stroud goes on to become a renowned ornithologist and achieves a greater sense of freedom and purpose behind bars than most people find in the outside world.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -4502,7 +4810,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 898
+      "tmdb_id": 898,
+      "genre": "crime"
     },
     {
       "id": 900,
@@ -4513,8 +4822,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/saBnI34QTYTjG9sj8DsembO4PBK.jpg",
       "plot_overview": "Irreverent comedy drama which follows the messy lives, loves, delirious highs and inevitable lows of a group of raucous teenage friends in Bristol.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 8.139,
       "critic_score": null,
@@ -4528,7 +4837,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 900
+      "tmdb_id": 900,
+      "genre": "comedy"
     },
     {
       "id": 901,
@@ -4539,8 +4849,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qhKMAWxuu4TXCJCWVMqfveqanMP.jpg",
       "plot_overview": "A tramp falls in love with a beautiful blind flower girl. His on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 8.251,
       "critic_score": null,
@@ -4560,7 +4870,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 901
+      "tmdb_id": 901,
+      "genre": "comedy"
     },
     {
       "id": 914,
@@ -4571,7 +4882,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
       "plot_overview": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "war"
       ],
       "user_rating": 8.279,
       "critic_score": null,
@@ -4585,7 +4897,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 914
+      "tmdb_id": 914,
+      "genre": "comedy"
     },
     {
       "id": 918,
@@ -4596,9 +4909,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8nkOWsMtWZvp7IGuYdVbJeoWzQx.jpg",
       "plot_overview": "The 4077th Mobile Army Surgical Hospital is stuck in the middle of the Korean war. With little help from the circumstances they find themselves in, they are forced to make their own fun. Fond of practical jokes and revenge, the doctors, nurses, administrators, and soldiers often find ways of making wartime life bearable.",
       "genres": [
-        "War & Politics",
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama",
+        "war & politics"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -4612,7 +4925,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 918
+      "tmdb_id": 918,
+      "genre": "comedy"
     },
     {
       "id": 920,
@@ -4623,9 +4937,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
       "plot_overview": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -4639,7 +4953,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 920
+      "tmdb_id": 920,
+      "genre": "animation"
     },
     {
       "id": 922,
@@ -4650,8 +4965,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/a7DtgKB187dUm9n81IlvNzVXsK1.jpg",
       "plot_overview": "On the run after committing murder, an accountant encounters a strange Native American man who prepares him for his journey into the spiritual world.",
       "genres": [
-        "Drama",
-        "Western"
+        "drama",
+        "western"
       ],
       "user_rating": 7.307,
       "critic_score": null,
@@ -4665,7 +4980,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 922
+      "tmdb_id": 922,
+      "genre": "drama"
     },
     {
       "id": 925,
@@ -4676,7 +4992,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oYOZay9hyW3uI5paKWLIYkWZlzv.jpg",
       "plot_overview": "Sal is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.762,
       "critic_score": null,
@@ -4690,7 +5006,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 925
+      "tmdb_id": 925,
+      "genre": "drama"
     },
     {
       "id": 926,
@@ -4701,7 +5018,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg",
       "plot_overview": "For four years, the courageous crew of the NSEA Protector \u2014  Commander Peter Quincy Taggart, Lieutenant Tawny Madison, and Doctor Lazarus \u2014 set off on a thrilling and often dangerous mission in space... until their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for \"historical documents\" and beam up the crew of has-been actors to save the universe. With no script, no director, and no clue, the actors must turn in the per",
       "genres": [
-        "Comedy"
+        "adventure",
+        "comedy",
+        "science fiction"
       ],
       "user_rating": 7.083,
       "critic_score": null,
@@ -4715,7 +5034,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 926
+      "tmdb_id": 926,
+      "genre": "adventure"
     },
     {
       "id": 931,
@@ -4726,10 +5046,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3sTfEJ0kE8C4SUkiVH2ZzWb5aDe.jpg",
       "plot_overview": "When Adam, Prince of the planet Eternia, raises his magic sword he transforms into He-Man (the most powerful man in the universe).  With his allies and friends, he battles the evil Skeletor and his minions to protect the secrets of Castle Grayskull.",
       "genres": [
-        "Action & Adventure",
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Kids"
+        "action & adventure",
+        "animation",
+        "kids",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.328,
       "critic_score": null,
@@ -4743,7 +5063,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 931
+      "tmdb_id": 931,
+      "genre": "action & adventure"
     },
     {
       "id": 940,
@@ -4754,7 +5075,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/15HEZcSKtLcl69avXfmjoIJBuay.jpg",
       "plot_overview": "On a train headed for England a group of travelers is delayed by an avalanche. Holed up in a hotel in a fictional European country, young Iris befriends elderly Miss Froy. When the train resumes, Iris suffers a bout of unconsciousness and wakes to find the old woman has disappeared. The other passengers ominously deny Miss Froy ever existed, so Iris begins to investigate with another traveler and, as the pair sleuth, romantic sparks fly.",
       "genres": [
-        "Mystery"
+        "mystery",
+        "thriller"
       ],
       "user_rating": 7.432,
       "critic_score": null,
@@ -4768,7 +5090,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 940
+      "tmdb_id": 940,
+      "genre": "mystery"
     },
     {
       "id": 949,
@@ -4779,8 +5102,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xKsnZDERG1dk95wuZ5q9iks3OL3.jpg",
       "plot_overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.934,
       "critic_score": null,
@@ -4794,7 +5117,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 949
+      "tmdb_id": 949,
+      "genre": "crime"
     },
     {
       "id": 953,
@@ -4805,9 +5129,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
       "plot_overview": "Four animal friends get a taste of the wild life when they break out of captivity at the Central Park Zoo and wash ashore on the island of Madagascar.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 6.923,
       "critic_score": null,
@@ -4821,7 +5145,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 953
+      "tmdb_id": 953,
+      "genre": "animation"
     },
     {
       "id": 961,
@@ -4832,8 +5157,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mzox4HbcV9W42MH2dB1QsdDVGo3.jpg",
       "plot_overview": "During America\u2019s Civil War, Union spies steal engineer Johnny Gray's beloved locomotive, 'The General'\u2014with Johnnie's lady love aboard an attached boxcar\u2014and he single-handedly must do all in his power to both get The General back and to rescue Annabelle.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.917,
       "critic_score": null,
@@ -4847,7 +5172,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 961
+      "tmdb_id": 961,
+      "genre": "comedy"
     },
     {
       "id": 962,
@@ -4858,8 +5184,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8ZsEc2b9iCMWaFjUw3a0kPZZLXu.jpg",
       "plot_overview": "A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -4879,7 +5205,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 962
+      "tmdb_id": 962,
+      "genre": "comedy"
     },
     {
       "id": 967,
@@ -4890,7 +5217,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
       "plot_overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
       "genres": [
-        "Drama"
+        "adventure",
+        "drama",
+        "history",
+        "war"
       ],
       "user_rating": 7.538,
       "critic_score": null,
@@ -4904,7 +5234,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 967
+      "tmdb_id": 967,
+      "genre": "adventure"
     },
     {
       "id": 976,
@@ -4915,7 +5246,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg",
       "plot_overview": "New York City newspaper writer J.J. Hunsecker holds considerable sway over public opinion with his Broadway column, but one thing that he can't control is his younger sister, Susan, who is in a relationship with aspiring jazz guitarist Steve Dallas. Hunsecker strongly disapproves of the romance and recruits publicist Sidney Falco to find a way to split the couple, no matter how ruthless the method.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.599,
       "critic_score": null,
@@ -4929,7 +5260,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 976
+      "tmdb_id": 976,
+      "genre": "drama"
     },
     {
       "id": 982,
@@ -4940,7 +5272,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bbec0wDUaV8nQnQHC6Fb0fSYwNM.jpg",
       "plot_overview": "Near the end of the Korean War, a platoon of U.S. soldiers is captured by communists and brainwashed. Following the war, the platoon is returned home, and Sergeant Raymond Shaw is lauded as a hero by the rest of his platoon. However, the platoon commander, Captain Bennett Marco, finds himself plagued by strange nightmares and soon races to uncover a terrible plot.",
       "genres": [
-        "Drama"
+        "drama",
+        "thriller"
       ],
       "user_rating": 7.514,
       "critic_score": null,
@@ -4954,7 +5287,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 982
+      "tmdb_id": 982,
+      "genre": "drama"
     },
     {
       "id": 985,
@@ -4964,7 +5298,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ApB0mF2d5Oqioi3yxjuogiotSLI.jpg",
       "plot_overview": "First-time father Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
-      "genres": [],
+      "genres": [
+        "horror",
+        "science fiction"
+      ],
       "user_rating": 7.34,
       "critic_score": null,
       "us_rating": null,
@@ -4977,7 +5314,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 985
+      "tmdb_id": 985,
+      "genre": "horror"
     },
     {
       "id": 986,
@@ -4988,8 +5326,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/83aNchGigrkj6uDiknje6OwY6sl.jpg",
       "plot_overview": "Henry IV usurps the English throne, sets in motion the factious War of the Roses and now faces a rebellion led by Northumberland scion Hotspur. Henry's heir, Prince Hal, is a ne'er-do-well carouser who drinks and causes mischief with his low-class friends, especially his rotund father figure, John Falstaff. To redeem his title, Hal may have to choose between allegiance to his real father and loyalty to his friend.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -5003,7 +5341,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 986
+      "tmdb_id": 986,
+      "genre": "comedy"
     },
     {
       "id": 995,
@@ -5014,8 +5353,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7SYNEG50fKODsTP6h9phYM3BueV.jpg",
       "plot_overview": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.",
       "genres": [
-        "Western",
-        "Drama"
+        "drama",
+        "western"
       ],
       "user_rating": 7.608,
       "critic_score": null,
@@ -5035,7 +5374,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 995
+      "tmdb_id": 995,
+      "genre": "drama"
     },
     {
       "id": 996,
@@ -5046,7 +5386,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
       "plot_overview": "An insurance representative is seduced by a dissatisfied housewife into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, a claims investigator.",
       "genres": [
-        "Crime"
+        "crime",
+        "thriller"
       ],
       "user_rating": 8.092,
       "critic_score": null,
@@ -5060,7 +5401,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 996
+      "tmdb_id": 996,
+      "genre": "crime"
     }
   ]
 }

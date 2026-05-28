@@ -1,6 +1,6 @@
 {
   "range": "677001-678000",
-  "updated_at": 1780003048377,
+  "updated_at": 1780004424419,
   "shows": [
     {
       "id": 677638,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pO1SnM5a1fEsYrFaVZW78Wb0zRJ.jpg",
       "plot_overview": "When Grizz, Panda, and Ice Bear's love of food trucks and viral videos get out of hand, the brothers are now chased away from their home and embark on a trip to Canada, where they can live in peace.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 677638
+      "tmdb_id": 677638,
+      "genre": "animation"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "522001-523000",
-  "updated_at": 1780003048367,
+  "updated_at": 1780004424409,
   "shows": [
     {
       "id": 522402,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uoc358GH6Yl7TufbUKHkETPu64B.jpg",
       "plot_overview": "On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator's beloved dog, learns about life, love, friendship, and what it means to be human.",
       "genres": [
-        "Drama"
+        "adventure",
+        "drama",
+        "science fiction"
       ],
       "user_rating": 7.806,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 522402
+      "tmdb_id": 522402,
+      "genre": "adventure"
     },
     {
       "id": 522627,
@@ -36,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hClLP88yMIuhslwSVxtYrvWmxfp.jpg",
       "plot_overview": "American expat Mickey Pearson has built a highly profitable marijuana empire in London. When word gets out that he\u2019s looking to cash out of the business forever it triggers plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
       "genres": [
-        "Comedy",
-        "Crime"
+        "comedy",
+        "crime"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -51,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 522627
+      "tmdb_id": 522627,
+      "genre": "comedy"
     },
     {
       "id": 522924,
@@ -62,7 +66,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/96sS0woEzf0zFSWjHVblOhsBfGd.jpg",
       "plot_overview": "A family dog \u2013 with a near-human soul and a philosopher's mind \u2013 evaluates his life through the lessons learned by his human owner, a race-car driver.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 8.168,
       "critic_score": null,
@@ -76,7 +81,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 522924
+      "tmdb_id": 522924,
+      "genre": "drama"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "1027001-1028000",
-  "updated_at": 1780003048393,
+  "updated_at": 1780004424433,
   "shows": [
     {
       "id": 1027014,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yeXCUUSaAZFH4Zyd4Spgq4nl1xr.jpg",
       "plot_overview": "Ambitious artist Jabari attempts to balance success and love when he moves into his dream Manhattan apartment and falls for his next-door neighbor.",
       "genres": [
-        "Animation"
+        "animation",
+        "music",
+        "romance"
       ],
       "user_rating": 7.688,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1027014
+      "tmdb_id": 1027014,
+      "genre": "animation"
     }
   ]
 }

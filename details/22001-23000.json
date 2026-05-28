@@ -1,6 +1,6 @@
 {
   "range": "22001-23000",
-  "updated_at": 1780003048293,
+  "updated_at": 1780004424333,
   "shows": [
     {
       "id": 22596,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3zo6ZONR4Mth2nWFbQK9dhCWbVz.jpg",
       "plot_overview": "When a store clerk organizes a contest to climb the outside of a tall building, circumstances force him to make the perilous climb himself.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "romance"
       ],
       "user_rating": 7.713,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 22596
+      "tmdb_id": 22596,
+      "genre": "comedy"
     }
   ]
 }

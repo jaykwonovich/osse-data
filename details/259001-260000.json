@@ -1,6 +1,6 @@
 {
   "range": "259001-260000",
-  "updated_at": 1780003048342,
+  "updated_at": 1780004424384,
   "shows": [
     {
       "id": 259265,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1bdq9FKVyBUpOM9qE09WgG9o8Ek.jpg",
       "plot_overview": "A bride has a feeling that something horrifying will happen at her wedding \u2014 and the closer to the altar she gets, the worse it becomes.",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 6.465,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 259265
+      "tmdb_id": 259265,
+      "genre": "drama"
     },
     {
       "id": 259316,
@@ -37,7 +38,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
       "plot_overview": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
-      "genres": [],
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.309,
       "critic_score": null,
       "us_rating": null,
@@ -50,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 259316
+      "tmdb_id": 259316,
+      "genre": "adventure"
     },
     {
       "id": 259693,
@@ -60,7 +65,9 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mFCS5OuhPYT79KXu5jl7RqznPR1.jpg",
       "plot_overview": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
-      "genres": [],
+      "genres": [
+        "horror"
+      ],
       "user_rating": 7.293,
       "critic_score": null,
       "us_rating": null,
@@ -73,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 259693
+      "tmdb_id": 259693,
+      "genre": "horror"
     },
     {
       "id": 259702,
@@ -84,7 +92,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aX2MN3TweeODXA8xrciMWogL9A2.jpg",
       "plot_overview": "The epic tale of a proud and passionate family, secret loves, and bloody revolution. The Trueba family's passions, struggles, and secrets span a century of violent social change, culminating in a crisis that hurls the proud, tyrannical patriarch and his beloved granddaughter towards opposite sides of the fence.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 8.9,
       "critic_score": null,
@@ -98,7 +106,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 259702
+      "tmdb_id": 259702,
+      "genre": "drama"
     },
     {
       "id": 259731,
@@ -109,9 +118,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
       "plot_overview": "Two estranged spouses \u2014 one a detective, the other a news reporter \u2014 vie to solve a murder in which each believes the other is a prime suspect.",
       "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -125,7 +134,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 259731
+      "tmdb_id": 259731,
+      "genre": "crime"
     },
     {
       "id": 259819,
@@ -136,9 +146,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nTDL4UmMLDBCeMtYh8F1LZtgmLV.jpg",
       "plot_overview": "Keiji is more than just an ordinary rooster\u2014he's humanity's greatest defender! His opponents may be ten stories tall, but nothing is bigger than his stout heart and his fearsome battle cry\u2014Kokekokko!",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.87,
       "critic_score": null,
@@ -163,7 +173,8 @@
       "next_season": 1,
       "next_air_date": "2026-05-31",
       "next_episode": 12,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "action & adventure"
     }
   ]
 }

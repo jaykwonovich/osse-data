@@ -1,6 +1,6 @@
 {
   "range": "414001-415000",
-  "updated_at": 1780003048360,
+  "updated_at": 1780004424400,
   "shows": [
     {
       "id": 414419,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qe4Tp0hURXqiih5AV1kHimXIt3u.jpg",
       "plot_overview": "A former assassin, known simply as The Bride, wakes from a coma four years after her jealous ex-lover Bill attempts to murder her on her wedding day. Fueled by an insatiable desire for revenge, she vows to get even with every person who contributed to the loss of her unborn child, her entire wedding party, and four years of her life.  After devising a hit list, The Bride sets off on her quest, enduring unspeakable injury and unscrupulous enemies.",
       "genres": [
-        "Crime"
+        "action",
+        "crime"
       ],
       "user_rating": 8.058,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 414419
+      "tmdb_id": 414419,
+      "genre": "action"
     },
     {
       "id": 414425,
@@ -36,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/m0CrcOOSUK6Ylf0pkGfGX0BdDq7.jpg",
       "plot_overview": "In the post\u2013World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -50,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 414425
+      "tmdb_id": 414425,
+      "genre": "drama"
     },
     {
       "id": 414906,
@@ -61,8 +64,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
       "plot_overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
       "genres": [
-        "Crime",
-        "Mystery"
+        "crime",
+        "mystery"
       ],
       "user_rating": 7.661,
       "critic_score": null,
@@ -76,7 +79,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 414906
+      "tmdb_id": 414906,
+      "genre": "crime"
     }
   ]
 }

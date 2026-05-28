@@ -1,6 +1,6 @@
 {
   "range": "115001-116000",
-  "updated_at": 1780003048324,
+  "updated_at": 1780004424363,
   "shows": [
     {
       "id": 115004,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7X1IGIl1JMJ9YFzJymCVoqZbvTR.jpg",
       "plot_overview": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.",
       "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 8.184,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 115004
+      "tmdb_id": 115004,
+      "genre": "crime"
     },
     {
       "id": 115036,
@@ -38,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oMWnpUUCeIqvTdP3IYZ0JnPdrmU.jpg",
       "plot_overview": "Legendary bounty hunter Boba Fett and mercenary Fennec Shand must navigate the galaxy\u2019s underworld when they return to the sands of Tatooine to stake their claim on the territory once ruled by Jabba the Hutt and his crime syndicate.",
       "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 115036
+      "tmdb_id": 115036,
+      "genre": "action & adventure"
     },
     {
       "id": 115577,
@@ -64,10 +66,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pYiIcenKt7L2cMrhn67xAxCGgzR.jpg",
       "plot_overview": "When an explosive battle with Dr. Eggman shatters the universe, Sonic races through parallel dimensions to reconnect with his friends and save the world.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Kids"
+        "action & adventure",
+        "animation",
+        "kids",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.241,
       "critic_score": null,
@@ -81,7 +83,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 115577
+      "tmdb_id": 115577,
+      "genre": "action & adventure"
     }
   ]
 }

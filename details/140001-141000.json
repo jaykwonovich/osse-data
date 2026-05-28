@@ -1,6 +1,6 @@
 {
   "range": "140001-141000",
-  "updated_at": 1780003048328,
+  "updated_at": 1780004424369,
   "shows": [
     {
       "id": 140420,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/48v92pR5a1JeczlrCwnr1eQBN2j.jpg",
       "plot_overview": "An urban office worker finds that paper airplanes are instrumental in meeting a girl in ways he never expected.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.987,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 140420
+      "tmdb_id": 140420,
+      "genre": "animation"
     },
     {
       "id": 140607,
@@ -37,7 +38,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
       "plot_overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.249,
       "critic_score": null,
       "us_rating": null,
@@ -50,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 140607
+      "tmdb_id": 140607,
+      "genre": "action"
     },
     {
       "id": 140823,
@@ -61,8 +67,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qtD2T7PnMyzehZlQoPGGT6o8dLP.jpg",
       "plot_overview": "Author P.L. Travers looks back on her childhood while reluctantly meeting with Walt Disney, who seeks to adapt her Mary Poppins books for the big screen.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.337,
       "critic_score": null,
@@ -76,7 +82,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 140823
+      "tmdb_id": 140823,
+      "genre": "comedy"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "281001-282000",
-  "updated_at": 1780003048344,
+  "updated_at": 1780004424386,
   "shows": [
     {
       "id": 281338,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/w22CTHxmdAsUrXRbCQt4gOSOD6E.jpg",
       "plot_overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
       "genres": [
-        "Drama"
+        "drama",
+        "science fiction",
+        "war"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 281338
+      "tmdb_id": 281338,
+      "genre": "drama"
     },
     {
       "id": 281401,
@@ -36,7 +39,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3aeYYriPQN7886in9bIGKnbC5eQ.jpg",
       "plot_overview": "A former ice dancer returns to the rink with an exciting new partner while holding onto feelings for her old one \u2014 her first love.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -50,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 281401
+      "tmdb_id": 281401,
+      "genre": "drama"
     }
   ]
 }

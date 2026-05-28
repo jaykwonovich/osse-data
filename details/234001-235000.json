@@ -1,6 +1,6 @@
 {
   "range": "234001-235000",
-  "updated_at": 1780003048338,
+  "updated_at": 1780004424380,
   "shows": [
     {
       "id": 234567,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vZ2GrFaDDUqpYzd5lFqz5wiOGx.jpg",
       "plot_overview": "Mickey, Minnie, Horace Horsecollar, and Clarabelle Cow go on a musical wagon ride until Peg-Leg Pete tries to run them off the road.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 234567
+      "tmdb_id": 234567,
+      "genre": "animation"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "122001-123000",
-  "updated_at": 1780003048325,
+  "updated_at": 1780004424365,
   "shows": [
     {
       "id": 122066,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6IfAtLsAtBhe8AXmThLb0EU32fN.jpg",
       "plot_overview": "The story of Elizabeth Holmes, the enigmatic Stanford dropout who founded medical testing start-up Theranos. Lauded as a Steve Jobs for the next tech generation and once worth billions of dollars, the myth crumbled when it was revealed that none of the tech actually worked, putting thousands of people's health in grave danger.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.323,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 122066
+      "tmdb_id": 122066,
+      "genre": "drama"
     },
     {
       "id": 122486,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zc0mxafWd2q99E5UCXcyXNn6U7M.jpg",
       "plot_overview": "After being named CEO of the world's largest and most non-sensical corporation, Sebben & Sebben, Judy Ken Sebben aka Birdgirl has to find a way to maintain her work/superhero life balance.",
       "genres": [
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy"
       ],
       "user_rating": 5.8,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 122486
+      "tmdb_id": 122486,
+      "genre": "animation"
     },
     {
       "id": 122530,
@@ -62,9 +64,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/n9JoMVu8exHVQFzKvpeysyhIN4H.jpg",
       "plot_overview": "In the forgotten town of Carp, Texas, Panic is the only way out. Every summer the graduating seniors risk their lives competing in a series of challenges for the chance to win life-changing money. After the death of two players the stakes\u2014and danger\u2014have never been higher.",
       "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Crime"
+        "action & adventure",
+        "crime",
+        "drama"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -78,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 122530
+      "tmdb_id": 122530,
+      "genre": "action & adventure"
     },
     {
       "id": 122917,
@@ -88,7 +91,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
       "plot_overview": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.334,
       "critic_score": null,
       "us_rating": null,
@@ -101,7 +108,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 122917
+      "tmdb_id": 122917,
+      "genre": "action"
     }
   ]
 }

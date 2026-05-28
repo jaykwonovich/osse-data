@@ -1,6 +1,6 @@
 {
   "range": "1139001-1140000",
-  "updated_at": 1780003048397,
+  "updated_at": 1780004424436,
   "shows": [
     {
       "id": 1139087,
@@ -11,10 +11,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hUeSuUxNyQivx2wrRvGoyZiZDUu.jpg",
       "plot_overview": "Created for Disney's 100th anniversary, the short features Mickey Mouse corralling a gallery of legendary Disney characters for a group photo.",
       "genres": [
-        "Animation",
-        "Family",
-        "Drama",
-        "Comedy"
+        "animation",
+        "comedy",
+        "drama",
+        "family"
       ],
       "user_rating": 8.273,
       "critic_score": null,
@@ -28,7 +28,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1139087
+      "tmdb_id": 1139087,
+      "genre": "animation"
     }
   ]
 }

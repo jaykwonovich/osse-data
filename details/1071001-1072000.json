@@ -1,6 +1,6 @@
 {
   "range": "1071001-1072000",
-  "updated_at": 1780003048395,
+  "updated_at": 1780004424434,
   "shows": [
     {
       "id": 1071585,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/oekamLQrwlJjRNmfaBE4llIvkir.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cT9ZfwoPDk8JbgkessmQgxAWiaM.jpg",
       "plot_overview": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
-      "genres": [],
+      "genres": [
+        "action",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.214,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1071585
+      "tmdb_id": 1071585,
+      "genre": "action"
     }
   ]
 }

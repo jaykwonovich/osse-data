@@ -1,6 +1,6 @@
 {
   "range": "697001-698000",
-  "updated_at": 1780003048378,
+  "updated_at": 1780004424420,
   "shows": [
     {
       "id": 697843,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wRxLAw4l17LqiFcPLkobriPTZAw.jpg",
       "plot_overview": "Back from the brink of death, highly skilled commando Tyler Rake takes on another dangerous mission: saving the imprisoned family of a ruthless gangster.",
       "genres": [
-        "Crime"
+        "action",
+        "crime",
+        "thriller"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 697843
+      "tmdb_id": 697843,
+      "genre": "action"
     }
   ]
 }

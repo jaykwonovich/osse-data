@@ -1,6 +1,6 @@
 {
   "range": "938001-939000",
-  "updated_at": 1780003048390,
+  "updated_at": 1780004424429,
   "shows": [
     {
       "id": 938614,
@@ -10,7 +10,9 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/umyOinNa6vqqnqoVc9QqzyaapUz.jpg",
       "plot_overview": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
-      "genres": [],
+      "genres": [
+        "horror"
+      ],
       "user_rating": 7.107,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 938614
+      "tmdb_id": 938614,
+      "genre": "horror"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "245001-246000",
-  "updated_at": 1780003048339,
+  "updated_at": 1780004424382,
   "shows": [
     {
       "id": 245026,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ore4E3D1qfTH1Ollf4UDhzW3PtG.jpg",
       "plot_overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities \u2014 and safeguarding the future of the Wizard World.",
       "genres": [
-        "Comedy",
-        "Sci-Fi & Fantasy",
-        "Family"
+        "comedy",
+        "family",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.8,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 245026
+      "tmdb_id": 245026,
+      "genre": "comedy"
     },
     {
       "id": 245189,
@@ -38,7 +39,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qTCTMyDreGrTzPCj43Gyh5xft3n.jpg",
       "plot_overview": "A documentary series following the embattled \u201cReal Housewives of Beverly Hills\u201d star and pop singer as she mounts a solo Las Vegas music residency.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 245189
+      "tmdb_id": 245189,
+      "genre": "documentary"
     },
     {
       "id": 245312,
@@ -63,8 +65,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6EObfIe4akZGvCLXwXLJw3kPitQ.jpg",
       "plot_overview": "A retired professor with a knack for snooping gets a new lease on life when a private investigator recruits him to go undercover and crack a case.",
       "genres": [
-        "Comedy",
-        "Crime"
+        "comedy",
+        "crime"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -78,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 245312
+      "tmdb_id": 245312,
+      "genre": "comedy"
     },
     {
       "id": 245318,
@@ -89,8 +92,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/r1lGjwTRF0RGYFHzvt3SupArmRy.jpg",
       "plot_overview": "The daughter of a former Hooter's waitress and an ex-pro wrestler, Margo is a recent college dropout and aspiring writer. Faced with a new baby, mounting pile of bills, and dwindling number of ways to pay them, Margo must find a way forward.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 8.076,
       "critic_score": null,
@@ -110,7 +113,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 245318
+      "tmdb_id": 245318,
+      "genre": "comedy"
     },
     {
       "id": 245703,
@@ -121,9 +125,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9AJVsScC6M81MmGZTnxghN9NZe9.jpg",
       "plot_overview": "A brash but brilliant cop becomes head of a new police department, where he leads an unlikely team of misfits in solving Edinburgh's cold cases.",
       "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -137,7 +141,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 245703
+      "tmdb_id": 245703,
+      "genre": "crime"
     },
     {
       "id": 245891,
@@ -147,7 +152,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
       "plot_overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-      "genres": [],
+      "genres": [
+        "action",
+        "thriller"
+      ],
       "user_rating": 7.455,
       "critic_score": null,
       "us_rating": null,
@@ -160,7 +168,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 245891
+      "tmdb_id": 245891,
+      "genre": "action"
     },
     {
       "id": 245902,
@@ -171,8 +180,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/CQQyljC8KT8tMWyZ1fBinMJnXx.jpg",
       "plot_overview": "Discover the untold story of the toxic and abusive environment inside '90s kids' TV. Hear harrowing accounts from former child stars and crew who probe the balance of power in the industry and reveal an era that inflicted lasting wounds still felt today.",
       "genres": [
-        "Documentary",
-        "Crime"
+        "crime",
+        "documentary"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -186,7 +195,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 245902
+      "tmdb_id": 245902,
+      "genre": "crime"
     },
     {
       "id": 245927,
@@ -197,8 +207,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5QsLvWh8J1mXl1W05wNJknMmhzR.jpg",
       "plot_overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.53,
       "critic_score": null,
@@ -212,7 +222,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 245927
+      "tmdb_id": 245927,
+      "genre": "crime"
     }
   ]
 }

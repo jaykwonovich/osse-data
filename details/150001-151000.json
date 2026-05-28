@@ -1,6 +1,6 @@
 {
   "range": "150001-151000",
-  "updated_at": 1780003048329,
+  "updated_at": 1780004424369,
   "shows": [
     {
       "id": 150540,
@@ -11,10 +11,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/o3i6AfTcWAuNvzAUV3q5lOmi6Gx.jpg",
       "plot_overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
       "genres": [
-        "Animation",
-        "Family",
-        "Drama",
-        "Comedy"
+        "animation",
+        "comedy",
+        "drama",
+        "family"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -28,7 +28,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 150540
+      "tmdb_id": 150540,
+      "genre": "animation"
     }
   ]
 }

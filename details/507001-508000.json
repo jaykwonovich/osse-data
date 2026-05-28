@@ -1,6 +1,6 @@
 {
   "range": "507001-508000",
-  "updated_at": 1780003048366,
+  "updated_at": 1780004424408,
   "shows": [
     {
       "id": 507089,
@@ -10,7 +10,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
       "plot_overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
-      "genres": [],
+      "genres": [
+        "horror",
+        "thriller"
+      ],
       "user_rating": 7.319,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 507089
+      "tmdb_id": 507089,
+      "genre": "horror"
     }
   ]
 }

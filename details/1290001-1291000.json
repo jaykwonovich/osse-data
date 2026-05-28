@@ -1,6 +1,6 @@
 {
   "range": "1290001-1291000",
-  "updated_at": 1780003048402,
+  "updated_at": 1780004424439,
   "shows": [
     {
       "id": 1290417,
@@ -10,7 +10,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/adk8weka3O5648g3de4z3y4aE7G.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hniERZojXCEc7Fp3yljZUigOAhm.jpg",
       "plot_overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
-      "genres": [],
+      "genres": [
+        "horror",
+        "thriller"
+      ],
       "user_rating": 6.031,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1290417
+      "tmdb_id": 1290417,
+      "genre": "horror"
     }
   ]
 }

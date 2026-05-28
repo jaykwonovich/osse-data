@@ -1,6 +1,6 @@
 {
   "range": "627001-628000",
-  "updated_at": 1780003048374,
+  "updated_at": 1780004424416,
   "shows": [
     {
       "id": 627070,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/p4u1TYHqpIsmoNFy5eF53CxMY2i.jpg",
       "plot_overview": "In this documentary, Alex trusts his twin, Marcus, to tell him about his past after he loses his memory. But Marcus is hiding a dark family secret.",
       "genres": [
-        "Documentary",
-        "Drama",
-        "Mystery"
+        "documentary",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.348,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 627070
+      "tmdb_id": 627070,
+      "genre": "documentary"
     },
     {
       "id": 627725,
@@ -38,7 +39,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3ciAiEBD4yxZYoXMxEnZF6Q0u58.jpg",
       "plot_overview": "In the 1960s, two entrepreneurs hatch an ingenious business plan to fight for housing integration\u2014and equal access to the American Dream.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.614,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 627725
+      "tmdb_id": 627725,
+      "genre": "drama"
     }
   ]
 }

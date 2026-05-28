@@ -1,6 +1,6 @@
 {
   "range": "236001-237000",
-  "updated_at": 1780003048338,
+  "updated_at": 1780004424381,
   "shows": [
     {
       "id": 236235,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/PqIW7PA74YBURz5slZkxc0K5Pl.jpg",
       "plot_overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire \u2014 and its proprietors aren't going anywhere.",
       "genres": [
-        "Comedy",
-        "Drama",
-        "Crime"
+        "comedy",
+        "crime",
+        "drama"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 236235
+      "tmdb_id": 236235,
+      "genre": "comedy"
     },
     {
       "id": 236429,
@@ -38,9 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/urgOc75FXlEU64eToxSypCarJoN.jpg",
       "plot_overview": "Traci Harmon, a veteran female training officer, and her rookie male ride-along, Alex Diaz, navigate the loss of a fellow officer and politics of modern day policing  \u2014 in the department and on the streets of Long Beach.",
       "genres": [
-        "Crime",
-        "Drama",
-        "Action & Adventure"
+        "action & adventure",
+        "crime",
+        "drama"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -54,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 236429
+      "tmdb_id": 236429,
+      "genre": "action & adventure"
     }
   ]
 }

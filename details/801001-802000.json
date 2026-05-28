@@ -1,6 +1,6 @@
 {
   "range": "801001-802000",
-  "updated_at": 1780003048383,
+  "updated_at": 1780004424424,
   "shows": [
     {
       "id": 801058,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AcvxSLa140z7qgGQ8G2UjhcgVEY.jpg",
       "plot_overview": "Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species \u2014 and uncovers an alarming global conspiracy.",
       "genres": [
-        "Documentary",
-        "Crime"
+        "crime",
+        "documentary"
       ],
       "user_rating": 7.823,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 801058
+      "tmdb_id": 801058,
+      "genre": "crime"
     },
     {
       "id": 801335,
@@ -37,7 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg",
       "plot_overview": "Sara is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home.",
       "genres": [
-        "Crime"
+        "crime",
+        "thriller",
+        "tv movie"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -51,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 801335
+      "tmdb_id": 801335,
+      "genre": "crime"
     }
   ]
 }

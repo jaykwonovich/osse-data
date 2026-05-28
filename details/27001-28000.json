@@ -1,6 +1,6 @@
 {
   "range": "27001-28000",
-  "updated_at": 1780003048294,
+  "updated_at": 1780004424335,
   "shows": [
     {
       "id": 27094,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6zqFDzIKPKyGX1jwYAiJTGvYyXz.jpg",
       "plot_overview": "The story of acerbic 1960s comic Lenny Bruce, whose groundbreaking, no-holds-barred style and social commentary was often deemed by the establishment as too obscene for the public.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 27094
+      "tmdb_id": 27094,
+      "genre": "drama"
     },
     {
       "id": 27331,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/d9Y5OFnDs7xqcGXQGfm1uFVRDYb.jpg",
       "plot_overview": "Charley Varrick robs a bank in a small town with his friends, but instead of obtaining a small amount of money, they discover they stole a very large amount of money belonging to the mob. Charley must now come up with a plan to not only evade the police but the mob as well.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.354,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 27331
+      "tmdb_id": 27331,
+      "genre": "crime"
     },
     {
       "id": 27945,
@@ -62,7 +64,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wNwE1HpHSTNZE4uIzOZ2AmYkOB1.jpg",
       "plot_overview": "John Russell, disdained by his \"respectable\" fellow stagecoach passengers because he was raised by Indians, becomes their only hope for survival when they are set upon by outlaws.",
       "genres": [
-        "Western"
+        "western"
       ],
       "user_rating": 7.069,
       "critic_score": null,
@@ -76,7 +78,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 27945
+      "tmdb_id": 27945,
+      "genre": "western"
     }
   ]
 }

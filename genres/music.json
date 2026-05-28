@@ -1,42 +1,810 @@
 {
   "genre": "music",
-  "updated_at": 1765830970558,
+  "updated_at": 1780004424300,
   "shows": [
     {
-      "id": 1562010,
-      "title": "Taylor Swift | The Eras Tour | The Final Show",
+      "id": 1022256,
+      "title": "Selena Gomez: My Mind & Me",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
-      "genre": "music",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.6,
-      "release_date": "2025-12-11"
-    },
-    {
-      "id": 975225,
-      "title": "Spinal Tap II: The End Continues",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",
-      "genre": "music",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 6.7,
-      "release_date": "2025-09-12"
-    },
-    {
-      "id": 1000703,
-      "title": "Billie Eilish: The World\u2019s A Little Blurry Live Premiere Event",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aTvCFO8vXM41zEACxOnForNOmJp.jpg",
-      "genre": "music",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 3.5,
-      "release_date": "2021-02-28"
+      "user_rating": 8.5,
+      "release_date": "2022-11-04"
+    },
+    {
+      "id": 654754,
+      "title": "Billie Eilish: The World's a Little Blurry",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 8.225,
+      "release_date": "2021-02-26"
+    },
+    {
+      "id": 164558,
+      "title": "One Direction: This Is Us",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b720e7DW3nqRJaUH9xpTtvYhnUj.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.2,
+      "release_date": "2013-08-20"
+    },
+    {
+      "id": 1160164,
+      "title": "TAYLOR SWIFT | THE ERAS TOUR",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
+      "genre": "music",
+      "genres": [
+        "music"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 8.161,
+      "release_date": "2023-10-13"
+    },
+    {
+      "id": 593691,
+      "title": "HOMECOMING: A film by Beyonc\u00e9",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.1,
+      "release_date": "2019-04-16"
+    },
+    {
+      "id": 424694,
+      "title": "Bohemian Rhapsody",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.0,
+      "release_date": "2018-10-24"
+    },
+    {
+      "id": 400608,
+      "title": "Bo Burnham: Make Happy",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qVThhskXZZHDfj4m8jOx2CxIVIW.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.991,
+      "release_date": "2016-06-03"
+    },
+    {
+      "id": 774372,
+      "title": "ariana grande: excuse me, i love you",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.965,
+      "release_date": "2020-12-21"
+    },
+    {
+      "id": 776503,
+      "title": "CODA",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music",
+        "romance"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.89,
+      "release_date": "2021-08-13"
+    },
+    {
+      "id": 11314,
+      "title": "Koyaanisqatsi",
+      "type": "movie",
+      "year": 1983,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.876,
+      "release_date": "1983-04-27"
+    },
+    {
+      "id": 1226841,
+      "title": "The Greatest Night in Pop",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.862,
+      "release_date": "2024-01-19"
+    },
+    {
+      "id": 653567,
+      "title": "Miss Americana",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.834,
+      "release_date": "2020-01-31"
+    },
+    {
+      "id": 1693346,
+      "title": "Apple Music Live: Lady Gaga MAYHEM Requiem",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
+      "genre": "music",
+      "genres": [
+        "music"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.813,
+      "release_date": "2026-05-14"
+    },
+    {
+      "id": 244001,
+      "title": "Bo Burnham: What.",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kGDpMWPOKStmvf4F1gkqfeFZmXA.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.807,
+      "release_date": "2013-12-17"
+    },
+    {
+      "id": 502033,
+      "title": "Sound of Metal",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.699,
+      "release_date": "2020-11-20"
+    },
+    {
+      "id": 1027014,
+      "title": "Entergalactic",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oMU3JpuKuasjAWIbUQgCaT6pco1.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "music",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.688,
+      "release_date": "2022-09-28"
+    },
+    {
+      "id": 506574,
+      "title": "Descendants 3",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.671,
+      "release_date": "2019-08-02"
+    },
+    {
+      "id": 13963,
+      "title": "The Last Waltz",
+      "type": "movie",
+      "year": 1978,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.658,
+      "release_date": "1978-04-26"
+    },
+    {
+      "id": 776527,
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history",
+        "music"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.639,
+      "release_date": "2021-07-02"
+    },
+    {
+      "id": 537116,
+      "title": "tick, tick... BOOM!",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.603,
+      "release_date": "2021-11-11"
+    },
+    {
+      "id": 799766,
+      "title": "Better Man",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fbGCmMp0HlYnAPv28GOENPShezM.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.6,
+      "release_date": "2024-12-06"
+    },
+    {
+      "id": 331781,
+      "title": "Amy",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.575,
+      "release_date": "2015-07-02"
+    },
+    {
+      "id": 90125,
+      "title": "Marley",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1UQM8zsQ4HhUr4dMgDDDMBrsq5d.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.543,
+      "release_date": "2012-04-20"
+    },
+    {
+      "id": 11779,
+      "title": "Buena Vista Social Club",
+      "type": "movie",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b203Z3qwCRMLOY00XZh4qNQCwM4.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.505,
+      "release_date": "1999-06-04"
+    },
+    {
+      "id": 470878,
+      "title": "I Can Only Imagine",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/veZszwMZu8d3WMU6TJX9sV5w1Y4.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2018-02-14"
+    },
+    {
+      "id": 69,
+      "title": "Walk the Line",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.497,
+      "release_date": "2005-09-13"
+    },
+    {
+      "id": 612706,
+      "title": "Work It",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.495,
+      "release_date": "2020-08-07"
+    },
+    {
+      "id": 957457,
+      "title": "Moonage Daydream",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tJCZI1tO0sYIV0mGo0Awcr996vm.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.487,
+      "release_date": "2022-09-15"
+    },
+    {
+      "id": 1677,
+      "title": "Ray",
+      "type": "movie",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.45,
+      "release_date": "2004-10-29"
+    },
+    {
+      "id": 472424,
+      "title": "Gaga: Five Foot Two",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/g0NONcnzzvWoASFjFoDqXZUW6SV.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.436,
+      "release_date": "2017-09-21"
+    },
+    {
+      "id": 11031,
+      "title": "This Is Spinal Tap",
+      "type": "movie",
+      "year": 1984,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "music"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.418,
+      "release_date": "1984-03-02"
+    },
+    {
+      "id": 1371185,
+      "title": "Song Sung Blue",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music",
+        "romance"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.4,
+      "release_date": "2025-12-15"
+    },
+    {
+      "id": 417320,
+      "title": "Descendants 2",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qoNlGfQmFZ37Gf5fRBaCTLlOZtx.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.4,
+      "release_date": "2017-07-21"
+    },
+    {
+      "id": 318044,
+      "title": "What Happened, Miss Simone?",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8XpM91NVq6IyCnDkiWf4xjHpewK.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.386,
+      "release_date": "2015-01-22"
+    },
+    {
+      "id": 412924,
+      "title": "Supersonic",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gMHLEKTB22J212To1gSnundcIhH.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history",
+        "music"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.381,
+      "release_date": "2016-10-02"
+    },
+    {
+      "id": 88,
+      "title": "Dirty Dancing",
+      "type": "movie",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music",
+        "romance"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.3,
+      "release_date": "1987-08-21"
+    },
+    {
+      "id": 704,
+      "title": "A Hard Day's Night",
+      "type": "movie",
+      "year": 1964,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "music"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.3,
+      "release_date": "1964-07-07"
+    },
+    {
+      "id": 610120,
+      "title": "Anima",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xCBOjFAzsz8d2kABIPfwIAOeJ5t.jpg",
+      "genre": "music",
+      "genres": [
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.291,
+      "release_date": "2019-06-26"
+    },
+    {
+      "id": 16620,
+      "title": "La Bamba",
+      "type": "movie",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6Znulqtc7cdqlUC69HGf26Ef5fi.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.261,
+      "release_date": "1987-07-24"
+    },
+    {
+      "id": 13368,
+      "title": "White Christmas",
+      "type": "movie",
+      "year": 1954,
+      "poster_url": "https://image.tmdb.org/t/p/w342/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "music",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "1954-10-14"
+    },
+    {
+      "id": 159014,
+      "title": "20 Feet from Stardom",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6iRxKxfE6SB586cQV3BH8NSMzoZ.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.178,
+      "release_date": "2013-06-14"
+    },
+    {
+      "id": 101267,
+      "title": "Katy Perry: Part of Me",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yPW5Lmptt7z8rCYtVYjkpyjI3SY.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.157,
+      "release_date": "2012-06-28"
+    },
+    {
+      "id": 277217,
+      "title": "Descendants",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.156,
+      "release_date": "2015-07-31"
+    },
+    {
+      "id": 817758,
+      "title": "T\u00c1R",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.103,
+      "release_date": "2022-10-07"
+    },
+    {
+      "id": 661539,
+      "title": "A Complete Unknown",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.1,
+      "release_date": "2024-12-25"
+    },
+    {
+      "id": 35558,
+      "title": "Starstruck",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kuyJuNiiZvu5iNr8Dgv5y75v1uc.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "music",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.041,
+      "release_date": "2010-02-14"
+    },
+    {
+      "id": 696157,
+      "title": "Whitney Houston: I Wanna Dance with Somebody",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oodPJ3Op1pWBhnEFyw5fampRCWf.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "music"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.025,
+      "release_date": "2022-12-20"
+    },
+    {
+      "id": 10373,
+      "title": "Quadrophenia",
+      "type": "movie",
+      "year": 1979,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4sRR3pvrAZMG7GEvnR9XzqyHHfD.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.019,
+      "release_date": "1979-09-14"
+    },
+    {
+      "id": 1084187,
+      "title": "Pretty Lethal",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "horror",
+        "music",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.815,
+      "release_date": "2026-03-13"
     }
   ]
 }

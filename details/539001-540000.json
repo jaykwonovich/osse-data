@@ -1,6 +1,6 @@
 {
   "range": "539001-540000",
-  "updated_at": 1780003048368,
+  "updated_at": 1780004424410,
   "shows": [
     {
       "id": 539617,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2DwSRqFuqZoGqbJVkuAFsulYVQA.jpg",
       "plot_overview": "A seemingly bright and mostly innocent 16-year-old named Mo attempts to navigate high school under the guidance of his best friend Zeke, an unmotivated-yet-charismatic college dropout. Although Zeke genuinely cares about Mo, things start to go awry as he teaches Mo nontraditional life lessons in drug dealing, partying, and dating. Meanwhile, Mo\u2019s well-meaning dad tries to step in and take back the reins of his son\u2019s upbringing.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.157,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 539617
+      "tmdb_id": 539617,
+      "genre": "comedy"
     },
     {
       "id": 539681,
@@ -37,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xfNHRI2f5kHGvogxLd0C5sB90L7.jpg",
       "plot_overview": "When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.",
       "genres": [
-        "Family",
-        "Comedy",
-        "Animation"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.157,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 539681
+      "tmdb_id": 539681,
+      "genre": "animation"
     }
   ]
 }

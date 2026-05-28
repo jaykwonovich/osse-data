@@ -1,6 +1,6 @@
 {
   "range": "653001-654000",
-  "updated_at": 1780003048375,
+  "updated_at": 1780004424418,
   "shows": [
     {
       "id": 653346,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fypydCipcWDKDTTCoPucBsdGYXW.jpg",
       "plot_overview": "Several generations following Caesar's reign, apes \u2013 now the dominant species \u2013 live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.056,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 653346
+      "tmdb_id": 653346,
+      "genre": "action"
     },
     {
       "id": 653349,
@@ -34,7 +39,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/o0UGl6icA4DbhmDNgdZ5AWvuTtM.jpg",
       "plot_overview": "When a straight-laced couple that has fun with a rowdy couple on vacation in Mexico return to the States, they discover that the crazy couple they met in Mexico followed them back home and decide to play tricks on them.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.03,
       "critic_score": null,
@@ -48,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 653349
+      "tmdb_id": 653349,
+      "genre": "comedy"
     },
     {
       "id": 653567,
@@ -59,7 +65,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg",
       "plot_overview": "A raw and emotionally revealing look at one of the most iconic artists of our time during a transformational period in her life as she learns to embrace her role not only as a songwriter and performer, but as a woman harnessing the full power of her voice.",
       "genres": [
-        "Documentary"
+        "documentary",
+        "music"
       ],
       "user_rating": 7.834,
       "critic_score": null,
@@ -73,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 653567
+      "tmdb_id": 653567,
+      "genre": "documentary"
     }
   ]
 }

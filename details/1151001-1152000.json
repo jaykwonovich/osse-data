@@ -1,6 +1,6 @@
 {
   "range": "1151001-1152000",
-  "updated_at": 1780003048397,
+  "updated_at": 1780004424436,
   "shows": [
     {
       "id": 1151031,
@@ -10,7 +10,9 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
       "plot_overview": "Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
-      "genres": [],
+      "genres": [
+        "horror"
+      ],
       "user_rating": 7.343,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1151031
+      "tmdb_id": 1151031,
+      "genre": "horror"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "105001-106000",
-  "updated_at": 1780003048321,
+  "updated_at": 1780004424361,
   "shows": [
     {
       "id": 105177,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xvTMD2R3sVesWPvQN8gVYEeFWDV.jpg",
       "plot_overview": "Real cases of perplexing disappearances, shocking murders and paranormal encounters fuel this gripping revival of the iconic documentary series.",
       "genres": [
-        "Documentary",
-        "Drama",
-        "Mystery"
+        "documentary",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 105177
+      "tmdb_id": 105177,
+      "genre": "documentary"
     },
     {
       "id": 105288,
@@ -38,7 +39,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/prs7zCDXmcoN0iDxac91LGO1QKZ.jpg",
       "plot_overview": "Actor Zac Efron journeys around the world with wellness expert Darin Olien in a travel show that explores healthy, sustainable ways to live.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.655,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 105288
+      "tmdb_id": 105288,
+      "genre": "documentary"
     },
     {
       "id": 105797,
@@ -63,10 +65,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sBOfH2ZK5JSTsgNmbVSSJcnVO2G.jpg",
       "plot_overview": "Merlin\u2019s apprentice joins Arcadia\u2019s heroes on a time-bending adventure in Camelot, where conflict is brewing between the human, troll and magical worlds.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Comedy",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.165,
       "critic_score": null,
@@ -80,7 +82,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 105797
+      "tmdb_id": 105797,
+      "genre": "action & adventure"
     },
     {
       "id": 105804,
@@ -91,8 +94,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xSejbnuKiyIfdvRjh48Qnrml8W1.jpg",
       "plot_overview": "Candy Montgomery is a 1980s housewife and mother who did everything right \u2014 but when the pressure of conformity builds within her, her actions scream for just a bit of freedom. Until someone tells her to shush. With deadly results.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.137,
       "critic_score": null,
@@ -106,7 +109,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 105804
+      "tmdb_id": 105804,
+      "genre": "crime"
     },
     {
       "id": 105971,
@@ -117,9 +121,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sjxtIUCWR74yPPcZFfTsToepfWm.jpg",
       "plot_overview": "The 'Bad Batch' of elite and experimental clones make their way through an ever-changing galaxy in the immediate aftermath of the Clone Wars.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.158,
       "critic_score": null,
@@ -133,7 +137,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 105971
+      "tmdb_id": 105971,
+      "genre": "action & adventure"
     }
   ]
 }

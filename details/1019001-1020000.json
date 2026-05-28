@@ -1,6 +1,6 @@
 {
   "range": "1019001-1020000",
-  "updated_at": 1780003048393,
+  "updated_at": 1780004424433,
   "shows": [
     {
       "id": 1019939,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/krN2V7leYVBp6dOLzP11sM44eNb.jpg",
       "plot_overview": "In the 19th century, a drunken applejack salesman must go from zero to hero and become North America's greatest fur trapper by defeating hundreds of beavers.",
       "genres": [
-        "Comedy"
+        "action",
+        "adventure",
+        "comedy"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1019939
+      "tmdb_id": 1019939,
+      "genre": "action"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "1084001-1085000",
-  "updated_at": 1780003048395,
+  "updated_at": 1780004424435,
   "shows": [
     {
       "id": 1084187,
@@ -10,7 +10,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
       "plot_overview": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
-      "genres": [],
+      "genres": [
+        "action",
+        "horror",
+        "music",
+        "thriller"
+      ],
       "user_rating": 6.815,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +28,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1084187
+      "tmdb_id": 1084187,
+      "genre": "action"
     },
     {
       "id": 1084199,
@@ -33,7 +39,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qA6MHDGDY0LyutjLUgFJRbPXLpW.jpg",
       "plot_overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
-      "genres": [],
+      "genres": [
+        "horror",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.0,
       "critic_score": null,
       "us_rating": null,
@@ -46,7 +56,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1084199
+      "tmdb_id": 1084199,
+      "genre": "horror"
     },
     {
       "id": 1084242,
@@ -57,10 +68,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
       "plot_overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family",
-        "Mystery"
+        "animation",
+        "comedy",
+        "family",
+        "mystery"
       ],
       "user_rating": 7.644,
       "critic_score": null,
@@ -74,7 +85,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1084242
+      "tmdb_id": 1084242,
+      "genre": "animation"
     },
     {
       "id": 1084577,
@@ -85,7 +97,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
       "plot_overview": "Two marketing executives go \"balls out\" and pitch a bold full\u2011coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
       "genres": [
-        "Comedy"
+        "action",
+        "adventure",
+        "comedy"
       ],
       "user_rating": 5.872,
       "critic_score": null,
@@ -99,7 +113,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1084577
+      "tmdb_id": 1084577,
+      "genre": "action"
     }
   ]
 }

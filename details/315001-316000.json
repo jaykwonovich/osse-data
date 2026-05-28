@@ -1,6 +1,6 @@
 {
   "range": "315001-316000",
-  "updated_at": 1780003048350,
+  "updated_at": 1780004424391,
   "shows": [
     {
       "id": 315110,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/x20sGCxZR51taOtbyElelE4htCB.jpg",
       "plot_overview": "Good vibes, great guests, glorious fringe. Your weekly dose of Claudia\u2011powered joy, as she has a chat with Hollywood stars, the best of British and her gorgeous studio audience.",
       "genres": [
-        "Talk"
+        "talk"
       ],
       "user_rating": 3.5,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 315110
+      "tmdb_id": 315110,
+      "genre": "talk"
     },
     {
       "id": 315162,
@@ -36,9 +37,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
       "plot_overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 8.2,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 315162
+      "tmdb_id": 315162,
+      "genre": "animation"
     },
     {
       "id": 315321,
@@ -63,7 +65,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vuk9u4dqyCgT2E75rPZHTtMzKWn.jpg",
       "plot_overview": "Craig Ferguson travel coast-to-coast to explore the defining ideas, and contradictions, at the heart of the United States. Guided by his distinct humor and point of view, Ferguson examines the country's founding ideals while reflecting on his own experience becoming an American citizen. Along the way, he visits iconic locations and unexpected corners of the country and encounters a wide range of voices from comedians and entrepreneurs to historians and everyday Americans.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -89,7 +91,8 @@
       "next_season": 1,
       "next_air_date": "2026-05-30",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "documentary"
     },
     {
       "id": 315531,
@@ -131,7 +134,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
       "plot_overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.33,
       "critic_score": null,
       "us_rating": null,
@@ -144,7 +151,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 315635
+      "tmdb_id": 315635,
+      "genre": "action"
     },
     {
       "id": 315800,
@@ -155,7 +163,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7z2cmuREaHOFaDtzTgDNy1wbkc2.jpg",
       "plot_overview": "Ex-members of a tantric yoga school speak out about how they went from searching for wellness and community to fearing they'd joined a cult, and seeking justice for alleged abuse and manipulation at the hands of a self-styled guru.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.143,
       "critic_score": null,
@@ -169,7 +177,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 315800
+      "tmdb_id": 315800,
+      "genre": "documentary"
     },
     {
       "id": 315837,
@@ -180,8 +189,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/s7wJIVXtQXxZeg8yJNmJI65scJC.jpg",
       "plot_overview": "Follows parents confronting the unthinkable truth that their child has grown into a monster who committed horrifying crimes, featuring first-person interviews.",
       "genres": [
-        "Crime",
-        "Documentary"
+        "crime",
+        "documentary"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -195,7 +204,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 315837
+      "tmdb_id": 315837,
+      "genre": "crime"
     }
   ]
 }

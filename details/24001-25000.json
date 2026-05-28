@@ -1,6 +1,6 @@
 {
   "range": "24001-25000",
-  "updated_at": 1780003048294,
+  "updated_at": 1780004424333,
   "shows": [
     {
       "id": 24238,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8UxYHvKBNFnoyfHjgjMwzj4zOuy.jpg",
       "plot_overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Drama"
+        "animation",
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.872,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 24238
+      "tmdb_id": 24238,
+      "genre": "animation"
     },
     {
       "id": 24428,
@@ -37,7 +38,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
       "plot_overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 8.031,
       "critic_score": null,
       "us_rating": null,
@@ -50,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 24428
+      "tmdb_id": 24428,
+      "genre": "action"
     },
     {
       "id": 24480,
@@ -61,9 +67,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8FQ0QCoyGHpPXRTsv2jaSqV5NRs.jpg",
       "plot_overview": "Everyone knows that the stork delivers babies, but where do the storks get the babies from? The answer lies up in the stratosphere, where cloud people sculpt babies from clouds and bring them to life. Gus, a lonely and insecure grey cloud, is a master at creating \"dangerous\" babies. Crocodiles, porcupines, rams and more - Gus's beloved creations are works of art, but more than a handful for his loyal delivery stork partner, Peck. As Gus's creations become more and more rambunctious, Peck's job g",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.753,
       "critic_score": null,
@@ -77,7 +83,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 24480
+      "tmdb_id": 24480,
+      "genre": "animation"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "374001-375000",
-  "updated_at": 1780003048356,
+  "updated_at": 1780004424397,
   "shows": [
     {
       "id": 374461,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/y6jpd3c1UFoouBmIVWZMCGVyQmS.jpg",
       "plot_overview": "A unique friendship develops when a little girl and her dying mother inherit a cook - Mr. Church. What begins as an arrangement that should only last six months, instead spans fifteen years.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.406,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 374461
+      "tmdb_id": 374461,
+      "genre": "drama"
     },
     {
       "id": 374720,
@@ -36,7 +37,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
       "plot_overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
       "genres": [
-        "Drama"
+        "action",
+        "drama",
+        "war"
       ],
       "user_rating": 7.452,
       "critic_score": null,
@@ -50,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 374720
+      "tmdb_id": 374720,
+      "genre": "action"
     }
   ]
 }

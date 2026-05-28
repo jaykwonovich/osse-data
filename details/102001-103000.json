@@ -1,6 +1,6 @@
 {
   "range": "102001-103000",
-  "updated_at": 1780003048320,
+  "updated_at": 1780004424360,
   "shows": [
     {
       "id": 102321,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kxHkP4YnRIWEcW08CpCRqnxiMSH.jpg",
       "plot_overview": "A series of short form cartoons starring the iconic and beloved Looney Tunes characters. Bugs Bunny, Daffy Duck, Porky Pig and other marquee Looney Tunes characters are featured in their classic pairings in simple, gag-driven and visually vibrant stories.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 102321
+      "tmdb_id": 102321,
+      "genre": "animation"
     },
     {
       "id": 102434,
@@ -38,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8GAIpNkyVHorYZhCKYT4hC9C7Dv.jpg",
       "plot_overview": "In an isolated and inaccessible Antarctic research station in which winter has fallen on the South Pole and the sun will soon disappear for the next six months, a small team, known as the Winterers, remain at the Polaris VI Antarctic Research Station to continue their innovative research. Renowned biologist Arthur Wilde is determined to find a solution to climate change, but his quest turns into a nightmare when several of his esteemed scientists suddenly begin to die.",
       "genres": [
-        "Mystery",
-        "Drama"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.069,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 102434
+      "tmdb_id": 102434,
+      "genre": "drama"
     },
     {
       "id": 102619,
@@ -64,7 +66,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sk7QfJtxgonCupN7Hx0jgOfNbE3.jpg",
       "plot_overview": "Set in London, where gratification is only an app away, the story centers on Arabella,  a carefree, self-assured Londoner with a group of great friends, a boyfriend in Italy, and a burgeoning writing career. But when her drink is spiked, she must question and rebuild every element of her life.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.224,
       "critic_score": null,
@@ -78,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 102619
+      "tmdb_id": 102619,
+      "genre": "drama"
     },
     {
       "id": 102621,
@@ -89,9 +92,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oyKYPA1UXwwgrjmnM30sh33IRG5.jpg",
       "plot_overview": "As discord reigns on Mount Olympus and almighty Zeus spirals into paranoia, three mortals are destined to reshape the future of humankind.",
       "genres": [
-        "Comedy",
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "comedy",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.273,
       "critic_score": null,
@@ -105,7 +108,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 102621
+      "tmdb_id": 102621,
+      "genre": "comedy"
     },
     {
       "id": 102651,
@@ -116,7 +120,11 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bNiiUCQUD7ij5Ybh2GoWSZwqAb1.jpg",
       "plot_overview": "A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a peaceable forest kingdom, until one day when an invading army threatens the harmony of the land. She rises to be the land's fiercest protector, but she ultimately suffers a ruthless betrayal \u2013 an act that begins to turn her heart into stone. Bent on revenge, Maleficent faces an epic battle with the invading King's successor and, as a result, places a curse upon his newborn infant Aurora. As the child grows, Mal",
       "genres": [
-        "Family"
+        "action",
+        "adventure",
+        "family",
+        "fantasy",
+        "romance"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -130,7 +138,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 102651
+      "tmdb_id": 102651,
+      "genre": "action"
     },
     {
       "id": 102899,
@@ -140,7 +149,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
       "plot_overview": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
@@ -153,7 +166,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 102899
+      "tmdb_id": 102899,
+      "genre": "action"
     },
     {
       "id": 102904,
@@ -164,7 +178,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wt60Q4doM2vrubiCsutwaeWncLL.jpg",
       "plot_overview": "Lifelong friends Maddie, Helen and Dana Sue lift each other up as they juggle relationships, family and careers in the small Southern town of Serenity.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -183,7 +197,8 @@
       "next_season": 5,
       "next_air_date": "2026-06-11",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "drama"
     },
     {
       "id": 102905,
@@ -194,7 +209,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/26n5jkv3FGfAjgzFp82GdL4LSEF.jpg",
       "plot_overview": "Infographics and archival footage deliver bite-size history lessons on scientific breakthroughs, social movements and world-changing discoveries.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -208,7 +223,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 102905
+      "tmdb_id": 102905,
+      "genre": "documentary"
     }
   ]
 }

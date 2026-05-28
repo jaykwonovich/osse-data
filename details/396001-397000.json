@@ -1,6 +1,6 @@
 {
   "range": "396001-397000",
-  "updated_at": 1780003048358,
+  "updated_at": 1780004424398,
   "shows": [
     {
       "id": 396371,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rHcBZ6ZKCe4FalWHyvBGsyMsh0k.jpg",
       "plot_overview": "Molly Bloom, a young skier and former Olympic hopeful becomes a successful entrepreneur (and a target of an FBI investigation) when she establishes a high-stakes, international poker game.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.151,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 396371
+      "tmdb_id": 396371,
+      "genre": "crime"
     },
     {
       "id": 396774,
@@ -37,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9tIGBB0VUWLLsiG4JqinSPKVYBE.jpg",
       "plot_overview": "An ongoing feud between punk rockers and a more affluent clique in a small Texas town leads to a hate crime.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 396774
+      "tmdb_id": 396774,
+      "genre": "crime"
     }
   ]
 }

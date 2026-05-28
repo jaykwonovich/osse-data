@@ -1,6 +1,6 @@
 {
   "range": "473001-474000",
-  "updated_at": 1780003048363,
+  "updated_at": 1780004424405,
   "shows": [
     {
       "id": 473033,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
       "plot_overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 473033
+      "tmdb_id": 473033,
+      "genre": "crime"
     }
   ]
 }

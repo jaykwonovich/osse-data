@@ -1,6 +1,6 @@
 {
   "range": "599001-600000",
-  "updated_at": 1780003048372,
+  "updated_at": 1780004424414,
   "shows": [
     {
       "id": 599521,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/cOnxoQ3kx4mgmWb7yRi6GBWssOh.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aJK3XZGn7TaCnb1wbHBgCfXOxnc.jpg",
       "plot_overview": "Zed and Addison are back at Seabrook High, where, after a groundbreaking semester, they continue to steer both their school and community toward unity. But the arrival of a new group of outsiders \u2013 mysterious werewolves \u2013 threatens to shake up the newfound peace and causes a rift in Zed and Addison\u2019s budding romance.",
-      "genres": [],
+      "genres": [
+        "fantasy",
+        "romance",
+        "tv movie"
+      ],
       "user_rating": 7.47,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 599521
+      "tmdb_id": 599521,
+      "genre": "fantasy"
     }
   ]
 }

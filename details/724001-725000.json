@@ -1,6 +1,6 @@
 {
   "range": "724001-725000",
-  "updated_at": 1780003048379,
+  "updated_at": 1780004424421,
   "shows": [
     {
       "id": 724495,
@@ -11,7 +11,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/v4YV4ne1nwNni35iz4WmpZRZpCD.jpg",
       "plot_overview": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.",
       "genres": [
-        "Drama"
+        "action",
+        "drama",
+        "history",
+        "war"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -25,7 +28,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 724495
+      "tmdb_id": 724495,
+      "genre": "action"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "336001-337000",
-  "updated_at": 1780003048354,
+  "updated_at": 1780004424394,
   "shows": [
     {
       "id": 336843,
@@ -10,7 +10,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/drbERzlA4cuRWhsTXfFOY4mRR4f.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ufUAOM5aVizNf8d5YLoutqrrlhq.jpg",
       "plot_overview": "Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.082,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +28,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 336843
+      "tmdb_id": 336843,
+      "genre": "action"
     }
   ]
 }

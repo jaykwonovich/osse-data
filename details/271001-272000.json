@@ -1,6 +1,6 @@
 {
   "range": "271001-272000",
-  "updated_at": 1780003048343,
+  "updated_at": 1780004424386,
   "shows": [
     {
       "id": 271110,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
       "plot_overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
@@ -29,7 +33,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 271110
+      "tmdb_id": 271110,
+      "genre": "action"
     },
     {
       "id": 271674,
@@ -40,7 +45,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rnxehuWNDvEEGntsdte0iwHZavy.jpg",
       "plot_overview": "France, 1940. In the first days of occupation, beautiful Lucile Angellier is trapped in a stifled existence with her controlling mother-in-law as they both await news of her husband: a prisoner of war. Parisian refugees start to pour into their small town, soon followed by a regiment of German soldiers who take up residence in the villagers' own homes. Lucile initially tries to ignore Bruno von Falk, the handsome and refined German officer staying with them. But soon, a powerful love draws them ",
       "genres": [
-        "Drama"
+        "drama",
+        "romance",
+        "war"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -54,7 +61,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 271674
+      "tmdb_id": 271674,
+      "genre": "drama"
     },
     {
       "id": 271855,
@@ -65,9 +73,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1AA5xIVt1PTrbLxCCBxRyvjdpqO.jpg",
       "plot_overview": "Sandokan is a Malaysian pirate who, along with his friend Yanez and their crew, attacks the British forces from his island of Mompracem. During his adventures, he falls in love with Lady Marianna Guillonk, an English-Italian aristocrat.",
       "genres": [
-        "Action & Adventure",
-        "Drama",
-        "War & Politics"
+        "action & adventure",
+        "drama",
+        "war & politics"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -81,7 +89,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 271855
+      "tmdb_id": 271855,
+      "genre": "action & adventure"
     },
     {
       "id": 271918,
@@ -92,7 +101,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3777V8mwcnjWNA0kO79yhul3vjf.jpg",
       "plot_overview": "Set amongst Salt Lake City\u2019s most jaw-dropping properties, the show follows the layered social dynamics within the brokerage as the agents navigate complicated relationships and personal rivalries.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 8.5,
       "critic_score": null,
@@ -106,7 +115,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 271918
+      "tmdb_id": 271918,
+      "genre": "reality"
     }
   ]
 }

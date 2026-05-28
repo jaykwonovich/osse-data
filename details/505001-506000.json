@@ -1,6 +1,6 @@
 {
   "range": "505001-506000",
-  "updated_at": 1780003048365,
+  "updated_at": 1780004424408,
   "shows": [
     {
       "id": 505642,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
       "plot_overview": "Queen Ramonda, Shuri, M\u2019Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T\u2019Challa\u2019s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.006,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 505642
+      "tmdb_id": 505642,
+      "genre": "action"
     }
   ]
 }

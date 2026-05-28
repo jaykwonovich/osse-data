@@ -1,6 +1,6 @@
 {
   "range": "634001-635000",
-  "updated_at": 1780003048374,
+  "updated_at": 1780004424416,
   "shows": [
     {
       "id": 634544,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bfnUoHV9IPDGmxQmGAEOKIBNIWM.jpg",
       "plot_overview": "In 1973, when Frank Bledsoe and his 18-year-old niece Beth take a road trip from Manhattan to Creekville, South Carolina for the family patriarch's funeral, they're unexpectedly joined by Frank's lover Walid.",
       "genres": [
-        "Drama"
+        "drama",
+        "tv movie"
       ],
       "user_rating": 7.283,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 634544
+      "tmdb_id": 634544,
+      "genre": "drama"
     },
     {
       "id": 634649,
@@ -35,7 +37,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
       "plot_overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.935,
       "critic_score": null,
       "us_rating": null,
@@ -48,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 634649
+      "tmdb_id": 634649,
+      "genre": "action"
     }
   ]
 }

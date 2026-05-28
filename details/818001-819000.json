@@ -1,6 +1,6 @@
 {
   "range": "818001-819000",
-  "updated_at": 1780003048385,
+  "updated_at": 1780004424425,
   "shows": [
     {
       "id": 818750,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/334KZ2yt18AjPN9VmJw68sEkc7U.jpg",
       "plot_overview": "After surviving a car accident that took the life of her boyfriend, a teenage girl believes he's attempting to reconnect with her from the after world.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance",
+        "science fiction"
       ],
       "user_rating": 7.325,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 818750
+      "tmdb_id": 818750,
+      "genre": "drama"
     }
   ]
 }

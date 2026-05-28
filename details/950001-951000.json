@@ -1,6 +1,6 @@
 {
   "range": "950001-951000",
-  "updated_at": 1780003048390,
+  "updated_at": 1780004424429,
   "shows": [
     {
       "id": 950387,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
       "plot_overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
       "genres": [
-        "Family",
-        "Comedy"
+        "comedy",
+        "family"
       ],
       "user_rating": 6.268,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 950387
+      "tmdb_id": 950387,
+      "genre": "comedy"
     },
     {
       "id": 950396,
@@ -36,7 +37,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
       "plot_overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
-      "genres": [],
+      "genres": [
+        "romance",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.635,
       "critic_score": null,
       "us_rating": null,
@@ -49,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 950396
+      "tmdb_id": 950396,
+      "genre": "romance"
     }
   ]
 }

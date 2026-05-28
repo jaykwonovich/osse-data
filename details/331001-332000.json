@@ -1,6 +1,6 @@
 {
   "range": "331001-332000",
-  "updated_at": 1780003048353,
+  "updated_at": 1780004424394,
   "shows": [
     {
       "id": 331482,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
       "plot_overview": "Four sisters come of age in America in the aftermath of the Civil War.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 7.855,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 331482
+      "tmdb_id": 331482,
+      "genre": "drama"
     },
     {
       "id": 331781,
@@ -36,7 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8YiAnbmo8ARHNVt25Cp5fVt4rNd.jpg",
       "plot_overview": "A documentary on the life of Amy Winehouse, the immensely talented yet doomed songstress. We see her from her teen years, where she already showed her singing abilities, to her finding success and then her downward spiral into alcoholism and drugs.",
       "genres": [
-        "Documentary"
+        "documentary",
+        "music"
       ],
       "user_rating": 7.575,
       "critic_score": null,
@@ -50,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 331781
+      "tmdb_id": 331781,
+      "genre": "documentary"
     }
   ]
 }

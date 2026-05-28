@@ -1,6 +1,6 @@
 {
   "range": "610001-611000",
-  "updated_at": 1780003048372,
+  "updated_at": 1780004424414,
   "shows": [
     {
       "id": 610120,
@@ -10,7 +10,9 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/xCBOjFAzsz8d2kABIPfwIAOeJ5t.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lF9W3LAlYYfv7R2V2b1k0ZnA3a.jpg",
       "plot_overview": "In a short musical film directed by Paul Thomas Anderson, Thom Yorke of Radiohead stars in a mind-bending visual piece. Best played loud.",
-      "genres": [],
+      "genres": [
+        "music"
+      ],
       "user_rating": 7.291,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 610120
+      "tmdb_id": 610120,
+      "genre": "music"
     }
   ]
 }

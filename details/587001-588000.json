@@ -1,6 +1,6 @@
 {
   "range": "587001-588000",
-  "updated_at": 1780003048371,
+  "updated_at": 1780004424413,
   "shows": [
     {
       "id": 587792,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
       "plot_overview": "When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "romance",
+        "science fiction"
       ],
       "user_rating": 7.339,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 587792
+      "tmdb_id": 587792,
+      "genre": "comedy"
     }
   ]
 }

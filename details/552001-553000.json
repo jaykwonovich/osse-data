@@ -1,6 +1,6 @@
 {
   "range": "552001-553000",
-  "updated_at": 1780003048369,
+  "updated_at": 1780004424411,
   "shows": [
     {
       "id": 552095,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AseABzwquvPFMpVQUDeDifYjLkF.jpg",
       "plot_overview": "When their latest scheme goes awry, Mayor Humdinger and his nephew Harold accidentally divert a meteor towards Adventure Bay. The meteor's golden energy grants the PAW Patrol superpowers. The heroic Mighty Pups are on a roll to super-save the day.",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 7.518,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 552095
+      "tmdb_id": 552095,
+      "genre": "animation"
     },
     {
       "id": 552524,
@@ -37,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
       "plot_overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
       "genres": [
-        "Family",
-        "Comedy"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.206,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 552524
+      "tmdb_id": 552524,
+      "genre": "comedy"
     }
   ]
 }

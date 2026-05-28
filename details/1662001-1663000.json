@@ -1,6 +1,6 @@
 {
   "range": "1662001-1663000",
-  "updated_at": 1780003048408,
+  "updated_at": 1780004424444,
   "shows": [
     {
       "id": 1662317,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
       "plot_overview": "A teen slams her car into a building, killing her boyfriend and his friend. What seems like a tragic accident becomes a murder case.",
       "genres": [
-        "Documentary",
-        "Crime"
+        "crime",
+        "documentary"
       ],
       "user_rating": 6.807,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1662317
+      "tmdb_id": 1662317,
+      "genre": "crime"
     }
   ]
 }

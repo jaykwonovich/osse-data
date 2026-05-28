@@ -1,6 +1,6 @@
 {
   "range": "1160001-1161000",
-  "updated_at": 1780003048397,
+  "updated_at": 1780004424437,
   "shows": [
     {
       "id": 1160164,
@@ -10,7 +10,9 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg",
       "plot_overview": "A concert film documenting Taylor Swift's record-breaking Eras Tour (2023-2024). Filmed during the Los Angeles shows, the film captures the tour's ten acts, each representing a different musical era from Swift's career. The film showcases over 40 songs, elaborate stage productions, and Swift's performance.",
-      "genres": [],
+      "genres": [
+        "music"
+      ],
       "user_rating": 8.161,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1160164
+      "tmdb_id": 1160164,
+      "genre": "music"
     }
   ]
 }

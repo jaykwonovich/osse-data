@@ -1,6 +1,6 @@
 {
   "range": "590001-591000",
-  "updated_at": 1780003048371,
+  "updated_at": 1780004424413,
   "shows": [
     {
       "id": 590223,
@@ -11,7 +11,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lA5fOBqTOQBQ1s9lEYYPmNXoYLi.jpg",
       "plot_overview": "Seven years since the Monsterpocalypse began, Joel Dawson has been living underground in order to survive. But after reconnecting over radio with his high school girlfriend Aimee, Joel decides to venture out to reunite with her, despite all the dangerous monsters that stand in his way.",
       "genres": [
-        "Comedy"
+        "adventure",
+        "comedy",
+        "fantasy",
+        "science fiction"
       ],
       "user_rating": 7.271,
       "critic_score": null,
@@ -31,7 +34,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 590223
+      "tmdb_id": 590223,
+      "genre": "adventure"
     }
   ]
 }

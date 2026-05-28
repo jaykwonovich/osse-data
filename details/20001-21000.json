@@ -1,6 +1,6 @@
 {
   "range": "20001-21000",
-  "updated_at": 1780003048292,
+  "updated_at": 1780004424332,
   "shows": [
     {
       "id": 20139,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6jQDj5zYsK6EB3ZLJ0dtBhR37S2.jpg",
       "plot_overview": "An unruly student at a private all-girls boarding school scandalously accuses the two women who run it of having a romantic relationship.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.644,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 20139
+      "tmdb_id": 20139,
+      "genre": "drama"
     },
     {
       "id": 20246,
@@ -36,7 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/osCupz9uxvUoca6aqSSkns1UnlQ.jpg",
       "plot_overview": "An investigator from the War Crimes Commission travels to Connecticut to find an infamous Nazi, who may be hiding out in a small town in the guise of a distinguished professor engaged to the Supreme Court Justice\u2019s daughter.",
       "genres": [
-        "Crime"
+        "crime",
+        "thriller"
       ],
       "user_rating": 7.219,
       "critic_score": null,
@@ -50,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 20246
+      "tmdb_id": 20246,
+      "genre": "crime"
     },
     {
       "id": 20312,
@@ -61,7 +64,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ppdgXQ7rE9Whf3rCzaawQzmLVnx.jpg",
       "plot_overview": "An aspiring painter meets various characters and learns valuable lessons while traveling across America.",
       "genres": [
-        "Drama"
+        "adventure",
+        "drama",
+        "fantasy"
       ],
       "user_rating": 7.385,
       "critic_score": null,
@@ -75,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 20312
+      "tmdb_id": 20312,
+      "genre": "adventure"
     },
     {
       "id": 20352,
@@ -86,10 +92,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
       "plot_overview": "Gru is a supervillain determined to prove he\u2019s the greatest by stealing the Moon. To pull off his plan, he adopts three orphaned girls\u2014Margo, Edith, and Agnes\u2014intending to use them as part of his scheme. However, as Gru bonds with the girls, his cold, villainous exterior begins to melt.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Crime",
-        "Family"
+        "animation",
+        "comedy",
+        "crime",
+        "family"
       ],
       "user_rating": 7.258,
       "critic_score": null,
@@ -103,7 +109,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 20352
+      "tmdb_id": 20352,
+      "genre": "animation"
     },
     {
       "id": 20367,
@@ -114,7 +121,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uGOKN4VeCsf249zypWfaAzfTxAB.jpg",
       "plot_overview": "The life of Al Roberts, a pianist in a New York nightclub, turns into a nightmare when he decides to hitchhike to Los Angeles to visit his girlfriend.",
       "genres": [
-        "Drama"
+        "drama",
+        "thriller"
       ],
       "user_rating": 7.229,
       "critic_score": null,
@@ -128,7 +136,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 20367
+      "tmdb_id": 20367,
+      "genre": "drama"
     },
     {
       "id": 20482,
@@ -139,8 +148,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yjEoHzWo4O8tTa7lrVNv2okVkLz.jpg",
       "plot_overview": "After a former model is drowned in her bathtub, Detective James Halloran and Lieutenant Dan Muldoon attempt to piece together her murder.",
       "genres": [
-        "Crime",
-        "Mystery"
+        "crime",
+        "mystery"
       ],
       "user_rating": 7.208,
       "critic_score": null,
@@ -154,7 +163,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 20482
+      "tmdb_id": 20482,
+      "genre": "crime"
     },
     {
       "id": 20544,
@@ -165,7 +175,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oT6z05HLXAfgD2CI3cPMuqG8OAW.jpg",
       "plot_overview": "A dramatization of the relationship between heart surgery pioneers Alfred Blalock and Vivien Thomas.",
       "genres": [
-        "Drama"
+        "drama",
+        "tv movie"
       ],
       "user_rating": 7.904,
       "critic_score": null,
@@ -179,7 +190,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 20544
+      "tmdb_id": 20544,
+      "genre": "drama"
     },
     {
       "id": 20766,
@@ -190,7 +202,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6188iOmUAitGThYUjyx20fO4LJd.jpg",
       "plot_overview": "A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind and water. It is cold enough to crack stones and, when the snow falls, it is gray. Their destination is the warmer south, although they don't know what, if anything, awaits them there.",
       "genres": [
-        "Drama"
+        "adventure",
+        "drama"
       ],
       "user_rating": 7.016,
       "critic_score": null,
@@ -204,7 +217,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 20766
+      "tmdb_id": 20766,
+      "genre": "adventure"
     }
   ]
 }

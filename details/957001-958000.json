@@ -1,6 +1,6 @@
 {
   "range": "957001-958000",
-  "updated_at": 1780003048391,
+  "updated_at": 1780004424430,
   "shows": [
     {
       "id": 957457,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bSgSJfkTutcllEvhDDWtMGgdl2b.jpg",
       "plot_overview": "A cinematic odyssey featuring never-before-seen footage exploring David Bowie's creative and musical journey.",
       "genres": [
-        "Documentary"
+        "documentary",
+        "music"
       ],
       "user_rating": 7.487,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 957457
+      "tmdb_id": 957457,
+      "genre": "documentary"
     }
   ]
 }

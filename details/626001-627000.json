@@ -1,6 +1,6 @@
 {
   "range": "626001-627000",
-  "updated_at": 1780003048373,
+  "updated_at": 1780004424416,
   "shows": [
     {
       "id": 626332,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yYEOYzgqPB31mkSsuPdCvXH3zHv.jpg",
       "plot_overview": "The inspiring true story of Richard Monta\u00f1ez, the Frito Lay janitor who channeled his Mexican American heritage and upbringing to turn the iconic Flamin' Hot Cheetos into a snack that disrupted the food industry and became a global pop culture phenomenon.",
       "genres": [
-        "Drama"
+        "drama",
+        "history"
       ],
       "user_rating": 7.925,
       "critic_score": null,
@@ -31,7 +32,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 626332
+      "tmdb_id": 626332,
+      "genre": "drama"
     },
     {
       "id": 626735,
@@ -42,8 +44,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cGnaZm6EQOJESde3Vv4v53Zk4gN.jpg",
       "plot_overview": "An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend's funeral.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.287,
       "critic_score": null,
@@ -57,7 +59,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 626735
+      "tmdb_id": 626735,
+      "genre": "comedy"
     }
   ]
 }

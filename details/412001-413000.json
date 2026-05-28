@@ -1,6 +1,6 @@
 {
   "range": "412001-413000",
-  "updated_at": 1780003048359,
+  "updated_at": 1780004424400,
   "shows": [
     {
       "id": 412924,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bbDMy8ou6N8yL5VidQpzo6kZZVk.jpg",
       "plot_overview": "Supersonic charts the meteoric rise of Oasis from the council estates of Manchester to some of the biggest concerts of all time in just three short years.  This palpable, raw and moving film shines a light on one of the most genre and generation-defining British bands that has ever existed and features candid new interviews with Noel and Liam Gallagher, their mother, and members of the band and road crew.",
       "genres": [
-        "Documentary"
+        "documentary",
+        "history",
+        "music"
       ],
       "user_rating": 7.381,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 412924
+      "tmdb_id": 412924,
+      "genre": "documentary"
     }
   ]
 }

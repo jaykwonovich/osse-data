@@ -1,6 +1,6 @@
 {
   "range": "355001-356000",
-  "updated_at": 1780003048355,
+  "updated_at": 1780004424396,
   "shows": [
     {
       "id": 355020,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nhjWUf4wXsWZY9hKR1EoQOhjued.jpg",
       "plot_overview": "Over 93 days in Ukraine, what started as peaceful student demonstrations became a violent revolution and full-fledged civil rights movement.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.894,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 355020
+      "tmdb_id": 355020,
+      "genre": "documentary"
     },
     {
       "id": 355338,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/q2haCPQUzeMlRlX0wKJgddMbE0o.jpg",
       "plot_overview": "Riley, now 12, who is hanging out with her parents at home when potential trouble comes knocking. Mom's and Dad's Emotions find themselves forced to deal with Riley going on her first \"date.\"",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 355338
+      "tmdb_id": 355338,
+      "genre": "animation"
     }
   ]
 }

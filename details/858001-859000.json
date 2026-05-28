@@ -1,6 +1,6 @@
 {
   "range": "858001-859000",
-  "updated_at": 1780003048387,
+  "updated_at": 1780004424426,
   "shows": [
     {
       "id": 858024,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/a9IQXoYCpsjqTOKXRTw1osLd5il.jpg",
       "plot_overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "romance"
       ],
       "user_rating": 7.749,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 858024
+      "tmdb_id": 858024,
+      "genre": "drama"
     }
   ]
 }

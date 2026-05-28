@@ -1,6 +1,6 @@
 {
   "range": "299001-300000",
-  "updated_at": 1780003048347,
+  "updated_at": 1780004424389,
   "shows": [
     {
       "id": 299534,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "plot_overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 8.2,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 299534
+      "tmdb_id": 299534,
+      "genre": "action"
     },
     {
       "id": 299536,
@@ -33,7 +38,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
       "plot_overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 8.236,
       "critic_score": null,
       "us_rating": null,
@@ -46,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 299536
+      "tmdb_id": 299536,
+      "genre": "action"
     }
   ]
 }

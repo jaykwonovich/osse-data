@@ -1,6 +1,6 @@
 {
   "range": "301001-302000",
-  "updated_at": 1780003048348,
+  "updated_at": 1780004424389,
   "shows": [
     {
       "id": 301507,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
       "plot_overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can\u2019t ignore, they must decide if there\u2019s room in their fierc",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 8.699,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 301507
+      "tmdb_id": 301507,
+      "genre": "drama"
     },
     {
       "id": 301528,
@@ -36,9 +37,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
       "plot_overview": "Woody has always been confident about his place in the world, devoted to taking care of his kid\u2014whether that's Andy or Bonnie. But after Bonnie creates a reluctant new toy called \"Forky\", a road trip adventure alongside old and new friends challenges everything Woody believes about loyalty, purpose, and what it truly means to be a toy.",
       "genres": [
-        "Family",
-        "Comedy",
-        "Animation"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.464,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 301528
+      "tmdb_id": 301528,
+      "genre": "animation"
     }
   ]
 }

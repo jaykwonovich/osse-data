@@ -1,6 +1,6 @@
 {
   "range": "297001-298000",
-  "updated_at": 1780003048346,
+  "updated_at": 1780004424389,
   "shows": [
     {
       "id": 297024,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3rfOHUwNCzUv9cDgTayny0dwUhK.jpg",
       "plot_overview": "Strangers must coexist in a harsh, isolated place while facing extreme challenges and playing a devious social game where trust is scarce and fear becomes a strategic tool.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 6.8,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 297024
+      "tmdb_id": 297024,
+      "genre": "reality"
     },
     {
       "id": 297270,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9s58ybtK5rj4QGmAtzOMzVeiY5P.jpg",
       "plot_overview": "An ancient myth of a massive creature sparks the curiosity of Tinker Bell and her good friend Fawn, an animal fairy who\u2019s not afraid to break the rules to help an animal in need. But this creature is not welcome in Pixie Hollow \u2014 and the scout fairies are determined to capture the mysterious beast, who they fear will destroy their home. Fawn must convince her fairy friends to risk everything to rescue the NeverBeast.",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 297270
+      "tmdb_id": 297270,
+      "genre": "animation"
     },
     {
       "id": 297762,
@@ -61,7 +63,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
       "plot_overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.209,
       "critic_score": null,
       "us_rating": null,
@@ -74,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 297762
+      "tmdb_id": 297762,
+      "genre": "action"
     }
   ]
 }

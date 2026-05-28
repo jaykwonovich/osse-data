@@ -1,6 +1,6 @@
 {
   "range": "417001-418000",
-  "updated_at": 1780003048360,
+  "updated_at": 1780004424400,
   "shows": [
     {
       "id": 417320,
@@ -11,7 +11,11 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mLihPIodzSenkZtiUauDy4e9hRs.jpg",
       "plot_overview": "When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula's daughter, has taken her spot as self-proclaimed queen.",
       "genres": [
-        "Family"
+        "adventure",
+        "family",
+        "fantasy",
+        "music",
+        "tv movie"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -31,7 +35,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 417320
+      "tmdb_id": 417320,
+      "genre": "adventure"
     }
   ]
 }

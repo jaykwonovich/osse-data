@@ -1,6 +1,6 @@
 {
   "range": "134001-135000",
-  "updated_at": 1780003048327,
+  "updated_at": 1780004424368,
   "shows": [
     {
       "id": 134029,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yGpmZYJ8fb543B3tIKjzcRHgJsX.jpg",
       "plot_overview": "A world-famous comedian desperately searches for a way out after a night in Philadelphia with his brother threatens to sabotage more than his success.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.062,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 134029
+      "tmdb_id": 134029,
+      "genre": "crime"
     },
     {
       "id": 134297,
@@ -37,10 +38,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/676dcwmQgxCQMqf1lSpPf1g8X8n.jpg",
       "plot_overview": "Frozen\u2019s beloved snowman retelling several classic Disney tales as only he can.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy",
-        "Sci-Fi & Fantasy"
+        "animation",
+        "comedy",
+        "family",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.186,
       "critic_score": null,
@@ -54,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 134297
+      "tmdb_id": 134297,
+      "genre": "animation"
     },
     {
       "id": 134373,
@@ -65,8 +67,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hxlHxV4g5PDSGk1LP46KUMFSYUG.jpg",
       "plot_overview": "Follow four college roommates as they arrive at New England's prestigious Essex College. A bundle of contradictions and hormones, these girls are equal parts lovable and infuriating as they live out their new, free lives on campus.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.197,
       "critic_score": null,
@@ -80,7 +82,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 134373
+      "tmdb_id": 134373,
+      "genre": "comedy"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "108001-109000",
-  "updated_at": 1780003048322,
+  "updated_at": 1780004424362,
   "shows": [
     {
       "id": 108181,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1RejXo8s6ot7ZbrgR8J16DVaaTi.jpg",
       "plot_overview": "After a murder shatters the lives of three best friends, their decades-long bond is tested when an investigation reveals betrayals and shocking truths.",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Crime"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 6.3,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 108181
+      "tmdb_id": 108181,
+      "genre": "crime"
     },
     {
       "id": 108298,
@@ -38,7 +39,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xq7Ptqf7GX9BAXamONFzOPOR6Op.jpg",
       "plot_overview": "Engineers, officials and the crew members' families provide their perspective on the 1986 Space Shuttle Challenger disaster and its aftermath.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.092,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 108298
+      "tmdb_id": 108298,
+      "genre": "documentary"
     },
     {
       "id": 108303,
@@ -63,7 +65,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9ymb4gRtC8PFHHWtF8BsENKoym9.jpg",
       "plot_overview": "This docuseries showcases nature's lesser-known tiny heroes. Spotlighting small creatures and the extraordinary things they do to survive, each episode is filled with surprising stories and spectacular cinematography.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -77,7 +79,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 108303
+      "tmdb_id": 108303,
+      "genre": "documentary"
     },
     {
       "id": 108545,
@@ -88,9 +91,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ciizJ9Okzt9tBBGK7Q3T14LFT2j.jpg",
       "plot_overview": "Across continents and decades, five brilliant friends make earth-shattering discoveries as the laws of science unravel and an existential threat emerges.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Mystery",
-        "Drama"
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -104,7 +107,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 108545
+      "tmdb_id": 108545,
+      "genre": "drama"
     },
     {
       "id": 108664,
@@ -115,7 +119,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wlzOQRDD5k5sDXUimLgZfWcd6nz.jpg",
       "plot_overview": "When the floodwaters rose, power failed, and heat soared, exhausted caregivers at a New Orleans hospital were forced to make profound, heart-wrenching decisions.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.547,
       "critic_score": null,
@@ -129,7 +133,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 108664
+      "tmdb_id": 108664,
+      "genre": "drama"
     },
     {
       "id": 108978,
@@ -140,9 +145,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/52Cg3g7mdekG0QsSlqz4bMBQDJI.jpg",
       "plot_overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Crime"
+        "action & adventure",
+        "crime",
+        "drama"
       ],
       "user_rating": 8.078,
       "critic_score": null,
@@ -156,7 +161,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 108978
+      "tmdb_id": 108978,
+      "genre": "action & adventure"
     }
   ]
 }

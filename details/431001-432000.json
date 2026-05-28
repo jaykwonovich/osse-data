@@ -1,6 +1,6 @@
 {
   "range": "431001-432000",
-  "updated_at": 1780003048361,
+  "updated_at": 1780004424401,
   "shows": [
     {
       "id": 431580,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jXk3ZMq7n4ugOqKYq0CtMn3gia8.jpg",
       "plot_overview": "A group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.",
       "genres": [
-        "Family",
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 431580
+      "tmdb_id": 431580,
+      "genre": "animation"
     },
     {
       "id": 431693,
@@ -38,9 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uG1v9Hk1XKICd6IJChRR20mBh8i.jpg",
       "plot_overview": "Super spy Lance Sterling and scientist Walter Beckett are almost exact opposites. Lance is smooth, suave and debonair. Walter is\u2026 not. But what Walter lacks in social skills he makes up for in smarts and invention, creating the awesome gadgets Lance uses on his epic missions. But when events take an unexpected turn, Walter and Lance suddenly have to rely on each other in a whole new way.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -60,7 +61,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 431693
+      "tmdb_id": 431693,
+      "genre": "animation"
     }
   ]
 }

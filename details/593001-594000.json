@@ -1,6 +1,6 @@
 {
   "range": "593001-594000",
-  "updated_at": 1780003048371,
+  "updated_at": 1780004424414,
   "shows": [
     {
       "id": 593643,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg",
       "plot_overview": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "horror"
       ],
       "user_rating": 7.173,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 593643
+      "tmdb_id": 593643,
+      "genre": "comedy"
     },
     {
       "id": 593691,
@@ -36,7 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5VUpSn9bBOFkSXKcUFJHQW9AY6e.jpg",
       "plot_overview": "This intimate, in-depth look at Beyonc\u00e9's celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.",
       "genres": [
-        "Documentary"
+        "documentary",
+        "music",
+        "tv movie"
       ],
       "user_rating": 8.1,
       "critic_score": null,
@@ -50,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 593691
+      "tmdb_id": 593691,
+      "genre": "documentary"
     }
   ]
 }

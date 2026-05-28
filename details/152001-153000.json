@@ -1,6 +1,6 @@
 {
   "range": "152001-153000",
-  "updated_at": 1780003048329,
+  "updated_at": 1780004424369,
   "shows": [
     {
       "id": 152483,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7bsHAsS1RDtslictkApeb7cedLL.jpg",
       "plot_overview": "From some of the most unhinged and maniacal minds in Hollywood today comes this animated anthology series, a collection of irreverent and emotionally shocking animated short films. Each episode plunges elbow-deep into unseen crevices of The Boys Universe.",
       "genres": [
-        "Animation",
-        "Action & Adventure"
+        "action & adventure",
+        "animation"
       ],
       "user_rating": 7.151,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 152483
+      "tmdb_id": 152483,
+      "genre": "action & adventure"
     },
     {
       "id": 152532,
@@ -37,7 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
       "plot_overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live.",
       "genres": [
-        "Drama"
+        "drama",
+        "history"
       ],
       "user_rating": 7.913,
       "critic_score": null,
@@ -51,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 152532
+      "tmdb_id": 152532,
+      "genre": "drama"
     },
     {
       "id": 152603,
@@ -62,7 +65,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dwFvtGZ6fUsU9YRWHXbAOXwNQkq.jpg",
       "plot_overview": "A depressed musician reunites with his lover. However, their romance, already played over several centuries, is disrupted by the arrival of her uncontrollable younger sister.",
       "genres": [
-        "Drama"
+        "drama",
+        "fantasy",
+        "romance"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -76,7 +81,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 152603
+      "tmdb_id": 152603,
+      "genre": "drama"
     }
   ]
 }

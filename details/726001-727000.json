@@ -1,6 +1,6 @@
 {
   "range": "726001-727000",
-  "updated_at": 1780003048379,
+  "updated_at": 1780004424421,
   "shows": [
     {
       "id": 726759,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4avmIRBBOs9b4DKoenf8SWWJJP7.jpg",
       "plot_overview": "In 1988, American video game salesman Henk Rogers discovers the video game Tetris. When he sets out to bring the game to the world, he enters a dangerous web of lies and corruption behind the Iron Curtain.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "thriller"
       ],
       "user_rating": 7.689,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 726759
+      "tmdb_id": 726759,
+      "genre": "drama"
     }
   ]
 }

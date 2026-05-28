@@ -1,6 +1,6 @@
 {
   "range": "98001-99000",
-  "updated_at": 1780003048319,
+  "updated_at": 1780004424359,
   "shows": [
     {
       "id": 98161,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mr8wTuLBbF4n6eGd3xHADUufo0c.jpg",
       "plot_overview": "Young investigative journalist Hilde Lisko moves with her family to the small town her father left behind, only to unearth shocking secrets in her pursuit of the truth.",
       "genres": [
-        "Mystery",
-        "Drama"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 98161
+      "tmdb_id": 98161,
+      "genre": "drama"
     },
     {
       "id": 98177,
@@ -37,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g3zOfRXWCEm8kZACHqLsbz3W5Qa.jpg",
       "plot_overview": "All Nikki and Jason want is a baby\u2014the one thing they can't have. So they decide to adopt. With their dysfunctional friends, screwball families, and chaotic lives, will the adoption panel agree that they're ready to be parents?",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.547,
       "critic_score": null,
@@ -56,7 +57,8 @@
       "next_season": 5,
       "next_air_date": "2026-07-08",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "comedy"
     },
     {
       "id": 98178,
@@ -67,8 +69,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oG3Lsjw6a4mvqhsqA1KtWiaxdH3.jpg",
       "plot_overview": "This reimagining of the classic anthology series transports everyday characters into worlds of wonder, possibility, and imagination.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "action & adventure",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.333,
       "critic_score": null,
@@ -82,7 +84,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 98178
+      "tmdb_id": 98178,
+      "genre": "action & adventure"
     },
     {
       "id": 98187,
@@ -93,9 +96,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4sIjlFa2jn0SsWQVuTBEFgQy4eH.jpg",
       "plot_overview": "In Victorian London, a gang of troubled street teens are manipulated into solving crimes for the sinister Doctor Watson and his mysterious business partner, the elusive Sherlock Holmes. As the crimes take on a horrifying supernatural edge and a dark power emerges, it'll be up to the Irregulars to come together to save not only London but the entire world.",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -109,7 +112,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 98187
+      "tmdb_id": 98187,
+      "genre": "drama"
     },
     {
       "id": 98201,
@@ -120,8 +124,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/k4bE2C5qvnqafgi2cNx6yAoNtff.jpg",
       "plot_overview": "Taking place over three summers - 1993, 1994, 1995 - in a small Texas town, a beautiful popular teen, Kate, is abducted and, seemingly unrelated, a girl, Jeanette, goes from being a sweet, awkward outlier to the most popular girl in town and, by \u201995, the most despised person in America.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.404,
       "critic_score": null,
@@ -135,7 +139,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 98201
+      "tmdb_id": 98201,
+      "genre": "drama"
     },
     {
       "id": 98494,
@@ -146,9 +151,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ojyovqp6R40pSVUL0Ct17Jf0b6a.jpg",
       "plot_overview": "Game-world monsters are wreaking real-world havoc. Here comes tech support!",
       "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Kids"
+        "animation",
+        "kids",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.2,
       "critic_score": null,
@@ -162,7 +167,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 98494
+      "tmdb_id": 98494,
+      "genre": "animation"
     }
   ]
 }

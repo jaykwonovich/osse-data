@@ -1,6 +1,6 @@
 {
   "range": "810001-811000",
-  "updated_at": 1780003048384,
+  "updated_at": 1780004424424,
   "shows": [
     {
       "id": 810171,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kB1Qrsg189eDz4Ej3ABXtLudClq.jpg",
       "plot_overview": "World famous movie star Olivia faces a PR disaster when a paparazzi snaps a photo of her with her married lover, Vincent. The hard-working valet Antonio accidentally appears in the same photo and is enlisted to pose as Olivia\u2019s new boyfriend as a cover-up. This ruse with Olivia thrusts Antonio into the spotlight and unexpected chaos.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "romance"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 810171
+      "tmdb_id": 810171,
+      "genre": "comedy"
     }
   ]
 }

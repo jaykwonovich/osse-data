@@ -1,6 +1,6 @@
 {
   "range": "814001-815000",
-  "updated_at": 1780003048384,
+  "updated_at": 1780004424425,
   "shows": [
     {
       "id": 814340,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lmlmmGOQzUDqA8FYxcqScO486mq.jpg",
       "plot_overview": "Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs\u2014where he strikes up a unique friendship with a young mom and her teenage daughter.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 814340
+      "tmdb_id": 814340,
+      "genre": "comedy"
     }
   ]
 }

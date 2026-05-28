@@ -1,6 +1,6 @@
 {
   "range": "302001-303000",
-  "updated_at": 1780003048348,
+  "updated_at": 1780004424389,
   "shows": [
     {
       "id": 302074,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1bGWVysGyy7iTd0cwSZH7OVKaeb.jpg",
       "plot_overview": "Ex-con photographer RJ Decker becomes a PI in South Florida, solving strange cases with help from his journalist ex, her cop wife, and an enigmatic woman from his past who may help or destroy him.",
       "genres": [
-        "Drama",
-        "Comedy",
-        "Crime"
+        "comedy",
+        "crime",
+        "drama"
       ],
       "user_rating": 7.808,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 302074
+      "tmdb_id": 302074,
+      "genre": "comedy"
     },
     {
       "id": 302429,
@@ -38,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aUbyQhWcPS7S0Su2d9Tgk3NxdPk.jpg",
       "plot_overview": "A love potion works its devious charms on fairies, elves and the swamp-dwelling Bog King as they all try to possess the potion for themselves.",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 7.216,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 302429
+      "tmdb_id": 302429,
+      "genre": "animation"
     },
     {
       "id": 302696,
@@ -64,7 +66,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qyj4vs8223qaaWRoa5V37NMKTYt.jpg",
       "plot_overview": "Some of the smash film's hottest hits come to life as lyric videos in a line-up featuring \"How It's Done,\" \"Golden,\" \"Soda Pop,\" \"Takedown\" and \"Free.\"",
       "genres": [
-        "Animation"
+        "animation"
       ],
       "user_rating": 9.2,
       "critic_score": null,
@@ -78,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 302696
+      "tmdb_id": 302696,
+      "genre": "animation"
     },
     {
       "id": 302919,
@@ -89,7 +92,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qheCyer8rj7B8tJC1anXlCFNrlf.jpg",
       "plot_overview": "A behind-the-scenes docuseries event chronicling the development, impact, and inner workings that created the phenomenon that was Taylor Swift | The Eras Tour, as well as providing an intimate look at Taylor's life as her tour made headlines and thrilled fans around the world. The series also spotlights performers, family members, and friends \u2014 including Gracie Abrams, Sabrina Carpenter, Ed Sheeran, and Florence Welch \u2014 offering never-before-seen insight into what it took to create a phenomenon.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 8.739,
       "critic_score": null,
@@ -103,7 +106,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 302919
+      "tmdb_id": 302919,
+      "genre": "documentary"
     }
   ]
 }

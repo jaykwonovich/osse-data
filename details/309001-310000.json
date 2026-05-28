@@ -1,6 +1,6 @@
 {
   "range": "309001-310000",
-  "updated_at": 1780003048349,
+  "updated_at": 1780004424390,
   "shows": [
     {
       "id": 309334,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mflXKqJWbhzq7BCiN4DCt4tnDjQ.jpg",
       "plot_overview": "Follow collectors as they discover the true monetary value of the unusual collections that are overtaking their homes. With designer Bobby Berk, they must decide if they're willing to sell some of their items to help pay for much needed home renovations.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 4.0,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 309334
+      "tmdb_id": 309334,
+      "genre": "reality"
     },
     {
       "id": 309369,
@@ -59,8 +60,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/f3hGHscY81LcyTwKQEovMcbjdhQ.jpg",
       "plot_overview": "Texas Ranger James Holland doesn\u2019t play by the rules. He\u2019s known as a serial killer whisperer because of his unique brand of interrogation tactics in cases once considered unsolvable. Watch as killers reveal the disturbing truth behind their crimes.",
       "genres": [
-        "Crime",
-        "Documentary"
+        "crime",
+        "documentary"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -74,7 +75,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 309732
+      "tmdb_id": 309732,
+      "genre": "crime"
     },
     {
       "id": 309792,
@@ -85,10 +87,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gHMW5Niu5TG0Xyw30j3zLfnji95.jpg",
       "plot_overview": "Perry the Platypus battles an evil animal agent working for ANATHEMA (the Alliance of Nefarious Animals That Has an Exceptionally Memorable Acronym).",
       "genres": [
-        "Action & Adventure",
-        "Family",
-        "Animation",
-        "Comedy"
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 8.4,
       "critic_score": null,
@@ -102,7 +104,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 309792
+      "tmdb_id": 309792,
+      "genre": "action & adventure"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "575001-576000",
-  "updated_at": 1780003048370,
+  "updated_at": 1780004424413,
   "shows": [
     {
       "id": 575264,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
       "plot_overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission\u2014not even the lives of those he cares about most.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
       "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 575264
+      "tmdb_id": 575264,
+      "genre": "action"
     },
     {
       "id": 575265,
@@ -33,7 +38,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xPNDRM50a58uvv1il2GVZrtWjkZ.jpg",
       "plot_overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity \u2014 which has infiltrated intelligence networks all over the globe \u2014 with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
       "user_rating": 7.163,
       "critic_score": null,
       "us_rating": null,
@@ -46,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 575265
+      "tmdb_id": 575265,
+      "genre": "action"
     }
   ]
 }

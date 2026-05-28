@@ -1,6 +1,6 @@
 {
   "range": "696001-697000",
-  "updated_at": 1780003048377,
+  "updated_at": 1780004424420,
   "shows": [
     {
       "id": 696157,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AcKPLFva3hnfdsArF5bcPTESVCo.jpg",
       "plot_overview": "The joyous, emotional, heartbreaking celebration of the life and music of Whitney Houston, the greatest female R&B pop vocalist of all time. Tracking her journey from obscurity to musical superstardom.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "music"
       ],
       "user_rating": 7.025,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 696157
+      "tmdb_id": 696157,
+      "genre": "drama"
     }
   ]
 }

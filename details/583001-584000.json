@@ -1,6 +1,6 @@
 {
   "range": "583001-584000",
-  "updated_at": 1780003048370,
+  "updated_at": 1780004424413,
   "shows": [
     {
       "id": 583083,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bXdCpL1A1mW2sEBiTmYYFnb10XN.jpg",
       "plot_overview": "With college decisions looming, Elle juggles her long-distance romance with Noah, changing relationship with bestie Lee and feelings for a new classmate.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "romance"
       ],
       "user_rating": 7.607,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 583083
+      "tmdb_id": 583083,
+      "genre": "comedy"
     },
     {
       "id": 583689,
@@ -36,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aKIrKbszS7Kq0aTGTCRTYMp1EDX.jpg",
       "plot_overview": "Inspired by her mom's rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.198,
       "critic_score": null,
@@ -51,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 583689
+      "tmdb_id": 583689,
+      "genre": "comedy"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "371001-372000",
-  "updated_at": 1780003048356,
+  "updated_at": 1780004424397,
   "shows": [
     {
       "id": 371645,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ixpUtvrZNwk6LBObXaNH8fh4FYf.jpg",
       "plot_overview": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 371645
+      "tmdb_id": 371645,
+      "genre": "comedy"
     },
     {
       "id": 371738,
@@ -37,7 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9v7tJP1CROJAz4vBacfnigm5SjQ.jpg",
       "plot_overview": "Patrick returns to San Francisco for the first time in almost a year to celebrate a momentous event with his old friends. In the process, he must face the unresolved relationships he left behind and make difficult choices about what\u2019s important to him.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance",
+        "tv movie"
       ],
       "user_rating": 7.13,
       "critic_score": null,
@@ -51,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 371738
+      "tmdb_id": 371738,
+      "genre": "drama"
     }
   ]
 }

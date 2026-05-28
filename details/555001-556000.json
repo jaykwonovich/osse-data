@@ -1,6 +1,6 @@
 {
   "range": "555001-556000",
-  "updated_at": 1780003048369,
+  "updated_at": 1780004424411,
   "shows": [
     {
       "id": 555285,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qNmLEOGZy37vKAPqcTuZ47uCOS9.jpg",
       "plot_overview": "When her family moves from New York City to New Jersey, an 11-year-old girl navigates new friends, feelings, and the beginning of adolescence.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.142,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 555285
+      "tmdb_id": 555285,
+      "genre": "comedy"
     },
     {
       "id": 555604,
@@ -37,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qXOxYzPSPY9viZTgs7O6vNBOB7Y.jpg",
       "plot_overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
       "genres": [
-        "Animation",
-        "Drama"
+        "animation",
+        "drama"
       ],
       "user_rating": 8.019,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 555604
+      "tmdb_id": 555604,
+      "genre": "animation"
     }
   ]
 }

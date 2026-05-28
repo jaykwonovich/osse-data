@@ -1,6 +1,6 @@
 {
   "range": "506001-507000",
-  "updated_at": 1780003048366,
+  "updated_at": 1780004424408,
   "shows": [
     {
       "id": 506528,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xfW1t2gb5ObNLJbGX9aEfR9w4s8.jpg",
       "plot_overview": "The extraordinary tale of Harriet Tubman's escape from slavery and transformation into one of America's greatest heroes. Her courage, ingenuity and tenacity freed hundreds of slaves and changed the course of history.",
       "genres": [
-        "Drama"
+        "drama",
+        "history"
       ],
       "user_rating": 7.324,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 506528
+      "tmdb_id": 506528,
+      "genre": "drama"
     },
     {
       "id": 506574,
@@ -36,7 +38,11 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wWLUUGtemgrRyH24v8lAkSR58US.jpg",
       "plot_overview": "The teenagers of Disney's most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.",
       "genres": [
-        "Family"
+        "adventure",
+        "family",
+        "fantasy",
+        "music",
+        "tv movie"
       ],
       "user_rating": 7.671,
       "critic_score": null,
@@ -56,7 +62,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 506574
+      "tmdb_id": 506574,
+      "genre": "adventure"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "177001-178000",
-  "updated_at": 1780003048331,
+  "updated_at": 1780004424371,
   "shows": [
     {
       "id": 177572,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
       "plot_overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
       "genres": [
-        "Family",
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 177572
+      "tmdb_id": 177572,
+      "genre": "animation"
     }
   ]
 }

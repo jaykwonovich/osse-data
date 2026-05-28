@@ -1,6 +1,6 @@
 {
   "range": "221001-222000",
-  "updated_at": 1780003048336,
+  "updated_at": 1780004424378,
   "shows": [
     {
       "id": 221079,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pzxIAuKHqQqCFOxh2ALmHUgXkOD.jpg",
       "plot_overview": "When a prison transport plane crashes in the remote Alaskan wilderness\u2014freeing dozens of violent inmates\u2014the region's lone marshal must protect the town he's vowed to keep safe.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.193,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 221079
+      "tmdb_id": 221079,
+      "genre": "crime"
     },
     {
       "id": 221328,
@@ -37,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/E1pVDviow3od0RXIY7avh0KLUH.jpg",
       "plot_overview": "In this six-part limited series, the fans get a VIP front-row seat and backstage access to \u201990s nostalgia as SWV and XSCAPE pull back the curtain on their personal and professional lives and prepare to hit the stage together.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 6.5,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 221328
+      "tmdb_id": 221328,
+      "genre": "reality"
     }
   ]
 }

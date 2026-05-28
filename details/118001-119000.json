@@ -1,6 +1,6 @@
 {
   "range": "118001-119000",
-  "updated_at": 1780003048324,
+  "updated_at": 1780004424364,
   "shows": [
     {
       "id": 118043,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dVTyx2n13PvEG44iH40DdaNym2A.jpg",
       "plot_overview": "Will Smith hosts this look at the evolving, often lethal, fight for equal rights in America through the lens of the US Constitution's 14th Amendment.",
       "genres": [
-        "Documentary",
-        "News",
-        "War & Politics"
+        "documentary",
+        "news",
+        "war & politics"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 118043
+      "tmdb_id": 118043,
+      "genre": "documentary"
     },
     {
       "id": 118340,
@@ -37,7 +38,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
       "plot_overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
@@ -50,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 118340
+      "tmdb_id": 118340,
+      "genre": "action"
     },
     {
       "id": 118956,
@@ -61,9 +67,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wsYqM5sRdWglejqm8MugRDRp7D.jpg",
       "plot_overview": "After encounters with a dragon and a princess on her own mission, a Dragon Knight becomes embroiled in events larger than he could have ever imagined.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Animation"
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.731,
       "critic_score": null,
@@ -77,7 +83,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 118956
+      "tmdb_id": 118956,
+      "genre": "action & adventure"
     },
     {
       "id": 118958,
@@ -88,8 +95,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3pLsEQgnkuwJrNCTXPQSYZlEfnH.jpg",
       "plot_overview": "The story of what happens when five high schoolers walk into detention and only four make it out alive. Everyone is a suspect, and everyone has something to hide.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -103,7 +110,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 118958
+      "tmdb_id": 118958,
+      "genre": "drama"
     }
   ]
 }

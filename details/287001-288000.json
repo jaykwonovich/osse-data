@@ -1,6 +1,6 @@
 {
   "range": "287001-288000",
-  "updated_at": 1780003048345,
+  "updated_at": 1780004424388,
   "shows": [
     {
       "id": 287462,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4TgF1kSGMJr8ssix5TEjKUNTJZj.jpg",
       "plot_overview": "Real Housewives stars Shannon Beador, Gizelle Bryant, Ashley Darby, and Luann de Lesseps visit Los Cabos' Grand Velas Hotel to find love among eligible bachelors.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 287462
+      "tmdb_id": 287462,
+      "genre": "reality"
     },
     {
       "id": 287527,
@@ -36,7 +37,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uCndE341njionskk1pK9SbHqwZh.jpg",
       "plot_overview": "Growing up in Gilead is all they have ever known. As a new generation of young women grapple with the bleak future that awaits them, they will be forced to search for allies, new and old, to help in their fight for freedom.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 8.117,
       "critic_score": null,
@@ -50,7 +51,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 287527
+      "tmdb_id": 287527,
+      "genre": "drama"
     },
     {
       "id": 287620,
@@ -61,8 +63,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2ngdvUiEKW8Q37ta8BBdydE2cuq.jpg",
       "plot_overview": "Comic book store owner Stuart Bloom is tasked with restoring reality after he breaks a device built by Sheldon and Leonard, accidentally bringing about a multiverse Armageddon. Stuart is aided in this quest by his girlfriend Denise, geologist friend Bert, and quantum physicist/all-around pain in the ass Barry Kripke.",
       "genres": [
-        "Comedy",
-        "Sci-Fi & Fantasy"
+        "comedy",
+        "sci-fi & fantasy"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -88,7 +90,8 @@
       "next_season": 1,
       "next_air_date": "2026-07-23",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "comedy"
     }
   ]
 }

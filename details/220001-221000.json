@@ -1,6 +1,6 @@
 {
   "range": "220001-221000",
-  "updated_at": 1780003048335,
+  "updated_at": 1780004424378,
   "shows": [
     {
       "id": 220289,
@@ -10,7 +10,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cvGE73s935bXEAVt2W0zADPPegG.jpg",
       "plot_overview": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
-      "genres": [],
+      "genres": [
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.214,
       "critic_score": null,
       "us_rating": null,
@@ -29,7 +32,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 220289
+      "tmdb_id": 220289,
+      "genre": "science fiction"
     },
     {
       "id": 220393,
@@ -40,7 +44,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/grMNPsMs7Z8XMqc6Rj8j6tvfplF.jpg",
       "plot_overview": "Three famous, single women are guided by Hollywood power couple Holly Robinson Peete and Rodney Peete through the ups and downs of dating 21 confident and successful prospective suitors while developing a sisterhood supporting each other on their quests to find a King fit for a Queen.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -54,7 +58,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 220393
+      "tmdb_id": 220393,
+      "genre": "reality"
     },
     {
       "id": 220801,
@@ -65,9 +70,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/v9OgLxYCq5newNdtF8dQAFENs4l.jpg",
       "plot_overview": "When ex-soldier Maya sees her murdered husband on a secret nanny cam, she uncovers a deadly conspiracy that stretches deep into the past.",
       "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.154,
       "critic_score": null,
@@ -81,7 +86,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 220801
+      "tmdb_id": 220801,
+      "genre": "crime"
     }
   ]
 }

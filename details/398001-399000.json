@@ -1,6 +1,6 @@
 {
   "range": "398001-399000",
-  "updated_at": 1780003048358,
+  "updated_at": 1780004424398,
   "shows": [
     {
       "id": 398173,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1UAjYFLLQYOzFd0Ud6YQq2HoubU.jpg",
       "plot_overview": "Failed architect, engineer and vicious murderer Jack narrates the details of some of his most elaborately orchestrated crimes, each of them a towering piece of art that defines his life's work as a serial killer for twelve years.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 398173
+      "tmdb_id": 398173,
+      "genre": "crime"
     },
     {
       "id": 398818,
@@ -37,7 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4Xh2a1WeTp6b8Ksvug0pAMbX3dT.jpg",
       "plot_overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 8.1,
       "critic_score": null,
@@ -51,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 398818
+      "tmdb_id": 398818,
+      "genre": "drama"
     },
     {
       "id": 398978,
@@ -62,8 +65,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
       "plot_overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -77,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 398978
+      "tmdb_id": 398978,
+      "genre": "crime"
     }
   ]
 }

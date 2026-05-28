@@ -1,6 +1,6 @@
 {
   "range": "137001-138000",
-  "updated_at": 1780003048328,
+  "updated_at": 1780004424368,
   "shows": [
     {
       "id": 137106,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6gI1dAkOaUQ6659OdRPsTLlsem5.jpg",
       "plot_overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.428,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 137106
+      "tmdb_id": 137106,
+      "genre": "animation"
     },
     {
       "id": 137893,
@@ -38,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nj06Yo0yVzI7jx6novjyGOyNQKC.jpg",
       "plot_overview": "Inspired by real events, this fictional dramatization shows Griselda Blanco's journey from Medell\u00edn to becoming \"the Godmother\" of Miami's drug empire.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.3,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 137893
+      "tmdb_id": 137893,
+      "genre": "crime"
     }
   ]
 }

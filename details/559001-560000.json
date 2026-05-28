@@ -1,6 +1,6 @@
 {
   "range": "559001-560000",
-  "updated_at": 1780003048369,
+  "updated_at": 1780004424411,
   "shows": [
     {
       "id": 559969,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
       "plot_overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.0,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 559969
+      "tmdb_id": 559969,
+      "genre": "crime"
     }
   ]
 }

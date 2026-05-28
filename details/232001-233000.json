@@ -1,6 +1,6 @@
 {
   "range": "232001-233000",
-  "updated_at": 1780003048338,
+  "updated_at": 1780004424379,
   "shows": [
     {
       "id": 232125,
@@ -11,11 +11,11 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
       "plot_overview": "There's no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family",
-        "Sci-Fi & Fantasy",
-        "Kids"
+        "animation",
+        "comedy",
+        "family",
+        "kids",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.03,
       "critic_score": null,
@@ -29,7 +29,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 232125
+      "tmdb_id": 232125,
+      "genre": "animation"
     }
   ]
 }

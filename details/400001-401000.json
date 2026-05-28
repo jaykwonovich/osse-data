@@ -1,6 +1,6 @@
 {
   "range": "400001-401000",
-  "updated_at": 1780003048358,
+  "updated_at": 1780004424399,
   "shows": [
     {
       "id": 400090,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kPKwqHl2rYsi9rFWJWA6afKdmlT.jpg",
       "plot_overview": "In 1825, Clare, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker who is also marked by trauma from his own violence-filled past.",
       "genres": [
-        "Drama",
-        "Western"
+        "drama",
+        "western"
       ],
       "user_rating": 7.06,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 400090
+      "tmdb_id": 400090,
+      "genre": "drama"
     },
     {
       "id": 400608,
@@ -37,7 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nicDo6SnBxK93ROGAhpKTOAhy2i.jpg",
       "plot_overview": "Combining his trademark wit and self-deprecating humor with original music, Bo Burnham offers up his unique twist on life in this stand-up special about  life, death, sexuality, hypocrisy, mental illness and Pringles cans.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "music"
       ],
       "user_rating": 7.991,
       "critic_score": null,
@@ -51,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 400608
+      "tmdb_id": 400608,
+      "genre": "comedy"
     }
   ]
 }

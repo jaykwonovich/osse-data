@@ -1,6 +1,6 @@
 {
   "range": "1226001-1227000",
-  "updated_at": 1780003048399,
+  "updated_at": 1780004424438,
   "shows": [
     {
       "id": 1226841,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/Amb16QpgV4ZxdU8C80SW6JNySp9.jpg",
       "plot_overview": "On a January night in 1985, music's biggest stars gathered to record \"We Are the World.\" This documentary goes behind the scenes of the historic event.",
       "genres": [
-        "Documentary"
+        "documentary",
+        "music"
       ],
       "user_rating": 7.862,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1226841
+      "tmdb_id": 1226841,
+      "genre": "documentary"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "1688001-1689000",
-  "updated_at": 1780003048408,
+  "updated_at": 1780004424444,
   "shows": [
     {
       "id": 1688652,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dzoqvi7eiPGODZO0CsXRLPfmVAE.jpg",
       "plot_overview": "Two friends go on a work trip and encounter unexpected challenges and local personalities as they navigate their assignment. Their efforts to adapt to unfamiliar surroundings highlights moments of humor, small-town culture and the unpredictable nature of work travel. As they troubleshoot problems, their experience leaves a lasting impression and offers new perspectives on their friendship.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 6.333,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1688652
+      "tmdb_id": 1688652,
+      "genre": "comedy"
     }
   ]
 }

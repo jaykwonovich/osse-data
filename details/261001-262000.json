@@ -1,6 +1,6 @@
 {
   "range": "261001-262000",
-  "updated_at": 1780003048342,
+  "updated_at": 1780004424385,
   "shows": [
     {
       "id": 261145,
@@ -11,10 +11,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
       "plot_overview": "A woman finds herself trapped in a virtual circus where she and five other humans are subject to the whims of a wacky AI ringmaster. In this digital purgatory they must face frightening NPCs and cope with their own personal traumas.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "animation",
+        "comedy",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.447,
       "critic_score": null,
@@ -33,7 +33,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-19",
       "next_episode": 9,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "animation"
     },
     {
       "id": 261579,
@@ -44,9 +45,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5AvZxT1BtPyP9ua1SjcUyWUMIiz.jpg",
       "plot_overview": "Adult animated series of original short stories which are set within the worlds of beloved video games. Each episode serves as a gateway to a new adventure, unlocking exciting worlds from beloved gaming classics and highly anticipated new titles.",
       "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -60,7 +61,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 261579
+      "tmdb_id": 261579,
+      "genre": "action & adventure"
     }
   ]
 }

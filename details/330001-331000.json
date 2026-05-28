@@ -1,6 +1,6 @@
 {
   "range": "330001-331000",
-  "updated_at": 1780003048353,
+  "updated_at": 1780004424394,
   "shows": [
     {
       "id": 330457,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
       "plot_overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
       "genres": [
-        "Family",
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 330457
+      "tmdb_id": 330457,
+      "genre": "animation"
     },
     {
       "id": 330459,
@@ -37,7 +38,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
       "plot_overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
@@ -56,7 +61,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 330459
+      "tmdb_id": 330459,
+      "genre": "action"
     },
     {
       "id": 330483,
@@ -67,7 +73,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zHkQEQzoLAJwlMif4QJP1jjbsky.jpg",
       "plot_overview": "Travis and Gabby first meet as neighbors in a small coastal town and wind up in a relationship that is tested by life's most defining events.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 7.193,
       "critic_score": null,
@@ -81,7 +88,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 330483
+      "tmdb_id": 330483,
+      "genre": "drama"
     }
   ]
 }

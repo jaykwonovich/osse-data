@@ -1,6 +1,6 @@
 {
   "range": "35001-36000",
-  "updated_at": 1780003048297,
+  "updated_at": 1780004424339,
   "shows": [
     {
       "id": 35114,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hsx40OreCcM84gNmOeVssUvetRg.jpg",
       "plot_overview": "Short film to a song of love lost and rediscovered, a woman sees and undergoes surreal transformations. Her lover's face melts off, she dons a dress from the shadow of a bell and becomes a dandelion, ants crawl out of a hand and become Frenchmen riding bicycles. Not to mention the turtles with faces on their backs that collide to form a ballerina, or the bizarre baseball game.",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 7.158,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 35114
+      "tmdb_id": 35114,
+      "genre": "animation"
     },
     {
       "id": 35279,
@@ -37,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eR4bBMJOoSdb9CtiDtp8axHqP7I.jpg",
       "plot_overview": "A comedy about the unique relationship between a young songwriter, Ally Dawson, and Austin Moon, the overnight internet sensation who gains sudden notoriety after performing one of Ally's songs. Austin and Ally struggle with how to maintain and capitalize on Austin's newfound fame. Austin is more of a rebel type who doesn't follow the rules and is somewhat immature for his age, while Ally is conservative yet self-conscious.",
       "genres": [
-        "Comedy",
-        "Kids",
-        "Drama"
+        "comedy",
+        "drama",
+        "kids"
       ],
       "user_rating": 7.832,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 35279
+      "tmdb_id": 35279,
+      "genre": "comedy"
     },
     {
       "id": 35305,
@@ -64,8 +66,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7wNAI5XptD8t9JNP6i9qfbtRS8J.jpg",
       "plot_overview": "The Ricky Gervais Show is an American cartoon series produced for and broadcast by HBO and Channel 4. The series is an animated version of the popular British audio podcasts and audiobooks of the same name, which feature Ricky Gervais and Stephen Merchant, along with colleague and friend Karl Pilkington, talking about various subjects behind the microphone. The TV show consists of past audio recordings of these unscripted \"pointless conversations,\" with animation drawn in a style similar to clas",
       "genres": [
-        "Comedy",
-        "Animation"
+        "animation",
+        "comedy"
       ],
       "user_rating": 7.203,
       "critic_score": null,
@@ -79,7 +81,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 35305
+      "tmdb_id": 35305,
+      "genre": "animation"
     },
     {
       "id": 35558,
@@ -90,7 +93,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nsWgxQrDcTVhSGzAu5kVlw64XB1.jpg",
       "plot_overview": "Pop star Christopher Wilde has fame, fortune and a big-budget Hollywood movie awaiting him. But after meeting Jessica Olson, a down-to-earth girl from the Midwest, he is faced with following his heart or doing what's best for his career.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "music",
+        "romance",
+        "tv movie"
       ],
       "user_rating": 7.041,
       "critic_score": null,
@@ -104,7 +110,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 35558
+      "tmdb_id": 35558,
+      "genre": "comedy"
     },
     {
       "id": 35690,
@@ -115,8 +122,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iZrfY0w4s91XfRzEOf3kFMjrw5G.jpg",
       "plot_overview": "A drama centered on a rebellious girl who is sent to a Southern beach town for the summer to stay with her father. Through their mutual love of music, the estranged duo learn to reconnect.",
       "genres": [
-        "Drama",
-        "Family"
+        "drama",
+        "family"
       ],
       "user_rating": 7.23,
       "critic_score": null,
@@ -130,7 +137,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 35690
+      "tmdb_id": 35690,
+      "genre": "drama"
     }
   ]
 }

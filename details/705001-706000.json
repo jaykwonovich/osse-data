@@ -1,6 +1,6 @@
 {
   "range": "705001-706000",
-  "updated_at": 1780003048378,
+  "updated_at": 1780004424420,
   "shows": [
     {
       "id": 705861,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg",
       "plot_overview": "After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team's approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 705861
+      "tmdb_id": 705861,
+      "genre": "comedy"
     }
   ]
 }

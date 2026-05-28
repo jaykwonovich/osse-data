@@ -1,6 +1,6 @@
 {
   "range": "890001-891000",
-  "updated_at": 1780003048388,
+  "updated_at": 1780004424427,
   "shows": [
     {
       "id": 890825,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lRCAcwJeh93YHO3ghFBDf0Pj3w3.jpg",
       "plot_overview": "In 2019, Nepalese mountain climber Nirmal \u201cNims\u201d Purja set out to do the unthinkable by climbing the world\u2019s fourteen highest summits in less than seven months. (The previous record was eight years). He called the effort \u201cProject Possible 14/7\u201d and saw it as a way to inspire others to strive for greater heights in any pursuit. The film follows his team as they seek to defy naysayers and push the limits of human endurance.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.378,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 890825
+      "tmdb_id": 890825,
+      "genre": "documentary"
     }
   ]
 }

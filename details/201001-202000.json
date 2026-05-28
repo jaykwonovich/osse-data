@@ -1,6 +1,6 @@
 {
   "range": "201001-202000",
-  "updated_at": 1780003048332,
+  "updated_at": 1780004424373,
   "shows": [
     {
       "id": 201289,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hUdsZNxl8zIekBVZOSNFoiVIpiR.jpg",
       "plot_overview": "A woman must forge a relationship with her teenage stepdaughter in order to find her husband, who has mysteriously disappeared.",
       "genres": [
-        "Mystery",
-        "Drama"
+        "drama",
+        "mystery"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 201289
+      "tmdb_id": 201289,
+      "genre": "drama"
     },
     {
       "id": 201550,
@@ -37,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xUpoUFez8y5DCNT6CUVemEHsSPd.jpg",
       "plot_overview": "The true story of one man's mission to give inner city kids of Washington DC something he never had - a future. After being incarcerated for eighteen years, Eugene Brown established the Big Chair Chess Club to get kids off the streets and working towards lives they never believed they were capable of. This is his inspirational story.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.225,
       "critic_score": null,
@@ -57,7 +58,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 201550
+      "tmdb_id": 201550,
+      "genre": "drama"
     },
     {
       "id": 201643,
@@ -68,9 +70,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uS3PNfRgSdVyCs6nYTrZqI8wGZ7.jpg",
       "plot_overview": "Andy dreams of becoming the greatest pro wrestler of all time. Assuming the wrestler alias: \"Fight Girl\", Andy sets out into the bizarre and colorful Wrestling World, determined to make a name for herself.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Comedy"
+        "action & adventure",
+        "animation",
+        "comedy"
       ],
       "user_rating": 7.667,
       "critic_score": null,
@@ -84,7 +86,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 201643
+      "tmdb_id": 201643,
+      "genre": "action & adventure"
     },
     {
       "id": 201676,
@@ -95,9 +98,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2B6l0j3s3uhB451B0IfDEiRDrVq.jpg",
       "plot_overview": "Via a magic mirror, Twilight Sparkle travels into an alternate universe in order to recover a crown that was stolen from the Crystal Empire. Upon her arrival she is horrified to learn that she has turned into a human.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.442,
       "critic_score": null,
@@ -111,7 +114,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 201676
+      "tmdb_id": 201676,
+      "genre": "animation"
     },
     {
       "id": 201834,
@@ -122,7 +126,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xaiKpxuf9YGuTsqpdK5HSbD8M8f.jpg",
       "plot_overview": "It's 1993 and Ted the bear's moment of fame has passed, leaving him living with his best friend, 16-year-old John Bennett, who lives in a working-class Boston home with his parents and cousin. Ted may not be the best influence on John, but when it comes right down to it, he's willing to go out on a limb to help his friend and his family.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.966,
       "critic_score": null,
@@ -136,7 +140,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 201834
+      "tmdb_id": 201834,
+      "genre": "comedy"
     }
   ]
 }

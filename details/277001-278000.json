@@ -1,6 +1,6 @@
 {
   "range": "277001-278000",
-  "updated_at": 1780003048343,
+  "updated_at": 1780004424386,
   "shows": [
     {
       "id": 277217,
@@ -11,7 +11,11 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/20ncMtoy9Cxy6OQxgXZemHoFymz.jpg",
       "plot_overview": "A present-day idyllic kingdom where the benevolent teenage son of King Adam and Queen Belle offers a chance of redemption for the troublemaking offspring of Disney's classic villains: Cruella De Vil (Carlos), Maleficent (Mal), the Evil Queen (Evie) and Jafar (Jay).",
       "genres": [
-        "Family"
+        "adventure",
+        "family",
+        "fantasy",
+        "music",
+        "tv movie"
       ],
       "user_rating": 7.156,
       "critic_score": null,
@@ -31,7 +35,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 277217
+      "tmdb_id": 277217,
+      "genre": "adventure"
     },
     {
       "id": 277439,
@@ -42,8 +47,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/67d7dSnCeGxjbyCXn7giFtjPN2k.jpg",
       "plot_overview": "A storm is coming for happily married attorneys Anna and Tom Bowden when Max Cady, the notorious killer they are responsible for putting behind bars, is let out of prison and wants revenge.",
       "genres": [
-        "Drama",
-        "Crime"
+        "crime",
+        "drama"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -71,7 +76,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-04",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "crime"
     },
     {
       "id": 277834,
@@ -82,9 +88,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg",
       "plot_overview": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
       "genres": [
-        "Comedy",
-        "Family",
-        "Animation"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -98,7 +104,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 277834
+      "tmdb_id": 277834,
+      "genre": "animation"
     }
   ]
 }

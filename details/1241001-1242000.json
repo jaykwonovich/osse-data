@@ -1,6 +1,6 @@
 {
   "range": "1241001-1242000",
-  "updated_at": 1780003048399,
+  "updated_at": 1780004424438,
   "shows": [
     {
       "id": 1241436,
@@ -10,7 +10,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/l39TlELomwysfsr37vrvCV6rmaQ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
       "plot_overview": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
-      "genres": [],
+      "genres": [
+        "action",
+        "war"
+      ],
       "user_rating": 7.078,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1241436
+      "tmdb_id": 1241436,
+      "genre": "action"
     },
     {
       "id": 1241983,
@@ -34,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg",
       "plot_overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.312,
       "critic_score": null,
@@ -48,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1241983
+      "tmdb_id": 1241983,
+      "genre": "drama"
     }
   ]
 }

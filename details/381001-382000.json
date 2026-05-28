@@ -1,6 +1,6 @@
 {
   "range": "381001-382000",
-  "updated_at": 1780003048357,
+  "updated_at": 1780004424398,
   "shows": [
     {
       "id": 381284,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
       "plot_overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson \u2013 brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history \u2013 the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
       "genres": [
-        "Drama"
+        "drama",
+        "history"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 381284
+      "tmdb_id": 381284,
+      "genre": "drama"
     },
     {
       "id": 381288,
@@ -35,7 +37,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
       "plot_overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him \u2014 as well as everyone around him \u2014 as the walls between his compartments shatter apart.",
-      "genres": [],
+      "genres": [
+        "horror",
+        "thriller"
+      ],
       "user_rating": 7.341,
       "critic_score": null,
       "us_rating": null,
@@ -48,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 381288
+      "tmdb_id": 381288,
+      "genre": "horror"
     }
   ]
 }

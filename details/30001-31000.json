@@ -1,6 +1,6 @@
 {
   "range": "30001-31000",
-  "updated_at": 1780003048295,
+  "updated_at": 1780004424337,
   "shows": [
     {
       "id": 30497,
@@ -10,7 +10,9 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg",
       "plot_overview": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way, they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
-      "genres": [],
+      "genres": [
+        "horror"
+      ],
       "user_rating": 7.28,
       "critic_score": null,
       "us_rating": null,
@@ -29,7 +31,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 30497
+      "tmdb_id": 30497,
+      "genre": "horror"
     },
     {
       "id": 30588,
@@ -40,9 +43,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/f5EUue0mNt4gzjsrCP5QZENv3Ub.jpg",
       "plot_overview": "The film is about an unemployed banker, Henri Verdoux, and his sociopathic methods of attaining income. While being both loyal and competent in his work, Verdoux has been laid-off. To make money for his wife and child, he marries wealthy widows and then murders them. His crime spree eventually works against him when two particular widows break his normal routine.",
       "genres": [
-        "Comedy",
-        "Crime",
-        "Drama"
+        "comedy",
+        "crime",
+        "drama"
       ],
       "user_rating": 7.7,
       "critic_score": null,
@@ -56,7 +59,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 30588
+      "tmdb_id": 30588,
+      "genre": "comedy"
     },
     {
       "id": 30890,
@@ -67,8 +71,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rn3E4Kd7EUOGOF95Hsd0aOhQqZg.jpg",
       "plot_overview": "The Narrator tells us how the radio influenced his childhood in the days before TV. In the New York City of the late 1930s to the New Year's Eve 1944, this coming-of-age tale mixes the narrator's experiences with contemporary anecdotes and urban legends of the radio stars.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.046,
       "critic_score": null,
@@ -82,7 +86,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 30890
+      "tmdb_id": 30890,
+      "genre": "comedy"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "231001-232000",
-  "updated_at": 1780003048337,
+  "updated_at": 1780004424379,
   "shows": [
     {
       "id": 231003,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fgcSUbheJ2nml1g7y5QNvR4s16d.jpg",
       "plot_overview": "In 2052, a Nobel Prize-winning neuroscientist develops a drug called Hapna \u2014 a cure-all that has the unexpected side-effect of causing death three years later. In response to this threat, a special force of agents\u2014nicknamed \"Lazarus\"\u2014 is assembled to take on the malevolent Skinner.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Animation"
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.657,
       "critic_score": null,
@@ -33,7 +33,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 231003
+      "tmdb_id": 231003,
+      "genre": "action & adventure"
     }
   ]
 }

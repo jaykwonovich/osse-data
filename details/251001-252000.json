@@ -1,6 +1,6 @@
 {
   "range": "251001-252000",
-  "updated_at": 1780003048340,
+  "updated_at": 1780004424383,
   "shows": [
     {
       "id": 251091,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sMxOqjwaHHXuBnHkvVyzqcOPMVF.jpg",
       "plot_overview": "A journey into the fearsome Galactic Empire through the eyes of two warriors on divergent paths.",
       "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 251091
+      "tmdb_id": 251091,
+      "genre": "action & adventure"
     }
   ]
 }

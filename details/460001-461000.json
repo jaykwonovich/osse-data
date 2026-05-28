@@ -1,6 +1,6 @@
 {
   "range": "460001-461000",
-  "updated_at": 1780003048362,
+  "updated_at": 1780004424404,
   "shows": [
     {
       "id": 460465,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
       "plot_overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.031,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 460465
+      "tmdb_id": 460465,
+      "genre": "action"
     }
   ]
 }

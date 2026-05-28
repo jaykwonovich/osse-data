@@ -1,6 +1,6 @@
 {
   "range": "458001-459000",
-  "updated_at": 1780003048362,
+  "updated_at": 1780004424404,
   "shows": [
     {
       "id": 458131,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hvFdjSEPveRmYXu4jazOQFjjDu3.jpg",
       "plot_overview": "Centers on the unlikely relationship between Ann Atwater, an outspoken civil rights activist, and C.P. Ellis, a local Ku Klux Klan leader who reluctantly co-chaired a community summit, battling over the desegregation of schools in Durham, North Carolina during the racially-charged summer of 1971. The incredible events that unfolded would change Durham and the lives of Atwater and Ellis forever.",
       "genres": [
-        "Drama"
+        "drama",
+        "history"
       ],
       "user_rating": 7.377,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 458131
+      "tmdb_id": 458131,
+      "genre": "drama"
     },
     {
       "id": 458156,
@@ -36,7 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
       "plot_overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin\u2019s guild, the High Table, John Wick is excommunicado, but the world\u2019s most ruthless hit men and women await his every turn.",
       "genres": [
-        "Crime"
+        "action",
+        "crime",
+        "thriller"
       ],
       "user_rating": 7.437,
       "critic_score": null,
@@ -50,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 458156
+      "tmdb_id": 458156,
+      "genre": "action"
     },
     {
       "id": 458220,
@@ -61,7 +66,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mlBmnjDJfsAhvqRVc2aFOjsfh8M.jpg",
       "plot_overview": "After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together\u2014and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie's past threatens to ruin his new life and family.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 8.116,
       "critic_score": null,
@@ -75,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 458220
+      "tmdb_id": 458220,
+      "genre": "drama"
     }
   ]
 }

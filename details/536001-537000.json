@@ -1,6 +1,6 @@
 {
   "range": "536001-537000",
-  "updated_at": 1780003048367,
+  "updated_at": 1780004424410,
   "shows": [
     {
       "id": 536554,
@@ -10,7 +10,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qd4EKTuudkws9lW76Dn9C0tnuVA.jpg",
       "plot_overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
-      "genres": [],
+      "genres": [
+        "horror",
+        "science fiction"
+      ],
       "user_rating": 7.023,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 536554
+      "tmdb_id": 536554,
+      "genre": "horror"
     },
     {
       "id": 536841,
@@ -34,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/baDD8h5aZfKygdkCuclqjYQlLup.jpg",
       "plot_overview": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the personal life and career of the controversial football player Diego Maradona who played for SSC Napoli and Argentina in the 1980s.",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.408,
       "critic_score": null,
@@ -48,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 536841
+      "tmdb_id": 536841,
+      "genre": "documentary"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "346001-347000",
-  "updated_at": 1780003048355,
+  "updated_at": 1780004424395,
   "shows": [
     {
       "id": 346364,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
       "plot_overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
       "genres": [
-        "Drama"
+        "drama",
+        "horror",
+        "thriller"
       ],
       "user_rating": 7.24,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 346364
+      "tmdb_id": 346364,
+      "genre": "drama"
     },
     {
       "id": 346648,
@@ -36,8 +39,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
       "plot_overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
       "genres": [
-        "Comedy",
-        "Family"
+        "comedy",
+        "family"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -51,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 346648
+      "tmdb_id": 346648,
+      "genre": "comedy"
     }
   ]
 }

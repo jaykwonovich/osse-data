@@ -1,6 +1,6 @@
 {
   "range": "436001-437000",
-  "updated_at": 1780003048361,
+  "updated_at": 1780004424402,
   "shows": [
     {
       "id": 436969,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
       "plot_overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
       "genres": [
-        "Comedy"
+        "action",
+        "adventure",
+        "comedy"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 436969
+      "tmdb_id": 436969,
+      "genre": "action"
     }
   ]
 }

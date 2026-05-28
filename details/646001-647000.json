@@ -1,6 +1,6 @@
 {
   "range": "646001-647000",
-  "updated_at": 1780003048375,
+  "updated_at": 1780004424417,
   "shows": [
     {
       "id": 646380,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xMJvffWIaW9MtlY9aIXKViUNeIO.jpg",
       "plot_overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.1,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 646380
+      "tmdb_id": 646380,
+      "genre": "comedy"
     }
   ]
 }

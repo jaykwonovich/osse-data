@@ -1,6 +1,6 @@
 {
   "range": "1297001-1298000",
-  "updated_at": 1780003048404,
+  "updated_at": 1780004424440,
   "shows": [
     {
       "id": 1297842,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "plot_overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 8.1,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1297842
+      "tmdb_id": 1297842,
+      "genre": "animation"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "298001-299000",
-  "updated_at": 1780003048347,
+  "updated_at": 1780004424389,
   "shows": [
     {
       "id": 298382,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1sNgT3UZ98ObJdLgIKaIOecwzeP.jpg",
       "plot_overview": "In 1950s Australia, beautiful, talented dressmaker Tilly returns to her tiny hometown to right wrongs from her past. As she tries to reconcile with her mother, she starts to fall in love while transforming the fashion of the town.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.001,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 298382
+      "tmdb_id": 298382,
+      "genre": "comedy"
     }
   ]
 }

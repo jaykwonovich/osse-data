@@ -1,6 +1,6 @@
 {
   "range": "980001-981000",
-  "updated_at": 1780003048392,
+  "updated_at": 1780004424431,
   "shows": [
     {
       "id": 980489,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
       "plot_overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
       "genres": [
-        "Drama"
+        "action",
+        "adventure",
+        "drama"
       ],
       "user_rating": 7.709,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 980489
+      "tmdb_id": 980489,
+      "genre": "action"
     }
   ]
 }

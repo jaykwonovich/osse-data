@@ -1,6 +1,6 @@
 {
   "range": "138001-139000",
-  "updated_at": 1780003048328,
+  "updated_at": 1780004424368,
   "shows": [
     {
       "id": 138501,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
       "plot_overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Mystery"
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.457,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 138501
+      "tmdb_id": 138501,
+      "genre": "mystery"
     },
     {
       "id": 138502,
@@ -37,9 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
       "plot_overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.506,
       "critic_score": null,
@@ -58,7 +59,8 @@
       "next_season": 2,
       "next_air_date": "2026-07-01",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "action & adventure"
     },
     {
       "id": 138503,
@@ -69,10 +71,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kkT2B2gmynoh9kZMo1gromLNeqy.jpg",
       "plot_overview": "Peter Parker is on his way to becoming a hero, but his path to get there is anything but ordinary.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Comedy"
+        "action & adventure",
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.8,
       "critic_score": null,
@@ -86,7 +88,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 138503
+      "tmdb_id": 138503,
+      "genre": "action & adventure"
     },
     {
       "id": 138505,
@@ -97,9 +100,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
       "plot_overview": "After the Avengers are overtaken by a zombie plague, a desperate group of survivors discover the key to bringing an end to the super-powered undead, racing across a dystopian landscape and risking life and limb to save their world.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Animation",
-        "Action & Adventure"
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -113,7 +116,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 138505
+      "tmdb_id": 138505,
+      "genre": "action & adventure"
     },
     {
       "id": 138843,
@@ -123,7 +127,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ecKQlAEG95k62SMGhvX83oEqANK.jpg",
       "plot_overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
-      "genres": [],
+      "genres": [
+        "horror",
+        "thriller"
+      ],
       "user_rating": 7.539,
       "critic_score": null,
       "us_rating": null,
@@ -136,7 +143,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 138843
+      "tmdb_id": 138843,
+      "genre": "horror"
     }
   ]
 }

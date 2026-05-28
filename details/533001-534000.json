@@ -1,6 +1,6 @@
 {
   "range": "533001-534000",
-  "updated_at": 1780003048367,
+  "updated_at": 1780004424410,
   "shows": [
     {
       "id": 533533,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
       "plot_overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 6.492,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 533533
+      "tmdb_id": 533533,
+      "genre": "action"
     },
     {
       "id": 533535,
@@ -34,7 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ufpeVEM64uZHPpzzeiDNIAdaeOD.jpg",
       "plot_overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
       "genres": [
-        "Comedy"
+        "action",
+        "comedy",
+        "science fiction"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -48,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 533535
+      "tmdb_id": 533535,
+      "genre": "action"
     }
   ]
 }

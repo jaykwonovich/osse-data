@@ -1,6 +1,6 @@
 {
   "range": "574001-575000",
-  "updated_at": 1780003048370,
+  "updated_at": 1780004424412,
   "shows": [
     {
       "id": 574074,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xtj3EhrFHMrZCLTWH6LarEXAG8r.jpg",
       "plot_overview": "An unlikely connection sparks between two creatures: a fiercely independent stray kitten and a pit bull. Together, they experience friendship for the first time.",
       "genres": [
-        "Animation",
-        "Family",
-        "Drama"
+        "animation",
+        "drama",
+        "family"
       ],
       "user_rating": 7.947,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 574074
+      "tmdb_id": 574074,
+      "genre": "animation"
     },
     {
       "id": 574093,
@@ -38,9 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/noXgfgDAeVt8ZMUc4Ov6u9PHtOK.jpg",
       "plot_overview": "A father discovers that his son floats, which makes him different from other kids.  To keep them both safe from the judgement of the world, Dad hides, covers, and grounds him. But when his son's ability becomes public, Dad must decide whether to run and hide or to accept his son as he is.",
       "genres": [
-        "Animation",
-        "Drama",
-        "Family"
+        "animation",
+        "drama",
+        "family"
       ],
       "user_rating": 7.269,
       "critic_score": null,
@@ -54,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 574093
+      "tmdb_id": 574093,
+      "genre": "animation"
     },
     {
       "id": 574451,
@@ -65,7 +67,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yt5LbZJkZdnSQiLo3t892l7Rhr7.jpg",
       "plot_overview": "Aza confronts her potential for love, happiness, friendship, and hope while navigating an endless barrage of invasive, obsessive thoughts.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 7.273,
       "critic_score": null,
@@ -79,7 +82,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 574451
+      "tmdb_id": 574451,
+      "genre": "drama"
     },
     {
       "id": 574475,
@@ -90,7 +94,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
       "plot_overview": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
       "genres": [
-        "Mystery"
+        "horror",
+        "mystery"
       ],
       "user_rating": 7.038,
       "critic_score": null,
@@ -104,7 +109,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 574475
+      "tmdb_id": 574475,
+      "genre": "horror"
     }
   ]
 }

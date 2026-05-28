@@ -1,6 +1,6 @@
 {
   "range": "549001-550000",
-  "updated_at": 1780003048368,
+  "updated_at": 1780004424411,
   "shows": [
     {
       "id": 549053,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qIjyBgsMDbpeEO3CJx7vxVn4KO8.jpg",
       "plot_overview": "Kate is a young woman who has a habit of making bad decisions, and her last date with disaster occurs after she accepts work as Santa's elf for a department store. However, after she meets Tom there, her life takes a new turn.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.194,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 549053
+      "tmdb_id": 549053,
+      "genre": "comedy"
     },
     {
       "id": 549559,
@@ -37,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/el4j0LHk56uH6ErE5FZu2x5UJx8.jpg",
       "plot_overview": "A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilot Buzz Aldrin.",
       "genres": [
-        "Documentary",
-        "Drama"
+        "documentary",
+        "drama"
       ],
       "user_rating": 7.9,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 549559
+      "tmdb_id": 549559,
+      "genre": "documentary"
     }
   ]
 }

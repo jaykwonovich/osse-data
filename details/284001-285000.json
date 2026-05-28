@@ -1,6 +1,6 @@
 {
   "range": "284001-285000",
-  "updated_at": 1780003048344,
+  "updated_at": 1780004424387,
   "shows": [
     {
       "id": 284052,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
       "plot_overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
       "user_rating": 7.42,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 284052
+      "tmdb_id": 284052,
+      "genre": "action"
     },
     {
       "id": 284053,
@@ -34,7 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wBzMnQ01R9w58W6ucltdYfOyP4j.jpg",
       "plot_overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
       "genres": [
-        "Comedy"
+        "action",
+        "comedy",
+        "science fiction"
       ],
       "user_rating": 7.581,
       "critic_score": null,
@@ -48,7 +55,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 284053
+      "tmdb_id": 284053,
+      "genre": "action"
     },
     {
       "id": 284054,
@@ -58,7 +66,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/19Ed4XgjahPm4U8JT7SnntERIlt.jpg",
       "plot_overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret age",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
@@ -77,7 +89,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 284054
+      "tmdb_id": 284054,
+      "genre": "action"
     },
     {
       "id": 284725,
@@ -88,7 +101,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ysYPo1JqzHiHoIHpW9wXCtvY1LW.jpg",
       "plot_overview": "Follow five work-obsessed twenty-somethings striving for professional success and, if they have time, personal happiness in Manhattan's most glamorous neighborhood, Murray Hill.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -115,7 +128,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-02",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "comedy"
     }
   ]
 }

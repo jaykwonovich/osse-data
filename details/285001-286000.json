@@ -1,6 +1,6 @@
 {
   "range": "285001-286000",
-  "updated_at": 1780003048345,
+  "updated_at": 1780004424387,
   "shows": [
     {
       "id": 285079,
@@ -41,7 +41,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
       "plot_overview": "A newly divorced mom falls down a dangerous rabbit hole of blackmail, murder, and youth soccer.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 5.4,
       "critic_score": null,
@@ -66,7 +66,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-02",
       "next_episode": 4,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "comedy"
     },
     {
       "id": 285643,
@@ -77,7 +78,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jCXxl3zauvUdcs2cGQsVfYOHG4d.jpg",
       "plot_overview": "Hollywood icon and The Real Housewives of Beverly Hills alum Denise Richards is trying to balance it all as she navigates being an actress, wife and mother in the public eye.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -91,7 +92,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 285643
+      "tmdb_id": 285643,
+      "genre": "reality"
     },
     {
       "id": 285739,
@@ -102,7 +104,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fqWXGP79tEMAyLKW0wkJLbKSP61.jpg",
       "plot_overview": "When an English professor becomes obsessed with a handsome new colleague, her already complicated marriage and career are thrown into total chaos.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 6.926,
       "critic_score": null,
@@ -116,7 +118,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 285739
+      "tmdb_id": 285739,
+      "genre": "drama"
     },
     {
       "id": 285807,
@@ -127,9 +130,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
       "plot_overview": "A relentless LAPD cop becomes obsessed with taking down the master thief behind a string of daring heists \u2014 and only one can come out on top.",
       "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Crime"
+        "action & adventure",
+        "crime",
+        "drama"
       ],
       "user_rating": 7.123,
       "critic_score": null,
@@ -143,7 +146,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 285807
+      "tmdb_id": 285807,
+      "genre": "action & adventure"
     }
   ]
 }

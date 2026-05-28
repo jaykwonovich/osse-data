@@ -1,6 +1,6 @@
 {
   "range": "206001-207000",
-  "updated_at": 1780003048333,
+  "updated_at": 1780004424374,
   "shows": [
     {
       "id": 206246,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sa3ifUfXaoMxas7240Jwn3S3plx.jpg",
       "plot_overview": "Woodstock 1969 promised peace and music, but its '99 revival delivered days of rage, riots and real harm. Why did it go so horribly wrong?",
       "genres": [
-        "Documentary"
+        "documentary"
       ],
       "user_rating": 7.325,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 206246
+      "tmdb_id": 206246,
+      "genre": "documentary"
     },
     {
       "id": 206828,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8mO4cYZI1X8sanR4u6f07FiQ8dC.jpg",
       "plot_overview": "A love triangle among three adults experiencing middle-age malaise leads to one of them ending up dead.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 6.696,
       "critic_score": null,
@@ -51,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 206828
+      "tmdb_id": 206828,
+      "genre": "comedy"
     }
   ]
 }

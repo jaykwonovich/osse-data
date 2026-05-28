@@ -1,6 +1,6 @@
 {
   "range": "23001-24000",
-  "updated_at": 1780003048293,
+  "updated_at": 1780004424333,
   "shows": [
     {
       "id": 23168,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
       "plot_overview": "Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her \u2013 but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 23168
+      "tmdb_id": 23168,
+      "genre": "crime"
     },
     {
       "id": 23169,
@@ -37,7 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kbxk09QgBJfJjnp66ey3JCEshKf.jpg",
       "plot_overview": "Still reeling from a heartbreaking family event and his parents' subsequent divorce, Tyler Hawkins discovers a fresh lease on life when he meets Ally Craig, a gregarious beauty who witnessed her mother's death. But as the couple draws closer, the fallout from their separate tragedies jeopardizes their love.",
       "genres": [
-        "Drama"
+        "drama",
+        "romance"
       ],
       "user_rating": 7.102,
       "critic_score": null,
@@ -51,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 23169
+      "tmdb_id": 23169,
+      "genre": "drama"
     },
     {
       "id": 23383,
@@ -62,7 +65,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
       "plot_overview": "Winner of four Academy Awards, including Best Picture and Best Actor, Sir Laurence Olivier\u2019s Hamlet continues to be the most compelling version of Shakespeare\u2019s beloved tragedy. Olivier is at his most inspired\u2014both as director and as the melancholy Dane himself\u2014as he breathes new life into the words of one of the world\u2019s greatest dramatists.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 7.4,
       "critic_score": null,
@@ -76,7 +79,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 23383
+      "tmdb_id": 23383,
+      "genre": "drama"
     }
   ]
 }

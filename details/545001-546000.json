@@ -1,6 +1,6 @@
 {
   "range": "545001-546000",
-  "updated_at": 1780003048368,
+  "updated_at": 1780004424410,
   "shows": [
     {
       "id": 545609,
@@ -10,7 +10,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1R6cvRtZgsYCkh8UFuWFN33xBP4.jpg",
       "plot_overview": "A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
-      "genres": [],
+      "genres": [
+        "action",
+        "thriller"
+      ],
       "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 545609
+      "tmdb_id": 545609,
+      "genre": "action"
     },
     {
       "id": 545611,
@@ -33,7 +37,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
       "plot_overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
-      "genres": [],
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
       "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
@@ -46,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 545611
+      "tmdb_id": 545611,
+      "genre": "action"
     }
   ]
 }

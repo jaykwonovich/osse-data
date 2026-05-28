@@ -1,6 +1,6 @@
 {
   "range": "504001-505000",
-  "updated_at": 1780003048365,
+  "updated_at": 1780004424408,
   "shows": [
     {
       "id": 504949,
@@ -11,7 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oMAhce30UvkgJwlzMwsuLaPJ5cG.jpg",
       "plot_overview": "England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V.",
       "genres": [
-        "Drama"
+        "drama",
+        "history",
+        "war"
       ],
       "user_rating": 7.2,
       "critic_score": null,
@@ -25,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 504949
+      "tmdb_id": 504949,
+      "genre": "drama"
     }
   ]
 }

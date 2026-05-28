@@ -1,6 +1,6 @@
 {
   "range": "293001-294000",
-  "updated_at": 1780003048346,
+  "updated_at": 1780004424388,
   "shows": [
     {
       "id": 293299,
@@ -11,10 +11,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2xyyn4Rc9kbkaojG9am1FInCmxr.jpg",
       "plot_overview": "This Oscar-winning animated short film tells the story of one man's love life as seen through the eyes of his best friend and dog, Winston, and revealed bite by bite through the meals they share.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Drama",
-        "Family"
+        "animation",
+        "comedy",
+        "drama",
+        "family"
       ],
       "user_rating": 7.838,
       "critic_score": null,
@@ -28,7 +28,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 293299
+      "tmdb_id": 293299,
+      "genre": "animation"
     },
     {
       "id": 293469,
@@ -39,7 +40,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2CpJ4zWO2r9kDn4MBgwaphaIj6g.jpg",
       "plot_overview": "Kings Court is a new dating series with three celebrity kings \u2014 supermodel Tyson Beckford, NBA All-Star Carlos Boozer and WWE legend Thaddeus \"Titus O'Neil\" Bullard \u2014 searching for their queen among 21 smart, accomplished and beautiful single ladies ready to risk it all for the one.",
       "genres": [
-        "Reality"
+        "reality"
       ],
       "user_rating": 5.5,
       "critic_score": null,
@@ -53,7 +54,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 293469
+      "tmdb_id": 293469,
+      "genre": "reality"
     },
     {
       "id": 293660,
@@ -64,7 +66,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/en971MEXui9diirXlogOrPKmsEn.jpg",
       "plot_overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
       "genres": [
-        "Comedy"
+        "action",
+        "adventure",
+        "comedy"
       ],
       "user_rating": 7.623,
       "critic_score": null,
@@ -78,7 +82,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 293660
+      "tmdb_id": 293660,
+      "genre": "action"
     },
     {
       "id": 293863,
@@ -89,7 +94,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wTvDGO0xGMmnScqjuiDeWU7PkcB.jpg",
       "plot_overview": "After 29-year-old Adaline recovers from a nearly lethal accident, she inexplicably stops growing older. As the years stretch on and on, Adaline keeps her secret to herself  until she meets a man who changes her life.",
       "genres": [
-        "Drama"
+        "drama",
+        "fantasy",
+        "romance"
       ],
       "user_rating": 7.466,
       "critic_score": null,
@@ -103,7 +110,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 293863
+      "tmdb_id": 293863,
+      "genre": "drama"
     }
   ]
 }

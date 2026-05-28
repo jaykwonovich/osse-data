@@ -1,6 +1,6 @@
 {
   "range": "673001-674000",
-  "updated_at": 1780003048376,
+  "updated_at": 1780004424419,
   "shows": [
     {
       "id": 673595,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6Az6HzYABUzoPft2576gKP2YUmg.jpg",
       "plot_overview": "When Maggie Simpson is rescued by a cute young baby from playground peril, it's girl meets boy, girl loses boy, guess what happens next?",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.371,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 673595
+      "tmdb_id": 673595,
+      "genre": "animation"
     }
   ]
 }

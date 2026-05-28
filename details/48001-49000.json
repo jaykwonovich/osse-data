@@ -1,6 +1,6 @@
 {
   "range": "48001-49000",
-  "updated_at": 1780003048301,
+  "updated_at": 1780004424343,
   "shows": [
     {
       "id": 48865,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/psWVLZDfiCA4qqoKaN2fpnzkNDs.jpg",
       "plot_overview": "Mary, Queen of Scots, faces political and sexual intrigue in the treacherous world of the French court.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 8.1,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 48865
+      "tmdb_id": 48865,
+      "genre": "drama"
     },
     {
       "id": 48891,
@@ -36,8 +37,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wyspZaGs7CXceV3Ct7NJhcKNDkn.jpg",
       "plot_overview": "A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.",
       "genres": [
-        "Comedy",
-        "Crime"
+        "comedy",
+        "crime"
       ],
       "user_rating": 8.212,
       "critic_score": null,
@@ -57,7 +58,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 48891
+      "tmdb_id": 48891,
+      "genre": "comedy"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "244001-245000",
-  "updated_at": 1780003048339,
+  "updated_at": 1780004424382,
   "shows": [
     {
       "id": 244001,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/prYkevCcHxZ9jEG4G1WSQup2mIA.jpg",
       "plot_overview": "Left brain and right brain duke it out and then belt out a tune in comedian Bo Burnham's quick and clever one-man show. As intelligent as he is lanky, Burnham cynically pokes at pop entertainment while offering unadulterated showmanship of his own.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "music"
       ],
       "user_rating": 7.807,
       "critic_score": null,
@@ -25,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 244001
+      "tmdb_id": 244001,
+      "genre": "comedy"
     },
     {
       "id": 244244,
@@ -36,8 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
       "plot_overview": "A desperate father searching for his runaway daughter gets caught up in a murder case \u2014 and stumbles upon secrets which could destroy his family for good.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery"
       ],
       "user_rating": 6.6,
       "critic_score": null,
@@ -51,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 244244
+      "tmdb_id": 244244,
+      "genre": "drama"
     },
     {
       "id": 244267,
@@ -62,7 +65,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/v0rI995IpYNZQaqlIYBmodP0f82.jpg",
       "plot_overview": "A molecular biologist's study of the human eye has far-reaching implications about humanity's scientific and spiritual beliefs.",
       "genres": [
-        "Drama"
+        "drama",
+        "science fiction"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -76,7 +80,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 244267
+      "tmdb_id": 244267,
+      "genre": "drama"
     },
     {
       "id": 244623,
@@ -87,7 +92,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1FmJKBjmp1o3fwhlnrrePnqdWbc.jpg",
       "plot_overview": "A reformed party girl must prove herself as a businesswoman when she's unexpectedly put in charge of her family's pro basketball team.",
       "genres": [
-        "Comedy"
+        "comedy"
       ],
       "user_rating": 7.261,
       "critic_score": null,
@@ -101,7 +106,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 244623
+      "tmdb_id": 244623,
+      "genre": "comedy"
     }
   ]
 }

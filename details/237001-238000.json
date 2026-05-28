@@ -1,6 +1,6 @@
 {
   "range": "237001-238000",
-  "updated_at": 1780003048338,
+  "updated_at": 1780004424381,
   "shows": [
     {
       "id": 237015,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/i0C7oysc4Q9Y8fllWW4vvleE4pM.jpg",
       "plot_overview": "Marioneta is proud and wealthy Spaniard living in 1980s Quito, Ecuador. As she goes through her life, Marioneta encounters a diverse group of eccentric and ambitious women as they all navigate the ups and downs of love, family and cuys.",
       "genres": [
-        "Animation",
-        "Comedy"
+        "animation",
+        "comedy"
       ],
       "user_rating": 9.4,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 237015
+      "tmdb_id": 237015,
+      "genre": "animation"
     },
     {
       "id": 237512,
@@ -37,11 +38,11 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qjPC0KYEhdWAIPmCtAkg0j1iJXC.jpg",
       "plot_overview": "The Camp Cretaceous gang comes together to unravel a mystery when they discover a global conspiracy that brings danger to dinosaurs \u2014 and to themselves.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Kids",
-        "Family"
+        "action & adventure",
+        "animation",
+        "family",
+        "kids",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.296,
       "critic_score": null,
@@ -55,7 +56,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 237512
+      "tmdb_id": 237512,
+      "genre": "action & adventure"
     }
   ]
 }

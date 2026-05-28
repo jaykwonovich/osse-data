@@ -1,6 +1,6 @@
 {
   "range": "1049001-1050000",
-  "updated_at": 1780003048394,
+  "updated_at": 1780004424433,
   "shows": [
     {
       "id": 1049471,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/avwIERZtWiWa34qShf5biDzAVaF.jpg",
       "plot_overview": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 5.362,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1049471
+      "tmdb_id": 1049471,
+      "genre": "comedy"
     },
     {
       "id": 1049638,
@@ -37,7 +38,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3di4noZGr04O2lyqgDgWNbyW1wA.jpg",
       "plot_overview": "Two twenty-somethings, both reeling from bad break-ups, connect over the course of an eventful day in South London \u2013 helping each other deal with their nightmare exes, and potentially restoring their faith in romance.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "romance"
       ],
       "user_rating": 7.06,
       "critic_score": null,
@@ -51,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1049638
+      "tmdb_id": 1049638,
+      "genre": "comedy"
     }
   ]
 }

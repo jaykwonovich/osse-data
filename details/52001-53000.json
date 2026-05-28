@@ -1,6 +1,6 @@
 {
   "range": "52001-53000",
-  "updated_at": 1780003048302,
+  "updated_at": 1780004424344,
   "shows": [
     {
       "id": 52814,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zW0v2YT74C6tRafzqqBkfSqLAN0.jpg",
       "plot_overview": "Depicting an epic 26th-century conflict between humanity and an alien threat known as the Covenant, the series weaves deeply drawn personal stories with action, adventure and a richly imagined vision of the future.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "action & adventure",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.204,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 52814
+      "tmdb_id": 52814,
+      "genre": "action & adventure"
     }
   ]
 }

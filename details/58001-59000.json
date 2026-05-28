@@ -1,6 +1,6 @@
 {
   "range": "58001-59000",
-  "updated_at": 1780003048303,
+  "updated_at": 1780004424345,
   "shows": [
     {
       "id": 58841,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
       "plot_overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 8.42,
       "critic_score": null,
@@ -32,7 +32,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 58841
+      "tmdb_id": 58841,
+      "genre": "crime"
     },
     {
       "id": 58956,
@@ -43,9 +44,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sC9OILuFOlZon1XQFrSDBUlGLkI.jpg",
       "plot_overview": "Being a teenager is hard enough. Being a Wolfblood teenager is ten times more complicated. 14 year old Maddy loves her abilities - heightened senses, being faster, stronger and more graceful - but hates the secrets that come with them.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Mystery"
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "user_rating": 7.942,
       "critic_score": null,
@@ -65,7 +66,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 58956
+      "tmdb_id": 58956,
+      "genre": "drama"
     },
     {
       "id": 58957,
@@ -76,8 +78,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5ix5qtVlLR2O0sgAJp5urHLbGZe.jpg",
       "plot_overview": "Self-proclaimed business expert, writer, director and comedian Nathan Fielder helps real small businesses turn a profit with marketing tactics that no ordinary consultant would dare to attempt. From driving foot traffic to an off-the-strip souvenir shop by using Hollywood flair and a Johnny Depp impersonator, to creating a rebate that can only be redeemed by climbing a mountain, to founding a coffee shop called \"Dumb Starbucks,\u201d Nathan has always gone to the limit to make his ideas come to life.",
       "genres": [
-        "Comedy",
-        "Documentary"
+        "comedy",
+        "documentary"
       ],
       "user_rating": 8.242,
       "critic_score": null,
@@ -91,7 +93,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 58957
+      "tmdb_id": 58957,
+      "genre": "comedy"
     },
     {
       "id": 58981,
@@ -102,10 +105,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7Z4mwfQGoARtNxxQEPp5hKNclJi.jpg",
       "plot_overview": "Meet The Thundermans, a typical suburban family that happens to have astounding superpowers. At the center of the action are the 14-year-old Thunderman twins, who share the same bathroom, the same school, and the same annoying little siblings. Their only difference? The sister is a super student with a super sunny disposition who super looks forward to being a superhero someday, and her twin brother is a super villain.",
       "genres": [
-        "Action & Adventure",
-        "Comedy",
-        "Family",
-        "Sci-Fi & Fantasy"
+        "action & adventure",
+        "comedy",
+        "family",
+        "sci-fi & fantasy"
       ],
       "user_rating": 8.0,
       "critic_score": null,
@@ -119,7 +122,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 58981
+      "tmdb_id": 58981,
+      "genre": "action & adventure"
     }
   ]
 }

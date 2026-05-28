@@ -1,6 +1,6 @@
 {
   "range": "260001-261000",
-  "updated_at": 1780003048342,
+  "updated_at": 1780004424385,
   "shows": [
     {
       "id": 260513,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
       "plot_overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet \u2013 taking care of the problems of his three children.",
       "genres": [
-        "Animation",
-        "Family"
+        "animation",
+        "family"
       ],
       "user_rating": 7.5,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 260513
+      "tmdb_id": 260513,
+      "genre": "animation"
     },
     {
       "id": 260592,
@@ -37,7 +38,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kr9D3IvTyyIVQXjCo37XEYqPkTw.jpg",
       "plot_overview": "Six summers to fall in love. One moment to fall apart. A week to get it right. A fun, sweeping, romantic story that asks the question, what if your first love actually was your soulmate?",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -63,7 +64,8 @@
       "next_season": 1,
       "next_air_date": "2026-06-10",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "genre": "drama"
     }
   ]
 }

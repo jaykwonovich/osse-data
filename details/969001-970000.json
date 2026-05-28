@@ -1,6 +1,6 @@
 {
   "range": "969001-970000",
-  "updated_at": 1780003048391,
+  "updated_at": 1780004424430,
   "shows": [
     {
       "id": 969492,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iKqItVltY6r0eJeIRdIZV8IrBpz.jpg",
       "plot_overview": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
-      "genres": [],
+      "genres": [
+        "action",
+        "thriller",
+        "war"
+      ],
       "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 969492
+      "tmdb_id": 969492,
+      "genre": "action"
     }
   ]
 }

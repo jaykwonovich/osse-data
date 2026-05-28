@@ -1,6 +1,6 @@
 {
   "range": "121001-122000",
-  "updated_at": 1780003048325,
+  "updated_at": 1780004424365,
   "shows": [
     {
       "id": 121658,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8JtKCIBzf3AYbsxBFSL74NoGH2u.jpg",
       "plot_overview": "Follows the elite agents of the FBI's International Fly Team headquartered in Budapest as they travel the world with the mission of protecting Americans wherever they may be.",
       "genres": [
-        "Crime",
-        "Drama"
+        "crime",
+        "drama"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -32,7 +32,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 121658
+      "tmdb_id": 121658,
+      "genre": "crime"
     },
     {
       "id": 121986,
@@ -43,8 +44,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oUVd42KgJWW6YnZLfzI7SDTdcPL.jpg",
       "plot_overview": "An aspiring dancer moves to New York City and becomes caught up in a whirlwind of flighty fair-weather friends, diminishing fortunes and career setbacks.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "comedy",
+        "drama"
       ],
       "user_rating": 7.331,
       "critic_score": null,
@@ -58,7 +59,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 121986
+      "tmdb_id": 121986,
+      "genre": "comedy"
     }
   ]
 }

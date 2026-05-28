@@ -1,6 +1,6 @@
 {
   "range": "1075001-1076000",
-  "updated_at": 1780003048395,
+  "updated_at": 1780004424434,
   "shows": [
     {
       "id": 1075175,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/akvlTeB0LiNzw9U9YCAB8wwb5Qo.jpg",
       "plot_overview": "Three British teenage girls go on a rites-of-passage holiday\u2014drinking, clubbing and hooking up, in what should be the best summer of their lives.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 6.23,
       "critic_score": null,
@@ -25,7 +25,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1075175
+      "tmdb_id": 1075175,
+      "genre": "drama"
     },
     {
       "id": 1075794,
@@ -36,9 +37,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/auXrHU6O17n9Tz11SHReoorjrU6.jpg",
       "plot_overview": "Jaded 74-year-old reptile Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students \u2014 including an impossibly mean substitute teacher.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.368,
       "critic_score": null,
@@ -52,7 +53,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1075794
+      "tmdb_id": 1075794,
+      "genre": "animation"
     }
   ]
 }

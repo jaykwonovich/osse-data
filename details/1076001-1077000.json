@@ -1,6 +1,6 @@
 {
   "range": "1076001-1077000",
-  "updated_at": 1780003048395,
+  "updated_at": 1780004424435,
   "shows": [
     {
       "id": 1076364,
@@ -11,9 +11,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wLttOcR1wJGedXfpe69y215NvjN.jpg",
       "plot_overview": "Carl Fredricksen reluctantly agrees to go on a date with a lady friend\u2014but admittedly has no idea how dating works these days. Ever the helpful friend, Dug steps in to calm Carl's pre-date jitters and offer some tried-and-true tips for making friends\u2014if you're a dog.",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
+        "animation",
+        "comedy",
+        "family"
       ],
       "user_rating": 7.439,
       "critic_score": null,
@@ -27,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1076364
+      "tmdb_id": 1076364,
+      "genre": "animation"
     },
     {
       "id": 1076487,
@@ -38,7 +39,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/csu96RxWGh2tReD9gYQRdUOSuUE.jpg",
       "plot_overview": "A gunned down Navy SEAL Master Chief must guide a child to safety through a gauntlet of hostile Taliban insurgents and survive the brutal Afghanistan wilderness.",
       "genres": [
-        "Drama"
+        "action",
+        "drama",
+        "war"
       ],
       "user_rating": 7.201,
       "critic_score": null,
@@ -58,7 +61,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 1076487
+      "tmdb_id": 1076487,
+      "genre": "action"
     }
   ]
 }

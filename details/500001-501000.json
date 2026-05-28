@@ -1,6 +1,6 @@
 {
   "range": "500001-501000",
-  "updated_at": 1780003048365,
+  "updated_at": 1780004424407,
   "shows": [
     {
       "id": 500664,
@@ -10,7 +10,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/woLGROUdPWdBnLVFKYdGD3kFkPY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oiPUcD1IIZrYGTSIpvTmd3dRmPo.jpg",
       "plot_overview": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure \u2014 an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility \u2014 skills he uses to seek revenge against the thugs who destroyed his life.",
-      "genres": [],
+      "genres": [
+        "action",
+        "science fiction",
+        "thriller"
+      ],
       "user_rating": 7.504,
       "critic_score": null,
       "us_rating": null,
@@ -23,7 +27,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 500664
+      "tmdb_id": 500664,
+      "genre": "action"
     }
   ]
 }

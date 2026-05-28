@@ -1,6 +1,6 @@
 {
   "range": "743001-744000",
-  "updated_at": 1780003048380,
+  "updated_at": 1780004424421,
   "shows": [
     {
       "id": 743601,
@@ -11,8 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fi5TkN1mqC4HBaKCFX26NRQBYTC.jpg",
       "plot_overview": "Using raw, firsthand footage, this documentary examines the disappearance of Shanann Watts and her children, and the terrible events that followed.",
       "genres": [
-        "Crime",
-        "Documentary"
+        "crime",
+        "documentary"
       ],
       "user_rating": 7.263,
       "critic_score": null,
@@ -26,7 +26,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 743601
+      "tmdb_id": 743601,
+      "genre": "crime"
     }
   ]
 }
