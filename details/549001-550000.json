@@ -1,6 +1,6 @@
 {
   "range": "549001-550000",
-  "updated_at": 1766207314887,
+  "updated_at": 1780003048368,
   "shows": [
     {
       "id": 549053,
@@ -11,12 +11,39 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qIjyBgsMDbpeEO3CJx7vxVn4KO8.jpg",
       "plot_overview": "Kate is a young woman who has a habit of making bad decisions, and her last date with disaster occurs after she accepts work as Santa's elf for a department store. However, after she meets Tom there, her life takes a new turn.",
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Drama"
       ],
-      "user_rating": 7.204,
+      "user_rating": 7.194,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-11-07",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 549053
+    },
+    {
+      "id": 549559,
+      "title": "Apollo 11",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/el4j0LHk56uH6ErE5FZu2x5UJx8.jpg",
+      "plot_overview": "A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilot Buzz Aldrin.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "user_rating": 7.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-03-01",
       "streaming_services": [
         {
           "service_id": 8,
@@ -25,55 +52,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 549053
-    },
-    {
-      "id": 549294,
-      "title": "Synchronic",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wgm4gdJwb7iSYX0uBsRAZmHQmPm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zh1M8fE2vQ0BKxYzIvMYan7ryV.jpg",
-      "plot_overview": "Two New Orleans paramedics' lives are ripped apart after encountering a series of horrific deaths linked to a designer drug with bizarre, otherworldly effects.",
-      "genres": [],
-      "user_rating": 6.326,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2020-10-23",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 549294
-    },
-    {
-      "id": 549509,
-      "title": "The Brutalist",
-      "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
-      "plot_overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
-      "genres": [
-        "Drama"
-      ],
-      "user_rating": 6.966,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2024-12-20",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 549509
+      "tmdb_id": 549559
     }
   ]
 }

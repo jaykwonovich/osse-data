@@ -1,6 +1,6 @@
 {
   "range": "196001-197000",
-  "updated_at": 1766207314840,
+  "updated_at": 1780003048332,
   "shows": [
     {
       "id": 196322,
@@ -14,7 +14,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "user_rating": 7.777,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-05-07",
@@ -26,7 +26,37 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 196322
+      "tmdb_id": 196322,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-08-27",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 196454,
+      "title": "Queen Charlotte: A Bridgerton Story",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sBO6K6ev9F6T6pNGme5yLeULMsI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/92R2R75gIiVo32dIm0JUaIytpij.jpg",
+      "plot_overview": "Young Queen Charlotte's marriage to King George of England sparks an epic love story and transforms high society in this \"Bridgerton\" universe prequel.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 8.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-05-04",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 196454
     },
     {
       "id": 196592,
@@ -34,12 +64,12 @@
       "type": "tv_series",
       "year": 2022,
       "poster_url": "https://image.tmdb.org/t/p/w342/nC8PyRTFwrs6xKDrGSJWoqcYBUR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lkg6CaSVmB47EPmTfbavjvoiJBw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8kGaLkIdPWly8GJTZtzZBNsSwQ7.jpg",
       "plot_overview": "As the 11th city in the franchise, the series highlights a group of women navigating their relationships, careers, and supremely lavish and ultra-wealthy lifestyles in the United Arab Emirates. With the desert paradise of Dubai as the backdrop, this billionaire's playground is known for its over-the-top opulence, jaw-dropping modern architecture and wild nightlife scene. Whether they're coasting on a private plane, running their own empires or hosting on a private island, these glamourous, succe",
       "genres": [
         "Reality"
       ],
-      "user_rating": 6.2,
+      "user_rating": 6.167,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-06-01",
@@ -54,33 +84,6 @@
       "tmdb_id": 196592
     },
     {
-      "id": 196867,
-      "title": "Annie",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aKAM9V0izx4VhsdyAdBvAB26UCZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/j3snmrxqxT60FrH1Z8i54fGnHZJ.jpg",
-      "plot_overview": "Annie is a young, happy foster kid who's also tough enough to make her way on the streets of New York in 2014. Originally left by her parents as a baby with the promise that they'd be back for her someday, it's been a hard knock life ever since with her mean foster mom Miss Hannigan. But everything's about to change when the hard-nosed tycoon and New York mayoral candidate Will Stacks\u2014advised by his brilliant VP and his shrewd and scheming campaign advisor\u2014makes a thinly-veiled campaign move and",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Family"
-      ],
-      "user_rating": 6.2,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-12-18",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 196867
-    },
-    {
       "id": 196890,
       "title": "Chief of War",
       "type": "tv_series",
@@ -91,7 +94,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.397,
+      "user_rating": 7.316,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-07-31",
@@ -99,12 +102,6 @@
         {
           "service_id": 350,
           "service_name": "Apple TV+",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }

@@ -1,6 +1,6 @@
 {
   "range": "231001-232000",
-  "updated_at": 1766207314844,
+  "updated_at": 1780003048337,
   "shows": [
     {
       "id": 231003,
@@ -15,7 +15,7 @@
         "Action & Adventure",
         "Animation"
       ],
-      "user_rating": 7.779,
+      "user_rating": 7.657,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-04-06",
@@ -23,6 +23,12 @@
         {
           "service_id": 318,
           "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }

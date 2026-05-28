@@ -1,6 +1,6 @@
 {
   "range": "219001-220000",
-  "updated_at": 1766207314843,
+  "updated_at": 1780003048335,
   "shows": [
     {
       "id": 219080,
@@ -12,10 +12,10 @@
       "plot_overview": "When a powerful arcane relic known as 'The Beacon' falls into nefarious hands, a group of fugitives and outcasts, bound by secrets and scars, must learn to work together to save the realm and stop reality as they know it from unraveling.",
       "genres": [
         "Animation",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.676,
+      "user_rating": 8.005,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-11-19",
@@ -27,12 +27,33 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 219080,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2025-12-17",
-      "next_episode": 7,
-      "relevance_score": 75
+      "tmdb_id": 219080
+    },
+    {
+      "id": 219532,
+      "title": "Exploding Kittens",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4WctqRtusYpTLHNkuVjQe4R51DZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o8Tvsz6Bnsr7cEVOkGprrEPyocd.jpg",
+      "plot_overview": "It's the ultimate fight between good and evil when God and his nemesis, the spawn of Satan, are sent to Earth to live with humans \u2014 as talking cats.",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "user_rating": 7.583,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-07-12",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 219532
     },
     {
       "id": 219543,
@@ -47,7 +68,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "user_rating": 7.766,
+      "user_rating": 7.773,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-12-05",
@@ -73,19 +94,46 @@
         "Action & Adventure",
         "Drama"
       ],
-      "user_rating": 7.474,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-08-27",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 219760
+    },
+    {
+      "id": 219937,
+      "title": "Dexter: Original Sin",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/j5bP7spdfS0NpDLKDlqJYyJPi1j.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7f2bZ9TdBOlnKpdiir8xWDv6yOi.jpg",
+      "plot_overview": "In 1991 Miami, Dexter Morgan transitions from student to avenging serial killer. When his bloodthirsty urges can't be ignored any longer, Dexter must learn to channel his inner darkness. With the guidance of his father, Harry, he adopts a Code designed to help him find and kill people who deserve to be eliminated from society without getting on law enforcements' radar. This is a particular challenge for young Dexter as he begins a forensics internship at the Miami Metro Police Department.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 8.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-12-15",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 219937
     }
   ]
 }

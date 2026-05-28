@@ -1,57 +1,7 @@
 {
   "range": "58001-59000",
-  "updated_at": 1766207314810,
+  "updated_at": 1780003048303,
   "shows": [
-    {
-      "id": 58474,
-      "title": "Cosmos",
-      "type": "tv_series",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2Nwbv0hrN8sThLvgooShcPqmFrO.jpg",
-      "plot_overview": "Famed astrophysicist Neil deGrasse Tyson provides clarity for the vision of the cosmos as he voyages across the universe with never-before-told stories that delve into the scientific concepts of the laws of gravity and the origins of space and time.",
-      "genres": [
-        "Documentary"
-      ],
-      "user_rating": 8.5,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-03-09",
-      "streaming_services": [
-        {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 58474
-    },
-    {
-      "id": 58832,
-      "title": "Naked and Afraid",
-      "type": "tv_series",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/plV0HqZs3nHW8PhaLzV18puxtP2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7rqkQ2P0Q8QOXL0ITZctnzSx2Jl.jpg",
-      "plot_overview": "What happens when you put two complete strangers - sans clothes - in some of the most extreme environments on Earth? Each male-female duo is left with no food, no water, no clothes, and only one survival item each as they attempt to survive on their own.",
-      "genres": [
-        "Reality"
-      ],
-      "user_rating": 6.738,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2013-06-23",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 58832
-    },
     {
       "id": 58841,
       "title": "Chicago P.D.",
@@ -64,11 +14,17 @@
         "Crime",
         "Drama"
       ],
-      "user_rating": 8.412,
+      "user_rating": 8.42,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-01-08",
       "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",
@@ -76,12 +32,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 58841,
-      "is_returning": true,
-      "next_season": 13,
-      "next_air_date": "2026-01-07",
-      "next_episode": 8,
-      "relevance_score": 75
+      "tmdb_id": 58841
     },
     {
       "id": 58956,
@@ -96,11 +47,17 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.972,
+      "user_rating": 7.942,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-09-10",
       "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",
@@ -109,6 +66,32 @@
         }
       ],
       "tmdb_id": 58956
+    },
+    {
+      "id": 58957,
+      "title": "Nathan for You",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6tGXlz61c44onUg6EdRkbhjcaPA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5ix5qtVlLR2O0sgAJp5urHLbGZe.jpg",
+      "plot_overview": "Self-proclaimed business expert, writer, director and comedian Nathan Fielder helps real small businesses turn a profit with marketing tactics that no ordinary consultant would dare to attempt. From driving foot traffic to an off-the-strip souvenir shop by using Hollywood flair and a Johnny Depp impersonator, to creating a rebate that can only be redeemed by climbing a mountain, to founding a coffee shop called \"Dumb Starbucks,\u201d Nathan has always gone to the limit to make his ideas come to life.",
+      "genres": [
+        "Comedy",
+        "Documentary"
+      ],
+      "user_rating": 8.242,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-02-28",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 58957
     },
     {
       "id": 58981,
@@ -124,7 +107,7 @@
         "Family",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.026,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-10-14",

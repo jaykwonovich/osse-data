@@ -1,6 +1,6 @@
 {
   "range": "72001-73000",
-  "updated_at": 1766207314815,
+  "updated_at": 1780003048309,
   "shows": [
     {
       "id": 72002,
@@ -56,55 +56,41 @@
       "tmdb_id": 72027
     },
     {
-      "id": 72213,
-      "title": "Courageous",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hVRkbZRCoHtnfi0V9GFZ3uXjCNp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mTufDWFNNtm4hJzRQi5cxsO5Ar4.jpg",
-      "plot_overview": "Law enforcement officers Adam Mitchell, Nathan Hayes, and their partners stand up to the worst the streets have to offer with confidence and focus. Yet at the end of the day, they face a challenge that none of them are truly prepared to tackle: fatherhood. They know that God desires to turn the hearts of fathers to their children, but their children are beginning to drift further and further away from them. When tragedy hits home, these men are left wrestling with their hopes, their fears, their",
+      "id": 72340,
+      "title": "Little Women",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6qzMhtTyNwpaAthrAbojojfHWrs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hQAFYlWxwZntIo5LLJAMOxjN21y.jpg",
+      "plot_overview": "Set against the backdrop of the American Civil War, the story follows sisters Jo, Meg, Beth and Amy March on their journey from childhood to adulthood. With the help of their mother, Marmee, and while their father is away at war, the girls navigate what it means to be a young woman: from sibling rivalry and first love, to loss and marriage.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.127,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2011-09-30",
+      "release_date": "2017-12-26",
       "streaming_services": [
         {
           "service_id": 8,
           "service_name": "Netflix",
           "type": "sub",
           "region": "US"
-        }
-      ],
-      "tmdb_id": 72213
-    },
-    {
-      "id": 72277,
-      "title": "The Last Wave",
-      "type": "movie",
-      "year": 1977,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7UwdJ0EMXirUuNFaohfK023Nuyr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sPJmwvy9z5IpjdEXoYG6zxd7LO7.jpg",
-      "plot_overview": "A Sydney lawyer defends five Aboriginal Persons in a ritualised taboo murder and in the process learns disturbing truths about himself and premonitions.",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "user_rating": 6.692,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1977-12-15",
-      "streaming_services": [
+        },
         {
-          "service_id": 1899,
-          "service_name": "Max",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 72277
+      "tmdb_id": 72340
     },
     {
       "id": 72350,
@@ -134,6 +120,59 @@
       "tmdb_id": 72350
     },
     {
+      "id": 72462,
+      "title": "Free Rein",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/g3DccaRLKOiNPHnH88sxGIL943B.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nxin1UEwN0WqYQOmUwMaLnzmYY0.jpg",
+      "plot_overview": "A 15-year-old from LA spends the summer at her mom's childhood home on an island off the coast of England, where she bonds with a mysterious horse.",
+      "genres": [
+        "Family",
+        "Kids",
+        "Drama"
+      ],
+      "user_rating": 7.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-06-22",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 72462
+    },
+    {
+      "id": 72615,
+      "title": "Alias Grace",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/m6ChYjCPMpzAPzR7jm0omLbu9hS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/870FbfjWlt98dcSarTbYH0X0tje.jpg",
+      "plot_overview": "Based on the true story of Grace Marks, a housemaid and immigrant from Ireland who was imprisoned in 1843, perhaps wrongly, for the murder of her employer Thomas Kinnear. Grace claims to have no memory of the murder yet the facts are irrefutable. A decade after, Dr. Simon Jordan tries to help Grace recall her past.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.191,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-09-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 72615
+    },
+    {
       "id": 72640,
       "title": "The Old Mill",
       "type": "movie",
@@ -145,7 +184,7 @@
         "Animation",
         "Family"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.336,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1937-11-05",
@@ -173,7 +212,7 @@
         "Comedy",
         "Family"
       ],
-      "user_rating": 7.455,
+      "user_rating": 7.475,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-08-19",
@@ -200,7 +239,7 @@
         "Drama",
         "Action & Adventure"
       ],
-      "user_rating": 7.358,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-09-22",
@@ -215,6 +254,32 @@
       "tmdb_id": 72710
     },
     {
+      "id": 72743,
+      "title": "Burden of Truth",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2YLg5PQ27kgRp6uncqUhKHoXXUC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zH4PXZsKbC2bW0KOdjVJE6Jifmm.jpg",
+      "plot_overview": "A big city lawyer returns to her hometown to take the case of a group of girls suffering from a mysterious illness.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-01-10",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 72743
+    },
+    {
       "id": 72748,
       "title": "Strike",
       "type": "tv_series",
@@ -227,7 +292,7 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.169,
+      "user_rating": 7.179,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-08-27",
@@ -253,21 +318,21 @@
         "Crime",
         "Drama"
       ],
-      "user_rating": 7.932,
+      "user_rating": 7.901,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-04-08",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
           "region": "US"
         },
         {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -286,7 +351,7 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.257,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-09-25",
@@ -301,35 +366,6 @@
       "tmdb_id": 72755
     },
     {
-      "id": 72784,
-      "title": "The Loft",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/msHg4MRKZBcGwIakhMEaYRSdYag.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eIMYBhrdOYXZrIbnpiVKUQANCJF.jpg",
-      "plot_overview": "For five men, the opportunity to share a penthouse in the city -- in which to carry on extramarital affairs -- is a dream come true, until the dead body of an unknown woman turns up. Realizing that her killer must be one of their group, the men are gripped by paranoia as each one suspects another. Friendships are tested, loyalties are questioned, and marriages crumble while fear and suspicion run rampant.",
-      "genres": [],
-      "user_rating": 6.4,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-10-14",
-      "streaming_services": [
-        {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 72784
-    },
-    {
       "id": 72844,
       "title": "The Haunting of Hill House",
       "type": "tv_series",
@@ -341,7 +377,7 @@
         "Mystery",
         "Drama"
       ],
-      "user_rating": 8.113,
+      "user_rating": 8.096,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-10-12",

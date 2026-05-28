@@ -1,35 +1,57 @@
 {
   "range": "206001-207000",
-  "updated_at": 1765648026553,
+  "updated_at": 1780003048333,
   "shows": [
     {
-      "id": 206559,
-      "title": "Binnelanders",
+      "id": 206246,
+      "title": "Trainwreck: Woodstock '99",
       "type": "tv_series",
-      "year": 2005,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-      "plot_overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hFWNQTiJ2VXfZeKrsykem0o9nWc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sa3ifUfXaoMxas7240Jwn3S3plx.jpg",
+      "plot_overview": "Woodstock 1969 promised peace and music, but its '99 revival delivered days of rage, riots and real harm. Why did it go so horribly wrong?",
       "genres": [
-        "drama"
+        "Documentary"
       ],
-      "user_rating": 5.571,
+      "user_rating": 7.325,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2005-10-13",
+      "release_date": "2022-08-03",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Coming Soon",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 206559,
-      "relevance_score": 34.6501
+      "tmdb_id": 206246
+    },
+    {
+      "id": 206828,
+      "title": "DTF St. Louis",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8mO4cYZI1X8sanR4u6f07FiQ8dC.jpg",
+      "plot_overview": "A love triangle among three adults experiencing middle-age malaise leads to one of them ending up dead.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.696,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-03-01",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 206828
     }
   ]
 }

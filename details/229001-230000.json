@@ -1,32 +1,7 @@
 {
   "range": "229001-230000",
-  "updated_at": 1766207314844,
+  "updated_at": 1780003048337,
   "shows": [
-    {
-      "id": 229296,
-      "title": "Justin Bieber's Believe",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/WxwzHNSumoYLP15QppvomGJJYr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/z2JC9jdfoiJc9b7ppg9wnQX2Y1e.jpg",
-      "plot_overview": "A backstage and on-stage look at Justin Bieber during his rise to super stardom.",
-      "genres": [
-        "Documentary"
-      ],
-      "user_rating": 7.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2013-12-19",
-      "streaming_services": [
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 229296
-    },
     {
       "id": 229711,
       "title": "The Bondsman",
@@ -40,19 +15,52 @@
         "Sci-Fi & Fantasy",
         "Comedy"
       ],
-      "user_rating": 7.277,
+      "user_rating": 7.245,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-04-03",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 229711
+    },
+    {
+      "id": 229926,
+      "title": "Suicide Squad Isekai",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/v6RfEUoDrB5iAZXmJ6ZT9tUs3ZX.jpg",
+      "plot_overview": "In the crime-ridden city of Gotham, Amanda Waller, the head of A.R.G.U.S., assembles a group of notorious criminals\u2014Harley Quinn, Deadshot, Peacemaker, Clayface and King Shark\u2014for a mission into an otherworldly realm that's connected to this world through a gate. It's a realm of swords and magic where orcs rampage and dragons rule the skies. Can Harley Quinn and her crew conquer this perilous realm?",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.277,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-06-27",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 229926
     }
   ]
 }

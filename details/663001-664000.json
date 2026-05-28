@@ -1,6 +1,6 @@
 {
   "range": "663001-664000",
-  "updated_at": 1766207314900,
+  "updated_at": 1780002330997,
   "shows": [
     {
       "id": 663712,
@@ -20,6 +20,18 @@
           "service_id": 300,
           "service_name": "Pluto TV",
           "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],

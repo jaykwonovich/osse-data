@@ -1,6 +1,6 @@
 {
   "range": "43001-44000",
-  "updated_at": 1766207314806,
+  "updated_at": 1780003048299,
   "shows": [
     {
       "id": 43020,
@@ -21,82 +21,46 @@
       "release_date": "2012-05-27",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         },
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 43020
     },
     {
-      "id": 43082,
-      "title": "Key & Peele",
+      "id": 43078,
+      "title": "Miss Fisher's Murder Mysteries",
       "type": "tv_series",
       "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qxBLWVlKLj04LECpPNBn825ZPf7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mBgxHCH5jl6btlBQkxmf2DgnhpV.jpg",
-      "plot_overview": "Key & Peele is an American sketch comedy television show. It stars Keegan-Michael Key and Jordan Peele, both former cast members of MADtv. Each episode of the show consists of several pre-taped sketches starring the two actors, introduced by Key and Peele in front of a live studio audience.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/AeHJVpoWWKtCyFIZ6LbLkAR52vz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hX3IxzUc6EUh0PG1mCpCfnuK7ul.jpg",
+      "plot_overview": "Our lady sleuth sashays through the back lanes and jazz clubs of late 1920\u2019s Melbourne, fighting injustice with her pearl handled pistol and her dagger sharp wit. Leaving a trail of admirers in her wake, our thoroughly modern heroine makes sure she enjoys every moment of her lucky life. Based on author Kerry Greenwood's Phryne Fisher Murder Mystery novels.",
       "genres": [
-        "Comedy"
-      ],
-      "user_rating": 7.618,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2012-01-31",
-      "streaming_services": [
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 43082
-    },
-    {
-      "id": 43347,
-      "title": "Love & Other Drugs",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fGBJEfGjHmhg7nLAT0Jkcv9qV5e.jpg",
-      "plot_overview": "Maggie is an alluring free spirit who won't let anyone \u2013 or anything \u2013 tie her down. But she meets her match in Jamie, whose relentless and nearly infallible charm serves him well with the ladies and the cutthroat world of pharmaceutical sales. Maggie and Jamie's evolving relationship takes them both by surprise, as they find themselves under the influence of the ultimate drug: love.",
-      "genres": [
+        "Crime",
         "Drama",
-        "Comedy"
+        "Mystery"
       ],
-      "user_rating": 7.038,
+      "user_rating": 7.657,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2010-11-22",
+      "release_date": "2012-02-24",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 43347
+      "tmdb_id": 43078
     },
     {
       "id": 43461,
@@ -110,15 +74,15 @@
         "Crime",
         "Drama"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.308,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1947-01-30",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -152,69 +116,36 @@
       "tmdb_id": 43775
     },
     {
-      "id": 43901,
-      "title": "Longmire",
+      "id": 43899,
+      "title": "The Bible",
       "type": "tv_series",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nh3n0jQeS0FgWH84kzyc8q5yLEp.jpg",
-      "plot_overview": "A Wyoming sheriff rebuilds his life and career following the death of his wife. Based on the \u201cWalt Longmire\u201d series of mystery novels written by best-selling author Craig Johnson.",
-      "genres": [
-        "Western",
-        "Crime",
-        "Drama"
-      ],
-      "user_rating": 7.7,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2012-06-03",
-      "streaming_services": [
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 43901
-    },
-    {
-      "id": 43920,
-      "title": "Dog Pound",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gp2ZbLAH1mlcGHoM1c8Bo2t13JI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7far1lb1wzsjtE9owzZji4YfqNU.jpg",
-      "plot_overview": "Three juvenile delinquents arrive at a correctional center and are put under the care of an experienced guard.",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cqGupIDrTHosdGTm5N0V4qMrZyf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aJ4asBNuiyLVhgpE267AbVBF1iV.jpg",
+      "plot_overview": "The story of God's creation of the Earth and the landmark events leading up to the Crucifixion of Jesus Christ.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.199,
+      "user_rating": 7.369,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2010-04-24",
+      "release_date": "2013-03-03",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 43920
+      "tmdb_id": 43899
     },
     {
       "id": 43982,
       "title": "Line of Duty",
       "type": "tv_series",
       "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ysGUKnnR1pGYIndjXWcjupGbWpS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/pBAp7VfKVQKQIiLRJHZSMGtyXAB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5ZLEFPayOJr3KhXPoAnLWdVQJem.jpg",
       "plot_overview": "A drama about the investigations of AC-12, a controversial police anticorruption unit.",
       "genres": [
@@ -222,33 +153,21 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 8.231,
+      "user_rating": 8.227,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-06-26",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         },
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],

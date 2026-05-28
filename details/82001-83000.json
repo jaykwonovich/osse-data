@@ -1,7 +1,60 @@
 {
   "range": "82001-83000",
-  "updated_at": 1766207314818,
+  "updated_at": 1780003048312,
   "shows": [
+    {
+      "id": 82001,
+      "title": "Roswell, New Mexico",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gU19YwCQXCoeQ3PcIPTOHwY5l7k.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uHX0qVAbl6ppIydOrqpvS6uqIa3.jpg",
+      "plot_overview": "After reluctantly returning to her tourist-trap hometown of Roswell, New Mexico, the daughter of undocumented immigrants discovers a shocking truth about her teenage crush who is now a police officer\u2014he\u2019s an alien who has kept his unearthly abilities hidden his entire life. She protects his secret as the two reconnect and begin to investigate his origins, but when a violent attack and long-standing government cover-up point to a greater alien presence on Earth, the politics of fear and hatred th",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "user_rating": 7.753,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-01-15",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 82001
+    },
+    {
+      "id": 82104,
+      "title": "The Order",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AtcZyZizpGhofYumo1JrjuIFkXv.jpg",
+      "plot_overview": "Out to avenge his mother's death, a college student pledges a secret order and lands in a war between werewolves and practitioners of dark magic.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.613,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-03-07",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 82104
+    },
     {
       "id": 82428,
       "title": "All American",
@@ -13,7 +66,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 8.152,
+      "user_rating": 8.1,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-10-10",
@@ -25,7 +78,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 82428
+      "tmdb_id": 82428,
+      "is_returning": true,
+      "next_season": 8,
+      "next_air_date": "2026-07-13",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 82452,
@@ -41,7 +99,7 @@
         "Family",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.768,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-02-22",
@@ -53,21 +111,54 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 82452
+      "tmdb_id": 82452,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-06-25",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 82456,
+      "title": "Hilda",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/giWufGBC7uxrmK9ZESdk9D1cyGm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/x5YFTfPDug6eF76vVuDnbaoNVQK.jpg",
+      "plot_overview": "Fearless, free-spirited Hilda finds new friends, adventure and magical creatures when she leaves her enchanted forest home and journeys to the city.",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Family",
+        "Action & Adventure"
+      ],
+      "user_rating": 8.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-09-21",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 82456
     },
     {
       "id": 82596,
       "title": "Emily in Paris",
       "type": "tv_series",
       "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qYGIf2QAhSIa5Xbf72QvLtte2e8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2p1qKfuUqvB1slMwNTjGYdWKS3K.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/c0bkO416OU7YGdOFktk45H8REgL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg",
       "plot_overview": "New passions. New fashions. New Emily? A plucky American marketing whiz spreads her wings in life and love after landing her dream job in Paris.",
       "genres": [
         "Drama",
         "Comedy"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.573,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-10-02",
@@ -79,45 +170,14 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 82596,
-      "is_returning": true,
-      "next_season": 5,
-      "next_air_date": "2025-12-18",
-      "next_episode": 1,
-      "relevance_score": 75
-    },
-    {
-      "id": 82650,
-      "title": "Diary of a Wimpy Kid: Dog Days",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zGtie23gOL8H6dJvXRNdmCtscRq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aHgB7hNyw84TdjVF2ek66VSGG3e.jpg",
-      "plot_overview": "It's summertime, and Greg Heffley is looking forward to playing video games and spending time with his friends. However, Greg's dad has other plans: He's decided that some father-son bonding time is in order. Desperate to prevent his dad from ruining summer vacation, Greg pretends he has a job at a ritzy country club. But Greg's plan backfires, leaving him in the middle of embarrassing mishaps and a camping trip gone wrong.",
-      "genres": [
-        "Comedy",
-        "Family"
-      ],
-      "user_rating": 6.34,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2012-08-02",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 82650
+      "tmdb_id": 82596
     },
     {
       "id": 82690,
       "title": "Wreck-It Ralph",
       "type": "movie",
       "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/fiHyt6UmG4yjcXFt9Cbpw6OedHh.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
       "plot_overview": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope ",
       "genres": [
@@ -125,7 +185,7 @@
         "Animation",
         "Comedy"
       ],
-      "user_rating": 7.353,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-11-01",
@@ -140,85 +200,6 @@
       "tmdb_id": 82690
     },
     {
-      "id": 82693,
-      "title": "Silver Linings Playbook",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nJuw7xhJ1tTz1PRlNSNVcrbYClQ.jpg",
-      "plot_overview": "After losing his job and wife, and spending time in an institution, a former teacher winds up living with his parents. He wants to rebuild his life and reconcile with his wife, but his father would be happy if he shared his obsession with the Philadelphia Eagles. Things get complicated when he meets Tiffany Maxwell who offers to help him reconnect with his wife if he will do something very important for her in exchange.",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "user_rating": 7.148,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2012-11-16",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 82693
-    },
-    {
-      "id": 82702,
-      "title": "How to Train Your Dragon 2",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5MnP0h7RcUCeX7gpxMYoMScmfq7.jpg",
-      "plot_overview": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider. Now, Hiccup and Toothless find themselves at the center of a battle to protect Berk from a power-hungry warrior.",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
-      ],
-      "user_rating": 7.676,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-06-05",
-      "streaming_services": [
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 82702
-    },
-    {
-      "id": 82703,
-      "title": "Mr. Peabody & Sherman",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wBgehvNJEl8DAmyHIHhD8Ul3W0q.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lt9F9yYNccC23JwviYOi9U644DZ.jpg",
-      "plot_overview": "A young boy and his dog, who happens to have a genius-level IQ, spring into action when their time-machine is stolen and moments in history begin to be changed.",
-      "genres": [
-        "Animation",
-        "Family"
-      ],
-      "user_rating": 6.714,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-02-07",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 82703
-    },
-    {
       "id": 82728,
       "title": "Bluey",
       "type": "tv_series",
@@ -228,9 +209,11 @@
       "plot_overview": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordinary adventures, developing her imagination as well as her mental, physical and emotional resilience.",
       "genres": [
         "Animation",
-        "Comedy"
+        "Comedy",
+        "Family",
+        "Kids"
       ],
-      "user_rating": 8.6,
+      "user_rating": 8.579,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-10-01",
@@ -245,6 +228,62 @@
       "tmdb_id": 82728
     },
     {
+      "id": 82744,
+      "title": "Catch-22",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1huTLz8UaEeOLJNwqMKCQs76Bl5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qiSaiNLEzx0lK3AC93aweYx7rFx.jpg",
+      "plot_overview": "Pianosa Island, Italy, World War II. Bombardier John Yossarian tries to fulfill his duty, maintain sanity and return home as soon as possible, but incompetence and bureaucracy constantly stand in his way.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "War & Politics"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-05-17",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 82744
+    },
+    {
+      "id": 82747,
+      "title": "Kung Fu Panda: The Paws of Destiny",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/x4yvmIVuXxYKfTlgRtSJnGC1Izs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fUhIeUfqPreLuEmgDuhb9LAdxHp.jpg",
+      "plot_overview": "As the Dragon Master, Po has endured his fair share of epic challenges but nothing could prepare him for his greatest one yet-as a Kung Fu teacher to a group of rambunctious kids from Panda Village who have been imbued with a mysterious and powerful chi energy. Together they embark on amazing adventures, battle ferocious villains, and become legends!",
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family",
+        "Action & Adventure",
+        "Comedy"
+      ],
+      "user_rating": 7.245,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-11-15",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 82747
+    },
+    {
       "id": 82782,
       "title": "The Righteous Gemstones",
       "type": "tv_series",
@@ -256,7 +295,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.387,
+      "user_rating": 7.427,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-08-18",
@@ -283,7 +322,7 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.104,
+      "user_rating": 7.135,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-08-16",
@@ -307,10 +346,9 @@
       "plot_overview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
       "genres": [
         "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Drama"
+        "Action & Adventure"
       ],
-      "user_rating": 8.416,
+      "user_rating": 8.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-11-12",
@@ -329,7 +367,7 @@
       "title": "Tangled Ever After",
       "type": "movie",
       "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ak5SCuJbdf8G4NbQ1KIUHjplrF1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5IeMW79OxftIUoR5duxyQ4LW5Iy.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6qvKbLYkfXXKM82M38UmDz3IfBk.jpg",
       "plot_overview": "The kingdom is in a festive mood as everyone gathers for the royal wedding of Rapunzel and Flynn. However, when Pascal and Maximus, as flower chameleon and ring bearer, respectively, lose the gold bands, a frenzied search and recovery mission gets underway. As the desperate duo tries to find the rings before anyone discovers that they\u2019re missing, they leave behind a trail of comical chaos that includes flying lanterns, a flock of doves, a wine barrel barricade and a very sticky finale. Will Maxi",
       "genres": [
@@ -337,7 +375,7 @@
         "Comedy",
         "Family"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.14,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-01-13",
@@ -350,6 +388,32 @@
         }
       ],
       "tmdb_id": 82881
+    },
+    {
+      "id": 82883,
+      "title": "The Act",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1yhQGQH7pfKdIY2xJSYNdp8ReD6.jpg",
+      "plot_overview": "Gypsy Blanchard struggles to deal with the toxic relationship with her overprotective mother, but her attempts to free herself lead to murder.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.564,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-03-20",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 82883
     }
   ]
 }

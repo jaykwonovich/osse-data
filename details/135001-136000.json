@@ -1,56 +1,56 @@
 {
   "range": "135001-136000",
-  "updated_at": 1766207314832,
+  "updated_at": 1780003048327,
   "shows": [
     {
-      "id": 135397,
-      "title": "Jurassic World",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
-      "plot_overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-      "genres": [],
-      "user_rating": 6.699,
+      "id": 135204,
+      "title": "Winter House",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eWLFGt5mdG4ZLqzoYtvChpEnJgb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1RVbRNKws7IzNeTnmDvunxdlhA9.jpg",
+      "plot_overview": "Embark on the ultimate winter getaway with some of Bravo\u2019s beloved Summer House and Southern Charm cast members and their friends during a two-week vacation in Stowe, Vermont. Reach new peaks when this rowdy crew kicks off an epic experience filled with hot tub hookups and snowy shenanigans.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 8.8,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2015-06-06",
+      "release_date": "2021-10-20",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 365,
+          "service_name": "MGM+",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 135397
+      "tmdb_id": 135204
     },
     {
-      "id": 135615,
-      "title": "American Born Chinese",
+      "id": 135250,
+      "title": "Mike",
       "type": "tv_series",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cwTYt6DKuMY6RSmQ269fpYH9ELN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/n5StTpznGP2zuagcZlQ3qUWZsrX.jpg",
-      "plot_overview": "Average teenager Jin Wang juggles his high school social life with his immigrant home life. When he meets a new foreign student on the first day of the school year, even more worlds collide as Jin is unwittingly entangled in a battle of Chinese mythological gods.",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iwoFJilBbno4MKfwiHWbUl2BZBp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3MCHc74eGFBcE507jKQez6xMpFH.jpg",
+      "plot_overview": "Explore the wild, tragic and controversial life and career of heavyweight champion Mike Tyson - one of the most polarizing figures in sports culture.",
       "genres": [
-        "Comedy",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Drama"
       ],
-      "user_rating": 6.6,
+      "user_rating": 7.481,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2023-05-24",
+      "release_date": "2022-08-25",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 135615
+      "tmdb_id": 135250
     },
     {
       "id": 135934,
@@ -64,7 +64,7 @@
         "Animation",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.193,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-01-27",
@@ -76,7 +76,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 135934
+      "tmdb_id": 135934,
+      "is_returning": true,
+      "next_season": 4,
+      "next_air_date": "2026-06-03",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

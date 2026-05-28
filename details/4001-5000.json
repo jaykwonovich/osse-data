@@ -1,7 +1,33 @@
 {
   "range": "4001-5000",
-  "updated_at": 1766207314782,
+  "updated_at": 1780003048283,
   "shows": [
+    {
+      "id": 4032,
+      "title": "My Girl",
+      "type": "movie",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qyJJNHteA7BUwQSey05t7qP4vRV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vSd89kiENYeFa6mPHzsM5BgliPm.jpg",
+      "plot_overview": "Vada Sultenfuss is obsessed with death. Her mother is dead, and her father runs a funeral parlor. She is also in love with her English teacher, and joins a poetry class over the summer just to impress him. Thomas J., her best friend, is \"allergic to everything\", and sticks with Vada despite her hangups. When Vada's father hires Shelly, and begins to fall for her, things take a turn to the worse...",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.414,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1991-11-27",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 4032
+    },
     {
       "id": 4046,
       "title": "Spooks",
@@ -21,27 +47,15 @@
       "release_date": "2002-05-13",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         },
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -53,22 +67,28 @@
       "type": "tv_series",
       "year": 2005,
       "poster_url": "https://image.tmdb.org/t/p/w342/gigxjNnACiXAfrwoMox5WJFgc0I.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/65Y6PweSvQ1OOFBzStybjipURRP.jpg",
       "plot_overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
       "genres": [
         "Crime",
         "Drama",
         "Mystery"
       ],
-      "user_rating": 8.303,
+      "user_rating": 8.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2005-09-22",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -86,15 +106,15 @@
         "War & Politics",
         "Comedy"
       ],
-      "user_rating": 7.528,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1965-09-17",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -113,7 +133,7 @@
         "Sci-Fi & Fantasy",
         "Crime"
       ],
-      "user_rating": 8.4,
+      "user_rating": 8.372,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1993-09-10",
@@ -128,32 +148,6 @@
       "tmdb_id": 4087
     },
     {
-      "id": 4104,
-      "title": "Benny & Joon",
-      "type": "movie",
-      "year": 1993,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7g7qYdUN9wDXJGIOj6U67RPIBHO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2TkuCpt75P5CyRgW1606dkY4JwM.jpg",
-      "plot_overview": "A mentally ill young woman finds her love in an eccentric man who models himself after Buster Keaton.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "user_rating": 7.023,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1993-04-16",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4104
-    },
-    {
       "id": 4177,
       "title": "Perry Mason",
       "type": "tv_series",
@@ -166,47 +160,10 @@
         "Drama",
         "Crime"
       ],
-      "user_rating": 7.708,
+      "user_rating": 7.706,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1957-09-21",
-      "streaming_services": [
-        {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4177
-    },
-    {
-      "id": 4192,
-      "title": "Death on the Nile",
-      "type": "movie",
-      "year": 1978,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7qEymSp6wCT19AJxb7T3u6aKpi1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/esdhJI8DcJuRJooQ7pAtK2ekNqE.jpg",
-      "plot_overview": "As Hercule Poirot enjoys a luxurious cruise down the Nile, a newlywed heiress is found murdered on board and every elegant passenger becomes a prime suspect.",
-      "genres": [
-        "Mystery"
-      ],
-      "user_rating": 7.1,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1978-09-29",
       "streaming_services": [
         {
           "service_id": 9,
@@ -215,7 +172,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 4192
+      "tmdb_id": 4177
     },
     {
       "id": 4194,
@@ -230,7 +187,7 @@
         "Sci-Fi & Fantasy",
         "Animation"
       ],
-      "user_rating": 8.461,
+      "user_rating": 8.468,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2008-10-03",
@@ -280,105 +237,19 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.717,
+      "user_rating": 7.729,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1987-04-05",
       "streaming_services": [
         {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 4239
-    },
-    {
-      "id": 4241,
-      "title": "8 Simple Rules",
-      "type": "tv_series",
-      "year": 2002,
-      "poster_url": "https://image.tmdb.org/t/p/w342/81bJijYZedZ4TSm34rYmW9gEDvN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7o3zJuoRP1paXSPzKwkbm5Dhwfh.jpg",
-      "plot_overview": "Paul and Cate are raising their three children -- Bridget, Kerry and Rory -- which is no easy task. Oldest daughter Bridget is traversing the dating scene. Kerry is cute and smart, but she has a hard time getting in touch with her true feelings because of her lack of self-confidence. The youngest of the three children, and only boy, Rory is beginning to discover one of life's greatest mysteries -- girls.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "user_rating": 6.819,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2002-09-17",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4241
-    },
-    {
-      "id": 4244,
-      "title": "The Kid",
-      "type": "movie",
-      "year": 2000,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kMRZhiF08nDiO5aRb81Np5a4d6p.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jEMYEoQw7jF0aoKRgaa1TbHojUT.jpg",
-      "plot_overview": "Powerful businessman Russ Duritz is self-absorbed and immersed in his work. But by the magic of the moon, he meets Rusty, a chubby, charming 8-year-old version of himself who can't believe he could turn out so badly \u2013 with no life and no dog. With Rusty's help, Russ is able to reconcile the person he used to dream of being with the man he's actually become.",
-      "genres": [
-        "Comedy",
-        "Family"
-      ],
-      "user_rating": 6.748,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2000-07-07",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4244
-    },
-    {
-      "id": 4269,
-      "title": "The Transformers",
-      "type": "tv_series",
-      "year": 1984,
-      "poster_url": "https://image.tmdb.org/t/p/w342/h4DvodvcLWh7xdpj872Bq0V2DKS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1XpTPpBDqMrP1USdJIiH2oBd7UU.jpg",
-      "plot_overview": "The Transformers is the first animated television series in the Transformers franchise. The series depicts a war among giant robots that can transform into vehicles and other objects.",
-      "genres": [
-        "Animation",
-        "Kids",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "user_rating": 7.8,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1984-10-06",
-      "streaming_services": [
-        {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4269
     },
     {
       "id": 4271,
@@ -393,27 +264,21 @@
         "Action & Adventure",
         "Drama"
       ],
-      "user_rating": 7.866,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1999-03-19",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         },
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -445,6 +310,31 @@
       "tmdb_id": 4278
     },
     {
+      "id": 4292,
+      "title": "Bottom",
+      "type": "tv_series",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bOrajiWj3Rax8KZ4ZZWcw2KpJD6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hS2xAK3X1oWiaA8OX5Bow2SF6KN.jpg",
+      "plot_overview": "Richie Richard (socially awkward, sexually inexperienced) and Eddie Hitler (carefree alcoholic ) are two social outcasts living on the dole. Trapped together in a squalid flat in Hammersmith, London they are perpetually skint, bored and sexually frustrated. They spend their days scheming, bickering, and being nasty and sadistic to each other.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.912,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1991-09-17",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 4292
+    },
+    {
       "id": 4303,
       "title": "Superman: The Animated Series",
       "type": "tv_series",
@@ -458,7 +348,7 @@
         "Sci-Fi & Fantasy",
         "Kids"
       ],
-      "user_rating": 7.636,
+      "user_rating": 7.651,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1996-09-06",
@@ -484,7 +374,7 @@
         "Comedy",
         "Family"
       ],
-      "user_rating": 7.556,
+      "user_rating": 7.541,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1987-09-22",
@@ -499,75 +389,31 @@
       "tmdb_id": 4313
     },
     {
-      "id": 4324,
-      "title": "Dr. Quinn, Medicine Woman",
-      "type": "tv_series",
-      "year": 1993,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rF32uo83bzezkEUQ8VGarbCJi32.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tXJf6radpACrCQPYIU0ARFsVV7z.jpg",
-      "plot_overview": "Dr. Michaela Quinn journeys to Colorado Springs to be the town's physician after her father's death in 1868.",
-      "genres": [
-        "Western",
-        "Drama"
-      ],
-      "user_rating": 7.607,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1993-01-01",
-      "streaming_services": [
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4324
-    },
-    {
       "id": 4327,
       "title": "Mr. Bean",
       "type": "tv_series",
       "year": 1990,
       "poster_url": "https://image.tmdb.org/t/p/w342/pUNQV35kDaKuejnXGNiUeEBurNE.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3ILUdTEetxZZ8RkPxf5e0H9pCcP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lHSLW9lihnuRMs1yYarmMJX4phK.jpg",
       "plot_overview": "Mr Bean turns simple everyday tasks into chaotic situations and will leave you in stitches as he creates havoc wherever he goes.",
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.969,
+      "user_rating": 7.988,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1990-01-01",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
           "region": "US"
         },
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -587,108 +433,42 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.361,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1962-10-04",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 4333
     },
     {
-      "id": 4336,
-      "title": "Drawn Together",
+      "id": 4344,
+      "title": "Rescue Me",
       "type": "tv_series",
       "year": 2004,
-      "poster_url": "https://image.tmdb.org/t/p/w342/12gxxU70l3Ng7WlllpA7QmeqTQF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vmfWHWnLfy6aT2caIgeSapYX8Aq.jpg",
-      "plot_overview": "The world's first animated reality series gathers icons from all corners of the cartoon universe and lets them loose, with plenty of cameras to catch their exploits. Here's what happens when eight cartoon characters stop being polite and start getting real.",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Reality"
-      ],
-      "user_rating": 8.191,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2004-10-27",
-      "streaming_services": [
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4336
-    },
-    {
-      "id": 4348,
-      "title": "Pride & Prejudice",
-      "type": "movie",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/v5gShop7147X33ytbcC2u05KDuc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/x4OYcZVHggyZHOrvkCo2HH9kLkF.jpg",
-      "plot_overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gnOwOb82chSJkQEZ9pd6jf2ZrEX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bmPIJET1BbQqvUEYSfjdz0BxGRR.jpg",
+      "plot_overview": "The aftermath of 9/11 has left the firefighters of the NYFD traumatized, and no one more so than Tommy Gavin. Recently separated from his wife and their three kids, Tommy drifts between sorrow and anger as he tries to shake the recurring nightmares of his fallen comrades, especially his late cousin, Jimmy Keefe. Working alongside veterans like Lt. \u201cLou\u201d Shea, Franco Rivera and Sean Garrity, and rookie Mike Lombardi, Tommy battles alcohol and drugs as he struggles to remain first and foremost a N",
       "genres": [
         "Drama"
       ],
-      "user_rating": 8.1,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2005-09-16",
+      "release_date": "2004-07-21",
       "streaming_services": [
         {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
           "region": "US"
-        }
-      ],
-      "tmdb_id": 4348
-    },
-    {
-      "id": 4351,
-      "title": "Bordertown",
-      "type": "movie",
-      "year": 2007,
-      "poster_url": "https://image.tmdb.org/t/p/w342/c0AR36VzvB5ileCoMfSlV9bFsVn.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fUdxWZPjTy7ghxp0wZVBfCvWhzV.jpg",
-      "plot_overview": "American corporations are using the North American Free Trade Agreement by opening large maquiladoras right across the United States\u2013Mexico border. The maquiladoras hire mostly Mexican women to work long hours for little money in order to produce mass quantity products. Lauren Adrian, an impassioned American news reporter for the Chicago Sentinel wants to be assigned to the Iraq front-lines to cover the war. Instead, her editor George Morgan assigns her to investigate a series of slayings involv",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "user_rating": 6.3,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2007-02-22",
-      "streaming_services": [
+        },
         {
           "service_id": 15,
           "service_name": "Hulu",
@@ -696,34 +476,32 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 4351
+      "tmdb_id": 4344
     },
     {
-      "id": 4357,
-      "title": "Mission: Impossible",
-      "type": "tv_series",
-      "year": 1966,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1PnUBKbDR1F2w5qicblLg1QGTif.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/com4DoP6rNkf1fs5KiuLPCRVK6V.jpg",
-      "plot_overview": "Mission: Impossible is an American television series that was created and initially produced by Bruce Geller. It chronicles the missions of a team of secret government agents known as the Impossible Missions Force. In the first season, the team is led by Dan Briggs, played by Steven Hill; Jim Phelps, played by Peter Graves, takes charge for the remaining seasons. A hallmark of the series shows Briggs or Phelps receiving his instructions on a recording that then self-destructs, followed by the th",
+      "id": 4347,
+      "title": "Atonement",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/prH7Lmo7V9GuMbhCaDCSa6kvZvs.jpg",
+      "plot_overview": "A young girl irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.",
       "genres": [
-        "Action & Adventure",
-        "Crime",
         "Drama"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.635,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1966-09-17",
+      "release_date": "2007-02-27",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 4357
+      "tmdb_id": 4347
     },
     {
       "id": 4376,
@@ -738,120 +516,10 @@
         "Action & Adventure",
         "Crime"
       ],
-      "user_rating": 7.307,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1995-09-23",
-      "streaming_services": [
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4376
-    },
-    {
-      "id": 4379,
-      "title": "Monster-in-Law",
-      "type": "movie",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iRqcGkIPdRbEaW0xMEA5kgceUF8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cY6sIO2sKfu8KjGq80ULl1sVcPV.jpg",
-      "plot_overview": "Office temp Charlotte Cantilini thinks she's found Mr. Right when she starts dating gorgeous surgeon Dr. Kevin Fields. But there's a problem standing in the way of everlasting bliss: Kevin's overbearing and controlling mother, Viola. Fearing she'll lose her son's affections forever, Viola decides to break up the happy couple by becoming the world's worst mother-in-law.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 6.2,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2005-05-13",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4379
-    },
-    {
-      "id": 4386,
-      "title": "Baywatch",
-      "type": "tv_series",
-      "year": 1989,
-      "poster_url": "https://image.tmdb.org/t/p/w342/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vrH6fiKBR1OvRmu4EcLSNtIEYsU.jpg",
-      "plot_overview": "Join the Baywatch lifeguards on their thrilling adventures filled with beautiful beaches and those iconic red swimsuits.",
-      "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Crime"
-      ],
-      "user_rating": 5.956,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1989-04-23",
-      "streaming_services": [
-        {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4386
-    },
-    {
-      "id": 4392,
-      "title": "Big Love",
-      "type": "tv_series",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fJ6VOFyGh7CDJogPEh6I38rC3vX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gEqlce8JAJGUGwSdhZsKSJFFiP6.jpg",
-      "plot_overview": "The story of Bill Henrickson and his life in suburban Salt Lake City, balancing the needs of his three wives -- Barb, Nicki and Margene-- their seven kids, three new houses and the opening of his newest hardware store. When disturbing news arrives about Bill's father, he is forced to reconnect with his polygamist parents who live on a fundamentalist compound in rural Utah.",
-      "genres": [
-        "Drama"
-      ],
-      "user_rating": 6.881,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2006-03-12",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4392
-    },
-    {
-      "id": 4396,
-      "title": "Northern Exposure",
-      "type": "tv_series",
-      "year": 1990,
-      "poster_url": "https://image.tmdb.org/t/p/w342/BUSw61C2kNoMuKFQTamIgqMC5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fi2vspZ6xuHZF1kU8wVXmYzYCMi.jpg",
-      "plot_overview": "After receiving a scholarship from the state, a recent Columbia University medical school graduate is required to set up his practice in an eccentric Alaskan town.",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "user_rating": 7.863,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1990-07-12",
       "streaming_services": [
         {
           "service_id": 9,
@@ -860,14 +528,14 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 4396
+      "tmdb_id": 4376
     },
     {
       "id": 4414,
       "title": "Highlander: The Series",
       "type": "tv_series",
       "year": 1992,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rlJzuTbdMAa6jOdpKxxTx8KVN88.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/rpeEOxxgfw5Ds54jWcNtkb9KvSh.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6GzNuxHWvaEzNNVZ5xI0LsqxFCl.jpg",
       "plot_overview": "Duncan MacLeod cannot die -- he is a 400-year-old immortal, who has seen his share of humanity's history. Still, he risks his life in battle against other immortals and tries to save people from harm.",
       "genres": [
@@ -875,68 +543,25 @@
         "Drama",
         "Action & Adventure"
       ],
-      "user_rating": 7.362,
+      "user_rating": 7.377,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1992-10-03",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         },
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4414
-    },
-    {
-      "id": 4419,
-      "title": "Real Time with Bill Maher",
-      "type": "tv_series",
-      "year": 2003,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/njEGYHyq58q94ZPJlSGs6bGrepv.jpg",
-      "plot_overview": "Each week Bill Maher surrounds himself with a panel of guests which include politicians, actors, comedians, musicians and the like to discuss what's going on in the world.",
-      "genres": [
-        "Comedy",
-        "Talk"
-      ],
-      "user_rating": 6.041,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2003-02-21",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 4419,
-      "is_returning": true,
-      "next_season": 24,
-      "next_air_date": "2026-01-23",
-      "next_episode": 1,
-      "relevance_score": 75
+      "tmdb_id": 4414
     },
     {
       "id": 4429,
@@ -944,7 +569,7 @@
       "type": "tv_series",
       "year": 1995,
       "poster_url": "https://image.tmdb.org/t/p/w342/sn9PTOwI6ktLHZcysCrP8cqOw1b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/px5mLaDKXmRAp9MxVGaXswmzDyh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jhYHS82bDnYw3Ol25nu8bKMlDED.jpg",
       "plot_overview": "Set after the events of the \"The Lion King,\" follow Timon and Pumbaa as they go on misadventures in the jungle, as well as across the globe in various.",
       "genres": [
         "Animation",
@@ -952,7 +577,7 @@
         "Kids",
         "Family"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.241,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1995-09-08",
@@ -977,14 +602,14 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.117,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2006-05-25",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -992,44 +617,18 @@
       "tmdb_id": 4441
     },
     {
-      "id": 4454,
-      "title": "Will & Grace",
-      "type": "tv_series",
-      "year": 1998,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kTkWxh0e4Lzmn19KWQxzMdKE4NC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pIPMPMEZErCxTvQG9HDt4AsnAfn.jpg",
-      "plot_overview": "Will Truman and Grace Adler are best friends living in New York, and when Grace's engagement falls apart, she moves in with Will. Together, along with their friends, they go through the trials of dating, sex, relationships and their careers, butting heads at times but ultimately supporting one another while exchanging plenty of witty banter along the way.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 6.843,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1998-09-21",
-      "streaming_services": [
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4454
-    },
-    {
       "id": 4459,
       "title": "The Muppet Show",
       "type": "tv_series",
       "year": 1976,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6UNPGS6RCmChcZO0ehouZRFiVRs.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/x1aZsosXqaCpZTI12lLpNYIj6HX.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9UyPl2zR9dckpnmBWP6Xz4E6P3G.jpg",
       "plot_overview": "Go behind the curtains as Kermit the Frog and his muppet friends struggle to put on a weekly variety show.",
       "genres": [
-        "Kids",
         "Comedy",
         "Family"
       ],
-      "user_rating": 8.012,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1976-09-05",
@@ -1056,70 +655,19 @@
         "Drama",
         "Crime"
       ],
-      "user_rating": 8.081,
+      "user_rating": 8.098,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1993-01-31",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 4464
-    },
-    {
-      "id": 4475,
-      "title": "The Private Lives of Pippa Lee",
-      "type": "movie",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/eHN6AaAcks2c8HTVaQzJKSJLp7h.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ayEMwa3URnwQEG7LXhzRBHkfOGA.jpg",
-      "plot_overview": "After her much older husband forces a move to a suburban retirement community, Pippa Lee engages in a period of reflection and finds herself heading toward a quiet nervous breakdown.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "user_rating": 5.857,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2009-07-07",
-      "streaming_services": [
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4475
-    },
-    {
-      "id": 4477,
-      "title": "Becker",
-      "type": "tv_series",
-      "year": 1998,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hno1hP545G5xS1l4mLBXaY7NIqn.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wdQ9nON4M93VDwkwcPAkuVLS2yM.jpg",
-      "plot_overview": "Becker is a dedicated, outspoken and talented doctor with a gruff exterior. While he tends to offend those who try to get close to him, he is extremely dedicated to his medical practice in the Bronx, N.Y., where he always goes the extra mile to help those in need. But Dr. John Becker looks at the world around him and sees a society gone mad, full of incongruities and just plain wrong thinking. And he has no qualms about saying anything that comes to mind \u2013 anything.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 7.111,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1998-11-02",
-      "streaming_services": [
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4477
     },
     {
       "id": 4482,
@@ -1127,7 +675,7 @@
       "type": "tv_series",
       "year": 1964,
       "poster_url": "https://image.tmdb.org/t/p/w342/7UZVO1SclbgVWM2ELrwWGaS7i94.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yMYSrL0YI5hgDnBlEBRlKRI1Hsw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rFJUwDiZeSDWUR04nb3w62RqXK9.jpg",
       "plot_overview": "Samantha Stephens is a seemingly normal suburban housewife who also happens to be a genuine witch, with all the requisite magical powers. Her husband Darrin insists that Samantha keep her witchcraft under wraps, but situations invariably require her to indulge her powers while keeping her bothersome mother Endora at bay.",
       "genres": [
         "Sci-Fi & Fantasy",
@@ -1135,15 +683,15 @@
         "Family",
         "Drama"
       ],
-      "user_rating": 7.864,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1964-09-17",
       "streaming_services": [
         {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -1160,11 +708,17 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.523,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1992-11-12",
       "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",
@@ -1187,7 +741,7 @@
         "Drama",
         "Family"
       ],
-      "user_rating": 8.3,
+      "user_rating": 8.338,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1988-01-31",
@@ -1212,7 +766,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 8.028,
+      "user_rating": 8.1,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2005-05-19",
@@ -1227,69 +781,17 @@
       "tmdb_id": 4507
     },
     {
-      "id": 4523,
-      "title": "Enchanted",
-      "type": "movie",
-      "year": 2007,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8KCNzCArLlvLdQoHx6npua2VSVc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dOeaWGpouIaONuhRKOj2SrTEWe7.jpg",
-      "plot_overview": "The beautiful princess Giselle is banished by an evil queen from her magical, musical animated land and finds herself in the gritty reality of the streets of modern-day Manhattan. Shocked by this strange new environment that doesn't operate on a \"happily ever after\" basis, Giselle is now adrift in a chaotic world badly in need of enchantment. But when Giselle begins to fall in love with a charmingly flawed divorce lawyer who has come to her aid - even though she is already promised to a perfect ",
-      "genres": [
-        "Comedy",
-        "Family"
-      ],
-      "user_rating": 6.842,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2007-11-20",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4523
-    },
-    {
-      "id": 4538,
-      "title": "The Darjeeling Limited",
-      "type": "movie",
-      "year": 2007,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hKJ513GbmTSmTXJU1uCXclh5Wkh.jpg",
-      "plot_overview": "Three American brothers who have not spoken to each other in a year set off on a train voyage across India with a plan to find themselves and bond with each other -- to become brothers again like they used to be. Their \"spiritual quest\", however, veers rapidly off-course (due to events involving over-the-counter pain killers, Indian cough syrup, and pepper spray).",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "user_rating": 7.154,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2007-09-07",
-      "streaming_services": [
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4538
-    },
-    {
       "id": 4546,
       "title": "Curb Your Enthusiasm",
       "type": "tv_series",
       "year": 2000,
       "poster_url": "https://image.tmdb.org/t/p/w342/mZqWmSq1M61Jlre3furVDSXvdrN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/t97VtC5qvra5GThnNBCXHJFnmXg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eNSIkGIYqXVFNmT85P4X7BsXkYI.jpg",
       "plot_overview": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
       "genres": [
         "Comedy"
       ],
-      "user_rating": 8.036,
+      "user_rating": 8.033,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2000-10-15",
@@ -1308,13 +810,13 @@
       "title": "Scrubs",
       "type": "tv_series",
       "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/u1z05trCA7AuSuDhi365grwdos1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/z6fUdAWIqSenjIYsPmRltaGHcTq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rRKTV46DKVP8AfdCQDyQMAtJeCl.jpg",
       "plot_overview": "In the unreal world of Sacred Heart Hospital, John \"J.D.\" Dorian learns the ways of medicine, friendship and life.",
       "genres": [
         "Comedy"
       ],
-      "user_rating": 8.004,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2001-10-02",
@@ -1342,7 +844,7 @@
         "Animation",
         "Action & Adventure"
       ],
-      "user_rating": 8.161,
+      "user_rating": 8.167,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1992-10-31",
@@ -1361,7 +863,7 @@
       "title": "Lizzie McGuire",
       "type": "tv_series",
       "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3WiL6yy2R0A9Io2hkodoPTBMS7o.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1ZOelP1XNP8eCwkhJvwRyVU9Ymd.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9TDtNdKwwJKAbddufpFlfUgBiCl.jpg",
       "plot_overview": "Lizzie McGuire is all about the ordinary and not-so-ordinary adventures of a junior high student and her two best friends as they try to deal with the ups and downs of school, popularity, boys, parents, a bratty little brother--just life in general. And if Lizzie leaves anything unsaid, you can bet that her cartoon alter ego will say it for her!",
       "genres": [
@@ -1369,7 +871,7 @@
         "Kids",
         "Family"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.192,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2001-01-12",
@@ -1395,7 +897,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.905,
+      "user_rating": 7.898,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2000-10-05",
@@ -1426,7 +928,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.82,
+      "user_rating": 7.833,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1994-09-19",
@@ -1457,7 +959,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.935,
+      "user_rating": 7.93,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2003-11-02",
@@ -1476,14 +978,14 @@
       "title": "Boston Legal",
       "type": "tv_series",
       "year": 2004,
-      "poster_url": "https://image.tmdb.org/t/p/w342/eQyJoKFGUTlytx9f2zNjqmMOR82.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/b0bXUCfpcsgQ6EVVmucU2G76ixT.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ojEmDThITGk9IsE32uxCWCA0kH5.jpg",
       "plot_overview": "Alan Shore and Denny Crane lead a brigade of high-priced civil litigators in an upscale Boston law firm in a series focusing on the professional and personal lives of brilliant but often emotionally challenged attorneys. A spin-off of long-running series The Practice.",
       "genres": [
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.904,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2004-10-03",
@@ -1498,39 +1000,6 @@
       "tmdb_id": 4598
     },
     {
-      "id": 4600,
-      "title": "Robin Hood",
-      "type": "tv_series",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wz0CSuIiUpvHtpbPxVhMQWKtLTG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9Xg1HLQsCteuHTKvUrtqnsKXkN4.jpg",
-      "plot_overview": "An updated series following the life of Robin Hood and his Merry Men in Sherwood forest. Together they steal from the rich and give to the poor - all the while avoiding their enemies Sir Guy of Gisborne and the Sheriff of Nottingham.",
-      "genres": [
-        "Drama",
-        "Action & Adventure",
-        "Comedy"
-      ],
-      "user_rating": 6.8,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2006-10-07",
-      "streaming_services": [
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4600
-    },
-    {
       "id": 4601,
       "title": "Law & Order: Criminal Intent",
       "type": "tv_series",
@@ -1541,7 +1010,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.602,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2001-09-30",
@@ -1560,14 +1029,14 @@
       "title": "That's So Raven",
       "type": "tv_series",
       "year": 2003,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fLo2KYsE7gdM8ti1L9pcdaLoLPD.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8pSH9b3XKKLBhdlsK9bz0AWYc7C.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/xXxTWkQFeUUWr3N8UVl7CpwZI2g.jpg",
       "plot_overview": "No ordinary teenager; Raven Baxter can see glimpses of the future! Watch her schemes and misadventures as she enlists the help of friends, including best friends Eddie and Chelsea, to change life's little outcomes. Raven's younger brother, Cory, is obsessed with money and creates get-rich-quick schemes to try to earn cash.",
       "genres": [
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.195,
+      "user_rating": 7.235,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2003-01-17",
@@ -1575,6 +1044,12 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -1586,7 +1061,7 @@
       "title": "Smallville",
       "type": "tv_series",
       "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/peEEvc7JOhcqv80KP4LSA2eMbok.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4wVq9ICc4MI2XcssrumpCOhKLpI.jpg",
       "plot_overview": "The origins of the world\u2019s greatest hero\u2013from Krypton refugee Kal-el\u2019s arrival on Earth through his tumultuous teen years to Clark Kent\u2019s final steps toward embracing his destiny as the Man of Steel.",
       "genres": [
@@ -1594,7 +1069,7 @@
         "Action & Adventure",
         "Drama"
       ],
-      "user_rating": 8.19,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2001-10-16",
@@ -1613,15 +1088,15 @@
       "title": "The Suite Life of Zack & Cody",
       "type": "tv_series",
       "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7u6LVPMOHqsdYsiu0UqDB0FROLk.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9NrFyl7VHQmjuohKz9h3dcZ8gyv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wAYjFO8TPn7qVtD0nMykFyFQ9XL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8Il5j5hPlsBfSX9jKPCRHoAiA9p.jpg",
       "plot_overview": "Meet Zack and Cody, 11 year-old identical twins and the newest residents of Boston's swanky Tipton Hotel. Living in a suite with their mom Carey, the boys treat the Tipton like their own personal playground.",
       "genres": [
         "Comedy",
         "Family",
         "Kids"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.617,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2005-03-18",
@@ -1641,22 +1116,22 @@
       "type": "tv_series",
       "year": 1988,
       "poster_url": "https://image.tmdb.org/t/p/w342/pE6l6I1ICKOu4pDUXxkl87TTLZx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/69g8NnStOySjRgaRQxmV21gSrrF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4qcNKcng7HYlKJJ0DFYIH52gWNF.jpg",
       "plot_overview": "The animated stories of Garfield the cat, Odie the dog, their owner Jon and the trouble they get into. And also Orson the Pig and his adventures on a farm with his fellow farm animals.",
       "genres": [
         "Animation",
         "Comedy",
         "Kids"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.27,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1988-09-17",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -1669,23 +1144,17 @@
       "year": 2004,
       "poster_url": "https://image.tmdb.org/t/p/w342/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
-      "plot_overview": "Stripped of everything, the survivors of a horrific plane crash  must work together to stay alive. But the island holds many secrets.",
+      "plot_overview": "Stripped of everything, the survivors of a horrific plane crash must work together to stay alive. But the island holds many secrets.",
       "genres": [
         "Mystery",
         "Action & Adventure",
         "Drama"
       ],
-      "user_rating": 7.945,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2004-09-22",
       "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        },
         {
           "service_id": 15,
           "service_name": "Hulu",
@@ -1706,7 +1175,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.46,
+      "user_rating": 7.494,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2006-10-11",
@@ -1737,14 +1206,14 @@
       "title": "Hannah Montana",
       "type": "tv_series",
       "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/usJAQAA7s9lJGGOGehIZdzKPCke.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xISF3sT1RZXOS36zPvFeytqlwA2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/sRqLl0SHA4diTL8zvUTgBw6DQeM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r7tiRgwCz4orOoYZIdbRdIGkfU3.jpg",
       "plot_overview": "At home and school, she's Miley Stewart, a typical teenager, but when the lights go down and the curtain goes up, she emerges as the glamorous and talented Hannah Montana. Having the \"Best of Both Worlds\" is a complicated proposition, and keeping her identity under wraps leads Miley and her friends into some hilarious capers as she tries to balance her normal life with her rock star persona.",
       "genres": [
         "Comedy",
         "Family"
       ],
-      "user_rating": 7.136,
+      "user_rating": 7.148,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2006-03-24",
@@ -1763,14 +1232,14 @@
       "title": "Band of Brothers",
       "type": "tv_series",
       "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8JMXquNmdMUy2n2RgW8gfOM0O3l.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bF0o2cJFVM4JPIOTc4GVMho7fkj.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
       "plot_overview": "Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of legend. Based on Stephen E. Ambrose's acc",
       "genres": [
         "Drama",
         "War & Politics"
       ],
-      "user_rating": 8.582,
+      "user_rating": 8.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2001-09-09",
@@ -1790,14 +1259,14 @@
       "type": "tv_series",
       "year": 2003,
       "poster_url": "https://image.tmdb.org/t/p/w342/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nn3SuLTO4hum8yAxaY4ql8h6kRk.jpg",
       "plot_overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
       "genres": [
         "Crime",
         "Drama",
         "Action & Adventure"
       ],
-      "user_rating": 7.621,
+      "user_rating": 7.62,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2003-09-23",
@@ -1815,93 +1284,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 4614,
-      "is_returning": true,
-      "next_season": 23,
-      "next_air_date": "2026-02-24",
-      "next_episode": 10,
-      "relevance_score": 75
-    },
-    {
-      "id": 4615,
-      "title": "Hercules: The Legendary Journeys",
-      "type": "tv_series",
-      "year": 1995,
-      "poster_url": "https://image.tmdb.org/t/p/w342/AbmVXsi7Btr6cvppvaHAZflnjTC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4OQnb2QoifmFCe3TnUS2kxt3afM.jpg",
-      "plot_overview": "The legendary son of Zeus journeys across the earth fighting monsters and helping people.",
-      "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "user_rating": 6.954,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1995-01-29",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4615
-    },
-    {
-      "id": 4616,
-      "title": "Xena: Warrior Princess",
-      "type": "tv_series",
-      "year": 1995,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1V7WuDv5kmzwCCNd9CNQvOmqHdm.jpg",
-      "plot_overview": "Xena is an infamous warrior on a quest to seek redemption for her past sins against the innocent. Accompanied by her comrade-in-arms Gabrielle, the campy couple use their formidable fighting skills to help those who are unable to defend themselves.",
-      "genres": [
-        "Drama",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "user_rating": 7.523,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1995-09-04",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4616
-    },
-    {
-      "id": 4620,
-      "title": "Eureka",
-      "type": "tv_series",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/f2l5hUk63hPqYTucnFy2HmElFV0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8MQeyFsWrp2ILjbumtxrinmk7t4.jpg",
-      "plot_overview": "The sleepy Pacific Northwest town of Eureka is hiding a mysterious secret. The government has been relocating the world's geniuses and their families to this rustic town for years where innovation and chaos have lived hand in hand. U.S. Marshal Jack Carter stumbles upon this odd town after wrecking his car and becoming stranded there. When the denizens of the town unleash an unknown scientific creation, Carter jumps in to try to restore order and consequently learns of one of the country's best ",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Comedy",
-        "Drama"
-      ],
-      "user_rating": 7.767,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2006-07-18",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4620
+      "tmdb_id": 4614
     },
     {
       "id": 4623,
@@ -1917,7 +1300,7 @@
         "Animation",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.256,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2006-01-27",
@@ -1943,77 +1326,51 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "user_rating": 8.284,
+      "user_rating": 8.274,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1997-07-27",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 4629
     },
     {
-      "id": 4630,
-      "title": "The Fairly OddParents",
-      "type": "tv_series",
-      "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9R7B886A1szDTZlv4TCrCOd1OEz.jpg",
-      "plot_overview": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they grant wishes for their pint-sized charge.",
+      "id": 4638,
+      "title": "Hot Fuzz",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+      "plot_overview": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Sci-Fi & Fantasy",
-        "Kids"
+        "Crime",
+        "Comedy"
       ],
-      "user_rating": 7.574,
+      "user_rating": 7.564,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2001-03-30",
+      "release_date": "2007-02-14",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 4630
-    },
-    {
-      "id": 4656,
-      "title": "Raw",
-      "type": "tv_series",
-      "year": 1993,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/n69QxkZ0RRc6PMNnxD9U0MZnLzl.jpg",
-      "plot_overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-      "genres": [
-        "Reality"
-      ],
-      "user_rating": 6.8,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1993-01-11",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4656,
-      "is_returning": true,
-      "next_season": 33,
-      "next_air_date": "2025-12-22",
-      "next_episode": 51,
-      "relevance_score": 75
+      "tmdb_id": 4638
     },
     {
       "id": 4658,
@@ -2028,33 +1385,21 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.7,
+      "user_rating": 7.64,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1986-09-22",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         },
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -2066,13 +1411,13 @@
       "type": "tv_series",
       "year": 1957,
       "poster_url": "https://image.tmdb.org/t/p/w342/1i4HdLMCRfEXLeA6JGTsQj6WU3k.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sMk5YZQIjlfhrLOAgW4igI9xqin.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dtTaLgRQPEQW1TQjLhPKI7mc6WC.jpg",
       "plot_overview": "Diego de la Vega, the son of a wealthy landowner, returns from his studies in Spain and discovers that Los Angeles is under the command of Capitan Monastario, a cruel man who relishes in the misuse of his power for personal gain. Knowing that he cannot hope to single-handedly defeat Monastario and his troops, Diego resorts to subterfuge. He adopts the secret identity of Zorro, a sinister figure dressed in black, and rides to fight Monastario's injustice.",
       "genres": [
         "Western",
         "Action & Adventure"
       ],
-      "user_rating": 7.467,
+      "user_rating": 7.497,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1957-10-10",
@@ -2092,17 +1437,23 @@
       "type": "tv_series",
       "year": 2006,
       "poster_url": "https://image.tmdb.org/t/p/w342/9M4xXcz9m1aUlRsASv7vsx776do.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uir3NfY3J7WBhzVA8kkVGtz9sUB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/858LmWtuMNuOXgH9oFxbcNepOx1.jpg",
       "plot_overview": "Bear strands himself in popular wilderness destinations where tourists often find themselves lost or in danger.",
       "genres": [
         "Action & Adventure",
         "Documentary"
       ],
-      "user_rating": 6.959,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2006-10-27",
       "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 1899,
           "service_name": "Max",
@@ -2117,7 +1468,7 @@
       "title": "Would I Lie to You?",
       "type": "tv_series",
       "year": 2007,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aKwbYr95WANVjAzG8VtvadYWfLH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cFaW1pAjZpQ90I42Nj4f27tAdS7.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4YNm4rg9Fu9WHBLhSYyjHLUqAQK.jpg",
       "plot_overview": "A comedic panel show featuring team captains Lee Mack and David Mitchell plus two guests per side, hosted by Rob Brydon (formerly Angus Deayton). Each person must reveal embarrassing facts and outrageous lies during a series of different rounds including \"Home Truths\", \"This Is My...\" and \"Quickfire Lies\". It is up to the opposing team to tell tall tales from fantastic facts.",
       "genres": [
@@ -2129,32 +1480,27 @@
       "release_date": "2007-06-16",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 4775,
-      "is_returning": true,
-      "next_season": 19,
-      "next_air_date": "2026-01-02",
-      "next_episode": 1,
-      "relevance_score": 75
+      "tmdb_id": 4775
     },
     {
       "id": 4808,
       "title": "Charade",
       "type": "movie",
       "year": 1963,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ijJ73UgR6nOqjSP8MO0Z7hawCdm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1Q1yTxHjadsLMf7yy9xABUH6zaT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gj2TBYmOIy4E2GjMIpnbAEZNCQx.jpg",
       "plot_overview": "After Regina Lampert falls for the dashing Peter Joshua on a skiing holiday in the French Alps, she discovers upon her return to Paris that her husband has been murdered. Soon, she and Peter are giving chase to three of her late husband's World War II cronies, Tex, Scobie and Gideon, who are after a quarter of a million dollars the quartet stole while behind enemy lines.",
       "genres": [
         "Comedy",
         "Mystery"
       ],
-      "user_rating": 7.667,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1963-12-01",
@@ -2173,14 +1519,14 @@
       "title": "Ghost Dog: The Way of the Samurai",
       "type": "movie",
       "year": 1999,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gkH4zOxIfbb4BEbk9Q4cVOEpDaY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/80A15cocDNupdJw5f5i9TogpBum.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gjcl07r9zgQ9tVo9alyHmysPFfX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9oRbHgbJf1Zr2fct8jBIKadpKya.jpg",
       "plot_overview": "A Black hitman who models after the samurai of old finds himself targeted for death by the mob.",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "user_rating": 7.339,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1999-10-06",
@@ -2195,38 +1541,6 @@
       "tmdb_id": 4816
     },
     {
-      "id": 4825,
-      "title": "Guys and Dolls",
-      "type": "movie",
-      "year": 1955,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mrSM6laJJLBVdMdWfeNRa1innnk.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wKCVht8Vivzub6i6blSK8SIuBvL.jpg",
-      "plot_overview": "In New York, a gambler is challenged to take a cold female missionary to Havana, but they fall for each other, and the bet has a hidden motive to finance a crap game.",
-      "genres": [
-        "Comedy",
-        "Crime"
-      ],
-      "user_rating": 6.5,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1955-12-23",
-      "streaming_services": [
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4825
-    },
-    {
       "id": 4886,
       "title": "And Then There Were None",
       "type": "movie",
@@ -2239,7 +1553,7 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.029,
+      "user_rating": 7.047,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1945-10-31",
@@ -2266,15 +1580,21 @@
         "Drama",
         "Crime"
       ],
-      "user_rating": 7.443,
+      "user_rating": 7.464,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2007-07-24",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -2297,39 +1617,13 @@
       "release_date": "2008-12-25",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 4922
-    },
-    {
-      "id": 4929,
-      "title": "Hang 'em High",
-      "type": "movie",
-      "year": 1968,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2J9QEqdJWjL2etOf6Kf7n33PUK4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jRveokBXITqXhUAdyD0kqqBolZ0.jpg",
-      "plot_overview": "Marshall Jed Cooper survives a hanging, vowing revenge on the lynch mob that left him dangling. To carry out his oath for vengeance, he returns to his former job as a lawman. Before long, he's caught up with the nine men on his hit list and starts dispensing his own brand of Wild West justice.",
-      "genres": [
-        "Western",
-        "Drama"
-      ],
-      "user_rating": 6.8,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1968-04-12",
-      "streaming_services": [
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4929
     },
     {
       "id": 4951,
@@ -2343,26 +1637,14 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.589,
+      "user_rating": 7.592,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1999-03-30",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        },
-        {
           "service_id": 337,
           "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -2370,47 +1652,21 @@
       "tmdb_id": 4951
     },
     {
-      "id": 4959,
-      "title": "The International",
-      "type": "movie",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fneofXacvudxNUKyM61UtoilHRI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fTM8ZJL23nvFLshLUN3SdSrTFsi.jpg",
-      "plot_overview": "An interpol agent and an attorney are determined to bring one of the world's most powerful banks to justice. Uncovering money laundering, arms trading, and conspiracy to destabilize world governments, their investigation takes them from Berlin, Milan, New York and Istanbul. Finding themselves in a chase across the globe, their relentless tenacity puts their own lives at risk.",
-      "genres": [
-        "Crime",
-        "Mystery"
-      ],
-      "user_rating": 6.254,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2009-02-03",
-      "streaming_services": [
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4959
-    },
-    {
-      "id": 4964,
-      "title": "Knocked Up",
+      "id": 4982,
+      "title": "American Gangster",
       "type": "movie",
       "year": 2007,
-      "poster_url": "https://image.tmdb.org/t/p/w342/b4OaXw2MW97VvIiZE0Sbn1NfxSh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8uNx4YtClqB9duM4n6jOx8vWvvl.jpg",
-      "plot_overview": "A slacker and a career-driven woman accidentally conceive a child after a one-night stand. As they try to make the relationship work, they must navigate the challenges of parenthood and their differences in lifestyle and maturity.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bdsxhTLpYIMlO88yQH0AzGUCXPI.jpg",
+      "plot_overview": "Loosely based on the criminal career of Frank Lucas, a gangster from La Grange, North Carolina, who smuggled heroin into the United States on American service planes returning from the Vietnam War, before being detained by a task force led by Newark Detective Richie Roberts.",
       "genres": [
-        "Comedy",
-        "Drama"
+        "Drama",
+        "Crime"
       ],
-      "user_rating": 6.302,
+      "user_rating": 7.592,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2007-06-01",
+      "release_date": "2007-11-02",
       "streaming_services": [
         {
           "service_id": 8,
@@ -2419,34 +1675,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 4964
-    },
-    {
-      "id": 4985,
-      "title": "The Longest Yard",
-      "type": "movie",
-      "year": 1974,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fejSpoFU4sq2g6n1JA2NY3KjRxW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tIXJy1WbgtILBrD1HALZiBhlfAD.jpg",
-      "plot_overview": "A football player-turned-convict organizes a team of inmates to play against a team of prison guards. His dilemma is that the warden asks him to throw the game in return for an early release, but he is also concerned about the inmates' lack of self-esteem.",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Crime"
-      ],
-      "user_rating": 6.7,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1974-08-21",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 4985
+      "tmdb_id": 4982
     }
   ]
 }

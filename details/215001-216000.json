@@ -1,6 +1,6 @@
 {
   "range": "215001-216000",
-  "updated_at": 1766207314842,
+  "updated_at": 1780003048335,
   "shows": [
     {
       "id": 215522,
@@ -14,45 +14,71 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.198,
+      "user_rating": 7.218,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-06-18",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 215522
     },
     {
-      "id": 215995,
-      "title": "Smoke",
+      "id": 215866,
+      "title": "American Primeval",
       "type": "tv_series",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/c6xRvQCL07MVNamjfVU2an600q9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4F7IE2OEcHsWZwIu1OvXDyiRD84.jpg",
-      "plot_overview": "When an arson investigator begrudgingly teams up with a police detective, their race to stop two arsonists ignites a twisted game of secrets and suspicions.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ff0s9OHGNSZL6cVteIb7LNvTnJD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
+      "plot_overview": "A mother and son fleeing from their past form a found family while confronting a harsh landscape of freedom and cruelty in the American West.",
       "genres": [
+        "Western",
         "Drama",
-        "Crime"
+        "Action & Adventure"
       ],
-      "user_rating": 5.977,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-06-26",
+      "release_date": "2025-01-09",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 215995
+      "tmdb_id": 215866
+    },
+    {
+      "id": 215874,
+      "title": "Far from Home",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/svGLFlbjDKx67CVUEFtPGooW25F.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r178SNOqH4VD1aydevTdiULhJ4R.jpg",
+      "plot_overview": "Through a scholarship to a top school, Ishaya ends up in the luxurious world of the happy few in Nigeria, but a secret threatens not only to put an end to this.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 8.104,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-12-16",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 215874
     }
   ]
 }

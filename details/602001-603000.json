@@ -1,7 +1,40 @@
 {
   "range": "602001-603000",
-  "updated_at": 1766207314894,
+  "updated_at": 1780002330990,
   "shows": [
+    {
+      "id": 602211,
+      "title": "Fatman",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4n8QNNdk4BOX9Dslfbz5Dy6j1HK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ckfwfLkl0CkafTasoRw5FILhZAS.jpg",
+      "plot_overview": "A rowdy, unorthodox Santa Claus is fighting to save his declining business. Meanwhile, Billy, a neglected and precocious 12 year old, hires a hit man to kill Santa after receiving a lump of coal in his stocking.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Comedy"
+      ],
+      "user_rating": 5.578,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-10-19",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 602211
+    },
     {
       "id": 602223,
       "title": "The Forever Purge",
@@ -50,6 +83,31 @@
         }
       ],
       "tmdb_id": 602269
+    },
+    {
+      "id": 602734,
+      "title": "Spiral: From the Book of Saw",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cxymmHskQ7RC1Ysg9CxT2vWze9g.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g15PR8eQV9DehSWlagvdnJZqoRq.jpg",
+      "plot_overview": "Working in the shadow of an esteemed police veteran, brash Detective Ezekiel \u201cZeke\u201d Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city\u2019s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer\u2019s morbid game.",
+      "genres": [
+        "Mystery"
+      ],
+      "user_rating": 5.92,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-05-12",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 602734
     }
   ]
 }

@@ -1,29 +1,57 @@
 {
   "range": "376001-377000",
-  "updated_at": 1766207314868,
+  "updated_at": 1780003048356,
   "shows": [
     {
-      "id": 376570,
-      "title": "Hush",
+      "id": 376660,
+      "title": "The Edge of Seventeen",
       "type": "movie",
       "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zHzBTd502IZf60x8n2g0TB01vPF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/p2vXeNleONOFWtkiIB57QGO6ObL.jpg",
-      "plot_overview": "A deaf woman is stalked by a psychotic killer in her secluded home.",
-      "genres": [],
-      "user_rating": 6.73,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iY5UEYuGxHfaYJ3vAUAWwFGMV7V.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zxQMedIezpcS6Npx8Q5o30WNDhC.jpg",
+      "plot_overview": "Two high school girls are best friends until one dates the other's older brother, who is totally his sister's nemesis.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2016-03-12",
+      "release_date": "2016-11-18",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 376570
+      "tmdb_id": 376660
+    },
+    {
+      "id": 376867,
+      "title": "Moonlight",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+      "plot_overview": "The tender, heartbreaking story of a young man\u2019s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.358,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-10-21",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 376867
     }
   ]
 }

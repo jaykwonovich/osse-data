@@ -1,6 +1,6 @@
 {
   "range": "553001-554000",
-  "updated_at": 1766207314888,
+  "updated_at": 1780002330984,
   "shows": [
     {
       "id": 553604,
@@ -22,6 +22,18 @@
           "service_id": 300,
           "service_name": "Pluto TV",
           "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],

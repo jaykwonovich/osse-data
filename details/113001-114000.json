@@ -1,19 +1,98 @@
 {
   "range": "113001-114000",
-  "updated_at": 1766207314827,
+  "updated_at": 1780003048323,
   "shows": [
+    {
+      "id": 113036,
+      "title": "American Horror Stories",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8b9FGJ9WhpkeGFOHYgKjPT5AXS6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r2ogqivZ9dwpU4ya7EKHA9kMcrL.jpg",
+      "plot_overview": "An anthology series of stand alone episodes delving into horror myths, legends and lore.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.773,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-07-15",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 113036
+    },
+    {
+      "id": 113246,
+      "title": "Tiny Pretty Things",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hvmOpnLYIYbTWdlV3RuE9iKlIOa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vNEXeurfoBXkaRJTRSlNUdMzIxJ.jpg",
+      "plot_overview": "When an attack brings down the star student at an elite ballet school, her replacement enters a world of lies, betrayal -- and cutthroat competition.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.28,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-12-14",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 113246
+    },
+    {
+      "id": 113367,
+      "title": "The Wilds",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gHBtyMdHbWoM3tpM8VZymer8HfF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7SSO2wXsuOOVnB6oeWbuIDynrE2.jpg",
+      "plot_overview": "A group of teen girls from different backgrounds must fight for survival after a plane crash strands them on a deserted island. The castaways both clash and bond as they learn more about each other, the secrets they keep, and the traumas they've all endured. But there\u2019s just one twist\u2026 these girls did not end up on this island by accident.",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "user_rating": 7.631,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-12-11",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 113367
+    },
     {
       "id": 113833,
       "title": "The Normal Heart",
       "type": "movie",
       "year": 2014,
       "poster_url": "https://image.tmdb.org/t/p/w342/rQwdv1bNdc0OSG8svAEfWACcAAU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6GaZmTtYcQSV09BLtcSKCFhwlHk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ooN5xzaxFmf6EB66OzWUu4BIFgO.jpg",
       "plot_overview": "The story of the onset of the HIV-AIDS crisis in New York City in the early 1980s, taking an unflinching look at the nation's sexual politics as gay activists and their allies in the medical community fight to expose the truth about the burgeoning epidemic to a city and nation in denial.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.739,
+      "user_rating": 7.729,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-05-25",
@@ -28,33 +107,6 @@
       "tmdb_id": 113833
     },
     {
-      "id": 113985,
-      "title": "Outer Range",
-      "type": "tv_series",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9leGmIDamsWJELYz0pZkr2EXUFf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wI4aGtreUx7vFtZGcyiFoOX3qf3.jpg",
-      "plot_overview": "A rancher fighting for his land and family stumbles upon an unfathomable mystery at the edge of Wyoming\u2019s wilderness, forcing a confrontation with the Unknown in ways both intimate and cosmic in the untamable American West.",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
-      ],
-      "user_rating": 6.907,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2022-04-14",
-      "streaming_services": [
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 113985
-    },
-    {
       "id": 113988,
       "title": "DAHMER - Monster: The Jeffrey Dahmer Story",
       "type": "tv_series",
@@ -63,10 +115,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5vUux2vNUTqwCzb7tVcH18XnsF.jpg",
       "plot_overview": "This series examines the gruesome and horrific true crimes of Jeffrey Dahmer and the systemic failures that enabled one of America\u2019s most notorious serial killers to continue his murderous spree in plain sight for over a decade.",
       "genres": [
-        "Drama",
-        "Crime"
+        "Crime",
+        "Drama"
       ],
-      "user_rating": 7.982,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-09-21",

@@ -1,44 +1,47 @@
 {
   "range": "257001-258000",
-  "updated_at": 1766207314849,
+  "updated_at": 1780003048341,
   "shows": [
     {
-      "id": 257534,
-      "title": "Devil in Disguise: John Wayne Gacy",
+      "id": 257519,
+      "title": "Bait",
       "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kG2mHHu136bviY53DDpnsyVNKuA.jpg",
-      "plot_overview": "When a teenager goes missing, it becomes clear that many young men and boys have disappeared at the hands of John Wayne Gacy, the prime suspect.",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gX9zWmUnrjCZEPpultvvFtSUb93.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vk7AdYfhmCuWsRrTPMg7Yif8AAt.jpg",
+      "plot_overview": "Shah Latif is a struggling actor on the cusp of landing the role of a lifetime, only to find himself thrust into a full blown existential crisis and trippy conspiracy thriller all at the same time.",
       "genres": [
-        "Crime",
-        "Drama"
+        "Drama",
+        "Comedy",
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.195,
+      "user_rating": 6.424,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-10-16",
+      "release_date": "2026-03-25",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 257534
+      "tmdb_id": 257519
     },
     {
       "id": 257724,
       "title": "Hey A.J.!",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "Hey AJ is a high-energy journey with a curious, driven and extremely imaginative young lady. Telling her tale will call for fast-paced escapades, memorable songs and \u201ctransplendent\u201d storytelling! AJ includes her family and friends in all her fantastical adventures. In collaboration with a Super Bowl Champion/Children's author, the SGS team brings this adventurous children's book series to television.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/jCZPwgAWaXVtn9AB51r9X91B5Q7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e7lAmzEjBlHQAotmsTeiOmSJLjz.jpg",
+      "plot_overview": "Hey A.J.! is a high-energy journey with a curious, driven and extremely imaginative young lady. Telling her tale will call for fast-paced escapades, memorable songs and \u201ctransplendent\u201d storytelling! AJ includes her family and friends in all her fantastical adventures. In collaboration with a Super Bowl Champion/Children's author, the SGS team brings this adventurous children's book series to television.",
       "genres": [
         "Kids",
-        "Animation"
+        "Animation",
+        "Family",
+        "Comedy"
       ],
       "user_rating": 0.0,
       "critic_score": null,
@@ -52,23 +55,42 @@
           "region": "US"
         }
       ],
-      "production_companies": [
-        "Surfing Giant Studios",
-        "Disney Junior"
-      ],
-      "networks": [
-        "Disney Junior"
-      ],
       "tmdb_id": 257724,
       "is_returning": true,
       "next_season": 1,
-      "next_air_date": "2026-01-13",
-      "next_episode": 1,
-      "relevance_score": 200,
-      "service_name": "Disney+",
-      "service_id": 337,
-      "prediction_source": "gemini",
-      "prediction_confidence": 1.0
+      "next_air_date": "2026-06-05",
+      "next_episode": 43,
+      "relevance_score": 75
+    },
+    {
+      "id": 257994,
+      "title": "Half Man",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
+      "plot_overview": "When Niall's estranged 'brother' Ruben shows up at his wedding, it leads to an explosion of violence that catapults us back through their lives.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 8.957,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-04-28",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 257994,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-06-02",
+      "next_episode": 6,
+      "relevance_score": 75
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "64001-65000",
-  "updated_at": 1766207314813,
+  "updated_at": 1780003048306,
   "shows": [
     {
       "id": 64099,
@@ -13,19 +13,58 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.568,
+      "user_rating": 7.561,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-01-03",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 64099
+    },
+    {
+      "id": 64158,
+      "title": "River",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fhiVcu9RA3MEVQtMowwQUsHJfJR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sryK4G2U27mWAiuKk7v63uSbmto.jpg",
+      "plot_overview": "Respected police officer John River, a gifted cop with a troubled mind, struggles to come to terms with the recent loss of a colleague, and chases a suspect across London - with tragic consequences. Now at odds with the authorities, River ends up in a precarious position as he seeks to bring closure to the mother of murdered teenager, who blames him for failing to keep his promise.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.407,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-10-13",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64158
     },
     {
       "id": 64199,
@@ -39,45 +78,94 @@
         "Drama",
         "Crime"
       ],
-      "user_rating": 7.477,
+      "user_rating": 7.488,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-08-07",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 64199
     },
     {
-      "id": 64328,
-      "title": "The Muppets",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mOB0Hdm23NslPNDkZC9eueatW3b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ysHWeVWSQZCIEBSEVf1nPddRn58.jpg",
-      "plot_overview": "When Kermit the Frog and the Muppets learn that their beloved theater is slated for demolition, a sympathetic human, Gary, and his puppet brother, Walter, swoop in to help the gang put on a show and raise the $10 million they need to save the day.",
+      "id": 64254,
+      "title": "Master of None",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AcJM86PhgHAfbrF4dMKBaqO3cHV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yYnxld9hgTLCOFORequmOK6paj2.jpg",
+      "plot_overview": "30-year-old New York actor Dev takes on such pillars of maturity as the first big job, a serious relationship, and busting sex offenders on the subway.",
       "genres": [
-        "Family",
-        "Comedy"
+        "Comedy",
+        "Drama"
       ],
-      "user_rating": 6.7,
+      "user_rating": 7.369,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2011-11-23",
+      "release_date": "2015-11-06",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 64328
+      "tmdb_id": 64254
+    },
+    {
+      "id": 64339,
+      "title": "Chewing Gum",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/g7K7IrHzfCMbvJDahkymKugyfuZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oKHOMudHakxD5E9u9BXs59jZQfe.jpg",
+      "plot_overview": "The life of Tracey, a religious, Beyonc\u00e9-obsessed 22-year-old  living in an estate in Tower Hamlets, and the mishaps of her neighbourhood, friends and family. Oh, and obvs her boyfriend!",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.058,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-10-06",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64339
     },
     {
       "id": 64353,
@@ -90,19 +178,45 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.709,
+      "user_rating": 7.668,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-11-16",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 64353
+    },
+    {
+      "id": 64396,
+      "title": "Patriot",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xq3xeWFfjb8UeNy1y9JMUhL6Ptq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/og6d19sz8UNlXCnkG0f32ClZv5F.jpg",
+      "plot_overview": "To prevent Iran from going nuclear, intelligence officer John Tavner must forgo all safety nets and assume a perilous \"non-official cover\" -- that of a mid-level employee at a Midwestern industrial piping firm.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.612,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-11-03",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64396
     },
     {
       "id": 64432,
@@ -116,7 +230,7 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.588,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-12-16",
@@ -131,18 +245,96 @@
       "tmdb_id": 64432
     },
     {
+      "id": 64433,
+      "title": "Shades of Blue",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wxg8lxFpandLQtOiHRnTEQf7oeL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/omzjmQdaV2PBSyfgsB6RWsxk1lo.jpg",
+      "plot_overview": "Sexy New York detective and single mother Harlee Santos fell in with a tight-knit group of dirty cops, taking bribes and protection money that she uses to provide the best life for her honest, talented daughter. But when she's trapped by the FBI and forced to inform on her own \"brothers,\" she'll have to walk the fine line between love, loyalty, honor and betrayal, and try to keep it together for her daughter's future.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.225,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-01-07",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64433
+    },
+    {
+      "id": 64439,
+      "title": "Making a Murderer",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sy2nV3rCcJQaRK5M0NWvvTU7CBx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i0bVPXHdvLQzE1Ld8dDwbCj1kOW.jpg",
+      "plot_overview": "Filmed over 10 years, this real-life thriller follows a DNA exoneree who, while exposing police corruption, becomes a suspect in a grisly new crime.",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "user_rating": 7.855,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-12-18",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64439
+    },
+    {
+      "id": 64464,
+      "title": "11.22.63",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1fH41ccMKvgDTbbcCxWWH6fznah.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qVBExiGdG8uiPK9BcWD0881u8uh.jpg",
+      "plot_overview": "An English teacher travels back in time to prevent the Kennedy assassination, but discovers he is attached to the life he has made in a bygone era.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.754,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-02-15",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64464
+    },
+    {
       "id": 64513,
       "title": "American Crime Story",
       "type": "tv_series",
       "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/51Gihm701NoaXSzR7Zb7flVtbu0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/dtIS3Qk8ny1FWQLiuJ77MTDX5bZ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/j8NSaQJqnSOx8vsxwEukY3oATNj.jpg",
       "plot_overview": "An anthology series centered around some of history's most famous criminal investigations.",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "user_rating": 7.56,
+      "user_rating": 7.563,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-02-02",
@@ -157,82 +349,6 @@
       "tmdb_id": 64513
     },
     {
-      "id": 64686,
-      "title": "47 Ronin",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xDHnmcroujCRG0ysYQaiswjbyHd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nyt0jlofZyjhRqiQkEp0cdoKaS3.jpg",
-      "plot_overview": "Kai\u2014an outcast\u2014joins Oishi, the leader of 47 outcast samurai.  Together they seek vengeance upon the treacherous overlord who killed their master and banished their kind.  To restore honour to their homeland, the warriors embark upon a quest that challenges them with a series of trials that would destroy ordinary warriors.",
-      "genres": [
-        "Drama"
-      ],
-      "user_rating": 6.201,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2013-12-06",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 64686
-    },
-    {
-      "id": 64689,
-      "title": "Killing Them Softly",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4xGuNyCX46pwEpdQISRYiaBXEN7.jpg",
-      "plot_overview": "Jackie Cogan is an enforcer hired to restore order after three dumb guys rob a Mob protected card game, causing the local criminal economy to collapse.",
-      "genres": [
-        "Crime"
-      ],
-      "user_rating": 6.026,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2012-07-30",
-      "streaming_services": [
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 64689
-    },
-    {
-      "id": 64690,
-      "title": "Drive",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oeEiUwvqHxWT0XqD3YlViaiJOVD.jpg",
-      "plot_overview": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "user_rating": 7.6,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2011-09-15",
-      "streaming_services": [
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 64690
-    },
-    {
       "id": 64752,
       "title": "The Lion Guard",
       "type": "tv_series",
@@ -244,7 +360,7 @@
         "Kids",
         "Animation"
       ],
-      "user_rating": 7.594,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-01-15",

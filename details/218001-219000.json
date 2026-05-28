@@ -1,7 +1,96 @@
 {
   "range": "218001-219000",
-  "updated_at": 1766207314842,
+  "updated_at": 1780003048335,
   "shows": [
+    {
+      "id": 218274,
+      "title": "Secrets of the Bees",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/k2snA5sP2zXtrwKcN0s7gBNeTbl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5jybpfzbMbBu1QTPkWKYHkwrJhY.jpg",
+      "plot_overview": "With the expertise of entomologist and fellow National Geographic Explorer Dr. Samuel Ramsey, the series uses groundbreaking filming technology to reveal the extraordinary world of bees; and uncover their astonishing architecture and intelligence, unlocking their secrets and featuring never-before-filmed moments.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 9.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-03-31",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 218274
+    },
+    {
+      "id": 218342,
+      "title": "A Good Girl's Guide to Murder",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8H3KFYBklgxPiGsc8yWNWqGPZ9G.jpg",
+      "plot_overview": "Five years after the death of schoolgirl Andie Bell, Pippa Fitz-Amobi sets out to uncover what really happened to her. Sal Singh, Andie's boyfriend, admitted to the murder before taking his own life, but Pip doesn't believe he's responsible and teams up with Sal's brother Ravi to uncover the truth. If Sal Singh isn't a murderer and the real killer is still out there, how far will they go to keep Pip from finding out the truth?",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Drama"
+      ],
+      "user_rating": 7.382,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-07-10",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 218342,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-06-03",
+      "next_episode": 3,
+      "relevance_score": 75
+    },
+    {
+      "id": 218347,
+      "title": "Sweetpea",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
+      "plot_overview": "Rhiannon Lewis doesn't make much of an impression - people walk past her in the street without a second glance. That is until she is pushed over the edge and loses control. Rhiannon's life transforms, but can she keep her killer secret?",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.471,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-10-10",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 218347
+    },
     {
       "id": 218589,
       "title": "Those About to Die",
@@ -26,32 +115,6 @@
         }
       ],
       "tmdb_id": 218589
-    },
-    {
-      "id": 218778,
-      "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pxbAepXQjsGFDHaR3dPndFSxDU0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fPnt0FJwd7iXEf0wUI1EB6a8952.jpg",
-      "plot_overview": "Alexander's day begins with gum stuck in his hair, followed by more calamities. Though he finds little sympathy from his family and begins to wonder if bad things only happen to him, his mom, dad, brother, and sister all find themselves living through their own terrible, horrible, no good, very bad day.",
-      "genres": [
-        "Family",
-        "Comedy"
-      ],
-      "user_rating": 6.204,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-10-08",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 218778
     }
   ]
 }

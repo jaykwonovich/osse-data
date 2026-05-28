@@ -1,24 +1,49 @@
 {
   "range": "1198001-1199000",
-  "updated_at": 1765853014737,
+  "updated_at": 1780003048398,
   "shows": [
+    {
+      "id": 1198984,
+      "title": "We Bury the Dead",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vbkW4KerpshPZnP84w9qwSfYrhu.jpg",
+      "plot_overview": "After a catastrophic military disaster, the dead don't just rise - they hunt. Ava searches for her missing husband, but what she finds is far more terrifying.",
+      "genres": [],
+      "user_rating": 5.993,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-01-01",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1198984
+    },
     {
       "id": 1198994,
       "title": "Send Help",
       "type": "movie",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lNam8wi4bhzZ6U4wRb2T1nGsSix.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/egPjVZQkex73piq0V3oF1MO5pzi.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fBh0OlTY5XSHuFrQ7ylXHniwg9s.jpg",
       "plot_overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "genres": [],
-      "user_rating": 0.0,
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.048,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-01-22",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Theatrical",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }

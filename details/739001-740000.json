@@ -1,6 +1,6 @@
 {
   "range": "739001-740000",
-  "updated_at": 1766207314906,
+  "updated_at": 1780002331007,
   "shows": [
     {
       "id": 739405,
@@ -28,6 +28,29 @@
       "tmdb_id": 739405
     },
     {
+      "id": 739413,
+      "title": "Mother/Android",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bty8QfyiEc5hCyZbSmfsvc9ITJc.jpg",
+      "plot_overview": "Georgia and her boyfriend Sam go on a treacherous journey to escape their country, which is caught in an unexpected war with artificial intelligence. Days away from the arrival of their first child, the couple must face No Man\u2019s Land\u2014a stronghold of the android uprising\u2014in hopes of reaching safety before giving birth.",
+      "genres": [],
+      "user_rating": 5.786,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-12-17",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 739413
+    },
+    {
       "id": 739986,
       "title": "True Spirit",
       "type": "movie",
@@ -51,6 +74,32 @@
         }
       ],
       "tmdb_id": 739986
+    },
+    {
+      "id": 739993,
+      "title": "Metal Lords",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r97txZRmBb75SGsIAWqmplWJnO3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nj1sc2adxEk7fseElV8RIuCaoZD.jpg",
+      "plot_overview": "For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themselves to metal. Win Battle of the Bands. And be worshipped like gods.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.9,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-04-08",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 739993
     }
   ]
 }

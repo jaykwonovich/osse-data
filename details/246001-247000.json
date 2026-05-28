@@ -1,32 +1,31 @@
 {
   "range": "246001-247000",
-  "updated_at": 1766207314847,
+  "updated_at": 1780003048339,
   "shows": [
     {
-      "id": 246381,
-      "title": "Prime Target",
+      "id": 246246,
+      "title": "Beauty in Black",
       "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bGYCimDXRL7cE3uETLZzMCFOdJo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4LBPDopxQXtK3t6mea7CV5AWNk6.jpg",
-      "plot_overview": "A brilliant math student is on the verge of a major breakthrough when a shadowy enemy tries to stop him. Fighting for answers\u2014and his life\u2014he teams up with a government agent to unravel a high-stakes conspiracy.",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/i98Jl46WBpK7ymttNOakowtNuFF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ywJcUIMTCjstPLvvyIiPWP3G3m3.jpg",
+      "plot_overview": "A stripper's fate takes a turn when she crosses paths with the wealthy, dysfunctional family behind a cosmetics dynasty and a devious trafficking scheme.",
       "genres": [
-        "Drama",
-        "Action & Adventure"
+        "Drama"
       ],
-      "user_rating": 6.755,
+      "user_rating": 7.722,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-01-22",
+      "release_date": "2024-10-24",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 246381
+      "tmdb_id": 246246
     },
     {
       "id": 246386,
@@ -37,11 +36,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg",
       "plot_overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
       "genres": [
-        "Drama",
         "Mystery",
         "Crime"
       ],
-      "user_rating": 8.4,
+      "user_rating": 8.034,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-11-07",
@@ -53,27 +51,22 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 246386,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2025-12-19",
-      "next_episode": 7,
-      "relevance_score": 75
+      "tmdb_id": 246386
     },
     {
       "id": 246412,
       "title": "The Copenhagen Test",
       "type": "tv_series",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oNOnGU7UR0Z4TWHxAspqRVV6JvO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4hf0wIXHmjNY6hkIGNKdOESrgGj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/iAjcpCceLixP5k9lRw1y4fhsLwV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mRVPTh5JpzvXNtgNXppKROOdrzd.jpg",
       "plot_overview": "When an analyst discovers his eyes and ears have been hacked, he's drawn into a controlled world designed by his agency to draw out their enemies.",
       "genres": [
-        "Sci-Fi & Fantasy",
+        "Action & Adventure",
         "Mystery",
-        "Action & Adventure"
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 0.0,
+      "user_rating": 6.483,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-12-27",
@@ -85,42 +78,7 @@
           "region": "US"
         }
       ],
-      "production_companies": [
-        "Atomic Monster",
-        "UCP"
-      ],
-      "networks": [
-        "Peacock"
-      ],
-      "tmdb_id": 246412,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2025-12-27",
-      "next_episode": 1,
-      "relevance_score": 200
-    },
-    {
-      "id": 246655,
-      "title": "X-Men: Apocalypse",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2ex2beZ4ssMeOduLD0ILzXKCiep.jpg",
-      "plot_overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
-      "genres": [],
-      "user_rating": 6.518,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2016-05-18",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 246655
+      "tmdb_id": 246412
     }
   ]
 }

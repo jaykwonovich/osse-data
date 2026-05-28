@@ -1,6 +1,6 @@
 {
   "range": "36001-37000",
-  "updated_at": 1766207314804,
+  "updated_at": 1780003048297,
   "shows": [
     {
       "id": 36040,
@@ -8,12 +8,12 @@
       "type": "movie",
       "year": 1971,
       "poster_url": "https://image.tmdb.org/t/p/w342/24vooYt5StgtgcQObVr1GHuM5gy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qxnVFMs7GiMVEQD7ZZHOAYlcwum.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uA5GfPzRU1vRVY7pDfqXQmjRTPI.jpg",
       "plot_overview": "Under the pretense of having a picnic, a geologist takes his teenage daughter and 6-year-old son into the Australian outback and attempts to shoot them. When he fails, he turns the gun on himself, and the two city-bred children must contend with harsh wilderness alone. They are saved by a chance encounter with an Aboriginal boy who shows them how to survive, and in the process underscores the disharmony between nature and modern life.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.307,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1971-07-01",
@@ -38,11 +38,17 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.323,
+      "user_rating": 7.316,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1918-04-14",
       "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 1899,
           "service_name": "Max",
@@ -53,47 +59,15 @@
       "tmdb_id": 36208
     },
     {
-      "id": 36419,
-      "title": "After.Life",
-      "type": "movie",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ty43RTdSBpL3VjBJWeRoKhFg7hF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qY6gSJOfxvXgiDr5m1WqZvzeouT.jpg",
-      "plot_overview": "Following a terrible car crash, a woman awakes to find an enigmatic mortician preparing her for burial.",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "user_rating": 6.326,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2009-11-07",
-      "streaming_services": [
-        {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 36419
-    },
-    {
       "id": 36657,
       "title": "X-Men",
       "type": "movie",
       "year": 2000,
       "poster_url": "https://image.tmdb.org/t/p/w342/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/A9fpAjZLqsODM96aI6kx147LPM9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3QUVzbcNyfGe3ocWkYAT8emK8Co.jpg",
       "plot_overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
       "genres": [],
-      "user_rating": 7.008,
+      "user_rating": 7.014,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2000-07-13",
@@ -112,11 +86,11 @@
       "title": "X2",
       "type": "movie",
       "year": 2003,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/loixNIKBURXfPcND4noz7E8FqCS.jpg",
-      "plot_overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses\u2014Magneto and Mystique\u2014to unhinge Stryker's scheme to exterminate all mutants.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bst4alFUXCxISwdRUKSMhhkrX1M.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7TYITrR804tLITNur3b8VLCK6tw.jpg",
+      "plot_overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join Magneto and Mystique to unhinge Stryker's scheme to exterminate all mutants.",
       "genres": [],
-      "user_rating": 7.032,
+      "user_rating": 7.036,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2003-04-27",
@@ -131,68 +105,17 @@
       "tmdb_id": 36658
     },
     {
-      "id": 36685,
-      "title": "The Rocky Horror Picture Show",
-      "type": "movie",
-      "year": 1975,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/a53EGF0NzHRGKuRItsrtXBM8FCD.jpg",
-      "plot_overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr. Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 7.443,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1975-08-14",
-      "streaming_services": [
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 36685
-    },
-    {
-      "id": 36819,
-      "title": "Time Bandits",
-      "type": "movie",
-      "year": 1981,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qKERrt3UU1ml8Q9zdsLPpoQ5r3.jpg",
-      "plot_overview": "Young history buff Kevin can scarcely believe it when six dwarfs emerge from his closet one night. Former employees of the Supreme Being, they've purloined a map charting all of the holes in the fabric of time and are using it to steal treasures from different historical eras. Taking Kevin with them, they variously drop in on Napoleon, Robin Hood and King Agamemnon before the Supreme Being catches up with them.",
-      "genres": [
-        "Family",
-        "Comedy"
-      ],
-      "user_rating": 6.6,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1981-07-13",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 36819
-    },
-    {
       "id": 36950,
       "title": "You Don't Know Jack",
       "type": "movie",
       "year": 2010,
       "poster_url": "https://image.tmdb.org/t/p/w342/xl4x8aILt9v91TUOKXHIVDZwkXy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qXgDDRtzO3nvQN29g9SbzU83OwM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9BMEUvc5TxYJF5xmygls2hnhnMP.jpg",
       "plot_overview": "Controversy and legal problems follow Dr. Jack Kevorkian as he advocates assisted suicide.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.041,
+      "user_rating": 7.018,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-06-27",
@@ -216,9 +139,10 @@
       "plot_overview": "An ecological drama/documentary, filmed throughout the globe. Part thriller, part meditation on the vanishing wonders of the sub-aquatic world.",
       "genres": [
         "Documentary",
-        "Family"
+        "Family",
+        "Drama"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-01-22",
@@ -231,6 +155,31 @@
         }
       ],
       "tmdb_id": 36970
+    },
+    {
+      "id": 36994,
+      "title": "Workaholics",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kXg4tFUHN7h7bNdBTeLIIKqw9UJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zDSvUcCR2nkrGhLUTIgqQ18P27U.jpg",
+      "plot_overview": "The misadventures of three recent college dropouts, roommates, and co-workers at a telemarketing company and their drug dealer.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-04-06",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 36994
     }
   ]
 }

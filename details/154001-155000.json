@@ -1,24 +1,23 @@
 {
   "range": "154001-155000",
-  "updated_at": 1765702720385,
+  "updated_at": 1780003048330,
   "shows": [
     {
-      "id": 154825,
-      "title": "Business Proposal",
+      "id": 154359,
+      "title": "This Is Going to Hurt",
       "type": "tv_series",
       "year": 2022,
-      "end_year": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iLh7L8ZuvgdxFaM9sImyv2iKYLe.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lq0YqJuffMuZhoKTiC5xDqvtCSn.jpg",
-      "plot_overview": "In disguise as her friend, Ha-ri shows up to a blind date to scare him away. But plans go awry when he turns out to be her CEO \u2014 and makes a proposal.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/pzr43c48eKRTfHCkspWia2J35Fw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/icgOrvpT7ANec2rBdzZQPwB7Ykj.jpg",
+      "plot_overview": "The unvarnished truth of life as a doctor working in obstetrics and gynaecology.",
       "genres": [
-        "comedy",
-        "drama"
+        "Comedy",
+        "Drama"
       ],
-      "user_rating": 8.44,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2022-02-28",
+      "release_date": "2022-02-08",
       "streaming_services": [
         {
           "service_id": 8,
@@ -27,10 +26,64 @@
           "region": "US"
         }
       ],
-      "networks": [],
-      "imdb_id": null,
-      "tmdb_id": 154825,
-      "relevance_score": 11.4769
+      "tmdb_id": 154359
+    },
+    {
+      "id": 154385,
+      "title": "BEEF",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/25ih0Xq2zWbxhhKxwhvswKYQyEr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2VHbof9yaNhovEnaancBkXEULCT.jpg",
+      "plot_overview": "A road rage incident between two strangers \u2014 a failing contractor and an unfulfilled entrepreneur \u2014 sparks a feud that brings out their darkest impulses.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.75,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-04-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 154385
+    },
+    {
+      "id": 154521,
+      "title": "The Kardashians",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pLeSPrwEmxwaV1vqzdVfAgnUvXc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iZQj2vw0wImBJZ2rBqzNySD2FgJ.jpg",
+      "plot_overview": "The family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khlo\u00e9, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilarious joys of playtime and school drop-offs, this series brings viewers into the fold with a rivetingly honest story of love & life in the spotlight.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 8.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-04-14",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 154521
     }
   ]
 }

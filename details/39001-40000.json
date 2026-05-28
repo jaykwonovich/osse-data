@@ -1,7 +1,34 @@
 {
   "range": "39001-40000",
-  "updated_at": 1766207314804,
+  "updated_at": 1780003048298,
   "shows": [
+    {
+      "id": 39185,
+      "title": "Vera",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yeYImRVVEX6LM2151oEkmNUKLVR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6LQdA5QPX7tjxPxD3l6hufGA2Ko.jpg",
+      "plot_overview": "A sharp detective with a messy life, DCI Vera Stanhope patrols her \u201cpatch\u201d of northeast England, pursuing the truth in cases of murder, kidnapping, and blackmail. Vera is obsessive about her work and faces the world with caustic wit, guile and courage.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-05-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 39185
+    },
     {
       "id": 39269,
       "title": "Scandal",
@@ -13,15 +40,21 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.204,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-04-05",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -32,14 +65,14 @@
       "title": "Once Upon a Time",
       "type": "tv_series",
       "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/w0DSg9UYPdT9QE2r8AgyXIe28aV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/u95scYysMZvBoekSLmMNJjeqXcY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AmJ72AKL73mvhXyVgkFb8pUbIa9.jpg",
-      "plot_overview": "There is a town in Maine where every story book character you've ever known is trapped between two worlds, victims of a powerful curse. Only one knows the truth and only one can break the spell.\n\nEmma Swan is a 28-year-old bail bonds collector who has been supporting herself since she was abandoned as a baby. Things change for her when her son Henry, whom she abandoned years ago, finds her and asks for her help explaining that she is from a different world where she is Snow White's missing daugh",
+      "plot_overview": "There is a town in Maine where every story book character you've ever known is trapped between two worlds, victims of a powerful curse. Only one knows the truth and only one can break the spell.",
       "genres": [
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.392,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-10-23",
@@ -60,18 +93,45 @@
       "tmdb_id": 39272
     },
     {
+      "id": 39276,
+      "title": "Unforgettable",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AvbMRqe3wSe4DBzIYl56CBlcalw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xadC4VMl6UPRdBINAUgTBmYL7BF.jpg",
+      "plot_overview": "Former Syracuse, New York, police detective Carrie Wells has hyperthymesia, a rare medical condition that gives her the ability to visually remember everything. She reluctantly joins the New York City Police Department's Queens homicide unit after her former boyfriend and partner asks for help with solving a case. The move allows her to try to find out the one thing she has been unable to remember, which is what happened the day her sister was murdered.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-09-20",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 39276
+    },
+    {
       "id": 39279,
       "title": "Hart of Dixie",
       "type": "tv_series",
       "year": 2011,
       "poster_url": "https://image.tmdb.org/t/p/w342/xOwH2ZUtdzqeat5RhiD3oes2ASx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yDgfmgwHamK6DbKJ5tqb3QF6ipv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4IczNLXH4SgmNu7BpSUOHkyWV2r.jpg",
       "plot_overview": "New Yorker Zoe Hart has it all figured out - after graduating top of her class from medical school, she'll follow in her father's footsteps and become a cardio-thoracic surgeon. But when her dreams fall apart, Zoe decides to work at a small practice in Bluebell, Alabama.",
       "genres": [
         "Drama",
         "Comedy"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.275,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-09-26",
@@ -96,7 +156,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.261,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-10-11",
@@ -111,31 +171,6 @@
       "tmdb_id": 39297
     },
     {
-      "id": 39340,
-      "title": "2 Broke Girls",
-      "type": "tv_series",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wW1SDEoZ6pDfnSkVQuXwOo8ICep.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/u04AvxFIDgL9JSd9xoVNK3BoBEd.jpg",
-      "plot_overview": "Comedy about the unlikely friendship that develops between two very different young women who meet waitressing at a diner in trendy Williamsburg, Brooklyn, and form a bond over one day owning their own successful cupcake business. Only one thing stands in their way \u2013 they\u2019re broke.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 7.203,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2011-09-19",
-      "streaming_services": [
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 39340
-    },
-    {
       "id": 39351,
       "title": "Grimm",
       "type": "tv_series",
@@ -148,15 +183,21 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.271,
+      "user_rating": 8.267,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-10-28",
       "streaming_services": [
         {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -168,21 +209,21 @@
       "type": "tv_series",
       "year": 2011,
       "poster_url": "https://image.tmdb.org/t/p/w342/qx7XytRgg1F03NN5BoK8jx3Cyft.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xo5iR9QZ9pj8tiGFALs0Ven0HT4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/u7XADmNNOyuza7UkoAa94bycqp3.jpg",
       "plot_overview": "When Emily Thorne moves to the Hamptons, everyone wonders about the new girl, but she knows everything about them, including what they did to her family. Years ago, they took everything from her. Now, one by one, she's going to make them pay.",
       "genres": [
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.557,
+      "user_rating": 7.562,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-09-21",
       "streaming_services": [
         {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -199,7 +240,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.067,
+      "user_rating": 7.103,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-01-12",
@@ -214,32 +255,6 @@
       "tmdb_id": 39360
     },
     {
-      "id": 39414,
-      "title": "Paper Man",
-      "type": "movie",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wneK8G9E26FUqYo4KjPlsD0TIII.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oec9dd990pRQ8W3meakCuAQKX6o.jpg",
-      "plot_overview": "A coming-of-middle-age comedy that chronicles the unlikely friendship between failed author Richard Dunne and a Long Island teen who teaches him a thing or two about growing up, all under the disapproving eye of his long-suffering wife and his imaginary Superhero friend.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "user_rating": 6.31,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2009-06-15",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 39414
-    },
-    {
       "id": 39486,
       "title": "Secretariat",
       "type": "movie",
@@ -250,7 +265,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.408,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-08-20",
@@ -263,32 +278,6 @@
         }
       ],
       "tmdb_id": 39486
-    },
-    {
-      "id": 39545,
-      "title": "TiMER",
-      "type": "movie",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/i9QHzVqko9YxNCGdH8vnruy78nK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fYrWYtAQoeW00vflpeVbvJjkEjb.jpg",
-      "plot_overview": "When implanted in a person's wrist, a TiMER counts down to the day the wearer finds true love. But Oona O'Leary faces the rare dilemma of a blank TiMER. Her soul mate - whoever and wherever he is - has yet to have a TiMER implanted. Staring down the barrel of thirty and tired of waiting for her would-be life partner to get off the dime, Oona breaks her own rules and falls for Mikey, a charming and inappropriately young supermarket clerk with a countdown of four months.",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "user_rating": 6.274,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2009-05-14",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 39545
     },
     {
       "id": 39793,
@@ -327,7 +316,7 @@
         "Crime",
         "Drama"
       ],
-      "user_rating": 7.48,
+      "user_rating": 7.461,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-08-02",

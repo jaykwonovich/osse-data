@@ -1,6 +1,6 @@
 {
   "range": "98001-99000",
-  "updated_at": 1766207314824,
+  "updated_at": 1780003048319,
   "shows": [
     {
       "id": 98161,
@@ -14,7 +14,7 @@
         "Mystery",
         "Drama"
       ],
-      "user_rating": 7.556,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-04-03",
@@ -39,7 +39,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.668,
+      "user_rating": 7.547,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-05-01",
@@ -51,7 +51,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 98177
+      "tmdb_id": 98177,
+      "is_returning": true,
+      "next_season": 5,
+      "next_air_date": "2026-07-08",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 98178,
@@ -65,7 +70,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "user_rating": 7.365,
+      "user_rating": 7.333,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-03-06",
@@ -80,54 +85,84 @@
       "tmdb_id": 98178
     },
     {
-      "id": 98566,
-      "title": "Teenage Mutant Ninja Turtles",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eezsbzYPbYKjjh6E1XHDBNlLynh.jpg",
-      "plot_overview": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 5.925,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-08-07",
-      "streaming_services": [
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 98566
-    },
-    {
-      "id": 98892,
-      "title": "Schmigadoon!",
+      "id": 98187,
+      "title": "The Irregulars",
       "type": "tv_series",
       "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/s2Z5Rm7H0DFHX8cF0CQjIFOd6Am.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oFIM75OU39RUBEK2I1jD8PPRbUm.jpg",
-      "plot_overview": "Josh and Melissa are a struggling couple whose lives are transformed when they get trapped in a magical musical town\u2014with a mission they must complete.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/qN6HCKR3ZRqbpGBWFctVlSTKR2k.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4sIjlFa2jn0SsWQVuTBEFgQy4eH.jpg",
+      "plot_overview": "In Victorian London, a gang of troubled street teens are manipulated into solving crimes for the sinister Doctor Watson and his mysterious business partner, the elusive Sherlock Holmes. As the crimes take on a horrifying supernatural edge and a dark power emerges, it'll be up to the Irregulars to come together to save not only London but the entire world.",
       "genres": [
-        "Comedy"
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 6.9,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2021-07-16",
+      "release_date": "2021-03-26",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 98892
+      "tmdb_id": 98187
+    },
+    {
+      "id": 98201,
+      "title": "Cruel Summer",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/x7CMVS7kjWJFdt1wdtj5rdvTwss.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k4bE2C5qvnqafgi2cNx6yAoNtff.jpg",
+      "plot_overview": "Taking place over three summers - 1993, 1994, 1995 - in a small Texas town, a beautiful popular teen, Kate, is abducted and, seemingly unrelated, a girl, Jeanette, goes from being a sweet, awkward outlier to the most popular girl in town and, by \u201995, the most despised person in America.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.404,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-04-20",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 98201
+    },
+    {
+      "id": 98494,
+      "title": "Glitch Techs",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hQMgyyCihjbzgLy7WwtQ3dAvRzm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ojyovqp6R40pSVUL0Ct17Jf0b6a.jpg",
+      "plot_overview": "Game-world monsters are wreaking real-world havoc. Here comes tech support!",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "user_rating": 8.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-02-21",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 98494
     }
   ]
 }

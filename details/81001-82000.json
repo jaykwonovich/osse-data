@@ -1,68 +1,188 @@
 {
   "range": "81001-82000",
-  "updated_at": 1766207314818,
+  "updated_at": 1780003048311,
   "shows": [
+    {
+      "id": 81046,
+      "title": "The Dragon Prince",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/d7PIRa6ez7ZEl9D4JUrnSsmcnVD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sD3OAmfxHRXWmZFROjRRL3HcPXj.jpg",
+      "plot_overview": "An extraordinary discovery inspires two human princes and an elven assassin to team up on an epic quest to bring peace to their warring lands.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 8.218,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-09-14",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81046
+    },
     {
       "id": 81144,
       "title": "The Neighborhood",
       "type": "tv_series",
       "year": 2018,
       "poster_url": "https://image.tmdb.org/t/p/w342/uItUViUsFAY7wzufTS2zWNbuuAm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rca7DzvnlJGYtyOmtC111PCZsJ6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2GlkdaHtxORqWfPccv2YLDoLxMb.jpg",
       "plot_overview": "The nicest guy in the Midwest moves his family into a tough neighborhood in Los Angeles where not everyone appreciates his extreme neighborliness. That includes their new next-door neighbor Calvin.",
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.577,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-10-01",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 81144,
-      "is_returning": true,
-      "next_season": 8,
-      "next_air_date": "2026-02-23",
-      "next_episode": 9,
-      "relevance_score": 75
-    },
-    {
-      "id": 81188,
-      "title": "Rise of the Guardians",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sW4qOa9yF0Ikg7lppncQ0n5UhKX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sDPk862OKB0Ckkvebo4M2k5AKly.jpg",
-      "plot_overview": "When an evil spirit known as Pitch lays down the gauntlet to take over the world, the immortal Guardians must join forces for the first time to protect the hopes, beliefs and imagination of children all over the world.",
-      "genres": [
-        "Animation",
-        "Family"
-      ],
-      "user_rating": 7.37,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2012-11-21",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 81188
+      "tmdb_id": 81144
+    },
+    {
+      "id": 81290,
+      "title": "The Kominsky Method",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vnK8b6bNl1koSthTGbzgMPnh7Ky.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rlD69tjmWcbcjY94imq7uaB0Tj8.jpg",
+      "plot_overview": "Acting coach Sandy Kominsky and best friend Norman Newlander keep each other laughing as they navigate the ups and downs of getting older.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-11-16",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81290
+    },
+    {
+      "id": 81292,
+      "title": "Messiah",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qXWSlaizMJ1czYUiVxhgUixVdgJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AgP8MQcaG5X1ewCQMZdiP9ews4Y.jpg",
+      "plot_overview": "A wary CIA officer investigates a charismatic man who sparks a spiritual movement and stirs political unrest. Who exactly is he? And what does he want?",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.239,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-01-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81292
+    },
+    {
+      "id": 81349,
+      "title": "Devs",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5yf5yfogIxhHhDU7F2Nuk1BsTYQ.jpg",
+      "plot_overview": "Young computer engineer Lily Chan investigates the secretive development division of her employer, a cutting-edge tech company based in San Francisco, which she believes is behind the murder of her boyfriend.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.341,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-03-05",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81349
+    },
+    {
+      "id": 81354,
+      "title": "Ratched",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mDakjPhBYXIKSgeDiWl7hBzvsrD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lJ9fIVfI5rYBRjnjbBYGVxS74tc.jpg",
+      "plot_overview": "An origins story, beginning in 1947, which follows Ratched's journey and evolution from nurse to full-fledged monster tracking her murderous progression through the mental health care system.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-09-18",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81354
+    },
+    {
+      "id": 81355,
+      "title": "When They See Us",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oPv3nNtkuc6EPEql5lgdOuQNHuG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5IIg0PhE764qVuKICgmSAE0Jotx.jpg",
+      "plot_overview": "Five teens from Harlem become trapped in a nightmare when they're falsely accused of a brutal attack in Central Park.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 8.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-05-31",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81355
     },
     {
       "id": 81356,
@@ -76,7 +196,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 8.217,
+      "user_rating": 8.207,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-01-11",
@@ -91,6 +211,136 @@
       "tmdb_id": 81356
     },
     {
+      "id": 81357,
+      "title": "Dead to Me",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mAj18PHeACxqcrEus4pD8pksRmB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/j4TXQ7OJsLx1Ba6z8XA7is0DcRZ.jpg",
+      "plot_overview": "A hotheaded widow searching for the hit-and-run driver who mowed down her husband befriends an eccentric optimist who isn't quite what she seems.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+      ],
+      "user_rating": 7.304,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-05-03",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81357
+    },
+    {
+      "id": 81358,
+      "title": "Mr Inbetween",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1FkONly4j7hxi6Pz5CmuhRN1Ops.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2INMEKxee4z0mVYpHCS4AdPxgOb.jpg",
+      "plot_overview": "Ray Shoesmith is a father, ex-husband, boyfriend and best friend: tough roles to juggle in the modern age. Even harder when you\u2019re a criminal for hire.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 8.258,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-09-25",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81358
+    },
+    {
+      "id": 81496,
+      "title": "The Truth About the Harry Quebert Affair",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kgUogaLrvHjpbI80MPmNhGyBf1R.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/msvKSDCHKMhEQ40OCMidnjcTrjN.jpg",
+      "plot_overview": "A writer gets caught up in a murder investigation involving his mentor, an esteemed American author. Based on the book of the same name, by Jo\u00ebl Dicker.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-09-04",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81496
+    },
+    {
+      "id": 81499,
+      "title": "A Million Little Things",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/Li7uDf1jUEOP4HJaKHX3iXxlad.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nz7wluvOuF8zwePBp2WydDEShOB.jpg",
+      "plot_overview": "A group of friends from Boston who feel stuck in life experience an unexpected wake-up call after one of their friends dies unexpectedly.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.16,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-09-26",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81499
+    },
+    {
+      "id": 81559,
+      "title": "V Wars",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/njOxOfBp0d7DgdrMnOH1VugC9yZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/12Mo9OkBwj32QJKCGV5xKBko9OV.jpg",
+      "plot_overview": "After a mysterious disease begins transforming people into vampires, Dr. Luther Swann is pitted against his best friend, now a powerful vampire leader.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "user_rating": 7.265,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-12-05",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81559
+    },
+    {
       "id": 81723,
       "title": "The Gilded Age",
       "type": "tv_series",
@@ -101,7 +351,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.657,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-01-24",
@@ -114,6 +364,57 @@
         }
       ],
       "tmdb_id": 81723
+    },
+    {
+      "id": 81829,
+      "title": "Light as a Feather",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xwX3TLo5eVHKAhX8pysq4cMQgi4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vlqfCjpxoEfplNrxsGWT9hzsaWe.jpg",
+      "plot_overview": "Five teen girls deal with the supernatural fallout stemming from an innocent game of \u201cLight as a Feather, Stiff as a Board.\u201d When the girls start dying off in the exact way that was predicted, the survivors must figure out why they\u2019re being targeted \u2014 and whether the evil force hunting them down is one of their own.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.654,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-10-12",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81829
+    },
+    {
+      "id": 81983,
+      "title": "Paradise PD",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/desSj4kx0y9p61vm9QBE3Wm8GxK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eVj45YR8BUKblq2YaUw8xu255xF.jpg",
+      "plot_overview": "An eager young rookie joins the ragtag small-town police force led by his dad as they bumble, squabble and snort their way through a big drug case.",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-08-31",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 81983
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "61001-62000",
-  "updated_at": 1766207314811,
+  "updated_at": 1780003048304,
   "shows": [
     {
       "id": 61014,
@@ -8,12 +8,12 @@
       "type": "tv_series",
       "year": 2014,
       "poster_url": "https://image.tmdb.org/t/p/w342/oeEqDSIVOi6q0GcZj8L9Q6G7fGC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5dH0UdUDON0FOKfm9guXgOkWMlH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mw9EcIFuWUjkOTF60aYpbpM02Qu.jpg",
       "plot_overview": "Set in downtown New York in 1900, 'The Knick' is centered on the Knickerbocker Hospital and its staff, notably Dr. John Thackery, the hospital's brilliant chief surgeon who pushes medicine's boundaries, pioneering new procedures despite a severe drug addiction.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.854,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-08-08",
@@ -46,28 +46,80 @@
       "release_date": "2014-09-25",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 61056
     },
     {
+      "id": 61112,
+      "title": "Manhattan",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qZeMzP3mNC9JbufbSmZYT0Z7rpj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mx7CXbxPGoQZ4cIGkMB4dvjQBV4.jpg",
+      "plot_overview": "Set against the backdrop of the greatest clandestine race against time in the history of science with the mission to build the world's first atomic bomb in Los Alamos, New Mexico. Flawed scientists and their families attempt to co-exist in a world where secrets and lies infiltrate every aspect of their lives.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-07-27",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61112
+    },
+    {
+      "id": 61118,
+      "title": "You're the Worst",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/whXfP89yXz4AwQ9dzWCTGcl9YvV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3gqDstdBLUbJ2jY3hl953iS97D4.jpg",
+      "plot_overview": "Narcissistic, brash, and self-destructive Jimmy Shive-Overly thinks all relationships are doomed. Cynical, people-pleasing, and stubborn Gretchen Cutler knows that relationships aren't for her. So when they meet at a wedding, it's only natural that the two of them go home together.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.359,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-07-17",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61118
+    },
+    {
       "id": 61175,
       "title": "Steven Universe",
       "type": "tv_series",
       "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gKUuGaeZ9qiJ9Spoq0LrANQSN5x.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/e5YSF0Inv9eL77jv2WQtNOOB3Bg.jpg",
       "plot_overview": "A young boy takes his mother's place in a group of gemstone-based beings, and must learn to control his powers.",
       "genres": [
         "Animation",
-        "Comedy",
         "Action & Adventure",
-        "Family",
-        "Sci-Fi & Fantasy"
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Family"
       ],
       "user_rating": 8.4,
       "critic_score": null,
@@ -96,7 +148,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 8.546,
+      "user_rating": 8.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-08-22",
@@ -123,27 +175,15 @@
         "Action & Adventure",
         "Drama"
       ],
-      "user_rating": 7.251,
+      "user_rating": 7.258,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-09-12",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -160,11 +200,17 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.123,
+      "user_rating": 7.133,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-09-24",
       "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 337,
           "service_name": "Disney+",
@@ -181,31 +227,6 @@
       "tmdb_id": 61381
     },
     {
-      "id": 61427,
-      "title": "Kingdom",
-      "type": "tv_series",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xkRyopANOnO60KWm6DjozXlq9w4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vzgIoCjNKDDpeEoDRqzTEwXPSo6.jpg",
-      "plot_overview": "A raw family drama set against the world of Mixed Martial Arts (MMA) in Venice, California. Alvey Kulina owns Navy St. MMA with the help of his girlfriend Lisa Prince. He is willing to go through extraordinary means to make sure his fighters are taken care of, but all of this responsibility comes at a steep price. He has complicated relationships with both of his sons, Jay and Nate, who are both struggling with their own identities and places within Alvey\u2019s life and gym.",
-      "genres": [
-        "Drama"
-      ],
-      "user_rating": 6.877,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-10-08",
-      "streaming_services": [
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 61427
-    },
-    {
       "id": 61457,
       "title": "Grantchester",
       "type": "tv_series",
@@ -218,7 +239,7 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.312,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-10-06",
@@ -230,53 +251,21 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 61457,
-      "is_returning": true,
-      "next_season": 10,
-      "next_air_date": "2026-01-07",
-      "next_episode": 1,
-      "relevance_score": 75
-    },
-    {
-      "id": 61511,
-      "title": "Father Brown",
-      "type": "tv_series",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/u8LUC3O1hiEDKP2SFZK68iYqMzl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eesuJC91i5MPGOZvEtoa11cPqe5.jpg",
-      "plot_overview": "Father Brown is based on G. K. Chesterton's detective stories about a Catholic priest who doubles as an amateur detective in order to try and solve mysteries.",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
-      ],
-      "user_rating": 7.6,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2013-01-14",
-      "streaming_services": [
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 61511
+      "tmdb_id": 61457
     },
     {
       "id": 61550,
       "title": "Marvel's Agent Carter",
       "type": "tv_series",
       "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fe79VYyLp5ZBstpJ4oukpuUT3B.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/MaQ7hbNsiJ30p14UgRdEnXDGMH.jpg",
       "plot_overview": "It's 1946, and peace has dealt Peggy Carter a serious blow as she finds herself marginalized when the men return home from fighting abroad. Working for the covert SSR (Strategic Scientific Reserve), Peggy must balance doing administrative work and going on secret missions for Howard Stark all while trying to navigate life as a single woman in America, in the wake of losing the love of her life - Steve Rogers.",
       "genres": [
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.529,
+      "user_rating": 7.53,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-01-06",
@@ -291,6 +280,58 @@
       "tmdb_id": 61550
     },
     {
+      "id": 61555,
+      "title": "The Missing",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yZnR6EccMv4Evcady5M8MSzAmuq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6LNiGx7KfdTPrIkkl6MjAXaDHmJ.jpg",
+      "plot_overview": "A gripping anthological relationship thriller series exploring the emotional fallout of a child's abduction not only on the family but on the wider community, told over two time frames.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-10-28",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61555
+    },
+    {
+      "id": 61585,
+      "title": "Olive Kitteridge",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2tuB2kGd4is7tFMhcOTfEGB96lm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yWUa2QDf64BVT9X1TiHluMjVCJl.jpg",
+      "plot_overview": "A look at a seemingly placid New England town that is actually wrought with illicit affairs, crime and tragedy, all told through the lens of Olive, whose wicked wit and harsh demeanor mask a warm but troubled heart and staunch moral center. The story spans 25 years and focuses on Olive's relationships with her husband, Henry, the good-hearted and kindly town pharmacist; their son, Christopher, who resents his mother's approach to parenting; and other members of their community.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.594,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-11-02",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61585
+    },
+    {
       "id": 61593,
       "title": "Mr. Pickles",
       "type": "tv_series",
@@ -302,7 +343,7 @@
         "Comedy",
         "Animation"
       ],
-      "user_rating": 8.158,
+      "user_rating": 8.1,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-09-21",
@@ -317,31 +358,33 @@
       "tmdb_id": 61593
     },
     {
-      "id": 61599,
-      "title": "The Librarians",
+      "id": 61617,
+      "title": "Over the Garden Wall",
       "type": "tv_series",
       "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1EBMUCxPjGQneeyshurFBpqXVL9.jpg",
-      "plot_overview": "A group of librarians set off on adventures in an effort to save mysterious, ancient artifacts. Based on the series of \"The Librarian\" movies.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hozufHEzqIRpqJrlyGDqnsyFrAQ.jpg",
+      "plot_overview": "Two brothers, Wirt and Greg, find themselves lost in the Unknown; a strange forest adrift in time. With the help of a wise old Woodsman and a foul-tempered bluebird named Beatrice, Wirt and Greg must travel across this strange land, in hope of finding their way home. Join them as they encounter surprises and obstacles on their journey through the wood.",
       "genres": [
-        "Action & Adventure",
-        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy",
+        "Animation",
+        "Family",
         "Comedy"
       ],
-      "user_rating": 7.177,
+      "user_rating": 8.569,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2014-12-07",
+      "release_date": "2014-11-03",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 61599
+      "tmdb_id": 61617
     },
     {
       "id": 61662,
@@ -354,19 +397,76 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.773,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-01-13",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 61662
+    },
+    {
+      "id": 61664,
+      "title": "Sense8",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kmyvlQ9QKzgdZY31rXaUlgCnzrB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/TePSNzSC8NoOkB7D7eIP3nIL1V.jpg",
+      "plot_overview": "One gunshot, one death, one moment out of time that irrevocably links eight minds in disparate parts of the world, putting them in each other's lives, each other's secrets, and in terrible danger. Ordinary people suddenly reborn as \"Sensates.\"",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "user_rating": 7.728,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-06-05",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61664
+    },
+    {
+      "id": 61671,
+      "title": "Unbreakable Kimmy Schmidt",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iWQMxRDCTruFjbQ79qxpHAmklNw.jpg",
+      "plot_overview": "When a woman is rescued from a doomsday cult and lands in New York City, she must navigate a world she didn't think even existed anymore.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.104,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-03-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61671
     },
     {
       "id": 61692,
@@ -379,7 +479,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.179,
+      "user_rating": 7.196,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-02-04",
@@ -405,19 +505,45 @@
         "Drama",
         "Soap"
       ],
-      "user_rating": 7.121,
+      "user_rating": 7.147,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-01-07",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 61733
+    },
+    {
+      "id": 61744,
+      "title": "Mozart in the Jungle",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gPKPcFffmdZhu91Wa103GN5NLCZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2ROn7ZDAFIzZsFzqsNB7DsclPLE.jpg",
+      "plot_overview": "In the tradition of Anthony Bourdain's \"Kitchen Confidential\" and Gelsey Kirkland's \"Dancing on my Grave\" comes an insider\u2019s look into the secret world of classical musicians.\n\nFrom her debut recital at Carnegie Recital Hall to the Broadway pits of \"Les Miserables\" and \"Miss Saigon,\" Blair Tindall has played with some of the biggest names in classical music for twenty-five years. Now in \"Mozart in the Jungle,\" Tindall exposes the scandalous rock and roll lifestyles of the musicians, conductors, ",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.52,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-02-06",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61744
     },
     {
       "id": 61791,
@@ -425,12 +551,12 @@
       "type": "movie",
       "year": 2011,
       "poster_url": "https://image.tmdb.org/t/p/w342/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dENLz9Np9EV5Ro8UIBhbKC8BmSS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6cCF0KMUO2QmrVsQFujkQduREXX.jpg",
       "plot_overview": "A highly intelligent chimpanzee named Caesar has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caesar decides to revolt against those who have harmed him.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.337,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-08-03",
@@ -445,6 +571,32 @@
       "tmdb_id": 61791
     },
     {
+      "id": 61838,
+      "title": "Barbie: Life in the Dreamhouse",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/c7HIZXKDaDekFAIcWU7bxP8cTv6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6ZYaLOle3iKOHlXqADnxt592v3O.jpg",
+      "plot_overview": "The series is set as a reality TV-esque show following Barbie, her sisters and her friends in the day-to-day activities that take place in the Dreamhouse and surrounding areas. Much of the humor in the show derives from parodying and lampooning both the traditional reality TV format and the Barbie franchise itself.",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 7.609,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-05-11",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61838
+    },
+    {
       "id": 61852,
       "title": "Henry Danger",
       "type": "tv_series",
@@ -456,9 +608,9 @@
         "Comedy",
         "Family",
         "Kids",
-        "Drama"
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.278,
+      "user_rating": 8.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-07-26",
@@ -473,76 +625,100 @@
       "tmdb_id": 61852
     },
     {
-      "id": 61865,
-      "title": "When Calls the Heart",
+      "id": 61854,
+      "title": "Nicky, Ricky, Dicky & Dawn",
       "type": "tv_series",
       "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bOLAOkzpj5jW8DZvBmRBd5knyug.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mTC6WbMEgZ6LLdwRqSDR5NVEslr.jpg",
-      "plot_overview": "Elizabeth Thatcher, a young school teacher from a wealthy Eastern family, migrates from the big city to teach school in a small coal mining town in the west.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/nBkA2uXAaySBmlrinn5KroFZn94.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rewalTto9U3qOysTv54HAwpcSIv.jpg",
+      "plot_overview": "The story of a 10-year-old girl Dawn Haley whose sibling rivalry with her three brothers is heightened by the fact that they are quadruplets.",
       "genres": [
-        "Drama",
-        "Western"
-      ],
-      "user_rating": 8.208,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-01-11",
-      "streaming_services": [
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 61865,
-      "is_returning": true,
-      "next_season": 13,
-      "next_air_date": "2026-01-04",
-      "next_episode": 1,
-      "relevance_score": 75
-    },
-    {
-      "id": 61888,
-      "title": "The Last Man on Earth",
-      "type": "tv_series",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6g6NdCgFxO8qVp0cosVOm4xdjQG.jpg",
-      "plot_overview": "The year is 2022, and after an unlikely event, only one man is left on earth: Phil Miller, who used to be just an average guy who loved his family and hated his job at the bank. Now, in his RV, Phil searches the country for other survivors.",
-      "genres": [
-        "Drama",
+        "Family",
+        "Kids",
         "Comedy"
       ],
-      "user_rating": 6.894,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2015-03-01",
+      "release_date": "2014-09-13",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 61888
+      "tmdb_id": 61854
+    },
+    {
+      "id": 61859,
+      "title": "The Night Manager",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
+      "plot_overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "user_rating": 7.735,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-02-21",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61859
+    },
+    {
+      "id": 61864,
+      "title": "Good Witch",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/c5B9CdRs9MY6Fgknv5uZQKWtl6F.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eLNcBfr3212D09aYx0VChy1EpDY.jpg",
+      "plot_overview": "Cassie Nightingale, Middleton\u2019s favorite enchantress, and her young-teenage daughter Grace, who shares that same special intuition as her mom, welcome Dr. Sam Radford and his son to town. When the New York transplants move in next to the Grey House, they are immediately spellbound by the mother-daughter duo next door, but Sam and Cassie quickly find they may not see eye to eye. With her signature charm, Cassie attempts to bring everyone together, ensuring all of Middleton is in for new changes, ",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.71,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-02-28",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61864
     },
     {
       "id": 61889,
       "title": "Marvel's Daredevil",
       "type": "tv_series",
       "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ig5sp7GzfQZw2dXgrM8OXUpOPri.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6KclfESXQia4BbJNv4xUnBqaWfe.jpg",
       "plot_overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell\u2019s Kitchen as Daredevil.",
       "genres": [
         "Crime",
         "Drama",
         "Action & Adventure"
       ],
-      "user_rating": 8.158,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-04-10",
@@ -585,6 +761,31 @@
       "tmdb_id": 61915
     },
     {
+      "id": 61920,
+      "title": "Catastrophe",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2saxUzvXv2b0FgjuzAqItH5bH0x.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dUO9Ufm9hX0H5q6uBnP4WAGSU1s.jpg",
+      "plot_overview": "Rob Delaney and Sharon Horgan write and star in a comedy that follows an American man and an Irish woman who make a bloody mess as they struggle to fall in love in London.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.542,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-01-19",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61920
+    },
+    {
       "id": 61923,
       "title": "Star vs. the Forces of Evil",
       "type": "tv_series",
@@ -599,7 +800,7 @@
         "Sci-Fi & Fantasy",
         "Family"
       ],
-      "user_rating": 8.353,
+      "user_rating": 8.366,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-01-18",
@@ -607,12 +808,6 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -631,7 +826,7 @@
         "Documentary",
         "Crime"
       ],
-      "user_rating": 7.989,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-02-08",
@@ -646,31 +841,29 @@
       "tmdb_id": 61929
     },
     {
-      "id": 61969,
-      "title": "Angie Tribeca",
+      "id": 61986,
+      "title": "Bloodline",
       "type": "tv_series",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xi6gGST5L7FiUiYDPifHGtzl3zG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/abPpGpwh7lpbNJxmut4hSEPTZfk.jpg",
-      "plot_overview": "Lone-wolf detective Angie Tribeca and a squad of committed LAPD detectives investigate the most serious cases, from the murder of a ventriloquist to a rash of baker suicides.",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uEaqgEjAShqrziUia4XBzvXXGXP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/78s4wDyITtvjMRHHn2Rk7IPCtcg.jpg",
+      "plot_overview": "A dramatic thriller that explores the demons lurking beneath the surface of a contemporary American family. The Rayburns are hard-working pillars of their Florida Keys community. But when the black sheep son comes home for the 45th anniversary of his parents' hotel, he threatens to expose the Rayburns' dark secrets and shameful past, pushing his siblings to the limits of family loyalty.",
       "genres": [
-        "Comedy",
-        "Action & Adventure",
-        "Crime"
+        "Drama"
       ],
-      "user_rating": 6.391,
+      "user_rating": 7.119,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2016-01-17",
+      "release_date": "2015-03-20",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 61969
+      "tmdb_id": 61986
     }
   ]
 }

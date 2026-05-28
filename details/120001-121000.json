@@ -1,7 +1,61 @@
 {
   "range": "120001-121000",
-  "updated_at": 1766207314829,
+  "updated_at": 1780003048324,
   "shows": [
+    {
+      "id": 120452,
+      "title": "Dan Brown's The Lost Symbol",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rc99fLHeOH4QBROUzAyPeKCvt6T.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hZ9MlxA80rLGh5OExoJEeIEBByD.jpg",
+      "plot_overview": "The early adventures of young Harvard symbologist Robert Langdon, who must solve a series of deadly puzzles to save his kidnapped mentor and thwart a chilling global conspiracy.",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.224,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-09-16",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 120452
+    },
+    {
+      "id": 120462,
+      "title": "Them",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bJw1VZ4ACt5TnAvJbHcprzgYc1E.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nleG20xwqGsEbCEHnIRRwZmz3l6.jpg",
+      "plot_overview": "A limited anthology series that explores terror in America.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-04-09",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 120462
+    },
     {
       "id": 120911,
       "title": "The Terminal List",
@@ -9,24 +63,29 @@
       "year": 2022,
       "poster_url": "https://image.tmdb.org/t/p/w342/jbyaKYNexl1poKZnEmB6Qobn60s.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
-      "plot_overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military\u2019s command structure, Reece applies the lessons he\u2019s learned from nearly two decades of warfare to hunt down the people responsible.",
+      "plot_overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
       "genres": [
         "Action & Adventure",
         "Drama"
       ],
-      "user_rating": 7.972,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-06-30",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 120911
+      "tmdb_id": 120911,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-10-21",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 120998,
@@ -40,7 +99,7 @@
         "Crime",
         "Mystery"
       ],
-      "user_rating": 7.474,
+      "user_rating": 7.469,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-01-26",

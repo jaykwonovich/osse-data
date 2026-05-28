@@ -1,6 +1,6 @@
 {
   "range": "397001-398000",
-  "updated_at": 1766207314870,
+  "updated_at": 1780002330966,
   "shows": [
     {
       "id": 397243,
@@ -59,6 +59,18 @@
           "service_id": 613,
           "service_name": "Freevee",
           "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],

@@ -1,6 +1,6 @@
 {
   "range": "459001-460000",
-  "updated_at": 1766207314878,
+  "updated_at": 1780002330974,
   "shows": [
     {
       "id": 459151,
@@ -15,7 +15,7 @@
         "Comedy",
         "Family"
       ],
-      "user_rating": 7.341,
+      "user_rating": 7.34,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-07-01",
@@ -28,6 +28,31 @@
         }
       ],
       "tmdb_id": 459151
+    },
+    {
+      "id": 459202,
+      "title": "Boo 2! A Madea Halloween",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wqxKaffqTUKI9cl8YgBIm8IAZlR.jpg",
+      "plot_overview": "Madea and the gang encounter monsters, goblins and boogeymen at a haunted campground.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 5.74,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-10-20",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 459202
     },
     {
       "id": 459910,
@@ -50,9 +75,38 @@
           "service_name": "Freevee",
           "type": "free",
           "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 459910
+    },
+    {
+      "id": 459928,
+      "title": "12 Feet Deep",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3B4MLYYr5WTjQiJMbA8fCFF8M4O.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AhwEkJY1RRna8M0dcSAhR9aCeF4.jpg",
+      "plot_overview": "Two sisters are trapped under the fiberglass cover of an Olympic sized public pool and must brave the cold and each other to survive the harrowing night.",
+      "genres": [],
+      "user_rating": 6.026,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-11-08",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 459928
     }
   ]
 }

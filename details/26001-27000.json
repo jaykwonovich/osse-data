@@ -1,62 +1,41 @@
 {
   "range": "26001-27000",
-  "updated_at": 1766207314800,
+  "updated_at": 1780003048294,
   "shows": [
     {
-      "id": 26389,
-      "title": "From Paris with Love",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2nD0RAWVOccomLp1iToVJn6KC2a.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fra7Gk8xHPWaY4g8p6ue0o2yKOJ.jpg",
-      "plot_overview": "James Reese has a good job as an ambassador's aid in France, but his real passion is a side gig\u2014working in a minor role in the CIA. He would love to be a full-fledged agent and can't believe his luck when he lands an assignment with Charlie Wax. Trigger-happy Charlie soon has James crying for his desk job, but when he learns that the same guys they're trying to catch are after him, James realises that Charlie may be his only hope of survival.",
+      "id": 26101,
+      "title": "The Keepers",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kgZE2Hx2zCGNJMPbOet9B7IcWbu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tXRpbIxcQeGxfs0opfm6XgXAyzX.jpg",
+      "plot_overview": "This docuseries examines the decades-old murder of Sister Catherine Cesnik and its suspected link to a priest accused of abuse.",
       "genres": [
+        "Documentary",
+        "Mystery",
         "Crime"
       ],
-      "user_rating": 6.353,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2010-02-04",
+      "release_date": "2017-05-19",
       "streaming_services": [
         {
-          "service_id": 9,
-          "service_name": "Prime Video",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 26389
-    },
-    {
-      "id": 26466,
-      "title": "Triangle",
-      "type": "movie",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cRlMrbc4Iof7vN0ZqHwJnMBYBLi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
-      "plot_overview": "When Jess sets sail on a yacht with a group of friends, she cannot shake the feeling that there is something wrong.",
-      "genres": [],
-      "user_rating": 6.916,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2009-10-16",
-      "streaming_services": [
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 26466
+      "tmdb_id": 26101
     },
     {
       "id": 26736,
       "title": "Wizards of Waverly Place: The Movie",
       "type": "movie",
       "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rMXiAOSNLfBwrknpOsuOlmvfr89.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dhxrNQ13cIvg7NMYPqmyCfbxnN7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vrjLcGBLurVem5lXN8237qz4tyE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9Qvc6fzE3PzodgJ9no11GlLYZJF.jpg",
       "plot_overview": "A young wizard accidentally conjures a spell that puts her family in jeopardy.",
       "genres": [
         "Family",
@@ -76,31 +55,6 @@
         }
       ],
       "tmdb_id": 26736
-    },
-    {
-      "id": 26954,
-      "title": "Puppet Master II",
-      "type": "movie",
-      "year": 1990,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dy5tzZFWFTjbNyG4KNP6yMjZ6l9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/g1p7uOEcfcDmwztyEzUmkGagG47.jpg",
-      "plot_overview": "A new team of paranormal researchers has come to the hotel to investigate its murder-soaked past; the puppets -- led by a new member, Torch -- shed some light on the matter, as they tunnel, burn, strangle and hook to survive.",
-      "genres": [
-        "Mystery"
-      ],
-      "user_rating": 5.9,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1990-02-07",
-      "streaming_services": [
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 26954
     }
   ]
 }

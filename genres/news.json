@@ -1,51 +1,40 @@
 {
   "genre": "news",
-  "updated_at": 1765702770726,
+  "updated_at": 1780003048272,
   "shows": [
     {
-      "id": 2035,
-      "title": "20/20",
+      "id": 60694,
+      "title": "Last Week Tonight with John Oliver",
       "type": "tv_series",
-      "year": 1978,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cmqmilQ6l9zAWImNCvRLtXlvQ3Q.jpg",
-      "genre": "news",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 6.1,
-      "release_date": "1978-06-06",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "genre": "talk",
       "genres": [
+        "talk",
+        "comedy",
         "news"
-      ]
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.81,
+      "release_date": "2014-04-27"
     },
     {
-      "id": 308207,
-      "title": "News Manh\u00e3",
+      "id": 118043,
+      "title": "Amend: The Fight for America",
       "type": "tv_series",
-      "year": 2025,
-      "poster_url": null,
-      "genre": "news",
-      "service_id": 0,
-      "service_name": "Coming Soon",
-      "user_rating": 0.0,
-      "release_date": "2025-12-15",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zvgMH7sIBhBtXZ10td59zNDYqrt.jpg",
+      "genre": "documentary",
       "genres": [
-        "news"
-      ]
-    },
-    {
-      "id": 308206,
-      "title": "News 1\u00aa Edi\u00e7\u00e3o",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": null,
-      "genre": "news",
-      "service_id": 0,
-      "service_name": "Coming Soon",
-      "user_rating": 0.0,
-      "release_date": "2025-12-15",
-      "genres": [
-        "news"
-      ]
+        "documentary",
+        "news",
+        "war & politics"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.1,
+      "release_date": "2021-02-17"
     }
   ]
 }

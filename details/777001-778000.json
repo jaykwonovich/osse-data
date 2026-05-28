@@ -1,6 +1,6 @@
 {
   "range": "777001-778000",
-  "updated_at": 1766207314909,
+  "updated_at": 1780002331011,
   "shows": [
     {
       "id": 777245,
@@ -23,6 +23,12 @@
           "service_name": "Freevee",
           "type": "free",
           "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 777245
@@ -36,7 +42,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2n7lYEeIbucsEQCswRcVB6ZYmMP.jpg",
       "plot_overview": "An orphaned teen hits the road with a mysterious robot to find her long-lost brother, teaming up with a smuggler and his wisecracking sidekick.",
       "genres": [],
-      "user_rating": 6.5,
+      "user_rating": 6.502,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-03-07",

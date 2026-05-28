@@ -1,7 +1,33 @@
 {
   "range": "133001-134000",
-  "updated_at": 1766207314831,
+  "updated_at": 1780003048327,
   "shows": [
+    {
+      "id": 133723,
+      "title": "Harry Potter: Hogwarts Tournament of Houses",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tEHHfzqHnfNJUp4L30wQeYl2xRo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/saCYLtfiYHxvnQzAQTP4mc6YHtX.jpg",
+      "plot_overview": "Wizarding World fans put their Harry Potter knowledge to the test for the ultimate honor to be named House Cup champion.",
+      "genres": [
+        "Reality",
+        "Family"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-11-28",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 133723
+    },
     {
       "id": 133727,
       "title": "Acapulco",
@@ -14,7 +40,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.322,
+      "user_rating": 7.301,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-10-08",
@@ -40,7 +66,7 @@
         "Action & Adventure",
         "Comedy"
       ],
-      "user_rating": 7.782,
+      "user_rating": 7.721,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-07-27",
@@ -53,6 +79,32 @@
         }
       ],
       "tmdb_id": 133748
+    },
+    {
+      "id": 133903,
+      "title": "Marvel's Hit-Monkey",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sqEyRJvBVF1YphHPWCfCRNWdIMe.jpg",
+      "plot_overview": "After a high-profile political assassination goes sideways, an injured hitman hides out amongst a tribe of snow monkeys in the mountains of Japan.",
+      "genres": [
+        "Animation",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.753,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-11-17",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 133903
     }
   ]
 }

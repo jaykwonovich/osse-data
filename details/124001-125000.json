@@ -1,6 +1,6 @@
 {
   "range": "124001-125000",
-  "updated_at": 1766207314830,
+  "updated_at": 1780003048325,
   "shows": [
     {
       "id": 124067,
@@ -33,18 +33,24 @@
       "title": "Hacks",
       "type": "tv_series",
       "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dDEj2qS9RGiY6P3Bkzc0EEMaKpR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
       "plot_overview": "Explore a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
       "genres": [
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.449,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-05-13",
       "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 1899,
           "service_name": "Max",
@@ -53,6 +59,37 @@
         }
       ],
       "tmdb_id": 124101
+    },
+    {
+      "id": 124394,
+      "title": "Power Book III: Raising Kanan",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qiDq1iCK0Ie9uwxJu2gDeVxDvI1.jpg",
+      "plot_overview": "Set in South Jamaica, Queens, in 1991, this prequel to \"Power\" revolves around the coming of age of Kanan Stark.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 8.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-07-18",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 124394,
+      "is_returning": true,
+      "next_season": 5,
+      "next_air_date": "2026-06-12",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 124800,
@@ -66,11 +103,17 @@
         "Crime",
         "Drama"
       ],
-      "user_rating": 7.839,
+      "user_rating": 7.788,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-04-27",
       "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 1899,
           "service_name": "Max",
@@ -81,29 +124,29 @@
       "tmdb_id": 124800
     },
     {
-      "id": 125000,
-      "title": "Hello Tomorrow!",
+      "id": 124834,
+      "title": "Heartstopper",
       "type": "tv_series",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/AaJ5R5xCOsPjCdU3tGbCG9qP2lT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8om1afPDW251qtKXT38GYA8IAqa.jpg",
-      "plot_overview": "In a retro-futuristic world, charismatic salesman Jack Billings leads a team of fellow sales associates determined to revitalize their customers' lives by hawking timeshares on the moon.",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wJJt1HG62h3WoGnLcRIbO2nNNkg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eGYnmsEs5cutoPQKf2QUlT4RgCH.jpg",
+      "plot_overview": "Teens Charlie and Nick discover their unlikely friendship might be something more as they navigate school and young love in this coming-of-age series.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 6.079,
+      "user_rating": 8.56,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2023-02-16",
+      "release_date": "2022-04-22",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 125000
+      "tmdb_id": 124834
     }
   ]
 }

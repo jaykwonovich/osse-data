@@ -1,6 +1,6 @@
 {
   "range": "305001-306000",
-  "updated_at": 1766207314858,
+  "updated_at": 1780002330954,
   "shows": [
     {
       "id": 305165,
@@ -58,7 +58,7 @@
       "next_season": 1,
       "next_air_date": "2026-02-25",
       "next_episode": 1,
-      "relevance_score": 200
+      "relevance_score": 250
     },
     {
       "id": 305345,
@@ -92,7 +92,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2vcdZBbf7sPPzIHfN5ial24UbxK.jpg",
       "plot_overview": "Five ordinary teens must become something extraordinary when they learn that their small town of Angel Grove \u2014 and the world \u2014 is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it\u2019s too late, band together as the Power Rangers.",
       "genres": [],
-      "user_rating": 6.257,
+      "user_rating": 6.256,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-03-23",
@@ -136,7 +136,39 @@
       "next_season": 1,
       "next_air_date": "2026-03-06",
       "next_episode": 1,
-      "relevance_score": 200
+      "relevance_score": 250
+    },
+    {
+      "id": 305943,
+      "title": "A Kind of Murder",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hEeuCjUnGFCPdHbHFUUGGsCIrNt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cYXYjMex6LmSVcN7RXOWWgKXmFa.jpg",
+      "plot_overview": "In 1960s New York,\u00a0Walter Stackhouse is a rich, successful architect and unhappily married to the beautiful but damaged Clara. His desire to be free of her feeds his obsession with Kimmel, a man suspected of brutally murdering his own wife. When Walter and Kimmel's lives become dangerously intertwined, a ruthless police detective\u00a0becomes convinced he has found the murderer. But as the lines blur between innocence and intent, who, in fact, is the real killer?",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 5.377,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-12-16",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 305943
     },
     {
       "id": 305995,
@@ -204,7 +236,7 @@
       "next_season": 1,
       "next_air_date": "2026-01-07",
       "next_episode": 1,
-      "relevance_score": 200,
+      "relevance_score": 250,
       "service_name": "Paramount+",
       "service_id": 531,
       "prediction_source": "gemini",

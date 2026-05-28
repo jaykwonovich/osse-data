@@ -1,19 +1,20 @@
 {
   "range": "273001-274000",
-  "updated_at": 1766207314851,
+  "updated_at": 1780003048343,
   "shows": [
     {
       "id": 273160,
       "title": "The Beauty",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tzmFxibSIT6MetfQdE7bMmWibLw.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pt8QYc1OPhUa8hUmsNBie4hLz0x.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/l6mtso50nTSvhYc3tc7xB7cYHmg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cX6dzeKsBTTXHoG3uQUuhQbqyvq.jpg",
       "plot_overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
       "genres": [
+        "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 0.0,
+      "user_rating": 6.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-01-21",
@@ -25,45 +26,32 @@
           "region": "US"
         }
       ],
-      "production_companies": [
-        "20th Television",
-        "Ryan Murphy Television"
-      ],
-      "networks": [
-        "FX",
-        "Hulu"
-      ],
-      "tmdb_id": 273160,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-01-21",
-      "next_episode": 1,
-      "relevance_score": 200
+      "tmdb_id": 273160
     },
     {
-      "id": 273247,
-      "title": "The Lowdown",
+      "id": 273240,
+      "title": "Off Campus",
       "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aPd3Zn6c3iAMwhr79TPTtb6ovzF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/TMfV5xdAEZhzGN9MYXYomuhePz.jpg",
-      "plot_overview": "Follow the gritty exploits of citizen journalist Lee Raybon, a self-proclaimed Tulsa \"truthstorian\" whose obsession with the truth is always getting him into trouble.",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+      "plot_overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 6.3,
+      "user_rating": 9.121,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-09-23",
+      "release_date": "2026-05-13",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 273247
+      "tmdb_id": 273240
     },
     {
       "id": 273248,
@@ -78,14 +66,14 @@
         "Mystery",
         "Western"
       ],
-      "user_rating": 7.755,
+      "user_rating": 7.756,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-12-25",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
@@ -103,35 +91,10 @@
       "genres": [
         "Crime"
       ],
-      "user_rating": 7.414,
+      "user_rating": 7.419,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-09-17",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 273481
-    },
-    {
-      "id": 273754,
-      "title": "Necaxa",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tKiQ7H60U8hLCzCBQpzbHGfFGTm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/r1bpP7rDsOuGMVprUAdn5kBnu8T.jpg",
-      "plot_overview": "Beloved Mexican soccer team Club Necaxa strives to reclaim their place as one of Mexico's top teams, while their Mexican-American owner Eva Longoria tries to breathe new life into the team by enlisting the help of her high-profile friends including new co-owners Rob Mac and Ryan Reynolds.",
-      "genres": [
-        "Documentary"
-      ],
-      "user_rating": 5.444,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-08-07",
       "streaming_services": [
         {
           "service_id": 15,
@@ -140,7 +103,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 273754
+      "tmdb_id": 273481
     }
   ]
 }

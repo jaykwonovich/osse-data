@@ -1,23 +1,48 @@
 {
   "range": "78001-79000",
-  "updated_at": 1766207314817,
+  "updated_at": 1780003048310,
   "shows": [
+    {
+      "id": 78036,
+      "title": "Creeped Out",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5TFYkGC8eSUlIz2TMqL4IKPUbBK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9YrrHB7LIiuMElYpgeLbXi0uZj9.jpg",
+      "plot_overview": "A masked figure known as \"The Curious\" collects tales of dark magic, otherworldly encounters and twisted technology in this kids anthology series.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Mystery"
+      ],
+      "user_rating": 7.173,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-10-31",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 78036
+    },
     {
       "id": 78173,
       "title": "Dragons: Race to the Edge",
       "type": "tv_series",
       "year": 2015,
       "poster_url": "https://image.tmdb.org/t/p/w342/y5sNfaTvWR3ObILyf9uV6deAcKT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vyhmiHVWUvmH6jrfvtPdcwYc2I8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yVcuoQNo36FlZTavqjjjpsaUJyL.jpg",
       "plot_overview": "Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.",
       "genres": [
         "Family",
-        "Kids",
         "Animation",
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.368,
+      "user_rating": 8.371,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-06-26",
@@ -38,11 +63,13 @@
       "year": 2018,
       "poster_url": "https://image.tmdb.org/t/p/w342/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gzOIymABxmetAECXtazEYCpMmfb.jpg",
-      "plot_overview": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+      "plot_overview": "A dangerously charming, obsessive man goes to extreme measures to insert himself into the lives of women who fascinate him.",
       "genres": [
-        "Crime"
+        "Mystery",
+        "Crime",
+        "Drama"
       ],
-      "user_rating": 8.022,
+      "user_rating": 8.011,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-09-09",
@@ -55,6 +82,33 @@
         }
       ],
       "tmdb_id": 78191
+    },
+    {
+      "id": 78903,
+      "title": "Utopia",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oMY53BtS9vOTAhKgWr2gNYyLBOw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yYhu8ED3DxwzoLhdH5nlfMPJrXY.jpg",
+      "plot_overview": "A group of young adults who met online are mercilessly hunted by a shadowy deep state organization after they come into possession of a near-mythical cult underground graphic novel.",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "user_rating": 7.187,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-09-25",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 78903
     }
   ]
 }

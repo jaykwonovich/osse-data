@@ -1,6 +1,6 @@
 {
   "range": "125001-126000",
-  "updated_at": 1766207314830,
+  "updated_at": 1780003048325,
   "shows": [
     {
       "id": 125282,
@@ -14,11 +14,17 @@
         "Crime",
         "Drama"
       ],
-      "user_rating": 7.437,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-01-03",
       "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 1899,
           "service_name": "Max",
@@ -27,6 +33,63 @@
         }
       ],
       "tmdb_id": 125282
+    },
+    {
+      "id": 125506,
+      "title": "Below Deck Down Under",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/s51ttvEaHvCO7L2yUie6IWu5VNt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rVnFvGrB82Zk0lOUM6C1K907hzp.jpg",
+      "plot_overview": "Set against the stunning backdrop of the tropical Whitsunday Islands and world-famous Great Barrier Reef in northeastern Australia, this series explores the complex, often explosive dynamics of the crew and a rotating group of demanding charter guests on M/Y Thalassa.",
+      "genres": [
+        "Reality",
+        "Drama"
+      ],
+      "user_rating": 6.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-03-17",
+      "streaming_services": [
+        {
+          "service_id": 365,
+          "service_name": "MGM+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 125506,
+      "is_returning": true,
+      "next_season": 4,
+      "next_air_date": "2026-06-01",
+      "next_episode": 18,
+      "relevance_score": 75
+    },
+    {
+      "id": 125816,
+      "title": "The Lost Flowers of Alice Hart",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sNeGAamuke1a2I4ndcaE0bnukh4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/koU92vPMZFoWn2SD1w0IoOzAxFm.jpg",
+      "plot_overview": "After losing her parents in a mysterious fire, nine-year-old Alice Hart is raised by her grandmother June on a flower farm where she learns there are secrets within secrets. But years on, an unearthed betrayal sees Alice forced to face her past.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-08-03",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 125816
     },
     {
       "id": 125909,
@@ -42,15 +105,15 @@
         "Action & Adventure",
         "Mystery"
       ],
-      "user_rating": 7.399,
+      "user_rating": 7.243,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-08-01",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -70,25 +133,30 @@
         "Sci-Fi & Fantasy",
         "Comedy"
       ],
-      "user_rating": 8.2,
+      "user_rating": 8.1,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-07-07",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        },
-        {
           "service_id": 318,
           "service_name": "Starz",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "tmdb_id": 125928
+      "tmdb_id": 125928,
+      "is_returning": true,
+      "next_season": 3,
+      "next_air_date": "2026-06-14",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 125935,
@@ -101,17 +169,11 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.428,
+      "user_rating": 7.447,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-12-07",
       "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        },
         {
           "service_id": 15,
           "service_name": "Hulu",
@@ -125,26 +187,73 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 125935,
-      "is_returning": true,
-      "next_season": 5,
-      "next_air_date": "2026-01-07",
-      "next_episode": 9,
-      "relevance_score": 75
+      "tmdb_id": 125935
+    },
+    {
+      "id": 125940,
+      "title": "Vampire Academy",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fVwWkJBbOtxM7VKg7PS1IkjYpQc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fFeIBjX7Rk6eoEwGMq9jugrV2yP.jpg",
+      "plot_overview": "In a world of privilege and glamour, two young women\u2019s friendship transcends their strikingly different classes as they prepare to complete their education and enter royal vampire society. Based on the young adult novels by Richelle Mead.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.525,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-09-15",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 125940
+    },
+    {
+      "id": 125949,
+      "title": "We Own This City",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/36sQKl71WMuuH0KF6SOOlSEIhZb.jpg",
+      "plot_overview": "The story of the rise and fall of the Baltimore Police Department's Gun Trace Task Force \u2014 and the corruption and moral collapse that befell an American city in which the policies of drug prohibition and mass arrest were championed at the expense of actual police work.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.132,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-04-25",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 125949
     },
     {
       "id": 125988,
       "title": "Silo",
       "type": "tv_series",
       "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/c2OijvbFEXBW1onbzuvENr4CGQB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
       "plot_overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "user_rating": 8.122,
+      "user_rating": 8.1,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-05-04",
@@ -156,7 +265,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 125988
+      "tmdb_id": 125988,
+      "is_returning": true,
+      "next_season": 3,
+      "next_air_date": "2026-07-02",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

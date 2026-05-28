@@ -1,20 +1,45 @@
 {
   "range": "222001-223000",
-  "updated_at": 1766207314843,
+  "updated_at": 1780003048336,
   "shows": [
+    {
+      "id": 222023,
+      "title": "Jury Duty",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ipiqT5uHeJudWy9ICSvuCby7NeI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gkw5MAAD8jr06RXT5pd2ibNN5bR.jpg",
+      "plot_overview": "The inner workings of an American jury trial through the eyes of one particular juror, Ronald Gladden. Gladden is unaware the entire case is fake, everyone except him is an actor and everything that happens \u2014 inside the courtroom and out \u2014 is carefully planned.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.602,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-04-07",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 222023
+    },
     {
       "id": 222405,
       "title": "The Tattooist of Auschwitz",
       "type": "tv_series",
       "year": 2024,
       "poster_url": "https://image.tmdb.org/t/p/w342/nAdgX2CmkrNaRTJelFlBkpRQO0b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xdsDHphOINSYytOHw4gSd4b4NPu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mxs62JGInE5pQcWa7keHmEpY87P.jpg",
       "plot_overview": "The powerful real-life story of Lali Sokolov, a Jewish prisoner who was tasked with tattooing ID numbers on prisoners' arms in the Auschwitz-Birkenau concentration camp during World War II.",
       "genres": [
         "Drama",
         "War & Politics"
       ],
-      "user_rating": 8.1,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-05-02",
@@ -29,33 +54,6 @@
       "tmdb_id": 222405
     },
     {
-      "id": 222766,
-      "title": "The Day of the Jackal",
-      "type": "tv_series",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
-      "plot_overview": "An unrivalled and highly elusive lone assassin, the Jackal, makes his living carrying out hits for the highest fee. But following his latest kill, he meets his match in a tenacious British intelligence officer who starts to track down the Jackal in a thrilling cat-and-mouse chase across Europe, leaving destruction in its wake.",
-      "genres": [
-        "Drama",
-        "Action & Adventure",
-        "Mystery"
-      ],
-      "user_rating": 8.162,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2024-11-07",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 222766
-    },
-    {
       "id": 222935,
       "title": "The Fault in Our Stars",
       "type": "movie",
@@ -66,7 +64,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.595,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-06-02",

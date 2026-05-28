@@ -1,6 +1,6 @@
 {
   "range": "509001-510000",
-  "updated_at": 1766207314882,
+  "updated_at": 1780002330979,
   "shows": [
     {
       "id": 509635,
@@ -54,9 +54,42 @@
           "service_name": "The Roku Channel",
           "type": "free",
           "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 509730
+    },
+    {
+      "id": 509874,
+      "title": "Lying and Stealing",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ovqZDpefLSIfSXBlMnPVaUDKMCy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eY9Fv5KcqC5gg9vhkjLSbG77JHA.jpg",
+      "plot_overview": "Hoping to leave his criminal lifestyle behind him, a successful art thief teams up with a sexy con woman to pull off the ultimate heist and set himself free.",
+      "genres": [
+        "Crime",
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 5.852,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-07-12",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 509874
     },
     {
       "id": 509967,

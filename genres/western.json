@@ -1,22 +1,38 @@
 {
   "genre": "western",
-  "updated_at": 1766212590426,
+  "updated_at": 1780003048272,
   "shows": [
     {
       "id": 73586,
       "title": "Yellowstone",
       "type": "tv_series",
       "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
       "genre": "western",
+      "genres": [
+        "western",
+        "drama"
+      ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 8.253,
-      "release_date": "2018-06-20",
+      "user_rating": 8.261,
+      "release_date": "2018-06-20"
+    },
+    {
+      "id": 68718,
+      "title": "Django Unchained",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mhf63wOnaLCnzxeHgngTH98WaVh.jpg",
+      "genre": "drama",
       "genres": [
         "drama",
         "western"
-      ]
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 8.191,
+      "release_date": "2012-12-25"
     },
     {
       "id": 1406,
@@ -25,15 +41,49 @@
       "year": 2004,
       "poster_url": "https://image.tmdb.org/t/p/w342/fWwxYAuqY4Na7fKI3Qq2nFWCwG8.jpg",
       "genre": "western",
+      "genres": [
+        "western",
+        "crime",
+        "drama"
+      ],
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.1,
-      "release_date": "2004-03-21",
+      "release_date": "2004-03-21"
+    },
+    {
+      "id": 73544,
+      "title": "Warrior",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
+      "genre": "crime",
       "genres": [
         "crime",
         "drama",
+        "action & adventure",
         "western"
-      ]
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.972,
+      "release_date": "2019-04-05"
+    },
+    {
+      "id": 41692,
+      "title": "Lonesome Dove",
+      "type": "tv_series",
+      "year": 1989,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qK4iseZGf0YhYx53ecawSGhL0sl.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "western"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.936,
+      "release_date": "1989-02-05"
     },
     {
       "id": 1781,
@@ -42,48 +92,64 @@
       "year": 1974,
       "poster_url": "https://image.tmdb.org/t/p/w342/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg",
       "genre": "western",
+      "genres": [
+        "western",
+        "drama",
+        "family"
+      ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.921,
-      "release_date": "1974-09-11",
-      "genres": [
-        "drama",
-        "family",
-        "western"
-      ]
+      "user_rating": 7.932,
+      "release_date": "1974-09-11"
     },
     {
-      "id": 73467,
-      "title": "Godless",
-      "type": "tv_series",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg",
-      "genre": "western",
+      "id": 698508,
+      "title": "Redeeming Love",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2iu0lBF7sfAioLfSnSJtdKxlms6.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "western"
+      ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.7,
-      "release_date": "2017-11-22",
-      "genres": [
-        "drama",
-        "western"
-      ]
+      "user_rating": 7.839,
+      "release_date": "2022-01-21"
     },
     {
-      "id": 43901,
-      "title": "Longmire",
-      "type": "tv_series",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
-      "genre": "western",
-      "service_id": 207,
-      "service_name": "The Roku Channel",
-      "user_rating": 7.7,
-      "release_date": "2012-06-03",
+      "id": 581,
+      "title": "Dances with Wolves",
+      "type": "movie",
+      "year": 1990,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "genre": "drama",
       "genres": [
-        "crime",
         "drama",
         "western"
-      ]
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.8,
+      "release_date": "1990-11-09"
+    },
+    {
+      "id": 273248,
+      "title": "The Hateful Eight",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "western"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.756,
+      "release_date": "2015-12-25"
     },
     {
       "id": 215866,
@@ -92,15 +158,49 @@
       "year": 2025,
       "poster_url": "https://image.tmdb.org/t/p/w342/ff0s9OHGNSZL6cVteIb7LNvTnJD.jpg",
       "genre": "western",
+      "genres": [
+        "western",
+        "drama",
+        "action & adventure"
+      ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.657,
-      "release_date": "2025-01-09",
+      "user_rating": 7.7,
+      "release_date": "2025-01-09"
+    },
+    {
+      "id": 73467,
+      "title": "Godless",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg",
+      "genre": "western",
       "genres": [
-        "action & adventure",
+        "western",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.7,
+      "release_date": "2017-11-22"
+    },
+    {
+      "id": 9023,
+      "title": "Spirit: Stallion of the Cimarron",
+      "type": "movie",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cUgYrz4twiJ3QgVGpRfey984NIB.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "family",
         "drama",
         "western"
-      ]
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.7,
+      "release_date": "2002-05-24"
     },
     {
       "id": 995,
@@ -109,29 +209,14 @@
       "year": 1939,
       "poster_url": "https://image.tmdb.org/t/p/w342/zgMnfnwWZ3nkx4t0bUDEKtW24O8.jpg",
       "genre": "western",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.614,
-      "release_date": "1939-03-02",
       "genres": [
-        "western"
-      ]
-    },
-    {
-      "id": 4324,
-      "title": "Dr. Quinn, Medicine Woman",
-      "type": "tv_series",
-      "year": 1993,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rF32uo83bzezkEUQ8VGarbCJi32.jpg",
-      "genre": "western",
-      "service_id": 300,
-      "service_name": "Pluto TV",
-      "user_rating": 7.607,
-      "release_date": "1993-01-01",
-      "genres": [
-        "drama",
-        "western"
-      ]
+        "western",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.608,
+      "release_date": "1939-03-02"
     },
     {
       "id": 1018,
@@ -140,16 +225,16 @@
       "year": 1959,
       "poster_url": "https://image.tmdb.org/t/p/w342/wQ1iVrG871anxkEUwWTRdPRi0j1.jpg",
       "genre": "western",
-      "service_id": 73,
-      "service_name": "Tubi",
-      "user_rating": 7.5,
-      "release_date": "1959-09-12",
       "genres": [
+        "western",
         "action & adventure",
         "drama",
-        "family",
-        "western"
-      ]
+        "family"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.524,
+      "release_date": "1959-09-12"
     },
     {
       "id": 4681,
@@ -158,14 +243,31 @@
       "year": 1957,
       "poster_url": "https://image.tmdb.org/t/p/w342/1i4HdLMCRfEXLeA6JGTsQj6WU3k.jpg",
       "genre": "western",
+      "genres": [
+        "western",
+        "action & adventure"
+      ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.47,
-      "release_date": "1957-10-10",
+      "user_rating": 7.497,
+      "release_date": "1957-10-10"
+    },
+    {
+      "id": 65493,
+      "title": "The Ranch",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg",
+      "genre": "comedy",
       "genres": [
-        "action & adventure",
+        "comedy",
+        "family",
         "western"
-      ]
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2016-04-01"
     },
     {
       "id": 11901,
@@ -174,45 +276,81 @@
       "year": 1973,
       "poster_url": "https://image.tmdb.org/t/p/w342/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
       "genre": "western",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.3,
-      "release_date": "1973-04-19",
       "genres": [
+        "western",
         "drama",
-        "mystery",
-        "western"
-      ]
-    },
-    {
-      "id": 3089,
-      "title": "Red River",
-      "type": "movie",
-      "year": 1948,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg",
-      "genre": "western",
+        "mystery"
+      ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.3,
-      "release_date": "1948-09-17",
-      "genres": [
-        "western"
-      ]
+      "user_rating": 7.317,
+      "release_date": "1973-04-19"
     },
     {
-      "id": 5176,
-      "title": "3:10 to Yuma",
+      "id": 922,
+      "title": "Dead Man",
       "type": "movie",
-      "year": 2007,
-      "poster_url": "https://image.tmdb.org/t/p/w342/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg",
-      "genre": "western",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jX3wGBVoYoAY3IixBpwYk1fjT4z.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "western"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.307,
+      "release_date": "1995-12-23"
+    },
+    {
+      "id": 637693,
+      "title": "Spirit Untamed",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fLE2mvuvhvzmSICOsqR9uE50Ave.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "family",
+        "western"
+      ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.224,
-      "release_date": "2007-09-06",
+      "user_rating": 7.3,
+      "release_date": "2021-05-20"
+    },
+    {
+      "id": 338766,
+      "title": "Hell or High Water",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+      "genre": "western",
       "genres": [
+        "western",
+        "crime",
+        "drama"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.3,
+      "release_date": "2016-08-11"
+    },
+    {
+      "id": 99346,
+      "title": "The English",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aAFAwxj0VzBRyX5biAHUJM73qYG.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
         "western"
-      ]
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.294,
+      "release_date": "2022-11-10"
     },
     {
       "id": 324560,
@@ -221,14 +359,14 @@
       "year": 2016,
       "poster_url": "https://image.tmdb.org/t/p/w342/aNxU4eZrfiChOgCEtyKWSCExdEi.jpg",
       "genre": "western",
+      "genres": [
+        "western",
+        "drama"
+      ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.151,
-      "release_date": "2016-03-12",
-      "genres": [
-        "drama",
-        "western"
-      ]
+      "user_rating": 7.156,
+      "release_date": "2016-03-12"
     },
     {
       "id": 537996,
@@ -237,16 +375,15 @@
       "year": 2018,
       "poster_url": "https://image.tmdb.org/t/p/w342/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
       "genre": "western",
+      "genres": [
+        "western",
+        "comedy",
+        "drama"
+      ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.129,
-      "release_date": "2018-11-09",
-      "genres": [
-        "comedy",
-        "drama",
-        "mystery",
-        "western"
-      ]
+      "user_rating": 7.1,
+      "release_date": "2018-11-09"
     },
     {
       "id": 27945,
@@ -255,314 +392,46 @@
       "year": 1967,
       "poster_url": "https://image.tmdb.org/t/p/w342/puqgDLxdIZSnodDJ6Q0KxofOebo.jpg",
       "genre": "western",
+      "genres": [
+        "western"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.069,
+      "release_date": "1967-03-21"
+    },
+    {
+      "id": 400090,
+      "title": "The Nightingale",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wEzqFiatOJSbGBu6pb8z5sQuZt1.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "western"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.06,
+      "release_date": "2018-09-23"
+    },
+    {
+      "id": 16608,
+      "title": "The Proposition",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bbSHSJuO5XjrIKMh6QXXLTg3Yzr.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "western"
+      ],
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.0,
-      "release_date": "1967-03-21",
-      "genres": [
-        "western"
-      ]
-    },
-    {
-      "id": 294963,
-      "title": "Bone Tomahawk",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg",
-      "genre": "western",
-      "service_id": 300,
-      "service_name": "Pluto TV",
-      "user_rating": 6.878,
-      "release_date": "2015-10-23",
-      "genres": [
-        "drama",
-        "western"
-      ]
-    },
-    {
-      "id": 932086,
-      "title": "Horizon: An American Saga - Chapter 1",
-      "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/posWMQwX1HCIK26TGL3niJp5fg0.jpg",
-      "genre": "western",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 6.869,
-      "release_date": "2024-06-26",
-      "genres": [
-        "drama",
-        "western"
-      ]
-    },
-    {
-      "id": 4929,
-      "title": "Hang 'em High",
-      "type": "movie",
-      "year": 1968,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2J9QEqdJWjL2etOf6Kf7n33PUK4.jpg",
-      "genre": "western",
-      "service_id": 613,
-      "service_name": "Freevee",
-      "user_rating": 6.833,
-      "release_date": "1968-04-12",
-      "genres": [
-        "drama",
-        "western"
-      ]
-    },
-    {
-      "id": 440161,
-      "title": "The Sisters Brothers",
-      "type": "movie",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hbUGrEaJgFz9NWh34HHUb4vLjkG.jpg",
-      "genre": "western",
-      "service_id": 73,
-      "service_name": "Tubi",
-      "user_rating": 6.8,
-      "release_date": "2018-09-19",
-      "genres": [
-        "comedy",
-        "drama",
-        "western"
-      ]
-    },
-    {
-      "id": 538225,
-      "title": "Deadwood: The Movie",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fCQ13cqd02dop7Chkov0fPl4r3t.jpg",
-      "genre": "western",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 6.728,
-      "release_date": "2019-05-31",
-      "genres": [
-        "drama",
-        "western"
-      ]
-    },
-    {
-      "id": 9588,
-      "title": "Quigley Down Under",
-      "type": "movie",
-      "year": 1990,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sRgeovNyj1pARroKclXzJhOwPbW.jpg",
-      "genre": "western",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 6.694,
-      "release_date": "1990-10-17",
-      "genres": [
-        "western"
-      ]
-    },
-    {
-      "id": 14729,
-      "title": "The Long Riders",
-      "type": "movie",
-      "year": 1980,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1Dk9dieSkZeiEVarZFsPJdF9Qel.jpg",
-      "genre": "western",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 6.64,
-      "release_date": "1980-05-16",
-      "genres": [
-        "crime",
-        "drama",
-        "western"
-      ]
-    },
-    {
-      "id": 618162,
-      "title": "The Harder They Fall",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
-      "genre": "western",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 6.638,
-      "release_date": "2021-10-22",
-      "genres": [
-        "western"
-      ]
-    },
-    {
-      "id": 46528,
-      "title": "The Warrior's Way",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/otjBqNDpZ3C9mzfDOI4kaiib3Qd.jpg",
-      "genre": "western",
-      "service_id": 207,
-      "service_name": "The Roku Channel",
-      "user_rating": 6.6,
-      "release_date": "2010-12-01",
-      "genres": [
-        "western"
-      ]
-    },
-    {
-      "id": 3713,
-      "title": "Gunsmoke",
-      "type": "tv_series",
-      "year": 1955,
-      "poster_url": "https://image.tmdb.org/t/p/w342/x7WjYizqcrA64xi9XLqUWCz5DNk.jpg",
-      "genre": "western",
-      "service_id": 300,
-      "service_name": "Pluto TV",
-      "user_rating": 6.6,
-      "release_date": "1955-09-10",
-      "genres": [
-        "action & adventure",
-        "drama",
-        "western"
-      ]
-    },
-    {
-      "id": 264656,
-      "title": "The Homesman",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/eGpuOhkm1wG2AxEJShazH5NVGAO.jpg",
-      "genre": "western",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 6.5,
-      "release_date": "2014-05-18",
-      "genres": [
-        "drama",
-        "western"
-      ]
-    },
-    {
-      "id": 648878,
-      "title": "Eddington",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
-      "genre": "western",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 6.495,
-      "release_date": "2025-07-16",
-      "genres": [
-        "comedy",
-        "crime",
-        "western"
-      ]
-    },
-    {
-      "id": 57120,
-      "title": "Meek's Cutoff",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jxjLpZseFdzMBvGfTscTTpM94Yk.jpg",
-      "genre": "western",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 6.484,
-      "release_date": "2011-04-08",
-      "genres": [
-        "drama",
-        "western"
-      ]
-    },
-    {
-      "id": 333484,
-      "title": "The Magnificent Seven",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg",
-      "genre": "western",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 6.472,
-      "release_date": "2016-09-14",
-      "genres": [
-        "western"
-      ]
-    },
-    {
-      "id": 324544,
-      "title": "In the Lost Lands",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
-      "genre": "western",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 6.401,
-      "release_date": "2025-02-27",
-      "genres": [
-        "western"
-      ]
-    },
-    {
-      "id": 12146,
-      "title": "The Missing",
-      "type": "movie",
-      "year": 2003,
-      "poster_url": "https://image.tmdb.org/t/p/w342/86s5nw5F1G8lJtEowO0LBB4hoBW.jpg",
-      "genre": "western",
-      "service_id": 207,
-      "service_name": "The Roku Channel",
-      "user_rating": 6.3,
-      "release_date": "2003-11-26",
-      "genres": [
-        "western"
-      ]
-    },
-    {
-      "id": 354110,
-      "title": "Forsaken",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fbTpSiqGn6ImqSAyawHlLf7goat.jpg",
-      "genre": "western",
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 6.2,
-      "release_date": "2015-09-16",
-      "genres": [
-        "drama",
-        "western"
-      ]
-    },
-    {
-      "id": 223300,
-      "title": "The Abandons",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg",
-      "genre": "western",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 5.647,
-      "release_date": "2025-12-04",
-      "genres": [
-        "drama",
-        "western"
-      ]
-    },
-    {
-      "id": 49849,
-      "title": "Cowboys & Aliens",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg",
-      "genre": "western",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 5.637,
-      "release_date": "2011-07-29",
-      "genres": [
-        "western"
-      ]
+      "release_date": "2005-10-06"
     }
   ]
 }

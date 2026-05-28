@@ -1,25 +1,56 @@
 {
   "range": "93001-94000",
-  "updated_at": 1766207314822,
+  "updated_at": 1780003048315,
   "shows": [
+    {
+      "id": 93016,
+      "title": "Inside Bill's Brain: Decoding Bill Gates",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5RIVJnpIkPt90EwJQwPzqS1UTPG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e8Rla3XzYcY6A1fIYn6kbrIU674.jpg",
+      "plot_overview": "Take a trip inside the mind of Bill Gates as the billionaire opens up about those who influenced him and the audacious goals he's still pursuing.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-09-20",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 93016
+    },
     {
       "id": 93166,
       "title": "The Capture",
       "type": "tv_series",
       "year": 2019,
       "poster_url": "https://image.tmdb.org/t/p/w342/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nU5ZeZZ9iV5c9orHBOgkYiGM4DM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
       "plot_overview": "When soldier Shaun Emery's conviction for a murder in Afghanistan is overturned due to flawed video evidence, he returns to life as a free man with his young daughter. But when damning CCTV footage from a night out in London comes to light, Shaun's life takes a shocking turn and he must soon fight for his freedom once again.",
       "genres": [
         "Crime",
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.76,
+      "user_rating": 7.712,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-09-03",
       "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",
@@ -28,6 +59,31 @@
         }
       ],
       "tmdb_id": 93166
+    },
+    {
+      "id": 93219,
+      "title": "The Movies That Made Us",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l7p40cVratmPTdWrx4UFjZbANKF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mQYdERQ3flDX5s1jb7Jc2KHrK8C.jpg",
+      "plot_overview": "These blockbusters brought us together and gave us the time of our lives. Meet the actors, directors and industry insiders who made them happen.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.256,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-11-29",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 93219
     },
     {
       "id": 93241,
@@ -39,9 +95,10 @@
       "plot_overview": "Kirie tries to escape from her town Kurouzu-cho, where the residents get obsessed with spirals due to an unexplained curse.",
       "genres": [
         "Animation",
-        "Mystery"
+        "Mystery",
+        "Drama"
       ],
-      "user_rating": 6.983,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-09-29",
@@ -56,6 +113,32 @@
       "tmdb_id": 93241
     },
     {
+      "id": 93265,
+      "title": "Pup Academy",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/idjldYg3bgxyzmfHMCOKdvDG1RM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/d2jQm65UCUfAFul65lYvD43z7kC.jpg",
+      "plot_overview": "Welcome to a secret world where pups learn to be a human's best friend. Follow three unlikely puppies - and their human friends - as they work together to discover the power of friendship and create everlasting bonds between dogs and humans.",
+      "genres": [
+        "Kids",
+        "Comedy"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-08-26",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 93265
+    },
+    {
       "id": 93287,
       "title": "The Flight Attendant",
       "type": "tv_series",
@@ -68,7 +151,7 @@
         "Mystery",
         "Comedy"
       ],
-      "user_rating": 7.114,
+      "user_rating": 7.098,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-11-26",
@@ -83,57 +166,107 @@
       "tmdb_id": 93287
     },
     {
-      "id": 93289,
-      "title": "Brave New World",
+      "id": 93292,
+      "title": "Duncanville",
       "type": "tv_series",
       "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kPllKV7H4NOPkvtkV3cLGwESV31.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/imJuFvz6WJZS9vBywm0vPYYL42K.jpg",
-      "plot_overview": "In a utopia whose perfection hinges upon control of monogamy and privacy, members of the collective begin to question the rules, putting their regimented society on a collision course with forbidden love and revolution.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/fLJ74pNLxYrAMFBNI95VSDPiOGd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gahwgNlUOWdA7pSgH0HJPEiVOsF.jpg",
+      "plot_overview": "Like most 15-year-olds, Duncan can see adulthood on the horizon: money, freedom, cars and girls; but the reality is more like: always being broke, driving with one's mom sitting shotgun and babysitting one's sister. He's not exceptional, but he has a wild imagination in which he's never anything less than amazing.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Comedy",
+        "Animation"
       ],
-      "user_rating": 6.685,
+      "user_rating": 7.755,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2020-07-15",
+      "release_date": "2020-02-16",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 93289
+      "tmdb_id": 93292
     },
     {
-      "id": 93456,
-      "title": "Despicable Me 2",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oyMPJJZoOpLHgJoFPUOn6DgkbWJ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fOipappvgVtUbbHOtmCkHzcwJjC.jpg",
-      "plot_overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+      "id": 93392,
+      "title": "Raising Dion",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nydKXBiLn4vpL1d5o1utbPKYdii.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nn37nj8LsJLmhxZIZWhVFzuiwVr.jpg",
+      "plot_overview": "A widowed mom sets out to solve the mystery surrounding her young son's emerging superpowers while keeping his extraordinary gifts under wraps.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 6.937,
+      "user_rating": 7.52,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2013-06-26",
+      "release_date": "2019-10-04",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 93456
+      "tmdb_id": 93392
+    },
+    {
+      "id": 93454,
+      "title": "The Serpent",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mZve7vS8S7nyYMIJ5rJrjzOGwAZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gawTr5Nfn7DZpFAYqznbFYJ7aj9.jpg",
+      "plot_overview": "The remarkable story of how murderer Charles Sobhraj was captured. As the chief suspect in unsolved murders of young Western travellers across India, Thailand and Nepal\u2019s \u2018Hippie Trail\u2019 in 1975 and 1976, Sobhraj had repeatedly slipped from the grasp of authorities worldwide to become Interpol's most wanted man, with arrest warrants on three different continents.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-01-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 93454
+    },
+    {
+      "id": 93514,
+      "title": "The Mind, Explained",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8ShULolWRDYbyACvWK9NbsWcqFJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/w3XJr7prAfSNYjs8ijALp7KMwYU.jpg",
+      "plot_overview": "Ever wonder what's happening inside your head? From dreaming to anxiety disorders, discover how your brain works with this illuminating series.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-09-12",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 93514
     },
     {
       "id": 93520,
@@ -148,7 +281,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "user_rating": 7.286,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-11-01",
@@ -163,30 +296,57 @@
       "tmdb_id": 93520
     },
     {
-      "id": 93716,
-      "title": "The Mosquito Coast",
+      "id": 93544,
+      "title": "Top Boy",
       "type": "tv_series",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xMQU5aGjxsqxKQNhSfY2G8Y6jRg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lXN8O8ny20PnISkYlyxSnUXtY8y.jpg",
-      "plot_overview": "Allie Fox\u2014a brilliant inventor and stubborn idealist\u2014uproots his family for a dangerous quest through Mexico to flee the U.S. government and find safety.",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mGZpOEaLZTRzWeQMq5SZM5BbDZg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jAz9AZpznu3ELhUp1XiMEeQv2Se.jpg",
+      "plot_overview": "Two seasoned drug dealers return to the gritty street of London, but their pursuit of money and power is threatened by a young and ruthless hustler.",
       "genres": [
+        "Crime",
         "Drama",
         "Action & Adventure"
       ],
-      "user_rating": 6.732,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2021-04-30",
+      "release_date": "2019-09-13",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 93716
+      "tmdb_id": 93544
+    },
+    {
+      "id": 93736,
+      "title": "Age of Samurai: Battle for Japan",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wIKQRtc2kKiBmBnkOjjvMqIDfah.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ooq4qnr6ZCcc7ziJMOw6LTtMyoO.jpg",
+      "plot_overview": "Dynamic reenactments and expert commentaries bring to life the tumultuous history and power struggles of a warring 16th-century feudal Japan.",
+      "genres": [
+        "Documentary",
+        "War & Politics"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-02-24",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 93736
     },
     {
       "id": 93740,
@@ -194,13 +354,13 @@
       "type": "tv_series",
       "year": 2021,
       "poster_url": "https://image.tmdb.org/t/p/w342/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vmNj8bthBAofXgsaY6yP4bCvXko.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
       "plot_overview": "Follow a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "user_rating": 7.732,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-09-23",
@@ -215,6 +375,61 @@
       "tmdb_id": 93740
     },
     {
+      "id": 93741,
+      "title": "Jurassic World Camp Cretaceous",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nkCbCmlwjwT6QL44DqG7qE9ch8H.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4WIglfr4lDFVjCEcXzCeu6cJsOh.jpg",
+      "plot_overview": "Six teens attending an adventure camp on the opposite side of Isla Nublar must band together to survive when dinosaurs wreak havoc on the island.",
+      "genres": [
+        "Animation",
+        "Kids",
+        "Action & Adventure",
+        "Family"
+      ],
+      "user_rating": 8.016,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-09-18",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 93741
+    },
+    {
+      "id": 93784,
+      "title": "Tales from the Loop",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/56D0QFyLhrRp1ZTBz8Gw10qtZas.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5cv0cgTIGv0jnkWsMAoCObA0XCd.jpg",
+      "plot_overview": "The story of the town and people who live above \u201cThe Loop,\u201d a machine built to unlock and explore the mysteries of the universe \u2013 making things possible that were previously relegated only to science fiction.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.001,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-04-03",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 93784
+    },
+    {
       "id": 93812,
       "title": "The Great",
       "type": "tv_series",
@@ -226,7 +441,7 @@
         "Drama",
         "Comedy"
       ],
-      "user_rating": 8.085,
+      "user_rating": 8.075,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-05-15",
@@ -241,54 +456,31 @@
       "tmdb_id": 93812
     },
     {
-      "id": 93825,
-      "title": "Saved by the Bell",
+      "id": 94000,
+      "title": "Vienna Blood",
       "type": "tv_series",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9iIIRPetuBmOl0gd7KC5dNcK7bX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cspHgcXUOtlrbwSzp1KtZIOKgC1.jpg",
-      "plot_overview": "When California governor Zack Morris gets into hot water for closing too many low-income high schools, he proposes they send the affected students to the highest performing schools in the state \u2013 including Bayside High. The influx of new students gives the over privileged Bayside kids a much needed and hilarious dose of reality.",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wHIkllx1obFjEeI7z558QLoRhiU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2zg0XXoZFqF4XmxwNJHR3lbvctY.jpg",
+      "plot_overview": "Max Liebermann, a student of Sigmund Freud, helps Detective Rheinhardt in the investigation of a series of disturbing murders around the grand cafes and opera houses of 1900s Vienna.",
       "genres": [
-        "Comedy"
+        "Crime",
+        "Drama",
+        "Mystery"
       ],
-      "user_rating": 6.8,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2020-11-25",
+      "release_date": "2019-11-18",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 93825
-    },
-    {
-      "id": 93837,
-      "title": "So Undercover",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/abR6e0FaWwwcEJEM4PY5VvjwBr1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dFGbu1lJZFmiiGI5J9sQHAvhG5p.jpg",
-      "plot_overview": "When the FBI hires her to go undercover at a college sorority, Molly Morris must transform herself from a tough, streetwise private investigator to a refined, sophisticated university girl to help protect the daughter of a one-time Mobster. With several suspects on her list, Molly unexpectedly discovers that not everyone is who they appear to be, including herself.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 6.113,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2012-12-06",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 93837
+      "tmdb_id": 94000
     }
   ]
 }

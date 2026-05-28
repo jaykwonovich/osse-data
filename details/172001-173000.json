@@ -1,7 +1,33 @@
 {
   "range": "172001-173000",
-  "updated_at": 1766207314838,
+  "updated_at": 1780002330930,
   "shows": [
+    {
+      "id": 172226,
+      "title": "In Secret",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iJSTzDyF2BKB9mcor7slIOOXSBD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4QrslCGZ1AJmJ8RPlOYpAUk04EQ.jpg",
+      "plot_overview": "In 1860s Paris, a young woman, Therese, is trapped in a loveless marriage to the sickly Camille by her domineering aunt, Madame Raquin. She spends her days behind the counter of a small shop and her evenings watching Madame play dominos with an eclectic group. After she meets her husband\u2019s alluring friend, Laurent, she embarks on an illicit affair that leads to tragic consequences. Based on Emile Zola\u2019s novel, Th\u00e9r\u00e8se Raquin.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 6.09,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-02-21",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 172226
+    },
     {
       "id": 172385,
       "title": "Rio 2",
@@ -15,7 +41,7 @@
         "Comedy",
         "Family"
       ],
-      "user_rating": 6.523,
+      "user_rating": 6.522,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-03-19",
@@ -25,9 +51,73 @@
           "service_name": "Disney+",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 172385
+    },
+    {
+      "id": 172533,
+      "title": "Drinking Buddies",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iunbsMWtkwfrtRzU7hdCHhPjjJf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/d8CHsjcTWV7HylrAXdR9UtY3HFG.jpg",
+      "plot_overview": "Weekend trips, office parties, late night conversations, drinking on the job, marriage pressure, biological clocks, holding eye contact a second too long\u2026 you know what makes the line between \u201cfriends\u201d and \u201cmore than friends\u201d really blurry? Beer.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 5.935,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-08-23",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 172533
+    },
+    {
+      "id": 172631,
+      "title": "Family Weekend",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/RiUNV96HPP14OfB7ILEOe2Vj26.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mMjRFMOuFxsL2elALlm5v8CA7ud.jpg",
+      "plot_overview": "A 16-year-old girl takes her parents hostage after they miss her big jump-roping competition.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.294,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-03-28",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 172631
     }
   ]
 }

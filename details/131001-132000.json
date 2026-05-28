@@ -1,10 +1,35 @@
 {
   "range": "131001-132000",
-  "updated_at": 1766207314831,
+  "updated_at": 1780003048327,
   "shows": [
     {
+      "id": 131142,
+      "title": "Love Story",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qp67ixTkVd4MEhMZhGorFoOXRxl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/58TgKra21gmqJ77dke2Ys1d0fJe.jpg",
+      "plot_overview": "An anthology of sweeping true love stories that captured the world\u2019s attention.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 8.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-02-12",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 131142
+    },
+    {
       "id": 131378,
-      "title": "Adventure Time: Fionna & Cake",
+      "title": "Adventure Time: Fionna and Cake",
       "type": "tv_series",
       "year": 2023,
       "poster_url": "https://image.tmdb.org/t/p/w342/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
@@ -12,11 +37,11 @@
       "plot_overview": "Fionna and Cake \u2013 with the help of the former Ice King, Simon Petrikov - embark on a multiverse-hopping adventure and journey of self-discovery. All the while a powerful new antagonist determined to track them down and erase them from existence, lurks in the shadows.",
       "genres": [
         "Animation",
-        "Sci-Fi & Fantasy",
         "Action & Adventure",
-        "Comedy"
+        "Comedy",
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.674,
+      "user_rating": 8.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-08-31",
@@ -28,39 +53,59 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 131378,
-      "is_returning": true,
-      "next_season": 2,
-      "next_air_date": "2025-12-18",
-      "next_episode": 9,
-      "relevance_score": 75
+      "tmdb_id": 131378
     },
     {
-      "id": 131992,
-      "title": "The Changeling",
+      "id": 131651,
+      "title": "Turning Point: 9/11 and the War on Terror",
       "type": "tv_series",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cLUeNjCHs8q4crMTyywflohSD8w.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/butQYwQvXZDDT9vatV3oO0ZAMhe.jpg",
-      "plot_overview": "Apollo and Emma's love story is a fairy tale\u2014until Emma mysteriously vanishes. Bereft, Apollo finds himself on a death-defying odyssey through a New York City he didn't know existed.",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aWHyzSVVVlKcd6KIuZCMIvD5TPZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pxhxhEKJXznWEavLXJWUxxxdo2X.jpg",
+      "plot_overview": "Modern history can be divided into two time frames: before 9/11 and after 9/11. This five-part docuseries is a cohesive chronicle of the September 11, 2001 attacks on the U.S., offering illuminating perspectives and personal stories of how the catastrophic events of that day changed the course of the nation.",
       "genres": [
-        "Mystery",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Documentary",
+        "War & Politics"
       ],
-      "user_rating": 6.53,
+      "user_rating": 7.246,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2023-09-07",
+      "release_date": "2021-09-01",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 131992
+      "tmdb_id": 131651
+    },
+    {
+      "id": 131927,
+      "title": "Dexter: New Blood",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9EBKgrFIsCFSV1RZKWhYUdbtGiv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e6v08948EZVvLrx0sWpmglguY9e.jpg",
+      "plot_overview": "10 years after Dexter went missing in the eye of Hurricane Laura, we find him living under an assumed name in the small town of Iron Lake, New York.  Dexter may be embracing his new life, but in the wake of unexpected events in this close-knit community, his Dark Passenger beckons.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.921,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-11-07",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 131927
     }
   ]
 }

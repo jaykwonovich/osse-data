@@ -1,72 +1,32 @@
 {
   "range": "304001-305000",
-  "updated_at": 1766207314858,
+  "updated_at": 1780003048348,
   "shows": [
     {
-      "id": 304806,
-      "title": "The Hillside Strangler",
+      "id": 304550,
+      "title": "Killing Grounds: The Gilgo Beach Murders",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "For the first time in over 40 years, Frank Salerno tells his story of the Hillside Strangler manhunt, revisiting the case that changed him forever. Kenneth Bianchi shares his story on camera for the first time of his role as one of the two people behind the Hillside Strangler.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mb1oBq4dnWI7vbX64HPXydCUj01.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lJ6rDjQQmMHz5m4GTPDi6vJXVck.jpg",
+      "plot_overview": "When a woman vanishes, police find bodies along Long Island's shore. Years of dead ends and overlooked victims stall the case until a new task force spots a suspect hiding in plain sight. With trial looming, insiders and families speak.",
       "genres": [
         "Documentary",
         "Crime"
       ],
-      "user_rating": 0.0,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2026-01-18",
+      "release_date": "2026-04-21",
       "streaming_services": [
         {
-          "service_id": 365,
-          "service_name": "MGM+",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "production_companies": [
-        "The Intellectual Property Corporation"
-      ],
-      "networks": [
-        "MGM+"
-      ],
-      "tmdb_id": 304806,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-01-18",
-      "next_episode": 1,
-      "relevance_score": 200,
-      "service_name": "MGM+",
-      "service_id": 365,
-      "prediction_source": "gemini",
-      "prediction_confidence": 1.0
-    },
-    {
-      "id": 304995,
-      "title": "High Horse: The Black Cowboy",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yMjmR1n2L20GyyvJvTeyM8JJyPW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/92VrriHqW9vAaqrSZlubKyvUxPv.jpg",
-      "plot_overview": "Three-part pop culture and historical documentary confronts and reclaims the Wild West while revealing the story of the Black cowboy \u2014 a history that has largely been untold.",
-      "genres": [
-        "Documentary"
-      ],
-      "user_rating": 5.25,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-11-20",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 304995
+      "tmdb_id": 304550
     }
   ]
 }

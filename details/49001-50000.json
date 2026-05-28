@@ -1,6 +1,6 @@
 {
   "range": "49001-50000",
-  "updated_at": 1766207314808,
+  "updated_at": 1780003048301,
   "shows": [
     {
       "id": 49009,
@@ -14,7 +14,7 @@
         "Family",
         "Comedy"
       ],
-      "user_rating": 7.465,
+      "user_rating": 7.459,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-09-24",
@@ -40,15 +40,21 @@
         "Drama",
         "Crime"
       ],
-      "user_rating": 7.674,
+      "user_rating": 7.676,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-05-12",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -66,7 +72,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.299,
+      "user_rating": 7.321,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-09-23",
@@ -81,60 +87,10 @@
       "tmdb_id": 49011
     },
     {
-      "id": 49013,
-      "title": "Cars 2",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4BS8tgBNWg2jPiDlBwM2iJe1xB7.jpg",
-      "plot_overview": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
-      "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
-      ],
-      "user_rating": 6.164,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2011-06-11",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 49013
-    },
-    {
-      "id": 49018,
-      "title": "Insidious",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yZP6GyrgzdpjH1AxPHlb8ACLkiA.jpg",
-      "plot_overview": "A family discovers that dark spirits have invaded their home after their son inexplicably falls into an endless sleep. When they reach out to a professional for help, they learn things are a lot more personal than they thought.",
-      "genres": [],
-      "user_rating": 6.942,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2011-03-31",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 49018
-    },
-    {
       "id": 49020,
       "title": "Submarine",
       "type": "movie",
-      "year": 2010,
+      "year": 2011,
       "poster_url": "https://image.tmdb.org/t/p/w342/nbzXX3CYtKUBrPeMcG7PVoLQHXB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zaa2noUk2Dm6IgdTWWEe4WpL08o.jpg",
       "plot_overview": "15-year-old deep-thinking Welsh schoolboy Oliver Tate struggles to initiate and maintain a relationship with Jordana, his devilish, dark-haired classmate at their Swansea high school. As his parents' marriage begins to fall apart, similar problems arise in his relationship with Jordana.",
@@ -145,7 +101,7 @@
       "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2010-10-22",
+      "release_date": "2011-03-18",
       "streaming_services": [
         {
           "service_id": 9,
@@ -157,35 +113,12 @@
       "tmdb_id": 49020
     },
     {
-      "id": 49021,
-      "title": "Killer Elite",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7O2U0WPFPSvNSUYZlhbnV081lBF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/RzIuQRoXiO8WeFdjtnjUCzSymV.jpg",
-      "plot_overview": "Based on a shocking true story, Killer Elite pits two of the world\u2019s most elite operatives\u2014Danny, an ex-special ops agent and Hunter, his longtime mentor\u2014against the cunning leader of a secret military society. Covering the globe from Australia to Paris, London and the Middle East, Danny and Hunter are plunged into a highly dangerous game of cat and mouse\u2014where the predators become the prey.",
-      "genres": [],
-      "user_rating": 6.261,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2011-09-22",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 49021
-    },
-    {
       "id": 49026,
       "title": "The Dark Knight Rises",
       "type": "movie",
       "year": 2012,
       "poster_url": "https://image.tmdb.org/t/p/w342/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/d354XqicJ7vi48YnPDr1vRk5uhZ.jpg",
       "plot_overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
       "genres": [
         "Crime",
@@ -197,36 +130,13 @@
       "release_date": "2012-07-17",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 49026
-    },
-    {
-      "id": 49049,
-      "title": "Dredd",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wLx65gtGVnUFCxceHWGszcruCZj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jUqDBi02CDjqrroC3Zl8hroBbSr.jpg",
-      "plot_overview": "In the future, America is a dystopian wasteland. The latest scourge is Ma-Ma, a prostitute-turned-drug pusher with a dangerous new drug and aims to take over the city. The only possibility of stopping her is an elite group of urban police called Judges, who combine the duties of judge, jury and executioner to deliver a brutal brand of swift justice. But even the top-ranking Judge, Dredd, discovers that taking down Ma-Ma isn\u2019t as easy as it seems in this explosive adaptation of the hugely popular",
-      "genres": [],
-      "user_rating": 6.852,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2012-09-07",
-      "streaming_services": [
-        {
           "service_id": 1899,
           "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 49049
+      "tmdb_id": 49026
     },
     {
       "id": 49051,
@@ -234,10 +144,10 @@
       "type": "movie",
       "year": 2012,
       "poster_url": "https://image.tmdb.org/t/p/w342/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/e9XpCB9XoTSvek6O7PNvJMhSlIK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
       "plot_overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
       "genres": [],
-      "user_rating": 7.364,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-12-12",
@@ -252,13 +162,38 @@
       "tmdb_id": 49051
     },
     {
+      "id": 49157,
+      "title": "Houdini",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ba43f5KXfH01ipDmDR4lZSQyDkL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/acYoi7709Uimozh6csIB4qhuL54.jpg",
+      "plot_overview": "Harry Houdini emerges as America's first bonafide world-renowned superstar.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.002,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-09-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 49157
+    },
+    {
       "id": 49444,
       "title": "Kung Fu Panda 2",
       "type": "movie",
       "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/A23nZfFBa7gFD40IsiV5gOadyIi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/reHkSQwiYKK4SabnGDY1FWKie82.jpg",
-      "plot_overview": "Po and his friends fight to stop a peacock villain from conquering China with a deadly new weapon, but first the Dragon Warrior must come to terms with his past.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7BdxZXbSkUiVeCRXKD3hi9KYeWm.jpg",
+      "plot_overview": "Po is finally living the dream as the Dragon Warrior\u2014until a shadow from his past comes roaring back. When the ruthless peacock Lord Shen unleashes a devastating new weapon used to wipe out kung fu masters across the land, Po and the Furious Five race across China to put an end to his plans. But if Po is to have any hope of stopping him, he must first confront the truth of his origins\u2014and find inner peace before his past tears him apart.",
       "genres": [
         "Animation",
         "Family",
@@ -270,12 +205,6 @@
       "release_date": "2011-05-25",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        },
-        {
           "service_id": 1899,
           "service_name": "Max",
           "type": "sub",
@@ -285,111 +214,15 @@
       "tmdb_id": 49444
     },
     {
-      "id": 49519,
-      "title": "The Croods",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wFN8llYh215M8i2fqWAcPV8CSyL.jpg",
-      "plot_overview": "The prehistoric Croods family live in a particularly dangerous moment in time. Patriarch Grug, his mate Ugga, teenage daughter Eep, son Thunk, and feisty Gran gather food by day and huddle together in a cave at night. When a more evolved caveman named Guy arrives on the scene, Grug is distrustful, but it soon becomes apparent that Guy is correct about the impending destruction of their world.",
-      "genres": [
-        "Animation",
-        "Family",
-        "Comedy"
-      ],
-      "user_rating": 6.928,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2013-03-15",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 49519
-    },
-    {
-      "id": 49521,
-      "title": "Man of Steel",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
-      "plot_overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
-      "genres": [],
-      "user_rating": 6.64,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2013-06-12",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 49521
-    },
-    {
-      "id": 49529,
-      "title": "John Carter",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hj5RynBrJB1Wlz84t3lJj9DuTJh.jpg",
-      "plot_overview": "John Carter is a war-weary, former military captain who's inexplicably transported to the mysterious and exotic planet of Barsoom (Mars) and reluctantly becomes embroiled in an epic conflict. It's a world on the brink of collapse, and Carter rediscovers his humanity when he realizes the survival of Barsoom and its people rests in his hands.",
-      "genres": [],
-      "user_rating": 6.4,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2012-03-07",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 49529
-    },
-    {
-      "id": 49530,
-      "title": "In Time",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pxL08w7Eq0vKrQ3mJzYp0VHGaKG.jpg",
-      "plot_overview": "In the not-too-distant future, the aging gene has been switched off. To avoid overpopulation, time has become the currency and the way people pay for luxuries and necessities. The rich can live forever, while the rest struggle to negotiate for their immortality. A poor young man who suddenly comes into a fortune of time finds himself on the run from a corrupt police force known as the \"time keepers\".",
-      "genres": [],
-      "user_rating": 6.971,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2011-10-27",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 49530
-    },
-    {
       "id": 49538,
       "title": "X-Men: First Class",
       "type": "movie",
       "year": 2011,
       "poster_url": "https://image.tmdb.org/t/p/w342/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mCinjxmq2tRDzSgc8QcuRkV8yTo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yhp5Pt4GugkCs5mz63qWz5khHXe.jpg",
       "plot_overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
       "genres": [],
-      "user_rating": 7.298,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-06-01",
@@ -410,36 +243,31 @@
       "tmdb_id": 49538
     },
     {
-      "id": 49953,
-      "title": "A Turtle's Tale: Sammy's Adventures",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/k5iNd9Uj1nyBZRZPwexcsvDVZ0O.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oobepzwlUcuWD8QPyLJ30DVQJqI.jpg",
-      "plot_overview": "Born on a Baja, California beach in 1959, new hatchling Sammy races across the beach to the ocean while avoiding being caught by seagulls and crabs. Thus begins Sammy's incredible fifty-year ocean journey where he overcomes obstacles, both natural and man-made, while trying to fulfill his dream of travelling around the world. Along the way he meets his best friend, a fellow turtle named Ray, and never forgets about Shelly, a turtle he saved that first day on the beach and the one he's always lov",
+      "id": 49920,
+      "title": "The Vow",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7AwKXXri13OIiGJIYhVELkx4pb5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mcwkWBYWfHjzEiuu5y9aCqXnj8b.jpg",
+      "plot_overview": "The docuseries follows people deeply involved in the group NXIVM \u2014 which is faced with various charges, including sex trafficking and racketeering conspiracy \u2014 over the course of several years.",
       "genres": [
-        "Animation",
-        "Family"
+        "Documentary",
+        "Crime",
+        "Drama"
       ],
-      "user_rating": 6.028,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2010-08-04",
+      "release_date": "2020-08-23",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 49953
+      "tmdb_id": 49920
     }
   ]
 }

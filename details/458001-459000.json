@@ -1,7 +1,57 @@
 {
   "range": "458001-459000",
-  "updated_at": 1766207314878,
+  "updated_at": 1780003048362,
   "shows": [
+    {
+      "id": 458131,
+      "title": "The Best of Enemies",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4pA9318BY7CSnXVi3xKBtPYMe1T.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hvFdjSEPveRmYXu4jazOQFjjDu3.jpg",
+      "plot_overview": "Centers on the unlikely relationship between Ann Atwater, an outspoken civil rights activist, and C.P. Ellis, a local Ku Klux Klan leader who reluctantly co-chaired a community summit, battling over the desegregation of schools in Durham, North Carolina during the racially-charged summer of 1971. The incredible events that unfolded would change Durham and the lives of Atwater and Ellis forever.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.377,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-04-05",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 458131
+    },
+    {
+      "id": 458156,
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+      "plot_overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin\u2019s guild, the High Table, John Wick is excommunicado, but the world\u2019s most ruthless hit men and women await his every turn.",
+      "genres": [
+        "Crime"
+      ],
+      "user_rating": 7.437,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-05-15",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 458156
+    },
     {
       "id": 458220,
       "title": "Palmer",
@@ -13,7 +63,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 8.142,
+      "user_rating": 8.116,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-01-28",
@@ -26,54 +76,6 @@
         }
       ],
       "tmdb_id": 458220
-    },
-    {
-      "id": 458506,
-      "title": "Tour de Pharmacy",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7XaSVJ3CggWweqRUrkvuCiers5Z.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eI6rWwBFY2LpT6pgi8INY0i3APD.jpg",
-      "plot_overview": "A mockumentary that chronicles the prevalence of doping in the world of professional cycling.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 6.685,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2017-07-08",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 458506
-    },
-    {
-      "id": 458576,
-      "title": "Monster Hunter",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1UCOF11QCw8kcqvce8LKOO6pimh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8tNX8s3j1O0eqilOQkuroRLyOZA.jpg",
-      "plot_overview": "A portal transports Cpt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.",
-      "genres": [],
-      "user_rating": 6.543,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2020-12-03",
-      "streaming_services": [
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 458576
     }
   ]
 }

@@ -1,19 +1,71 @@
 {
   "range": "100001-101000",
-  "updated_at": 1766207314824,
+  "updated_at": 1780003048320,
   "shows": [
+    {
+      "id": 100010,
+      "title": "Big Sky",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4CUK42x0TvcWvuRXfjAFQlCeRdf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qdZCF4FXQwOgkd8PIIQelbDqAYO.jpg",
+      "plot_overview": "Private detective Cassie Dewell partners with ex-cop Jenny Hoyt on a search for two sisters who have been kidnapped by a truck driver on a remote highway in Montana. When they discover that these are not the only girls who have disappeared in the area, they must race against the clock to stop the perpetrator before another woman is taken.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.236,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-11-17",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 100010
+    },
+    {
+      "id": 100052,
+      "title": "The English Game",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vvOccQ5Mcn665KXS2KSnldhpvva.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gVj2cKqtI27Z37woGRm7847V8WJ.jpg",
+      "plot_overview": "Two 19th-century footballers on opposite sides of a class divide navigate professional and personal turmoil to change the game \u2014 and England \u2014 forever.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-03-20",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 100052
+    },
     {
       "id": 100088,
       "title": "The Last of Us",
       "type": "tv_series",
       "year": 2023,
       "poster_url": "https://image.tmdb.org/t/p/w342/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gKSbTwTvdfJYAJyTNOxlpNoiktH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/acevLdSl5I2MK5RYAm7gwAndt1w.jpg",
       "plot_overview": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 8.463,
+      "user_rating": 8.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-01-15",
@@ -36,7 +88,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
       "plot_overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When th",
       "genres": [],
-      "user_rating": 7.655,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-03-20",
@@ -46,35 +98,68 @@
           "service_name": "Disney+",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 100402
     },
     {
-      "id": 100414,
-      "title": "Suspicion",
+      "id": 100412,
+      "title": "The Baby-Sitters Club",
       "type": "tv_series",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vY02Rbk8ZUgiQgziGMuYKNT9IBO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bA9qbhuzhbkJGBkSynh4JXOhcel.jpg",
-      "plot_overview": "Four ordinary Brits are accused of kidnapping the son of a prominent U.S. media mogul. They embark on a desperate race against time to prove their innocence, but will anyone believe them\u2014and are they telling the truth?",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/afyG6cPl0jeV3SwNwyZxRG0Q9wd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lhk5vgXN4Mnz4YWDw5RDqTaqPLd.jpg",
+      "plot_overview": "In this contemporary take on the beloved book series, five best friends launch a baby-sitting business that's big on fun and adventure.",
       "genres": [
-        "Drama",
-        "Crime"
+        "Kids",
+        "Drama"
       ],
-      "user_rating": 6.8,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2022-02-04",
+      "release_date": "2020-07-03",
       "streaming_services": [
         {
-          "service_id": 350,
-          "service_name": "Apple TV+",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 100414
+      "tmdb_id": 100412
+    },
+    {
+      "id": 100617,
+      "title": "Transformers: War for Cybertron: Siege",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lBUPQLk9gEg8Mg6noHcew8Aag0M.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bxZrG6wsmKMoUC1q4ByTWDRHaOh.jpg",
+      "plot_overview": "On their dying planet, the Autobots and Decepticons battle fiercely for control of the AllSpark in the Transformers universe's origin story.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-07-30",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 100617
     },
     {
       "id": 100757,
@@ -89,7 +174,7 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 8.3,
+      "user_rating": 8.271,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-04-15",
@@ -115,7 +200,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 8.08,
+      "user_rating": 8.1,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-04-27",
@@ -128,6 +213,33 @@
         }
       ],
       "tmdb_id": 100883
+    },
+    {
+      "id": 100963,
+      "title": "The Big Show Show",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dsuQtGTIol9sUZFw1yJjqONKs5G.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/404CfrpXBqLeZzk8iMzBK8dO16R.jpg",
+      "plot_overview": "Former WWE wrestler the Big Show is out of the ring and ready for an even tougher challenge: raising three daughters with his wife in Florida.",
+      "genres": [
+        "Comedy",
+        "Kids",
+        "Family"
+      ],
+      "user_rating": 7.451,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-04-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 100963
     }
   ]
 }

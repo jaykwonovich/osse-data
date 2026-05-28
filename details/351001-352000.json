@@ -1,7 +1,33 @@
 {
   "range": "351001-352000",
-  "updated_at": 1766207314866,
+  "updated_at": 1780002330961,
   "shows": [
+    {
+      "id": 351044,
+      "title": "Welcome to Marwen",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dOULsxYQFsOR0cEBBB20xnjJkPD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/q9hnJ9SzwcF30seRtXEzLd5l1gw.jpg",
+      "plot_overview": "When a devastating attack shatters Mark Hogancamp and wipes away all memories, no one expected recovery. Putting together pieces from his old and new life, Mark meticulously creates a wondrous town named Marwen where he can heal and be heroic. As he builds an astonishing art installation \u2014 a testament to the most powerful women he knows \u2014 through his fantasy world, he draws strength to triumph in the real one.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 6.505,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-12-21",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 351044
+    },
     {
       "id": 351286,
       "title": "Jurassic World: Fallen Kingdom",
@@ -51,6 +77,12 @@
           "service_id": 613,
           "service_name": "Freevee",
           "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],

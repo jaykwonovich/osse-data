@@ -1,6 +1,6 @@
 {
   "range": "62001-63000",
-  "updated_at": 1766207314812,
+  "updated_at": 1780003048305,
   "shows": [
     {
       "id": 62017,
@@ -14,11 +14,17 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "user_rating": 7.523,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-01-15",
       "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 9,
           "service_name": "Prime Video",
@@ -29,21 +35,46 @@
       "tmdb_id": 62017
     },
     {
-      "id": 62117,
-      "title": "Younger",
+      "id": 62046,
+      "title": "Scream Queens",
       "type": "tv_series",
       "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/feWw6i09zaX2apzRqd7QbKEAsx9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wCdhtaLMNtQ37j4OEch4dSKXyoE.jpg",
-      "plot_overview": "Liza Miller, a suddenly single stay-at-home mother, tries to get back into the working world, only to find it\u2019s nearly impossible to start at the bottom at 40-year old. When a chance encounter convinces her she looks younger than she is, Liza tries to pass herself off as 26 and lands a job as an assistant at Empirical Press. Now she just has to make sure no one finds out the secret only she and her best friend Maggie share.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/yeayXZYSU8xdmC8i5g5jTdxeggp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3wssj86c6b2WQLWGF8BTF2oRG02.jpg",
+      "plot_overview": "The super-charged comedy-horror series is a modern take on the classic whodunit with a killer cast.\u00a0",
       "genres": [
-        "Drama",
+        "Mystery",
         "Comedy"
       ],
-      "user_rating": 6.802,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2015-03-31",
+      "release_date": "2015-09-22",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62046
+    },
+    {
+      "id": 62084,
+      "title": "Poldark",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fTJZHMzlIGSJVPSe7Xz4p5SRwYP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p8A1HMw3f3djxMwQRccCuxdy754.jpg",
+      "plot_overview": "Britain is in the grip of a chilling recession... falling wages, rising prices, civil unrest - only the bankers are smiling. It's 1783 and Ross Poldark returns from the American War of Independence to his beloved Cornwall to find his world in ruins: his father dead, the family mine long since closed, his house wrecked and his sweetheart pledged to marry his cousin. But Ross finds that hope and love can be found when you are least expecting it in the wild but beautiful Cornish landscape.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-03-08",
       "streaming_services": [
         {
           "service_id": 8,
@@ -52,35 +83,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 62117
-    },
-    {
-      "id": 62126,
-      "title": "Marvel's Luke Cage",
-      "type": "tv_series",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6R62oGGufhsf6DiMknCi047N0b7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1zC6TJ4gQYQSjZUyZMeldxImqNg.jpg",
-      "plot_overview": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Crime"
-      ],
-      "user_rating": 6.925,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2016-09-30",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 62126
+      "tmdb_id": 62084
     },
     {
       "id": 62177,
@@ -92,7 +95,6 @@
       "plot_overview": "In the mystical Scottish Highlands, Merida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Merida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Merida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Merida's quest \u2014 and serving as comic relief \u2014 are the kingdom's three lords: the enormous Lord MacGuffin, the",
       "genres": [
         "Animation",
-        "Comedy",
         "Family"
       ],
       "user_rating": 7.0,
@@ -111,14 +113,17 @@
     },
     {
       "id": 62211,
-      "title": "Monsters University",
-      "type": "movie",
+      "title": "Sonic Boom",
+      "type": "tv_series",
       "year": 2013,
       "poster_url": "https://image.tmdb.org/t/p/w342/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hmAOMwVeJfdWXgK1Ikyl2eYkE99.jpg",
       "plot_overview": "A look at the relationship between Mike and Sulley during their days at Monsters University \u2014 when they weren't necessarily the best of friends.",
       "genres": [
+        "Action & Adventure",
         "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy",
         "Family"
       ],
       "user_rating": 7.0,
@@ -126,6 +131,12 @@
       "us_rating": null,
       "release_date": "2013-06-19",
       "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 337,
           "service_name": "Disney+",
@@ -136,19 +147,73 @@
       "tmdb_id": 62211
     },
     {
+      "id": 62214,
+      "title": "Frankenweenie",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yGjVbLVdZRBlZTTQVBsj2KUjL1s.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yfTZ2MSRWc06cBrFOsAF4Lebi4.jpg",
+      "plot_overview": "When a car hits young Victor's pet dog Sparky, Victor decides to bring him back to life the only way he knows how. But when the bolt-necked \"monster\" wreaks havoc and terror in the hearts of Victor's neighbors, he has to convince them that Sparky's still the good, loyal friend he was.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "user_rating": 7.006,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-10-04",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62214
+    },
+    {
+      "id": 62264,
+      "title": "Ash vs Evil Dead",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9tNtSk46s3f1ePr59p0JG6uacc8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bIna9BL7Uny1hM63ntTI9BpRkRJ.jpg",
+      "plot_overview": "Bruce Campbell reprises his role as Ash Williams, an aging lothario and chainsaw-handed monster hunter who\u2019s spent the last three decades avoiding maturity, and the terrors of the Evil Dead. But when a Deadite plague threatens to destroy all of mankind, he\u2019s forced to face his demons \u2014 both metaphorical and literal.",
+      "genres": [
+        "Comedy",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.736,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-10-31",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62264
+    },
+    {
       "id": 62285,
       "title": "Marvel's The Defenders",
       "type": "tv_series",
       "year": 2017,
       "poster_url": "https://image.tmdb.org/t/p/w342/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/72jj9y2Ejeub0mycZvkrPfT59sW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ycAWXhAhyaE7g3JBAaierK4LgNg.jpg",
       "plot_overview": "Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on common enemies as a sinister conspiracy threatens New York City.",
       "genres": [
         "Sci-Fi & Fantasy",
         "Action & Adventure",
         "Crime"
       ],
-      "user_rating": 7.059,
+      "user_rating": 7.052,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-08-18",
@@ -174,21 +239,21 @@
         "Action & Adventure",
         "Drama"
       ],
-      "user_rating": 7.637,
+      "user_rating": 7.622,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-08-23",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
           "region": "US"
         },
         {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -206,7 +271,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.667,
+      "user_rating": 7.708,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-05-08",
@@ -221,90 +286,63 @@
       "tmdb_id": 62320
     },
     {
-      "id": 62417,
-      "title": "Emerald City",
+      "id": 62391,
+      "title": "Chef's Table",
       "type": "tv_series",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8mlPjKqMROLwpuuvKb0qXIFXAwf.jpg",
-      "plot_overview": "In the blink of a tornado\u2019s eye, 20-year-old Dorothy Gale and her K9 police dog are transported to another world, one far removed from our own \u2014 a mystical land of competing kingdoms, lethal warriors, dark magic and a bloody battle for supremacy. This is the fabled Land of Oz in a way you\u2019ve never seen before, where wicked witches don\u2019t stay dead for long and a young girl becomes a headstrong warrior who holds the fate of kingdoms in her hands.",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2aTdai1vsWr2NjdYEBDxA2hffXb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6ISnUuFeHLW72AOvJhLEO7VQG1g.jpg",
+      "plot_overview": "Meet culinary stars around the world who are redefining gourmet food with innovative dishes and tantalizing desserts.",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
+        "Documentary"
       ],
-      "user_rating": 6.586,
+      "user_rating": 7.775,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2017-01-06",
+      "release_date": "2015-04-26",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 62417
+      "tmdb_id": 62391
     },
     {
-      "id": 62560,
-      "title": "Mr. Robot",
+      "id": 62505,
+      "title": "Unforgotten",
       "type": "tv_series",
       "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hZOuVkhAWX9viLJuaIsMh8cM3Jz.jpg",
-      "plot_overview": "A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "user_rating": 8.258,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2015-06-24",
-      "streaming_services": [
-        {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 62560
-    },
-    {
-      "id": 62630,
-      "title": "The Devil's Double",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sDnnV0QbfvXthf8K4cYod4HVlug.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uFygi71bQrFdF3SDb6c51WLpKE8.jpg",
-      "plot_overview": "A chilling vision of the House of Saddam Hussein comes to life through the eyes of the man who was forced to become the double of Hussein's sadistic son.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bfysfq7JDBWKLpkKPaOU2FpfmB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ywEk2WXTXELEAL4LcE6QhduJj09.jpg",
+      "plot_overview": "London police detectives Cassie Stuart and Sunny Khan investigate historic cold cases involving missing persons, murder and long-hidden secrets.",
       "genres": [
         "Drama",
-        "Crime"
+        "Crime",
+        "Mystery"
       ],
-      "user_rating": 6.701,
+      "user_rating": 7.511,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2011-02-11",
+      "release_date": "2015-10-08",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 62630
+      "tmdb_id": 62505
     },
     {
       "id": 62643,
       "title": "DC's Legends of Tomorrow",
       "type": "tv_series",
       "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qNgAcg4gNYbZ9mySLB9ZX4ehZb6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/AcEFDh272YVTR6B6zrrusk8BjJG.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/be8fOACxsVyaX6lZLlQOWNqF0g2.jpg",
       "plot_overview": "When heroes alone are not enough ... the world needs legends. Having seen the future, one he will desperately try to prevent from happening, time-traveling rogue Rip Hunter is tasked with assembling a disparate group of both heroes and villains to confront an unstoppable threat \u2014 one in which not only is the planet at stake, but all of time itself. Can this ragtag team defeat an immortal threat unlike anything they have ever known?",
       "genres": [
@@ -312,7 +350,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "user_rating": 7.268,
+      "user_rating": 7.263,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-01-21",
@@ -337,7 +375,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.533,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-11-30",
@@ -368,7 +406,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 8.282,
+      "user_rating": 8.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-11-17",
@@ -380,12 +418,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 62650,
-      "is_returning": true,
-      "next_season": 11,
-      "next_air_date": "2026-01-07",
-      "next_episode": 8,
-      "relevance_score": 75
+      "tmdb_id": 62650
     },
     {
       "id": 62688,
@@ -393,14 +426,14 @@
       "type": "tv_series",
       "year": 2015,
       "poster_url": "https://image.tmdb.org/t/p/w342/cFO65xb0xiXKqk5BmgHawCXB1i0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mmprryb2r0X8u9JkZCnaJIzyYX4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hTnMOqUxYWSXqggzlY13NATnuTv.jpg",
       "plot_overview": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
       "genres": [
         "Drama",
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "user_rating": 7.289,
+      "user_rating": 7.283,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-10-26",
@@ -415,32 +448,6 @@
       "tmdb_id": 62688
     },
     {
-      "id": 62704,
-      "title": "Ballers",
-      "type": "tv_series",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/WyIazPyjmcFMC42nWEpI0jr56x.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gyPWbM1lq7Ufd9cENSl5Phsrb0a.jpg",
-      "plot_overview": "Looking at the lives of former and current football players, the show follows former superstar Spencer Strasmore as he gets his life on track in retirement while mentoring other current and former players through the daily grind of the business of football.",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "user_rating": 6.777,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2015-06-21",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 62704
-    },
-    {
       "id": 62710,
       "title": "Blindspot",
       "type": "tv_series",
@@ -453,7 +460,7 @@
         "Drama",
         "Action & Adventure"
       ],
-      "user_rating": 7.375,
+      "user_rating": 7.379,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-09-21",
@@ -468,6 +475,58 @@
       "tmdb_id": 62710
     },
     {
+      "id": 62717,
+      "title": "Jonathan Strange & Mr Norrell",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/Aq6aqgHo3nzRTT84kV7DrJ8Ifyc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/y9cANZAKbytPjmFQKpD33vOpZZV.jpg",
+      "plot_overview": "With magic long since lost to England, two men are destined to bring it back; the reclusive Mr. Norrell and daring novice Jonathan Strange. So begins a dangerous battle between two great minds.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.378,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-05-17",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62717
+    },
+    {
+      "id": 62725,
+      "title": "Bella and the Bulldogs",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5jTmX79QjbuBuVnH9xVoA8jFAMT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gxbkD5VT4wUf9ModAwAQWt3wVun.jpg",
+      "plot_overview": "A head cheerleader's life takes an unexpected twist when her rifle-like throwing arm takes her from the sidelines to becoming her middle school\u2019s starting quarterback. Bella Dawson is a confident, caring and talented teenager, who suddenly finds herself fulfilling a lifelong dream but also having to navigate the world of her teammates Troy, Sawyer and Newt, without losing her two best friends, Pepper and Sophie from the cheer squad.",
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "user_rating": 7.713,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-01-17",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62725
+    },
+    {
       "id": 62822,
       "title": "Humans",
       "type": "tv_series",
@@ -480,71 +539,76 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.461,
+      "user_rating": 7.474,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-06-14",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         },
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 62822
     },
     {
-      "id": 62835,
-      "title": "Colombiana",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rEdGDgRB3gducezNSIyx2lbKQy4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2PlRuZUjqC58bqm6MOjOAraEdFA.jpg",
-      "plot_overview": "After witnessing her parents\u2019 murder as a child in Bogota, Cataleya Restrepo grows up to be a stone-cold assassin. She works for her uncle as a hitman by day, but her personal time is spent engaging in vigilante murders that she hopes will lead her to her ultimate target: the mobster responsible for her parents' death.",
+      "id": 62852,
+      "title": "Billions",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/edwYPQdZE998d748AdwWLsfy0rl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/51Hw58fMwJQKYJ6XYJIRQBP9EPA.jpg",
+      "plot_overview": "Shrewd, savvy U.S. Attorney Chuck Rhoades and the brilliant, ambitious hedge fund king Bobby \"Axe\" Axelrod are on an explosive collision course, with each using all of his considerable smarts, power and influence to outmaneuver the other. The stakes are in the billions in this timely, provocative series.",
       "genres": [
-        "Crime",
         "Drama"
       ],
-      "user_rating": 6.639,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2011-07-27",
+      "release_date": "2016-01-17",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 62835
+      "tmdb_id": 62852
     },
     {
       "id": 62875,
       "title": "BUNK'D: Learning the Ropes",
       "type": "tv_series",
       "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/at3gMIGpvoofKMgmsnhVFgmBnAe.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/tfgcSe8o0HTuMJaMWSD5vdF8hMa.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3vcDGyCiot23FqjhAxnZmwvItOH.jpg",
       "plot_overview": "Siblings Emma, Ravi, and Zuri Ross leave their extravagant New York City penthouse once again to return to Camp Kikiwaka, a rustic summer camp in Maine where their parents met as teenagers.",
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-07-31",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -568,9 +632,21 @@
       "release_date": "2015-06-22",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],

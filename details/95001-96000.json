@@ -1,6 +1,6 @@
 {
   "range": "95001-96000",
-  "updated_at": 1766207314822,
+  "updated_at": 1780003048318,
   "shows": [
     {
       "id": 95057,
@@ -14,7 +14,7 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.05,
+      "user_rating": 8.057,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-02-23",
@@ -39,7 +39,7 @@
       "genres": [
         "Documentary"
       ],
-      "user_rating": 8.3,
+      "user_rating": 8.311,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-05-23",
@@ -54,36 +54,30 @@
       "tmdb_id": 95171
     },
     {
-      "id": 95205,
-      "title": "The Equalizer",
+      "id": 95215,
+      "title": "Reservation Dogs",
       "type": "tv_series",
       "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oxJG9F16AUji71jpPxkEOBWanMP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/z8CzVVAGHRRmgJQ6ZRjr8OuCmlj.jpg",
-      "plot_overview": "Robyn McCall, an enigmatic former CIA operative with a mysterious background, uses her extensive skills to help those with nowhere else to turn.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/t6hqwD5oQRGgNrZKN71BQYxteC1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4vC3CijGu8g2Z1UobwkJpRQHOVO.jpg",
+      "plot_overview": "Four Indigenous teenagers in rural Oklahoma steal, rob and save in order to get to the exotic, mysterious and faraway land of California.",
       "genres": [
-        "Crime",
-        "Drama"
+        "Drama",
+        "Comedy"
       ],
-      "user_rating": 7.289,
+      "user_rating": 7.923,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2021-02-07",
+      "release_date": "2021-08-09",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 95205
+      "tmdb_id": 95215
     },
     {
       "id": 95249,
@@ -97,7 +91,7 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.284,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-07-08",
@@ -124,7 +118,7 @@
         "Drama",
         "Action & Adventure"
       ],
-      "user_rating": 7.399,
+      "user_rating": 7.38,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-10-13",
@@ -139,6 +133,45 @@
       "tmdb_id": 95341
     },
     {
+      "id": 95350,
+      "title": "Lanterns",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9WvY1jicpfYLA6KoczwvdMRNGvc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/moA5NNpOsSeQ2gNkOBgbMeNOl3d.jpg",
+      "plot_overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, earth-based mystery as they investigate a murder in the American heartland.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Mystery"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-08-16",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "DC Studios",
+        "HBO",
+        "Warner Bros. Television"
+      ],
+      "networks": [
+        "HBO"
+      ],
+      "tmdb_id": 95350,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-08-16",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
       "id": 95396,
       "title": "Severance",
       "type": "tv_series",
@@ -151,7 +184,7 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.394,
+      "user_rating": 8.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-02-17",
@@ -177,15 +210,15 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "user_rating": 7.685,
+      "user_rating": 7.662,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-10-20",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -204,17 +237,11 @@
         "Drama",
         "Comedy"
       ],
-      "user_rating": 7.983,
+      "user_rating": 8.014,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-04-01",
       "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        },
         {
           "service_id": 350,
           "service_name": "Apple TV+",
@@ -225,50 +252,109 @@
       "tmdb_id": 95480
     },
     {
+      "id": 95555,
+      "title": "Daisy Jones & the Six",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ltfscPUljehY7IwGG85vij2TEbQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/37NYkXhZBGgRHCCXLbIQXoJZUYS.jpg",
+      "plot_overview": "In 1977, Daisy Jones & The Six were on top of the world. Fronted by two charismatic lead singers \u2014 Daisy Jones and Billy Dunne \u2014 the band had risen from obscurity to fame. And then, after a sold-out show at Chicago's Soldier Field, they called it quits. Now, decades later, the band members finally agree to reveal the truth.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.995,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-03-02",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 95555
+    },
+    {
       "id": 95557,
       "title": "INVINCIBLE",
       "type": "tv_series",
       "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dfmPbyeZZSz3bekeESvMJaH91gS.jpg",
-      "plot_overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father\u2019s tutelage.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+      "plot_overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
       "genres": [
         "Animation",
+        "Drama",
         "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Drama"
+        "Action & Adventure"
       ],
-      "user_rating": 8.621,
+      "user_rating": 8.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-03-25",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 95557
     },
     {
-      "id": 95610,
-      "title": "Bridget Jones's Baby",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5hHomngoPZrNoXOPlyaHV6eXaQW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hTReEn9kCeZLxgQmC46hQszLKSq.jpg",
-      "plot_overview": "After breaking up with Mark Darcy five years earlier, Bridget Jones' happily-ever-after hasn't quite gone according to plan. Fortysomething and single again, she decides to focus on her job as top news producer and surround herself with old friends and new. For once, Bridget has everything completely under control. Then her love life takes a turn - while a weekend away at a music festival, she meets a dashing American named Jack, who is everything Mark is not, and spends a night with him. A week",
+      "id": 95599,
+      "title": "Kipo and the Age of Wonderbeasts",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4yPluNRnnaO68VOhwDTA46wDXVN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uaCBOSZnFSJtOLWSvxA2NVreGv1.jpg",
+      "plot_overview": "A sheltered girl gets a crash course in survival when a mutant attack sends her to the surface, far from the safety of her underground home.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
       ],
-      "user_rating": 6.407,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2016-09-14",
+      "release_date": "2020-01-14",
       "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 95599
+    },
+    {
+      "id": 95712,
+      "title": "The Storyteller: Greek Myths",
+      "type": "tv_series",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l4OBhyj2gheh16iuG6wvTNDzfjr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wP4Vl2epVhA5yNWWAHDURZnPNpa.jpg",
+      "plot_overview": "A storyteller in a labyrinth tells his dog the stories of Perseus and Medusa, Icarus and Daedalus, Theseus and the Minotaur, and Orpheus and Euridyce.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 8.168,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1991-12-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",
@@ -276,7 +362,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 95610
+      "tmdb_id": 95712
     },
     {
       "id": 95941,
@@ -290,7 +376,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.491,
+      "user_rating": 7.47,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-01-07",
@@ -303,6 +389,32 @@
         }
       ],
       "tmdb_id": 95941
+    },
+    {
+      "id": 95986,
+      "title": "The Confession Killer",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9EICsJ2tAagT3crgGnvWRErv1pO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bn4OmnMLpPAFBLAd7cpsKxLhe9Z.jpg",
+      "plot_overview": "Henry Lee Lucas rose to infamy when he confessed to hundreds of unsolved murders. This docuseries examines the truth -- and horrifying consequences.",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-12-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 95986
     }
   ]
 }

@@ -1,23 +1,73 @@
 {
   "range": "152001-153000",
-  "updated_at": 1766207314836,
+  "updated_at": 1780003048329,
   "shows": [
     {
-      "id": 152792,
-      "title": "Devil's Knot",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8DMDx7XMylIL7lpBEOMzIjuwhw0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fyICKtzDeHosw97zoM6Tal7cied.jpg",
-      "plot_overview": "The savage murders of three young children sparks a controversial trial of three teenagers accused of killing the kids as part of a satanic ritual.",
+      "id": 152483,
+      "title": "The Boys Presents: Diabolical",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7bsHAsS1RDtslictkApeb7cedLL.jpg",
+      "plot_overview": "From some of the most unhinged and maniacal minds in Hollywood today comes this animated anthology series, a collection of irreverent and emotionally shocking animated short films. Each episode plunges elbow-deep into unseen crevices of The Boys Universe.",
       "genres": [
-        "Crime",
-        "Drama"
+        "Animation",
+        "Action & Adventure"
       ],
-      "user_rating": 6.177,
+      "user_rating": 7.151,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2013-05-09",
+      "release_date": "2022-03-03",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 152483
+    },
+    {
+      "id": 152532,
+      "title": "Dallas Buyers Club",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
+      "plot_overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.913,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-11-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 152532
+    },
+    {
+      "id": 152603,
+      "title": "Only Lovers Left Alive",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6siwECwpRbNX70ybF8iqZqnspGP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dwFvtGZ6fUsU9YRWHXbAOXwNQkq.jpg",
+      "plot_overview": "A depressed musician reunites with his lover. However, their romance, already played over several centuries, is disrupted by the arrival of her uncontrollable younger sister.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-12-12",
       "streaming_services": [
         {
           "service_id": 15,
@@ -26,7 +76,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 152792
+      "tmdb_id": 152603
     }
   ]
 }

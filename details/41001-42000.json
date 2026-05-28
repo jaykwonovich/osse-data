@@ -1,90 +1,7 @@
 {
   "range": "41001-42000",
-  "updated_at": 1766207314805,
+  "updated_at": 1780003048299,
   "shows": [
-    {
-      "id": 41210,
-      "title": "The Switch",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oJdMT6RGtbvQ26Tk7EHGfG8xZ6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gh3uqEZQp4nhkyJqkGUJSgGr6AJ.jpg",
-      "plot_overview": "Kassie is a smart, fun-loving single woman who, despite her neurotic best friend Wally\u2019s objections, decides it\u2019s time to have a baby \u2013 even if it means doing it herself\u2026 with a little help from a charming sperm donor. But, unbeknownst to her, Kassie\u2019s plans go awry because of a last-minute switch that isn\u2019t discovered until seven years later\u2026 when Wally gets acquainted with Kassie\u2019s cute, though slightly neurotic, son.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "user_rating": 6.227,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2010-05-11",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 41210
-    },
-    {
-      "id": 41215,
-      "title": "Black Death",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gXRERDpyT9s3m2yk6wNmrTWbZfG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dQhVu7ZSgvgAuYAEoD9mXvqpp1.jpg",
-      "plot_overview": "As the plague decimates medieval Europe, rumours circulate of a village immune from the plague. There is talk of a necromancer who leads the village and is able to raise the dead. A fearsome knight joined by a cohort of soldiers and a young monk are charged by the church to investigate. Their journey is filled with danger, but it's upon entering the village that their true horror begins.",
-      "genres": [
-        "Drama"
-      ],
-      "user_rating": 6.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2010-06-07",
-      "streaming_services": [
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 41215
-    },
-    {
-      "id": 41216,
-      "title": "Legend of the Guardians: The Owls of Ga'Hoole",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qweKCtPdnIP2uGp1PgWZyCV7gzj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/s1aCCFPCRl4Zw2EBHLGK1dAHs1L.jpg",
-      "plot_overview": "When a young owl is abducted by an evil Owl army, he must escape with new-found friends and seek the legendary Guardians to stop the menace.",
-      "genres": [
-        "Animation",
-        "Family"
-      ],
-      "user_rating": 6.82,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2010-07-10",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 41216
-    },
     {
       "id": 41692,
       "title": "Lonesome Dove",
@@ -97,11 +14,17 @@
         "Drama",
         "Western"
       ],
-      "user_rating": 7.889,
+      "user_rating": 7.936,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1989-02-05",
       "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",
@@ -123,7 +46,7 @@
         "Crime",
         "Drama"
       ],
-      "user_rating": 7.975,
+      "user_rating": 7.969,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-01-11",
@@ -136,6 +59,31 @@
         }
       ],
       "tmdb_id": 41727
+    },
+    {
+      "id": 41889,
+      "title": "Top Boy",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e0Xx0uaVBjvT07WgY6ukNonUlZs.jpg",
+      "plot_overview": "A thrilling and raw crime drama following a gang of drug dealers in Hackney, London - an honest and gripping rendition of inner-city drug and gang culture.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.444,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-10-31",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 41889
     }
   ]
 }

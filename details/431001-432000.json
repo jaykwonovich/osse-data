@@ -1,13 +1,40 @@
 {
   "range": "431001-432000",
-  "updated_at": 1766207314875,
+  "updated_at": 1780003048361,
   "shows": [
+    {
+      "id": 431580,
+      "title": "Abominable",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/20djTLqppfBx5WYA67Y300S6aPD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jXk3ZMq7n4ugOqKYq0CtMn3gia8.jpg",
+      "plot_overview": "A group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.",
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-09-19",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 431580
+    },
     {
       "id": 431693,
       "title": "Spies in Disguise",
       "type": "movie",
       "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/e7rWcrnuNej3JeVjqmRu0jVeRa4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/z52xI0MnoX1rqySFJYnmBqHbXRn.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uG1v9Hk1XKICd6IJChRR20mBh8i.jpg",
       "plot_overview": "Super spy Lance Sterling and scientist Walter Beckett are almost exact opposites. Lance is smooth, suave and debonair. Walter is\u2026 not. But what Walter lacks in social skills he makes up for in smarts and invention, creating the awesome gadgets Lance uses on his epic missions. But when events take an unexpected turn, Walter and Lance suddenly have to rely on each other in a whole new way.",
       "genres": [
@@ -15,7 +42,7 @@
         "Comedy",
         "Family"
       ],
-      "user_rating": 7.569,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-12-04",
@@ -23,6 +50,12 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }

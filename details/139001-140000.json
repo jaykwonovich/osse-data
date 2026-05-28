@@ -1,7 +1,33 @@
 {
   "range": "139001-140000",
-  "updated_at": 1766207314835,
+  "updated_at": 1780002330926,
   "shows": [
+    {
+      "id": 139099,
+      "title": "The Consultant",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dbmnbPdDIgH9RR1Cs0SkG4DaYgF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aljOqXXt0TVCoOoaAS4SmmjmrGC.jpg",
+      "plot_overview": "After an unspeakable tragedy at CompWare, a games studio based in downtown Los Angeles, a mysterious consultant, Regus Patoff, blows into town and takes charge.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 6.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-02-23",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 139099
+    },
     {
       "id": 139567,
       "title": "Fire with Fire",
@@ -29,6 +55,12 @@
           "service_id": 613,
           "service_name": "Freevee",
           "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],

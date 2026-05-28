@@ -1,6 +1,6 @@
 {
   "range": "33001-34000",
-  "updated_at": 1766207314803,
+  "updated_at": 1780003048296,
   "shows": [
     {
       "id": 33001,
@@ -15,21 +15,21 @@
         "Sci-Fi & Fantasy",
         "Mystery"
       ],
-      "user_rating": 7.537,
+      "user_rating": 7.519,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-07-09",
       "streaming_services": [
         {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         },
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -49,7 +49,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.591,
+      "user_rating": 7.582,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-11-07",
@@ -59,52 +59,7 @@
           "service_name": "Disney+",
           "type": "sub",
           "region": "US"
-        }
-      ],
-      "tmdb_id": 33213
-    },
-    {
-      "id": 33217,
-      "title": "Diary of a Wimpy Kid",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iLAGiPnSuODt9cn332bkFElrRig.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xEd4sKtyCtm0bnbIwXgWuqZePpl.jpg",
-      "plot_overview": "Greg Heffley is headed for big things, but first he has to survive the scariest, most humiliating experience of any kid\u2019s life \u2013 middle school! That won\u2019t be easy, considering he\u2019s surrounded by hairy-freckled morons, wedgie-loving bullies and a moldy slice of cheese with nuclear cooties!",
-      "genres": [
-        "Comedy",
-        "Family"
-      ],
-      "user_rating": 6.259,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2010-03-19",
-      "streaming_services": [
-        {
-          "service_id": 337,
-          "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 33217
-    },
-    {
-      "id": 33408,
-      "title": "The Crush",
-      "type": "movie",
-      "year": 1993,
-      "poster_url": "https://image.tmdb.org/t/p/w342/z39jcn45Oht2uULw8Qv2Zv1v2kp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pbm674fhSegfJ8HEZX2cSwxjBtW.jpg",
-      "plot_overview": "A precocious and obsessive teenager develops a crush on a naive writer with harrowing consequences.",
-      "genres": [
-        "Drama"
-      ],
-      "user_rating": 6.619,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1993-04-02",
-      "streaming_services": [
+        },
         {
           "service_id": 9,
           "service_name": "Prime Video",
@@ -112,7 +67,34 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 33408
+      "tmdb_id": 33213
+    },
+    {
+      "id": 33217,
+      "title": "Young Justice",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zMJw34G4OJhcd9NjKSRjJdDqjbR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pOKcw45cAMPu8DN7E3bN5FEvxM3.jpg",
+      "plot_overview": "Teenage superheroes strive to prove themselves as members of the Justice League.",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "user_rating": 8.387,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-11-26",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 33217
     },
     {
       "id": 33409,
@@ -126,7 +108,7 @@
         "Crime",
         "Drama"
       ],
-      "user_rating": 7.636,
+      "user_rating": 7.698,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-06-26",
@@ -151,7 +133,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.163,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-12-25",
@@ -166,29 +148,6 @@
       "tmdb_id": 33511
     },
     {
-      "id": 33518,
-      "title": "Alligator",
-      "type": "movie",
-      "year": 1980,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bWANAIIeNPzwEmrYUvZFECTbBX6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5zd5IfpPcN11HkIJ1BxPYcKsQHr.jpg",
-      "plot_overview": "A baby alligator is flushed down a toilet and survives by eating discarded lab animals that have been injected with growth hormones. The now gigantic animal escapes the city sewers and goes on a rampage, pursued by a cop and a big-game hunter.",
-      "genres": [],
-      "user_rating": 6.1,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1980-11-14",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 33518
-    },
-    {
       "id": 33602,
       "title": "Temple Grandin",
       "type": "movie",
@@ -199,7 +158,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.825,
+      "user_rating": 7.853,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-02-06",
@@ -227,7 +186,7 @@
         "Sci-Fi & Fantasy",
         "Family"
       ],
-      "user_rating": 8.199,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-10-20",
@@ -252,7 +211,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.579,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1977-12-22",
@@ -272,7 +231,7 @@
       "type": "tv_series",
       "year": 2010,
       "poster_url": "https://image.tmdb.org/t/p/w342/fwW7WgJIjhBsnzk87Gyh6g9187m.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/omL3sd4bctdEmA8aqj1zlBqRZHS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4zhISjHkEoeNkVGJRHIy9jND2ta.jpg",
       "plot_overview": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuable lessons about friendship.",
       "genres": [
         "Animation",
@@ -280,21 +239,21 @@
         "Sci-Fi & Fantasy",
         "Kids"
       ],
-      "user_rating": 8.158,
+      "user_rating": 8.153,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-10-10",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
           "region": "US"
         },
         {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -306,7 +265,7 @@
       "type": "tv_series",
       "year": 2010,
       "poster_url": "https://image.tmdb.org/t/p/w342/t87KvAQEvt5FvEV2FA4rXvnrC2m.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pBjYwUATX2E8SRKA1oMvMi1h6eq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/FWmpOG7TpBs3fXMav92Vl4fAbN.jpg",
       "plot_overview": "A users' guide to the cosmos, from the Big Bang to galaxies, stars, planets and moons: where did it all come from and how does it all fit together? A primer for anyone who has ever looked up at the night sky and wondered.",
       "genres": [
         "Documentary"
@@ -330,14 +289,14 @@
       "title": "Sonny with a Chance",
       "type": "tv_series",
       "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qcHLCFCBCoTfZYzLGALF3wIV97r.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5MLBTjqMQe48ifN0PmP58FUAVWS.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/edkpfJLutoFxmf0qwGE4rqWCVRZ.jpg",
       "plot_overview": "Allison \"Sonny\" Munroe makes the leap from the Midwest to Los Angeles to join the cast of \"So Random!,\" the most popular sketch comedy TV show for kids and tweens. Her fellow young actors are resident teen queen Tawni, super suave Nico, gregarious funnyman Grady and quirky Zora. Now Sonny must somehow balance these new friendships while adjusting to her family's decidedly different way of life in Hollywood. Meanwhile, Sonny must also contend with heartthrob Chad Dylan Cooper, star of the rival s",
       "genres": [
         "Comedy",
         "Family"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.743,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-02-08",
@@ -357,12 +316,12 @@
       "type": "tv_series",
       "year": 2010,
       "poster_url": "https://image.tmdb.org/t/p/w342/7HgDYRYjym4BwbhKaqTQq771SKb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vXbSoGHWtzViIgHxcD3tqLTr0lc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1wgqpYNtQDn7TDkyQ2jsIAqxorW.jpg",
       "plot_overview": "A chronicle of the lives of the aristocratic Crawley family and their servants in the post-Edwardian era\u2014with great events in history having an effect on their lives and on the British social hierarchy.\n\n",
       "genres": [
         "Drama"
       ],
-      "user_rating": 8.119,
+      "user_rating": 8.13,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-09-26",
@@ -381,6 +340,31 @@
         }
       ],
       "tmdb_id": 33907
+    },
+    {
+      "id": 33933,
+      "title": "This Is England '86",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hUwvcDAZG0nbVQokqZh1oQt8Cpm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m3CWkZx9jezGQl9T45O5EY3ZZBV.jpg",
+      "plot_overview": "It's 1986 - the year Maradona ends England's World Cup dreams in Mexico; the year Top Gun is the highest grossing film; the year over 3.4 million Brits are unemployed and the year Shaun is leaving school.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-09-07",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 33933
     }
   ]
 }

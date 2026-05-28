@@ -1,6 +1,6 @@
 {
   "range": "65001-66000",
-  "updated_at": 1766207314813,
+  "updated_at": 1780003048306,
   "shows": [
     {
       "id": 65150,
@@ -13,7 +13,7 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.186,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-07-17",
@@ -39,7 +39,7 @@
         "Drama",
         "Comedy"
       ],
-      "user_rating": 7.428,
+      "user_rating": 7.432,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-04-15",
@@ -49,16 +49,48 @@
           "service_name": "Disney+",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 65218
+    },
+    {
+      "id": 65251,
+      "title": "Crashing",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kXgTnJXZ5KtJhEEuwiTRTRUejCt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/65TF1b385Q2YxLVwgriZhCgdFAz.jpg",
+      "plot_overview": "A comedy drama that crashes straight into the lives and loves of six twenty-something adults living together as Property Guardians in a disused hospital.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-01-11",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 65251
     },
     {
       "id": 65291,
       "title": "Stuck in the Middle",
       "type": "tv_series",
       "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oq377A9h9JPzp0Hhgv1FZcIYgP9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/phquU470KPL2XvWX0D6he5xwK3P.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4yFC6KpX7bq45qNulUgP57wWP3r.jpg",
       "plot_overview": "Harley is an engineering whiz who uses her inventions to navigate life as the middle child in a large family of seven kids.",
       "genres": [
@@ -80,17 +112,97 @@
       "tmdb_id": 65291
     },
     {
+      "id": 65294,
+      "title": "A Series of Unfortunate Events",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/scQYe3wMt98baZAPhuBcewEqns7.jpg",
+      "plot_overview": "The orphaned Baudelaire children face trials, tribulations and the evil Count Olaf, all in their quest to uncover the secret of their parents' death.",
+      "genres": [
+        "Action & Adventure",
+        "Family",
+        "Comedy",
+        "Mystery"
+      ],
+      "user_rating": 7.399,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-01-13",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 65294
+    },
+    {
+      "id": 65345,
+      "title": "The Get Down",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zeEeNDklukfG1Y6jKgfCm0cgI97.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/asAAXtDl91YK8lqkuHYqgITSzVP.jpg",
+      "plot_overview": "In 1977 New York City, the talented and soulful youth of the South Bronx chase dreams and breakneck beats to transform music history.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-08-12",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 65345
+    },
+    {
+      "id": 65493,
+      "title": "The Ranch",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rIycDdkLET20EVW2LPytLNuyOp3.jpg",
+      "plot_overview": "Being a pro athlete didn't pan out for Colt. Now he's helping his dad and brother keep the ranch afloat, and figuring out how he fits into the family.",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Western"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-04-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 65493
+    },
+    {
       "id": 65494,
       "title": "The Crown",
       "type": "tv_series",
       "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1M876KPjulVwppEpldhdc8V4o68.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
       "plot_overview": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world \u2013 Buckingham Palace and 10 Downing Street \u2013 and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 8.193,
+      "user_rating": 8.186,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-11-04",
@@ -105,6 +217,32 @@
       "tmdb_id": 65494
     },
     {
+      "id": 65495,
+      "title": "Atlanta",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8HZyGMnPLVVb00rmrh6A2SbK9NX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vN84JlTvOZvZzxi0D2SJQNFvtjS.jpg",
+      "plot_overview": "Two cousins work through the Atlanta music scene in order to better their lives and the lives of their families.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 8.015,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-09-06",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 65495
+    },
+    {
       "id": 65708,
       "title": "Taboo",
       "type": "tv_series",
@@ -116,54 +254,10 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.9,
+      "user_rating": 7.883,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-01-07",
-      "streaming_services": [
-        {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 65708
-    },
-    {
-      "id": 65754,
-      "title": "The Girl with the Dragon Tattoo",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg",
-      "plot_overview": "Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
-      "genres": [
-        "Crime",
-        "Mystery"
-      ],
-      "user_rating": 7.377,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2011-12-14",
       "streaming_services": [
         {
           "service_id": 386,
@@ -172,7 +266,32 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 65754
+      "tmdb_id": 65708
+    },
+    {
+      "id": 65798,
+      "title": "Letterkenny",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zrB0Viy72GYKiLrtSs7SQVz5QWl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wdHK7RZNIGfskbGCIusSKN3vto6.jpg",
+      "plot_overview": "Letterkenny follows Wayne, a good-ol\u2019 country boy in Letterkenny, Ontario trying to protect his homegrown way of life on the farm, against a world that is constantly evolving around him. The residents of Letterkenny belong to one of three groups: Hicks, Skids, and Hockey Players. The three groups are constantly feuding with each other over seemingly trivial matters; often ending with someone getting their ass kicked.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.894,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-02-07",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 65798
     },
     {
       "id": 65817,
@@ -186,7 +305,7 @@
         "Drama",
         "Crime"
       ],
-      "user_rating": 7.569,
+      "user_rating": 7.566,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-09-10",
@@ -213,21 +332,15 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "user_rating": 7.04,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-09-23",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],

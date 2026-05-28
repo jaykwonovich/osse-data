@@ -1,6 +1,6 @@
 {
   "range": "318001-319000",
-  "updated_at": 1766207314861,
+  "updated_at": 1780003048350,
   "shows": [
     {
       "id": 318044,
@@ -13,7 +13,7 @@
       "genres": [
         "Documentary"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.386,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-01-22",
@@ -39,7 +39,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.289,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-06-16",
@@ -54,17 +54,55 @@
       "tmdb_id": 318121
     },
     {
+      "id": 318203,
+      "title": "Alice and Steve",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gPou8wNiTz1uleLKllclrqanXXf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1mN5cydNUFqd7MHfOwhcHZzLnvT.jpg",
+      "plot_overview": "Alice is devastated when her best friend Steve starts dating her 26-year-old daughter Izzy. She's going to lose her best friend and her daughter in one fell swoop. Alice tries everything she can to end the relationship. Unfortunately for her, Steve's more than ready for the attack, and what begins as a perfect friendship, devolves into an all-out feud.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-06-08",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Clerkenwell Films",
+        "The Walt Disney Company EMEA"
+      ],
+      "networks": [
+        "Disney+"
+      ],
+      "tmdb_id": 318203,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-06-08",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
       "id": 318224,
       "title": "Going Clear: Scientology and the Prison of Belief",
       "type": "movie",
       "year": 2015,
       "poster_url": "https://image.tmdb.org/t/p/w342/zWHQYR9srde9nZjU6Dot8qTjoni.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/29VoISagzOfJcuuhFzKQg9ZmEUU.jpg",
-      "plot_overview": "GOING CLEAR intimately profiles eight former members of the Church of Scientology, shining a light on how they attract true believers and the things they do in the name of religion.",
+      "plot_overview": "The film profiles eight former members of the Church of Scientology, shining a light on how they attract true believers and the things they do in the name of religion.",
       "genres": [
         "Documentary"
       ],
-      "user_rating": 7.581,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-01-25",
@@ -79,46 +117,27 @@
       "tmdb_id": 318224
     },
     {
-      "id": 318256,
-      "title": "Hot Girls Wanted",
+      "id": 318279,
+      "title": "Meru",
       "type": "movie",
       "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/75ot83QOkc02vujyzmIbumQCU6Y.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bV7eAcBrYb57PwjpQ2ODT6VyFPd.jpg",
-      "plot_overview": "A first-ever look at the realities of the professional \u201camateur\u201d porn world and the steady stream of 18-to-19-year old girls entering into it.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/hcGQ5KHcs7vwK1dXsPoKYQQTt3q.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kmnMzwcVemZjD9HUJwVzpOFhnAZ.jpg",
+      "plot_overview": "Meru is the electrifying story of three elite American climbers\u2014Conrad Anker, Jimmy Chin, and Renan Ozturk\u2014bent on achieving the impossible.",
       "genres": [
         "Documentary"
       ],
-      "user_rating": 6.077,
+      "user_rating": 7.416,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2015-01-24",
+      "release_date": "2015-01-25",
       "streaming_services": [
         {
           "service_id": 8,
           "service_name": "Netflix",
           "type": "sub",
           "region": "US"
-        }
-      ],
-      "tmdb_id": 318256
-    },
-    {
-      "id": 318279,
-      "title": "Meru",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oQsMMSTJnWneD9YwYbUbsJzbQ7f.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pjMm3ChyDqsfq2STH4MlMVjZmJz.jpg",
-      "plot_overview": "Meru is the electrifying story of three elite American climbers\u2014Conrad Anker, Jimmy Chin, and Renan Ozturk\u2014bent on achieving the impossible.",
-      "genres": [
-        "Documentary"
-      ],
-      "user_rating": 7.412,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2015-01-25",
-      "streaming_services": [
+        },
         {
           "service_id": 9,
           "service_name": "Prime Video",
@@ -127,6 +146,66 @@
         }
       ],
       "tmdb_id": 318279
+    },
+    {
+      "id": 318449,
+      "title": "U.S. Against the World: Four Years with the Men's National Soccer Team",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jd2gGLAbNQdal9lKxY3pAItkBYU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/A1ROUQ607IvADhvO8y9yw1rvzdc.jpg",
+      "plot_overview": "A look inside the United States Men\u2019s National Soccer Team in the leadup to the 2026 FIFA World Cup in North America in June. Filmed over the course of four years, the series follows Christian Pulisic, Tyler Adams, Tim Weah, Weston McKennie, and an array of U.S. players on their personal and collective journeys toward their sport\u2019s biggest stage.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-05-12",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 318449,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-06-02",
+      "next_episode": 4,
+      "relevance_score": 75
+    },
+    {
+      "id": 318955,
+      "title": "In the City",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1ePzDU02Xyl7rOchP7arSYMF7fO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pX4jSv0EsKNLI0asnKIuXyseW3o.jpg",
+      "plot_overview": "Teaming up with a fresh crew of co-stars, Summer House's Amanda Batula, Kyle Cooke, and Lindsay Hubbard are set to bring the drama back to New York City as they navigate the biggest transitions of their lives at the time: marriage, separation, parenthood, reinvention, and the reality of growing up without growing apart.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-05-19",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 318955,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-06-02",
+      "next_episode": 3,
+      "relevance_score": 75
     }
   ]
 }

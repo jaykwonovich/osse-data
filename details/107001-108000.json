@@ -1,6 +1,6 @@
 {
   "range": "107001-108000",
-  "updated_at": 1766207314826,
+  "updated_at": 1780003048322,
   "shows": [
     {
       "id": 107113,
@@ -15,11 +15,17 @@
         "Mystery",
         "Crime"
       ],
-      "user_rating": 8.498,
+      "user_rating": 8.449,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-08-31",
       "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 15,
           "service_name": "Hulu",
@@ -28,6 +34,32 @@
         }
       ],
       "tmdb_id": 107113
+    },
+    {
+      "id": 107124,
+      "title": "Animaniacs",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wmPZzLov9OhiknK4jW4qE6mgvHf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kgEFD11dQdi8tCUgdNX1Ul02LlW.jpg",
+      "plot_overview": "Yakko, Wakko and Dot return for all-new big laughs and the occasional epic takedown of authority figures in serious need of an ego check. Joining the Warners are Starbox & Cindy on their latest play date while Pinky and the Brain's ideas for world domination lead them to all new adventures.",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "user_rating": 8.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-11-20",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 107124
     },
     {
       "id": 107365,
@@ -40,7 +72,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.775,
+      "user_rating": 7.681,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-02-13",
@@ -53,29 +85,6 @@
         }
       ],
       "tmdb_id": 107365
-    },
-    {
-      "id": 107846,
-      "title": "Escape Plan",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qOZPLflxDqKogu9v9hYw3lolxGs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ix9WYBqQ2xSZCgyeQ1vVdrbaFa4.jpg",
-      "plot_overview": "Ray Breslin is the world's foremost authority on structural security. After analyzing every high security prison and learning a vast array of survival skills so he can design escape-proof prisons, his skills are put to the test. He's framed and incarcerated in a master prison he designed himself. He needs to escape and find the person who put him behind bars.",
-      "genres": [],
-      "user_rating": 6.724,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2013-10-09",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 107846
     }
   ]
 }

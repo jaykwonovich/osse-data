@@ -1,6 +1,6 @@
 {
   "range": "56001-57000",
-  "updated_at": 1766207314810,
+  "updated_at": 1780003048302,
   "shows": [
     {
       "id": 56296,
@@ -14,7 +14,7 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.804,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-03-30",
@@ -29,35 +29,88 @@
       "tmdb_id": 56296
     },
     {
+      "id": 56304,
+      "title": "The Men Who Built America",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kmxok1OGUFLd2psEMzZ7mU0MjQi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dvsvjE9vKZCJ2zFP5iwCzAEtNeg.jpg",
+      "plot_overview": "Influential builders, dreamers and believers whose feats transformed the United States, a nation decaying from the inside after the Civil War, into the greatest economic and technological superpower the world had ever seen. The Men Who Built America is the story of a nation at the crossroads and of the people who catapulted it to prosperity.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 8.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-10-16",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 56304
+    },
+    {
+      "id": 56402,
+      "title": "Monsuno",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pjzubEF1aG0lUDEacek8NUh2IFw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aL87L2x5FhBz2RQQgDVNhmB61O9.jpg",
+      "plot_overview": "Monsuno hurtled through space before man existed. Upon burning through the planet's atmosphere and crashing to Earth, they brought chaos and the extinction of the dinosaurs. Over millions of years, the Monsuno essence slowly disappeared as it dropped deeper and deeper below the planet\u2019s surface, until a scientist named Jeredy Suno at the secret government agency found a way to bring them back and control. He took his research and vanished, but not before he left his only son a special gift.",
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 8.046,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-02-23",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 56402
+    },
+    {
       "id": 56570,
       "title": "Outlander",
       "type": "tv_series",
       "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hXWGDEwPiEWqFesF5gZGImtPIWh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
       "plot_overview": "The story of Claire Randall, a married combat nurse from 1945 who is mysteriously swept back in time to 1743, where she is immediately thrown into an unknown world where her life is threatened. When she is forced to marry Jamie, a chivalrous and romantic young Scottish warrior, a passionate affair is ignited that tears Claire's heart between two vastly different men in two irreconcilable lives.",
       "genres": [
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.18,
+      "user_rating": 8.189,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-08-09",
       "streaming_services": [
         {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 56570,
-      "is_returning": true,
-      "next_season": 8,
-      "next_air_date": "2026-03-06",
-      "next_episode": 1,
-      "relevance_score": 75
+      "tmdb_id": 56570
     },
     {
       "id": 56590,
@@ -70,11 +123,17 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.879,
+      "user_rating": 7.868,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-05-20",
       "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 318,
           "service_name": "Starz",
@@ -95,7 +154,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.212,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-02-12",

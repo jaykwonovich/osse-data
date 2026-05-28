@@ -1,6 +1,6 @@
 {
   "range": "408001-409000",
-  "updated_at": 1766207314871,
+  "updated_at": 1780003048359,
   "shows": [
     {
       "id": 408508,
@@ -13,7 +13,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.008,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-10-07",
@@ -21,6 +21,12 @@
         {
           "service_id": 8,
           "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }

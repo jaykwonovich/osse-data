@@ -1,38 +1,54 @@
 {
   "range": "101001-102000",
-  "updated_at": 1766207314825,
+  "updated_at": 1780003048320,
   "shows": [
     {
-      "id": 101731,
-      "title": "The Magic of Belle Isle",
+      "id": 101267,
+      "title": "Katy Perry: Part of Me",
       "type": "movie",
       "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/imoZLjmCnfG4f69Dq0f2Zsr9XOR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fM4TVNg27IBCYAz8FUiLefWck1p.jpg",
-      "plot_overview": "In an effort to tap into his original talent, a wheelchair-bound author moves to a rural town, where he befriends a single mother and her three kids, who help reignite his passion for writing.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/yPW5Lmptt7z8rCYtVYjkpyjI3SY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cZRcHeM3pwIPOomIkGlEUpIpWF.jpg",
+      "plot_overview": "Giving fans unprecedented access to the real life of the music sensation, Katy Perry: Part of Me exposes the hard work, dedication and phenomenal talent of a girl who remained true to herself and her vision in order to achieve her dreams. Featuring rare behind-the-scenes interviews, personal moments between Katy and her friends, and all-access footage of rehearsals, choreography, Katy\u2019s signature style and more, Katy Perry: Part of Me reveals the singer\u2019s unwavering belief that if you can be you",
       "genres": [
-        "Drama",
-        "Comedy"
+        "Documentary"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.157,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2012-07-06",
+      "release_date": "2012-06-28",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 101731
+      "tmdb_id": 101267
+    },
+    {
+      "id": 101299,
+      "title": "The Hunger Games: Catching Fire",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
+      "plot_overview": "After surviving the Hunger Games, Katniss and Peeta struggle with the consequences of their victory as unrest spreads across Panem. Forced back into the spotlight, they become symbols of hope and resistance while the Capitol prepares a new and deadly challenge that will change the future of the nation forever.",
+      "genres": [],
+      "user_rating": 7.427,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-11-15",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 101299
     }
   ]
 }

@@ -1,32 +1,7 @@
 {
   "range": "374001-375000",
-  "updated_at": 1766207314868,
+  "updated_at": 1780003048356,
   "shows": [
-    {
-      "id": 374052,
-      "title": "The Love Witch",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/q6mZjCwGn9KCTrStTRM88pui0is.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zPzJ3DAUjpJoiBm4jODt50QEEr3.jpg",
-      "plot_overview": "A modern-day witch uses spells and magic to get men to fall in love with her, with deadly consequences.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 6.455,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2016-11-11",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 374052
-    },
     {
       "id": 374461,
       "title": "Mr. Church",
@@ -38,19 +13,44 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.403,
+      "user_rating": 7.406,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-09-16",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 374461
+    },
+    {
+      "id": 374720,
+      "title": "Dunkirk",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+      "plot_overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.452,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-07-19",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 374720
     }
   ]
 }

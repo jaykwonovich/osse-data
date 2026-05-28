@@ -1,6 +1,6 @@
 {
   "range": "115001-116000",
-  "updated_at": 1766207314828,
+  "updated_at": 1780003048324,
   "shows": [
     {
       "id": 115004,
@@ -12,10 +12,10 @@
       "plot_overview": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.",
       "genres": [
         "Drama",
-        "Mystery",
-        "Crime"
+        "Crime",
+        "Mystery"
       ],
-      "user_rating": 8.189,
+      "user_rating": 8.184,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-04-18",
@@ -41,7 +41,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.515,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-12-29",
@@ -54,6 +54,34 @@
         }
       ],
       "tmdb_id": 115036
+    },
+    {
+      "id": 115577,
+      "title": "Sonic Prime",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xvg1zTAQHFhf8hJIsd53RSQHMYz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pYiIcenKt7L2cMrhn67xAxCGgzR.jpg",
+      "plot_overview": "When an explosive battle with Dr. Eggman shatters the universe, Sonic races through parallel dimensions to reconnect with his friends and save the world.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "user_rating": 8.241,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-12-15",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 115577
     }
   ]
 }

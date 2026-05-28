@@ -1,6 +1,6 @@
 {
   "range": "86001-87000",
-  "updated_at": 1766207314819,
+  "updated_at": 1780003048313,
   "shows": [
     {
       "id": 86163,
@@ -13,7 +13,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.77,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-04-22",
@@ -40,36 +40,10 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "user_rating": 7.807,
+      "user_rating": 7.79,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-04-30",
-      "streaming_services": [
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 86248
-    },
-    {
-      "id": 86374,
-      "title": "War of the Worlds",
-      "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yThmbQkxSzW4HHdAaoj8RYHFH3i.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kri75jPdoOdaiZJ5p7AU4qEHTuL.jpg",
-      "plot_overview": "When astronomers detect a transmission from another galaxy, it is definitive proof of intelligent extra-terrestrial life. The world\u2019s population waits for further contact with bated breath. They do not have to wait long. Within days, mankind is all but wiped out by a devastating attack; pockets of humanity are left in an eerily deserted world. As aliens hunt and kill those left alive, the survivors ask a burning question \u2013 who are these attackers and why are they hell-bent on our destruction?",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "user_rating": 7.262,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2019-10-28",
       "streaming_services": [
         {
           "service_id": 9,
@@ -78,21 +52,177 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 86374
+      "tmdb_id": 86248
+    },
+    {
+      "id": 86340,
+      "title": "Undone",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/s1TZYhSTk6Bv7qqGc0233P3KQrA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ua4rzxx9DB6xUVZ0cBX6SYZDUXs.jpg",
+      "plot_overview": "After getting into a near fatal car accident, Alma discovers she has a new relationship with time and uses this ability to find out the truth about her father\u2019s death.",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "user_rating": 7.68,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-09-12",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 86340
+    },
+    {
+      "id": 86423,
+      "title": "Locke & Key",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zuxGfRKziGHPogipnEXXykdDmyT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nYxqUQaYGUv3pgMfe9BQ2WtUMQu.jpg",
+      "plot_overview": "After their dad's murder, three siblings move with their mom to his ancestral estate, where they discover magical keys that unlock powers \u2014 and secrets.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "user_rating": 7.751,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-02-07",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 86423
+    },
+    {
+      "id": 86428,
+      "title": "The Spanish Princess",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eRa9wsrvRiutt1xocfX2Wzf47sN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eqOAW52GkgbMDGIzpqlz8zwTIiO.jpg",
+      "plot_overview": "The beautiful Spanish princess, Catherine of Aragon, navigates the royal lineage of England with an eye on the throne.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-05-05",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 86428
+    },
+    {
+      "id": 86430,
+      "title": "Your Honor",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1rWWgTEDFdV330aLgCoaq7I56lk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/t73x5Pb81mIGZR417aeGwbkR520.jpg",
+      "plot_overview": "New Orleans judge Michael Desiato is forced to confront his own deepest convictions when his son is involved in a hit and run that embroils an organized crime family.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 8.063,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-12-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 86430
+    },
+    {
+      "id": 86686,
+      "title": "Creepshow",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fassm77VqtSDHv9x17eJ3DkGVml.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/snfoAKeCQc2MLsLtrybiWuPUjOM.jpg",
+      "plot_overview": "A young boy's horror comic book comes to life in this anthology series of terrifying tales.",
+      "genres": [
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.422,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-09-26",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 86686
+    },
+    {
+      "id": 86705,
+      "title": "John Mulaney: New in Town",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ufE8KAkLQT9u91AgDSc5Oxa3DjW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uSbGT0I3W7v5rByIk6gx6oodfLT.jpg",
+      "plot_overview": "Stand-up comedian John Mulaney tackles such red-hot topics as quicksand, Motown singers and an elderly man he once met in a bathroom.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.958,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-01-31",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 86705
     },
     {
       "id": 86831,
       "title": "Love, Death & Robots",
       "type": "tv_series",
       "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/asDqvkE66EegtKJJXIRhBJPxscr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vL5BQvXH96cJzmNK5n7QliQxy90.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nBrkOZyI75artyizuBFeya48KbO.jpg",
       "plot_overview": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher.",
       "genres": [
         "Animation",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.223,
+      "user_rating": 8.209,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-03-15",
@@ -105,33 +235,6 @@
         }
       ],
       "tmdb_id": 86831
-    },
-    {
-      "id": 86848,
-      "title": "Evil",
-      "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/auRAAVxlyT6YACql96UdtnpFHy3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ttB60pxSxMyyW9mIDlq89RLf0vQ.jpg",
-      "plot_overview": "Skeptical forensic psychologist Kristen Bouchard joins priest-in-training David Acosta and technology expert Ben Shakir as they investigate supposed miracles, demonic possessions, and other extraordinary occurrences to assess for a scientific explanation or if something truly supernatural is at work.",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "user_rating": 7.753,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2019-09-26",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 86848
     }
   ]
 }

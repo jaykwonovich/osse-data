@@ -1,6 +1,6 @@
 {
   "range": "77001-78000",
-  "updated_at": 1766207314817,
+  "updated_at": 1780003048310,
   "shows": [
     {
       "id": 77016,
@@ -8,20 +8,20 @@
       "type": "movie",
       "year": 2012,
       "poster_url": "https://image.tmdb.org/t/p/w342/pDeVKQICkcdwwjHxGj0MeS14YJ6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/l53K8Fp1WcOMRL33CMsnnMUPiWg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fYet7pf0ZlmKrOfmHqRNGRhtZNp.jpg",
       "plot_overview": "Two young officers are marked for death after confiscating a small cache of money and firearms from the members of a notorious cartel during a routine traffic stop.",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "user_rating": 7.349,
+      "user_rating": 7.351,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-09-20",
       "streaming_services": [
         {
-          "service_id": 1899,
-          "service_name": "Max",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -41,7 +41,7 @@
         "Drama",
         "Comedy"
       ],
-      "user_rating": 8.207,
+      "user_rating": 8.204,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-05-02",
@@ -67,19 +67,45 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "user_rating": 7.83,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-09-14",
       "streaming_services": [
         {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 77236
+    },
+    {
+      "id": 77601,
+      "title": "Wild Wild Country",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kprB5Jj2LYQAYlqVQMEucT2vGt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sDuM3zw8OBqfciFVwR2r2loGDte.jpg",
+      "plot_overview": "When a controversial cult leader builds a utopian city in the Oregon desert, conflict with the locals escalates into a national scandal.",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "user_rating": 7.707,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-03-16",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 77601
     },
     {
       "id": 77606,
@@ -93,9 +119,10 @@
         "Animation",
         "Action & Adventure",
         "Comedy",
-        "Kids"
+        "Kids",
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.073,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-04-06",
@@ -110,30 +137,31 @@
       "tmdb_id": 77606
     },
     {
-      "id": 77950,
-      "title": "Turbo",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/w6GdF5hcnsU5IwaRhyhnysNy5hO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dxmp5eHarPlNyeRyuzD6oMWqTjs.jpg",
-      "plot_overview": "The tale of an ordinary garden snail who dreams of winning the Indy 500.",
+      "id": 77947,
+      "title": "Harrow",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z0H4iQBe1YL9I8pZF5jRifcF369.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tMILubgFL53xueQEa8nrUoUw71o.jpg",
+      "plot_overview": "When a dark secret from this past threatens to be exposed, unorthodox and brilliant medical examiner, Doctor Daniel Harrow, must use all his forensic skills to keep it buried forever.",
       "genres": [
-        "Animation",
-        "Family"
+        "Crime",
+        "Drama",
+        "Mystery"
       ],
-      "user_rating": 6.266,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2013-07-11",
+      "release_date": "2018-03-09",
       "streaming_services": [
         {
-          "service_id": 8,
-          "service_name": "Netflix",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 77950
+      "tmdb_id": 77947
     }
   ]
 }

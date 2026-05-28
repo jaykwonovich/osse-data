@@ -1,7 +1,33 @@
 {
   "range": "552001-553000",
-  "updated_at": 1766207314888,
+  "updated_at": 1780003048369,
   "shows": [
+    {
+      "id": 552095,
+      "title": "PAW Patrol: Mighty Pups",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6qIEgqQWao5VcBE3jsXWOSTYZw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AseABzwquvPFMpVQUDeDifYjLkF.jpg",
+      "plot_overview": "When their latest scheme goes awry, Mayor Humdinger and his nephew Harold accidentally divert a meteor towards Adventure Bay. The meteor's golden energy grants the PAW Patrol superpowers. The heroic Mighty Pups are on a roll to super-save the day.",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "user_rating": 7.518,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-10-04",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 552095
+    },
     {
       "id": 552524,
       "title": "Lilo & Stitch",
@@ -14,7 +40,7 @@
         "Family",
         "Comedy"
       ],
-      "user_rating": 7.247,
+      "user_rating": 7.206,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-05-17",
@@ -27,29 +53,6 @@
         }
       ],
       "tmdb_id": 552524
-    },
-    {
-      "id": 552688,
-      "title": "The Mother",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vnRthEZz16Q9VWcP5homkHxyHoy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/n5NSF8wZeWQHHZtuWgbRAVpqXFR.jpg",
-      "plot_overview": "A deadly female assassin comes out of hiding to protect the daughter that she gave up years before, while on the run from dangerous men.",
-      "genres": [],
-      "user_rating": 6.6,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2023-05-04",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 552688
     }
   ]
 }

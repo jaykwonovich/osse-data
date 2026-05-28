@@ -1,21 +1,27 @@
 {
   "range": "1233001-1234000",
-  "updated_at": 1766207314935,
+  "updated_at": 1780003048399,
   "shows": [
     {
       "id": 1233413,
       "title": "Sinners",
       "type": "movie",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/oucvKATkCI77ngtPjxAI9SAZW42.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
       "plot_overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
       "genres": [],
-      "user_rating": 7.503,
+      "user_rating": 7.489,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-04-16",
       "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 1899,
           "service_name": "Max",
@@ -24,32 +30,6 @@
         }
       ],
       "tmdb_id": 1233413
-    },
-    {
-      "id": 1233575,
-      "title": "Black Bag",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gxO51FVgADhYGGnnRPIlutVqb30.jpg",
-      "plot_overview": "When intelligence agent Kathryn Woodhouse is suspected of betraying the nation, her husband \u2013 also a legendary agent \u2013 faces the ultimate test of whether to be loyal to his marriage, or his country.",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "user_rating": 6.333,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-03-12",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 1233575
     }
   ]
 }

@@ -1,7 +1,32 @@
 {
   "range": "256001-257000",
-  "updated_at": 1766207314849,
+  "updated_at": 1780003048341,
   "shows": [
+    {
+      "id": 256092,
+      "title": "American Gladiators",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pOHcFrq4wbMZXgwHij2UiZnG6Xp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/w1gIWCUKIDOK3rdMAaVjsdU50qJ.jpg",
+      "plot_overview": "A cast of amateur athletes are pitted against each other as well as the shows\u2019 own gladiators across a range of challenges including a tough obstacle course.",
+      "genres": [
+        "Reality"
+      ],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-04-17",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 256092
+    },
     {
       "id": 256317,
       "title": "Countdown",
@@ -14,45 +39,58 @@
         "Crime",
         "Mystery"
       ],
-      "user_rating": 7.296,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-06-25",
       "streaming_services": [
         {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 256317
     },
     {
-      "id": 256711,
-      "title": "The Rainmaker",
+      "id": 256694,
+      "title": "Adventure Time: Side Quests",
       "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/q8l0lj20amBFi0SBs8NI9yJpaHq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
-      "plot_overview": "Fresh out of law school, Rudy Baylor goes head to head with courtroom lion Leo Drummond as well as his law school girlfriend, Sarah. Rudy, along with his boss, Bruiser, and her disheveled paralegal, Deck, uncovers two connected conspiracies surrounding the mysterious death of their client's son.",
+      "year": 2026,
+      "poster_url": null,
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3SisN8ssJvX9evv0QGRMM4hwHwE.jpg",
+      "plot_overview": "Young hero Finn and his magical dog best friend Jake embark on adventures across the fantastical land of Ooo \u2014 partying with cloud people and punching evil in the butt along the way.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.5,
+      "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-08-15",
+      "release_date": "2026-06-29",
       "streaming_services": [
         {
-          "service_id": 386,
-          "service_name": "Peacock",
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 256711
+      "production_companies": [
+        "Cartoon Network Studios"
+      ],
+      "networks": [
+        "Hulu",
+        "Disney+"
+      ],
+      "tmdb_id": 256694,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-06-29",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 256747,
@@ -92,17 +130,11 @@
         "Comedy",
         "Animation"
       ],
-      "user_rating": 8.5,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-10-19",
       "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        },
         {
           "service_id": 318,
           "service_name": "Starz",
@@ -110,12 +142,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 256748,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2025-12-21",
-      "next_episode": 10,
-      "relevance_score": 75
+      "tmdb_id": 256748
     },
     {
       "id": 256835,
@@ -130,7 +157,7 @@
         "Family",
         "Comedy"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.017,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-12-02",
@@ -145,31 +172,6 @@
       "tmdb_id": 256835
     },
     {
-      "id": 256917,
-      "title": "The Water Diviner",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kIlVtC22BDNiiAiCvSZoOS7FhY9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ixJQ8u7lnCO1j7ldHAOzv3UF5Hz.jpg",
-      "plot_overview": "In 1919, Australian farmer Joshua Connor travels to Turkey to discover the fate of his three sons, reported missing in action. Holding on to hope, Joshua must travel across the war-torn landscape to find the truth and his own peace.",
-      "genres": [
-        "Drama"
-      ],
-      "user_rating": 6.79,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2014-12-25",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 256917
-    },
-    {
       "id": 256962,
       "title": "Little Boy",
       "type": "movie",
@@ -181,7 +183,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.213,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-04-23",

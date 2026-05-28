@@ -1,7 +1,46 @@
 {
   "range": "300001-301000",
-  "updated_at": 1766207314857,
+  "updated_at": 1780003048347,
   "shows": [
+    {
+      "id": 300480,
+      "title": "Ricky Gervais Alley Cats",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/auLT0EPtqtt5MwryoC2MoAG595F.jpg",
+      "plot_overview": "Follow the challenges of a group of feral British cats who seek companionship.",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-08-07",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Blink Industries",
+        "Derek Productions",
+        "Shush Creative"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "tmdb_id": 300480,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-08-07",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
     {
       "id": 300669,
       "title": "Don't Breathe",
@@ -13,70 +52,19 @@
       "genres": [
         "Crime"
       ],
-      "user_rating": 7.016,
+      "user_rating": 7.012,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-06-08",
       "streaming_services": [
         {
-          "service_id": 15,
-          "service_name": "Hulu",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 300669
-    },
-    {
-      "id": 300719,
-      "title": "The Death Investigator with Barbara Butcher",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mb66AHKemKoWPXnmbuC3cDoIo3K.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zmAYc1MHwVctT9PRHfnYPcCGo50.jpg",
-      "plot_overview": "The first true-crime series told through the eyes of Barbara Butcher, one of the most seasoned and respected Death Investigators to work in New York. After more than 20 years in the field, Butcher will unpack the stories behind some of the most compelling murders of our times - revealing that the keys to solving the case are often contained in the wealth of information held by the crime scene and the body that lies within it.",
-      "genres": [
-        "Crime",
-        "Documentary"
-      ],
-      "user_rating": 10.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-09-27",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 300719
-    },
-    {
-      "id": 300819,
-      "title": "Unlocked: Family Secrets",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1REWhTr2d0gToN0TBGS6vywzgVx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2S8oyyeiscxsZ2nYht4CBp5IuUZ.jpg",
-      "plot_overview": "Six families uncover long-buried secrets and generational mysteries in an intimate documentary series. Through emotional revelations and shared storytelling, they face their past and confront hidden family truths.",
-      "genres": [
-        "Documentary"
-      ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-09-27",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 300819
     }
   ]
 }

@@ -1,32 +1,7 @@
 {
   "range": "53001-54000",
-  "updated_at": 1766207314809,
+  "updated_at": 1780003048302,
   "shows": [
-    {
-      "id": 53487,
-      "title": "This Must Be the Place",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7WSD4SAMGVP6BHSOzDGL9Acunxd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hq4MeMZeWWOvsLyOp9kCG687Ds3.jpg",
-      "plot_overview": "A bored, retired rock star sets out to find his father's tormentor, an ex-Nazi war criminal who is a refugee in the U.S.",
-      "genres": [
-        "Drama"
-      ],
-      "user_rating": 6.986,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2011-08-24",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 53487
-    },
     {
       "id": 53565,
       "title": "Steamboat Willie",
@@ -39,7 +14,7 @@
         "Animation",
         "Comedy"
       ],
-      "user_rating": 7.296,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1928-05-15",
@@ -52,6 +27,32 @@
         }
       ],
       "tmdb_id": 53565
+    },
+    {
+      "id": 53606,
+      "title": "Love",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wvtW9YoMkovpMqyZCWUbQC6FJlg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jHaZMdEQVZUKsfE3yCZ1atSXEWw.jpg",
+      "plot_overview": "Rebellious Mickey and good-natured Gus navigate the thrills and agonies of modern relationships.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.13,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-02-19",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 53606
     }
   ]
 }

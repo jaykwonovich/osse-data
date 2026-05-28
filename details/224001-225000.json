@@ -1,20 +1,49 @@
 {
   "range": "224001-225000",
-  "updated_at": 1766207314843,
+  "updated_at": 1780003048336,
   "shows": [
+    {
+      "id": 224263,
+      "title": "Stranger Things: Tales from '85",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+      "plot_overview": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Action & Adventure"
+      ],
+      "user_rating": 7.788,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-04-23",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 224263
+    },
     {
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/olmiqSMfi4KwtxrLcFNjsjMlwzl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rDYaWzUNv78wY8SaWWPEJGQPssU.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
       "plot_overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
       "genres": [
         "Drama",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
-      "user_rating": 0.0,
+      "user_rating": 8.43,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-01-18",
@@ -26,16 +55,7 @@
           "region": "US"
         }
       ],
-      "production_companies": [],
-      "networks": [
-        "HBO"
-      ],
-      "tmdb_id": 224372,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-01-18",
-      "next_episode": 1,
-      "relevance_score": 200
+      "tmdb_id": 224372
     },
     {
       "id": 224522,
@@ -61,6 +81,32 @@
         }
       ],
       "tmdb_id": 224522
+    },
+    {
+      "id": 224941,
+      "title": "The Boroughs",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
+      "plot_overview": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don't have: time.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Mystery"
+      ],
+      "user_rating": 7.067,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-05-21",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 224941
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "66001-67000",
-  "updated_at": 1766207314813,
+  "updated_at": 1780003048306,
   "shows": [
     {
       "id": 66025,
@@ -8,13 +8,13 @@
       "type": "tv_series",
       "year": 2016,
       "poster_url": "https://image.tmdb.org/t/p/w342/rzvdKrnSRKPFI0pgqMQknDPpRC9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qTFvZUtNwPz8laW5nYgy9FvKLGP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eQJwfyMqSra10ck8HOoiCrbQR32.jpg",
       "plot_overview": "17-year-old Joshua \"J\" Cody moves in with his freewheeling relatives in their Southern California beach town after his mother dies of a heroin overdose. Headed by boot-tough matriarch Janine \"Smurf\" Cody and her right-hand Baz, who runs the business and calls the shots, the clan also consists of Pope, the oldest and most dangerous of the Cody boys; Craig, the tough and fearless middle son; and Deran, the troubled, suspicious \"baby\" of the family.",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "user_rating": 7.713,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-06-14",
@@ -35,22 +35,22 @@
       "tmdb_id": 66025
     },
     {
-      "id": 66125,
-      "title": "Red Dog",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cbLh0tVqjqcDnob7w79XkIQ7gGI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wNJAXms3tiKSZ5Q9H5LPa3PkgPA.jpg",
-      "plot_overview": "The legendary true story of the Red Dog who united a disparate local community while roaming the Australian outback in search of his long lost master.",
+      "id": 66190,
+      "title": "Marvel's Cloak & Dagger",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4amkATUf2mh5QL9OQ3WmHQqx9wk.jpg",
+      "plot_overview": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
       "genres": [
+        "Action & Adventure",
         "Drama",
-        "Comedy",
-        "Family"
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2011-08-04",
+      "release_date": "2018-06-07",
       "streaming_services": [
         {
           "service_id": 15,
@@ -59,7 +59,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 66125
+      "tmdb_id": 66190
     },
     {
       "id": 66276,
@@ -67,7 +67,7 @@
       "type": "tv_series",
       "year": 2016,
       "poster_url": "https://image.tmdb.org/t/p/w342/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/szxeyhCWt7C4hTdq60QYbrslGXn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pXxaORRHxvdfdpZ5kux619UsBL4.jpg",
       "plot_overview": "After a night of partying with a female stranger, a man wakes up to find her stabbed to death and is charged with her murder.",
       "genres": [
         "Crime",
@@ -99,7 +99,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.888,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-02-19",
@@ -125,19 +125,44 @@
         "Crime",
         "Drama"
       ],
-      "user_rating": 7.195,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-09-06",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 66310
+    },
+    {
+      "id": 66551,
+      "title": "The Mick",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jwYBohob30EeP1rJJMx9zcWSaGS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5xCxoMktHFsrcF283IMTL4OGtuR.jpg",
+      "plot_overview": "Mackenzie \"Mickey\" Murphy is a hard-living, foul-mouthed, cigarette-smoking woman who moves to affluent Greenwich, CT to raise the spoiled kids of her wealthy sister who fled the country to avoid a federal indictment. She quickly learns what the rest of us already know - other people's children are awful.",
+      "genres": [
+        "Comedy"
+      ],
+      "user_rating": 7.138,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-01-01",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 66551
     },
     {
       "id": 66573,
@@ -151,11 +176,17 @@
         "Sci-Fi & Fantasy",
         "Comedy"
       ],
-      "user_rating": 7.965,
+      "user_rating": 7.967,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-09-19",
       "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 9,
           "service_name": "Prime Video",
@@ -176,15 +207,15 @@
       "title": "Stranger Things",
       "type": "tv_series",
       "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
       "plot_overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
       "genres": [
-        "Sci-Fi & Fantasy",
+        "Action & Adventure",
         "Mystery",
-        "Action & Adventure"
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.598,
+      "user_rating": 8.566,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-07-15",
@@ -196,12 +227,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 66732,
-      "is_returning": true,
-      "next_season": 5,
-      "next_air_date": "2025-12-25",
-      "next_episode": 5,
-      "relevance_score": 75
+      "tmdb_id": 66732
     },
     {
       "id": 66786,
@@ -216,15 +242,15 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.249,
+      "user_rating": 7.243,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-10-03",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -237,12 +263,12 @@
       "year": 2017,
       "poster_url": "https://image.tmdb.org/t/p/w342/nel144y4dIOdFFid6twN5mAX9Yd.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/c4CSgKL6QfkJxsWcGYDyTxpbzpW.jpg",
-      "plot_overview": "After a teenage girl's perplexing suicide, a classmate receives a series of tapes that unravel the mystery of her tragic choice.",
+      "plot_overview": "High school student Clay Jensen lands in the center of a series of heartbreaking mysteries set in motion by a friend's tragic suicide.",
       "genres": [
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.564,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-03-31",
@@ -255,33 +281,6 @@
         }
       ],
       "tmdb_id": 66788
-    },
-    {
-      "id": 66840,
-      "title": "Bull",
-      "type": "tv_series",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/r6bM2rNjSk5b9gWBOOKCVgKbjc0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iDu6LmIVHWiCdcW6CZcOP5Kx7Gr.jpg",
-      "plot_overview": "Dr. Jason Bull is the brilliant, brash, and charming founder of a hugely successful trial consulting firm.",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Comedy"
-      ],
-      "user_rating": 7.1,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2016-09-20",
-      "streaming_services": [
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 66840
     },
     {
       "id": 66857,
@@ -302,13 +301,39 @@
       "release_date": "2016-11-15",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],
       "tmdb_id": 66857
+    },
+    {
+      "id": 66859,
+      "title": "Better Things",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oydV7sWkFSBvHK57DfbPZzz4aDJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wjx1GfVyaATVbKozljXjQZZulNy.jpg",
+      "plot_overview": "Sam Fox is a single, working actor with no filter trying to raise her three daughters \u2013 Max, Frankie and Duke \u2013 in Los Angeles. She is mom, dad, referee and the cops.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.235,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-09-08",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 66859
     }
   ]
 }

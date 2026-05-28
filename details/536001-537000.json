@@ -1,33 +1,7 @@
 {
   "range": "536001-537000",
-  "updated_at": 1766207314886,
+  "updated_at": 1780003048367,
   "shows": [
-    {
-      "id": 536437,
-      "title": "Hypnotic",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/m0mYmlN9AewOGSOl7Q1ZgZvEeUU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vQ5T84t8h4N2xAswNFW9fkVIyZq.jpg",
-      "plot_overview": "A detective becomes entangled in a mystery involving his missing daughter and a secret government program while investigating a string of reality-bending crimes.",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "user_rating": 6.207,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2023-05-11",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 536437
-    },
     {
       "id": 536554,
       "title": "M3GAN",
@@ -37,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qd4EKTuudkws9lW76Dn9C0tnuVA.jpg",
       "plot_overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
       "genres": [],
-      "user_rating": 7.048,
+      "user_rating": 7.023,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-12-28",
@@ -50,6 +24,31 @@
         }
       ],
       "tmdb_id": 536554
+    },
+    {
+      "id": 536841,
+      "title": "Diego Maradona",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3eBZxi0xcXBnEYq4m4YTVf0eHWX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/baDD8h5aZfKygdkCuclqjYQlLup.jpg",
+      "plot_overview": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the personal life and career of the controversial football player Diego Maradona who played for SSC Napoli and Argentina in the 1980s.",
+      "genres": [
+        "Documentary"
+      ],
+      "user_rating": 7.408,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-06-14",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 536841
     }
   ]
 }

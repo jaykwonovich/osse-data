@@ -1,6 +1,6 @@
 {
   "range": "1076001-1077000",
-  "updated_at": 1766207314929,
+  "updated_at": 1780003048395,
   "shows": [
     {
       "id": 1076364,
@@ -15,7 +15,7 @@
         "Family",
         "Comedy"
       ],
-      "user_rating": 7.462,
+      "user_rating": 7.439,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-06-15",
@@ -40,11 +40,17 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.201,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-06-30",
       "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",

@@ -1,6 +1,6 @@
 {
   "range": "157001-158000",
-  "updated_at": 1766207314837,
+  "updated_at": 1780003048330,
   "shows": [
     {
       "id": 157004,
@@ -13,9 +13,9 @@
       "genres": [
         "Sci-Fi & Fantasy",
         "Action & Adventure",
-        "Comedy"
+        "Mystery"
       ],
-      "user_rating": 7.019,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-10-13",
@@ -30,36 +30,112 @@
       "tmdb_id": 157004
     },
     {
+      "id": 157061,
+      "title": "The Devil's Hour",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mFU6ZPAs6g8Y9Eld28GULJYt3rC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/31XWoLd3AHW6MLy9i2DSbFZOPuH.jpg",
+      "plot_overview": "Lucy wakes every night at exactly 3:33am. Nothing in her life has made sense for a long time. But the answers are out there, somewhere, at the end of a trail of brutal murders.",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-10-28",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 157061
+    },
+    {
+      "id": 157065,
+      "title": "The Fall of the House of Usher",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4qDlkEAKFb4pgIUbeJMLyHX2Xym.jpg",
+      "plot_overview": "Ruthless siblings Roderick and Madeline Usher have built Fortunato Pharmaceuticals into an empire of wealth, privilege and power. But past secrets come to light when the heirs to the Usher dynasty start dying at the hands of a mysterious woman from their youth.",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-10-12",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 157065
+    },
+    {
+      "id": 157160,
+      "title": "A Small Light",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ksDDvTxUp07yu8FdOAXwJeyTilu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rjsOYAPkz0SL6sjiASlaYkBdGiO.jpg",
+      "plot_overview": "Miep Gies didn't hesitate when her boss Otto Frank came to her and asked her to hide his family from the Nazis during World War II. For the next two years, Miep, her husband Jan, and the other helpers watched over the eight souls in hiding in the Secret Annex. And it was Miep who found Anne's Diary and kept it safe so Otto, the only one of the eight who survived, could later share it with the world as one of the most powerful accounts of the Holocaust.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "user_rating": 7.932,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-05-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 157160
+    },
+    {
       "id": 157194,
       "title": "Pole to Pole with Will Smith",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": null,
-      "backdrop_url": null,
-      "plot_overview": "A series that will see the King Richard star cover 26,000 miles from the South Pole to the North Pole. It comes from Smith\u2019s Westbrook Studios, Jane Root\u2019s Nutopia and Aronofsky\u2019s Protoza.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/74zSvHdqFoCfQdXc8ZFqhkrbrPj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dF5w4FpM62F4wygVUJMiDhAGwX8.jpg",
+      "plot_overview": "Inspired by his late mentor, Will Smith spends 100 days facing extreme challenges, venturing from pole to pole with scientists, explorers and experts.",
       "genres": [
         "Documentary"
       ],
-      "user_rating": 0.0,
+      "user_rating": 6.733,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-01-13",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
-      ],
-      "production_companies": [
-        "Westbrook",
-        "Nutopia",
-        "Protozoa Pictures",
-        "National Geographic"
-      ],
-      "networks": [
-        "National Geographic"
       ],
       "tmdb_id": 157194
     },
@@ -75,7 +151,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "user_rating": 7.415,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-08-12",
@@ -90,18 +166,43 @@
       "tmdb_id": 157239
     },
     {
+      "id": 157370,
+      "title": "Kill Your Darlings",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wYM8VUTh0y6ugSmza1c2MJWCMfO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nu9Hff7spK8K2UMu6y838zBZXFY.jpg",
+      "plot_overview": "A murder in 1944 draws together the great poets of the beat generation: Allen Ginsberg, Jack Kerouac and William Burroughs.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.019,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-10-16",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 157370
+    },
+    {
       "id": 157569,
       "title": "Renegade Nell",
       "type": "tv_series",
       "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/t5EvzK6KJnSrm5rDo59hOvSgpyv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7hCiCJiG3uBqZhn2PmxLW2N3QUC.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2dxya9ESscup1pj0QpNi1gPI8Hp.jpg",
       "plot_overview": "England, 1705: Framed for murder and on the run with her sisters, Nell Jackson turns her hand to highway robbery to survive. Aided by her superpowered sidekick, a plucky little sprite called Billy Blind, Nell realizes that fate has put her on the wrong side of the law for a reason. A reason much bigger than she could have ever imagined: to defeat a magical plot against the Queen of England.",
       "genres": [
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-03-29",
@@ -114,36 +215,6 @@
         }
       ],
       "tmdb_id": 157569
-    },
-    {
-      "id": 157741,
-      "title": "Landman",
-      "type": "tv_series",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/q71au2YjcwXBMZKNzNgjK7RZ3Hs.jpg",
-      "plot_overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it\u2019s reshaping our climate, our economy and our geopolitics.",
-      "genres": [
-        "Drama"
-      ],
-      "user_rating": 8.037,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2024-11-17",
-      "streaming_services": [
-        {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 157741,
-      "is_returning": true,
-      "next_season": 2,
-      "next_air_date": "2025-12-21",
-      "next_episode": 6,
-      "relevance_score": 75
     }
   ]
 }

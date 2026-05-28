@@ -1,6 +1,6 @@
 {
   "range": "40001-41000",
-  "updated_at": 1766207314805,
+  "updated_at": 1780003048299,
   "shows": [
     {
       "id": 40008,
@@ -14,7 +14,7 @@
         "Drama",
         "Crime"
       ],
-      "user_rating": 8.254,
+      "user_rating": 8.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-04-04",
@@ -35,7 +35,7 @@
       "year": 2011,
       "poster_url": "https://image.tmdb.org/t/p/w342/eLtHnDXNCdBeyC5h1987C2FR3kQ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nGDsZDEZW0Uc5XtyfC7m7tH5q95.jpg",
-      "plot_overview": "Dance Moms is an American dance reality series that debuted on Lifetime on July 13, 2011. Created by Collins Avenue Productions, it is set in Pittsburgh, Pennsylvania, at the Abby Lee Dance Company, and follows children's early careers in dance show business, and their mothers. A spinoff series, Dance Moms: Miami, set in Miami at Victor Smalley and Angel Armas' dance studio, Stars Dance Studio, premiered on April 3, 2012, and was cancelled in September 2012 after eight episodes.\n\nOn October 10, ",
+      "plot_overview": "Dance Moms is an American dance reality series that debuted on Lifetime on July 13, 2011. Created by Collins Avenue Productions, it is set in Pittsburgh, Pennsylvania, at the Abby Lee Dance Company, and follows children's early careers in dance show business and their mothers.",
       "genres": [
         "Reality"
       ],
@@ -47,6 +47,18 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         },
@@ -64,19 +76,18 @@
       "title": "Gravity Falls",
       "type": "tv_series",
       "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dNxEEK5CdNQbp4YcEtICXelRqvP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/l0XvAI856XdyDYEfr1njztjH7u0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/qwi3p6PzKfQZ4YXBzv3CP5pO2dE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
       "plot_overview": "Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer helping their great uncle Stan run a tourist trap in the mysterious town of Gravity Falls, Oregon.",
       "genres": [
+        "Action & Adventure",
         "Animation",
         "Comedy",
+        "Family",
         "Mystery",
-        "Sci-Fi & Fantasy",
-        "Kids",
-        "Action & Adventure",
-        "Family"
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.602,
+      "user_rating": 8.612,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-06-15",
@@ -84,12 +95,6 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -102,24 +107,29 @@
       "type": "tv_series",
       "year": 2010,
       "poster_url": "https://image.tmdb.org/t/p/w342/42gO1qCC6GPtHKNXvOdhunhzyS3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kxb02OCWt9VYMvVeoY7dNhSNFT2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qfsVbdpVV745Q9szApNRDw6kDuq.jpg",
       "plot_overview": "This hit cooking competition series sees award-winning chef Gordon Ramsay and other celebrity chefs put a group of contestants through a series of challenges and elimination rounds, in order to turn one home cook into a culinary master.",
       "genres": [
         "Reality"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.068,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-07-27",
       "streaming_services": [
         {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 40290
+      "tmdb_id": 40290,
+      "is_returning": true,
+      "next_season": 16,
+      "next_air_date": "2026-06-03",
+      "next_episode": 8,
+      "relevance_score": 75
     },
     {
       "id": 40293,
@@ -132,11 +142,17 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.533,
+      "user_rating": 7.528,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-04-12",
       "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
         {
           "service_id": 386,
           "service_name": "Peacock",
@@ -159,7 +175,7 @@
         "Family",
         "Comedy"
       ],
-      "user_rating": 7.702,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-06-17",
@@ -172,32 +188,6 @@
         }
       ],
       "tmdb_id": 40619
-    },
-    {
-      "id": 40807,
-      "title": "50/50",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8f9tM9JVB4ETBhxlQcXIjLckArl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yq9g4RGM1mEMBoSL5HKVBy9MOPM.jpg",
-      "plot_overview": "Inspired by a true story, a comedy centered on a 27-year-old guy who learns of his cancer diagnosis and his subsequent struggle to beat the disease.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "user_rating": 7.178,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2011-09-30",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 40807
     }
   ]
 }

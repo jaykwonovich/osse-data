@@ -1,6 +1,6 @@
 {
   "range": "605001-606000",
-  "updated_at": 1766207314894,
+  "updated_at": 1780002330991,
   "shows": [
     {
       "id": 605804,
@@ -23,9 +23,41 @@
           "service_name": "Hulu",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 605804
+    },
+    {
+      "id": 605886,
+      "title": "To Catch a Killer",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mFp3l4lZg1NSEsyxKrdi0rNK8r1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/T5xXoFqyc9jNXZIbH4Sw0jwWjw.jpg",
+      "plot_overview": "Baltimore. New Year's Eve. A talented but troubled police officer is recruited by the FBI's chief investigator to help profile and track down a mass murderer.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 6.864,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-04-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 605886
     }
   ]
 }

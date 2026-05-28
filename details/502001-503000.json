@@ -1,6 +1,6 @@
 {
   "range": "502001-503000",
-  "updated_at": 1766207314881,
+  "updated_at": 1780003048365,
   "shows": [
     {
       "id": 502033,
@@ -13,7 +13,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.705,
+      "user_rating": 7.699,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-11-20",
@@ -46,13 +46,38 @@
       "release_date": "2023-04-05",
       "streaming_services": [
         {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 502356
+    },
+    {
+      "id": 502425,
+      "title": "Escape from Pretoria",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8GGS0jkFFCnmdStvZED6NL6V7gd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vwbmp3vvX4U0VjinaQktYOBt5kW.jpg",
+      "plot_overview": "South Africa, 1978. Tim Jenkin and Stephen Lee, two white political activists from the African National Congress imprisoned by the apartheid regime, put a plan in motion to escape from the infamous Pretoria Prison.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.167,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-03-06",
+      "streaming_services": [
+        {
           "service_id": 9,
           "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 502356
+      "tmdb_id": 502425
     }
   ]
 }

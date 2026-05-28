@@ -1,47 +1,23 @@
 {
   "range": "280001-281000",
-  "updated_at": 1766207314852,
+  "updated_at": 1780003048344,
   "shows": [
     {
-      "id": 280092,
-      "title": "Insidious: Chapter 3",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1fpwEe2GvNjAq2MN2xxdifNZLBT.jpg",
-      "plot_overview": "A twisted new tale of terror begins for a teenage girl and her family, and revealing more mysteries of the otherworldly realm, 'The Further'.",
-      "genres": [],
-      "user_rating": 6.281,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2015-05-28",
-      "streaming_services": [
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 280092
-    },
-    {
-      "id": 280217,
-      "title": "The Lego Movie 2: The Second Part",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nLvDo1F9xQD4VdFNgtipti7lKYD.jpg",
-      "plot_overview": "It's been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO\u00ae invaders from outer space, wrecking everything faster than they can rebuild.",
+      "id": 280511,
+      "title": "The Witness",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zz99X2bWxpwys6Y4Ew7YltKKtqr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
+      "plot_overview": "With their 2-year-old as the sole witness to her murder, Rachel Nickell's partner fights to protect him amid a flawed investigation.",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "Drama",
+        "Crime"
       ],
-      "user_rating": 6.664,
+      "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2019-02-06",
+      "release_date": "2026-06-04",
       "streaming_services": [
         {
           "service_id": 8,
@@ -50,33 +26,18 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 280217
-    },
-    {
-      "id": 280571,
-      "title": "Murder Before Evensong",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xn7TFZnR9U2KpJovIg5F1WZ1qs2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yGUbGli2M3UKnEPpeLaqH6ewhqa.jpg",
-      "plot_overview": "In 1980s England, Canon Daniel Clement, the Rector of Champton, finds himself unexpectedly entangled in a murder case when a dead body turns up in the church. When Daniel announces a plan to modernize the church, the parish is suddenly divided. And then a body is found dead at the back of the church. As the police move in and the bodies start piling up, Daniel is the only one who can try and keep his fractured community together... and catch a killer.",
-      "genres": [
-        "Drama",
-        "Mystery"
+      "production_companies": [
+        "STV Studios"
       ],
-      "user_rating": 7.444,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-09-29",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
+      "networks": [
+        "Netflix"
       ],
-      "tmdb_id": 280571
+      "tmdb_id": 280511,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-06-04",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

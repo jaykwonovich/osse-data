@@ -1,7 +1,38 @@
 {
   "range": "258001-259000",
-  "updated_at": 1766207314849,
+  "updated_at": 1780003048341,
   "shows": [
+    {
+      "id": 258036,
+      "title": "The Audacity",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4X86dOxMsrZudL0PdsMv30NGBWZ.jpg",
+      "plot_overview": "Inside the bubble of Silicon Valley, a data-mining CEO strives to turn insight and influence into profit and power in this darkly comedic look at the warped dreams, outsized egos, and ethical lapses of the self-styled inventors of the future.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 7.444,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-04-05",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 258036,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-05-31",
+      "next_episode": 8,
+      "relevance_score": 75
+    },
     {
       "id": 258480,
       "title": "Carol",
@@ -13,7 +44,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.495,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-11-20",
@@ -28,21 +59,22 @@
       "tmdb_id": 258480
     },
     {
-      "id": 258742,
-      "title": "All's Fair",
+      "id": 258918,
+      "title": "Sunny Nights",
       "type": "tv_series",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xhqklQEaJ7xqsqnwCJZu7hTmTIK.jpg",
-      "plot_overview": "A team of female divorce attorneys leave a male-dominated firm to open their own powerhouse practice. Fierce, brilliant, and emotionally complicated, they navigate high-stakes breakups, scandalous secrets, and shifting allegiances\u2014both in the courtroom and within their own ranks. In a world where money talks and love is a battleground, these women don't just play the game\u2014they change it.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7n91F2320KptcPUXXY3lMtx3k1I.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/l6kJn2V8Xxnb1VIPa5gYzcmmEqn.jpg",
+      "plot_overview": "A brother and sister venture from the US to Sydney, determined to grow their new spray tan business Tansform, but when they get caught up in the city's criminal underworld, they must figure out how to stay alive, out of prison, and in the black.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "Comedy",
+        "Crime",
+        "Drama"
       ],
-      "user_rating": 4.547,
+      "user_rating": 7.273,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2025-11-04",
+      "release_date": "2025-12-26",
       "streaming_services": [
         {
           "service_id": 15,
@@ -51,44 +83,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 258742
-    },
-    {
-      "id": 258978,
-      "title": "Coal",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": null,
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mgdx0Pu619NTVRfi9HjhvFpYr3Z.jpg",
-      "plot_overview": "Follows Ethan Bishop, an eight-year-old boy navigating a difficult time in his life that lands him on Santa\u2019s naughty list. In response, Santa implements \u2018Plan C,\u2019 sending a legendary Lump of Coal to guide Ethan on a \u201cho-ho-hilarious journey.\u201d Through a series of positive and negative experiences with the coal, Ethan discovers a life-altering artistic talent.",
-      "genres": [
-        "Animation",
-        "Kids"
-      ],
-      "user_rating": 0.0,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2025-12-25",
-      "streaming_services": [
-        {
-          "service_id": 0,
-          "service_name": "TBD",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "production_companies": [
-        "Laughing Dragon Studios",
-        "Shaw Rocket Fund",
-        "T\u00e9l\u00e9film Canada"
-      ],
-      "networks": [],
-      "tmdb_id": 258978,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2025-12-25",
-      "next_episode": 1,
-      "relevance_score": 200
+      "tmdb_id": 258918
     }
   ]
 }

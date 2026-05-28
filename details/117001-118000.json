@@ -1,6 +1,6 @@
 {
   "range": "117001-118000",
-  "updated_at": 1766207314829,
+  "updated_at": 1780003048324,
   "shows": [
     {
       "id": 117030,
@@ -16,7 +16,7 @@
         "Comedy",
         "Kids"
       ],
-      "user_rating": 7.245,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-01-01",
@@ -31,46 +31,17 @@
       "tmdb_id": 117030
     },
     {
-      "id": 117263,
-      "title": "Olympus Has Fallen",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/u3GTFGwesNBNd0t1hiLaEk1iqZU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mjYU7EwVeOtM39ArdWHZk78VhYm.jpg",
-      "plot_overview": "When the White House (Secret Service Code: \"Olympus\") is captured by a terrorist mastermind and the President is kidnapped, disgraced former Presidential guard Mike Banning finds himself trapped within the building. As the national security team scrambles to respond, they are forced to rely on Banning's inside knowledge to help retake the White House, save the President and avert an even bigger disaster.",
-      "genres": [],
-      "user_rating": 6.414,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2013-03-20",
-      "streaming_services": [
-        {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        },
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 117263
-    },
-    {
       "id": 117303,
       "title": "Lessons in Chemistry",
       "type": "tv_series",
       "year": 2023,
       "poster_url": "https://image.tmdb.org/t/p/w342/tCPIf5f6jUIr8KDMWsfaXwXW0kl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cuG3f2l51KdvP9IzBHlol2jR2FC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sPE6RlcIdK7i5Z991cQQkoO2R6t.jpg",
       "plot_overview": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere. She accepts a job on a TV cooking show and sets out to teach a nation of overlooked housewives way more than recipes.",
       "genres": [
         "Drama"
       ],
-      "user_rating": 8.3,
+      "user_rating": 8.232,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-10-12",
@@ -128,7 +99,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 8.049,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-02-24",
@@ -143,6 +114,91 @@
       "tmdb_id": 117581
     },
     {
+      "id": 117648,
+      "title": "Clarkson's Farm",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i50h4Gz6e9BMGak5l6gg5qfIjcv.jpg",
+      "plot_overview": "Follow Jeremy Clarkson as he embarks on his latest adventure, farming. The man who on several occasions claims to be allergic to manual labour takes on the most manually labour intensive job there is. What could possibly go wrong?",
+      "genres": [
+        "Reality",
+        "Comedy"
+      ],
+      "user_rating": 8.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-06-11",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 117648,
+      "is_returning": true,
+      "next_season": 5,
+      "next_air_date": "2026-06-03",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 117678,
+      "title": "Skull Island",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8XApFlqookjHKWuScJgUoWnpFt8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tGum8pp4gImTfFbWjnk1efTZirR.jpg",
+      "plot_overview": "Shipwrecked in the South Pacific, a group of explorers encounter a menagerie of fearsome creatures \u2014 including the giant ape who rules the island: Kong.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.053,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-06-22",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 117678
+    },
+    {
+      "id": 117682,
+      "title": "Transformers: War for Cybertron: Earthrise",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/63E619RuPL9EUjPzVTWCs2jUChl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6USilErg8aOh2en3ozjjquOrAL0.jpg",
+      "plot_overview": "While Megatron takes drastic measures to save the Decepticons, the Autobots fight to save all of Cybertron from both on the planet and aboard the Ark.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 7.787,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-12-30",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 117682
+    },
+    {
       "id": 117821,
       "title": "WeCrashed",
       "type": "tv_series",
@@ -153,7 +209,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.343,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-03-17",
@@ -166,32 +222,6 @@
         }
       ],
       "tmdb_id": 117821
-    },
-    {
-      "id": 117830,
-      "title": "Tomb Raider: The Legend of Lara Croft",
-      "type": "tv_series",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1WF982MFHGmsURH13HMQP51Dgr3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zbaUXbBBLmGmHARAVurvUJbIEWt.jpg",
-      "plot_overview": "Thrust into a high-stakes chase around the world, fearless adventurer Lara Croft confronts her traumatic past while unraveling an ancient mystery.",
-      "genres": [
-        "Action & Adventure",
-        "Animation"
-      ],
-      "user_rating": 6.295,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2024-10-10",
-      "streaming_services": [
-        {
-          "service_id": 8,
-          "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 117830
     }
   ]
 }

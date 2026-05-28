@@ -1,6 +1,6 @@
 {
   "range": "526001-527000",
-  "updated_at": 1766207314884,
+  "updated_at": 1780002330981,
   "shows": [
     {
       "id": 526051,
@@ -21,9 +21,38 @@
           "service_name": "Pluto TV",
           "type": "free",
           "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 526051
+    },
+    {
+      "id": 526896,
+      "title": "Morbius",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jzWT0zd8U77fqWg5WgUfYaMzSFz.jpg",
+      "plot_overview": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+      "genres": [],
+      "user_rating": 5.933,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-03-30",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 526896
     }
   ]
 }

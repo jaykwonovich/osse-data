@@ -1,23 +1,22 @@
 {
   "range": "207001-208000",
-  "updated_at": 1766207314841,
+  "updated_at": 1780003048333,
   "shows": [
     {
-      "id": 207703,
-      "title": "Kingsman: The Secret Service",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
-      "plot_overview": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+      "id": 207411,
+      "title": "Good American Family",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fzznLJmBzU5tTxFzklepKifE16o.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jkyjkLuKxKa2PXaTcPDfrBUHxi8.jpg",
+      "plot_overview": "A Midwestern couple adopts who they believe to be a little girl with dwarfism, but gradually start to believe she may not be who she says she is.",
       "genres": [
-        "Crime",
-        "Comedy"
+        "Drama"
       ],
-      "user_rating": 7.621,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2015-01-24",
+      "release_date": "2025-03-19",
       "streaming_services": [
         {
           "service_id": 15,
@@ -26,7 +25,32 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 207703
+      "tmdb_id": 207411
+    },
+    {
+      "id": 207717,
+      "title": "From Scratch",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/s8D32MA8NlNgixnAIxVbmt9cazX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mNXnh4Ua8wMvSlAiXXzX7G3Ko5p.jpg",
+      "plot_overview": "An artist finds romance with a chef in Italy and embarks on a life-changing journey of love, loss, resilience and hope across cultures and continents.",
+      "genres": [
+        "Drama"
+      ],
+      "user_rating": 7.588,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-10-21",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 207717
     },
     {
       "id": 207863,
@@ -40,7 +64,7 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.249,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-01-08",
@@ -48,12 +72,6 @@
         {
           "service_id": 8,
           "service_name": "Netflix",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }

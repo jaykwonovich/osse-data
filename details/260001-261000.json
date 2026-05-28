@@ -1,6 +1,6 @@
 {
   "range": "260001-261000",
-  "updated_at": 1766207314850,
+  "updated_at": 1780003048342,
   "shows": [
     {
       "id": 260513,
@@ -14,7 +14,7 @@
         "Animation",
         "Family"
       ],
-      "user_rating": 7.456,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-06-14",
@@ -29,31 +29,41 @@
       "tmdb_id": 260513
     },
     {
-      "id": 260514,
-      "title": "Cars 3",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fyy1nDC8wm553FCiBDojkJmKLCs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/86TlYSntBzD4pxLNM6U3GoOfGdD.jpg",
-      "plot_overview": "Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn't through yet will test the heart of a champion on Piston Cup Racing\u2019s biggest stage!",
+      "id": 260592,
+      "title": "Every Year After",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kr9D3IvTyyIVQXjCo37XEYqPkTw.jpg",
+      "plot_overview": "Six summers to fall in love. One moment to fall apart. A week to get it right. A fun, sweeping, romantic story that asks the question, what if your first love actually was your soulmate?",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "Drama"
       ],
-      "user_rating": 6.9,
+      "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2017-06-15",
+      "release_date": "2026-06-10",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 260514
+      "production_companies": [
+        "Amazon MGM Studios",
+        "Reunion Pacific Entertainment"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "tmdb_id": 260592,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-06-10",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

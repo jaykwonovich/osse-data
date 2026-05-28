@@ -1,6 +1,6 @@
 {
   "range": "31001-32000",
-  "updated_at": 1766207314801,
+  "updated_at": 1780003048296,
   "shows": [
     {
       "id": 31011,
@@ -13,7 +13,7 @@
       "genres": [
         "Drama"
       ],
-      "user_rating": 7.799,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-11-06",
@@ -28,18 +28,48 @@
       "tmdb_id": 31011
     },
     {
+      "id": 31078,
+      "title": "Bored to Death",
+      "type": "tv_series",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eCHirPRvImk6wTLJMKI8vVNVcOT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mtv5piXIGnkKDBLPHhU0Zeh5r1U.jpg",
+      "plot_overview": "Jonathan Ames, a young Brooklyn writer, is feeling lost. He's just gone through a painful break-up, thanks in part to his drinking, can't write his second novel, and carouses too much with his magazine editor. Rather than face reality, Jonathan turns instead to his fantasies \u2014 moonlighting as a private detective \u2014 because he wants to be a hero and a man of action.",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery",
+        "Drama"
+      ],
+      "user_rating": 7.261,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-09-20",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 31078
+    },
+    {
       "id": 31132,
       "title": "Regular Show",
       "type": "tv_series",
       "year": 2010,
       "poster_url": "https://image.tmdb.org/t/p/w342/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5iWJwQPBusPTV7G7n5TABNRP7tO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
       "plot_overview": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs as groundskeepers at the local park.",
       "genres": [
         "Animation",
-        "Comedy"
+        "Comedy",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.628,
+      "user_rating": 8.635,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-09-06",
@@ -64,7 +94,7 @@
       "genres": [
         "Documentary"
       ],
-      "user_rating": 8.0,
+      "user_rating": 7.993,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1991-03-13",
@@ -83,7 +113,7 @@
       "title": "Victorious",
       "type": "tv_series",
       "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ulzaIIXNpeMUdhzuooQoOb5cXLD.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5YJT7qzswtdYhOGfLulXtBhUcl1.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jpR7mT5nFAzWSGPseLpfFisoUtN.jpg",
       "plot_overview": "Aspiring singer Tori Vega navigates life while attending a performing arts high school called Hollywood Arts.",
       "genres": [
@@ -109,7 +139,7 @@
       "title": "Misfits",
       "type": "tv_series",
       "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1yjmRIp8A92FlAw5JpouQ50ATUA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/pkGPHO7WxViedkOm6Xy1aWSS36l.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/y5oDHhdNng3ff3KQzcX6qpzBuMU.jpg",
       "plot_overview": "When five young outsiders on Community Service get caught in a strange storm, they discover that they have developed superpowers.",
       "genres": [
@@ -117,15 +147,21 @@
         "Drama",
         "Comedy"
       ],
-      "user_rating": 7.612,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-11-12",
       "streaming_services": [
         {
-          "service_id": 300,
-          "service_name": "Pluto TV",
-          "type": "free",
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
           "region": "US"
         }
       ],
@@ -136,13 +172,13 @@
       "title": "The League",
       "type": "tv_series",
       "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2l9lrTVG0BxU7zqsf5UQ1g4AbBH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/w6IAasjDdANmalOWkjKcENhirQR.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4MRgkPa85umPuvNpahlQo1JtzMP.jpg",
       "plot_overview": "The League is an American sitcom and semi-improvised comedy about a about a fantasy football league and its members and their everyday lives.",
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.339,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-10-29",
@@ -157,37 +193,12 @@
       "tmdb_id": 31497
     },
     {
-      "id": 31578,
-      "title": "Body Bags",
-      "type": "movie",
-      "year": 1993,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xRwna1sWDByZs9hsnlabt16INHl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/40a2z21BPfsNjDJbhZ0WshZFDF.jpg",
-      "plot_overview": "A horror anthology containing three stories: a female college student working a graveyard shift is terrorized by a serial killer; a hair transplant goes horribly wrong; and a baseball player loses an eye and gets a new one from a recently executed murderer.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 6.118,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1993-08-08",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 31578
-    },
-    {
       "id": 31628,
       "title": "Pair of Kings",
       "type": "tv_series",
       "year": 2010,
       "poster_url": "https://image.tmdb.org/t/p/w342/k8OQOO5DWtBTgTtc1xoXxYSCy5O.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eeyZqchUXikR040di8Ng7Zvu83g.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dSj3UpkK3kf2haRqhK4nFNGxJzS.jpg",
       "plot_overview": "Brady and Boomer, 16-year-old fraternal twins, are typical teens being raised by relatives  in Chicago.  But when the Royal Secretary to the Throne of the Island of Kinkou, arrives to inform the boys of their lineage, their lives change drastically.  Now, Brady and Boomer must relocate and claim the throne as joint Kings of the island.",
       "genres": [
         "Family",
@@ -210,32 +221,6 @@
       "tmdb_id": 31628
     },
     {
-      "id": 31631,
-      "title": "Covert Affairs",
-      "type": "tv_series",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pRWUGSGdByQHW93DH2braqkRjZa.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rOigzdLeQedRF4ebFQMHELjfINC.jpg",
-      "plot_overview": "A young CIA operative, Annie Walker, is mysteriously summoned to headquarters for duty as a field operative. While Annie believes she's been promoted for her exceptional linguistic skills, there may be something or someone from her past that her CIA bosses are really after. Auggie Anderson is a CIA military intelligence agent who was blinded while on assignment and is Annie's guide in this world of bureaucracy, excitement and intrigue.",
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "user_rating": 6.877,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2010-07-13",
-      "streaming_services": [
-        {
-          "service_id": 386,
-          "service_name": "Peacock",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 31631
-    },
-    {
       "id": 31917,
       "title": "Pretty Little Liars",
       "type": "tv_series",
@@ -247,7 +232,7 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.978,
+      "user_rating": 7.971,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-06-08",
@@ -278,33 +263,10 @@
       "genres": [
         "Comedy"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.583,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-01-11",
-      "streaming_services": [
-        {
-          "service_id": 613,
-          "service_name": "Freevee",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 31941
-    },
-    {
-      "id": 31952,
-      "title": "The Vampire Lovers",
-      "type": "movie",
-      "year": 1970,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zPhp6SDQlYXvZYkvHrF3ecmSdQ0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wbherYlV9zGsivnNxzpldjkYkuC.jpg",
-      "plot_overview": "In the heart of Styria the Karnstein Family, even after their mortal deaths, rise from their tombs spreading evil in the countryside in their lust for fresh blood. Baron Hartog whose family are all victims of Karnstein vampirism, opens their graves and drives a stake through their diabolical hearts. One grave he cannot locate is that of the legendary beautiful Mircalla Karnstein. Years of peace follow that grisly night until Mircalla reappears to avenge her family's decimation and satisfy her de",
-      "genres": [],
-      "user_rating": 6.34,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "1970-10-04",
       "streaming_services": [
         {
           "service_id": 9,
@@ -313,38 +275,7 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 31952
-    },
-    {
-      "id": 31991,
-      "title": "WWE NXT",
-      "type": "tv_series",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8BaPwADDUeg752Dxf0VSUHMQuYc.jpg",
-      "plot_overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "user_rating": 6.7,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2010-02-23",
-      "streaming_services": [
-        {
-          "service_id": 73,
-          "service_name": "Tubi",
-          "type": "free",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 31991,
-      "is_returning": true,
-      "next_season": 19,
-      "next_air_date": "2025-12-23",
-      "next_episode": 51,
-      "relevance_score": 75
+      "tmdb_id": 31941
     }
   ]
 }

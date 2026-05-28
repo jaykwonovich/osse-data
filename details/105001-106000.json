@@ -1,65 +1,119 @@
 {
   "range": "105001-106000",
-  "updated_at": 1766207314826,
+  "updated_at": 1780003048321,
   "shows": [
     {
-      "id": 105864,
-      "title": "The Good Dinosaur",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nRPe93Yw5yK29JFKGf0eqCCeM2a.jpg",
-      "plot_overview": "An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend.",
+      "id": 105177,
+      "title": "Unsolved Mysteries",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5Gn9hoJZUiJX5yb4datIcoq3Day.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xvTMD2R3sVesWPvQN8gVYEeFWDV.jpg",
+      "plot_overview": "Real cases of perplexing disappearances, shocking murders and paranormal encounters fuel this gripping revival of the iconic documentary series.",
       "genres": [
-        "Animation",
-        "Family"
+        "Documentary",
+        "Drama",
+        "Mystery"
       ],
-      "user_rating": 6.737,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2015-11-14",
+      "release_date": "2020-07-01",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 105864
+      "tmdb_id": 105177
     },
     {
-      "id": 105965,
-      "title": "Beverly Hills Chihuahua 3: Viva la Fiesta!",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fK3U8xulldz6lhMDuz3LFB7ngWH.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/h7WBvAHd6IqDsAycFWsqlcdt1i3.jpg",
-      "plot_overview": "When Papi, Chloe, the pups, Uncle Pedro, and their owners move to a hotel, the smallest pup Rosa feels like she doesn't fit in, and Papi wants to make her feel better by showing her how special she is.",
+      "id": 105288,
+      "title": "Down to Earth with Zac Efron",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eGGHsfDkZXek0qGJ1wsuoVzHEOh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/prs7zCDXmcoN0iDxac91LGO1QKZ.jpg",
+      "plot_overview": "Actor Zac Efron journeys around the world with wellness expert Darin Olien in a travel show that explores healthy, sustainable ways to live.",
       "genres": [
-        "Comedy",
-        "Family"
+        "Documentary"
       ],
-      "user_rating": 6.3,
+      "user_rating": 7.655,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2012-09-03",
+      "release_date": "2020-07-10",
       "streaming_services": [
         {
-          "service_id": 337,
-          "service_name": "Disney+",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
       ],
-      "tmdb_id": 105965
+      "tmdb_id": 105288
+    },
+    {
+      "id": 105797,
+      "title": "Wizards: Tales of Arcadia",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aAMcPNLzCML40q7qmuB0jrZIcsI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sBOfH2ZK5JSTsgNmbVSSJcnVO2G.jpg",
+      "plot_overview": "Merlin\u2019s apprentice joins Arcadia\u2019s heroes on a time-bending adventure in Camelot, where conflict is brewing between the human, troll and magical worlds.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "user_rating": 8.165,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-08-07",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 105797
+    },
+    {
+      "id": 105804,
+      "title": "Candy",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8vlxmTkiF2rzpvrWoN4mOoeVg1z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xSejbnuKiyIfdvRjh48Qnrml8W1.jpg",
+      "plot_overview": "Candy Montgomery is a 1980s housewife and mother who did everything right \u2014 but when the pressure of conformity builds within her, her actions scream for just a bit of freedom. Until someone tells her to shush. With deadly results.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.137,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2022-05-09",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 105804
     },
     {
       "id": 105971,
       "title": "Star Wars: The Bad Batch",
       "type": "tv_series",
       "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cDQAvfgAqnKuklerrZylZr6PCQa.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5mHus672nuinyaE0FtqvD0AddcY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sjxtIUCWR74yPPcZFfTsToepfWm.jpg",
       "plot_overview": "The 'Bad Batch' of elite and experimental clones make their way through an ever-changing galaxy in the immediate aftermath of the Clone Wars.",
       "genres": [
@@ -67,7 +121,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "user_rating": 8.179,
+      "user_rating": 8.158,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-05-04",
