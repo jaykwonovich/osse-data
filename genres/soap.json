@@ -1,6 +1,6 @@
 {
   "genre": "soap",
-  "updated_at": 1766207314767,
+  "updated_at": 1766212590429,
   "shows": [
     {
       "id": 46441,
@@ -12,7 +12,11 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 7.467,
-      "release_date": "2013-05-28"
+      "release_date": "2013-05-28",
+      "genres": [
+        "drama",
+        "soap"
+      ]
     },
     {
       "id": 3769,
@@ -24,7 +28,11 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 6.427,
-      "release_date": "1981-01-12"
+      "release_date": "1981-01-12",
+      "genres": [
+        "drama",
+        "soap"
+      ]
     },
     {
       "id": 881,
@@ -36,7 +44,42 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 6.0,
-      "release_date": "1965-11-08"
+      "release_date": "1965-11-08",
+      "genres": [
+        "drama",
+        "soap"
+      ]
+    },
+    {
+      "id": 987,
+      "title": "General Hospital",
+      "type": "tv_series",
+      "year": 1963,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gS5iORCJHwP5moEXSF9b6ZcsZ1w.jpg",
+      "genre": "soap",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 5.7,
+      "release_date": "1963-04-01",
+      "genres": [
+        "soap"
+      ]
+    },
+    {
+      "id": 6647,
+      "title": "The Bold and the Beautiful",
+      "type": "tv_series",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rbmLSQHmSSCBhSfRhvToAEvSsqI.jpg",
+      "genre": "soap",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 5.489,
+      "release_date": "1987-03-23",
+      "genres": [
+        "drama",
+        "soap"
+      ]
     }
   ]
 }

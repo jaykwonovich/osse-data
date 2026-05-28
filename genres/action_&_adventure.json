@@ -1,6 +1,6 @@
 {
   "genre": "action & adventure",
-  "updated_at": 1766207314749,
+  "updated_at": 1766212590386,
   "shows": [
     {
       "id": 299236,
@@ -12,7 +12,12 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.8,
-      "release_date": "2025-10-02"
+      "release_date": "2025-10-02",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 89456,
@@ -24,7 +29,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.621,
-      "release_date": "2019-10-08"
+      "release_date": "2019-10-08",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "drama"
+      ]
     },
     {
       "id": 2098,
@@ -36,7 +46,13 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.557,
-      "release_date": "1992-09-05"
+      "release_date": "1992-09-05",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 75006,
@@ -48,7 +64,28 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.5,
-      "release_date": "2019-02-15"
+      "release_date": "2019-02-15",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 225180,
+      "title": "BLUE EYE SAMURAI",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fXm3JT4WLQVnwukdvghtAblc1wc.jpg",
+      "genre": "action & adventure",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.492,
+      "release_date": "2023-11-03",
+      "genres": [
+        "action & adventure",
+        "animation"
+      ]
     },
     {
       "id": 4194,
@@ -60,7 +97,47 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.461,
-      "release_date": "2008-10-03"
+      "release_date": "2008-10-03",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 46994,
+      "title": "Slugterra",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hbAHSGKr0aJStev8w5ebWWZboh1.jpg",
+      "genre": "action & adventure",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.4,
+      "release_date": "2012-10-15",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 1891,
+      "title": "The Empire Strikes Back",
+      "type": "movie",
+      "year": 1980,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "genre": "action & adventure",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 8.394,
+      "release_date": "1980-05-20",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 61923,
@@ -71,32 +148,15 @@
       "genre": "action & adventure",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.353,
-      "release_date": "2015-01-18"
-    },
-    {
-      "id": 51817,
-      "title": "Teenage Mutant Ninja Turtles",
-      "type": "tv_series",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
-      "genre": "action & adventure",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.312,
-      "release_date": "2012-09-28"
-    },
-    {
-      "id": 74440,
-      "title": "Harley Quinn",
-      "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9Dm1SEh8Wxt8LNNg02exHQ595zg.jpg",
-      "genre": "action & adventure",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.302,
-      "release_date": "2019-11-29"
+      "user_rating": 8.354,
+      "release_date": "2015-01-18",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 100757,
@@ -107,8 +167,50 @@
       "genre": "action & adventure",
       "service_id": 8,
       "service_name": "Netflix",
+      "user_rating": 8.304,
+      "release_date": "2020-04-15",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "mystery"
+      ]
+    },
+    {
+      "id": 74440,
+      "title": "Harley Quinn",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9Dm1SEh8Wxt8LNNg02exHQ595zg.jpg",
+      "genre": "action & adventure",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.301,
+      "release_date": "2019-11-29",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 51817,
+      "title": "Teenage Mutant Ninja Turtles",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+      "genre": "action & adventure",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 8.3,
-      "release_date": "2020-04-15"
+      "release_date": "2012-09-28",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "kids",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 63333,
@@ -120,7 +222,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.246,
-      "release_date": "2015-10-10"
+      "release_date": "2015-10-10",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "war & politics"
+      ]
     },
     {
       "id": 110492,
@@ -131,8 +238,13 @@
       "genre": "action & adventure",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.215,
-      "release_date": "2022-01-13"
+      "user_rating": 8.214,
+      "release_date": "2022-01-13",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 77169,
@@ -144,7 +256,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.207,
-      "release_date": "2018-05-02"
+      "release_date": "2018-05-02",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 2604,
@@ -156,7 +273,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.2,
-      "release_date": "2005-11-06"
+      "release_date": "2005-11-06",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy"
+      ]
     },
     {
       "id": 33623,
@@ -168,7 +290,13 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.199,
-      "release_date": "2010-10-20"
+      "release_date": "2010-10-20",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 106379,
@@ -179,8 +307,13 @@
       "genre": "action & adventure",
       "service_id": 613,
       "service_name": "Freevee",
-      "user_rating": 8.196,
-      "release_date": "2024-04-10"
+      "user_rating": 8.192,
+      "release_date": "2024-04-10",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1618,
@@ -192,7 +325,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.188,
-      "release_date": "2001-11-17"
+      "release_date": "2001-11-17",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 5303,
@@ -204,7 +342,13 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.172,
-      "release_date": "1988-05-15"
+      "release_date": "1988-05-15",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 240,
@@ -216,7 +360,13 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 8.169,
-      "release_date": "2000-09-09"
+      "release_date": "2000-09-09",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 3556,
@@ -228,7 +378,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.154,
-      "release_date": "1998-04-05"
+      "release_date": "1998-04-05",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 67178,
@@ -240,7 +394,12 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 8.137,
-      "release_date": "2017-11-17"
+      "release_date": "2017-11-17",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 111110,
@@ -251,8 +410,29 @@
       "genre": "action & adventure",
       "service_id": 8,
       "service_name": "Netflix",
+      "user_rating": 8.123,
+      "release_date": "2023-08-31",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 32910,
+      "title": "Transformers: Prime",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+      "genre": "action & adventure",
+      "service_id": 9,
+      "service_name": "Prime Video",
       "user_rating": 8.1,
-      "release_date": "2023-08-31"
+      "release_date": "2010-11-26",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "kids"
+      ]
     },
     {
       "id": 44217,
@@ -264,7 +444,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.094,
-      "release_date": "2013-03-03"
+      "release_date": "2013-03-03",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "war & politics"
+      ]
     },
     {
       "id": 1402,
@@ -276,7 +461,12 @@
       "service_id": 300,
       "service_name": "Pluto TV",
       "user_rating": 8.09,
-      "release_date": "2010-10-31"
+      "release_date": "2010-10-31",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 108978,
@@ -288,7 +478,12 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 8.088,
-      "release_date": "2022-02-03"
+      "release_date": "2022-02-03",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 2288,
@@ -300,7 +495,29 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.076,
-      "release_date": "2005-08-29"
+      "release_date": "2005-08-29",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama"
+      ]
+    },
+    {
+      "id": 56402,
+      "title": "Monsuno",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pjzubEF1aG0lUDEacek8NUh2IFw.jpg",
+      "genre": "action & adventure",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.028,
+      "release_date": "2012-02-23",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 58981,
@@ -312,7 +529,13 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.026,
-      "release_date": "2013-10-14"
+      "release_date": "2013-10-14",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 120911,
@@ -324,7 +547,45 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 7.972,
-      "release_date": "2022-06-30"
+      "release_date": "2022-06-30",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
+    },
+    {
+      "id": 194583,
+      "title": "The Walking Dead: Dead City",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "genre": "action & adventure",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.961,
+      "release_date": "2023-06-18",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 87689,
+      "title": "Warrior Nun",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fLP0mA7FiERZhDP1NJUaHpm6XM8.jpg",
+      "genre": "action & adventure",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.957,
+      "release_date": "2020-07-02",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 17463,
@@ -336,7 +597,15 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 7.903,
-      "release_date": "2008-10-25"
+      "release_date": "2008-10-25",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family",
+        "kids",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 7225,
@@ -348,7 +617,12 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 7.825,
-      "release_date": "2008-09-20"
+      "release_date": "2008-09-20",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1973,
@@ -360,7 +634,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.796,
-      "release_date": "2001-11-06"
+      "release_date": "2001-11-06",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 133748,
@@ -372,7 +651,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.782,
-      "release_date": "2023-07-27"
+      "release_date": "2023-07-27",
+      "genres": [
+        "action & adventure",
+        "comedy"
+      ]
     },
     {
       "id": 82452,
@@ -383,8 +666,14 @@
       "genre": "action & adventure",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.768,
-      "release_date": "2024-02-22"
+      "user_rating": 7.769,
+      "release_date": "2024-02-22",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 129552,
@@ -396,7 +685,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.741,
-      "release_date": "2023-03-23"
+      "release_date": "2023-03-23",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 60554,
@@ -407,8 +701,13 @@
       "genre": "action & adventure",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.726,
-      "release_date": "2014-10-13"
+      "user_rating": 7.727,
+      "release_date": "2014-10-13",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1404,
@@ -420,7 +719,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.725,
-      "release_date": "2007-09-24"
+      "release_date": "2007-09-24",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 205715,
@@ -431,8 +735,13 @@
       "genre": "action & adventure",
       "service_id": 613,
       "service_name": "Freevee",
-      "user_rating": 7.705,
-      "release_date": "2023-09-28"
+      "user_rating": 7.704,
+      "release_date": "2023-09-28",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 160,
@@ -444,7 +753,13 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 7.7,
-      "release_date": "1987-12-14"
+      "release_date": "1987-12-14",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "kids"
+      ]
     },
     {
       "id": 2473,
@@ -456,7 +771,12 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 7.7,
-      "release_date": "1961-01-07"
+      "release_date": "1961-01-07",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 73375,
@@ -468,7 +788,11 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 7.68,
-      "release_date": "2018-08-30"
+      "release_date": "2018-08-30",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 116135,
@@ -480,7 +804,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.662,
-      "release_date": "2022-02-25"
+      "release_date": "2022-02-25",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "war & politics"
+      ]
     },
     {
       "id": 62286,
@@ -492,7 +821,27 @@
       "service_id": 300,
       "service_name": "Pluto TV",
       "user_rating": 7.637,
-      "release_date": "2015-08-23"
+      "release_date": "2015-08-23",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
+    },
+    {
+      "id": 47450,
+      "title": "Into the Badlands",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jtceMKMxHSriLFUGAUfqHsW7uCo.jpg",
+      "genre": "action & adventure",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.615,
+      "release_date": "2015-11-15",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 88396,
@@ -503,8 +852,30 @@
       "genre": "action & adventure",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.613,
-      "release_date": "2021-03-19"
+      "user_rating": 7.612,
+      "release_date": "2021-03-19",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
+    },
+    {
+      "id": 10331,
+      "title": "Night of the Living Dead",
+      "type": "movie",
+      "year": 1968,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+      "genre": "action & adventure",
+      "service_id": 300,
+      "service_name": "Pluto TV",
+      "user_rating": 7.609,
+      "release_date": "1968-10-04",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 59427,
@@ -516,7 +887,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.6,
-      "release_date": "2013-05-26"
+      "release_date": "2013-05-26",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 2119,
@@ -528,7 +904,11 @@
       "service_id": 207,
       "service_name": "The Roku Channel",
       "user_rating": 7.6,
-      "release_date": "1984-01-22"
+      "release_date": "1984-01-22",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 4357,
@@ -540,7 +920,12 @@
       "service_id": 300,
       "service_name": "Pluto TV",
       "user_rating": 7.6,
-      "release_date": "1966-09-17"
+      "release_date": "1966-09-17",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 63210,
@@ -551,8 +936,13 @@
       "genre": "action & adventure",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.59,
-      "release_date": "2016-01-12"
+      "user_rating": 7.591,
+      "release_date": "2016-01-12",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 128113,
@@ -564,7 +954,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.58,
-      "release_date": "2022-10-11"
+      "release_date": "2022-10-11",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1401,
@@ -576,7 +971,28 @@
       "service_id": 207,
       "service_name": "The Roku Channel",
       "user_rating": 7.569,
-      "release_date": "2011-11-06"
+      "release_date": "2011-11-06",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "western"
+      ]
+    },
+    {
+      "id": 5031,
+      "title": "The Fall Guy",
+      "type": "tv_series",
+      "year": 1981,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gV8CB9WbCclGCENBkxoKXYnwh28.jpg",
+      "genre": "action & adventure",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.541,
+      "release_date": "1981-11-04",
+      "genres": [
+        "action & adventure",
+        "crime"
+      ]
     },
     {
       "id": 115036,
@@ -587,8 +1003,29 @@
       "genre": "action & adventure",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.515,
-      "release_date": "2021-12-29"
+      "user_rating": 7.513,
+      "release_date": "2021-12-29",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 67195,
+      "title": "Legion",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
+      "genre": "action & adventure",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.505,
+      "release_date": "2017-02-08",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 114165,
@@ -600,7 +1037,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.5,
-      "release_date": "2021-04-07"
+      "release_date": "2021-04-07",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 2384,
@@ -612,7 +1053,13 @@
       "service_id": 207,
       "service_name": "The Roku Channel",
       "user_rating": 7.5,
-      "release_date": "1982-09-26"
+      "release_date": "1982-09-26",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 21781,
@@ -624,7 +1071,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.496,
-      "release_date": "2009-09-14"
+      "release_date": "2009-09-14",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy"
+      ]
     },
     {
       "id": 219760,
@@ -635,8 +1087,12 @@
       "genre": "action & adventure",
       "service_id": 613,
       "service_name": "Freevee",
-      "user_rating": 7.474,
-      "release_date": "2025-08-27"
+      "user_rating": 7.477,
+      "release_date": "2025-08-27",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 2919,
@@ -647,8 +1103,13 @@
       "genre": "action & adventure",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.467,
-      "release_date": "2007-06-28"
+      "user_rating": 7.468,
+      "release_date": "2007-06-28",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 54155,
@@ -660,19 +1121,28 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 7.449,
-      "release_date": "2019-03-28"
+      "release_date": "2019-03-28",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
-      "id": 3319,
-      "title": "Darkwing Duck",
+      "id": 158141,
+      "title": "Supacell",
       "type": "tv_series",
-      "year": 1991,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1gJMSXS0gwM8gDJnzVSITcxbQc.jpg",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vHtNgRLWdMk7wIV2WbqkOzU7HHI.jpg",
       "genre": "action & adventure",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.4,
-      "release_date": "1991-09-06"
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.433,
+      "release_date": "2024-06-27",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1269,
@@ -684,7 +1154,13 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.4,
-      "release_date": "1981-09-12"
+      "release_date": "1981-09-12",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 4333,
@@ -696,7 +1172,31 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 7.4,
-      "release_date": "1962-10-04"
+      "release_date": "1962-10-04",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama",
+        "mystery"
+      ]
+    },
+    {
+      "id": 65294,
+      "title": "A Series of Unfortunate Events",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg",
+      "genre": "action & adventure",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.391,
+      "release_date": "2017-01-13",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "family",
+        "mystery"
+      ]
     },
     {
       "id": 106502,
@@ -708,7 +1208,47 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 7.374,
-      "release_date": "2021-07-08"
+      "release_date": "2021-07-08",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "drama"
+      ]
+    },
+    {
+      "id": 3319,
+      "title": "Darkwing Duck",
+      "type": "tv_series",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1gJMSXS0gwM8gDJnzVSITcxbQc.jpg",
+      "genre": "action & adventure",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.366,
+      "release_date": "1991-09-06",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family",
+        "kids"
+      ]
+    },
+    {
+      "id": 60699,
+      "title": "Marco Polo",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/syYTHCBvFlobr8eJjQMKAjrn9yV.jpg",
+      "genre": "action & adventure",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.345,
+      "release_date": "2014-12-12",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 103540,
@@ -719,20 +1259,65 @@
       "genre": "action & adventure",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.3,
-      "release_date": "2023-12-19"
+      "user_rating": 7.336,
+      "release_date": "2023-12-19",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
-      "id": 84773,
-      "title": "The Lord of the Rings: The Rings of Power",
+      "id": 931,
+      "title": "He-Man and the Masters of the Universe",
       "type": "tv_series",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg",
+      "year": 1983,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tawmMe0D3ncyzEmmfMraGucXBCA.jpg",
+      "genre": "action & adventure",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.332,
+      "release_date": "1983-09-05",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "kids",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 2321,
+      "title": "The Unit",
+      "type": "tv_series",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ftwhXqizcVRo4pgqFnTysR9tAIM.jpg",
+      "genre": "action & adventure",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.315,
+      "release_date": "2006-03-07",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
+    },
+    {
+      "id": 229711,
+      "title": "The Bondsman",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gwd2HpY2ymvmASUP3zMYF59IIr7.jpg",
       "genre": "action & adventure",
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 7.3,
-      "release_date": "2022-09-01"
+      "release_date": "2025-04-03",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 67116,
@@ -744,19 +1329,13 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 7.299,
-      "release_date": "2016-09-21"
-    },
-    {
-      "id": 229711,
-      "title": "The Bondsman",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gwd2HpY2ymvmASUP3zMYF59IIr7.jpg",
-      "genre": "action & adventure",
-      "service_id": 613,
-      "service_name": "Freevee",
-      "user_rating": 7.277,
-      "release_date": "2025-04-03"
+      "release_date": "2016-09-21",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 62643,
@@ -768,7 +1347,29 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.268,
-      "release_date": "2016-01-21"
+      "release_date": "2016-01-21",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 84773,
+      "title": "The Lord of the Rings: The Rings of Power",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg",
+      "genre": "action & adventure",
+      "service_id": 613,
+      "service_name": "Freevee",
+      "user_rating": 7.266,
+      "release_date": "2022-09-01",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1310,
@@ -780,7 +1381,44 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 7.238,
-      "release_date": "2008-10-03"
+      "release_date": "2008-10-03",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 111800,
+      "title": "The Old Man",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8Ec9zCZl2Go8WhDN1JWjjgQRlEi.jpg",
+      "genre": "action & adventure",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.219,
+      "release_date": "2022-06-16",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
+    },
+    {
+      "id": 120452,
+      "title": "Dan Brown's The Lost Symbol",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rc99fLHeOH4QBROUzAyPeKCvt6T.jpg",
+      "genre": "action & adventure",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.213,
+      "release_date": "2021-09-16",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 157569,
@@ -792,7 +1430,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.2,
-      "release_date": "2024-03-29"
+      "release_date": "2024-03-29",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 66857,
@@ -804,7 +1446,29 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 7.2,
-      "release_date": "2016-11-15"
+      "release_date": "2016-11-15",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "war & politics"
+      ]
+    },
+    {
+      "id": 9687,
+      "title": "The Odyssey",
+      "type": "tv_series",
+      "year": 1997,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rAm6B3WVRzT4XKD15qF1wrDbmmC.jpg",
+      "genre": "action & adventure",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.183,
+      "release_date": "1997-05-18",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1909,
@@ -815,8 +1479,13 @@
       "genre": "action & adventure",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.19,
-      "release_date": "1981-03-18"
+      "user_rating": 7.179,
+      "release_date": "1981-03-18",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "crime"
+      ]
     },
     {
       "id": 61599,
@@ -828,7 +1497,12 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 7.177,
-      "release_date": "2014-12-07"
+      "release_date": "2014-12-07",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 896,
@@ -840,7 +1514,28 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 7.14,
-      "release_date": "1999-04-03"
+      "release_date": "1999-04-03",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
+    },
+    {
+      "id": 66190,
+      "title": "Marvel's Cloak & Dagger",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
+      "genre": "action & adventure",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.129,
+      "release_date": "2018-06-07",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 227114,
@@ -852,7 +1547,45 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.107,
-      "release_date": "2025-08-13"
+      "release_date": "2025-08-13",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
+    },
+    {
+      "id": 225385,
+      "title": "Black Doves",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uoXtkm2P4HPPL8T3IBJ02G3hCC4.jpg",
+      "genre": "action & adventure",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.104,
+      "release_date": "2024-12-05",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "mystery"
+      ]
+    },
+    {
+      "id": 2328,
+      "title": "Power Rangers",
+      "type": "tv_series",
+      "year": 1993,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",
+      "genre": "action & adventure",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.1,
+      "release_date": "1993-08-28",
+      "genres": [
+        "action & adventure",
+        "kids",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 2303,
@@ -864,7 +1597,11 @@
       "service_id": 300,
       "service_name": "Pluto TV",
       "user_rating": 7.1,
-      "release_date": "1968-09-20"
+      "release_date": "1968-09-20",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 2985,
@@ -876,7 +1613,31 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 7.098,
-      "release_date": "2000-10-02"
+      "release_date": "2000-10-02",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 62211,
+      "title": "Monsters University",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
+      "genre": "action & adventure",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.044,
+      "release_date": "2013-06-19",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 4709,
@@ -888,7 +1649,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 6.959,
-      "release_date": "2006-10-27"
+      "release_date": "2006-10-27",
+      "genres": [
+        "action & adventure",
+        "documentary"
+      ]
     },
     {
       "id": 4615,
@@ -900,7 +1665,62 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 6.954,
-      "release_date": "1995-01-29"
+      "release_date": "1995-01-29",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 71663,
+      "title": "Black Lightning",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg",
+      "genre": "action & adventure",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.942,
+      "release_date": "2018-01-16",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 13675,
+      "title": "Frosty the Snowman",
+      "type": "movie",
+      "year": 1969,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gw7ie4W3iW8nefnZ4kuw8dgYNM2.jpg",
+      "genre": "action & adventure",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.939,
+      "release_date": "1969-12-07",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 61579,
+      "title": "Mortal Kombat: Legacy",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1qeEg8XOPWp5V4v1zlcdbnFNl7n.jpg",
+      "genre": "action & adventure",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.9,
+      "release_date": "2011-04-12",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 14666,
@@ -912,7 +1732,12 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 6.9,
-      "release_date": "2009-06-04"
+      "release_date": "2009-06-04",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 3162,
@@ -924,19 +1749,12 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 6.892,
-      "release_date": "1979-09-22"
-    },
-    {
-      "id": 202879,
-      "title": "Star Wars: Skeleton Crew",
-      "type": "tv_series",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/srQbJhLRKoAwRrNN5ga7webPHbC.jpg",
-      "genre": "action & adventure",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 6.884,
-      "release_date": "2024-12-02"
+      "release_date": "1979-09-22",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 31631,
@@ -948,7 +1766,28 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 6.877,
-      "release_date": "2010-07-13"
+      "release_date": "2010-07-13",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
+    },
+    {
+      "id": 202879,
+      "title": "Star Wars: Skeleton Crew",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/srQbJhLRKoAwRrNN5ga7webPHbC.jpg",
+      "genre": "action & adventure",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 6.876,
+      "release_date": "2024-12-02",
+      "genres": [
+        "action & adventure",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 60802,
@@ -960,7 +1799,28 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 6.836,
-      "release_date": "2014-06-22"
+      "release_date": "2014-06-22",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 195868,
+      "title": "Gotham Knights",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5riy7SdIhMhhYcDqeEOICVvXEHS.jpg",
+      "genre": "action & adventure",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.828,
+      "release_date": "2023-03-14",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 137437,
@@ -972,7 +1832,26 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 6.811,
-      "release_date": "2022-12-14"
+      "release_date": "2022-12-14",
+      "genres": [
+        "action & adventure"
+      ]
+    },
+    {
+      "id": 64555,
+      "title": "Frontier",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mhIeCeYgG4WJHNzaw2EyRpvmGX8.jpg",
+      "genre": "action & adventure",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.81,
+      "release_date": "2016-11-06",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 247662,
@@ -984,7 +1863,27 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 6.804,
-      "release_date": "2025-09-24"
+      "release_date": "2025-09-24",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
+    },
+    {
+      "id": 2046,
+      "title": "Alias",
+      "type": "tv_series",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
+      "genre": "action & adventure",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 6.8,
+      "release_date": "2001-09-30",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 5885,
@@ -996,7 +1895,13 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 6.742,
-      "release_date": "2008-03-23"
+      "release_date": "2008-03-23",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 31991,
@@ -1008,7 +1913,11 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 6.7,
-      "release_date": "2010-02-23"
+      "release_date": "2010-02-23",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 474,
@@ -1020,7 +1929,11 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 6.7,
-      "release_date": "1996-03-29"
+      "release_date": "1996-03-29",
+      "genres": [
+        "action & adventure",
+        "drama"
+      ]
     },
     {
       "id": 600,
@@ -1032,7 +1945,12 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 6.7,
-      "release_date": "1992-09-19"
+      "release_date": "1992-09-19",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 3382,
@@ -1044,7 +1962,95 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 6.698,
-      "release_date": "1976-09-22"
+      "release_date": "1976-09-22",
+      "genres": [
+        "action & adventure"
+      ]
+    },
+    {
+      "id": 88987,
+      "title": "Helstrom",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5QmcKsepYpO9XYsWNLwsiULoaAu.jpg",
+      "genre": "action & adventure",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.667,
+      "release_date": "2020-10-16",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 12584,
+      "title": "Tin Man",
+      "type": "tv_series",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9skg8ZHkiYVTJ4AbGaivfv45G6y.jpg",
+      "genre": "action & adventure",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.655,
+      "release_date": "2007-12-02",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 221300,
+      "title": "FUBAR",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6fM34tcGFp3A0csyxJJomknZB4b.jpg",
+      "genre": "action & adventure",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.638,
+      "release_date": "2023-05-25",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "drama"
+      ]
+    },
+    {
+      "id": 118642,
+      "title": "Mr. & Mrs. Smith",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg",
+      "genre": "action & adventure",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.547,
+      "release_date": "2024-02-01",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "drama"
+      ]
+    },
+    {
+      "id": 62127,
+      "title": "Marvel's Iron Fist",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
+      "genre": "action & adventure",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 6.521,
+      "release_date": "2017-03-17",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 68006,
@@ -1056,7 +2062,13 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 6.511,
-      "release_date": "2017-02-27"
+      "release_date": "2017-02-27",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 239770,
@@ -1067,8 +2079,13 @@
       "genre": "action & adventure",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 6.426,
-      "release_date": "2024-05-11"
+      "user_rating": 6.432,
+      "release_date": "2024-05-11",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 47054,
@@ -1080,7 +2097,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 6.379,
-      "release_date": "2013-09-28"
+      "release_date": "2013-09-28",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 117830,
@@ -1091,8 +2112,43 @@
       "genre": "action & adventure",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 6.295,
-      "release_date": "2024-10-10"
+      "user_rating": 6.286,
+      "release_date": "2024-10-10",
+      "genres": [
+        "action & adventure",
+        "animation"
+      ]
+    },
+    {
+      "id": 1649,
+      "title": "Bill & Ted's Bogus Journey",
+      "type": "movie",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+      "genre": "action & adventure",
+      "service_id": 613,
+      "service_name": "Freevee",
+      "user_rating": 6.285,
+      "release_date": "1991-07-19",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 19699,
+      "title": "King Solomon's Mines",
+      "type": "tv_series",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hZWMm5Gh6KeWmPbp59Mz9yJMOhR.jpg",
+      "genre": "action & adventure",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.2,
+      "release_date": "2004-06-13",
+      "genres": [
+        "action & adventure"
+      ]
     },
     {
       "id": 79,
@@ -1104,7 +2160,13 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 6.2,
-      "release_date": "2000-08-14"
+      "release_date": "2000-08-14",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "family",
+        "kids"
+      ]
     },
     {
       "id": 4386,
@@ -1115,8 +2177,13 @@
       "genre": "action & adventure",
       "service_id": 73,
       "service_name": "Tubi",
-      "user_rating": 5.956,
-      "release_date": "1989-04-23"
+      "user_rating": 5.963,
+      "release_date": "1989-04-23",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 255661,
@@ -1128,7 +2195,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 0.0,
-      "release_date": "2026-03-04"
+      "release_date": "2026-03-04",
+      "genres": [
+        "action & adventure",
+        "mystery"
+      ]
     },
     {
       "id": 307482,
@@ -1140,7 +2211,10 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2025-12-18"
+      "release_date": "2025-12-18",
+      "genres": [
+        "action & adventure"
+      ]
     },
     {
       "id": 285831,
@@ -1152,7 +2226,13 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2025-12-17"
+      "release_date": "2025-12-17",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "genre": "talk",
-  "updated_at": 1766207314766,
+  "updated_at": 1766212590429,
   "shows": [
     {
       "id": 60694,
@@ -12,7 +12,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.815,
-      "release_date": "2014-04-27"
+      "release_date": "2014-04-27",
+      "genres": [
+        "comedy",
+        "news",
+        "talk"
+      ]
     },
     {
       "id": 32415,
@@ -24,7 +29,44 @@
       "service_id": 207,
       "service_name": "The Roku Channel",
       "user_rating": 7.111,
-      "release_date": "2010-11-08"
+      "release_date": "2010-11-08",
+      "genres": [
+        "comedy",
+        "news",
+        "talk"
+      ]
+    },
+    {
+      "id": 1489,
+      "title": "Jimmy Kimmel Live!",
+      "type": "tv_series",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+      "genre": "talk",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 5.5,
+      "release_date": "2003-01-26",
+      "genres": [
+        "comedy",
+        "talk"
+      ]
+    },
+    {
+      "id": 61818,
+      "title": "Late Night with Seth Meyers",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jm95V8XjfvqmEhw0MN09wbg9Mi3.jpg",
+      "genre": "talk",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 5.3,
+      "release_date": "2014-02-25",
+      "genres": [
+        "comedy",
+        "talk"
+      ]
     }
   ]
 }

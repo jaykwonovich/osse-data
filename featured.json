@@ -1,5 +1,5 @@
 {
-  "updated_at": 1766207314738,
+  "updated_at": 1766212590353,
   "shows": [
     {
       "id": 302679,
@@ -11,7 +11,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 10.0,
-      "release_date": "2025-11-04"
+      "release_date": "2025-11-04",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 300719,
@@ -23,7 +27,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 10.0,
-      "release_date": "2025-09-27"
+      "release_date": "2025-09-27",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 298819,
@@ -35,7 +43,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 10.0,
-      "release_date": "2025-09-05"
+      "release_date": "2025-09-05",
+      "genres": [
+        "reality",
+        "talk"
+      ]
     },
     {
       "id": 296303,
@@ -47,7 +59,10 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 10.0,
-      "release_date": "2025-08-26"
+      "release_date": "2025-08-26",
+      "genres": [
+        "reality"
+      ]
     },
     {
       "id": 297266,
@@ -59,7 +74,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 10.0,
-      "release_date": "2025-08-19"
+      "release_date": "2025-08-19",
+      "genres": [
+        "reality",
+        "talk"
+      ]
     },
     {
       "id": 294300,
@@ -71,7 +90,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 10.0,
-      "release_date": "2025-07-17"
+      "release_date": "2025-07-17",
+      "genres": [
+        "reality"
+      ]
     },
     {
       "id": 237015,
@@ -83,7 +105,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 9.4,
-      "release_date": "2025-08-18"
+      "release_date": "2025-08-18",
+      "genres": [
+        "animation",
+        "comedy"
+      ]
     },
     {
       "id": 294679,
@@ -95,7 +121,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 9.3,
-      "release_date": "2025-07-06"
+      "release_date": "2025-07-06",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 225091,
@@ -107,7 +136,10 @@
       "service_id": 531,
       "service_name": "Paramount+",
       "user_rating": 9.2,
-      "release_date": "2023-05-02"
+      "release_date": "2023-05-02",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 245026,
@@ -119,7 +151,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 9.003,
-      "release_date": "2024-10-29"
+      "release_date": "2024-10-29",
+      "genres": [
+        "comedy",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 296423,
@@ -131,7 +168,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 9.0,
-      "release_date": "2025-08-02"
+      "release_date": "2025-08-02",
+      "genres": [
+        "documentary",
+        "mystery"
+      ]
     },
     {
       "id": 285001,
@@ -143,19 +184,10 @@
       "service_id": 531,
       "service_name": "Paramount+",
       "user_rating": 9.0,
-      "release_date": "2024-08-19"
-    },
-    {
-      "id": 1396,
-      "title": "Breaking Bad",
-      "type": "tv_series",
-      "year": 2008,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-      "genre": "drama",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.936,
-      "release_date": "2008-01-20"
+      "release_date": "2024-08-19",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 301147,
@@ -167,7 +199,27 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.9,
-      "release_date": "2025-10-01"
+      "release_date": "2025-10-01",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
+    },
+    {
+      "id": 1396,
+      "title": "Breaking Bad",
+      "type": "tv_series",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "genre": "drama",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.9,
+      "release_date": "2008-01-20",
+      "genres": [
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 1130276,
@@ -178,8 +230,11 @@
       "genre": "drama",
       "service_id": 73,
       "service_name": "Tubi",
-      "user_rating": 8.89,
-      "release_date": "2024-10-06"
+      "user_rating": 8.886,
+      "release_date": "2024-10-06",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 299236,
@@ -191,7 +246,12 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.8,
-      "release_date": "2025-10-02"
+      "release_date": "2025-10-02",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 233264,
@@ -203,7 +263,10 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.8,
-      "release_date": "2025-09-24"
+      "release_date": "2025-09-24",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 287967,
@@ -215,7 +278,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.8,
-      "release_date": "2025-07-18"
+      "release_date": "2025-07-18",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 294219,
@@ -227,7 +293,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.8,
-      "release_date": "2025-07-14"
+      "release_date": "2025-07-14",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 293088,
@@ -239,7 +309,10 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.8,
-      "release_date": "2025-07-13"
+      "release_date": "2025-07-13",
+      "genres": [
+        "reality"
+      ]
     },
     {
       "id": 94605,
@@ -250,8 +323,12 @@
       "genre": "animation",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.753,
-      "release_date": "2021-11-06"
+      "user_rating": 8.8,
+      "release_date": "2021-11-06",
+      "genres": [
+        "action & adventure",
+        "animation"
+      ]
     },
     {
       "id": 246,
@@ -262,8 +339,13 @@
       "genre": "animation",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.752,
-      "release_date": "2005-02-21"
+      "user_rating": 8.8,
+      "release_date": "2005-02-21",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 275724,
@@ -274,20 +356,51 @@
       "genre": "comedy",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.714,
-      "release_date": "2025-07-10"
+      "user_rating": 8.7,
+      "release_date": "2025-07-10",
+      "genres": [
+        "comedy",
+        "drama",
+        "family"
+      ]
     },
     {
-      "id": 250307,
-      "title": "The Pitt",
+      "id": 131378,
+      "title": "Adventure Time: Fionna & Cake",
       "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
-      "genre": "drama",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
+      "genre": "animation",
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.7,
-      "release_date": "2025-01-09"
+      "release_date": "2023-08-31",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 92685,
+      "title": "The Owl House",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zqjSex7DZn7p4dU7mMktdJ8zQV5.jpg",
+      "genre": "animation",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 8.7,
+      "release_date": "2020-01-10",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "drama",
+        "kids",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 60059,
@@ -298,8 +411,12 @@
       "genre": "crime",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.699,
-      "release_date": "2015-02-08"
+      "user_rating": 8.7,
+      "release_date": "2015-02-08",
+      "genres": [
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 87108,
@@ -311,7 +428,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.693,
-      "release_date": "2019-05-06"
+      "release_date": "2019-05-06",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 85077,
@@ -322,8 +442,13 @@
       "genre": "drama",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 8.688,
-      "release_date": "2019-04-21"
+      "user_rating": 8.69,
+      "release_date": "2019-04-21",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "family"
+      ]
     },
     {
       "id": 60625,
@@ -335,31 +460,28 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.683,
-      "release_date": "2013-12-02"
+      "release_date": "2013-12-02",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
+      ]
     },
     {
-      "id": 131378,
-      "title": "Adventure Time: Fionna & Cake",
+      "id": 250307,
+      "title": "The Pitt",
       "type": "tv_series",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
-      "genre": "animation",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
+      "genre": "drama",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.674,
-      "release_date": "2023-08-31"
-    },
-    {
-      "id": 92685,
-      "title": "The Owl House",
-      "type": "tv_series",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zqjSex7DZn7p4dU7mMktdJ8zQV5.jpg",
-      "genre": "animation",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 8.66,
-      "release_date": "2020-01-10"
+      "user_rating": 8.668,
+      "release_date": "2025-01-09",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 70785,
@@ -371,7 +493,27 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.655,
-      "release_date": "2017-03-19"
+      "release_date": "2017-03-19",
+      "genres": [
+        "drama",
+        "family"
+      ]
+    },
+    {
+      "id": 1398,
+      "title": "The Sopranos",
+      "type": "tv_series",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+      "genre": "crime",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.646,
+      "release_date": "1999-01-10",
+      "genres": [
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 1022256,
@@ -383,7 +525,10 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.639,
-      "release_date": "2022-11-04"
+      "release_date": "2022-11-04",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 94954,
@@ -394,20 +539,14 @@
       "genre": "animation",
       "service_id": 613,
       "service_name": "Freevee",
-      "user_rating": 8.63,
-      "release_date": "2024-01-18"
-    },
-    {
-      "id": 31132,
-      "title": "Regular Show",
-      "type": "tv_series",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
-      "genre": "animation",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 8.628,
-      "release_date": "2010-09-06"
+      "user_rating": 8.632,
+      "release_date": "2024-01-18",
+      "genres": [
+        "animation",
+        "comedy",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 3498,
@@ -419,7 +558,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.628,
-      "release_date": "2007-10-12"
+      "release_date": "2007-10-12",
+      "genres": [
+        "comedy",
+        "kids",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 95557,
@@ -431,7 +575,13 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 8.621,
-      "release_date": "2021-03-25"
+      "release_date": "2021-03-25",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 89456,
@@ -443,7 +593,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.621,
-      "release_date": "2019-10-08"
+      "release_date": "2019-10-08",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "drama"
+      ]
     },
     {
       "id": 68595,
@@ -454,20 +609,12 @@
       "genre": "documentary",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.616,
-      "release_date": "2016-11-06"
-    },
-    {
-      "id": 1438,
-      "title": "The Wire",
-      "type": "tv_series",
-      "year": 2002,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
-      "genre": "crime",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.608,
-      "release_date": "2002-06-02"
+      "user_rating": 8.617,
+      "release_date": "2016-11-06",
+      "genres": [
+        "documentary",
+        "family"
+      ]
     },
     {
       "id": 40075,
@@ -478,8 +625,17 @@
       "genre": "animation",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.602,
-      "release_date": "2012-06-15"
+      "user_rating": 8.601,
+      "release_date": "2012-06-15",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family",
+        "kids",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 299395,
@@ -491,7 +647,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.6,
-      "release_date": "2025-09-25"
+      "release_date": "2025-09-25",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 97186,
@@ -503,19 +663,44 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.6,
-      "release_date": "2020-06-17"
+      "release_date": "2020-06-17",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
-      "id": 82728,
-      "title": "Bluey",
+      "id": 44931,
+      "title": "Superbook",
       "type": "tv_series",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
       "genre": "animation",
-      "service_id": 337,
-      "service_name": "Disney+",
+      "service_id": 9,
+      "service_name": "Prime Video",
       "user_rating": 8.6,
-      "release_date": "2018-10-01"
+      "release_date": "2011-09-01",
+      "genres": [
+        "animation",
+        "family",
+        "kids"
+      ]
+    },
+    {
+      "id": 31132,
+      "title": "Regular Show",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/88dAGv0ywrLJKCynkH226dBwe0i.jpg",
+      "genre": "animation",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.6,
+      "release_date": "2010-09-06",
+      "genres": [
+        "animation",
+        "comedy"
+      ]
     },
     {
       "id": 1044,
@@ -527,19 +712,26 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.6,
-      "release_date": "2006-03-05"
+      "release_date": "2006-03-05",
+      "genres": [
+        "documentary"
+      ]
     },
     {
-      "id": 1398,
-      "title": "The Sopranos",
+      "id": 1438,
+      "title": "The Wire",
       "type": "tv_series",
-      "year": 1999,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
       "genre": "crime",
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.6,
-      "release_date": "1999-01-10"
+      "release_date": "2002-06-02",
+      "genres": [
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 66732,
@@ -551,7 +743,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.598,
-      "release_date": "2016-07-15"
+      "release_date": "2016-07-15",
+      "genres": [
+        "action & adventure",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 46896,
@@ -563,7 +760,28 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.592,
-      "release_date": "2013-10-03"
+      "release_date": "2013-10-03",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 74313,
+      "title": "Blue Planet II",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/j1NsoYYDYHnPkRr7Enqr8tlexgO.jpg",
+      "genre": "documentary",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.589,
+      "release_date": "2017-10-29",
+      "genres": [
+        "documentary",
+        "family"
+      ]
     },
     {
       "id": 2316,
@@ -575,7 +793,26 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.589,
-      "release_date": "2005-03-24"
+      "release_date": "2005-03-24",
+      "genres": [
+        "comedy"
+      ]
+    },
+    {
+      "id": 4613,
+      "title": "Band of Brothers",
+      "type": "tv_series",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8JMXquNmdMUy2n2RgW8gfOM0O3l.jpg",
+      "genre": "drama",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.583,
+      "release_date": "2001-09-09",
+      "genres": [
+        "drama",
+        "war & politics"
+      ]
     },
     {
       "id": 1408,
@@ -587,19 +824,63 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.582,
-      "release_date": "2004-11-16"
+      "release_date": "2004-11-16",
+      "genres": [
+        "comedy",
+        "drama",
+        "mystery"
+      ]
     },
     {
-      "id": 4613,
-      "title": "Band of Brothers",
+      "id": 82728,
+      "title": "Bluey",
       "type": "tv_series",
-      "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8JMXquNmdMUy2n2RgW8gfOM0O3l.jpg",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+      "genre": "animation",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 8.579,
+      "release_date": "2018-10-01",
+      "genres": [
+        "animation",
+        "comedy",
+        "kids"
+      ]
+    },
+    {
+      "id": 124834,
+      "title": "Heartstopper",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wJJt1HG62h3WoGnLcRIbO2nNNkg.jpg",
       "genre": "drama",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.582,
-      "release_date": "2001-09-09"
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.571,
+      "release_date": "2022-04-22",
+      "genres": [
+        "drama"
+      ]
+    },
+    {
+      "id": 61617,
+      "title": "Over the Garden Wall",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg",
+      "genre": "mystery",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.562,
+      "release_date": "2014-11-03",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 2098,
@@ -611,7 +892,13 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.557,
-      "release_date": "1992-09-05"
+      "release_date": "1992-09-05",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 389,
@@ -623,31 +910,10 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 8.548,
-      "release_date": "1957-04-10"
-    },
-    {
-      "id": 61222,
-      "title": "BoJack Horseman",
-      "type": "tv_series",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
-      "genre": "animation",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.546,
-      "release_date": "2014-08-22"
-    },
-    {
-      "id": 37606,
-      "title": "The Amazing World of Gumball",
-      "type": "tv_series",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
-      "genre": "animation",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 8.545,
-      "release_date": "2011-05-03"
+      "release_date": "1957-04-10",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 138502,
@@ -659,7 +925,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.541,
-      "release_date": "2024-03-20"
+      "release_date": "2024-03-20",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 60574,
@@ -671,7 +942,43 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.527,
-      "release_date": "2013-09-12"
+      "release_date": "2013-09-12",
+      "genres": [
+        "crime",
+        "drama"
+      ]
+    },
+    {
+      "id": 155,
+      "title": "The Dark Knight",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "genre": "drama",
+      "service_id": 73,
+      "service_name": "Tubi",
+      "user_rating": 8.524,
+      "release_date": "2008-07-16",
+      "genres": [
+        "crime",
+        "drama"
+      ]
+    },
+    {
+      "id": 89901,
+      "title": "Dickinson",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg",
+      "genre": "comedy",
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 8.521,
+      "release_date": "2019-11-01",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 19885,
@@ -682,8 +989,29 @@
       "genre": "crime",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 8.518,
-      "release_date": "2010-07-25"
+      "user_rating": 8.517,
+      "release_date": "2010-07-25",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ]
+    },
+    {
+      "id": 83880,
+      "title": "Our Planet",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wRSnArnQBmeUYb5GWDU595bGsBr.jpg",
+      "genre": "documentary",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.514,
+      "release_date": "2019-04-05",
+      "genres": [
+        "documentary",
+        "family"
+      ]
     },
     {
       "id": 79744,
@@ -694,8 +1022,13 @@
       "genre": "crime",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 8.514,
-      "release_date": "2018-10-16"
+      "user_rating": 8.513,
+      "release_date": "2018-10-16",
+      "genres": [
+        "comedy",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 497,
@@ -707,19 +1040,26 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.503,
-      "release_date": "1999-12-10"
+      "release_date": "1999-12-10",
+      "genres": [
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 302919,
       "title": "The End of an Era",
       "type": "tv_series",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2krDRnB4wabh4odG3mTEL4U0ybB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8qEyRXQMC3L77fjY924qcoxaaVs.jpg",
       "genre": "documentary",
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.5,
-      "release_date": "2025-12-12"
+      "release_date": "2025-12-12",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 302854,
@@ -731,7 +1071,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.5,
-      "release_date": "2025-10-31"
+      "release_date": "2025-10-31",
+      "genres": [
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 256748,
@@ -743,7 +1087,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.5,
-      "release_date": "2025-10-19"
+      "release_date": "2025-10-19",
+      "genres": [
+        "animation",
+        "comedy"
+      ]
     },
     {
       "id": 291904,
@@ -755,7 +1103,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.5,
-      "release_date": "2025-10-06"
+      "release_date": "2025-10-06",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 294019,
@@ -767,7 +1120,10 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.5,
-      "release_date": "2025-06-23"
+      "release_date": "2025-06-23",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 271918,
@@ -779,19 +1135,60 @@
       "service_id": 365,
       "service_name": "MGM+",
       "user_rating": 8.5,
-      "release_date": "2024-12-04"
+      "release_date": "2024-12-04",
+      "genres": [
+        "reality"
+      ]
     },
     {
-      "id": 89901,
-      "title": "Dickinson",
+      "id": 204154,
+      "title": "Scavengers Reign",
       "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg",
-      "genre": "comedy",
-      "service_id": 350,
-      "service_name": "Apple TV+",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bFlVZV8TQbs8hcIY7PVYonYFMgK.jpg",
+      "genre": "sci-fi & fantasy",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 8.5,
-      "release_date": "2019-11-01"
+      "release_date": "2023-10-19",
+      "genres": [
+        "animation",
+        "drama",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 117648,
+      "title": "Clarkson's Farm",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg",
+      "genre": "reality",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.5,
+      "release_date": "2021-06-11",
+      "genres": [
+        "comedy",
+        "reality"
+      ]
+    },
+    {
+      "id": 126506,
+      "title": "Smiling Friends",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
+      "genre": "animation",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.5,
+      "release_date": "2020-04-01",
+      "genres": [
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 85349,
@@ -803,7 +1200,15 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.5,
-      "release_date": "2019-06-17"
+      "release_date": "2019-06-17",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family",
+        "kids",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 75006,
@@ -815,19 +1220,46 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.5,
-      "release_date": "2019-02-15"
+      "release_date": "2019-02-15",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
-      "id": 71712,
-      "title": "The Good Doctor",
+      "id": 79732,
+      "title": "She-Ra and the Princesses of Power",
       "type": "tv_series",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/luhKkdD80qe62fwop6sdrXK9jUT.jpg",
-      "genre": "drama",
-      "service_id": 15,
-      "service_name": "Hulu",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg",
+      "genre": "animation",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 8.5,
-      "release_date": "2017-09-25"
+      "release_date": "2018-11-13",
+      "genres": [
+        "animation",
+        "kids",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 61222,
+      "title": "BoJack Horseman",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+      "genre": "animation",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.5,
+      "release_date": "2014-08-22",
+      "genres": [
+        "animation",
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 58474,
@@ -839,7 +1271,28 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 8.5,
-      "release_date": "2014-03-09"
+      "release_date": "2014-03-09",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 37606,
+      "title": "The Amazing World of Gumball",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
+      "genre": "animation",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.5,
+      "release_date": "2011-05-03",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 15260,
@@ -851,19 +1304,29 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.5,
-      "release_date": "2010-04-05"
+      "release_date": "2010-04-05",
+      "genres": [
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
+      ]
     },
     {
-      "id": 155,
-      "title": "The Dark Knight",
-      "type": "movie",
-      "year": 2008,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-      "genre": "drama",
+      "id": 6357,
+      "title": "The Twilight Zone",
+      "type": "tv_series",
+      "year": 1959,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg",
+      "genre": "sci-fi & fantasy",
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 8.5,
-      "release_date": "2008-07-16"
+      "release_date": "1959-10-02",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 107113,
@@ -874,8 +1337,29 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 8.498,
-      "release_date": "2021-08-31"
+      "user_rating": 8.497,
+      "release_date": "2021-08-31",
+      "genres": [
+        "comedy",
+        "crime",
+        "mystery"
+      ]
+    },
+    {
+      "id": 225180,
+      "title": "BLUE EYE SAMURAI",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fXm3JT4WLQVnwukdvghtAblc1wc.jpg",
+      "genre": "action & adventure",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.492,
+      "release_date": "2023-11-03",
+      "genres": [
+        "action & adventure",
+        "animation"
+      ]
     },
     {
       "id": 122,
@@ -887,19 +1371,25 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.491,
-      "release_date": "2003-12-17"
+      "release_date": "2003-12-17",
+      "genres": [
+        "drama"
+      ]
     },
     {
-      "id": 126506,
-      "title": "Smiling Friends",
+      "id": 154521,
+      "title": "The Kardashians",
       "type": "tv_series",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
-      "genre": "animation",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.488,
-      "release_date": "2020-04-01"
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pLeSPrwEmxwaV1vqzdVfAgnUvXc.jpg",
+      "genre": "reality",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.489,
+      "release_date": "2022-04-14",
+      "genres": [
+        "reality"
+      ]
     },
     {
       "id": 680,
@@ -911,7 +1401,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.487,
-      "release_date": "1994-09-10"
+      "release_date": "1994-09-10",
+      "genres": [
+        "comedy",
+        "crime"
+      ]
     },
     {
       "id": 2004,
@@ -922,20 +1416,26 @@
       "genre": "comedy",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.469,
-      "release_date": "2000-01-09"
+      "user_rating": 8.468,
+      "release_date": "2000-01-09",
+      "genres": [
+        "comedy"
+      ]
     },
     {
-      "id": 6357,
-      "title": "The Twilight Zone",
+      "id": 71712,
+      "title": "The Good Doctor",
       "type": "tv_series",
-      "year": 1959,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg",
-      "genre": "sci-fi & fantasy",
-      "service_id": 73,
-      "service_name": "Tubi",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/luhKkdD80qe62fwop6sdrXK9jUT.jpg",
+      "genre": "drama",
+      "service_id": 15,
+      "service_name": "Hulu",
       "user_rating": 8.466,
-      "release_date": "1959-10-02"
+      "release_date": "2017-09-25",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 100088,
@@ -947,7 +1447,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.463,
-      "release_date": "2023-01-15"
+      "release_date": "2023-01-15",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 13,
@@ -959,7 +1462,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.462,
-      "release_date": "1994-06-23"
+      "release_date": "1994-06-23",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 34524,
@@ -971,7 +1478,12 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 8.461,
-      "release_date": "2011-06-05"
+      "release_date": "2011-06-05",
+      "genres": [
+        "comedy",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 4194,
@@ -983,7 +1495,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.461,
-      "release_date": "2008-10-03"
+      "release_date": "2008-10-03",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1399,
@@ -995,7 +1512,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.46,
-      "release_date": "2011-04-17"
+      "release_date": "2011-04-17",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 126308,
@@ -1007,7 +1529,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.45,
-      "release_date": "2024-02-27"
+      "release_date": "2024-02-27",
+      "genres": [
+        "drama",
+        "war & politics"
+      ]
     },
     {
       "id": 87739,
@@ -1018,8 +1544,11 @@
       "genre": "drama",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.45,
-      "release_date": "2020-10-23"
+      "user_rating": 8.449,
+      "release_date": "2020-10-23",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 76479,
@@ -1031,7 +1560,30 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 8.446,
-      "release_date": "2019-07-25"
+      "release_date": "2019-07-25",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 68267,
+      "title": "Trollhunters: Tales of Arcadia",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg",
+      "genre": "family",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.446,
+      "release_date": "2016-12-23",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 664280,
@@ -1043,7 +1595,26 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.443,
-      "release_date": "2020-09-28"
+      "release_date": "2020-09-28",
+      "genres": [
+        "documentary",
+        "drama"
+      ]
+    },
+    {
+      "id": 301507,
+      "title": "Heated Rivalry",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/epgr7n61vVIniyAghz2GYj22DkC.jpg",
+      "genre": "drama",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.442,
+      "release_date": "2025-11-28",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 63174,
@@ -1055,151 +1626,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.438,
-      "release_date": "2016-01-25"
-    },
-    {
-      "id": 79460,
-      "title": "Legacies",
-      "type": "tv_series",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
-      "genre": "sci-fi & fantasy",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.43,
-      "release_date": "2018-10-25"
-    },
-    {
-      "id": 2723,
-      "title": "Samurai Jack",
-      "type": "tv_series",
-      "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ddZ7Q2WZ0xAHkVXYvcEgNGFgVkw.jpg",
-      "genre": "sci-fi & fantasy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.428,
-      "release_date": "2001-08-10"
-    },
-    {
-      "id": 120,
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "type": "movie",
-      "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
-      "genre": "drama",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.426,
-      "release_date": "2001-12-18"
-    },
-    {
-      "id": 1668,
-      "title": "Friends",
-      "type": "tv_series",
-      "year": 1994,
-      "poster_url": "https://image.tmdb.org/t/p/w342/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
-      "genre": "comedy",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.422,
-      "release_date": "1994-09-22"
-    },
-    {
-      "id": 69050,
-      "title": "Riverdale",
-      "type": "tv_series",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
-      "genre": "crime",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.419,
-      "release_date": "2017-01-26"
-    },
-    {
-      "id": 1409,
-      "title": "Sons of Anarchy",
-      "type": "tv_series",
-      "year": 2008,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kiy8BHtIHAslh81rvFcZ4wbNGdY.jpg",
-      "genre": "crime",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 8.418,
-      "release_date": "2008-09-03"
-    },
-    {
-      "id": 82856,
-      "title": "The Mandalorian",
-      "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
-      "genre": "sci-fi & fantasy",
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 8.416,
-      "release_date": "2019-11-12"
-    },
-    {
-      "id": 58841,
-      "title": "Chicago P.D.",
-      "type": "tv_series",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
-      "genre": "crime",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 8.412,
-      "release_date": "2014-01-08"
-    },
-    {
-      "id": 44006,
-      "title": "Chicago Fire",
-      "type": "tv_series",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
-      "genre": "drama",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 8.401,
-      "release_date": "2012-10-10"
-    },
-    {
-      "id": 301507,
-      "title": "Heated Rivalry",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/epgr7n61vVIniyAghz2GYj22DkC.jpg",
-      "genre": "drama",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.4,
-      "release_date": "2025-11-28"
-    },
-    {
-      "id": 246386,
-      "title": "All Her Fault",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
-      "genre": "drama",
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 8.4,
-      "release_date": "2025-11-07"
-    },
-    {
-      "id": 293349,
-      "title": "Back to the Frontier",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/caiU6KM9fkVzOSCJrha3vI6i46U.jpg",
-      "genre": "reality",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.4,
-      "release_date": "2025-07-10"
+      "release_date": "2016-01-25",
+      "genres": [
+        "crime",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 114695,
@@ -1211,7 +1642,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.4,
-      "release_date": "2021-01-08"
+      "release_date": "2021-01-08",
+      "genres": [
+        "action & adventure",
+        "documentary",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 383498,
@@ -1223,7 +1659,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.489,
-      "release_date": "2018-05-15"
+      "release_date": "2018-05-15",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 3596,
@@ -1235,7 +1674,10 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 6.5,
-      "release_date": "1936-03-31"
+      "release_date": "1936-03-31",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 61457,
@@ -1247,7 +1689,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.312,
-      "release_date": "2014-10-06"
+      "release_date": "2014-10-06",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 95249,
@@ -1259,7 +1706,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.284,
-      "release_date": "2021-07-08"
+      "release_date": "2021-07-08",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 230935,
@@ -1271,7 +1722,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.3,
-      "release_date": "2025-07-11"
+      "release_date": "2025-07-11",
+      "genres": [
+        "action & adventure",
+        "documentary"
+      ]
     },
     {
       "id": 392216,
@@ -1283,7 +1738,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.185,
-      "release_date": "2014-07-26"
+      "release_date": "2014-07-26",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 614939,
@@ -1294,8 +1754,11 @@
       "genre": "comedy",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 6.7,
-      "release_date": "2022-09-30"
+      "user_rating": 6.662,
+      "release_date": "2022-09-30",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 5148,
@@ -1307,7 +1770,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.422,
-      "release_date": "2009-10-02"
+      "release_date": "2009-10-02",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 551,
@@ -1319,7 +1787,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.1,
-      "release_date": "1972-12-01"
+      "release_date": "1972-12-01",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 15400,
@@ -1330,8 +1801,13 @@
       "genre": "animation",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.123,
-      "release_date": "1999-10-31"
+      "user_rating": 7.1,
+      "release_date": "1999-10-31",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 202282,
@@ -1342,8 +1818,13 @@
       "genre": "animation",
       "service_id": 318,
       "service_name": "Starz",
-      "user_rating": 5.2,
-      "release_date": "2024-08-16"
+      "user_rating": 5.172,
+      "release_date": "2024-08-16",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 713776,
@@ -1355,7 +1836,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.691,
-      "release_date": "2020-03-07"
+      "release_date": "2020-03-07",
+      "genres": [
+        "animation",
+        "drama"
+      ]
     },
     {
       "id": 4656,
@@ -1367,7 +1852,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 6.8,
-      "release_date": "1993-01-11"
+      "release_date": "1993-01-11",
+      "genres": [
+        "reality"
+      ]
     },
     {
       "id": 157239,
@@ -1378,8 +1866,12 @@
       "genre": "sci-fi & fantasy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.415,
-      "release_date": "2025-08-12"
+      "user_rating": 7.41,
+      "release_date": "2025-08-12",
+      "genres": [
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 46648,
@@ -1391,7 +1883,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.283,
-      "release_date": "2014-01-12"
+      "release_date": "2014-01-12",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 778810,
@@ -1403,7 +1899,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.2,
-      "release_date": "2022-01-16"
+      "release_date": "2022-01-16",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 71738,
@@ -1415,7 +1916,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.618,
-      "release_date": "2017-09-10"
+      "release_date": "2017-09-10",
+      "genres": [
+        "comedy",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 17979,
@@ -1426,8 +1932,13 @@
       "genre": "animation",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 6.9,
-      "release_date": "2009-11-04"
+      "user_rating": 6.899,
+      "release_date": "2009-11-04",
+      "genres": [
+        "animation",
+        "drama",
+        "family"
+      ]
     },
     {
       "id": 13377,
@@ -1438,8 +1949,13 @@
       "genre": "animation",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.5,
-      "release_date": "1966-12-18"
+      "user_rating": 7.498,
+      "release_date": "1966-12-18",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 13378,
@@ -1450,8 +1966,12 @@
       "genre": "animation",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.0,
-      "release_date": "2004-11-09"
+      "user_rating": 6.997,
+      "release_date": "2004-11-09",
+      "genres": [
+        "animation",
+        "family"
+      ]
     },
     {
       "id": 585,
@@ -1463,19 +1983,28 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.847,
-      "release_date": "2001-11-01"
+      "release_date": "2001-11-01",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 527435,
       "title": "The Christmas Chronicles",
       "type": "movie",
-      "year": 2018,
+      "year": 2025,
       "poster_url": "https://image.tmdb.org/t/p/w342/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg",
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.148,
-      "release_date": "2018-11-22"
+      "user_rating": 7.308,
+      "release_date": "2025-12-10",
+      "genres": [
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 1618,
@@ -1487,7 +2016,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.188,
-      "release_date": "2001-11-17"
+      "release_date": "2001-11-17",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1622,
@@ -1498,8 +2032,13 @@
       "genre": "drama",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.301,
-      "release_date": "2005-09-13"
+      "user_rating": 8.3,
+      "release_date": "2005-09-13",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1226841,
@@ -1511,7 +2050,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2024-01-19"
+      "release_date": "2024-01-19",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 318044,
@@ -1523,7 +2065,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.4,
-      "release_date": "2015-01-22"
+      "release_date": "2015-01-22",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 319075,
@@ -1535,7 +2080,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.626,
-      "release_date": "2015-03-23"
+      "release_date": "2015-03-23",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 1639,
@@ -1546,8 +2094,12 @@
       "genre": "sci-fi & fantasy",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.457,
-      "release_date": "2006-09-25"
+      "user_rating": 7.5,
+      "release_date": "2006-09-25",
+      "genres": [
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 36970,
@@ -1559,7 +2111,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.4,
-      "release_date": "2010-01-22"
+      "release_date": "2010-01-22",
+      "genres": [
+        "documentary",
+        "family"
+      ]
     },
     {
       "id": 51817,
@@ -1570,8 +2126,15 @@
       "genre": "action & adventure",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.312,
-      "release_date": "2012-09-28"
+      "user_rating": 8.3,
+      "release_date": "2012-09-28",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "kids",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 605804,
@@ -1583,7 +2146,10 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 6.056,
-      "release_date": "2019-12-15"
+      "release_date": "2019-12-15",
+      "genres": [
+        "mystery"
+      ]
     },
     {
       "id": 33907,
@@ -1594,8 +2160,11 @@
       "genre": "drama",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 8.119,
-      "release_date": "2010-09-26"
+      "user_rating": 8.118,
+      "release_date": "2010-09-26",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 467062,
@@ -1607,7 +2176,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.572,
-      "release_date": "2017-10-05"
+      "release_date": "2017-10-05",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 645757,
@@ -1618,8 +2190,13 @@
       "genre": "animation",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.171,
-      "release_date": "2024-11-27"
+      "user_rating": 7.2,
+      "release_date": "2024-11-27",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 126,
@@ -1631,7 +2208,12 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.694,
-      "release_date": "1988-10-05"
+      "release_date": "1988-10-05",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 202879,
@@ -1642,8 +2224,13 @@
       "genre": "action & adventure",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 6.884,
-      "release_date": "2024-12-02"
+      "user_rating": 6.876,
+      "release_date": "2024-12-02",
+      "genres": [
+        "action & adventure",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 641,
@@ -1655,7 +2242,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.013,
-      "release_date": "2000-10-06"
+      "release_date": "2000-10-06",
+      "genres": [
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 1203329,
@@ -1666,8 +2257,11 @@
       "genre": "animation",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 6.849,
-      "release_date": "2025-02-10"
+      "user_rating": 6.841,
+      "release_date": "2025-02-10",
+      "genres": [
+        "animation"
+      ]
     },
     {
       "id": 666243,
@@ -1678,8 +2272,11 @@
       "genre": "animation",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.442,
-      "release_date": "2021-08-22"
+      "user_rating": 7.4,
+      "release_date": "2021-08-22",
+      "genres": [
+        "animation"
+      ]
     },
     {
       "id": 213121,
@@ -1691,7 +2288,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.188,
-      "release_date": "2013-10-16"
+      "release_date": "2013-10-16",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 32390,
@@ -1703,7 +2305,10 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 6.3,
-      "release_date": "2010-10-14"
+      "release_date": "2010-10-14",
+      "genres": [
+        "reality"
+      ]
     },
     {
       "id": 11395,
@@ -1714,8 +2319,13 @@
       "genre": "drama",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 6.5,
-      "release_date": "1994-11-11"
+      "user_rating": 6.505,
+      "release_date": "1994-11-11",
+      "genres": [
+        "comedy",
+        "drama",
+        "family"
+      ]
     },
     {
       "id": 60554,
@@ -1726,8 +2336,13 @@
       "genre": "action & adventure",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.726,
-      "release_date": "2014-10-13"
+      "user_rating": 7.727,
+      "release_date": "2014-10-13",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1678,
@@ -1739,7 +2354,10 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.6,
-      "release_date": "1985-09-14"
+      "release_date": "1985-09-14",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 63639,
@@ -1751,7 +2369,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.068,
-      "release_date": "2015-12-14"
+      "release_date": "2015-12-14",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 5273,
@@ -1763,7 +2386,12 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.768,
-      "release_date": "1955-10-02"
+      "release_date": "1955-10-02",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 8346,
@@ -1775,7 +2403,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 6.499,
-      "release_date": "2002-04-19"
+      "release_date": "2002-04-19",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 239770,
@@ -1786,8 +2418,13 @@
       "genre": "action & adventure",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 6.426,
-      "release_date": "2024-05-11"
+      "user_rating": 6.432,
+      "release_date": "2024-05-11",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 492188,
@@ -1799,7 +2436,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.732,
-      "release_date": "2019-09-28"
+      "release_date": "2019-09-28",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 92830,
@@ -1810,8 +2450,13 @@
       "genre": "sci-fi & fantasy",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.034,
-      "release_date": "2022-05-26"
+      "user_rating": 7.032,
+      "release_date": "2022-05-26",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 2719,
@@ -1823,7 +2468,10 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.923,
-      "release_date": "2000-05-12"
+      "release_date": "2000-05-12",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 506528,
@@ -1835,7 +2483,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.314,
-      "release_date": "2019-11-01"
+      "release_date": "2019-11-01",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 1696,
@@ -1847,7 +2498,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 6.746,
-      "release_date": "2005-07-22"
+      "release_date": "2005-07-22",
+      "genres": [
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 90282,
@@ -1859,7 +2514,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.74,
-      "release_date": "2019-11-01"
+      "release_date": "2019-11-01",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 438446,
@@ -1870,8 +2528,12 @@
       "genre": "crime",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.4,
-      "release_date": "2017-03-11"
+      "user_rating": 7.363,
+      "release_date": "2017-03-11",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 1712,
@@ -1883,7 +2545,12 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.924,
-      "release_date": "1964-09-24"
+      "release_date": "1964-09-24",
+      "genres": [
+        "comedy",
+        "family",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 5825,
@@ -1894,8 +2561,11 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.2,
-      "release_date": "1989-11-30"
+      "user_rating": 7.239,
+      "release_date": "1989-11-30",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 10437,
@@ -1906,8 +2576,13 @@
       "genre": "comedy",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.425,
-      "release_date": "1992-12-11"
+      "user_rating": 7.423,
+      "release_date": "1992-12-11",
+      "genres": [
+        "comedy",
+        "drama",
+        "family"
+      ]
     },
     {
       "id": 80585,
@@ -1918,8 +2593,12 @@
       "genre": "comedy",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 6.188,
-      "release_date": "2012-06-13"
+      "user_rating": 6.185,
+      "release_date": "2012-06-13",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 5835,
@@ -1930,8 +2609,14 @@
       "genre": "sci-fi & fantasy",
       "service_id": 73,
       "service_name": "Tubi",
-      "user_rating": 7.917,
-      "release_date": "1995-10-27"
+      "user_rating": 7.9,
+      "release_date": "1995-10-27",
+      "genres": [
+        "comedy",
+        "kids",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 83659,
@@ -1942,20 +2627,30 @@
       "genre": "drama",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.479,
-      "release_date": "2022-10-25"
+      "user_rating": 7.478,
+      "release_date": "2022-10-25",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 744653,
       "title": "The Thursday Murder Club",
       "type": "movie",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/u0o7XtI0WWdLzlK9hVT8lQTB6Yd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg",
       "genre": "comedy",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 6.639,
-      "release_date": "2025-08-22"
+      "user_rating": 6.641,
+      "release_date": "2025-08-22",
+      "genres": [
+        "comedy",
+        "crime",
+        "mystery"
+      ]
     },
     {
       "id": 442062,
@@ -1967,7 +2662,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 6.107,
-      "release_date": "2018-10-11"
+      "release_date": "2018-10-11",
+      "genres": [
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 654028,
@@ -1978,8 +2677,12 @@
       "genre": "family",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 6.488,
-      "release_date": "2020-11-18"
+      "user_rating": 6.5,
+      "release_date": "2020-11-18",
+      "genres": [
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 251091,
@@ -1990,8 +2693,13 @@
       "genre": "animation",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.406,
-      "release_date": "2024-05-04"
+      "user_rating": 7.409,
+      "release_date": "2024-05-04",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 597208,
@@ -2003,7 +2711,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 6.965,
-      "release_date": "2021-12-02"
+      "release_date": "2021-12-02",
+      "genres": [
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 355547,
@@ -2015,7 +2727,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 6.405,
-      "release_date": "2017-11-15"
+      "release_date": "2017-11-15",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 499932,
@@ -2027,7 +2744,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.191,
-      "release_date": "2020-09-11"
+      "release_date": "2020-09-11",
+      "genres": [
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 820446,
@@ -2038,8 +2759,11 @@
       "genre": "drama",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.21,
-      "release_date": "2022-04-27"
+      "user_rating": 7.208,
+      "release_date": "2022-04-27",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 91363,
@@ -2050,8 +2774,13 @@
       "genre": "animation",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.076,
-      "release_date": "2021-08-11"
+      "user_rating": 8.075,
+      "release_date": "2021-08-11",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 293603,
@@ -2062,8 +2791,11 @@
       "genre": "reality",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.5,
-      "release_date": "2025-07-09"
+      "user_rating": 7.333,
+      "release_date": "2025-07-09",
+      "genres": [
+        "reality"
+      ]
     },
     {
       "id": 446696,
@@ -2075,7 +2807,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.2,
-      "release_date": "2018-09-21"
+      "release_date": "2018-09-21",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 33001,
@@ -2087,7 +2822,12 @@
       "service_id": 207,
       "service_name": "The Roku Channel",
       "user_rating": 7.537,
-      "release_date": "2010-07-09"
+      "release_date": "2010-07-09",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 84200,
@@ -2099,7 +2839,13 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.27,
-      "release_date": "2004-07-31"
+      "release_date": "2004-07-31",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "kids",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 639720,
@@ -2110,8 +2856,12 @@
       "genre": "comedy",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.0,
-      "release_date": "2024-05-08"
+      "user_rating": 7.013,
+      "release_date": "2024-05-08",
+      "genres": [
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 114924,
@@ -2123,7 +2873,12 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 6.148,
-      "release_date": "2024-07-23"
+      "release_date": "2024-07-23",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 239,
@@ -2135,7 +2890,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.1,
-      "release_date": "1959-03-19"
+      "release_date": "1959-03-19",
+      "genres": [
+        "comedy",
+        "crime"
+      ]
     },
     {
       "id": 615665,
@@ -2147,7 +2906,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 6.985,
-      "release_date": "2020-10-27"
+      "release_date": "2020-10-27",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 756,
@@ -2158,8 +2920,12 @@
       "genre": "animation",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.344,
-      "release_date": "1940-11-13"
+      "user_rating": 7.345,
+      "release_date": "1940-11-13",
+      "genres": [
+        "animation",
+        "family"
+      ]
     },
     {
       "id": 79093,
@@ -2171,7 +2937,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 6.2,
-      "release_date": "2018-10-07"
+      "release_date": "2018-10-07",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 251,
@@ -2183,7 +2954,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.226,
-      "release_date": "1990-07-13"
+      "release_date": "1990-07-13",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 653567,
@@ -2195,7 +2970,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.844,
-      "release_date": "2020-01-31"
+      "release_date": "2020-01-31",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 138501,
@@ -2206,8 +2984,12 @@
       "genre": "sci-fi & fantasy",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.5,
-      "release_date": "2024-09-18"
+      "user_rating": 7.488,
+      "release_date": "2024-09-18",
+      "genres": [
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 255752,
@@ -2219,7 +3001,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.044,
-      "release_date": "2025-09-19"
+      "release_date": "2025-09-19",
+      "genres": [
+        "animation",
+        "comedy"
+      ]
     },
     {
       "id": 79113,
@@ -2231,7 +3017,12 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.0,
-      "release_date": "2011-12-03"
+      "release_date": "2011-12-03",
+      "genres": [
+        "comedy",
+        "drama",
+        "family"
+      ]
     },
     {
       "id": 2327,
@@ -2243,7 +3034,11 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 7.328,
-      "release_date": "1998-01-20"
+      "release_date": "1998-01-20",
+      "genres": [
+        "drama",
+        "soap"
+      ]
     },
     {
       "id": 420634,
@@ -2255,7 +3050,10 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 6.327,
-      "release_date": "2018-01-25"
+      "release_date": "2018-01-25",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 593691,
@@ -2267,7 +3065,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.089,
-      "release_date": "2019-04-16"
+      "release_date": "2019-04-16",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 46879,
@@ -2279,7 +3080,13 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.605,
-      "release_date": "2013-06-28"
+      "release_date": "2013-06-28",
+      "genres": [
+        "animation",
+        "comedy",
+        "drama",
+        "kids"
+      ]
     },
     {
       "id": 801058,
@@ -2291,7 +3098,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.834,
-      "release_date": "2021-03-24"
+      "release_date": "2021-03-24",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 374052,
@@ -2303,7 +3114,10 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 6.455,
-      "release_date": "2016-11-11"
+      "release_date": "2016-11-11",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 159014,
@@ -2315,7 +3129,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.187,
-      "release_date": "2013-06-14"
+      "release_date": "2013-06-14",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 2343,
@@ -2327,7 +3144,12 @@
       "service_id": 207,
       "service_name": "The Roku Channel",
       "user_rating": 7.588,
-      "release_date": "2007-02-18"
+      "release_date": "2007-02-18",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 85801,
@@ -2339,7 +3161,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.961,
-      "release_date": "2019-11-12"
+      "release_date": "2019-11-12",
+      "genres": [
+        "comedy",
+        "drama",
+        "family"
+      ]
     },
     {
       "id": 1834,
@@ -2350,8 +3177,13 @@
       "genre": "crime",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.2,
-      "release_date": "1944-12-14"
+      "user_rating": 7.234,
+      "release_date": "1944-12-14",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 42282,
@@ -2363,7 +3195,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 6.345,
-      "release_date": "2012-04-15"
+      "release_date": "2012-04-15",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 110381,
@@ -2375,7 +3211,10 @@
       "service_id": 365,
       "service_name": "MGM+",
       "user_rating": 5.8,
-      "release_date": "2020-11-11"
+      "release_date": "2020-11-11",
+      "genres": [
+        "reality"
+      ]
     },
     {
       "id": 114478,
@@ -2387,7 +3226,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.107,
-      "release_date": "2021-09-22"
+      "release_date": "2021-09-22",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 18736,
@@ -2398,8 +3242,12 @@
       "genre": "family",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 6.326,
-      "release_date": "2003-05-02"
+      "user_rating": 6.3,
+      "release_date": "2003-05-02",
+      "genres": [
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 10555,
@@ -2411,7 +3259,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 6.027,
-      "release_date": "2004-09-20"
+      "release_date": "2004-09-20",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 115004,
@@ -2422,8 +3275,13 @@
       "genre": "drama",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.189,
-      "release_date": "2021-04-18"
+      "user_rating": 8.191,
+      "release_date": "2021-04-18",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 140607,
@@ -2435,7 +3293,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.255,
-      "release_date": "2015-12-15"
+      "release_date": "2015-12-15",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 624963,
@@ -2447,7 +3308,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 6.199,
-      "release_date": "2020-10-14"
+      "release_date": "2020-10-14",
+      "genres": [
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 126280,
@@ -2459,7 +3324,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.055,
-      "release_date": "2021-06-25"
+      "release_date": "2021-06-25",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 157004,
@@ -2471,7 +3339,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.019,
-      "release_date": "2023-10-13"
+      "release_date": "2023-10-13",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 203085,
@@ -2482,8 +3355,13 @@
       "genre": "animation",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.0,
-      "release_date": "2022-10-26"
+      "user_rating": 7.986,
+      "release_date": "2022-10-26",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 62285,
@@ -2495,7 +3373,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.059,
-      "release_date": "2017-08-18"
+      "release_date": "2017-08-18",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 776527,
@@ -2507,7 +3390,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.633,
-      "release_date": "2021-07-02"
+      "release_date": "2021-07-02",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 93520,
@@ -2519,7 +3405,12 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.286,
-      "release_date": "2019-11-01"
+      "release_date": "2019-11-01",
+      "genres": [
+        "action & adventure",
+        "kids",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 48466,
@@ -2531,7 +3422,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 6.692,
-      "release_date": "2010-10-28"
+      "release_date": "2010-10-28",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 339,
@@ -2542,8 +3438,12 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.5,
-      "release_date": "1991-12-12"
+      "user_rating": 7.514,
+      "release_date": "1991-12-12",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 850,
@@ -2555,7 +3455,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.213,
-      "release_date": "1983-11-18"
+      "release_date": "1983-11-18",
+      "genres": [
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 503125,
@@ -2567,7 +3471,10 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 6.52,
-      "release_date": "2019-08-29"
+      "release_date": "2019-08-29",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 23383,
@@ -2578,8 +3485,11 @@
       "genre": "drama",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.4,
-      "release_date": "1948-12-10"
+      "user_rating": 7.429,
+      "release_date": "1948-12-10",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 20312,
@@ -2591,7 +3501,11 @@
       "service_id": 300,
       "service_name": "Pluto TV",
       "user_rating": 7.383,
-      "release_date": "2002-04-13"
+      "release_date": "2002-04-13",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 199001,
@@ -2603,7 +3517,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.771,
-      "release_date": "2023-12-07"
+      "release_date": "2023-12-07",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 295258,
@@ -2615,7 +3532,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 6.9,
-      "release_date": "2025-07-06"
+      "release_date": "2025-07-06",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 3934,
@@ -2627,7 +3547,14 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 6.8,
-      "release_date": "2006-05-05"
+      "release_date": "2006-05-05",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "comedy",
+        "kids",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 2912,
@@ -2639,7 +3566,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 6.9,
-      "release_date": "1984-09-10"
+      "release_date": "1984-09-10",
+      "genres": [
+        "family",
+        "reality"
+      ]
     },
     {
       "id": 615777,
@@ -2650,8 +3581,12 @@
       "genre": "drama",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.368,
-      "release_date": "2022-12-22"
+      "user_rating": 7.367,
+      "release_date": "2022-12-22",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 111969,
@@ -2663,7 +3598,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.4,
-      "release_date": "2013-06-14"
+      "release_date": "2013-06-14",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 85350,
@@ -2674,8 +3613,11 @@
       "genre": "drama",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.493,
-      "release_date": "2014-06-05"
+      "user_rating": 7.494,
+      "release_date": "2014-06-05",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 13673,
@@ -2687,7 +3629,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 6.154,
-      "release_date": "2004-11-24"
+      "release_date": "2004-11-24",
+      "genres": [
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 466282,
@@ -2699,7 +3645,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.595,
-      "release_date": "2018-08-17"
+      "release_date": "2018-08-17",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 51052,
@@ -2711,7 +3660,13 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 6.769,
-      "release_date": "2011-11-10"
+      "release_date": "2011-11-10",
+      "genres": [
+        "animation",
+        "comedy",
+        "drama",
+        "family"
+      ]
     },
     {
       "id": 87917,
@@ -2722,8 +3677,13 @@
       "genre": "drama",
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.695,
-      "release_date": "2019-11-01"
+      "user_rating": 7.698,
+      "release_date": "2019-11-01",
+      "genres": [
+        "drama",
+        "sci-fi & fantasy",
+        "war & politics"
+      ]
     },
     {
       "id": 97645,
@@ -2735,7 +3695,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.8,
-      "release_date": "2020-05-08"
+      "release_date": "2020-05-08",
+      "genres": [
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 254320,
@@ -2746,8 +3711,12 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.034,
-      "release_date": "2015-10-15"
+      "user_rating": 7.035,
+      "release_date": "2015-10-15",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 79218,
@@ -2758,8 +3727,12 @@
       "genre": "animation",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 6.471,
-      "release_date": "2011-11-24"
+      "user_rating": 6.47,
+      "release_date": "2011-11-24",
+      "genres": [
+        "animation",
+        "family"
+      ]
     },
     {
       "id": 887,
@@ -2770,8 +3743,11 @@
       "genre": "drama",
       "service_id": 300,
       "service_name": "Pluto TV",
-      "user_rating": 7.8,
-      "release_date": "1946-12-25"
+      "user_rating": 7.783,
+      "release_date": "1946-12-25",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 98178,
@@ -2783,7 +3759,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.365,
-      "release_date": "2020-03-06"
+      "release_date": "2020-03-06",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 60802,
@@ -2795,7 +3775,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 6.836,
-      "release_date": "2014-06-22"
+      "release_date": "2014-06-22",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1302916,
@@ -2807,7 +3792,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 6.4,
-      "release_date": "2025-02-06"
+      "release_date": "2025-02-06",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 1413,
@@ -2819,7 +3807,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.095,
-      "release_date": "2011-10-05"
+      "release_date": "2011-10-05",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1175942,
@@ -2830,8 +3823,14 @@
       "genre": "family",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.733,
-      "release_date": "2025-07-24"
+      "user_rating": 7.732,
+      "release_date": "2025-07-24",
+      "genres": [
+        "animation",
+        "comedy",
+        "crime",
+        "family"
+      ]
     },
     {
       "id": 1415,
@@ -2843,7 +3842,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.609,
-      "release_date": "2012-09-27"
+      "release_date": "2012-09-27",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 13189,
@@ -2854,8 +3858,12 @@
       "genre": "drama",
       "service_id": 207,
       "service_name": "The Roku Channel",
-      "user_rating": 7.481,
-      "release_date": "1984-10-09"
+      "user_rating": 7.476,
+      "release_date": "1984-10-09",
+      "genres": [
+        "drama",
+        "family"
+      ]
     },
     {
       "id": 13187,
@@ -2866,8 +3874,13 @@
       "genre": "animation",
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.7,
-      "release_date": "1965-12-09"
+      "user_rating": 7.681,
+      "release_date": "1965-12-09",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 826769,
@@ -2879,7 +3892,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.113,
-      "release_date": "2022-10-11"
+      "release_date": "2022-10-11",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 1427,
@@ -2890,8 +3907,13 @@
       "genre": "crime",
       "service_id": 73,
       "service_name": "Tubi",
-      "user_rating": 7.92,
-      "release_date": "2013-03-04"
+      "user_rating": 7.921,
+      "release_date": "2013-03-04",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 76180,
@@ -2903,7 +3925,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.738,
-      "release_date": "2004-09-20"
+      "release_date": "2004-09-20",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 90521,
@@ -2915,7 +3940,10 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.0,
-      "release_date": "2019-07-09"
+      "release_date": "2019-07-09",
+      "genres": [
+        "reality"
+      ]
     },
     {
       "id": 1562010,
@@ -2927,7 +3955,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.6,
-      "release_date": "2025-12-11"
+      "release_date": "2025-12-11",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 554908,
@@ -2939,7 +3970,10 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 6.058,
-      "release_date": "2020-06-24"
+      "release_date": "2020-06-24",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 1437,
@@ -2951,7 +3985,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.343,
-      "release_date": "2002-09-20"
+      "release_date": "2002-09-20",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1952,
@@ -2963,7 +4002,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.7,
-      "release_date": "1989-11-25"
+      "release_date": "1989-11-25",
+      "genres": [
+        "comedy",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 10147,
@@ -2975,7 +4018,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 6.549,
-      "release_date": "2003-11-26"
+      "release_date": "2003-11-26",
+      "genres": [
+        "comedy",
+        "crime",
+        "drama"
+      ]
     },
     {
       "id": 2985,
@@ -2987,7 +4035,12 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 7.098,
-      "release_date": "2000-10-02"
+      "release_date": "2000-10-02",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 136105,
@@ -2999,7 +4052,10 @@
       "service_id": 365,
       "service_name": "MGM+",
       "user_rating": 6.722,
-      "release_date": "2021-11-15"
+      "release_date": "2021-11-15",
+      "genres": [
+        "reality"
+      ]
     },
     {
       "id": 229296,
@@ -3011,7 +4067,10 @@
       "service_id": 300,
       "service_name": "Pluto TV",
       "user_rating": 7.0,
-      "release_date": "2013-12-19"
+      "release_date": "2013-12-19",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 18352,
@@ -3023,7 +4082,12 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 6.4,
-      "release_date": "2009-11-02"
+      "release_date": "2009-11-02",
+      "genres": [
+        "animation",
+        "comedy",
+        "kids"
+      ]
     },
     {
       "id": 76726,
@@ -3035,7 +4099,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 6.839,
-      "release_date": "2012-02-01"
+      "release_date": "2012-02-01",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 560057,
@@ -3047,7 +4114,28 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.327,
-      "release_date": "2022-06-24"
+      "release_date": "2022-06-24",
+      "genres": [
+        "animation",
+        "family"
+      ]
+    },
+    {
+      "id": 69050,
+      "title": "Riverdale",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
+      "genre": "crime",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.419,
+      "release_date": "2017-01-26",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 1146302,
@@ -3059,7 +4147,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.227,
-      "release_date": "2023-09-16"
+      "release_date": "2023-09-16",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 962,
@@ -3070,8 +4161,12 @@
       "genre": "comedy",
       "service_id": 613,
       "service_name": "Freevee",
-      "user_rating": 7.984,
-      "release_date": "1925-07-13"
+      "user_rating": 8.0,
+      "release_date": "1925-07-13",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 1307078,
@@ -3083,7 +4178,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.033,
-      "release_date": "2025-07-31"
+      "release_date": "2025-07-31",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 342470,
@@ -3095,7 +4194,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.635,
-      "release_date": "2020-02-28"
+      "release_date": "2020-02-28",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 456,
@@ -3107,7 +4209,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.012,
-      "release_date": "1989-12-17"
+      "release_date": "1989-12-17",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 619979,
@@ -3118,8 +4225,12 @@
       "genre": "drama",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 5.822,
-      "release_date": "2022-03-17"
+      "user_rating": 5.82,
+      "release_date": "2022-03-17",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 261579,
@@ -3130,8 +4241,13 @@
       "genre": "animation",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.39,
-      "release_date": "2024-12-10"
+      "user_rating": 7.389,
+      "release_date": "2024-12-10",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 91602,
@@ -3143,7 +4259,10 @@
       "service_id": 613,
       "service_name": "Freevee",
       "user_rating": 7.329,
-      "release_date": "2019-10-18"
+      "release_date": "2019-10-18",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 621013,
@@ -3154,8 +4273,11 @@
       "genre": "drama",
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.322,
-      "release_date": "2020-08-21"
+      "user_rating": 7.315,
+      "release_date": "2020-08-21",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 106454,
@@ -3167,19 +4289,30 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.2,
-      "release_date": "2022-01-28"
+      "release_date": "2022-01-28",
+      "genres": [
+        "comedy",
+        "crime",
+        "mystery"
+      ]
     },
     {
       "id": 2005,
       "title": "The New Adventures of Winnie the Pooh",
       "type": "tv_series",
-      "year": 1988,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iJFbF43bN1HX5EZl4OFAVmJDl1u.jpg",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xZvVSZ0RTxIjblLV87vs7ADM12m.jpg",
       "genre": "family",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.7,
-      "release_date": "1988-09-10"
+      "user_rating": 6.828,
+      "release_date": "1992-05-28",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "kids"
+      ]
     },
     {
       "id": 360920,
@@ -3190,8 +4323,13 @@
       "genre": "family",
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 6.9,
-      "release_date": "2018-11-08"
+      "user_rating": 6.872,
+      "release_date": "2018-11-08",
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 14813,
@@ -3202,8 +4340,12 @@
       "genre": "family",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.6,
-      "release_date": "1983-10-19"
+      "user_rating": 7.644,
+      "release_date": "1983-10-19",
+      "genres": [
+        "animation",
+        "family"
+      ]
     },
     {
       "id": 22494,
@@ -3214,8 +4356,12 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 6.875,
-      "release_date": "2009-04-24"
+      "user_rating": 6.873,
+      "release_date": "2009-04-24",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 10719,
@@ -3226,8 +4372,12 @@
       "genre": "comedy",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 6.658,
-      "release_date": "2003-11-07"
+      "user_rating": 6.7,
+      "release_date": "2003-11-07",
+      "genres": [
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 539617,
@@ -3239,7 +4389,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.2,
-      "release_date": "2020-03-13"
+      "release_date": "2020-03-13",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 484,
@@ -3251,7 +4405,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.5,
-      "release_date": "1984-09-30"
+      "release_date": "1984-09-30",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 89572,
@@ -3263,19 +4422,30 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.8,
-      "release_date": "2019-10-09"
+      "release_date": "2019-10-09",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 2022,
       "title": "The Batman",
       "type": "tv_series",
-      "year": 2004,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3w7koeOR2x71XYMJDGpygxYtScI.jpg",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7gGk3pkpRsNlJ4PrJgEfgY9PG43.jpg",
       "genre": "animation",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.0,
-      "release_date": "2004-09-11"
+      "user_rating": 5.913,
+      "release_date": "2002-06-28",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "kids",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 1160164,
@@ -3286,8 +4456,11 @@
       "genre": "drama",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.201,
-      "release_date": "2023-10-13"
+      "user_rating": 8.199,
+      "release_date": "2023-10-13",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 68073,
@@ -3299,7 +4472,14 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.8,
-      "release_date": "2016-05-02"
+      "release_date": "2016-05-02",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "kids",
+        "mystery"
+      ]
     },
     {
       "id": 520172,
@@ -3310,8 +4490,11 @@
       "genre": "comedy",
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.111,
-      "release_date": "2020-11-26"
+      "user_rating": 7.11,
+      "release_date": "2020-11-26",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 4589,
@@ -3323,7 +4506,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.935,
-      "release_date": "2003-11-02"
+      "release_date": "2003-11-02",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 155631,
@@ -3335,7 +4521,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.065,
-      "release_date": "2022-11-16"
+      "release_date": "2022-11-16",
+      "genres": [
+        "comedy",
+        "family"
+      ]
     },
     {
       "id": 638449,
@@ -3347,7 +4537,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.375,
-      "release_date": "2021-07-23"
+      "release_date": "2021-07-23",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 12786,
@@ -3358,8 +4551,12 @@
       "genre": "mystery",
       "service_id": 73,
       "service_name": "Tubi",
-      "user_rating": 7.721,
-      "release_date": "2008-01-24"
+      "user_rating": 7.7,
+      "release_date": "2008-01-24",
+      "genres": [
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 105971,
@@ -3371,7 +4568,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.179,
-      "release_date": "2021-05-04"
+      "release_date": "2021-05-04",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "sci-fi & fantasy"
+      ]
     },
     {
       "id": 9716,
@@ -3383,7 +4585,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 6.424,
-      "release_date": "1996-12-06"
+      "release_date": "1996-12-06",
+      "genres": [
+        "comedy"
+      ]
     },
     {
       "id": 610290,
@@ -3395,7 +4600,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 6.875,
-      "release_date": "2020-06-19"
+      "release_date": "2020-06-19",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 535544,
@@ -3407,7 +4616,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.131,
-      "release_date": "2019-09-12"
+      "release_date": "2019-09-12",
+      "genres": [
+        "drama"
+      ]
     },
     {
       "id": 1149947,
@@ -3419,7 +4631,10 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.737,
-      "release_date": "2023-07-09"
+      "release_date": "2023-07-09",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 508,
@@ -3431,7 +4646,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.099,
-      "release_date": "2003-09-07"
+      "release_date": "2003-09-07",
+      "genres": [
+        "comedy",
+        "drama"
+      ]
     },
     {
       "id": 4607,
@@ -3442,8 +4661,13 @@
       "genre": "mystery",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.945,
-      "release_date": "2004-09-22"
+      "user_rating": 7.946,
+      "release_date": "2004-09-22",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "mystery"
+      ]
     }
   ]
 }

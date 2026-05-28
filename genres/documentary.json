@@ -1,6 +1,6 @@
 {
   "genre": "documentary",
-  "updated_at": 1766207314748,
+  "updated_at": 1766212590381,
   "shows": [
     {
       "id": 294679,
@@ -12,7 +12,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 9.3,
-      "release_date": "2025-07-06"
+      "release_date": "2025-07-06",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 296423,
@@ -24,7 +27,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 9.0,
-      "release_date": "2025-08-02"
+      "release_date": "2025-08-02",
+      "genres": [
+        "documentary",
+        "mystery"
+      ]
     },
     {
       "id": 233264,
@@ -36,7 +43,10 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.8,
-      "release_date": "2025-09-24"
+      "release_date": "2025-09-24",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 287967,
@@ -48,7 +58,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.8,
-      "release_date": "2025-07-18"
+      "release_date": "2025-07-18",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 294219,
@@ -60,7 +73,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.8,
-      "release_date": "2025-07-14"
+      "release_date": "2025-07-14",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 1022256,
@@ -72,7 +89,10 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.639,
-      "release_date": "2022-11-04"
+      "release_date": "2022-11-04",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 68595,
@@ -83,8 +103,12 @@
       "genre": "documentary",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.616,
-      "release_date": "2016-11-06"
+      "user_rating": 8.617,
+      "release_date": "2016-11-06",
+      "genres": [
+        "documentary",
+        "family"
+      ]
     },
     {
       "id": 299395,
@@ -96,7 +120,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.6,
-      "release_date": "2025-09-25"
+      "release_date": "2025-09-25",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 1044,
@@ -108,19 +136,57 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.6,
-      "release_date": "2006-03-05"
+      "release_date": "2006-03-05",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 74313,
+      "title": "Blue Planet II",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/j1NsoYYDYHnPkRr7Enqr8tlexgO.jpg",
+      "genre": "documentary",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.589,
+      "release_date": "2017-10-29",
+      "genres": [
+        "documentary",
+        "family"
+      ]
+    },
+    {
+      "id": 83880,
+      "title": "Our Planet",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wRSnArnQBmeUYb5GWDU595bGsBr.jpg",
+      "genre": "documentary",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.514,
+      "release_date": "2019-04-05",
+      "genres": [
+        "documentary",
+        "family"
+      ]
     },
     {
       "id": 302919,
       "title": "The End of an Era",
       "type": "tv_series",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2krDRnB4wabh4odG3mTEL4U0ybB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8qEyRXQMC3L77fjY924qcoxaaVs.jpg",
       "genre": "documentary",
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.5,
-      "release_date": "2025-12-12"
+      "release_date": "2025-12-12",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 294019,
@@ -132,7 +198,10 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.5,
-      "release_date": "2025-06-23"
+      "release_date": "2025-06-23",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 58474,
@@ -144,7 +213,10 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 8.5,
-      "release_date": "2014-03-09"
+      "release_date": "2014-03-09",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 664280,
@@ -156,7 +228,56 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.443,
-      "release_date": "2020-09-28"
+      "release_date": "2020-09-28",
+      "genres": [
+        "documentary",
+        "drama"
+      ]
+    },
+    {
+      "id": 16946,
+      "title": "Life",
+      "type": "tv_series",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9dVHGMYfI6T6p07UHfYVUk1Wzit.jpg",
+      "genre": "documentary",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.4,
+      "release_date": "2009-10-11",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 128876,
+      "title": "The Beatles: Get Back",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nxy9fg1rT853P7zP7ZQGqRimiCS.jpg",
+      "genre": "documentary",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 8.393,
+      "release_date": "2021-11-25",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 8724,
+      "title": "Frozen Planet",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jEGKNLYq6ZxtBmkQz3edaw62xMp.jpg",
+      "genre": "documentary",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.375,
+      "release_date": "2011-10-26",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 95171,
@@ -168,7 +289,25 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.3,
-      "release_date": "2022-05-23"
+      "release_date": "2022-05-23",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 46664,
+      "title": "Africa",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mXCtBCzDh4SdprVhYRk1VR0hKMR.jpg",
+      "genre": "documentary",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.3,
+      "release_date": "2013-01-02",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 33827,
@@ -180,7 +319,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.3,
-      "release_date": "2010-04-25"
+      "release_date": "2010-04-25",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 2899,
@@ -192,7 +334,26 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.273,
-      "release_date": "2004-10-18"
+      "release_date": "2004-10-18",
+      "genres": [
+        "documentary",
+        "reality"
+      ]
+    },
+    {
+      "id": 79525,
+      "title": "The Last Dance",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oVf4xGGbDtwVHiKn8uTuSriY7PH.jpg",
+      "genre": "documentary",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.252,
+      "release_date": "2020-04-19",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 293691,
@@ -204,7 +365,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.25,
-      "release_date": "2025-07-11"
+      "release_date": "2025-07-11",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 14002,
@@ -216,7 +380,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.218,
-      "release_date": "1992-09-15"
+      "release_date": "1992-09-15",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 90,
@@ -228,7 +395,12 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 8.201,
-      "release_date": "2003-09-03"
+      "release_date": "2003-09-03",
+      "genres": [
+        "crime",
+        "documentary",
+        "drama"
+      ]
     },
     {
       "id": 654754,
@@ -240,7 +412,10 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.2,
-      "release_date": "2021-02-26"
+      "release_date": "2021-02-26",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 292130,
@@ -251,8 +426,11 @@
       "genre": "documentary",
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 8.188,
-      "release_date": "2025-10-16"
+      "user_rating": 8.147,
+      "release_date": "2025-10-16",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 87083,
@@ -264,7 +442,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.147,
-      "release_date": "2019-03-08"
+      "release_date": "2019-03-08",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 593691,
@@ -276,7 +457,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.089,
-      "release_date": "2019-04-16"
+      "release_date": "2019-04-16",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 15584,
@@ -288,7 +472,26 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.032,
-      "release_date": "2008-10-31"
+      "release_date": "2008-10-31",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
+    },
+    {
+      "id": 56304,
+      "title": "The Men Who Built America",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kmxok1OGUFLd2psEMzZ7mU0MjQi.jpg",
+      "genre": "documentary",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.029,
+      "release_date": "2012-10-16",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 108303,
@@ -300,7 +503,10 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.0,
-      "release_date": "2020-10-02"
+      "release_date": "2020-10-02",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 31225,
@@ -312,7 +518,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.0,
-      "release_date": "1991-03-13"
+      "release_date": "1991-03-13",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 774372,
@@ -324,7 +533,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.992,
-      "release_date": "2020-12-21"
+      "release_date": "2020-12-21",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 61929,
@@ -336,7 +548,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.989,
-      "release_date": "2015-02-08"
+      "release_date": "2015-02-08",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 680058,
@@ -347,8 +563,27 @@
       "genre": "documentary",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.959,
-      "release_date": "2021-10-08"
+      "user_rating": 7.964,
+      "release_date": "2021-10-08",
+      "genres": [
+        "documentary",
+        "drama"
+      ]
+    },
+    {
+      "id": 2622,
+      "title": "The Universe",
+      "type": "tv_series",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wbtVDGQbzvNSbAqXIVE1X7BUtq2.jpg",
+      "genre": "documentary",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.935,
+      "release_date": "2007-05-29",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 515042,
@@ -360,7 +595,10 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.911,
-      "release_date": "2018-09-28"
+      "release_date": "2018-09-28",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 355020,
@@ -372,7 +610,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.903,
-      "release_date": "2015-09-03"
+      "release_date": "2015-09-03",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 1226841,
@@ -384,7 +625,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2024-01-19"
+      "release_date": "2024-01-19",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 263614,
@@ -396,7 +640,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2014-11-07"
+      "release_date": "2014-11-07",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 493100,
@@ -408,7 +655,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.895,
-      "release_date": "2018-01-19"
+      "release_date": "2018-01-19",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 407806,
@@ -420,7 +670,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.871,
-      "release_date": "2016-10-07"
+      "release_date": "2016-10-07",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 682110,
@@ -432,7 +685,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.863,
-      "release_date": "2020-09-04"
+      "release_date": "2020-09-04",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 691179,
@@ -444,7 +700,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.853,
-      "release_date": "2021-05-27"
+      "release_date": "2021-05-27",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 653567,
@@ -456,7 +715,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.844,
-      "release_date": "2020-01-31"
+      "release_date": "2020-01-31",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 158999,
@@ -468,7 +730,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.844,
-      "release_date": "2013-06-07"
+      "release_date": "2013-06-07",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 801058,
@@ -480,7 +745,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.834,
-      "release_date": "2021-03-24"
+      "release_date": "2021-03-24",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 1428,
@@ -492,19 +761,10 @@
       "service_id": 300,
       "service_name": "Pluto TV",
       "user_rating": 7.813,
-      "release_date": "2003-01-23"
-    },
-    {
-      "id": 1058699,
-      "title": "STILL: A Michael J. Fox Movie",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fDO4gYZxvdsIrHKzsSAbc3N7Wfg.jpg",
-      "genre": "documentary",
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 7.774,
-      "release_date": "2023-01-20"
+      "release_date": "2003-01-23",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 287609,
@@ -515,8 +775,41 @@
       "genre": "documentary",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.75,
-      "release_date": "2025-08-14"
+      "user_rating": 7.8,
+      "release_date": "2025-08-14",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 1058699,
+      "title": "STILL: A Michael J. Fox Movie",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fDO4gYZxvdsIrHKzsSAbc3N7Wfg.jpg",
+      "genre": "documentary",
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.78,
+      "release_date": "2023-01-20",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 126929,
+      "title": "Welcome to Wrexham",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/53CNogAzbbwepLxQS5jIfGG35MQ.jpg",
+      "genre": "documentary",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.762,
+      "release_date": "2022-08-24",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 76180,
@@ -528,7 +821,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.738,
-      "release_date": "2004-09-20"
+      "release_date": "2004-09-20",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 1149947,
@@ -540,7 +836,10 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.737,
-      "release_date": "2023-07-09"
+      "release_date": "2023-07-09",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 80767,
@@ -552,7 +851,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.734,
-      "release_date": "2011-06-11"
+      "release_date": "2011-06-11",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 411019,
@@ -564,7 +866,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.7,
-      "release_date": "2017-02-03"
+      "release_date": "2017-02-03",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 410718,
@@ -576,7 +881,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.688,
-      "release_date": "2016-10-21"
+      "release_date": "2016-10-21",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 432976,
@@ -588,7 +896,26 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.657,
-      "release_date": "2017-06-03"
+      "release_date": "2017-06-03",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 245902,
+      "title": "Quiet on Set: The Dark Side of Kids TV",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uTQD87qAuebJRuc5U5lO2dA4q9s.jpg",
+      "genre": "documentary",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.64,
+      "release_date": "2024-03-17",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 776527,
@@ -600,7 +927,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.633,
-      "release_date": "2021-07-02"
+      "release_date": "2021-07-02",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 319075,
@@ -612,7 +942,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.626,
-      "release_date": "2015-03-23"
+      "release_date": "2015-03-23",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 282297,
@@ -624,7 +957,25 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.626,
-      "release_date": "2014-07-01"
+      "release_date": "2014-07-01",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 127700,
+      "title": "Welcome to Earth",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l9x6xh4KCgwMk9PYiosXXFGwI3a.jpg",
+      "genre": "documentary",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.6,
+      "release_date": "2021-12-08",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 15302,
@@ -636,7 +987,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.6,
-      "release_date": "2007-08-28"
+      "release_date": "2007-08-28",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 1749,
@@ -648,19 +1002,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.6,
-      "release_date": "2001-01-06"
-    },
-    {
-      "id": 255251,
-      "title": "Sean Combs: The Reckoning",
-      "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zvozYQ1idmnkF0ugfTud82lpNIJ.jpg",
-      "genre": "documentary",
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.589,
-      "release_date": "2025-12-02"
+      "release_date": "2001-01-06",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 14275,
@@ -672,7 +1017,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.589,
-      "release_date": "1994-09-12"
+      "release_date": "1994-09-12",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 318224,
@@ -684,7 +1032,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.581,
-      "release_date": "2015-01-25"
+      "release_date": "2015-01-25",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 467062,
@@ -696,7 +1047,27 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.572,
-      "release_date": "2017-10-05"
+      "release_date": "2017-10-05",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 96723,
+      "title": "James May: Our Man in\u2026",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fpAGQoYI8xpN1aCgvsy8czoX24u.jpg",
+      "genre": "documentary",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.565,
+      "release_date": "2020-01-03",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "documentary"
+      ]
     },
     {
       "id": 10548,
@@ -708,7 +1079,10 @@
       "service_id": 300,
       "service_name": "Pluto TV",
       "user_rating": 7.556,
-      "release_date": "1996-10-25"
+      "release_date": "1996-10-25",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 501,
@@ -720,7 +1094,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.532,
-      "release_date": "2005-08-12"
+      "release_date": "2005-08-12",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 913823,
@@ -731,8 +1108,26 @@
       "genre": "documentary",
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.527,
-      "release_date": "2022-07-06"
+      "user_rating": 7.531,
+      "release_date": "2022-07-06",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 493099,
+      "title": "RBG",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vIenhDe9DuvxODJOIpMjBheYlcS.jpg",
+      "genre": "documentary",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.508,
+      "release_date": "2018-05-04",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 79746,
@@ -744,7 +1139,10 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 7.504,
-      "release_date": "2018-05-23"
+      "release_date": "2018-05-23",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 799375,
@@ -756,7 +1154,26 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.503,
-      "release_date": "2022-11-14"
+      "release_date": "2022-11-14",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 255251,
+      "title": "Sean Combs: The Reckoning",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zvozYQ1idmnkF0ugfTud82lpNIJ.jpg",
+      "genre": "documentary",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2025-12-02",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 296962,
@@ -768,7 +1185,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.5,
-      "release_date": "2025-09-01"
+      "release_date": "2025-09-01",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 245189,
@@ -780,7 +1201,10 @@
       "service_id": 365,
       "service_name": "MGM+",
       "user_rating": 7.5,
-      "release_date": "2024-03-06"
+      "release_date": "2024-03-06",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 957457,
@@ -792,7 +1216,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.5,
-      "release_date": "2022-09-15"
+      "release_date": "2022-09-15",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 684700,
@@ -804,19 +1231,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.5,
-      "release_date": "2020-06-23"
-    },
-    {
-      "id": 493099,
-      "title": "RBG",
-      "type": "movie",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vIenhDe9DuvxODJOIpMjBheYlcS.jpg",
-      "genre": "documentary",
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.5,
-      "release_date": "2018-05-04"
+      "release_date": "2020-06-23",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 90125,
@@ -828,7 +1246,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.5,
-      "release_date": "2012-04-20"
+      "release_date": "2012-04-20",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 11779,
@@ -839,8 +1260,28 @@
       "genre": "documentary",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.49,
-      "release_date": "1999-06-04"
+      "user_rating": 7.489,
+      "release_date": "1999-06-04",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 96481,
+      "title": "Rise of Empires: Ottoman",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nkvdPFYo7o2IQWooJvA9UE0nvAp.jpg",
+      "genre": "documentary",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.482,
+      "release_date": "2020-01-24",
+      "genres": [
+        "action & adventure",
+        "documentary",
+        "war & politics"
+      ]
     },
     {
       "id": 469019,
@@ -852,7 +1293,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.459,
-      "release_date": "2017-09-05"
+      "release_date": "2017-09-05",
+      "genres": [
+        "comedy",
+        "documentary",
+        "drama"
+      ]
     },
     {
       "id": 656690,
@@ -863,8 +1309,12 @@
       "genre": "documentary",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.437,
-      "release_date": "2020-01-26"
+      "user_rating": 7.436,
+      "release_date": "2020-01-26",
+      "genres": [
+        "documentary",
+        "drama"
+      ]
     },
     {
       "id": 472424,
@@ -876,7 +1326,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.433,
-      "release_date": "2017-09-21"
+      "release_date": "2017-09-21",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 318279,
@@ -888,7 +1341,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.412,
-      "release_date": "2015-01-25"
+      "release_date": "2015-01-25",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 114695,
@@ -900,7 +1356,28 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.4,
-      "release_date": "2021-01-08"
+      "release_date": "2021-01-08",
+      "genres": [
+        "action & adventure",
+        "documentary",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 103026,
+      "title": "Undertaker: The Last Ride",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ckKQrIUD9kKAtuTKEkybcajScyA.jpg",
+      "genre": "documentary",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.4,
+      "release_date": "2020-05-10",
+      "genres": [
+        "documentary",
+        "drama"
+      ]
     },
     {
       "id": 318044,
@@ -912,7 +1389,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.4,
-      "release_date": "2015-01-22"
+      "release_date": "2015-01-22",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 57586,
@@ -924,7 +1404,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.4,
-      "release_date": "2011-04-21"
+      "release_date": "2011-04-21",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 36970,
@@ -936,7 +1419,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.4,
-      "release_date": "2010-01-22"
+      "release_date": "2010-01-22",
+      "genres": [
+        "documentary",
+        "family"
+      ]
     },
     {
       "id": 890825,
@@ -948,7 +1435,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.377,
-      "release_date": "2021-11-12"
+      "release_date": "2021-11-12",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 14048,
@@ -960,7 +1450,26 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.364,
-      "release_date": "2008-08-01"
+      "release_date": "2008-08-01",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 127626,
+      "title": "How to Become a Tyrant",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kdWrvDC6ApgZL9HxDVYTXwtHZkM.jpg",
+      "genre": "documentary",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.353,
+      "release_date": "2021-07-09",
+      "genres": [
+        "documentary",
+        "war & politics"
+      ]
     },
     {
       "id": 627070,
@@ -972,7 +1481,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.347,
-      "release_date": "2019-10-18"
+      "release_date": "2019-10-18",
+      "genres": [
+        "documentary",
+        "drama",
+        "mystery"
+      ]
     },
     {
       "id": 18570,
@@ -984,7 +1498,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.344,
-      "release_date": "2008-09-07"
+      "release_date": "2008-09-07",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 380808,
@@ -996,7 +1513,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.342,
-      "release_date": "2016-07-08"
+      "release_date": "2016-07-08",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 17346,
@@ -1007,8 +1527,11 @@
       "genre": "documentary",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.316,
-      "release_date": "1976-02-19"
+      "user_rating": 7.319,
+      "release_date": "1976-02-19",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 84287,
@@ -1020,7 +1543,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.314,
-      "release_date": "2012-07-13"
+      "release_date": "2012-07-13",
+      "genres": [
+        "crime",
+        "documentary",
+        "mystery"
+      ]
     },
     {
       "id": 899082,
@@ -1031,8 +1559,11 @@
       "genre": "documentary",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.304,
-      "release_date": "2022-01-01"
+      "user_rating": 7.303,
+      "release_date": "2022-01-01",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 230935,
@@ -1044,7 +1575,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.3,
-      "release_date": "2025-07-11"
+      "release_date": "2025-07-11",
+      "genres": [
+        "action & adventure",
+        "documentary"
+      ]
     },
     {
       "id": 743601,
@@ -1056,7 +1591,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.278,
-      "release_date": "2020-09-29"
+      "release_date": "2020-09-29",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 926676,
@@ -1067,8 +1605,26 @@
       "genre": "documentary",
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.255,
-      "release_date": "2022-04-08"
+      "user_rating": 7.257,
+      "release_date": "2022-04-08",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 93016,
+      "title": "Inside Bill's Brain: Decoding Bill Gates",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5RIVJnpIkPt90EwJQwPzqS1UTPG.jpg",
+      "genre": "documentary",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.252,
+      "release_date": "2019-09-20",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 13180,
@@ -1080,7 +1636,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.232,
-      "release_date": "2008-10-02"
+      "release_date": "2008-10-02",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 1146302,
@@ -1092,7 +1651,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.227,
-      "release_date": "2023-09-16"
+      "release_date": "2023-09-16",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 352208,
@@ -1104,7 +1666,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.225,
-      "release_date": "2015-12-23"
+      "release_date": "2015-12-23",
+      "genres": [
+        "comedy",
+        "documentary"
+      ]
     },
     {
       "id": 1003180,
@@ -1116,7 +1682,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.218,
-      "release_date": "2022-08-18"
+      "release_date": "2022-08-18",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 834027,
@@ -1128,7 +1697,56 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.21,
-      "release_date": "2021-07-23"
+      "release_date": "2021-07-23",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 131651,
+      "title": "Turning Point: 9/11 and the War on Terror",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aWHyzSVVVlKcd6KIuZCMIvD5TPZ.jpg",
+      "genre": "documentary",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.2,
+      "release_date": "2021-09-01",
+      "genres": [
+        "documentary",
+        "war & politics"
+      ]
+    },
+    {
+      "id": 93219,
+      "title": "The Movies That Made Us",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l7p40cVratmPTdWrx4UFjZbANKF.jpg",
+      "genre": "documentary",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.2,
+      "release_date": "2019-11-29",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 18408,
+      "title": "Life After People: The Series",
+      "type": "tv_series",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2I7qpI6LSgNPWvhAXgN79jZgMwD.jpg",
+      "genre": "documentary",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.2,
+      "release_date": "2009-04-21",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 159014,
@@ -1140,7 +1758,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.187,
-      "release_date": "2013-06-14"
+      "release_date": "2013-06-14",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 565716,
@@ -1151,8 +1772,11 @@
       "genre": "documentary",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.182,
-      "release_date": "2019-08-21"
+      "user_rating": 7.184,
+      "release_date": "2019-08-21",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 13020,
@@ -1164,7 +1788,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.168,
-      "release_date": "2005-04-22"
+      "release_date": "2005-04-22",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 295755,
@@ -1176,7 +1803,10 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.167,
-      "release_date": "2025-09-29"
+      "release_date": "2025-09-29",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 373072,
@@ -1188,7 +1818,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.165,
-      "release_date": "2016-05-26"
+      "release_date": "2016-05-26",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 988046,
@@ -1200,7 +1833,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.13,
-      "release_date": "2022-07-06"
+      "release_date": "2022-07-06",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 5205,
@@ -1212,7 +1848,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.1,
-      "release_date": "1977-01-18"
+      "release_date": "1977-01-18",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 669,
@@ -1224,7 +1863,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.076,
-      "release_date": "1922-06-11"
+      "release_date": "1922-06-11",
+      "genres": [
+        "documentary",
+        "drama"
+      ]
     },
     {
       "id": 54293,
@@ -1236,7 +1879,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.068,
-      "release_date": "2011-01-15"
+      "release_date": "2011-01-15",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 591278,
@@ -1248,19 +1894,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.064,
-      "release_date": "2019-05-26"
-    },
-    {
-      "id": 566228,
-      "title": "The Inventor: Out for Blood in Silicon Valley",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/u21ImPnHHX2SFgkdHIjwlpEwRux.jpg",
-      "genre": "documentary",
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.054,
-      "release_date": "2019-01-24"
+      "release_date": "2019-05-26",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 277831,
@@ -1272,19 +1909,76 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.053,
-      "release_date": "2025-08-03"
+      "release_date": "2025-08-03",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
-      "id": 1061671,
-      "title": "Pamela, A Love Story",
+      "id": 566228,
+      "title": "The Inventor: Out for Blood in Silicon Valley",
       "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u21ImPnHHX2SFgkdHIjwlpEwRux.jpg",
+      "genre": "documentary",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.05,
+      "release_date": "2019-01-24",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 103023,
+      "title": "I'll Be Gone in the Dark",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wP8ypum7Jpy1UBfR6HLxdvMkqX6.jpg",
+      "genre": "documentary",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.035,
+      "release_date": "2020-06-28",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
+    },
+    {
+      "id": 49920,
+      "title": "The Vow",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7AwKXXri13OIiGJIYhVELkx4pb5.jpg",
+      "genre": "documentary",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.022,
+      "release_date": "2020-08-23",
+      "genres": [
+        "crime",
+        "documentary",
+        "drama"
+      ]
+    },
+    {
+      "id": 116989,
+      "title": "Crime Scene: The Vanishing at the Cecil Hotel",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9s5Za1RYXSjIA1g0KO1R7uywGlA.jpg",
       "genre": "documentary",
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.002,
-      "release_date": "2023-01-30"
+      "user_rating": 7.0,
+      "release_date": "2021-02-10",
+      "genres": [
+        "crime",
+        "documentary",
+        "mystery"
+      ]
     },
     {
       "id": 229296,
@@ -1296,7 +1990,10 @@
       "service_id": 300,
       "service_name": "Pluto TV",
       "user_rating": 7.0,
-      "release_date": "2013-12-19"
+      "release_date": "2013-12-19",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 32608,
@@ -1308,7 +2005,44 @@
       "service_id": 73,
       "service_name": "Tubi",
       "user_rating": 7.0,
-      "release_date": "2010-04-20"
+      "release_date": "2010-04-20",
+      "genres": [
+        "documentary",
+        "mystery",
+        "sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": 1061671,
+      "title": "Pamela, A Love Story",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
+      "genre": "documentary",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.994,
+      "release_date": "2023-01-30",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 96213,
+      "title": "McMillion$",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xyUciqZC5hGYJqefmbGbTy5fxYh.jpg",
+      "genre": "documentary",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.95,
+      "release_date": "2020-02-03",
+      "genres": [
+        "crime",
+        "documentary",
+        "drama"
+      ]
     },
     {
       "id": 13362,
@@ -1320,7 +2054,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 6.941,
-      "release_date": "2008-01-18"
+      "release_date": "2008-01-18",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 413765,
@@ -1332,7 +2069,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 6.935,
-      "release_date": "2017-02-15"
+      "release_date": "2017-02-15",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 296258,
@@ -1344,7 +2084,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 6.9,
-      "release_date": "2025-08-15"
+      "release_date": "2025-08-15",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 295258,
@@ -1356,7 +2099,25 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 6.9,
-      "release_date": "2025-07-06"
+      "release_date": "2025-07-06",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 103465,
+      "title": "Into the Unknown: Making Frozen II",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/UcbjmltlDTxoZvTSPbQtUBeZEo.jpg",
+      "genre": "documentary",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 6.9,
+      "release_date": "2020-06-26",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 84327,
@@ -1368,7 +2129,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 6.9,
-      "release_date": "2012-07-06"
+      "release_date": "2012-07-06",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 1400780,
@@ -1380,7 +2144,25 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 6.688,
-      "release_date": "2025-11-14"
+      "release_date": "2025-11-14",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 284470,
+      "title": "Atari: Game Over",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/69VCXTki2gDutUhndJgU8UHlvxA.jpg",
+      "genre": "documentary",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.59,
+      "release_date": "2014-11-19",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 330127,
@@ -1392,7 +2174,26 @@
       "service_id": 300,
       "service_name": "Pluto TV",
       "user_rating": 6.532,
-      "release_date": "2015-10-20"
+      "release_date": "2015-10-20",
+      "genres": [
+        "documentary"
+      ]
+    },
+    {
+      "id": 376424,
+      "title": "Beware the Slenderman",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/f5W2nhbnzOR2aNa7vSpwWCzzAw2.jpg",
+      "genre": "documentary",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.504,
+      "release_date": "2016-03-11",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 950445,
@@ -1404,7 +2205,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 6.5,
-      "release_date": "2022-04-07"
+      "release_date": "2022-04-07",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 520777,
@@ -1416,7 +2220,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 6.302,
-      "release_date": "2018-04-30"
+      "release_date": "2018-04-30",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 1517758,
@@ -1428,7 +2235,10 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 6.107,
-      "release_date": "2025-10-17"
+      "release_date": "2025-10-17",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 318256,
@@ -1440,7 +2250,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 6.077,
-      "release_date": "2015-01-24"
+      "release_date": "2015-01-24",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 303109,
@@ -1452,7 +2265,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 6.0,
-      "release_date": "2025-11-07"
+      "release_date": "2025-11-07",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 291361,
@@ -1464,7 +2280,10 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 6.0,
-      "release_date": "2025-10-10"
+      "release_date": "2025-10-10",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 294879,
@@ -1476,7 +2295,10 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 5.8,
-      "release_date": "2025-07-07"
+      "release_date": "2025-07-07",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 296017,
@@ -1488,7 +2310,10 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 5.5,
-      "release_date": "2025-07-28"
+      "release_date": "2025-07-28",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 273754,
@@ -1500,7 +2325,10 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 5.444,
-      "release_date": "2025-08-07"
+      "release_date": "2025-08-07",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 304995,
@@ -1512,7 +2340,10 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 5.25,
-      "release_date": "2025-11-20"
+      "release_date": "2025-11-20",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 294862,
@@ -1524,7 +2355,10 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 5.115,
-      "release_date": "2025-07-27"
+      "release_date": "2025-07-27",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 295309,
@@ -1536,7 +2370,10 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 5.0,
-      "release_date": "2025-07-15"
+      "release_date": "2025-07-15",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 295144,
@@ -1548,7 +2385,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 5.0,
-      "release_date": "2025-07-02"
+      "release_date": "2025-07-02",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 303175,
@@ -1560,7 +2400,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 4.0,
-      "release_date": "2025-11-06"
+      "release_date": "2025-11-06",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 299126,
@@ -1572,7 +2415,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 2.5,
-      "release_date": "2025-09-09"
+      "release_date": "2025-09-09",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 305852,
@@ -1584,7 +2430,10 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-03-06"
+      "release_date": "2026-03-06",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 307980,
@@ -1596,7 +2445,10 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 0.0,
-      "release_date": "2026-02-23"
+      "release_date": "2026-02-23",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 288595,
@@ -1608,7 +2460,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 0.0,
-      "release_date": "2026-02-01"
+      "release_date": "2026-02-01",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 304806,
@@ -1620,7 +2475,11 @@
       "service_id": 365,
       "service_name": "MGM+",
       "user_rating": 0.0,
-      "release_date": "2026-01-18"
+      "release_date": "2026-01-18",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 157194,
@@ -1632,7 +2491,10 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-01-13"
+      "release_date": "2026-01-13",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 308098,
@@ -1644,7 +2506,10 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 0.0,
-      "release_date": "2026-01-01"
+      "release_date": "2026-01-01",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 295571,
@@ -1656,7 +2521,10 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-01-01"
+      "release_date": "2026-01-01",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 281204,
@@ -1668,7 +2536,11 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2025-12-31"
+      "release_date": "2025-12-31",
+      "genres": [
+        "crime",
+        "documentary"
+      ]
     },
     {
       "id": 230936,
@@ -1680,7 +2552,10 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 0.0,
-      "release_date": "2025-12-19"
+      "release_date": "2025-12-19",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 293529,
@@ -1692,7 +2567,10 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 0.0,
-      "release_date": "2025-09-29"
+      "release_date": "2025-09-29",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 300819,
@@ -1704,7 +2582,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 0.0,
-      "release_date": "2025-09-27"
+      "release_date": "2025-09-27",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 237289,
@@ -1716,7 +2597,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 0.0,
-      "release_date": "2025-09-16"
+      "release_date": "2025-09-16",
+      "genres": [
+        "action & adventure",
+        "documentary",
+        "reality"
+      ]
     },
     {
       "id": 299859,
@@ -1728,7 +2614,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 0.0,
-      "release_date": "2025-09-03"
+      "release_date": "2025-09-03",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 296987,
@@ -1740,7 +2629,10 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 0.0,
-      "release_date": "2025-08-09"
+      "release_date": "2025-08-09",
+      "genres": [
+        "documentary"
+      ]
     },
     {
       "id": 1232931,
@@ -1752,7 +2644,10 @@
       "service_id": 531,
       "service_name": "Paramount+",
       "user_rating": 0.0,
-      "release_date": "2025-07-10"
+      "release_date": "2025-07-10",
+      "genres": [
+        "documentary"
+      ]
     }
   ]
 }
