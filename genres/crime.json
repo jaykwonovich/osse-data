@@ -1,6 +1,6 @@
 {
   "genre": "crime",
-  "updated_at": 1790380082941,
+  "updated_at": 1790380505567,
   "shows": [
     {
       "id": 330292,
@@ -17,6 +17,23 @@
       "service_name": "Disney+",
       "user_rating": 10.0,
       "release_date": "2026-07-30"
+    },
+    {
+      "id": 331979,
+      "title": "Delusion",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 10.0,
+      "release_date": "2026-09-24"
     },
     {
       "id": 321958,
@@ -1481,6 +1498,22 @@
       "release_date": "2011-03-27"
     },
     {
+      "id": 246473,
+      "title": "Made in Korea",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.053,
+      "release_date": "2025-12-24"
+    },
+    {
       "id": 359940,
       "title": "Three Billboards Outside Ebbing, Missouri",
       "type": "movie",
@@ -1737,6 +1770,24 @@
       "service_name": "Prime Video",
       "user_rating": 8.015,
       "release_date": "2026-09-16"
+    },
+    {
+      "id": 30983,
+      "title": "Detective Conan",
+      "type": "tv_series",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "crime",
+        "mystery",
+        "comedy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.013,
+      "release_date": "1996-01-08"
     },
     {
       "id": 641,
@@ -2784,6 +2835,24 @@
       "service_name": "Prime Video",
       "user_rating": 7.8,
       "release_date": "2002-10-27"
+    },
+    {
+      "id": 220074,
+      "title": "Flex X Cop",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "crime",
+        "mystery",
+        "action & adventure"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.8,
+      "release_date": "2024-01-26"
     },
     {
       "id": 49026,
@@ -8698,79 +8767,6 @@
       "service_name": "Max",
       "user_rating": 7.193,
       "release_date": "1992-05-08"
-    },
-    {
-      "id": 10403,
-      "title": "The Player",
-      "type": "movie",
-      "year": 1992,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "crime",
-        "drama",
-        "mystery",
-        "thriller",
-        "comedy",
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.193,
-      "release_date": "1992-05-08"
-    },
-    {
-      "id": 72615,
-      "title": "Alias Grace",
-      "type": "tv_series",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/m6ChYjCPMpzAPzR7jm0omLbu9hS.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.191,
-      "release_date": "2017-09-25"
-    },
-    {
-      "id": 158083,
-      "title": "Painkiller",
-      "type": "tv_series",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7zYtVymTxVEhgAOuMl4l2NoFCrO.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.188,
-      "release_date": "2023-08-10"
-    },
-    {
-      "id": 875828,
-      "title": "Peaky Blinders: The Immortal Man",
-      "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama",
-        "crime",
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.187,
-      "release_date": "2026-03-05"
     }
   ]
 }

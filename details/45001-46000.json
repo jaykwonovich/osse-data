@@ -1,6 +1,6 @@
 {
   "range": "45001-46000",
-  "updated_at": 1790380083083,
+  "updated_at": 1790380505675,
   "shows": [
     {
       "id": 45013,
@@ -111,6 +111,46 @@
       ],
       "tmdb_id": 45666,
       "genre": "comedy"
+    },
+    {
+      "id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+      "plot_overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "genres": [
+        "animation",
+        "action & adventure",
+        "sci-fi & fantasy"
+      ],
+      "genre": "animation",
+      "user_rating": 8.6,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2012-10-06",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 45790
     }
   ]
 }

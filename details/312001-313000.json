@@ -1,6 +1,6 @@
 {
   "range": "312001-313000",
-  "updated_at": 1790380083191,
+  "updated_at": 1790380505725,
   "shows": [
     {
       "id": 312221,
@@ -82,6 +82,33 @@
       "genre": "crime"
     },
     {
+      "id": 312557,
+      "title": "Minerva Academy",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
+      "plot_overview": "At Minerva Military High School, teens navigate discipline, rivalry and family pressure as a young cadet searches for answers about his missing friend.",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "genre": "drama",
+      "user_rating": 7.429,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2026-09-22",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 312557
+    },
+    {
       "id": 312593,
       "title": "Soul Power: The Legend of the American Basketball Association",
       "type": "tv_series",
@@ -106,6 +133,34 @@
       ],
       "tmdb_id": 312593,
       "genre": "documentary"
+    },
+    {
+      "id": 312663,
+      "title": "The Fixers",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
+      "plot_overview": "A washed-up gangster reluctantly teams up with an arrogant political heir to become \"fixers\", cleaning up dangerous secrets for both sides of the law.",
+      "genres": [
+        "action & adventure",
+        "comedy",
+        "crime"
+      ],
+      "genre": "action & adventure",
+      "user_rating": 6.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-09-17",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 312663
     },
     {
       "id": 312697,
@@ -158,6 +213,34 @@
       ],
       "tmdb_id": 312710,
       "genre": "documentary"
+    },
+    {
+      "id": 312949,
+      "title": "Chainsmoker Cat",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+      "plot_overview": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
+      "genres": [
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
+      ],
+      "genre": "animation",
+      "user_rating": 8.471,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2026-07-03",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 312949
     }
   ]
 }
