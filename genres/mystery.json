@@ -1,7 +1,25 @@
 {
   "genre": "mystery",
-  "updated_at": 1780004424261,
+  "updated_at": 1790380082953,
   "shows": [
+    {
+      "id": 229544,
+      "title": "Among Us",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 9.036,
+      "release_date": "2026-06-05"
+    },
     {
       "id": 40075,
       "title": "Gravity Falls",
@@ -19,8 +37,26 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.612,
+      "user_rating": 8.625,
       "release_date": "2012-06-15"
+    },
+    {
+      "id": 2098,
+      "title": "Batman: The Animated Series",
+      "type": "tv_series",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.6,
+      "release_date": "1992-09-05"
     },
     {
       "id": 46896,
@@ -38,24 +74,6 @@
       "service_name": "Prime Video",
       "user_rating": 8.584,
       "release_date": "2013-10-03"
-    },
-    {
-      "id": 2098,
-      "title": "Batman: The Animated Series",
-      "type": "tv_series",
-      "year": 1992,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
-      "genre": "action & adventure",
-      "genres": [
-        "action & adventure",
-        "animation",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 8.577,
-      "release_date": "1992-09-05"
     },
     {
       "id": 61617,
@@ -90,24 +108,8 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.566,
+      "user_rating": 8.55,
       "release_date": "2016-07-15"
-    },
-    {
-      "id": 1330021,
-      "title": "Remarkably Bright Creatures",
-      "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.536,
-      "release_date": "2026-05-07"
     },
     {
       "id": 19885,
@@ -127,6 +129,59 @@
       "release_date": "2010-07-25"
     },
     {
+      "id": 258230,
+      "title": "Last Seen",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 8.421,
+      "release_date": "2026-09-09"
+    },
+    {
+      "id": 1330021,
+      "title": "Remarkably Bright Creatures",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.414,
+      "release_date": "2026-05-07"
+    },
+    {
+      "id": 1330021,
+      "title": "Remarkably Bright Creatures",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.414,
+      "release_date": "2026-05-07"
+    },
+    {
       "id": 107113,
       "title": "Only Murders in the Building",
       "type": "tv_series",
@@ -140,8 +195,42 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.449,
+      "user_rating": 8.41,
       "release_date": "2021-08-31"
+    },
+    {
+      "id": 5920,
+      "title": "The Mentalist",
+      "type": "tv_series",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.408,
+      "release_date": "2008-09-23"
+    },
+    {
+      "id": 539,
+      "title": "Psycho",
+      "type": "movie",
+      "year": 1960,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 8.4,
+      "release_date": "1960-06-22"
     },
     {
       "id": 69050,
@@ -157,7 +246,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.407,
+      "user_rating": 8.397,
       "release_date": "2017-01-26"
     },
     {
@@ -174,7 +263,7 @@
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 8.4,
+      "user_rating": 8.396,
       "release_date": "2022-02-17"
     },
     {
@@ -191,32 +280,32 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 8.372,
+      "user_rating": 8.37,
       "release_date": "1993-09-10"
     },
     {
-      "id": 5920,
-      "title": "The Mentalist",
+      "id": 220102,
+      "title": "Spider-Noir",
       "type": "tv_series",
-      "year": 2008,
-      "poster_url": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-      "genre": "crime",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+      "genre": "drama",
       "genres": [
-        "crime",
         "drama",
-        "mystery"
+        "mystery",
+        "crime"
       ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 8.353,
-      "release_date": "2008-09-23"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.351,
+      "release_date": "2026-05-25"
     },
     {
       "id": 119051,
       "title": "Wednesday",
       "type": "tv_series",
       "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/36xXlhEpQqVVPuiZhfoQuaY4OlA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
       "genre": "comedy",
       "genres": [
         "comedy",
@@ -225,8 +314,42 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.348,
+      "user_rating": 8.329,
       "release_date": "2022-11-23"
+    },
+    {
+      "id": 1622,
+      "title": "Supernatural",
+      "type": "tv_series",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.316,
+      "release_date": "2005-09-13"
+    },
+    {
+      "id": 222766,
+      "title": "The Day of the Jackal",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "action & adventure",
+        "mystery"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 8.3,
+      "release_date": "2024-11-07"
     },
     {
       "id": 96713,
@@ -247,27 +370,11 @@
       "release_date": "2020-04-20"
     },
     {
-      "id": 46648,
-      "title": "True Detective",
-      "type": "tv_series",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.3,
-      "release_date": "2014-01-12"
-    },
-    {
       "id": 4057,
       "title": "Criminal Minds",
       "type": "tv_series",
       "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gigxjNnACiXAfrwoMox5WJFgc0I.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
       "genre": "crime",
       "genres": [
         "crime",
@@ -276,25 +383,8 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 8.3,
+      "user_rating": 8.295,
       "release_date": "2005-09-22"
-    },
-    {
-      "id": 1622,
-      "title": "Supernatural",
-      "type": "tv_series",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 8.3,
-      "release_date": "2005-09-13"
     },
     {
       "id": 42009,
@@ -310,25 +400,24 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.286,
+      "user_rating": 8.291,
       "release_date": "2011-12-04"
     },
     {
-      "id": 100757,
-      "title": "Outer Banks",
+      "id": 46648,
+      "title": "True Detective",
       "type": "tv_series",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "genre": "action & adventure",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg",
+      "genre": "drama",
       "genres": [
-        "action & adventure",
         "drama",
         "mystery"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.271,
-      "release_date": "2020-04-15"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.287,
+      "release_date": "2014-01-12"
     },
     {
       "id": 39351,
@@ -344,25 +433,93 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 8.267,
+      "user_rating": 8.266,
       "release_date": "2011-10-28"
     },
     {
-      "id": 270476,
-      "title": "Widow's Bay",
+      "id": 95350,
+      "title": "Lanterns",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
-      "genre": "comedy",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "genre": "drama",
       "genres": [
-        "comedy",
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.262,
+      "release_date": "2026-08-16"
+    },
+    {
+      "id": 226637,
+      "title": "High Potential",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
         "drama",
         "mystery"
       ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 8.261,
-      "release_date": "2026-04-28"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.25,
+      "release_date": "2024-09-17"
+    },
+    {
+      "id": 100757,
+      "title": "Outer Banks",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.235,
+      "release_date": "2020-04-15"
+    },
+    {
+      "id": 18123,
+      "title": "Scooby-Doo! Mystery Incorporated",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "family",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.235,
+      "release_date": "2010-07-12"
+    },
+    {
+      "id": 200875,
+      "title": "IT: Welcome to Derry",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.229,
+      "release_date": "2025-10-26"
     },
     {
       "id": 87784,
@@ -378,7 +535,7 @@
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 8.25,
+      "user_rating": 8.226,
       "release_date": "2020-04-24"
     },
     {
@@ -395,24 +552,25 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 8.227,
+      "user_rating": 8.225,
       "release_date": "2012-06-26"
     },
     {
-      "id": 200875,
-      "title": "IT: Welcome to Derry",
+      "id": 21510,
+      "title": "White Collar",
       "type": "tv_series",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-      "genre": "drama",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/417XNiGvdzCsG9kDnnQJYaBsIrx.jpg",
+      "genre": "crime",
       "genres": [
+        "crime",
         "drama",
         "mystery"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.213,
-      "release_date": "2025-10-26"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.215,
+      "release_date": "2009-10-23"
     },
     {
       "id": 1124,
@@ -431,6 +589,40 @@
       "release_date": "2006-10-19"
     },
     {
+      "id": 37257,
+      "title": "Witness for the Prosecution",
+      "type": "movie",
+      "year": 1957,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bCj4EfuehAlgBwVd3diyWyhuuau.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "crime"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.205,
+      "release_date": "1957-12-17"
+    },
+    {
+      "id": 278178,
+      "title": "I Will Find You",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.2,
+      "release_date": "2026-06-18"
+    },
+    {
       "id": 219937,
       "title": "Dexter: Original Sin",
       "type": "tv_series",
@@ -446,23 +638,6 @@
       "service_name": "Prime Video",
       "user_rating": 8.2,
       "release_date": "2024-12-15"
-    },
-    {
-      "id": 85271,
-      "title": "WandaVision",
-      "type": "tv_series",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 8.2,
-      "release_date": "2021-01-15"
     },
     {
       "id": 114547,
@@ -500,24 +675,6 @@
       "release_date": "2018-10-26"
     },
     {
-      "id": 18123,
-      "title": "Scooby-Doo! Mystery Incorporated",
-      "type": "tv_series",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/crKsdtMuN7Y2JdXmmkzIrQzzo36.jpg",
-      "genre": "animation",
-      "genres": [
-        "animation",
-        "family",
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.2,
-      "release_date": "2010-07-12"
-    },
-    {
       "id": 11324,
       "title": "Shutter Island",
       "type": "movie",
@@ -532,57 +689,6 @@
       "service_name": "Peacock",
       "user_rating": 8.2,
       "release_date": "2010-02-14"
-    },
-    {
-      "id": 21510,
-      "title": "White Collar",
-      "type": "tv_series",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/417XNiGvdzCsG9kDnnQJYaBsIrx.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 8.2,
-      "release_date": "2009-10-23"
-    },
-    {
-      "id": 77,
-      "title": "Memento",
-      "type": "movie",
-      "year": 2000,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
-      "genre": "mystery",
-      "genres": [
-        "mystery",
-        "thriller"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 8.2,
-      "release_date": "2000-10-11"
-    },
-    {
-      "id": 1981,
-      "title": "Charmed",
-      "type": "tv_series",
-      "year": 1998,
-      "poster_url": "https://image.tmdb.org/t/p/w342/z4bPJ1BWU2EtV69NII2GVvsugQ2.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "drama",
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 8.2,
-      "release_date": "1998-10-07"
     },
     {
       "id": 2913,
@@ -602,6 +708,23 @@
       "release_date": "1992-08-15"
     },
     {
+      "id": 790,
+      "title": "Agatha Christie's Poirot",
+      "type": "tv_series",
+      "year": 1989,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6f4IVfbn8knb7RjdZlGLuW5guDc.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.195,
+      "release_date": "1989-01-08"
+    },
+    {
       "id": 115004,
       "title": "Mare of Easttown",
       "type": "tv_series",
@@ -619,21 +742,110 @@
       "release_date": "2021-04-18"
     },
     {
-      "id": 790,
-      "title": "Agatha Christie's Poirot",
+      "id": 85271,
+      "title": "WandaVision",
       "type": "tv_series",
-      "year": 1989,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6f4IVfbn8knb7RjdZlGLuW5guDc.jpg",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ijWWwINc8h71NQ8j1LTJMFSj5wr.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 8.181,
+      "release_date": "2021-01-15"
+    },
+    {
+      "id": 77,
+      "title": "Memento",
+      "type": "movie",
+      "year": 2000,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
+      "genre": "mystery",
+      "genres": [
+        "mystery",
+        "thriller",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.173,
+      "release_date": "2000-10-11"
+    },
+    {
+      "id": 77,
+      "title": "Memento",
+      "type": "movie",
+      "year": 2000,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
+      "genre": "mystery",
+      "genres": [
+        "mystery",
+        "thriller",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.173,
+      "release_date": "2000-10-11"
+    },
+    {
+      "id": 185,
+      "title": "Carniv\u00e0le",
+      "type": "tv_series",
+      "year": 1971,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
       "genre": "crime",
       "genres": [
         "crime",
+        "science fiction",
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.169,
+      "release_date": "1971-10-28"
+    },
+    {
+      "id": 283297,
+      "title": "Sterling Point",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "genre": "drama",
+      "genres": [
         "drama",
         "mystery"
       ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 8.179,
-      "release_date": "1989-01-08"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.168,
+      "release_date": "2026-08-05"
+    },
+    {
+      "id": 1981,
+      "title": "Charmed",
+      "type": "tv_series",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z4bPJ1BWU2EtV69NII2GVvsugQ2.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.16,
+      "release_date": "1998-10-07"
     },
     {
       "id": 1705,
@@ -649,7 +861,7 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 8.126,
+      "user_rating": 8.134,
       "release_date": "2008-09-09"
     },
     {
@@ -674,7 +886,7 @@
       "title": "American Horror Story",
       "type": "tv_series",
       "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/x2c3AvZeTyNehRZXabTojAxfDuR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
       "genre": "drama",
       "genres": [
         "drama",
@@ -737,38 +949,21 @@
       "release_date": "2019-09-23"
     },
     {
-      "id": 873,
-      "title": "Columbo",
-      "type": "tv_series",
-      "year": 1971,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
-      "genre": "crime",
+      "id": 1091,
+      "title": "The Thing",
+      "type": "movie",
+      "year": 1982,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "genre": "horror",
       "genres": [
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 8.078,
-      "release_date": "1971-09-15"
-    },
-    {
-      "id": 1606,
-      "title": "Ghost Whisperer",
-      "type": "tv_series",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9ZtGupUFaHhws7mOcwhNTtRpRHC.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
+        "horror",
         "mystery",
-        "sci-fi & fantasy"
+        "science fiction"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 8.068,
-      "release_date": "2005-09-23"
+      "user_rating": 8.073,
+      "release_date": "1982-06-25"
     },
     {
       "id": 63639,
@@ -784,8 +979,59 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 8.065,
+      "user_rating": 8.072,
       "release_date": "2015-12-14"
+    },
+    {
+      "id": 1606,
+      "title": "Ghost Whisperer",
+      "type": "tv_series",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9ZtGupUFaHhws7mOcwhNTtRpRHC.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.063,
+      "release_date": "2005-09-23"
+    },
+    {
+      "id": 873,
+      "title": "Columbo",
+      "type": "tv_series",
+      "year": 1971,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.062,
+      "release_date": "1971-09-15"
+    },
+    {
+      "id": 270476,
+      "title": "Widow's Bay",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 8.051,
+      "release_date": "2026-04-28"
     },
     {
       "id": 46786,
@@ -801,7 +1047,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 8.05,
+      "user_rating": 8.047,
       "release_date": "2013-03-18"
     },
     {
@@ -814,11 +1060,34 @@
       "genres": [
         "adventure",
         "mystery",
+        "science fiction",
+        "adventure",
+        "mystery",
         "science fiction"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.049,
+      "user_rating": 8.044,
+      "release_date": "1968-04-02"
+    },
+    {
+      "id": 62,
+      "title": "2001: A Space Odyssey",
+      "type": "movie",
+      "year": 1968,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "mystery",
+        "science fiction",
+        "adventure",
+        "mystery",
+        "science fiction"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.044,
       "release_date": "1968-04-02"
     },
     {
@@ -838,6 +1107,41 @@
       "release_date": "2025-11-07"
     },
     {
+      "id": 95480,
+      "title": "Slow Horses",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 8.026,
+      "release_date": "2022-04-01"
+    },
+    {
+      "id": 273207,
+      "title": "Neagley",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "crime"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.015,
+      "release_date": "2026-09-16"
+    },
+    {
       "id": 78191,
       "title": "You",
       "type": "tv_series",
@@ -851,15 +1155,31 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.011,
+      "user_rating": 8.004,
       "release_date": "2018-09-09"
     },
     {
-      "id": 226637,
-      "title": "High Potential",
+      "id": 31917,
+      "title": "Pretty Little Liars",
       "type": "tv_series",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aUPbHiLS3hCHKjtLsncFa9g0viV.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.0,
+      "release_date": "2010-06-08"
+    },
+    {
+      "id": 2734,
+      "title": "Law & Order: Special Victims Unit",
+      "type": "tv_series",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "genre": "crime",
       "genres": [
         "crime",
@@ -869,42 +1189,7 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.0,
-      "release_date": "2024-09-17"
-    },
-    {
-      "id": 4607,
-      "title": "Lost",
-      "type": "tv_series",
-      "year": 2004,
-      "poster_url": "https://image.tmdb.org/t/p/w342/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-      "genre": "action & adventure",
-      "genres": [
-        "action & adventure",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 8.0,
-      "release_date": "2004-09-22"
-    },
-    {
-      "id": 1695,
-      "title": "Monk",
-      "type": "tv_series",
-      "year": 2002,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 8.0,
-      "release_date": "2002-07-12"
+      "release_date": "1999-09-20"
     },
     {
       "id": 66276,
@@ -924,20 +1209,55 @@
       "release_date": "2016-07-10"
     },
     {
-      "id": 31917,
-      "title": "Pretty Little Liars",
+      "id": 2391,
+      "title": "Tales from the Crypt",
       "type": "tv_series",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aUPbHiLS3hCHKjtLsncFa9g0viV.jpg",
-      "genre": "drama",
+      "year": 1989,
+      "poster_url": "https://image.tmdb.org/t/p/w342/owrglhGpuB5eJVT3nED6U40NzmM.jpg",
+      "genre": "comedy",
       "genres": [
+        "comedy",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.98,
+      "release_date": "1989-06-10"
+    },
+    {
+      "id": 4607,
+      "title": "Lost",
+      "type": "tv_series",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure",
         "drama",
         "mystery"
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.971,
-      "release_date": "2010-06-08"
+      "user_rating": 7.962,
+      "release_date": "2004-09-22"
+    },
+    {
+      "id": 745,
+      "title": "The Sixth Sense",
+      "type": "movie",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+      "genre": "mystery",
+      "genres": [
+        "mystery",
+        "thriller",
+        "drama"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.955,
+      "release_date": "1999-08-06"
     },
     {
       "id": 5835,
@@ -958,23 +1278,6 @@
       "release_date": "1995-10-27"
     },
     {
-      "id": 2734,
-      "title": "Law & Order: Special Victims Unit",
-      "type": "tv_series",
-      "year": 1999,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.943,
-      "release_date": "1999-09-20"
-    },
-    {
       "id": 58956,
       "title": "Wolfblood",
       "type": "tv_series",
@@ -992,11 +1295,46 @@
       "release_date": "2012-09-10"
     },
     {
+      "id": 1695,
+      "title": "Monk",
+      "type": "tv_series",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.935,
+      "release_date": "2002-07-12"
+    },
+    {
+      "id": 1301421,
+      "title": "The Sheep Detectives",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "family",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.932,
+      "release_date": "2026-04-30"
+    },
+    {
       "id": 60585,
       "title": "Bosch",
       "type": "tv_series",
       "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vVwyo9fwHp5zhX96CzpuRBFl2SJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vtacLvdLgW3BNUj8DrC76X39Lfi.jpg",
       "genre": "crime",
       "genres": [
         "crime",
@@ -1005,7 +1343,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.919,
+      "user_rating": 7.923,
       "release_date": "2015-01-14"
     },
     {
@@ -1022,7 +1360,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.902,
+      "user_rating": 7.916,
       "release_date": "2013-03-04"
     },
     {
@@ -1075,24 +1413,6 @@
       "release_date": "2025-05-29"
     },
     {
-      "id": 32895,
-      "title": "Rizzoli & Isles",
-      "type": "tv_series",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kuCNyr4XVQ4MZWiNjVS6DypE988.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.9,
-      "release_date": "2010-07-12"
-    },
-    {
       "id": 1426,
       "title": "Luther",
       "type": "tv_series",
@@ -1114,7 +1434,7 @@
       "title": "Desperate Housewives",
       "type": "tv_series",
       "year": 2004,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sywYmV9c9Vj2U7ocqNyfDt2pz3r.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4qeI51jDzH81PpUUNaJCBrfm7f6.jpg",
       "genre": "comedy",
       "genres": [
         "comedy",
@@ -1123,25 +1443,25 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.899,
+      "user_rating": 7.892,
       "release_date": "2004-10-03"
     },
     {
-      "id": 185,
-      "title": "Carniv\u00e0le",
-      "type": "tv_series",
-      "year": 2003,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5pKvfZ3qLuKJd8PQfKcPxN9jTO9.jpg",
-      "genre": "drama",
+      "id": 210577,
+      "title": "Gone Girl",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "genre": "mystery",
       "genres": [
-        "drama",
         "mystery",
-        "sci-fi & fantasy"
+        "thriller",
+        "drama"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.889,
-      "release_date": "2003-09-14"
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.89,
+      "release_date": "2014-10-01"
     },
     {
       "id": 65708,
@@ -1177,37 +1497,38 @@
       "release_date": "2009-01-21"
     },
     {
-      "id": 1450,
-      "title": "The Closer",
+      "id": 32895,
+      "title": "Rizzoli & Isles",
       "type": "tv_series",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
-      "genre": "crime",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kuCNyr4XVQ4MZWiNjVS6DypE988.jpg",
+      "genre": "comedy",
       "genres": [
+        "comedy",
         "crime",
         "drama",
         "mystery"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.865,
-      "release_date": "2005-06-13"
+      "user_rating": 7.881,
+      "release_date": "2010-07-12"
     },
     {
-      "id": 156933,
-      "title": "Presumed Innocent",
-      "type": "tv_series",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7MXg0BxuSRWz2yKc03M40du2mrc.jpg",
-      "genre": "drama",
+      "id": 1304313,
+      "title": "Lee Cronin's The Mummy",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1q308iixueCU4pFtSYugNOevtNx.jpg",
+      "genre": "horror",
       "genres": [
-        "drama",
+        "horror",
         "mystery"
       ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 7.851,
-      "release_date": "2024-06-11"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.86,
+      "release_date": "2026-04-15"
     },
     {
       "id": 546554,
@@ -1227,6 +1548,56 @@
       "release_date": "2019-11-27"
     },
     {
+      "id": 156933,
+      "title": "Presumed Innocent",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7MXg0BxuSRWz2yKc03M40du2mrc.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.834,
+      "release_date": "2024-06-11"
+    },
+    {
+      "id": 2583,
+      "title": "Prime Suspect",
+      "type": "tv_series",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vhlbnMgz9hBouXWmxBS2RjFC03S.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.829,
+      "release_date": "1991-04-07"
+    },
+    {
+      "id": 93,
+      "title": "Anatomy of a Murder",
+      "type": "movie",
+      "year": 1959,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.828,
+      "release_date": "1959-07-01"
+    },
+    {
       "id": 90462,
       "title": "Chucky",
       "type": "tv_series",
@@ -1240,25 +1611,42 @@
       ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.82,
+      "user_rating": 7.811,
       "release_date": "2021-10-12"
     },
     {
-      "id": 1432,
-      "title": "Veronica Mars",
-      "type": "tv_series",
-      "year": 2004,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
-      "genre": "comedy",
+      "id": 2118,
+      "title": "L.A. Confidential",
+      "type": "movie",
+      "year": 1997,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
+      "genre": "crime",
       "genres": [
-        "comedy",
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.808,
+      "release_date": "1997-09-19"
+    },
+    {
+      "id": 61056,
+      "title": "How to Get Away with Murder",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
         "drama",
         "mystery"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.808,
-      "release_date": "2004-09-22"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.806,
+      "release_date": "2014-09-25"
     },
     {
       "id": 54671,
@@ -1364,23 +1752,6 @@
       "release_date": "2015-09-22"
     },
     {
-      "id": 61056,
-      "title": "How to Get Away with Murder",
-      "type": "tv_series",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.8,
-      "release_date": "2014-09-25"
-    },
-    {
       "id": 34415,
       "title": "The Killing",
       "type": "tv_series",
@@ -1416,38 +1787,55 @@
       "release_date": "2002-10-27"
     },
     {
-      "id": 831223,
-      "title": "Gone Mom: The Disappearance of Jennifer Dulos",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mzTNGnLG6LTHmrqrY0IADHDuyOJ.jpg",
+      "id": 1450,
+      "title": "The Closer",
+      "type": "tv_series",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
       "genre": "crime",
       "genres": [
         "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.798,
+      "release_date": "2005-06-13"
+    },
+    {
+      "id": 1432,
+      "title": "Veronica Mars",
+      "type": "tv_series",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.795,
+      "release_date": "2004-09-22"
+    },
+    {
+      "id": 5273,
+      "title": "Alfred Hitchcock Presents",
+      "type": "tv_series",
+      "year": 1955,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lmbBSG3jRVjxdovpdhOf2LF1voZ.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
         "mystery"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.792,
-      "release_date": "2021-06-05"
-    },
-    {
-      "id": 224263,
-      "title": "Stranger Things: Tales from '85",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
-      "genre": "action & adventure",
-      "genres": [
-        "action & adventure",
-        "animation",
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.788,
-      "release_date": "2026-04-23"
+      "user_rating": 7.783,
+      "release_date": "1955-10-02"
     },
     {
       "id": 113036,
@@ -1465,23 +1853,6 @@
       "service_name": "Hulu",
       "user_rating": 7.773,
       "release_date": "2021-07-15"
-    },
-    {
-      "id": 5273,
-      "title": "Alfred Hitchcock Presents",
-      "type": "tv_series",
-      "year": 1955,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lmbBSG3jRVjxdovpdhOf2LF1voZ.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.769,
-      "release_date": "1955-10-02"
     },
     {
       "id": 80307,
@@ -1519,19 +1890,83 @@
       "release_date": "2003-09-28"
     },
     {
+      "id": 831223,
+      "title": "Gone Mom: The Disappearance of Jennifer Dulos",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mzTNGnLG6LTHmrqrY0IADHDuyOJ.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "tv movie",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.763,
+      "release_date": "2021-06-05"
+    },
+    {
+      "id": 831223,
+      "title": "Gone Mom: The Disappearance of Jennifer Dulos",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mzTNGnLG6LTHmrqrY0IADHDuyOJ.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "tv movie",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.763,
+      "release_date": "2021-06-05"
+    },
+    {
       "id": 141,
       "title": "Cheers",
       "type": "tv_series",
       "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sv7D4vlfIH25lNjQYoXzoOFCYaz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
       "genre": "drama",
       "genres": [
+        "drama",
+        "fantasy",
+        "mystery",
+        "comedy",
         "drama",
         "mystery"
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.763,
+      "user_rating": 7.76,
+      "release_date": "2001-01-19"
+    },
+    {
+      "id": 141,
+      "title": "Cheers",
+      "type": "tv_series",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "fantasy",
+        "mystery",
+        "comedy",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.76,
       "release_date": "2001-01-19"
     },
     {
@@ -1654,23 +2089,6 @@
       "release_date": "1988-10-05"
     },
     {
-      "id": 93166,
-      "title": "The Capture",
-      "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.712,
-      "release_date": "2019-09-03"
-    },
-    {
       "id": 3764,
       "title": "Hustle",
       "type": "tv_series",
@@ -1689,23 +2107,6 @@
       "release_date": "2004-02-24"
     },
     {
-      "id": 129552,
-      "title": "The Night Agent",
-      "type": "tv_series",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
-      "genre": "action & adventure",
-      "genres": [
-        "action & adventure",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.708,
-      "release_date": "2023-03-23"
-    },
-    {
       "id": 4177,
       "title": "Perry Mason",
       "type": "tv_series",
@@ -1719,25 +2120,25 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.706,
+      "user_rating": 7.707,
       "release_date": "1957-09-21"
     },
     {
-      "id": 1620,
-      "title": "CSI: Miami",
-      "type": "tv_series",
-      "year": 2002,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
-      "genre": "crime",
+      "id": 963,
+      "title": "The Maltese Falcon",
+      "type": "movie",
+      "year": 1941,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+      "genre": "mystery",
       "genres": [
+        "mystery",
         "crime",
-        "drama",
-        "mystery"
+        "thriller"
       ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.705,
-      "release_date": "2002-09-23"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.703,
+      "release_date": "1941-10-18"
     },
     {
       "id": 132750,
@@ -1773,21 +2174,21 @@
       "release_date": "2023-08-03"
     },
     {
-      "id": 123192,
-      "title": "The Crowded Room",
+      "id": 129552,
+      "title": "The Night Agent",
       "type": "tv_series",
       "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vRmopCFp0j1eJGbILLsYsYzxmL8.jpg",
-      "genre": "crime",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
+      "genre": "action & adventure",
       "genres": [
-        "crime",
+        "action & adventure",
         "drama",
         "mystery"
       ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 7.7,
-      "release_date": "2023-06-08"
+      "release_date": "2023-03-23"
     },
     {
       "id": 105177,
@@ -1805,22 +2206,6 @@
       "service_name": "Netflix",
       "user_rating": 7.7,
       "release_date": "2020-07-01"
-    },
-    {
-      "id": 12786,
-      "title": "Murdoch Mysteries",
-      "type": "tv_series",
-      "year": 2008,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1S8gnT06MDkAmHmzDLSVughE0t0.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.7,
-      "release_date": "2008-01-24"
     },
     {
       "id": 894,
@@ -1865,12 +2250,50 @@
       "genre": "comedy",
       "genres": [
         "comedy",
+        "mystery",
+        "romance",
+        "comedy",
         "mystery"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.7,
       "release_date": "1963-12-01"
+    },
+    {
+      "id": 4808,
+      "title": "Charade",
+      "type": "movie",
+      "year": 1963,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "mystery",
+        "romance",
+        "comedy",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.7,
+      "release_date": "1963-12-01"
+    },
+    {
+      "id": 12786,
+      "title": "Murdoch Mysteries",
+      "type": "tv_series",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gMXlZrd9iuPUdVQg9CTVXtLwnVV.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.694,
+      "release_date": "2008-01-24"
     },
     {
       "id": 99335,
@@ -1890,39 +2313,6 @@
       "release_date": "2020-02-14"
     },
     {
-      "id": 3797,
-      "title": "Life",
-      "type": "tv_series",
-      "year": 2007,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4zTDeRJxdMqH3Si2fIZjQi44k17.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.68,
-      "release_date": "2007-09-26"
-    },
-    {
-      "id": 414906,
-      "title": "The Batman",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "mystery"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.661,
-      "release_date": "2022-03-01"
-    },
-    {
       "id": 720,
       "title": "DuckTales",
       "type": "tv_series",
@@ -1938,8 +2328,126 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.659,
+      "user_rating": 7.68,
       "release_date": "1987-09-18"
+    },
+    {
+      "id": 123192,
+      "title": "The Crowded Room",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vRmopCFp0j1eJGbILLsYsYzxmL8.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.679,
+      "release_date": "2023-06-08"
+    },
+    {
+      "id": 1620,
+      "title": "CSI: Miami",
+      "type": "tv_series",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.678,
+      "release_date": "2002-09-23"
+    },
+    {
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "mystery",
+        "animation",
+        "comedy",
+        "family",
+        "mystery"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.673,
+      "release_date": "2025-11-26"
+    },
+    {
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "mystery",
+        "animation",
+        "comedy",
+        "family",
+        "mystery"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.673,
+      "release_date": "2025-11-26"
+    },
+    {
+      "id": 414906,
+      "title": "The Batman",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.67,
+      "release_date": "2022-03-01"
+    },
+    {
+      "id": 414906,
+      "title": "The Batman",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.67,
+      "release_date": "2022-03-01"
     },
     {
       "id": 43078,
@@ -1959,29 +2467,80 @@
       "release_date": "2012-02-24"
     },
     {
-      "id": 1084242,
-      "title": "Zootopia 2",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "genre": "animation",
+      "id": 93166,
+      "title": "The Capture",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6keUrgntgKt299a39UJCDYldb8b.jpg",
+      "genre": "crime",
       "genres": [
-        "animation",
-        "comedy",
-        "family",
+        "crime",
+        "drama",
         "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.65,
+      "release_date": "2019-09-03"
+    },
+    {
+      "id": 3797,
+      "title": "Life",
+      "type": "tv_series",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4zTDeRJxdMqH3Si2fIZjQi44k17.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.642,
+      "release_date": "2007-09-26"
+    },
+    {
+      "id": 224263,
+      "title": "Stranger Things: Tales from '85",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure",
+        "animation",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.639,
+      "release_date": "2026-04-23"
+    },
+    {
+      "id": 92749,
+      "title": "Moon Knight",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/x6FsYvt33846IQnDSFxla9j0RX8.jpg",
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.644,
-      "release_date": "2025-11-26"
+      "user_rating": 7.636,
+      "release_date": "2022-03-30"
     },
     {
-      "id": 1431,
-      "title": "CSI: Crime Scene Investigation",
+      "id": 1415,
+      "title": "Elementary",
       "type": "tv_series",
-      "year": 2000,
-      "poster_url": "https://image.tmdb.org/t/p/w342/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
       "genre": "crime",
       "genres": [
         "crime",
@@ -1990,8 +2549,8 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.637,
-      "release_date": "2000-10-06"
+      "user_rating": 7.633,
+      "release_date": "2012-09-27"
     },
     {
       "id": 46952,
@@ -2007,25 +2566,8 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.636,
+      "user_rating": 7.632,
       "release_date": "2013-09-23"
-    },
-    {
-      "id": 79696,
-      "title": "Manifest",
-      "type": "tv_series",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/eTemCphrglLKrXOsNRhYezHA7H9.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.633,
-      "release_date": "2018-09-24"
     },
     {
       "id": 113367,
@@ -2044,21 +2586,20 @@
       "release_date": "2020-12-11"
     },
     {
-      "id": 1415,
-      "title": "Elementary",
-      "type": "tv_series",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
-      "genre": "crime",
+      "id": 1939,
+      "title": "Laura",
+      "type": "movie",
+      "year": 1944,
+      "poster_url": "https://image.tmdb.org/t/p/w342/utpUn9TdBIx6x2QX91YhYzFZxg1.jpg",
+      "genre": "drama",
       "genres": [
-        "crime",
         "drama",
         "mystery"
       ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.628,
-      "release_date": "2012-09-27"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.631,
+      "release_date": "1944-10-11"
     },
     {
       "id": 79788,
@@ -2080,6 +2621,46 @@
       "release_date": "2019-10-20"
     },
     {
+      "id": 419430,
+      "title": "Get Out",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "thriller",
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.625,
+      "release_date": "2017-02-24"
+    },
+    {
+      "id": 419430,
+      "title": "Get Out",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "thriller",
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.625,
+      "release_date": "2017-02-24"
+    },
+    {
       "id": 82104,
       "title": "The Order",
       "type": "tv_series",
@@ -2097,21 +2678,21 @@
       "release_date": "2019-03-07"
     },
     {
-      "id": 111803,
-      "title": "The White Lotus",
+      "id": 1431,
+      "title": "CSI: Crime Scene Investigation",
       "type": "tv_series",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
-      "genre": "comedy",
+      "year": 2000,
+      "poster_url": "https://image.tmdb.org/t/p/w342/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+      "genre": "crime",
       "genres": [
-        "comedy",
+        "crime",
         "drama",
         "mystery"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.607,
-      "release_date": "2021-07-11"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.609,
+      "release_date": "2000-10-06"
     },
     {
       "id": 63,
@@ -2131,6 +2712,40 @@
       "release_date": "1995-12-29"
     },
     {
+      "id": 79696,
+      "title": "Manifest",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eTemCphrglLKrXOsNRhYezHA7H9.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.605,
+      "release_date": "2018-09-24"
+    },
+    {
+      "id": 207411,
+      "title": "Good American Family",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fzznLJmBzU5tTxFzklepKifE16o.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.6,
+      "release_date": "2025-03-19"
+    },
+    {
       "id": 157065,
       "title": "The Fall of the House of Usher",
       "type": "tv_series",
@@ -2145,23 +2760,6 @@
       "service_name": "Netflix",
       "user_rating": 7.6,
       "release_date": "2023-10-12"
-    },
-    {
-      "id": 92749,
-      "title": "Moon Knight",
-      "type": "tv_series",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/YksR65as1ppF2N48TJAh2PLamX.jpg",
-      "genre": "action & adventure",
-      "genres": [
-        "action & adventure",
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.6,
-      "release_date": "2022-03-30"
     },
     {
       "id": 120462,
@@ -2247,23 +2845,6 @@
       "release_date": "2018-03-09"
     },
     {
-      "id": 419430,
-      "title": "Get Out",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg",
-      "genre": "horror",
-      "genres": [
-        "horror",
-        "mystery",
-        "thriller"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.6,
-      "release_date": "2017-02-24"
-    },
-    {
       "id": 59312,
       "title": "The Bletchley Circle",
       "type": "tv_series",
@@ -2295,6 +2876,23 @@
       "service_name": "Hulu",
       "user_rating": 7.595,
       "release_date": "2022-09-07"
+    },
+    {
+      "id": 111803,
+      "title": "The White Lotus",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.594,
+      "release_date": "2021-07-11"
     },
     {
       "id": 2649,
@@ -2345,11 +2943,62 @@
       "release_date": "2021-09-24"
     },
     {
-      "id": 88055,
-      "title": "Servant",
+      "id": 46923,
+      "title": "Shetland",
       "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/plsSSobmPSSz4hm8vYMXeIVkJJP.jpg",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.528,
+      "release_date": "2013-03-10"
+    },
+    {
+      "id": 1998,
+      "title": "Moonlighting",
+      "type": "tv_series",
+      "year": 1985,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yOetTNRQLPmlfO0k5377yhHZyC3.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.528,
+      "release_date": "1985-03-03"
+    },
+    {
+      "id": 66788,
+      "title": "13 Reasons Why",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nel144y4dIOdFFid6twN5mAX9Yd.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.525,
+      "release_date": "2017-03-31"
+    },
+    {
+      "id": 98161,
+      "title": "Home Before Dark",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mt4P2epJrSaqrlkMP9fTUKLP9OE.jpg",
       "genre": "drama",
       "genres": [
         "drama",
@@ -2357,8 +3006,8 @@
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.529,
-      "release_date": "2019-11-28"
+      "user_rating": 7.522,
+      "release_date": "2020-04-03"
     },
     {
       "id": 33001,
@@ -2374,7 +3023,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.519,
+      "user_rating": 7.517,
       "release_date": "2010-07-09"
     },
     {
@@ -2412,21 +3061,75 @@
       "release_date": "2015-10-08"
     },
     {
-      "id": 592,
-      "title": "The Conversation",
+      "id": 682507,
+      "title": "Where the Crawdads Sing",
       "type": "movie",
-      "year": 1974,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dHqVBwcv1SGymOpUueRoKzcmdes.jpg",
-      "genre": "crime",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/n1el846gLDXfhOvrRCsyvaAOQWv.jpg",
+      "genre": "drama",
       "genres": [
-        "crime",
+        "drama",
+        "mystery",
+        "romance",
         "drama",
         "mystery"
       ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.502,
-      "release_date": "1974-04-12"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.508,
+      "release_date": "2022-07-14"
+    },
+    {
+      "id": 682507,
+      "title": "Where the Crawdads Sing",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/n1el846gLDXfhOvrRCsyvaAOQWv.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "romance",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.508,
+      "release_date": "2022-07-14"
+    },
+    {
+      "id": 88055,
+      "title": "Servant",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/plsSSobmPSSz4hm8vYMXeIVkJJP.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.501,
+      "release_date": "2019-11-28"
+    },
+    {
+      "id": 242054,
+      "title": "The Residence",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cJZbg425I9LF3SlJVQDOg4nJEvq.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2025-03-20"
     },
     {
       "id": 108545,
@@ -2446,22 +3149,6 @@
       "release_date": "2024-03-21"
     },
     {
-      "id": 682507,
-      "title": "Where the Crawdads Sing",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/n1el846gLDXfhOvrRCsyvaAOQWv.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.5,
-      "release_date": "2022-07-14"
-    },
-    {
       "id": 128904,
       "title": "Dark Winds",
       "type": "tv_series",
@@ -2479,95 +3166,13 @@
       "release_date": "2022-06-12"
     },
     {
-      "id": 106388,
-      "title": "Shining Girls",
+      "id": 4920,
+      "title": "Damages",
       "type": "tv_series",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qmN97JxhZHgCThRqgzaiSF7C2mj.jpg",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bowEbW8Q3Oc02BvHBKTL5gWv9Nx.jpg",
       "genre": "crime",
       "genres": [
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 7.5,
-      "release_date": "2022-04-28"
-    },
-    {
-      "id": 117488,
-      "title": "Yellowjackets",
-      "type": "tv_series",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.5,
-      "release_date": "2021-11-14"
-    },
-    {
-      "id": 98161,
-      "title": "Home Before Dark",
-      "type": "tv_series",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mt4P2epJrSaqrlkMP9fTUKLP9OE.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 7.5,
-      "release_date": "2020-04-03"
-    },
-    {
-      "id": 66788,
-      "title": "13 Reasons Why",
-      "type": "tv_series",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nel144y4dIOdFFid6twN5mAX9Yd.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.5,
-      "release_date": "2017-03-31"
-    },
-    {
-      "id": 192,
-      "title": "A Bit of Fry & Laurie",
-      "type": "tv_series",
-      "year": 1986,
-      "poster_url": "https://image.tmdb.org/t/p/w342/d6dlbTBb3N7nXDz7tQslDJs2jgv.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.5,
-      "release_date": "1986-09-24"
-    },
-    {
-      "id": 1998,
-      "title": "Moonlighting",
-      "type": "tv_series",
-      "year": 1985,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yOetTNRQLPmlfO0k5377yhHZyC3.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
         "crime",
         "drama",
         "mystery"
@@ -2575,7 +3180,47 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.5,
-      "release_date": "1985-03-03"
+      "release_date": "2007-07-24"
+    },
+    {
+      "id": 14919,
+      "title": "Batman: Mask of the Phantasm",
+      "type": "movie",
+      "year": 1993,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "crime",
+        "mystery",
+        "animation",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.5,
+      "release_date": "1993-12-25"
+    },
+    {
+      "id": 14919,
+      "title": "Batman: Mask of the Phantasm",
+      "type": "movie",
+      "year": 1993,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "crime",
+        "mystery",
+        "animation",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.5,
+      "release_date": "1993-12-25"
     },
     {
       "id": 484,
@@ -2595,21 +3240,82 @@
       "release_date": "1984-09-30"
     },
     {
-      "id": 14919,
-      "title": "Batman: Mask of the Phantasm",
-      "type": "movie",
-      "year": 1993,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg",
-      "genre": "animation",
+      "id": 192,
+      "title": "A Bit of Fry & Laurie",
+      "type": "tv_series",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/d6dlbTBb3N7nXDz7tQslDJs2jgv.jpg",
+      "genre": "drama",
       "genres": [
-        "animation",
-        "crime",
+        "drama",
+        "mystery",
+        "thriller",
+        "drama",
         "mystery"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.499,
-      "release_date": "1993-12-25"
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.497,
+      "release_date": "1986-09-24"
+    },
+    {
+      "id": 192,
+      "title": "A Bit of Fry & Laurie",
+      "type": "tv_series",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/d6dlbTBb3N7nXDz7tQslDJs2jgv.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.497,
+      "release_date": "1986-09-24"
+    },
+    {
+      "id": 592,
+      "title": "The Conversation",
+      "type": "movie",
+      "year": 1974,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dHqVBwcv1SGymOpUueRoKzcmdes.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery",
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.497,
+      "release_date": "1974-04-12"
+    },
+    {
+      "id": 592,
+      "title": "The Conversation",
+      "type": "movie",
+      "year": 1974,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dHqVBwcv1SGymOpUueRoKzcmdes.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery",
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.497,
+      "release_date": "1974-04-12"
     },
     {
       "id": 128095,
@@ -2646,6 +3352,40 @@
       "release_date": "2026-01-21"
     },
     {
+      "id": 62822,
+      "title": "Humans",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.487,
+      "release_date": "2015-06-14"
+    },
+    {
+      "id": 345,
+      "title": "Eyes Wide Shut",
+      "type": "movie",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.485,
+      "release_date": "1999-07-16"
+    },
+    {
       "id": 83659,
       "title": "Guillermo del Toro's Cabinet of Curiosities",
       "type": "tv_series",
@@ -2663,37 +3403,25 @@
       "release_date": "2022-10-25"
     },
     {
-      "id": 62822,
-      "title": "Humans",
+      "id": 186,
+      "title": "Weeds",
       "type": "tv_series",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.474,
-      "release_date": "2015-06-14"
-    },
-    {
-      "id": 120998,
-      "title": "Poker Face",
-      "type": "tv_series",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8Xm5dyMQC9whMJKnGdFugUAW73C.jpg",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/x21s3p5wPww534nYj1cWakTcqz4.jpg",
       "genre": "crime",
       "genres": [
         "crime",
-        "mystery"
+        "drama",
+        "mystery",
+        "thriller",
+        "comedy",
+        "crime",
+        "drama"
       ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.469,
-      "release_date": "2023-01-26"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.475,
+      "release_date": "2006-02-24"
     },
     {
       "id": 47640,
@@ -2709,25 +3437,24 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.465,
+      "user_rating": 7.463,
       "release_date": "2014-07-13"
     },
     {
-      "id": 4920,
-      "title": "Damages",
+      "id": 147050,
+      "title": "Disclaimer",
       "type": "tv_series",
-      "year": 2007,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bowEbW8Q3Oc02BvHBKTL5gWv9Nx.jpg",
-      "genre": "crime",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/m0ZB5DEJKare7NTdeR1UQpHYy4c.jpg",
+      "genre": "drama",
       "genres": [
-        "crime",
         "drama",
         "mystery"
       ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.464,
-      "release_date": "2007-07-24"
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.46,
+      "release_date": "2024-10-11"
     },
     {
       "id": 114705,
@@ -2745,22 +3472,6 @@
       "service_name": "Netflix",
       "user_rating": 7.458,
       "release_date": "2021-01-13"
-    },
-    {
-      "id": 138501,
-      "title": "Agatha All Along",
-      "type": "tv_series",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
-      "genre": "mystery",
-      "genres": [
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.457,
-      "release_date": "2024-09-18"
     },
     {
       "id": 11704,
@@ -2781,37 +3492,53 @@
       "release_date": "1982-06-17"
     },
     {
-      "id": 147050,
-      "title": "Disclaimer",
+      "id": 120998,
+      "title": "Poker Face",
       "type": "tv_series",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/m0ZB5DEJKare7NTdeR1UQpHYy4c.jpg",
-      "genre": "drama",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8Xm5dyMQC9whMJKnGdFugUAW73C.jpg",
+      "genre": "crime",
       "genres": [
-        "drama",
+        "crime",
         "mystery"
       ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 7.452,
-      "release_date": "2024-10-11"
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.448,
+      "release_date": "2023-01-26"
     },
     {
-      "id": 46930,
-      "title": "Ripper Street",
+      "id": 138501,
+      "title": "Agatha All Along",
       "type": "tv_series",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6w8yKYsA7RkuyauW224kBZQebFt.jpg",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
+      "genre": "mystery",
+      "genres": [
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.446,
+      "release_date": "2024-09-18"
+    },
+    {
+      "id": 106388,
+      "title": "Shining Girls",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qmN97JxhZHgCThRqgzaiSF7C2mj.jpg",
       "genre": "crime",
       "genres": [
         "crime",
         "drama",
         "mystery"
       ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.441,
-      "release_date": "2012-12-30"
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.445,
+      "release_date": "2022-04-28"
     },
     {
       "id": 395834,
@@ -2822,12 +3549,35 @@
       "genre": "crime",
       "genres": [
         "crime",
+        "mystery",
+        "thriller",
+        "crime",
         "drama",
         "mystery"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.439,
+      "user_rating": 7.442,
+      "release_date": "2017-08-03"
+    },
+    {
+      "id": 395834,
+      "title": "Wind River",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "thriller",
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.442,
       "release_date": "2017-08-03"
     },
     {
@@ -2848,6 +3598,44 @@
       "release_date": "2017-02-03"
     },
     {
+      "id": 1923,
+      "title": "Twin Peaks: Fire Walk with Me",
+      "type": "movie",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mxsGXqetGnirf99qapYd5MMY1VL.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "mystery",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.434,
+      "release_date": "1992-06-03"
+    },
+    {
+      "id": 1923,
+      "title": "Twin Peaks: Fire Walk with Me",
+      "type": "movie",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mxsGXqetGnirf99qapYd5MMY1VL.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "mystery",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.434,
+      "release_date": "1992-06-03"
+    },
+    {
       "id": 940,
       "title": "The Lady Vanishes",
       "type": "movie",
@@ -2864,6 +3652,39 @@
       "release_date": "1938-10-07"
     },
     {
+      "id": 117488,
+      "title": "Yellowjackets",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.43,
+      "release_date": "2021-11-14"
+    },
+    {
+      "id": 50825,
+      "title": "Sleepy Hollow",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2RHj62XneYMCRPAyQrEIrKVij12.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.424,
+      "release_date": "2013-09-16"
+    },
+    {
       "id": 86686,
       "title": "Creepshow",
       "type": "tv_series",
@@ -2878,6 +3699,23 @@
       "service_name": "Prime Video",
       "user_rating": 7.422,
       "release_date": "2019-09-26"
+    },
+    {
+      "id": 1847,
+      "title": "The Long Goodbye",
+      "type": "movie",
+      "year": 1973,
+      "poster_url": "https://image.tmdb.org/t/p/w342/16Gu0Vg7tBdoRxg1NJDwlTKx1hG.jpg",
+      "genre": "mystery",
+      "genres": [
+        "mystery",
+        "drama",
+        "crime"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.413,
+      "release_date": "1973-03-08"
     },
     {
       "id": 64158,
@@ -2897,20 +3735,21 @@
       "release_date": "2015-10-13"
     },
     {
-      "id": 829280,
-      "title": "Enola Holmes 2",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+      "id": 46930,
+      "title": "Ripper Street",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6w8yKYsA7RkuyauW224kBZQebFt.jpg",
       "genre": "crime",
       "genres": [
         "crime",
+        "drama",
         "mystery"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.404,
-      "release_date": "2022-11-04"
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.406,
+      "release_date": "2012-12-30"
     },
     {
       "id": 98201,
@@ -2946,37 +3785,82 @@
       "release_date": "2026-01-08"
     },
     {
-      "id": 768362,
-      "title": "Missing",
+      "id": 829280,
+      "title": "Enola Holmes 2",
       "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg",
-      "genre": "drama",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+      "genre": "adventure",
       "genres": [
+        "adventure",
+        "crime",
+        "mystery",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2022-11-03"
+    },
+    {
+      "id": 829280,
+      "title": "Enola Holmes 2",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "crime",
+        "mystery",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2022-11-03"
+    },
+    {
+      "id": 627070,
+      "title": "Tell Me Who I Am",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/v5D745JdnDLVaFsp0eTmSoV8OBV.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama",
+        "mystery",
+        "documentary",
         "drama",
         "mystery"
       ],
-      "service_id": 15,
-      "service_name": "Hulu",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 7.4,
-      "release_date": "2023-01-19"
+      "release_date": "2019-10-18"
     },
     {
-      "id": 423108,
-      "title": "The Conjuring: The Devil Made Me Do It",
+      "id": 627070,
+      "title": "Tell Me Who I Am",
       "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
-      "genre": "horror",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/v5D745JdnDLVaFsp0eTmSoV8OBV.jpg",
+      "genre": "documentary",
       "genres": [
-        "horror",
+        "documentary",
+        "drama",
         "mystery",
-        "thriller"
+        "documentary",
+        "drama",
+        "mystery"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 7.4,
-      "release_date": "2021-05-25"
+      "release_date": "2019-10-18"
     },
     {
       "id": 75191,
@@ -3030,23 +3914,6 @@
       "release_date": "2017-01-11"
     },
     {
-      "id": 50825,
-      "title": "Sleepy Hollow",
-      "type": "tv_series",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2RHj62XneYMCRPAyQrEIrKVij12.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.4,
-      "release_date": "2013-09-16"
-    },
-    {
       "id": 39185,
       "title": "Vera",
       "type": "tv_series",
@@ -3062,23 +3929,6 @@
       "service_name": "Prime Video",
       "user_rating": 7.4,
       "release_date": "2011-05-01"
-    },
-    {
-      "id": 13183,
-      "title": "Watchmen",
-      "type": "movie",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
-      "genre": "action",
-      "genres": [
-        "action",
-        "mystery",
-        "science fiction"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.4,
-      "release_date": "2009-03-04"
     },
     {
       "id": 7263,
@@ -3114,22 +3964,6 @@
       "release_date": "2004-10-01"
     },
     {
-      "id": 1923,
-      "title": "Twin Peaks: Fire Walk with Me",
-      "type": "movie",
-      "year": 1992,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mxsGXqetGnirf99qapYd5MMY1VL.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.4,
-      "release_date": "1992-06-03"
-    },
-    {
       "id": 65294,
       "title": "A Series of Unfortunate Events",
       "type": "tv_series",
@@ -3161,8 +3995,25 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.396,
+      "user_rating": 7.397,
       "release_date": "2018-03-14"
+    },
+    {
+      "id": 65754,
+      "title": "The Girl with the Dragon Tattoo",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+      "genre": "thriller",
+      "genres": [
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.386,
+      "release_date": "2011-12-14"
     },
     {
       "id": 218342,
@@ -3182,6 +4033,44 @@
       "release_date": "2024-07-10"
     },
     {
+      "id": 768362,
+      "title": "Missing",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.379,
+      "release_date": "2023-01-19"
+    },
+    {
+      "id": 768362,
+      "title": "Missing",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.379,
+      "release_date": "2023-01-19"
+    },
+    {
       "id": 4333,
       "title": "The Saint",
       "type": "tv_series",
@@ -3196,7 +4085,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.361,
+      "user_rating": 7.379,
       "release_date": "1962-10-04"
     },
     {
@@ -3217,6 +4106,46 @@
       "release_date": "2020-01-12"
     },
     {
+      "id": 13183,
+      "title": "Watchmen",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "mystery",
+        "science fiction",
+        "action",
+        "mystery",
+        "science fiction"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.356,
+      "release_date": "2009-03-04"
+    },
+    {
+      "id": 13183,
+      "title": "Watchmen",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "mystery",
+        "science fiction",
+        "action",
+        "mystery",
+        "science fiction"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.356,
+      "release_date": "2009-03-04"
+    },
+    {
       "id": 83851,
       "title": "The Undoing",
       "type": "tv_series",
@@ -3234,21 +4163,38 @@
       "release_date": "2020-10-25"
     },
     {
-      "id": 627070,
-      "title": "Tell Me Who I Am",
+      "id": 11644,
+      "title": "Blow Out",
       "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oMfiD7wjdwRxPSdZ7gz7iNO3Z0B.jpg",
-      "genre": "documentary",
+      "year": 1981,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uFzMscVLDrTaYd6KXOXlr6dly7w.jpg",
+      "genre": "crime",
       "genres": [
-        "documentary",
-        "drama",
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.352,
+      "release_date": "1981-07-24"
+    },
+    {
+      "id": 2252,
+      "title": "Eastern Promises",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nLwv1pxRCRZucQaqs6oPkq7HH3K.jpg",
+      "genre": "thriller",
+      "genres": [
+        "thriller",
+        "crime",
         "mystery"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.348,
-      "release_date": "2019-10-18"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.344,
+      "release_date": "2007-09-14"
     },
     {
       "id": 81349,
@@ -3266,6 +4212,46 @@
       "service_name": "Hulu",
       "user_rating": 7.341,
       "release_date": "2020-03-05"
+    },
+    {
+      "id": 423108,
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "thriller",
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.336,
+      "release_date": "2021-05-25"
+    },
+    {
+      "id": 423108,
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "thriller",
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.336,
+      "release_date": "2021-05-25"
     },
     {
       "id": 97173,
@@ -3311,28 +4297,35 @@
       "genres": [
         "crime",
         "drama",
+        "mystery",
+        "crime",
+        "drama",
         "mystery"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.331,
+      "user_rating": 7.329,
       "release_date": "1992-09-10"
     },
     {
-      "id": 260,
-      "title": "The 39 Steps",
+      "id": 9504,
+      "title": "Glengarry Glen Ross",
       "type": "movie",
-      "year": 1935,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oC81jK6aAug4MA0xzYVngHmjsZS.jpg",
-      "genre": "mystery",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zcaEDx8KlVfh4vKfMNLhiSi5Oz4.jpg",
+      "genre": "crime",
       "genres": [
+        "crime",
+        "drama",
         "mystery",
-        "thriller"
+        "crime",
+        "drama",
+        "mystery"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.329,
-      "release_date": "1935-06-06"
+      "release_date": "1992-09-10"
     },
     {
       "id": 209332,
@@ -3352,40 +4345,6 @@
       "release_date": "2024-01-11"
     },
     {
-      "id": 84287,
-      "title": "The Imposter",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fq1MMkiKjCLUO0rZf8FL1JdjHAw.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.318,
-      "release_date": "2012-07-13"
-    },
-    {
-      "id": 11901,
-      "title": "High Plains Drifter",
-      "type": "movie",
-      "year": 1973,
-      "poster_url": "https://image.tmdb.org/t/p/w342/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery",
-        "western"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.317,
-      "release_date": "1973-04-19"
-    },
-    {
       "id": 2458,
       "title": "CSI: NY",
       "type": "tv_series",
@@ -3399,7 +4358,7 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.314,
+      "user_rating": 7.315,
       "release_date": "2004-09-22"
     },
     {
@@ -3418,6 +4377,42 @@
       "service_name": "Hulu",
       "user_rating": 7.308,
       "release_date": "2014-04-20"
+    },
+    {
+      "id": 1078605,
+      "title": "Weapons",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "horror",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.3,
+      "release_date": "2025-08-04"
+    },
+    {
+      "id": 1078605,
+      "title": "Weapons",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "horror",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.3,
+      "release_date": "2025-08-04"
     },
     {
       "id": 256317,
@@ -3451,22 +4446,6 @@
       "service_name": "Hulu",
       "user_rating": 7.3,
       "release_date": "2024-09-25"
-    },
-    {
-      "id": 203744,
-      "title": "Sugar",
-      "type": "tv_series",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 7.3,
-      "release_date": "2024-04-04"
     },
     {
       "id": 157061,
@@ -3536,6 +4515,156 @@
       "release_date": "2019-11-18"
     },
     {
+      "id": 84287,
+      "title": "The Imposter",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yMaHhVkyFL4U1jJkg9SZKo80T9w.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary",
+        "mystery",
+        "crime",
+        "documentary",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.3,
+      "release_date": "2012-07-13"
+    },
+    {
+      "id": 84287,
+      "title": "The Imposter",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yMaHhVkyFL4U1jJkg9SZKo80T9w.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary",
+        "mystery",
+        "crime",
+        "documentary",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.3,
+      "release_date": "2012-07-13"
+    },
+    {
+      "id": 11901,
+      "title": "High Plains Drifter",
+      "type": "movie",
+      "year": 1973,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "western",
+        "drama",
+        "mystery",
+        "western"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.3,
+      "release_date": "1973-04-19"
+    },
+    {
+      "id": 11901,
+      "title": "High Plains Drifter",
+      "type": "movie",
+      "year": 1973,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "western",
+        "drama",
+        "mystery",
+        "western"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.3,
+      "release_date": "1973-04-19"
+    },
+    {
+      "id": 260,
+      "title": "The 39 Steps",
+      "type": "movie",
+      "year": 1935,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oC81jK6aAug4MA0xzYVngHmjsZS.jpg",
+      "genre": "mystery",
+      "genres": [
+        "mystery",
+        "thriller",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.3,
+      "release_date": "1935-06-06"
+    },
+    {
+      "id": 260,
+      "title": "The 39 Steps",
+      "type": "movie",
+      "year": 1935,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oC81jK6aAug4MA0xzYVngHmjsZS.jpg",
+      "genre": "mystery",
+      "genres": [
+        "mystery",
+        "thriller",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.3,
+      "release_date": "1935-06-06"
+    },
+    {
+      "id": 493922,
+      "title": "Hereditary",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.297,
+      "release_date": "2018-06-07"
+    },
+    {
+      "id": 1486,
+      "title": "21 Jump Street",
+      "type": "tv_series",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.285,
+      "release_date": "1987-04-12"
+    },
+    {
       "id": 79126,
       "title": "Evil Genius",
       "type": "tv_series",
@@ -3569,6 +4698,23 @@
       "release_date": "2020-12-14"
     },
     {
+      "id": 61345,
+      "title": "Z Nation",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gXfeDMkEcHoYBvtkbU11g3F81b.jpg",
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.263,
+      "release_date": "2014-09-12"
+    },
+    {
       "id": 31078,
       "title": "Bored to Death",
       "type": "tv_series",
@@ -3587,40 +4733,6 @@
       "release_date": "2009-09-20"
     },
     {
-      "id": 457840,
-      "title": "Psych: The Movie",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/82Z6LEnkewH40pv6fa2Ci1CkSnd.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "crime",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.258,
-      "release_date": "2017-12-07"
-    },
-    {
-      "id": 61345,
-      "title": "Z Nation",
-      "type": "tv_series",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gXfeDMkEcHoYBvtkbU11g3F81b.jpg",
-      "genre": "action & adventure",
-      "genres": [
-        "action & adventure",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.258,
-      "release_date": "2014-09-12"
-    },
-    {
       "id": 72755,
       "title": "Absentia",
       "type": "tv_series",
@@ -3636,22 +4748,6 @@
       "service_name": "Netflix",
       "user_rating": 7.257,
       "release_date": "2017-09-25"
-    },
-    {
-      "id": 1078605,
-      "title": "Weapons",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
-      "genre": "horror",
-      "genres": [
-        "horror",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.256,
-      "release_date": "2025-08-04"
     },
     {
       "id": 94924,
@@ -3672,22 +4768,78 @@
       "release_date": "2021-06-11"
     },
     {
-      "id": 60603,
-      "title": "The Curse of Oak Island",
-      "type": "tv_series",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
-      "genre": "action & adventure",
+      "id": 863873,
+      "title": "Caddo Lake",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r1h1YltM7bwzlWE330izIgQSwkj.jpg",
+      "genre": "mystery",
       "genres": [
-        "action & adventure",
-        "documentary",
         "mystery",
-        "reality"
+        "science fiction",
+        "thriller",
+        "mystery",
+        "science fiction",
+        "thriller"
       ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.247,
-      "release_date": "2014-01-05"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.253,
+      "release_date": "2024-11-28"
+    },
+    {
+      "id": 863873,
+      "title": "Caddo Lake",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r1h1YltM7bwzlWE330izIgQSwkj.jpg",
+      "genre": "mystery",
+      "genres": [
+        "mystery",
+        "science fiction",
+        "thriller",
+        "mystery",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.253,
+      "release_date": "2024-11-28"
+    },
+    {
+      "id": 837,
+      "title": "Videodrome",
+      "type": "movie",
+      "year": 1983,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "science fiction",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.248,
+      "release_date": "1983-02-04"
+    },
+    {
+      "id": 39276,
+      "title": "Unforgettable",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AvbMRqe3wSe4DBzIYl56CBlcalw.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.245,
+      "release_date": "2011-09-20"
     },
     {
       "id": 125909,
@@ -3708,20 +4860,46 @@
       "release_date": "2024-08-01"
     },
     {
-      "id": 11020,
-      "title": "Picnic at Hanging Rock",
+      "id": 457840,
+      "title": "Psych: The Movie",
       "type": "movie",
-      "year": 1975,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg",
-      "genre": "drama",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/82Z6LEnkewH40pv6fa2Ci1CkSnd.jpg",
+      "genre": "comedy",
       "genres": [
-        "drama",
+        "comedy",
+        "crime",
+        "mystery",
+        "tv movie",
+        "comedy",
+        "crime",
         "mystery"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.238,
-      "release_date": "1975-09-02"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.242,
+      "release_date": "2017-12-07"
+    },
+    {
+      "id": 457840,
+      "title": "Psych: The Movie",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/82Z6LEnkewH40pv6fa2Ci1CkSnd.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "crime",
+        "mystery",
+        "tv movie",
+        "comedy",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.242,
+      "release_date": "2017-12-07"
     },
     {
       "id": 100010,
@@ -3741,20 +4919,40 @@
       "release_date": "2020-11-17"
     },
     {
-      "id": 497582,
-      "title": "Enola Holmes",
+      "id": 11020,
+      "title": "Picnic at Hanging Rock",
       "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
-      "genre": "crime",
+      "year": 1975,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg",
+      "genre": "drama",
       "genres": [
-        "crime",
+        "drama",
+        "mystery",
+        "drama",
         "mystery"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.228,
-      "release_date": "2020-09-23"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.234,
+      "release_date": "1975-09-02"
+    },
+    {
+      "id": 11020,
+      "title": "Picnic at Hanging Rock",
+      "type": "movie",
+      "year": 1975,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.234,
+      "release_date": "1975-09-02"
     },
     {
       "id": 120452,
@@ -3791,6 +4989,23 @@
       "release_date": "2022-01-14"
     },
     {
+      "id": 85853,
+      "title": "Perry Mason",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5QcaEyfSbJEmiaxf7ch8nBl0GO4.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.219,
+      "release_date": "2020-06-21"
+    },
+    {
       "id": 215522,
       "title": "We Were Liars",
       "type": "tv_series",
@@ -3805,6 +5020,82 @@
       "service_name": "Prime Video",
       "user_rating": 7.218,
       "release_date": "2025-06-18"
+    },
+    {
+      "id": 497582,
+      "title": "Enola Holmes",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "crime",
+        "mystery",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.214,
+      "release_date": "2020-09-22"
+    },
+    {
+      "id": 497582,
+      "title": "Enola Holmes",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "crime",
+        "mystery",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.214,
+      "release_date": "2020-09-22"
+    },
+    {
+      "id": 20482,
+      "title": "The Naked City",
+      "type": "movie",
+      "year": 1948,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rex4oaiSCD8UQg9204R6hQcFrX9.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.212,
+      "release_date": "1948-03-04"
+    },
+    {
+      "id": 20482,
+      "title": "The Naked City",
+      "type": "movie",
+      "year": 1948,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rex4oaiSCD8UQg9204R6hQcFrX9.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.212,
+      "release_date": "1948-03-04"
     },
     {
       "id": 167,
@@ -3823,35 +5114,59 @@
       "release_date": "2001-10-26"
     },
     {
-      "id": 20482,
-      "title": "The Naked City",
-      "type": "movie",
-      "year": 1948,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rex4oaiSCD8UQg9204R6hQcFrX9.jpg",
-      "genre": "crime",
+      "id": 60603,
+      "title": "The Curse of Oak Island",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+      "genre": "action & adventure",
       "genres": [
-        "crime",
-        "mystery"
+        "action & adventure",
+        "documentary",
+        "mystery",
+        "reality"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.208,
-      "release_date": "1948-03-04"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.209,
+      "release_date": "2014-01-05"
     },
     {
       "id": 812583,
       "title": "Wake Up Dead Man: A Knives Out Mystery",
       "type": "movie",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/iV9LM8aUb83BjCCx2RUnKE5sSQg.jpg",
       "genre": "comedy",
       "genres": [
+        "comedy",
+        "mystery",
+        "thriller",
         "comedy",
         "mystery"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.2,
+      "user_rating": 7.208,
+      "release_date": "2025-11-26"
+    },
+    {
+      "id": 812583,
+      "title": "Wake Up Dead Man: A Knives Out Mystery",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iV9LM8aUb83BjCCx2RUnKE5sSQg.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "mystery",
+        "thriller",
+        "comedy",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.208,
       "release_date": "2025-11-26"
     },
     {
@@ -3887,23 +5202,6 @@
       "release_date": "2025-07-17"
     },
     {
-      "id": 863873,
-      "title": "Caddo Lake",
-      "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/86dAl9HAGDOhvOIM8uPVjfk9P1v.jpg",
-      "genre": "mystery",
-      "genres": [
-        "mystery",
-        "science fiction",
-        "thriller"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.2,
-      "release_date": "2024-11-28"
-    },
-    {
       "id": 118958,
       "title": "One of Us Is Lying",
       "type": "tv_series",
@@ -3918,23 +5216,6 @@
       "service_name": "Peacock",
       "user_rating": 7.2,
       "release_date": "2021-10-07"
-    },
-    {
-      "id": 85853,
-      "title": "Perry Mason",
-      "type": "tv_series",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5QcaEyfSbJEmiaxf7ch8nBl0GO4.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.2,
-      "release_date": "2020-06-21"
     },
     {
       "id": 71116,
@@ -3987,23 +5268,6 @@
       "release_date": "2014-10-06"
     },
     {
-      "id": 39276,
-      "title": "Unforgettable",
-      "type": "tv_series",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/AvbMRqe3wSe4DBzIYl56CBlcalw.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.2,
-      "release_date": "2011-09-20"
-    },
-    {
       "id": 51876,
       "title": "Limitless",
       "type": "movie",
@@ -4021,21 +5285,27 @@
       "release_date": "2011-03-17"
     },
     {
-      "id": 1486,
-      "title": "21 Jump Street",
-      "type": "tv_series",
-      "year": 1987,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
-      "genre": "crime",
+      "id": 10403,
+      "title": "The Player",
+      "type": "movie",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg",
+      "genre": "comedy",
       "genres": [
+        "comedy",
+        "crime",
+        "drama",
+        "mystery",
+        "thriller",
+        "comedy",
         "crime",
         "drama",
         "mystery"
       ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.2,
-      "release_date": "1987-04-12"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.193,
+      "release_date": "1992-05-08"
     },
     {
       "id": 10403,
@@ -4045,6 +5315,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg",
       "genre": "comedy",
       "genres": [
+        "comedy",
+        "crime",
+        "drama",
+        "mystery",
+        "thriller",
         "comedy",
         "crime",
         "drama",
@@ -4088,22 +5363,6 @@
       "service_name": "Prime Video",
       "user_rating": 7.186,
       "release_date": "1964-06-23"
-    },
-    {
-      "id": 591274,
-      "title": "Fear Street: 1978",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.181,
-      "release_date": "2021-07-08"
     },
     {
       "id": 72748,
@@ -4155,37 +5414,112 @@
       "release_date": "2017-10-31"
     },
     {
-      "id": 951491,
-      "title": "Saw X",
+      "id": 591274,
+      "title": "Fear Street: 1978",
       "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
-      "genre": "horror",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg",
+      "genre": "drama",
       "genres": [
+        "drama",
         "horror",
+        "mystery",
+        "drama",
         "mystery"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.164,
-      "release_date": "2023-09-27"
+      "user_rating": 7.17,
+      "release_date": "2021-07-08"
     },
     {
-      "id": 70485,
-      "title": "Mr. Mercedes",
-      "type": "tv_series",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zZm3LidCf6Edv6yX3WMKo6KwICg.jpg",
+      "id": 591274,
+      "title": "Fear Street: 1978",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg",
       "genre": "drama",
       "genres": [
         "drama",
+        "horror",
+        "mystery",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.17,
+      "release_date": "2021-07-08"
+    },
+    {
+      "id": 224941,
+      "title": "The Boroughs",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+      "genre": "mystery",
+      "genres": [
         "mystery",
         "sci-fi & fantasy"
       ],
-      "service_id": 386,
-      "service_name": "Peacock",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.167,
+      "release_date": "2026-05-21"
+    },
+    {
+      "id": 2760,
+      "title": "The Lodger: A Story of the London Fog",
+      "type": "movie",
+      "year": 1927,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tD84zwFeFRf3zG98x558N3PBMV.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.162,
+      "release_date": "1927-02-14"
+    },
+    {
+      "id": 2760,
+      "title": "The Lodger: A Story of the London Fog",
+      "type": "movie",
+      "year": 1927,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tD84zwFeFRf3zG98x558N3PBMV.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.162,
+      "release_date": "1927-02-14"
+    },
+    {
+      "id": 298168,
+      "title": "The Shards",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
       "user_rating": 7.159,
-      "release_date": "2017-08-09"
+      "release_date": "2026-08-05"
     },
     {
       "id": 220801,
@@ -4222,6 +5556,22 @@
       "release_date": "2021-08-25"
     },
     {
+      "id": 203744,
+      "title": "Sugar",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.147,
+      "release_date": "2024-04-04"
+    },
+    {
       "id": 241372,
       "title": "56 Days",
       "type": "tv_series",
@@ -4237,6 +5587,100 @@
       "service_name": "Prime Video",
       "user_rating": 7.145,
       "release_date": "2026-02-18"
+    },
+    {
+      "id": 70485,
+      "title": "Mr. Mercedes",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zZm3LidCf6Edv6yX3WMKo6KwICg.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.145,
+      "release_date": "2017-08-09"
+    },
+    {
+      "id": 530385,
+      "title": "Midsommar",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.144,
+      "release_date": "2019-07-03"
+    },
+    {
+      "id": 406990,
+      "title": "What Happened to Monday",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/atOgZMJpMrTdpqvPiHVPfBhR61l.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "mystery",
+        "science fiction",
+        "thriller",
+        "action",
+        "mystery",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.139,
+      "release_date": "2017-08-18"
+    },
+    {
+      "id": 406990,
+      "title": "What Happened to Monday",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/atOgZMJpMrTdpqvPiHVPfBhR61l.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "mystery",
+        "science fiction",
+        "thriller",
+        "action",
+        "mystery",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.139,
+      "release_date": "2017-08-18"
+    },
+    {
+      "id": 195382,
+      "title": "Housing Complex C",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dJHp3WlbbBhhKo2h0avTHTrwp4C.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "mystery"
+      ],
+      "service_id": 318,
+      "service_name": "Starz",
+      "user_rating": 7.136,
+      "release_date": "2022-10-02"
     },
     {
       "id": 82816,
@@ -4256,36 +5700,41 @@
       "release_date": "2020-08-16"
     },
     {
-      "id": 2760,
-      "title": "The Lodger: A Story of the London Fog",
-      "type": "movie",
-      "year": 1927,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tD84zwFeFRf3zG98x558N3PBMV.jpg",
-      "genre": "crime",
+      "id": 10545,
+      "title": "True Blood",
+      "type": "tv_series",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dmMBtXuFzZzLYgeQXkOkg98w2Ak.jpg",
+      "genre": "animation",
       "genres": [
-        "crime",
-        "mystery"
+        "animation",
+        "drama",
+        "family",
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
+      "service_id": 15,
+      "service_name": "Hulu",
       "user_rating": 7.135,
-      "release_date": "1927-02-14"
+      "release_date": "1996-06-21"
     },
     {
-      "id": 411728,
-      "title": "The Professor and the Madman",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gtGCDLhfjW96qVarwctnuTpGOtD.jpg",
-      "genre": "drama",
+      "id": 32608,
+      "title": "Ancient Aliens",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+      "genre": "documentary",
       "genres": [
-        "drama",
-        "mystery"
+        "documentary",
+        "mystery",
+        "sci-fi & fantasy"
       ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.126,
-      "release_date": "2019-03-07"
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.132,
+      "release_date": "2010-04-20"
     },
     {
       "id": 233629,
@@ -4322,37 +5771,78 @@
       "release_date": "2013-06-23"
     },
     {
-      "id": 106454,
-      "title": "The Afterparty",
+      "id": 119934,
+      "title": "Calls",
       "type": "tv_series",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9iAxAxeX5RjB39ckhxPMDCJPpG9.jpg",
-      "genre": "comedy",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mvp8wW6wm6LulWRtjjeBQcVXMBt.jpg",
+      "genre": "drama",
       "genres": [
-        "comedy",
-        "crime",
-        "mystery"
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.122,
-      "release_date": "2022-01-28"
+      "user_rating": 7.118,
+      "release_date": "2021-03-19"
     },
     {
-      "id": 195382,
-      "title": "Housing Complex C",
-      "type": "tv_series",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dJHp3WlbbBhhKo2h0avTHTrwp4C.jpg",
-      "genre": "animation",
+      "id": 473,
+      "title": "Pi",
+      "type": "movie",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fJA22FjlAW8rzrOw9Mwanl6oTc9.jpg",
+      "genre": "mystery",
       "genres": [
-        "animation",
+        "mystery",
+        "drama",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.118,
+      "release_date": "1998-07-10"
+    },
+    {
+      "id": 411728,
+      "title": "The Professor and the Madman",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gtGCDLhfjW96qVarwctnuTpGOtD.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "mystery",
+        "thriller",
+        "drama",
         "mystery"
       ],
-      "service_id": 318,
-      "service_name": "Starz",
-      "user_rating": 7.12,
-      "release_date": "2022-10-02"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.115,
+      "release_date": "2019-03-07"
+    },
+    {
+      "id": 411728,
+      "title": "The Professor and the Madman",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gtGCDLhfjW96qVarwctnuTpGOtD.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "mystery",
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.115,
+      "release_date": "2019-03-07"
     },
     {
       "id": 253376,
@@ -4369,22 +5859,6 @@
       "service_name": "Prime Video",
       "user_rating": 7.1,
       "release_date": "2025-09-10"
-    },
-    {
-      "id": 870028,
-      "title": "The Accountant\u00b2",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.1,
-      "release_date": "2025-04-23"
     },
     {
       "id": 247704,
@@ -4422,6 +5896,42 @@
       "release_date": "2023-10-13"
     },
     {
+      "id": 951491,
+      "title": "Saw X",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "horror",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.1,
+      "release_date": "2023-09-27"
+    },
+    {
+      "id": 951491,
+      "title": "Saw X",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "horror",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.1,
+      "release_date": "2023-09-27"
+    },
+    {
       "id": 127948,
       "title": "Class of '09",
       "type": "tv_series",
@@ -4440,22 +5950,6 @@
       "release_date": "2023-05-10"
     },
     {
-      "id": 201289,
-      "title": "The Last Thing He Told Me",
-      "type": "tv_series",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 7.1,
-      "release_date": "2023-04-13"
-    },
-    {
       "id": 210232,
       "title": "The Watcher",
       "type": "tv_series",
@@ -4470,23 +5964,6 @@
       "service_name": "Netflix",
       "user_rating": 7.1,
       "release_date": "2022-10-13"
-    },
-    {
-      "id": 799876,
-      "title": "The Outfit",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.1,
-      "release_date": "2022-02-25"
     },
     {
       "id": 90972,
@@ -4539,89 +6016,6 @@
       "release_date": "2020-09-03"
     },
     {
-      "id": 80054,
-      "title": "Truth Be Told",
-      "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3T2TJ61ems7ArVGwb6kiVuKcdUk.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 7.1,
-      "release_date": "2019-12-06"
-    },
-    {
-      "id": 369523,
-      "title": "The Tale",
-      "type": "movie",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aguq47xq3qhN807rSyz4lJyhAkX.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.1,
-      "release_date": "2018-01-20"
-    },
-    {
-      "id": 406990,
-      "title": "What Happened to Monday",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/atOgZMJpMrTdpqvPiHVPfBhR61l.jpg",
-      "genre": "action",
-      "genres": [
-        "action",
-        "mystery",
-        "science fiction",
-        "thriller"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.1,
-      "release_date": "2017-08-18"
-    },
-    {
-      "id": 42295,
-      "title": "Hemlock Grove",
-      "type": "tv_series",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sjGOYM7GTG03aWUZIFOUiFDTeoL.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.1,
-      "release_date": "2013-04-19"
-    },
-    {
-      "id": 10545,
-      "title": "True Blood",
-      "type": "tv_series",
-      "year": 1996,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hImMgT9B27evYSRmfztqdDtX6qi.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.1,
-      "release_date": "1996-06-21"
-    },
-    {
       "id": 93287,
       "title": "The Flight Attendant",
       "type": "tv_series",
@@ -4637,6 +6031,90 @@
       "service_name": "Max",
       "user_rating": 7.098,
       "release_date": "2020-11-26"
+    },
+    {
+      "id": 799876,
+      "title": "The Outfit",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery",
+        "thriller",
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.095,
+      "release_date": "2022-02-25"
+    },
+    {
+      "id": 799876,
+      "title": "The Outfit",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery",
+        "thriller",
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.095,
+      "release_date": "2022-02-25"
+    },
+    {
+      "id": 1168190,
+      "title": "The Wrecking Crew",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "comedy",
+        "crime",
+        "mystery",
+        "comedy",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.094,
+      "release_date": "2026-01-28"
+    },
+    {
+      "id": 1168190,
+      "title": "The Wrecking Crew",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "comedy",
+        "crime",
+        "mystery",
+        "comedy",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.094,
+      "release_date": "2026-01-28"
     },
     {
       "id": 7087,
@@ -4657,20 +6135,21 @@
       "release_date": "2009-01-25"
     },
     {
-      "id": 591275,
-      "title": "Fear Street: 1666",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg",
-      "genre": "horror",
+      "id": 106454,
+      "title": "The Afterparty",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9iAxAxeX5RjB39ckhxPMDCJPpG9.jpg",
+      "genre": "comedy",
       "genres": [
-        "horror",
+        "comedy",
+        "crime",
         "mystery"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.087,
-      "release_date": "2021-07-14"
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.086,
+      "release_date": "2022-01-28"
     },
     {
       "id": 46639,
@@ -4688,6 +6167,65 @@
       "service_name": "Prime Video",
       "user_rating": 7.085,
       "release_date": "2017-04-30"
+    },
+    {
+      "id": 870028,
+      "title": "The Accountant\u00b2",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.08,
+      "release_date": "2025-04-23"
+    },
+    {
+      "id": 870028,
+      "title": "The Accountant\u00b2",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.08,
+      "release_date": "2025-04-23"
+    },
+    {
+      "id": 1236153,
+      "title": "Mercy",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "science fiction",
+        "thriller",
+        "action",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.079,
+      "release_date": "2026-01-19"
     },
     {
       "id": 32708,
@@ -4708,21 +6246,40 @@
       "release_date": "2011-03-29"
     },
     {
-      "id": 119934,
-      "title": "Calls",
-      "type": "tv_series",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mvp8wW6wm6LulWRtjjeBQcVXMBt.jpg",
+      "id": 369523,
+      "title": "The Tale",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aguq47xq3qhN807rSyz4lJyhAkX.jpg",
       "genre": "drama",
       "genres": [
         "drama",
         "mystery",
-        "sci-fi & fantasy"
+        "drama",
+        "mystery"
       ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 7.069,
-      "release_date": "2021-03-19"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.076,
+      "release_date": "2018-01-20"
+    },
+    {
+      "id": 369523,
+      "title": "The Tale",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aguq47xq3qhN807rSyz4lJyhAkX.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.076,
+      "release_date": "2018-01-20"
     },
     {
       "id": 102434,
@@ -4739,22 +6296,6 @@
       "service_name": "Max",
       "user_rating": 7.069,
       "release_date": "2020-06-12"
-    },
-    {
-      "id": 224941,
-      "title": "The Boroughs",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
-      "genre": "mystery",
-      "genres": [
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.067,
-      "release_date": "2026-05-21"
     },
     {
       "id": 46638,
@@ -4791,22 +6332,72 @@
       "release_date": "2024-12-05"
     },
     {
-      "id": 9994,
-      "title": "The Great Mouse Detective",
+      "id": 591275,
+      "title": "Fear Street: 1666",
       "type": "movie",
-      "year": 1986,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9uDr7vfjCFr39KGCcqrk44Cg7fQ.jpg",
-      "genre": "animation",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg",
+      "genre": "horror",
       "genres": [
-        "animation",
-        "crime",
-        "family",
+        "horror",
+        "mystery",
+        "horror",
         "mystery"
       ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.055,
-      "release_date": "1986-07-02"
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.064,
+      "release_date": "2021-07-14"
+    },
+    {
+      "id": 591275,
+      "title": "Fear Street: 1666",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "horror",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.064,
+      "release_date": "2021-07-14"
+    },
+    {
+      "id": 42295,
+      "title": "Hemlock Grove",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zu3bPbiYPsHt12A0LIPRUASmnqO.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.062,
+      "release_date": "2013-04-19"
+    },
+    {
+      "id": 201289,
+      "title": "The Last Thing He Told Me",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.056,
+      "release_date": "2023-04-13"
     },
     {
       "id": 4886,
@@ -4818,28 +6409,93 @@
       "genres": [
         "crime",
         "drama",
+        "mystery",
+        "crime",
+        "drama",
         "mystery"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.047,
+      "user_rating": 7.049,
       "release_date": "1945-10-31"
     },
     {
-      "id": 574475,
-      "title": "Final Destination Bloodlines",
+      "id": 4886,
+      "title": "And Then There Were None",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
-      "genre": "horror",
+      "year": 1945,
+      "poster_url": "https://image.tmdb.org/t/p/w342/maV1jQZ58NZIjwRbdtmRcaW3fZo.jpg",
+      "genre": "crime",
       "genres": [
-        "horror",
+        "crime",
+        "drama",
+        "mystery",
+        "crime",
+        "drama",
         "mystery"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.038,
-      "release_date": "2025-05-14"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.049,
+      "release_date": "1945-10-31"
+    },
+    {
+      "id": 80054,
+      "title": "Truth Be Told",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3T2TJ61ems7ArVGwb6kiVuKcdUk.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.044,
+      "release_date": "2019-12-06"
+    },
+    {
+      "id": 1073,
+      "title": "Arlington Road",
+      "type": "movie",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4yYHyZuyTTQaEZuHKS7561jXjtR.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery",
+        "thriller",
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.039,
+      "release_date": "1999-03-19"
+    },
+    {
+      "id": 1073,
+      "title": "Arlington Road",
+      "type": "movie",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4yYHyZuyTTQaEZuHKS7561jXjtR.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery",
+        "thriller",
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.039,
+      "release_date": "1999-03-19"
     },
     {
       "id": 136308,
@@ -4859,38 +6515,114 @@
       "release_date": "2021-12-31"
     },
     {
-      "id": 1073,
-      "title": "Arlington Road",
+      "id": 574475,
+      "title": "Final Destination Bloodlines",
       "type": "movie",
-      "year": 1999,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4yYHyZuyTTQaEZuHKS7561jXjtR.jpg",
-      "genre": "crime",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+      "genre": "horror",
       "genres": [
-        "crime",
+        "horror",
+        "mystery",
+        "horror",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.034,
+      "release_date": "2025-05-14"
+    },
+    {
+      "id": 574475,
+      "title": "Final Destination Bloodlines",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "horror",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.034,
+      "release_date": "2025-05-14"
+    },
+    {
+      "id": 93241,
+      "title": "Uzumaki",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wtQIgqEQEIQnNqLVGTShUf7qLap.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
         "drama",
         "mystery"
       ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.037,
-      "release_date": "1999-03-19"
+      "service_id": 318,
+      "service_name": "Starz",
+      "user_rating": 7.023,
+      "release_date": "2024-09-29"
     },
     {
-      "id": 32608,
-      "title": "Ancient Aliens",
-      "type": "tv_series",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
-      "genre": "documentary",
+      "id": 661374,
+      "title": "Glass Onion: A Knives Out Mystery",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "genre": "comedy",
       "genres": [
-        "documentary",
+        "comedy",
+        "crime",
         "mystery",
-        "sci-fi & fantasy"
+        "comedy",
+        "crime",
+        "mystery"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.018,
-      "release_date": "2010-04-20"
+      "user_rating": 7.02,
+      "release_date": "2022-11-23"
+    },
+    {
+      "id": 661374,
+      "title": "Glass Onion: A Knives Out Mystery",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "crime",
+        "mystery",
+        "comedy",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.02,
+      "release_date": "2022-11-23"
+    },
+    {
+      "id": 19971,
+      "title": "The Little Girl Who Lives Down the Lane",
+      "type": "movie",
+      "year": 1976,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qlH7atDoN2iOmq6pNsoFIlebhgA.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.02,
+      "release_date": "1976-12-25"
     },
     {
       "id": 85586,
@@ -4908,6 +6640,64 @@
       "service_name": "Hulu",
       "user_rating": 7.01,
       "release_date": "2019-01-07"
+    },
+    {
+      "id": 8408,
+      "title": "Day of the Dead",
+      "type": "movie",
+      "year": 1985,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "mystery",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.009,
+      "release_date": "1985-07-03"
+    },
+    {
+      "id": 8408,
+      "title": "Day of the Dead",
+      "type": "movie",
+      "year": 1985,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "mystery",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.009,
+      "release_date": "1985-07-03"
+    },
+    {
+      "id": 310131,
+      "title": "The Witch",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "fantasy",
+        "horror",
+        "mystery",
+        "thriller",
+        "horror"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.003,
+      "release_date": "2016-02-19"
     },
     {
       "id": 978592,
@@ -4961,38 +6751,21 @@
       "release_date": "2024-10-10"
     },
     {
-      "id": 93241,
-      "title": "Uzumaki",
-      "type": "tv_series",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wtQIgqEQEIQnNqLVGTShUf7qLap.jpg",
-      "genre": "animation",
-      "genres": [
-        "animation",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 318,
-      "service_name": "Starz",
-      "user_rating": 7.0,
-      "release_date": "2024-09-29"
-    },
-    {
-      "id": 661374,
-      "title": "Glass Onion: A Knives Out Mystery",
+      "id": 399057,
+      "title": "The Killing of a Sacred Deer",
       "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
-      "genre": "comedy",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+      "genre": "drama",
       "genres": [
-        "comedy",
-        "crime",
+        "drama",
+        "thriller",
         "mystery"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
+      "service_id": 1899,
+      "service_name": "Max",
       "user_rating": 7.0,
-      "release_date": "2022-11-23"
+      "release_date": "2017-10-20"
     },
     {
       "id": 65820,
@@ -5029,37 +6802,50 @@
       "release_date": "2005-10-24"
     },
     {
-      "id": 8408,
-      "title": "Day of the Dead",
+      "id": 9994,
+      "title": "The Great Mouse Detective",
       "type": "movie",
-      "year": 1985,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
-      "genre": "drama",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9uDr7vfjCFr39KGCcqrk44Cg7fQ.jpg",
+      "genre": "adventure",
       "genres": [
-        "drama",
+        "adventure",
+        "animation",
+        "crime",
+        "family",
+        "mystery",
+        "animation",
+        "crime",
+        "family",
         "mystery"
       ],
-      "service_id": 386,
-      "service_name": "Peacock",
+      "service_id": 337,
+      "service_name": "Disney+",
       "user_rating": 7.0,
-      "release_date": "1985-07-03"
+      "release_date": "1986-07-02"
     },
     {
-      "id": 1168190,
-      "title": "The Wrecking Crew",
+      "id": 9994,
+      "title": "The Great Mouse Detective",
       "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
-      "genre": "comedy",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9uDr7vfjCFr39KGCcqrk44Cg7fQ.jpg",
+      "genre": "adventure",
       "genres": [
-        "comedy",
+        "adventure",
+        "animation",
         "crime",
+        "family",
+        "mystery",
+        "animation",
+        "crime",
+        "family",
         "mystery"
       ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 6.958,
-      "release_date": "2026-01-28"
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.0,
+      "release_date": "1986-07-02"
     },
     {
       "id": 244244,
@@ -5163,6 +6949,23 @@
       "release_date": "2026-01-15"
     },
     {
+      "id": 1098006,
+      "title": "Fountain of Youth",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "fantasy",
+        "mystery"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 6.236,
+      "release_date": "2025-05-19"
+    },
+    {
       "id": 619979,
       "title": "Deep Water",
       "type": "movie",
@@ -5177,6 +6980,40 @@
       "service_name": "Hulu",
       "user_rating": 5.8,
       "release_date": "2022-03-17"
+    },
+    {
+      "id": 1193824,
+      "title": "Rabbit Trap",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sKnwnnmBpjo9BEskHtja6ToXUV1.jpg",
+      "genre": "thriller",
+      "genres": [
+        "thriller",
+        "horror",
+        "mystery",
+        "fantasy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 5.607,
+      "release_date": "2025-09-12"
+    },
+    {
+      "id": 680493,
+      "title": "Return to Silent Hill",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 5.4,
+      "release_date": "2026-01-21"
     },
     {
       "id": 270600,
@@ -5195,20 +7032,172 @@
       "release_date": "2026-02-08"
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
+      "id": 307325,
+      "title": "The Eyes",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9WvY1jicpfYLA6KoczwvdMRNGvc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/basW6wAOwLf39bXJbkuTChHeJU7.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery",
+        "animation"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-12-18"
+    },
+    {
+      "id": 327346,
+      "title": "Astral Watch",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lRnv1w65oogXDUxXiDsvqFjwblb.jpg",
+      "genre": "sci-fi & fantasy",
+      "genres": [
+        "sci-fi & fantasy",
+        "action & adventure",
+        "animation",
+        "mystery"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-11-30"
+    },
+    {
+      "id": 332912,
+      "title": "The White House Is Fake",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vCgD1u7To63jELuOjd8oJQBAaK6.jpg",
+      "genre": "sci-fi & fantasy",
+      "genres": [
+        "sci-fi & fantasy",
+        "mystery"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-11-14"
+    },
+    {
+      "id": 249565,
+      "title": "The Good Daughter",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1LMcI1OV9GtWpszBkj4uFZQcSZ6.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 0.0,
+      "release_date": "2026-11-12"
+    },
+    {
+      "id": 213562,
+      "title": "Crystal Lake",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
       "genre": "mystery",
       "genres": [
         "mystery",
-        "sci-fi & fantasy"
+        "drama"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
+      "service_id": 386,
+      "service_name": "Peacock",
       "user_rating": 0.0,
-      "release_date": "2026-08-16"
+      "release_date": "2026-10-15"
+    },
+    {
+      "id": 307176,
+      "title": "Dustfall",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/a7LdXshL4vuCA3LWB2gNNckBIpO.jpg",
+      "genre": "mystery",
+      "genres": [
+        "mystery",
+        "crime",
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-11"
+    },
+    {
+      "id": 285322,
+      "title": "Below",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qadm9To9UfMVenVzGVLt0m0iuxv.jpg",
+      "genre": "mystery",
+      "genres": [
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-10-08"
+    },
+    {
+      "id": 288673,
+      "title": "Carrie",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+      "genre": "mystery",
+      "genres": [
+        "mystery",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 0.0,
+      "release_date": "2026-10-07"
+    },
+    {
+      "id": 298505,
+      "title": "Coven Academy",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+      "genre": "mystery",
+      "genres": [
+        "mystery",
+        "action & adventure",
+        "drama",
+        "comedy"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-01"
+    },
+    {
+      "id": 297577,
+      "title": "Rizzler News",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "crime",
+        "comedy",
+        "mystery"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-09-30"
     },
     {
       "id": 291350,
@@ -5228,22 +7217,6 @@
       "release_date": "2026-08-07"
     },
     {
-      "id": 283297,
-      "title": "Sterling Point",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 0.0,
-      "release_date": "2026-08-05"
-    },
-    {
       "id": 290307,
       "title": "The last Sanctury",
       "type": "tv_series",
@@ -5259,23 +7232,6 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-07-24"
-    },
-    {
-      "id": 278178,
-      "title": "I Will Find You",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-06-18"
     }
   ]
 }

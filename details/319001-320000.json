@@ -1,6 +1,6 @@
 {
   "range": "319001-320000",
-  "updated_at": 1780004424392,
+  "updated_at": 1790380083193,
   "shows": [
     {
       "id": 319048,
@@ -8,12 +8,12 @@
       "type": "tv_series",
       "year": 2026,
       "poster_url": "https://image.tmdb.org/t/p/w342/acKxwOQvtJWqkt7P1f7ipdd05LF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ogmpLR70DDH38peGrI9i7t2nqbX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/43zTdlksdfwQb3oiDNYsuUOMX6d.jpg",
       "plot_overview": "A cultural exploration of Korea\u2019s explosive global influence, K\u2011Everything, hosted by Daniel Dae Kim, dives into how Korea\u2019s music, film, food, and beauty industries reshaped global culture.",
       "genres": [
         "documentary"
       ],
-      "user_rating": 0.0,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-05-09",
@@ -37,10 +37,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/n1BjnpeFJ8hVXae8SIlkjJ7BkJO.jpg",
       "plot_overview": "Hailed as one of the most innovative and intimate documentaries of all time, experience Kurt Cobain like never before in the only ever fully authorized portrait of the famed music icon. Academy Award nominated filmmaker Brett Morgen expertly blends Cobain's personal archive of art, music, never seen before movies, animation and revelatory interviews from his family and closest friends.",
       "genres": [
+        "Documentary",
+        "Music",
         "documentary",
         "drama"
       ],
-      "user_rating": 7.62,
+      "user_rating": 7.621,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-03-23",
@@ -66,7 +68,7 @@
       "genres": [
         "reality"
       ],
-      "user_rating": 0.0,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-04-22",
@@ -155,6 +157,43 @@
       "relevance_score": 75
     },
     {
+      "id": 319800,
+      "title": "NCIS: New York",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ifmi1Rr9v2qckSsxhNiQIVLE51p.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wLL8oRsz9XGFQpnCpgi8S0Pj6sO.jpg",
+      "plot_overview": "Special Agent Sam Hanna returns to his hometown of New York City to the NCIS field office and partners with a roguish agent, Nick Schaeffer, to help lead a new team as they are tasked with high-stakes missions to defend one of the most vital cities and ports in the world.",
+      "genres": [
+        "crime",
+        "drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-06",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "CBS Studios"
+      ],
+      "networks": [
+        "CBS"
+      ],
+      "tmdb_id": 319800,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-06",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
       "id": 319934,
       "title": "Calabasas Confidential",
       "type": "tv_series",
@@ -218,9 +257,9 @@
       "tmdb_id": 319938,
       "is_returning": true,
       "next_season": 1,
-      "next_air_date": "2026-08-02",
-      "next_episode": 1,
-      "relevance_score": 75
+      "next_air_date": "2026-09-27",
+      "next_episode": 10,
+      "relevance_score": 100
     }
   ]
 }

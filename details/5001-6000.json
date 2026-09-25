@@ -1,6 +1,6 @@
 {
   "range": "5001-6000",
-  "updated_at": 1780004424323,
+  "updated_at": 1790380083050,
   "shows": [
     {
       "id": 5021,
@@ -13,7 +13,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.162,
+      "user_rating": 7.118,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1972-09-14",
@@ -174,7 +174,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.769,
+      "user_rating": 7.783,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1955-10-02",
@@ -243,7 +243,7 @@
         "drama",
         "family"
       ],
-      "user_rating": 7.959,
+      "user_rating": 7.945,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2007-09-08",
@@ -257,6 +257,33 @@
       ],
       "tmdb_id": 5371,
       "genre": "comedy"
+    },
+    {
+      "id": 5548,
+      "title": "RoboCop",
+      "type": "movie",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xcaX6BZ1JUPSVMH2gBkWIckLLaA.jpg",
+      "plot_overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "user_rating": 7.366,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1987-07-17",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 5548
     },
     {
       "id": 5835,
@@ -293,14 +320,14 @@
       "type": "tv_series",
       "year": 2008,
       "poster_url": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
       "plot_overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "genres": [
         "crime",
         "drama",
         "mystery"
       ],
-      "user_rating": 8.353,
+      "user_rating": 8.408,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2008-09-23",
@@ -314,6 +341,33 @@
       ],
       "tmdb_id": 5920,
       "genre": "crime"
+    },
+    {
+      "id": 5925,
+      "title": "The Great Escape",
+      "type": "movie",
+      "year": 1963,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lb87H6BFXXKMJlUnDHvPOMGfh8z.jpg",
+      "plot_overview": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocate them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undaunted, the prisoners plan one of the most ambitious escape attempts of World War II. Based on a true story.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "user_rating": 7.924,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1963-07-03",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 5925
     },
     {
       "id": 5996,

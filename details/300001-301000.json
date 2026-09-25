@@ -1,20 +1,20 @@
 {
   "range": "300001-301000",
-  "updated_at": 1780004424389,
+  "updated_at": 1790380083189,
   "shows": [
     {
       "id": 300480,
       "title": "Ricky Gervais Alley Cats",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jhee1jS4AGZ7C5mZoN2czLt4BKk.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/auLT0EPtqtt5MwryoC2MoAG595F.jpg",
-      "plot_overview": "Follow the challenges of a group of feral British cats who seek companionship.",
+      "plot_overview": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
       "genres": [
         "animation",
         "comedy"
       ],
-      "user_rating": 0.0,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-08-07",
@@ -43,6 +43,31 @@
       "genre": "animation"
     },
     {
+      "id": 300507,
+      "title": "Crew Girl",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
+      "plot_overview": "After a family scandal, teen rower Teagan Tao moves to a small town and joins an elite prep school's all-boys crew, sparking rivalry and attraction.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 8.244,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-09-10",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 300507
+    },
+    {
       "id": 300669,
       "title": "Don't Breathe",
       "type": "movie",
@@ -51,11 +76,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3mIVOqDbYeucnw09TpjgHvSjXfu.jpg",
       "plot_overview": "A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong.",
       "genres": [
+        "Crime",
+        "Horror",
+        "Thriller",
         "crime",
         "horror",
         "thriller"
       ],
-      "user_rating": 7.012,
+      "user_rating": 7.019,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-06-08",
@@ -63,6 +91,12 @@
         {
           "service_id": 8,
           "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }

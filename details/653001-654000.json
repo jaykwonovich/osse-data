@@ -1,6 +1,6 @@
 {
   "range": "653001-654000",
-  "updated_at": 1780004424418,
+  "updated_at": 1790380083242,
   "shows": [
     {
       "id": 653346,
@@ -11,11 +11,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fypydCipcWDKDTTCoPucBsdGYXW.jpg",
       "plot_overview": "Several generations following Caesar's reign, apes \u2013 now the dominant species \u2013 live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
       "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction",
         "action",
         "adventure",
         "science fiction"
       ],
-      "user_rating": 7.056,
+      "user_rating": 7.05,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-05-08",
@@ -23,6 +26,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -41,7 +50,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.03,
+      "user_rating": 7.011,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-08-27",
@@ -65,10 +74,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg",
       "plot_overview": "A raw and emotionally revealing look at one of the most iconic artists of our time during a transformational period in her life as she learns to embrace her role not only as a songwriter and performer, but as a woman harnessing the full power of her voice.",
       "genres": [
+        "Documentary",
+        "Music",
         "documentary",
         "music"
       ],
-      "user_rating": 7.834,
+      "user_rating": 7.815,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-01-31",

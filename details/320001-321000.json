@@ -1,6 +1,6 @@
 {
   "range": "320001-321000",
-  "updated_at": 1780004424392,
+  "updated_at": 1790380083193,
   "shows": [
     {
       "id": 320079,
@@ -40,6 +40,37 @@
       "genre": "action & adventure"
     },
     {
+      "id": 320399,
+      "title": "ESPN Jeopardy!",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg",
+      "plot_overview": "In this ESPN-themed spin-off of America's Favorite Quiz Show, ESPN talent faces off to experience the thrill of victory and the agony of defeat in a new arena: the Alex Trebek Stage.",
+      "genres": [
+        "reality"
+      ],
+      "user_rating": 3.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-07-31",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 320399
+    },
+    {
       "id": 320472,
       "title": "Kylie",
       "type": "tv_series",
@@ -70,8 +101,8 @@
       "title": "Dancing with the Stars: The Next Pro",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tAYW5vaNZ49eSkYw34SDxVrqKMS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lgS7481vGWSDmSAMKjnVjZgtCfp.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lEqc9jskHH83jA8uWRxBlKn26nr.jpg",
       "plot_overview": "12 exceptional up-and-coming dancers move into one house and compete in a grueling audition process, all vying for a coveted spot as a pro dancer on Season 35 of \"Dancing with the Stars.\"",
       "genres": [
         "reality"
@@ -82,8 +113,8 @@
       "release_date": "2026-07-13",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
@@ -164,6 +195,37 @@
       "next_episode": 1,
       "relevance_score": 75,
       "genre": "drama"
+    },
+    {
+      "id": 320799,
+      "title": "D&D: Dungeon Masters",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/IgyfRielRU2TEWGkA3U3Zdg9YI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r76vKyQuEZHjH4p5FhOT2U6vqWr.jpg",
+      "plot_overview": "Dungeon Masters stars Jasmine Bhullar (DesiQuest, Dimension 20) as Dungeon Master, joined by Mayanna Berrin (Dispatch, The Dungeon Run), Christian Navarro (13 Reasons Why, Forgotten Realms), Neil Newbon (Baldur\u2019s Gate III), and Devora Wilde (Baldur\u2019s Gate III) and features an all-original score by five-time, Grammy-nominated composer David Arkenstone.",
+      "genres": [
+        "action & adventure",
+        "comedy"
+      ],
+      "user_rating": 10.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-04-22",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 320799,
+      "is_returning": true,
+      "next_season": 4,
+      "next_air_date": "2026-09-30",
+      "next_episode": 2,
+      "relevance_score": 75
     }
   ]
 }

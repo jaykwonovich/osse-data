@@ -1,6 +1,6 @@
 {
   "range": "567001-568000",
-  "updated_at": 1780004424412,
+  "updated_at": 1790380083236,
   "shows": [
     {
       "id": 567609,
@@ -11,10 +11,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
       "plot_overview": "A young bride's wedding night turns into her worst nightmare when her ridiculously rich in-laws force her to play a gruesome game of hide-and-seek.",
       "genres": [
+        "Comedy",
+        "Horror",
         "comedy",
         "horror"
       ],
-      "user_rating": 7.067,
+      "user_rating": 7.094,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-08-21",
@@ -22,6 +24,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }

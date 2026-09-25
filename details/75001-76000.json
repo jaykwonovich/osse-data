@@ -1,6 +1,6 @@
 {
   "range": "75001-76000",
-  "updated_at": 1780004424352,
+  "updated_at": 1790380083102,
   "shows": [
     {
       "id": 75006,
@@ -84,7 +84,12 @@
         }
       ],
       "tmdb_id": 75219,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "is_returning": true,
+      "next_season": 10,
+      "next_air_date": "2026-10-15",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 75258,
@@ -95,10 +100,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2AeE4Op9qjDSXe8GbfCtlbHFxhL.jpg",
       "plot_overview": "Tinkerbell wanders into the forbidden Winter woods and meets Periwinkle. Together they learn the secret of their wings and try to unite the warm fairies and the winter fairies to help Pixie Hollow.",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy",
         "animation",
         "family"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.285,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-08-17",
@@ -126,7 +135,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.866,
+      "user_rating": 7.849,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-10-12",
@@ -167,6 +176,32 @@
       ],
       "tmdb_id": 75540,
       "genre": "crime"
+    },
+    {
+      "id": 75656,
+      "title": "Now You See Me",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
+      "plot_overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "user_rating": 7.324,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-05-29",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 75656
     },
     {
       "id": 75758,

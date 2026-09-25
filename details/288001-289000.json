@@ -1,6 +1,6 @@
 {
   "range": "288001-289000",
-  "updated_at": 1780004424388,
+  "updated_at": 1790380083185,
   "shows": [
     {
       "id": 288055,
@@ -37,8 +37,8 @@
       "title": "Next Gen NYC",
       "type": "tv_series",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iTJTSdqTWDb3D04m6cUo4ShO7Xi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wxlGZZge4QpjLoZa7M3ZMBDNZyz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/quiTd4vvJMAOSq5oncG31Q4cmo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hLa1alBNswGaTk3lu5s4qGxqLb2.jpg",
       "plot_overview": "\u201cNext Gen NYC\u201d follows a tangled web of friends raised in the spotlight \u2014 or at least close enough for good lighting \u2014 as they stumble into adulthood one brunch, breakup and spontaneous decision at a time.",
       "genres": [
         "reality"
@@ -87,7 +87,87 @@
         }
       ],
       "tmdb_id": 288670,
-      "genre": "comedy"
+      "genre": "comedy",
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-09-26",
+      "next_episode": 3,
+      "relevance_score": 75
+    },
+    {
+      "id": 288672,
+      "title": "Pride and Prejudice",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z9OPgJORgUOPhjMfAT3OOVDKhmW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eVyHdSC53TJhwPxhpG1P8mtsKqY.jpg",
+      "plot_overview": "Elizabeth Bennet is an unmarried woman and the second of five daughters of Mr. and Mrs. Bennet from Hertfordshire, near London. The Bennet home can only be inherited by males in the family, so the pressure is on for the daughters to marry well or risk losing everything. While out in society, Elizabeth interacts with single men like Mr. Darcy, an outwardly curmudgeon who is misunderstood.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-12-03",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Lookout Point"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "tmdb_id": 288672,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-12-03",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 288673,
+      "title": "Carrie",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
+      "plot_overview": "Misfit teenager Carrie White has spent her life in seclusion with her domineering mother, Margaret. After her father's sudden death, Carrie finds herself contending with the challenges of attending public high school, a bullying scandal, and the emergence of mysterious telekinetic powers.",
+      "genres": [
+        "mystery",
+        "drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-07",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Amazon MGM Studios",
+        "Intrepid Pictures",
+        "Red Room Pictures"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "tmdb_id": 288673,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-07",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

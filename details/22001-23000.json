@@ -1,7 +1,60 @@
 {
   "range": "22001-23000",
-  "updated_at": 1780004424333,
+  "updated_at": 1790380083070,
   "shows": [
+    {
+      "id": 22383,
+      "title": "The Professionals",
+      "type": "movie",
+      "year": 1966,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sH4Clw7QrtH23xl9o4sOpHNkRIz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jJKjniDrS1FaWiSgOBxjjTe6ME.jpg",
+      "plot_overview": "An arrogant Texas millionaire hires four adventurers to rescue his kidnapped wife from a notorious Mexican bandit.",
+      "genres": [
+        "Western",
+        "Adventure",
+        "Action"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1966-11-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 22383
+    },
+    {
+      "id": 22527,
+      "title": "The Wrong Man",
+      "type": "movie",
+      "year": 1956,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pO5XR2R56RAbVjdks9gGGn0fbOa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e0tZ5Kjg5mukFGcxEddCZymAxH4.jpg",
+      "plot_overview": "In 1953, an innocent man named Christopher Emmanuel \"Manny\" Balestrero is arrested after being mistaken for an armed robber.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 7.133,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1956-12-22",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 22527
+    },
     {
       "id": 22596,
       "title": "Safety Last!",
@@ -11,13 +64,16 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3zo6ZONR4Mth2nWFbQK9dhCWbVz.jpg",
       "plot_overview": "When a store clerk organizes a contest to climb the outside of a tall building, circumstances force him to make the perilous climb himself.",
       "genres": [
+        "Comedy",
+        "Romance",
+        "Thriller",
         "comedy",
         "romance"
       ],
-      "user_rating": 7.713,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1923-04-01",
+      "release_date": "1923-03-12",
       "streaming_services": [
         {
           "service_id": 1899,
@@ -28,6 +84,33 @@
       ],
       "tmdb_id": 22596,
       "genre": "comedy"
+    },
+    {
+      "id": 22803,
+      "title": "Law Abiding Citizen",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fcEXcip7v0O1ndV4VUdFqJSqbOg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nazre7z7MoUwAqimnrSlMlfLR5t.jpg",
+      "plot_overview": "A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "user_rating": 7.395,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-10-15",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 22803
     }
   ]
 }

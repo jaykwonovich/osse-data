@@ -1,7 +1,43 @@
 {
   "range": "306001-307000",
-  "updated_at": 1780004424390,
+  "updated_at": 1790380083190,
   "shows": [
+    {
+      "id": 306179,
+      "title": "The Unlikely Cook with Awkwafina",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hdp5nhOXYd2OmO62a2hZgADEfsK.jpg",
+      "plot_overview": "Nora Lum aka Awkwafina embarks on a deeply personal cross-country journey as she explores contemporary Asian American cuisine, starting with her family's remarkable legacy.",
+      "genres": [
+        "documentary"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-11-06",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Twofour"
+      ],
+      "networks": [
+        "Apple TV"
+      ],
+      "tmdb_id": 306179,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-11-06",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
     {
       "id": 306745,
       "title": "Freeheld",
@@ -11,10 +47,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8FgzQadEF68NYvmTVyuY4pCtred.jpg",
       "plot_overview": "New Jersey car mechanic Stacie Andree and her police detective girlfriend Laurel Hester both battle to secure Hester's pension benefits after she was diagnosed with a terminal illness.",
       "genres": [
+        "Drama",
+        "Romance",
         "drama",
         "romance"
       ],
-      "user_rating": 7.202,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-10-02",
@@ -28,6 +66,38 @@
       ],
       "tmdb_id": 306745,
       "genre": "drama"
+    },
+    {
+      "id": 306811,
+      "title": "The Last Time We Are Kids",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "backdrop_url": null,
+      "plot_overview": "Noah is an ordinary student\u2014or so he believes. What he doesn\u2019t know is that he carries hidden powers unlike anything the world has ever seen. When a terrifying monster threatens humanity, Noah and his friends are thrown into an unexpected adventure.\n\nTo save their world, the group must travel into a mysterious alternate realm where danger lurks behind every shadow.\n\nAmong them is Finn, Noah\u2019s best friend, who has lived with Noah since childhood and has no family of his own. Together, they must u",
+      "genres": [],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-06",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "BADX STUDIOS"
+      ],
+      "networks": [],
+      "tmdb_id": 306811,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-06",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

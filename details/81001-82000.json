@@ -1,6 +1,6 @@
 {
   "range": "81001-82000",
-  "updated_at": 1780004424354,
+  "updated_at": 1790380083106,
   "shows": [
     {
       "id": 81046,
@@ -203,7 +203,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 8.207,
+      "user_rating": 8.191,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-01-11",
@@ -364,7 +364,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.677,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-01-24",
@@ -377,7 +377,12 @@
         }
       ],
       "tmdb_id": 81723,
-      "genre": "drama"
+      "genre": "drama",
+      "is_returning": true,
+      "next_season": 4,
+      "next_air_date": "2026-11-01",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 81829,

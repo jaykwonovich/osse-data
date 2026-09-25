@@ -1,6 +1,6 @@
 {
   "range": "302001-303000",
-  "updated_at": 1780004424389,
+  "updated_at": 1790380083189,
   "shows": [
     {
       "id": 302074,
@@ -28,7 +28,40 @@
         }
       ],
       "tmdb_id": 302074,
-      "genre": "comedy"
+      "genre": "comedy",
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-09-29",
+      "next_episode": 3,
+      "relevance_score": 75
+    },
+    {
+      "id": 302401,
+      "title": "Snowden",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+      "plot_overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
+      "genres": [
+        "Drama",
+        "History",
+        "Crime",
+        "Thriller"
+      ],
+      "user_rating": 7.115,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-09-15",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 302401
     },
     {
       "id": 302429,
@@ -39,10 +72,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aUbyQhWcPS7S0Su2d9Tgk3NxdPk.jpg",
       "plot_overview": "A love potion works its devious charms on fairies, elves and the swamp-dwelling Bog King as they all try to possess the potion for themselves.",
       "genres": [
+        "Animation",
+        "Family",
+        "Fantasy",
+        "Music",
         "animation",
         "family"
       ],
-      "user_rating": 7.216,
+      "user_rating": 7.26,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-01-23",
@@ -50,6 +87,12 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }

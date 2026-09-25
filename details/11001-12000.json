@@ -1,6 +1,6 @@
 {
   "range": "11001-12000",
-  "updated_at": 1780004424326,
+  "updated_at": 1790380083055,
   "shows": [
     {
       "id": 11020,
@@ -11,10 +11,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/41Mlaj6wfjlF4wQaVH0tjfDXvMi.jpg",
       "plot_overview": "In the early 1900s, Miranda attends a girls boarding school in Australia. One Valentine's Day, the school's typically strict headmistress treats the girls to a picnic field trip to an unusual but scenic volcanic formation called Hanging Rock. Despite rules against it, Miranda and several other girls venture off. It's not until the end of the day that the faculty realizes the girls and one of the teachers have disappeared mysteriously.",
       "genres": [
+        "Drama",
+        "Mystery",
         "drama",
         "mystery"
       ],
-      "user_rating": 7.238,
+      "user_rating": 7.234,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1975-09-02",
@@ -89,7 +91,7 @@
       "type": "movie",
       "year": 1996,
       "poster_url": "https://image.tmdb.org/t/p/w342/zQBuRQ3hrLhkEsXcxteUxuxLrvs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AkzMPGRG6mtn6XllsoIDB8xDkgR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oLh3r9BhrymkMjKtI2geTGkKMif.jpg",
       "plot_overview": "After her adoptive mother dies, Hortense, a successful black optometrist, seeks out her birth mother. She's shocked when her research leads her to Cynthia, a working class white woman.",
       "genres": [
         "drama"
@@ -114,14 +116,17 @@
       "title": "The Muppet Movie",
       "type": "movie",
       "year": 1979,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mfj8yR2vO5BMkaTMu1wvKQLUTsL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9mbXZSLINbwNQateHLGRhtaZzZB.jpg",
       "plot_overview": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
       "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
         "comedy",
         "family"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.223,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1979-06-22",
@@ -137,18 +142,77 @@
       "genre": "comedy"
     },
     {
+      "id": 11202,
+      "title": "Patton",
+      "type": "movie",
+      "year": 1970,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/txXPooNu7fr4YhLwx7AlXkU0PnN.jpg",
+      "plot_overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+      "genres": [
+        "War",
+        "Drama",
+        "History"
+      ],
+      "user_rating": 7.447,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1970-01-25",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11202
+    },
+    {
+      "id": 11209,
+      "title": "The Alamo",
+      "type": "movie",
+      "year": 1960,
+      "poster_url": "https://image.tmdb.org/t/p/w342/54KNQfJnYZwhI3sPYyjXtptWGfg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/leDO2O7HywKWZhk15feAQ3Gc37p.jpg",
+      "plot_overview": "The legendary true story of a small band of soldiers who sacrificed their lives in hopeless combat against a massive army in order to prevent a tyrant from smashing the new Republic of Texas.",
+      "genres": [
+        "War",
+        "Adventure",
+        "History",
+        "Western"
+      ],
+      "user_rating": 7.089,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1960-10-23",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11209
+    },
+    {
       "id": 11224,
       "title": "Cinderella",
       "type": "movie",
       "year": 1950,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ug3ndicuPM1V07vhVFGLMsd4AZl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
       "plot_overview": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!",
       "genres": [
+        "Animation",
+        "Family",
+        "Fantasy",
+        "Romance",
         "animation",
         "family"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1950-02-22",
@@ -191,6 +255,38 @@
       "genre": "drama"
     },
     {
+      "id": 11287,
+      "title": "A League of Their Own",
+      "type": "movie",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/f9BtX6wYOwJUyfUr4vyeT3COz6m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kb2FuXGruaPA6ErjOpcifpCyPyY.jpg",
+      "plot_overview": "As America's stock of athletic young men is depleted during World War II, a professional all-female baseball league springs up in the Midwest, funded by publicity-hungry candy maker Walter Harvey. Competitive sisters Dottie Hinson and Kit Keller spar with each other, scout Ernie Capadino and grumpy has-been coach Jimmy Dugan on their way to fame.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.21,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1992-07-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11287
+    },
+    {
       "id": 11294,
       "title": "Kitchen Nightmares",
       "type": "tv_series",
@@ -229,6 +325,32 @@
       "genre": "reality"
     },
     {
+      "id": 11296,
+      "title": "Birdy",
+      "type": "movie",
+      "year": 1984,
+      "poster_url": "https://image.tmdb.org/t/p/w342/weIn0Huxx4SQU8PB5ZggzA4PLIE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7dfXj49DeTmx3Nl5CffBfBQ5LmC.jpg",
+      "plot_overview": "Two young men are seriously affected by the Vietnam War. One of them has always been obsessed with birds - but now believes he really is a bird, and has been sent to a mental hospital. Can his friend help him pull through?",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "user_rating": 7.117,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1984-12-14",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11296
+    },
+    {
       "id": 11314,
       "title": "Koyaanisqatsi",
       "type": "movie",
@@ -254,6 +376,31 @@
       ],
       "tmdb_id": 11314,
       "genre": "documentary"
+    },
+    {
+      "id": 11321,
+      "title": "Seven Pounds",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/85zUipgVy2QbvAJ6djZXYaGckMv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mDu3nkdjzkJ9loy3QyppGcLjaI7.jpg",
+      "plot_overview": "An IRS agent with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.601,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-12-18",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11321
     },
     {
       "id": 11324,
@@ -283,18 +430,48 @@
       "genre": "drama"
     },
     {
+      "id": 11349,
+      "title": "Cape Fear",
+      "type": "movie",
+      "year": 1962,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xDqaHjMbnebtB05QWgAR8wW86sb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/v4rCibmdklWP92CZg4DLJggFfYH.jpg",
+      "plot_overview": "Sam Bowden witnesses a rape committed by Max Cady and testifies against him. When released after 8 years in prison, Cady begins stalking Bowden and his family but is always clever enough not to violate the law.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "user_rating": 7.449,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1962-04-12",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11349
+    },
+    {
       "id": 11368,
       "title": "Blood Simple",
       "type": "movie",
       "year": 1985,
-      "poster_url": "https://image.tmdb.org/t/p/w342/svU6pu4lfHn0T5BVZchVxL58HB5.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/n8D1gVXUgmW4kkDzUzzoezAmUUa.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
       "plot_overview": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.",
       "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
         "crime",
         "drama"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.242,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1985-01-18",
@@ -318,10 +495,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg",
       "plot_overview": "After young playwright, David Shayne obtains funding for his play from gangster Nick Valenti, Nick's girlfriend Olive miraculously lands the role of a psychiatrist\u2014but not only is she a bimbo who could never pass for a psychiatrist\u2014she's a dreadful actress. David puts up with the leading man who is a compulsive eater, the grand dame who wants her part jazzed up, and Olive's interfering hitman/bodyguard\u2014but, eventually he must decide whether art or life is more important.",
       "genres": [
+        "Comedy",
+        "Crime",
         "comedy",
         "crime"
       ],
-      "user_rating": 7.087,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1994-10-14",
@@ -337,22 +516,78 @@
       "genre": "comedy"
     },
     {
+      "id": 11426,
+      "title": "From Here to Eternity",
+      "type": "movie",
+      "year": 1953,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sP3T6hTkTMCksUXb0wzzOgbXIfk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kpTTUyVxWMTebmBkaxB2YAX8yyU.jpg",
+      "plot_overview": "In 1941 Hawaii, a private is cruelly punished for not boxing on his unit's team, while his captain's wife and second in command are falling in love.",
+      "genres": [
+        "War",
+        "Romance",
+        "Drama"
+      ],
+      "user_rating": 7.258,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1953-08-28",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11426
+    },
+    {
+      "id": 11446,
+      "title": "Welcome to the Dollhouse",
+      "type": "movie",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fsMMOVto87pvUQyozOF9CaT9aMR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cmD7smdQnflmpthFDjSArI2jKZF.jpg",
+      "plot_overview": "An unattractive 7th grader struggles to cope with suburban life as the middle child with inattentive parents and bullies at school.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.081,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1996-03-22",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11446
+    },
+    {
       "id": 11454,
       "title": "Manhunter",
       "type": "movie",
       "year": 1986,
       "poster_url": "https://image.tmdb.org/t/p/w342/6rb24x39vV8n5301IelC8rCPJTH.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aByvaaDPdvMFwyBpKHpKEmuK51e.jpg",
-      "plot_overview": "FBI Agent Will Graham, who retired after catching Hannibal Lecktor, returns to duty to engage in a risky cat-and-mouse game with Lecktor to capture a new killer.",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zOO8GRa02x9o1iGOIIAJD50YcMW.jpg",
+      "plot_overview": "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
       "genres": [
+        "Crime",
+        "Horror",
+        "Thriller",
         "crime",
         "horror",
         "thriller"
       ],
-      "user_rating": 7.006,
+      "user_rating": 7.007,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "1986-08-14",
+      "release_date": "1986-08-15",
       "streaming_services": [
         {
           "service_id": 9,
@@ -363,6 +598,32 @@
       ],
       "tmdb_id": 11454,
       "genre": "crime"
+    },
+    {
+      "id": 11499,
+      "title": "Frost/Nixon",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nLrRrHZQ40tWqLTY3kxgS4x7GUw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/20wSDAS6rUWhkZQ2PxPC9TRsAd1.jpg",
+      "plot_overview": "For three years after being forced from office, Nixon remained silent. But in summer 1977, the steely, cunning former commander-in-chief agreed to sit for one all-inclusive interview to confront the questions of his time in office and the Watergate scandal that ended his presidency. Nixon surprised everyone in selecting Frost as his televised confessor, intending to easily outfox the breezy British showman and secure a place in the hearts and minds of Americans. Likewise, Frost's team harboured ",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "user_rating": 7.275,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-10-15",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11499
     },
     {
       "id": 11524,
@@ -397,14 +658,17 @@
       "type": "movie",
       "year": 1993,
       "poster_url": "https://image.tmdb.org/t/p/w342/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kFm4FbjD2mBWtK9uyXryFtOD0Ut.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wjxyKpUAZu6OVbKx9krhgI9KMl2.jpg",
       "plot_overview": "During a summer of friendship and adventure, one boy becomes a part of the gang, nine boys become a team and their leader becomes a legend by confronting the terrifying mystery beyond the right field wall.",
       "genres": [
+        "Comedy",
+        "Drama",
+        "Family",
         "comedy",
         "drama",
         "family"
       ],
-      "user_rating": 7.55,
+      "user_rating": 7.563,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1993-04-07",
@@ -418,6 +682,12 @@
         {
           "service_id": 9,
           "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -434,11 +704,15 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
       "plot_overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \"puppy\" of an independent little girl named Lilo and learns about loyalty, friendship, and \u02bbohana, the Hawaiian tradition of family.",
       "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction",
         "animation",
         "comedy",
         "family"
       ],
-      "user_rating": 7.561,
+      "user_rating": 7.559,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2002-06-21",
@@ -481,19 +755,49 @@
       "genre": "comedy"
     },
     {
+      "id": 11620,
+      "title": "Quo Vadis",
+      "type": "movie",
+      "year": 1951,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dqF1dattMNiwGjPSphu2VSi558Q.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cEdyAF813pgjsYzGqpDFjJgTzbs.jpg",
+      "plot_overview": "After fierce Roman commander Marcus Vinicius becomes infatuated with beautiful Christian hostage Lygia, he begins to question the tyrannical leadership of the despotic emperor Nero.",
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ],
+      "user_rating": 7.126,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1951-11-08",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11620
+    },
+    {
       "id": 11639,
       "title": "The Dark Crystal",
       "type": "movie",
       "year": 1982,
       "poster_url": "https://image.tmdb.org/t/p/w342/fZPxRaa6gvCyGCh9Xk5kyPqz7fp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9jxLUKbuDgYW8Ro94q50rLQQL0P.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dlIkuHYT977POygUBGZyOszFUB.jpg",
       "plot_overview": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal and restore order to his world, before the grotesque race of Skeksis find and use the crystal for evil.",
       "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
         "adventure",
         "family",
         "fantasy"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.164,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1982-12-17",
@@ -509,18 +813,47 @@
       "genre": "adventure"
     },
     {
+      "id": 11644,
+      "title": "Blow Out",
+      "type": "movie",
+      "year": 1981,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uFzMscVLDrTaYd6KXOXlr6dly7w.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nk87CtgZ7wd86W37oJHGYAJbmLz.jpg",
+      "plot_overview": "While recording sound effects for a slasher flick, Jack Terry stumbles upon a real-life horror: a car careening off a bridge and into a river. Jack jumps into the water and fishes out Sally from the car, but the other passenger is already dead \u2014 a governor intending to run for president. As Jack does some investigating of his tapes, and starts a perilous romance with Sally, he enters a tangled web of conspiracy that might leave him dead.",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "user_rating": 7.352,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1981-07-24",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11644
+    },
+    {
       "id": 11652,
       "title": "Invincible",
       "type": "movie",
       "year": 2006,
       "poster_url": "https://image.tmdb.org/t/p/w342/oEaUMn5POAiMLnU6hKOBKoZbDpo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tw9FDRM2x6A85JnU88dHKWsf5o7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yvsHnHmfb1fkHaz0VQlqP0wXeZw.jpg",
       "plot_overview": "Inspired by the true story of Vince Papale, a man with nothing to lose who ignored the staggering odds and made his dream come true. When the coach of Papale's beloved hometown football team hosted an unprecedented open tryout, the public consensus was that it was a waste of time \u2013 no one good enough to play professional football was going to be found this way.",
       "genres": [
+        "Drama",
+        "History",
         "drama",
         "history"
       ],
-      "user_rating": 7.011,
+      "user_rating": 7.033,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2006-08-25",
@@ -544,10 +877,13 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bQHHEFYBZc23nhbo0z0qB7nxW31.jpg",
       "plot_overview": "Jimmy Rabbitte, just a thick-ya out of school, gets a brilliant idea: to put a soul band together in Barrytown, his slum home in north Dublin. First he needs musicians and singers: things slowly start to click when he finds three fine-voiced females virtually in his back yard, a lead singer (Deco) at a wedding, and, responding to his ad, an aging trumpet player, Joey \"The Lips\" Fagan.",
       "genres": [
+        "Comedy",
+        "Drama",
+        "Music",
         "comedy",
         "drama"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.25,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1991-08-14",
@@ -595,14 +931,19 @@
       "type": "movie",
       "year": 2000,
       "poster_url": "https://image.tmdb.org/t/p/w342/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4NxVLxuoQDPz889TG1njH4L7cYB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
       "plot_overview": "When the self\u2011absorbed Emperor Kuzco is accidentally transformed into a llama, he must rely on a humble villager to survive the jungle and reclaim his throne.",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
         "animation",
         "comedy",
         "family"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.566,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2000-12-15",
@@ -647,18 +988,46 @@
       "genre": "animation"
     },
     {
+      "id": 11778,
+      "title": "The Deer Hunter",
+      "type": "movie",
+      "year": 1978,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/a5zBQfXmLk3qqRYF7AioWpiAxk2.jpg",
+      "plot_overview": "Three steelworkers enlist in the army and are sent to Vietnam, one leaving behind a rushed marriage, the others a shared love. What they encounter during the war changes their lives forever.",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "user_rating": 7.961,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1978-12-08",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11778
+    },
+    {
       "id": 11779,
       "title": "Buena Vista Social Club",
       "type": "movie",
       "year": 1999,
-      "poster_url": "https://image.tmdb.org/t/p/w342/b203Z3qwCRMLOY00XZh4qNQCwM4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/b8psTDXSelHiab1I7L8rFdYs0IC.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/y5Y12Pds6Z4ipLg482Azhp4xb9x.jpg",
       "plot_overview": "In this fascinating Oscar-nominated documentary, American guitarist Ry Cooder brings together a group of legendary Cuban folk musicians (some in their 90s) to record a Grammy-winning CD in their native city of Havana. The result is a spectacular compilation of concert footage from the group's gigs in Amsterdam and New York City's famed Carnegie Hall, with director Wim Wenders capturing not only the music -- but also the musicians' life stories.",
       "genres": [
+        "Documentary",
+        "Music",
         "documentary",
         "music"
       ],
-      "user_rating": 7.505,
+      "user_rating": 7.481,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1999-06-04",
@@ -682,10 +1051,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ydGY4z0hN8XebemBOJgnTD4ceiJ.jpg",
       "plot_overview": "For Norman and Ethel Thayer, this summer on golden pond is filled with conflict and resolution. When their daughter Chelsea arrives, the family is forced to renew the bonds of love and overcome the generational friction that has existed for years.",
       "genres": [
+        "Drama",
+        "Romance",
         "drama",
         "romance"
       ],
-      "user_rating": 7.278,
+      "user_rating": 7.266,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1981-12-04",
@@ -707,18 +1078,56 @@
       "genre": "drama"
     },
     {
+      "id": 11836,
+      "title": "The SpongeBob SquarePants Movie",
+      "type": "movie",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6ZnHQKcqQ8nmfP6woZu2v5EtXoW.jpg",
+      "plot_overview": "There's trouble brewing in Bikini Bottom. Someone has stolen King Neptune's crown, and it looks like Mr. Krab, SpongeBob's boss, is the culprit. Though he's just been passed over for the promotion of his dreams, SpongeBob stands by his boss, and along with his best pal Patrick, sets out on a treacherous mission to Shell City to reclaim the crown and save Mr. Krab's life.",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "user_rating": 7.11,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2004-11-19",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11836
+    },
+    {
       "id": 11837,
       "title": "Watership Down",
       "type": "movie",
       "year": 1978,
       "poster_url": "https://image.tmdb.org/t/p/w342/q9ZcNxfquJbMTd6UfhAlJbmLBts.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sDaTPRwukICb6r9lwB1UiYFa2pW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fcp2yZ6ZzrV7RVVbU8BSKhOmpzN.jpg",
       "plot_overview": "When the warren belonging to a community of rabbits is threatened, a brave group led by Fiver, Bigwig, Blackberry and Hazel leave their homeland in a search of a safe new haven.",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Drama",
         "animation",
         "drama"
       ],
-      "user_rating": 7.208,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1978-10-14",
@@ -742,10 +1151,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5MYD8Z76Bcbz55HzUTP4U6dH51V.jpg",
       "plot_overview": "Animals on a farm lead a revolution against the farmers to put their destiny in their own hands. However this revolution eats their own children and they cannot avoid corruption.",
       "genres": [
+        "Animation",
+        "Drama",
         "animation",
         "drama"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.078,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1954-12-28",
@@ -766,14 +1177,17 @@
       "type": "movie",
       "year": 1947,
       "poster_url": "https://image.tmdb.org/t/p/w342/vehuIm3y6BeMI7mYjxzaA1H8M0k.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hHYoUYgto562dcQRjVuuVlosBKz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rSnMQ82mFlpBLRt2UvohO6sgemd.jpg",
       "plot_overview": "Kris Kringle, seemingly the embodiment of Santa Claus, is asked to portray the jolly old fellow at Macy's following his performance in the Thanksgiving Day parade. His portrayal is so complete that many begin to question if he truly is Santa Claus, while others question his sanity.",
       "genres": [
+        "Comedy",
+        "Drama",
+        "Family",
         "comedy",
         "drama",
         "family"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.369,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1947-06-04",
@@ -803,10 +1217,13 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3WeFPoPVIGgMumjgLn0EPIfq53A.jpg",
       "plot_overview": "With King Richard off to the Crusades, Prince John and his slithering minion, Sir Hiss, set about taxing Nottingham's citizens with support from the corrupt sheriff - and staunch opposition by the wily Robin Hood and his band of merry men.",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
         "animation",
         "family"
       ],
-      "user_rating": 7.306,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1973-11-08",
@@ -827,14 +1244,17 @@
       "type": "movie",
       "year": 1973,
       "poster_url": "https://image.tmdb.org/t/p/w342/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/15D770lMpkZQdjkMW8X3neESedE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gDrgpDJHi0ZwH69KfMIiuBMt0Ja.jpg",
       "plot_overview": "A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.",
       "genres": [
+        "Drama",
+        "Mystery",
+        "Western",
         "drama",
         "mystery",
         "western"
       ],
-      "user_rating": 7.317,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1973-04-19",
@@ -842,6 +1262,12 @@
         {
           "service_id": 9,
           "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
@@ -858,11 +1284,17 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oG9dcGSSu13fjFp1Uly15ZXjRKV.jpg",
       "plot_overview": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Romance",
         "animation",
         "comedy",
         "family"
       ],
-      "user_rating": 7.493,
+      "user_rating": 7.499,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1997-06-13",
@@ -876,6 +1308,31 @@
       ],
       "tmdb_id": 11970,
       "genre": "animation"
+    },
+    {
+      "id": 11978,
+      "title": "Men of Honor",
+      "type": "movie",
+      "year": 2000,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wNUAnXV1mzOOfvnVBIYsalkk078.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg",
+      "plot_overview": "Against formidable odds -- and an old-school diving instructor embittered by the U.S. Navy's new, less prejudicial policies -- Carl Brashear sets his sights on becoming the Navy's first African-American master diver in this uplifting true story. Their relationship starts out on the rocks, but fate ultimately conspires to bring the men together into a setting of mutual respect, triumph and honor.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.501,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2000-09-13",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 11978
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "203001-204000",
-  "updated_at": 1780004424373,
+  "updated_at": 1790380083155,
   "shows": [
     {
       "id": 203085,
@@ -95,7 +95,7 @@
       "genres": [
         "reality"
       ],
-      "user_rating": 3.7,
+      "user_rating": 4.25,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-11-28",
@@ -120,14 +120,14 @@
       "title": "Sugar",
       "type": "tv_series",
       "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7sV0OgNkPiY9XPzr0f3rATFrGje.jpg",
-      "plot_overview": "An enigmatic private detective struggles with personal demons as he investigates the disappearance of a Hollywood producer's beloved granddaughter.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hL8GNwTjFlvB3nyMuIYldLWWYb5.jpg",
+      "plot_overview": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
       "genres": [
         "drama",
         "mystery"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.147,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-04-04",
@@ -172,7 +172,12 @@
         }
       ],
       "tmdb_id": 203857,
-      "genre": "drama"
+      "genre": "drama",
+      "is_returning": true,
+      "next_season": 4,
+      "next_air_date": "2026-10-15",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

@@ -1,7 +1,34 @@
 {
   "range": "417001-418000",
-  "updated_at": 1780004424400,
+  "updated_at": 1790380083219,
   "shows": [
+    {
+      "id": 417261,
+      "title": "Forever My Girl",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bKqdggnIPeOI15VqtBZTkvh4hA9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gEsBPNcGAuNBU5MGaOAlnm6uDe7.jpg",
+      "plot_overview": "Years after leaving his fianc\u00e9e at the altar to pursue fame and fortune, country music star Liam Page returns home hoping to win her back.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Music"
+      ],
+      "user_rating": 7.628,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-01-26",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 417261
+    },
     {
       "id": 417320,
       "title": "Descendants 2",
@@ -11,13 +38,17 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mLihPIodzSenkZtiUauDy4e9hRs.jpg",
       "plot_overview": "When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula's daughter, has taken her spot as self-proclaimed queen.",
       "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "TV Movie",
         "adventure",
         "family",
         "fantasy",
         "music",
         "tv movie"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.374,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-07-21",
@@ -37,6 +68,32 @@
       ],
       "tmdb_id": 417320,
       "genre": "adventure"
+    },
+    {
+      "id": 417678,
+      "title": "Everything, Everything",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gukkmf3W5Cev7winxBa8FHvKLql.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hTLydq9rAuO0Eus1WWqab1tpyGg.jpg",
+      "plot_overview": "A teenager who's lived a sheltered life because she's allergic to everything, falls for the boy who moves in next door.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "user_rating": 7.237,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-05-18",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 417678
     }
   ]
 }

@@ -1,20 +1,62 @@
 {
   "range": "286001-287000",
-  "updated_at": 1780004424387,
+  "updated_at": 1790380083184,
   "shows": [
+    {
+      "id": 286183,
+      "title": "Hollywood Arts",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pJsrA4On2ITOk1rBq9PiaRzU2Q0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
+      "plot_overview": "Struggling actress Trina Vega returns to her former high school, Hollywood Arts, as an unqualified substitute teacher, quickly finding herself both clashing with and unexpectedly inspiring a new generation of ambitious and talented students as they learn to find their true path at Hollywood's most elite performing arts school.",
+      "genres": [
+        "comedy",
+        "drama",
+        "family"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-15",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Paramount Television Studios",
+        "Nickelodeon Productions",
+        "Quick to Judge"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "tmdb_id": 286183,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-15",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
     {
       "id": 286192,
       "title": "Lava",
       "type": "movie",
       "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9HI4rM3ewc26yTUfCV0IT0k3wJs.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/d9ulP4njsyYh2RYXERBSwzBFztq.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7cdsVkbs7tAuZJwJRYb65dN5kMv.jpg",
       "plot_overview": "Inspired by the isolated beauty of tropical islands and the explosive allure of ocean volcanoes, Lava is a musical love story that takes place over millions of years.",
       "genres": [
+        "Animation",
+        "Family",
         "animation",
         "family"
       ],
-      "user_rating": 7.256,
+      "user_rating": 7.25,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-06-18",
@@ -34,15 +76,18 @@
       "title": "The Martian",
       "type": "movie",
       "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lzMS0CI3FLQYC5EgJoWeIaEt0lm.jpg",
       "plot_overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
       "genres": [
+        "Adventure",
+        "Drama",
+        "Science Fiction",
         "adventure",
         "drama",
         "science fiction"
       ],
-      "user_rating": 7.699,
+      "user_rating": 7.708,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-09-30",
@@ -50,6 +95,12 @@
         {
           "service_id": 386,
           "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -97,6 +148,45 @@
       "genre": "crime"
     },
     {
+      "id": 286712,
+      "title": "Private Eyes West Coast",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6eulJ8STxOjTkIpBMAcJBOPuKOw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fVeKLAGmTjJA2RJ62lRvvWR5F67.jpg",
+      "plot_overview": "Now leading different lives from their Toronto crime-fighting days, private investigators Matt Shade and Angie Everett encounter a world of different cases along with a new group of friends while solving cases in Victoria, British Columbia.",
+      "genres": [
+        "crime",
+        "drama",
+        "comedy"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-09-30",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Corus Entertainment",
+        "Lionsgate Canada"
+      ],
+      "networks": [
+        "Global TV"
+      ],
+      "tmdb_id": 286712,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-09-30",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
       "id": 286801,
       "title": "Monster: The Ed Gein Story",
       "type": "tv_series",
@@ -108,7 +198,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.267,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-10-03",
@@ -122,6 +212,36 @@
       ],
       "tmdb_id": 286801,
       "genre": "crime"
+    },
+    {
+      "id": 286940,
+      "title": "Wonka's The Golden Ticket",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg",
+      "plot_overview": "In this one-of-a-kind reality competition, lucky players step inside Wonka's Chocolate Factory to face unpredictable games, tests and temptations.",
+      "genres": [
+        "reality"
+      ],
+      "user_rating": 5.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-09-23",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 286940,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-09-30",
+      "next_episode": 8,
+      "relevance_score": 75
     }
   ]
 }

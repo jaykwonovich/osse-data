@@ -1,6 +1,6 @@
 {
   "range": "381001-382000",
-  "updated_at": 1780004424398,
+  "updated_at": 1790380083210,
   "shows": [
     {
       "id": 381284,
@@ -11,10 +11,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
       "plot_overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson \u2013 brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history \u2013 the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
       "genres": [
+        "Drama",
+        "History",
         "drama",
         "history"
       ],
-      "user_rating": 8.0,
+      "user_rating": 8.048,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-12-10",
@@ -34,10 +36,12 @@
       "title": "Split",
       "type": "movie",
       "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ow2BSQGKJtZpH2zZY1rmX8eXKAi.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
       "plot_overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him \u2014 as well as everyone around him \u2014 as the walls between his compartments shatter apart.",
       "genres": [
+        "Horror",
+        "Thriller",
         "horror",
         "thriller"
       ],
@@ -51,10 +55,44 @@
           "service_name": "Max",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 381288,
       "genre": "horror"
+    },
+    {
+      "id": 381289,
+      "title": "A Dog's Purpose",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3jcNvhtVQe5Neoffdic39fRactM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
+      "plot_overview": "A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Family",
+        "Drama"
+      ],
+      "user_rating": 7.64,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-01-19",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 381289
     }
   ]
 }

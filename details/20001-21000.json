@@ -1,6 +1,6 @@
 {
   "range": "20001-21000",
-  "updated_at": 1780004424332,
+  "updated_at": 1790380083069,
   "shows": [
     {
       "id": 20139,
@@ -64,11 +64,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ppdgXQ7rE9Whf3rCzaawQzmLVnx.jpg",
       "plot_overview": "An aspiring painter meets various characters and learns valuable lessons while traveling across America.",
       "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
         "adventure",
         "drama",
         "fantasy"
       ],
-      "user_rating": 7.385,
+      "user_rating": 7.397,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2002-04-13",
@@ -90,14 +93,19 @@
       "year": 2010,
       "poster_url": "https://image.tmdb.org/t/p/w342/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
-      "plot_overview": "Gru is a supervillain determined to prove he\u2019s the greatest by stealing the Moon. To pull off his plan, he adopts three orphaned girls\u2014Margo, Edith, and Agnes\u2014intending to use them as part of his scheme. However, as Gru bonds with the girls, his cold, villainous exterior begins to melt.",
+      "plot_overview": "Determined to prove he's the world's greatest supervillain, Gru hatches an audacious plan to steal the Moon. To pull it off, he adopts three orphaned girls\u2014Margo, Edith, and Agnes\u2014intending to use them as pawns in his scheme. But the unexpected bond they form forces him to question the criminal life he's always known.",
       "genres": [
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Science Fiction",
         "animation",
         "comedy",
         "crime",
         "family"
       ],
-      "user_rating": 7.258,
+      "user_rating": 7.262,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-07-08",
@@ -121,10 +129,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uGOKN4VeCsf249zypWfaAzfTxAB.jpg",
       "plot_overview": "The life of Al Roberts, a pianist in a New York nightclub, turns into a nightmare when he decides to hitchhike to Los Angeles to visit his girlfriend.",
       "genres": [
+        "Drama",
+        "Thriller",
         "drama",
         "thriller"
       ],
-      "user_rating": 7.229,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1945-11-30",
@@ -148,10 +158,13 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yjEoHzWo4O8tTa7lrVNv2okVkLz.jpg",
       "plot_overview": "After a former model is drowned in her bathtub, Detective James Halloran and Lieutenant Dan Muldoon attempt to piece together her murder.",
       "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller",
         "crime",
         "mystery"
       ],
-      "user_rating": 7.208,
+      "user_rating": 7.212,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1948-03-04",
@@ -175,10 +188,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oT6z05HLXAfgD2CI3cPMuqG8OAW.jpg",
       "plot_overview": "A dramatization of the relationship between heart surgery pioneers Alfred Blalock and Vivien Thomas.",
       "genres": [
+        "Drama",
+        "TV Movie",
         "drama",
         "tv movie"
       ],
-      "user_rating": 7.904,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2004-05-30",
@@ -192,6 +207,40 @@
       ],
       "tmdb_id": 20544,
       "genre": "drama"
+    },
+    {
+      "id": 20762,
+      "title": "The Substitute",
+      "type": "movie",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7vfzvhPMNauUXrVxVOPEfpOsful.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uFdLjtlgCbEtkQfBiZQPLfVryr5.jpg",
+      "plot_overview": "When an inner-city Miami schoolteacher gets her knee broken after standing up to the school's gang leader, her mercenary combat specialist boyfriend goes undercover as a substitute teacher to take down the punk. Soon he discovers a conspiracy of criminals at work, and must reassemble his team from his last jungle raid to stop them.",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "user_rating": 7.024,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1996-04-19",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 20762
     },
     {
       "id": 20766,

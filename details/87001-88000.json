@@ -1,6 +1,6 @@
 {
   "range": "87001-88000",
-  "updated_at": 1780004424356,
+  "updated_at": 1790380083115,
   "shows": [
     {
       "id": 87017,
@@ -27,7 +27,12 @@
         }
       ],
       "tmdb_id": 87017,
-      "genre": "crime"
+      "genre": "crime",
+      "is_returning": true,
+      "next_season": 3,
+      "next_air_date": "2026-12-04",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 87049,
@@ -92,7 +97,7 @@
       "genres": [
         "documentary"
       ],
-      "user_rating": 8.177,
+      "user_rating": 8.155,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-03-08",
@@ -173,12 +178,12 @@
       "type": "tv_series",
       "year": 2019,
       "poster_url": "https://image.tmdb.org/t/p/w342/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
       "plot_overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
       "genres": [
         "drama"
       ],
-      "user_rating": 8.709,
+      "user_rating": 8.727,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-05-06",
@@ -287,7 +292,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 8.25,
+      "user_rating": 8.226,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-04-24",
@@ -308,13 +313,15 @@
       "type": "movie",
       "year": 2012,
       "poster_url": "https://image.tmdb.org/t/p/w342/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8oeXbjMtaYYGgjJl9RJNe7umkuS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/21YsCNMub5455NQCn3jh9SmRFyG.jpg",
       "plot_overview": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
       "genres": [
+        "Adventure",
+        "Drama",
         "adventure",
         "drama"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.414,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-11-20",
@@ -342,7 +349,7 @@
         "sci-fi & fantasy",
         "war & politics"
       ],
-      "user_rating": 7.737,
+      "user_rating": 7.746,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-11-01",

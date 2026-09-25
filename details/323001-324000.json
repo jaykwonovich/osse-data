@@ -1,7 +1,38 @@
 {
   "range": "323001-324000",
-  "updated_at": 1780004424393,
+  "updated_at": 1790380083195,
   "shows": [
+    {
+      "id": 323010,
+      "title": "Hey Jonas!",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cQy7WtYl0Oj1OdefrUj7h1ITpTy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fCaNcSkkabndgDUur4OdiTl0OTr.jpg",
+      "plot_overview": "It's the Jonas Brothers you know... music, music, music, yes, brothers. Now, it is a fact that we have been given another form of distraction, it is disrespectful, and the thing is, we are not bothered by it. Continue at the pace at which the Jonas Brothers were conducting in-depth conversations for a while, like they are doing now.",
+      "genres": [
+        "talk"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-05-19",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 323010
+    },
     {
       "id": 323039,
       "title": "Best of the World with Antoni Porowski",
@@ -9,7 +40,7 @@
       "year": 2026,
       "poster_url": "https://image.tmdb.org/t/p/w342/c75V0bZ6iu17ypYYPgDwVICBTUj.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qskzSwDM0e5d8ZAK0MvTNwh2fg7.jpg",
-      "plot_overview": "Bringing his signature curiosity, humor and refined taste, Antoni Porowski takes the BEST OF THE WORLD list one step further to explore food, places to stay, wellness and hidden corners of each city. He plunges into unforgettable moments: learning the delicate precision of Paris' most hyper-local and inventive Michelin-starred restaurant, paddling through centuries-old canals in Mexico City, and connecting with locals whose stories define what makes each city truly shine. Using National Geograph",
+      "plot_overview": "Antoni searches for the world's most unforgettable travel experiences.",
       "genres": [
         "documentary"
       ],
@@ -19,8 +50,8 @@
       "release_date": "2026-06-07",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
@@ -115,13 +146,13 @@
       "title": "Michael Jackson: The Verdict",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pJaq1DFjtz0F8a1KHFndJ9be20p.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8R40yI5AJ931Hd3P4Yf8pdFgwJ1.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
       "plot_overview": "Told by key players who were inside the courtroom, this comprehensive documentary dissects the trial of Michael Jackson and his complex legacy.",
       "genres": [
         "documentary"
       ],
-      "user_rating": 0.0,
+      "user_rating": 4.645,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-06-03",
@@ -224,18 +255,44 @@
       "genre": "comedy"
     },
     {
+      "id": 323185,
+      "title": "The Killer Among Us",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yXrVHyKxHw2Z8L3NuknOB7CdTYo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zkEquVhqotpPPwaAL0KXSTxeAmA.jpg",
+      "plot_overview": "Hosted by Alan Cumming, a shocking murder rocks a tight-knit community to its core. But what if the crime wasn't committed by a stranger or outsider? What if this killer is part of the community itself?",
+      "genres": [
+        "crime",
+        "documentary"
+      ],
+      "user_rating": 4.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-05-17",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 323185
+    },
+    {
       "id": 323411,
       "title": "The Vampire Lestat",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hcouWCN92SAw7O1XxYT6nkWPkz3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gZcmNUcDDR1nR7lmroOJTCrhrhK.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iw1knpC8Jg5davMn2MPxNVxBF8N.jpg",
       "plot_overview": "The Vampire Lestat goes on tour while being haunted by \"muses\" from his past. As the band's popularity grows, so does Lestat's influence over vampires & humans alike, leaving others to contend with Lestat's power in the face of the Great Conversion.",
       "genres": [
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 0.0,
+      "user_rating": 6.492,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-06-07",
@@ -243,6 +300,12 @@
         {
           "service_id": 1899,
           "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -335,6 +398,37 @@
       "next_episode": 1,
       "relevance_score": 75,
       "genre": "reality"
+    },
+    {
+      "id": 323557,
+      "title": "Lion",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mvFQIZo2DG1pyiINL2bDa5QNR4O.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xc5PQ22igs1F3OyJ1vXVTZW6793.jpg",
+      "plot_overview": "The extraordinary true story of lion cub Kio, on his journey to become a king.",
+      "genres": [
+        "documentary"
+      ],
+      "user_rating": 8.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-08-19",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 323557
     },
     {
       "id": 323636,
@@ -432,6 +526,38 @@
       "genre": "drama"
     },
     {
+      "id": 323830,
+      "title": "Rangbazz: The story of Deva",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/88ZyrFhL1A5l5YC0oENhNWpkH7V.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4Ia3XAGp2E7jPyDfnOPAuY2TcvY.jpg",
+      "plot_overview": "Rangbazz is a gripping cinematic journey that explores the themes of power, struggle, and redemption. Directed by Divyank Pandey and produced under the banner of Action Film Industry, the story delves into the life of Deva, a man caught between his principles and the harsh realities of the world. With high-octane action and deep emotional undertones, the film showcases a new era of storytelling from the heart of Bilaspur.",
+      "genres": [],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-10",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Action Film Industry"
+      ],
+      "networks": [],
+      "tmdb_id": 323830,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-10",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
       "id": 323842,
       "title": "The Root of the Game",
       "type": "tv_series",
@@ -439,7 +565,9 @@
       "poster_url": null,
       "backdrop_url": null,
       "plot_overview": "Follows players and coaches competing in the Super Copa Pioneer, S\u00e3o Paulo's largest amateur soccer tournament, as they dream of changing their lives.",
-      "genres": [],
+      "genres": [
+        "documentary"
+      ],
       "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,
@@ -499,7 +627,10 @@
       "poster_url": null,
       "backdrop_url": null,
       "plot_overview": "Small-town brothers Jagger and Dawson run Young Farts RV Parts, a multi-million-dollar business where they turn trailer trash into cash. Between outrageous schemes, chaotic stunts, and big-hearted hijinks, these brothers chase one wild idea after the next - all for the love of their family and the empire they\u2019re building.",
-      "genres": [],
+      "genres": [
+        "comedy",
+        "documentary"
+      ],
       "user_rating": 0.0,
       "critic_score": null,
       "us_rating": null,

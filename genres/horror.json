@@ -1,7 +1,24 @@
 {
   "genre": "horror",
-  "updated_at": 1780004424303,
+  "updated_at": 1790380083012,
   "shows": [
+    {
+      "id": 539,
+      "title": "Psycho",
+      "type": "movie",
+      "year": 1960,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 8.4,
+      "release_date": "1960-06-22"
+    },
     {
       "id": 1130276,
       "title": "Succubus",
@@ -11,12 +28,172 @@
       "genre": "horror",
       "genres": [
         "horror",
+        "thriller",
+        "horror",
         "thriller"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 8.577,
+      "user_rating": 8.383,
       "release_date": "2024-10-06"
+    },
+    {
+      "id": 1130276,
+      "title": "Succubus",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7AfBMebJS8mEtSV5ymdxEPpgvXb.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.383,
+      "release_date": "2024-10-06"
+    },
+    {
+      "id": 348,
+      "title": "Alien",
+      "type": "movie",
+      "year": 1979,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "science fiction"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.2,
+      "release_date": "1979-05-25"
+    },
+    {
+      "id": 1339713,
+      "title": "Obsession",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 8.191,
+      "release_date": "2026-05-13"
+    },
+    {
+      "id": 1091,
+      "title": "The Thing",
+      "type": "movie",
+      "year": 1982,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "science fiction"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.073,
+      "release_date": "1982-06-25"
+    },
+    {
+      "id": 14836,
+      "title": "Coraline",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "family",
+        "fantasy",
+        "horror"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.94,
+      "release_date": "2009-02-05"
+    },
+    {
+      "id": 1304313,
+      "title": "Lee Cronin's The Mummy",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1q308iixueCU4pFtSYugNOevtNx.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.86,
+      "release_date": "2026-04-15"
+    },
+    {
+      "id": 578,
+      "title": "Jaws",
+      "type": "movie",
+      "year": 1975,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller",
+        "adventure"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.686,
+      "release_date": "1975-06-20"
+    },
+    {
+      "id": 419430,
+      "title": "Get Out",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "thriller",
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.625,
+      "release_date": "2017-02-24"
+    },
+    {
+      "id": 419430,
+      "title": "Get Out",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "thriller",
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.625,
+      "release_date": "2017-02-24"
     },
     {
       "id": 1062722,
@@ -28,29 +205,88 @@
       "genres": [
         "drama",
         "fantasy",
+        "horror",
+        "drama",
+        "fantasy",
         "horror"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.6,
+      "user_rating": 7.613,
       "release_date": "2025-10-17"
     },
     {
-      "id": 419430,
-      "title": "Get Out",
+      "id": 1062722,
+      "title": "Frankenstein",
       "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "fantasy",
+        "horror",
+        "drama",
+        "fantasy",
+        "horror"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.613,
+      "release_date": "2025-10-17"
+    },
+    {
+      "id": 10331,
+      "title": "Spawn",
+      "type": "tv_series",
+      "year": 1968,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
       "genre": "horror",
       "genres": [
         "horror",
-        "mystery",
-        "thriller"
+        "science fiction",
+        "thriller",
+        "action & adventure",
+        "animation",
+        "drama",
+        "sci-fi & fantasy"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.6,
-      "release_date": "2017-02-24"
+      "user_rating": 7.603,
+      "release_date": "1968-10-04"
+    },
+    {
+      "id": 1266127,
+      "title": "Ready or Not: Here I Come",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "comedy"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.55,
+      "release_date": "2026-03-19"
+    },
+    {
+      "id": 747,
+      "title": "Shaun of the Dead",
+      "type": "movie",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "comedy"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.546,
+      "release_date": "2004-04-09"
     },
     {
       "id": 138843,
@@ -61,12 +297,105 @@
       "genre": "horror",
       "genres": [
         "horror",
+        "thriller",
+        "horror",
         "thriller"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.539,
+      "user_rating": 7.542,
       "release_date": "2013-07-18"
+    },
+    {
+      "id": 138843,
+      "title": "The Conjuring",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.542,
+      "release_date": "2013-07-18"
+    },
+    {
+      "id": 765,
+      "title": "Evil Dead II",
+      "type": "movie",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "comedy",
+        "fantasy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.532,
+      "release_date": "1987-03-13"
+    },
+    {
+      "id": 571,
+      "title": "The Birds",
+      "type": "movie",
+      "year": 1963,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eClg8QPg8mwB6INIC4pyR5pAbDr.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.51,
+      "release_date": "1963-03-28"
+    },
+    {
+      "id": 1233413,
+      "title": "Sinners",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "horror",
+        "thriller",
+        "action",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.509,
+      "release_date": "2025-04-16"
+    },
+    {
+      "id": 1233413,
+      "title": "Sinners",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "horror",
+        "thriller",
+        "action",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.509,
+      "release_date": "2025-04-16"
     },
     {
       "id": 756999,
@@ -77,12 +406,48 @@
       "genre": "horror",
       "genres": [
         "horror",
+        "thriller",
+        "horror",
         "thriller"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.522,
+      "user_rating": 7.509,
       "release_date": "2022-06-16"
+    },
+    {
+      "id": 756999,
+      "title": "The Black Phone",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.509,
+      "release_date": "2022-06-16"
+    },
+    {
+      "id": 10787,
+      "title": "The Invisible Man",
+      "type": "movie",
+      "year": 1933,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ejoVwGmEbTBrf78tqnTSO5g8iVz.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "science fiction"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.5,
+      "release_date": "1933-10-31"
     },
     {
       "id": 229,
@@ -93,29 +458,68 @@
       "genre": "horror",
       "genres": [
         "horror",
+        "science fiction",
+        "horror",
         "science fiction"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.5,
+      "user_rating": 7.497,
       "release_date": "1935-04-20"
     },
     {
-      "id": 1233413,
-      "title": "Sinners",
+      "id": 229,
+      "title": "Bride of Frankenstein",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oucvKATkCI77ngtPjxAI9SAZW42.jpg",
-      "genre": "action",
+      "year": 1935,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+      "genre": "horror",
       "genres": [
-        "action",
         "horror",
-        "thriller"
+        "science fiction",
+        "horror",
+        "science fiction"
       ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.489,
-      "release_date": "2025-04-16"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.497,
+      "release_date": "1935-04-20"
+    },
+    {
+      "id": 3035,
+      "title": "Frankenstein",
+      "type": "movie",
+      "year": 1931,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "science fiction"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.467,
+      "release_date": "1931-11-21"
+    },
+    {
+      "id": 1923,
+      "title": "Twin Peaks: Fire Walk with Me",
+      "type": "movie",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mxsGXqetGnirf99qapYd5MMY1VL.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "mystery",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.434,
+      "release_date": "1992-06-03"
     },
     {
       "id": 520763,
@@ -127,29 +531,52 @@
       "genres": [
         "horror",
         "science fiction",
+        "thriller",
+        "horror",
+        "science fiction",
         "thriller"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.434,
+      "user_rating": 7.428,
       "release_date": "2021-05-21"
     },
     {
-      "id": 423108,
-      "title": "The Conjuring: The Devil Made Me Do It",
+      "id": 520763,
+      "title": "A Quiet Place Part II",
       "type": "movie",
       "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
       "genre": "horror",
       "genres": [
         "horror",
-        "mystery",
+        "science fiction",
+        "thriller",
+        "horror",
+        "science fiction",
         "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.428,
+      "release_date": "2021-05-21"
+    },
+    {
+      "id": 628,
+      "title": "Interview with the Vampire",
+      "type": "movie",
+      "year": 1994,
+      "poster_url": "https://image.tmdb.org/t/p/w342/t7NU8IcmcNBrlunCxiycX9JV7Rp.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "drama",
+        "fantasy"
       ],
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.4,
-      "release_date": "2021-05-25"
+      "release_date": "1994-11-11"
     },
     {
       "id": 476299,
@@ -165,7 +592,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.396,
+      "user_rating": 7.397,
       "release_date": "2018-03-14"
     },
     {
@@ -185,6 +612,192 @@
       "release_date": "2010-01-22"
     },
     {
+      "id": 88018,
+      "title": "The Skeleton Dance",
+      "type": "movie",
+      "year": 1929,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zYwp7SK4HRc9sf4oog3XP02dJv4.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "horror",
+        "music",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.383,
+      "release_date": "1929-08-29"
+    },
+    {
+      "id": 72640,
+      "title": "The Old Mill",
+      "type": "movie",
+      "year": 1937,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9AeBR5ZhhuNM3PsBuR0d6EL3ejL.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "family",
+        "horror",
+        "music",
+        "thriller",
+        "animation",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.343,
+      "release_date": "1937-11-05"
+    },
+    {
+      "id": 381288,
+      "title": "Split",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ow2BSQGKJtZpH2zZY1rmX8eXKAi.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.341,
+      "release_date": "2017-01-19"
+    },
+    {
+      "id": 381288,
+      "title": "Split",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ow2BSQGKJtZpH2zZY1rmX8eXKAi.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.341,
+      "release_date": "2017-01-19"
+    },
+    {
+      "id": 7340,
+      "title": "Carrie",
+      "type": "movie",
+      "year": 1976,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.34,
+      "release_date": "1976-11-03"
+    },
+    {
+      "id": 423108,
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "thriller",
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.336,
+      "release_date": "2021-05-25"
+    },
+    {
+      "id": 423108,
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "thriller",
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.336,
+      "release_date": "2021-05-25"
+    },
+    {
+      "id": 985,
+      "title": "Eraserhead",
+      "type": "movie",
+      "year": 1977,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "science fiction",
+        "horror",
+        "science fiction"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.334,
+      "release_date": "1977-09-28"
+    },
+    {
+      "id": 985,
+      "title": "Eraserhead",
+      "type": "movie",
+      "year": 1977,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "science fiction",
+        "horror",
+        "science fiction"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.334,
+      "release_date": "1977-09-28"
+    },
+    {
+      "id": 16307,
+      "title": "The Wicker Man",
+      "type": "movie",
+      "year": 1973,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wwtrXRL8SiOWxhwLEvw7iBgYh0g.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.33,
+      "release_date": "1973-12-06"
+    },
+    {
       "id": 1151031,
       "title": "Bring Her Back",
       "type": "movie",
@@ -196,56 +809,78 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.343,
+      "user_rating": 7.329,
       "release_date": "2025-05-19"
     },
     {
-      "id": 381288,
-      "title": "Split",
+      "id": 13008,
+      "title": "An American Crime",
       "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/de8angoHVE5GHcK0OO37D4pMkkJ.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "horror"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.316,
+      "release_date": "2007-07-27"
+    },
+    {
+      "id": 1078605,
+      "title": "Weapons",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
       "genre": "horror",
       "genres": [
         "horror",
+        "mystery",
+        "horror",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.3,
+      "release_date": "2025-08-04"
+    },
+    {
+      "id": 1078605,
+      "title": "Weapons",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "horror",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.3,
+      "release_date": "2025-08-04"
+    },
+    {
+      "id": 493922,
+      "title": "Hereditary",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
         "thriller"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.341,
-      "release_date": "2017-01-19"
-    },
-    {
-      "id": 985,
-      "title": "Eraserhead",
-      "type": "movie",
-      "year": 1977,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
-      "genre": "horror",
-      "genres": [
-        "horror",
-        "science fiction"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.34,
-      "release_date": "1977-09-28"
-    },
-    {
-      "id": 507089,
-      "title": "Five Nights at Freddy's",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
-      "genre": "horror",
-      "genres": [
-        "horror",
-        "thriller"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.319,
-      "release_date": "2023-10-25"
+      "user_rating": 7.297,
+      "release_date": "2018-06-07"
     },
     {
       "id": 259693,
@@ -259,7 +894,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.293,
+      "user_rating": 7.294,
       "release_date": "2016-06-08"
     },
     {
@@ -274,8 +909,59 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.28,
+      "user_rating": 7.292,
       "release_date": "1974-10-11"
+    },
+    {
+      "id": 507089,
+      "title": "Five Nights at Freddy's",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.273,
+      "release_date": "2023-10-25"
+    },
+    {
+      "id": 507089,
+      "title": "Five Nights at Freddy's",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "thriller",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.273,
+      "release_date": "2023-10-25"
+    },
+    {
+      "id": 764,
+      "title": "The Evil Dead",
+      "type": "movie",
+      "year": 1983,
+      "poster_url": "https://image.tmdb.org/t/p/w342/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.261,
+      "release_date": "1983-01-16"
     },
     {
       "id": 19908,
@@ -286,6 +972,8 @@
       "genre": "comedy",
       "genres": [
         "comedy",
+        "horror",
+        "comedy",
         "horror"
       ],
       "service_id": 8,
@@ -294,20 +982,56 @@
       "release_date": "2009-10-02"
     },
     {
-      "id": 1078605,
-      "title": "Weapons",
+      "id": 19908,
+      "title": "Zombieland",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "horror",
+        "comedy",
+        "horror"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.259,
+      "release_date": "2009-10-02"
+    },
+    {
+      "id": 766,
+      "title": "Army of Darkness",
+      "type": "movie",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg",
+      "genre": "fantasy",
+      "genres": [
+        "fantasy",
+        "horror",
+        "comedy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.257,
+      "release_date": "1992-10-31"
+    },
+    {
+      "id": 837,
+      "title": "Videodrome",
+      "type": "movie",
+      "year": 1983,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
       "genre": "horror",
       "genres": [
         "horror",
+        "science fiction",
         "mystery"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.256,
-      "release_date": "2025-08-04"
+      "user_rating": 7.248,
+      "release_date": "1983-02-04"
     },
     {
       "id": 346364,
@@ -319,12 +1043,90 @@
       "genres": [
         "drama",
         "horror",
+        "thriller",
+        "drama",
+        "horror",
         "thriller"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.24,
+      "user_rating": 7.241,
       "release_date": "2017-09-06"
+    },
+    {
+      "id": 346364,
+      "title": "It",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "thriller",
+        "drama",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.241,
+      "release_date": "2017-09-06"
+    },
+    {
+      "id": 949423,
+      "title": "Pearl",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.234,
+      "release_date": "2022-09-16"
+    },
+    {
+      "id": 561,
+      "title": "Constantine",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "fantasy",
+        "horror",
+        "action",
+        "fantasy",
+        "horror"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.207,
+      "release_date": "2005-02-08"
+    },
+    {
+      "id": 561,
+      "title": "Constantine",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "fantasy",
+        "horror",
+        "action",
+        "fantasy",
+        "horror"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.207,
+      "release_date": "2005-02-08"
     },
     {
       "id": 546121,
@@ -336,12 +1138,75 @@
       "genres": [
         "drama",
         "horror",
+        "thriller",
+        "drama",
+        "horror",
         "thriller"
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.2,
+      "user_rating": 7.203,
       "release_date": "2020-11-20"
+    },
+    {
+      "id": 546121,
+      "title": "Run",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ilHG4EayOVoYeKqslspY3pR4wzC.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "thriller",
+        "drama",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.203,
+      "release_date": "2020-11-20"
+    },
+    {
+      "id": 19236,
+      "title": "Santa Sangre",
+      "type": "movie",
+      "year": 1989,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6VTra0NR4ygRnq3bD922I4rU0Mq.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "thriller",
+        "drama",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "1989-11-24"
+    },
+    {
+      "id": 19236,
+      "title": "Santa Sangre",
+      "type": "movie",
+      "year": 1989,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6VTra0NR4ygRnq3bD922I4rU0Mq.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "thriller",
+        "drama",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "1989-11-24"
     },
     {
       "id": 10925,
@@ -369,28 +1234,66 @@
       "genre": "comedy",
       "genres": [
         "comedy",
+        "horror",
+        "comedy",
         "horror"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.173,
+      "user_rating": 7.181,
       "release_date": "2022-11-17"
     },
     {
-      "id": 951491,
-      "title": "Saw X",
+      "id": 593643,
+      "title": "The Menu",
       "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
-      "genre": "horror",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+      "genre": "comedy",
       "genres": [
+        "comedy",
         "horror",
+        "comedy",
+        "horror"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.181,
+      "release_date": "2022-11-17"
+    },
+    {
+      "id": 591274,
+      "title": "Fear Street: 1978",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "mystery",
+        "drama",
         "mystery"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.164,
-      "release_date": "2023-09-27"
+      "user_rating": 7.17,
+      "release_date": "2021-07-08"
+    },
+    {
+      "id": 138,
+      "title": "Dracula",
+      "type": "movie",
+      "year": 1931,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.167,
+      "release_date": "1931-02-12"
     },
     {
       "id": 945961,
@@ -401,46 +1304,81 @@
       "genre": "horror",
       "genres": [
         "horror",
+        "science fiction",
+        "horror",
         "science fiction"
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.161,
+      "user_rating": 7.159,
       "release_date": "2024-08-13"
     },
     {
-      "id": 19236,
-      "title": "Santa Sangre",
+      "id": 945961,
+      "title": "Alien: Romulus",
       "type": "movie",
-      "year": 1989,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6VTra0NR4ygRnq3bD922I4rU0Mq.jpg",
-      "genre": "drama",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
+      "genre": "horror",
       "genres": [
-        "drama",
         "horror",
-        "thriller"
+        "science fiction",
+        "horror",
+        "science fiction"
       ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.156,
-      "release_date": "1989-11-24"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.159,
+      "release_date": "2024-08-13"
     },
     {
-      "id": 561,
-      "title": "Constantine",
+      "id": 927,
+      "title": "Gremlins",
       "type": "movie",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
-      "genre": "action",
+      "year": 1984,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+      "genre": "fantasy",
       "genres": [
-        "action",
         "fantasy",
+        "horror",
+        "comedy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.145,
+      "release_date": "1984-06-08"
+    },
+    {
+      "id": 530385,
+      "title": "Midsommar",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.144,
+      "release_date": "2019-07-03"
+    },
+    {
+      "id": 1008042,
+      "title": "Talk to Me",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+      "genre": "horror",
+      "genres": [
         "horror"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.153,
-      "release_date": "2005-02-08"
+      "user_rating": 7.141,
+      "release_date": "2023-07-26"
     },
     {
       "id": 933260,
@@ -452,11 +1390,32 @@
       "genres": [
         "horror",
         "science fiction",
+        "horror",
+        "science fiction",
         "thriller"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.135,
+      "user_rating": 7.134,
+      "release_date": "2024-09-07"
+    },
+    {
+      "id": 933260,
+      "title": "The Substance",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "science fiction",
+        "horror",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.134,
       "release_date": "2024-09-07"
     },
     {
@@ -476,21 +1435,76 @@
       "release_date": "2024-09-11"
     },
     {
-      "id": 1272837,
-      "title": "28 Years Later: The Bone Temple",
+      "id": 951491,
+      "title": "Saw X",
       "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
       "genre": "horror",
       "genres": [
         "horror",
-        "science fiction",
-        "thriller"
+        "mystery",
+        "horror",
+        "mystery"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.117,
-      "release_date": "2026-01-14"
+      "user_rating": 7.1,
+      "release_date": "2023-09-27"
+    },
+    {
+      "id": 951491,
+      "title": "Saw X",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery",
+        "horror",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.1,
+      "release_date": "2023-09-27"
+    },
+    {
+      "id": 567609,
+      "title": "Ready or Not",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "horror",
+        "comedy",
+        "horror"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.094,
+      "release_date": "2019-08-21"
+    },
+    {
+      "id": 567609,
+      "title": "Ready or Not",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "horror",
+        "comedy",
+        "horror"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.094,
+      "release_date": "2019-08-21"
     },
     {
       "id": 938614,
@@ -504,8 +1518,48 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.107,
+      "user_rating": 7.092,
       "release_date": "2024-03-19"
+    },
+    {
+      "id": 1272837,
+      "title": "28 Years Later: The Bone Temple",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "science fiction",
+        "thriller",
+        "horror",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.087,
+      "release_date": "2026-01-14"
+    },
+    {
+      "id": 1272837,
+      "title": "28 Years Later: The Bone Temple",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "science fiction",
+        "thriller",
+        "horror",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.087,
+      "release_date": "2026-01-14"
     },
     {
       "id": 591275,
@@ -516,45 +1570,65 @@
       "genre": "horror",
       "genres": [
         "horror",
+        "mystery",
+        "horror",
         "mystery"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.087,
+      "user_rating": 7.064,
       "release_date": "2021-07-14"
     },
     {
-      "id": 567609,
-      "title": "Ready or Not",
+      "id": 591275,
+      "title": "Fear Street: 1666",
       "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
-      "genre": "comedy",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg",
+      "genre": "horror",
       "genres": [
-        "comedy",
-        "horror"
+        "horror",
+        "mystery",
+        "horror",
+        "mystery"
       ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.067,
-      "release_date": "2019-08-21"
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.064,
+      "release_date": "2021-07-14"
     },
     {
-      "id": 1198994,
-      "title": "Send Help",
+      "id": 64720,
+      "title": "Take Shelter",
       "type": "movie",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-      "genre": "comedy",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9YDnwmjGYkw1r9EKys33Wf95DAZ.jpg",
+      "genre": "thriller",
       "genres": [
-        "comedy",
-        "horror",
-        "thriller"
+        "thriller",
+        "drama",
+        "horror"
       ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.048,
-      "release_date": "2026-01-22"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.055,
+      "release_date": "2011-09-30"
+    },
+    {
+      "id": 13666,
+      "title": "The Wolf Man",
+      "type": "movie",
+      "year": 1941,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vG8fu5syTtQLzK1hQXyi3ugOPNF.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.043,
+      "release_date": "1941-12-09"
     },
     {
       "id": 574475,
@@ -565,28 +1639,94 @@
       "genre": "horror",
       "genres": [
         "horror",
+        "mystery",
+        "horror",
         "mystery"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.038,
+      "user_rating": 7.034,
       "release_date": "2025-05-14"
     },
     {
-      "id": 536554,
-      "title": "M3GAN",
+      "id": 574475,
+      "title": "Final Destination Bloodlines",
       "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
       "genre": "horror",
       "genres": [
         "horror",
-        "science fiction"
+        "mystery",
+        "horror",
+        "mystery"
       ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.023,
-      "release_date": "2022-12-28"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.034,
+      "release_date": "2025-05-14"
+    },
+    {
+      "id": 1198994,
+      "title": "Send Help",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "horror",
+        "thriller",
+        "comedy",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.026,
+      "release_date": "2026-01-22"
+    },
+    {
+      "id": 1198994,
+      "title": "Send Help",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "horror",
+        "thriller",
+        "comedy",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.026,
+      "release_date": "2026-01-22"
+    },
+    {
+      "id": 926899,
+      "title": "The House",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xhE1EYcD6U7m5R8AT7yf29CCxia.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "drama",
+        "fantasy",
+        "horror",
+        "animation",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.021,
+      "release_date": "2022-01-14"
     },
     {
       "id": 300669,
@@ -598,12 +1738,54 @@
       "genres": [
         "crime",
         "horror",
+        "thriller",
+        "crime",
+        "horror",
         "thriller"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.012,
+      "user_rating": 7.019,
       "release_date": "2016-06-08"
+    },
+    {
+      "id": 300669,
+      "title": "Don't Breathe",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dSxHyPZ2nipSfvdft4IhQKjk5eZ.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "horror",
+        "thriller",
+        "crime",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.019,
+      "release_date": "2016-06-08"
+    },
+    {
+      "id": 8408,
+      "title": "Day of the Dead",
+      "type": "movie",
+      "year": 1985,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "mystery",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.009,
+      "release_date": "1985-07-03"
     },
     {
       "id": 11454,
@@ -615,12 +1797,71 @@
       "genres": [
         "crime",
         "horror",
+        "thriller",
+        "crime",
+        "horror",
         "thriller"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.006,
-      "release_date": "1986-08-14"
+      "user_rating": 7.007,
+      "release_date": "1986-08-15"
+    },
+    {
+      "id": 11454,
+      "title": "Manhunter",
+      "type": "movie",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6rb24x39vV8n5301IelC8rCPJTH.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "horror",
+        "thriller",
+        "crime",
+        "horror",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.007,
+      "release_date": "1986-08-15"
+    },
+    {
+      "id": 536554,
+      "title": "M3GAN",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "science fiction",
+        "horror",
+        "science fiction"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.005,
+      "release_date": "2022-12-28"
+    },
+    {
+      "id": 536554,
+      "title": "M3GAN",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "science fiction",
+        "horror",
+        "science fiction"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.005,
+      "release_date": "2022-12-28"
     },
     {
       "id": 310131,
@@ -628,13 +1869,38 @@
       "type": "movie",
       "year": 2016,
       "poster_url": "https://image.tmdb.org/t/p/w342/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
-      "genre": "horror",
+      "genre": "drama",
       "genres": [
+        "drama",
+        "fantasy",
+        "horror",
+        "mystery",
+        "thriller",
         "horror"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.001,
+      "user_rating": 7.003,
+      "release_date": "2016-02-19"
+    },
+    {
+      "id": 310131,
+      "title": "The Witch",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "fantasy",
+        "horror",
+        "mystery",
+        "thriller",
+        "horror"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.003,
       "release_date": "2016-02-19"
     },
     {
@@ -647,11 +1913,34 @@
       "genres": [
         "horror",
         "science fiction",
+        "thriller",
+        "horror",
+        "science fiction",
         "thriller"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.0,
+      "user_rating": 7.002,
+      "release_date": "2025-01-22"
+    },
+    {
+      "id": 1084199,
+      "title": "Companion",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "science fiction",
+        "thriller",
+        "horror",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.002,
       "release_date": "2025-01-22"
     },
     {
@@ -702,6 +1991,23 @@
       "service_name": "Prime Video",
       "user_rating": 6.9,
       "release_date": "2025-09-03"
+    },
+    {
+      "id": 1284041,
+      "title": "The Last House",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.854,
+      "release_date": "2026-08-06"
     },
     {
       "id": 1084187,
@@ -802,6 +2108,40 @@
       "service_name": "Netflix",
       "user_rating": 5.901,
       "release_date": "2025-12-24"
+    },
+    {
+      "id": 1193824,
+      "title": "Rabbit Trap",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sKnwnnmBpjo9BEskHtja6ToXUV1.jpg",
+      "genre": "thriller",
+      "genres": [
+        "thriller",
+        "horror",
+        "mystery",
+        "fantasy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 5.607,
+      "release_date": "2025-09-12"
+    },
+    {
+      "id": 680493,
+      "title": "Return to Silent Hill",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 5.4,
+      "release_date": "2026-01-21"
     }
   ]
 }

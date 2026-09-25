@@ -1,7 +1,39 @@
 {
   "range": "331001-332000",
-  "updated_at": 1780004424394,
+  "updated_at": 1790380083200,
   "shows": [
+    {
+      "id": 331366,
+      "title": "Stereotypical",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wpwumCsFJZeugGoc8JoRnv9BAam.jpg",
+      "backdrop_url": null,
+      "plot_overview": "Stereotypical follows the life of Marvin, a sardonic anthropomorphic Turtle trying to navigate Forestville, a small town populated by people who seem determined to embody every small town stereotype imaginable. From oblivious neighbors, eccentric relatives, and overly strict HOA members, Marvin is constantly caught in the chaos created by the town's most ridiculous characters.",
+      "genres": [
+        "animation"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-01",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [],
+      "networks": [],
+      "tmdb_id": 331366,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-01",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
     {
       "id": 331482,
       "title": "Little Women",
@@ -11,10 +43,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
       "plot_overview": "Four sisters come of age in America in the aftermath of the Civil War.",
       "genres": [
+        "Drama",
+        "Romance",
         "drama",
         "romance"
       ],
-      "user_rating": 7.855,
+      "user_rating": 7.841,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-12-25",
@@ -30,6 +64,64 @@
       "genre": "drama"
     },
     {
+      "id": 331616,
+      "title": "Death of the Pastor's Wife",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg",
+      "plot_overview": "What happened to Mica Miller? This documentary series retraces her promising life, toxic marriage and the mysterious circumstances of her death.",
+      "genres": [
+        "documentary",
+        "crime"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-08-26",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 331616
+    },
+    {
+      "id": 331755,
+      "title": "Astronomical Adventures",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "backdrop_url": null,
+      "plot_overview": "Follow Boutsie on adventures",
+      "genres": [],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-09-30",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Astro Studios"
+      ],
+      "networks": [],
+      "tmdb_id": 331755,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-09-30",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
       "id": 331781,
       "title": "Amy",
       "type": "movie",
@@ -38,10 +130,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8YiAnbmo8ARHNVt25Cp5fVt4rNd.jpg",
       "plot_overview": "A documentary on the life of Amy Winehouse, the immensely talented yet doomed songstress. We see her from her teen years, where she already showed her singing abilities, to her finding success and then her downward spiral into alcoholism and drugs.",
       "genres": [
+        "Documentary",
+        "Music",
         "documentary",
         "music"
       ],
-      "user_rating": 7.575,
+      "user_rating": 7.572,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-07-02",
@@ -51,10 +145,77 @@
           "service_name": "Netflix",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 331781,
       "genre": "documentary"
+    },
+    {
+      "id": 331877,
+      "title": "Disney+ Hulu Throwbacks Podcast",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b0shItpkSRFstofksn6WLLGsryn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/liTpQxWxjfJNgjuC8unSVNsCHSj.jpg",
+      "plot_overview": "A nostalgic deep dive into the iconic movies and shows that defined a generation. In each episode, hosts Sherry Cola and Cierra Ramirez are joined by special guests who were on the sets where the magic first happened. They answer burning questions, play games, and finally spill the behind-the-scenes stories.",
+      "genres": [
+        "talk"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-08-06",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 331877,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-01",
+      "next_episode": 4,
+      "relevance_score": 75
+    },
+    {
+      "id": 331946,
+      "title": "A Beautiful Obsession",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sMGr6FeYhA799ZU50r4wjt5HVdV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kqaqrGjVthqrK2kcjQEIeDYAAdH.jpg",
+      "plot_overview": "An intimate, raw portrait of Manchester City FC across two era-defining seasons. With unprecedented access, the film follows their worst run in decades and fightback to glory.",
+      "genres": [
+        "documentary"
+      ],
+      "user_rating": 8.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-08-19",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 331946
     }
   ]
 }

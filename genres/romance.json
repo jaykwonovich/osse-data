@@ -1,7 +1,78 @@
 {
   "genre": "romance",
-  "updated_at": 1780004424306,
+  "updated_at": 1790380083001,
   "shows": [
+    {
+      "id": 614945,
+      "title": "Voicemails for Isabelle",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.315,
+      "release_date": "2026-06-20"
+    },
+    {
+      "id": 1032863,
+      "title": "The Love Hypothesis",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "comedy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.294,
+      "release_date": "2026-09-23"
+    },
+    {
+      "id": 3082,
+      "title": "Modern Times",
+      "type": "movie",
+      "year": 1936,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AthaPakkuCLROdKxtRbKWclkDBK.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.281,
+      "release_date": "1936-02-05"
+    },
+    {
+      "id": 901,
+      "title": "City Lights",
+      "type": "movie",
+      "year": 1931,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ugmakEL5y294I5bXgiBqApuZpwc.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.244,
+      "release_date": "1931-02-06"
+    },
     {
       "id": 522924,
       "title": "The Art of Racing in the Rain",
@@ -11,28 +82,104 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 8.168,
+      "user_rating": 8.2,
+      "release_date": "2019-08-08"
+    },
+    {
+      "id": 522924,
+      "title": "The Art of Racing in the Rain",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 8.2,
       "release_date": "2019-08-08"
     },
     {
       "id": 289,
       "title": "Casablanca",
       "type": "movie",
-      "year": 1942,
+      "year": 1943,
       "poster_url": "https://image.tmdb.org/t/p/w342/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
       "genre": "drama",
       "genres": [
+        "drama",
+        "romance",
         "drama",
         "romance"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.14,
-      "release_date": "1942-11-26"
+      "user_rating": 8.138,
+      "release_date": "1943-01-15"
+    },
+    {
+      "id": 289,
+      "title": "Casablanca",
+      "type": "movie",
+      "year": 1943,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.138,
+      "release_date": "1943-01-15"
+    },
+    {
+      "id": 872,
+      "title": "Singin' in the Rain",
+      "type": "movie",
+      "year": 1952,
+      "poster_url": "https://image.tmdb.org/t/p/w342/671EPwBsHGHBk0cdOeZqmOK0XB3.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.126,
+      "release_date": "1952-04-10"
+    },
+    {
+      "id": 872,
+      "title": "Singin' in the Rain",
+      "type": "movie",
+      "year": 1952,
+      "poster_url": "https://image.tmdb.org/t/p/w342/671EPwBsHGHBk0cdOeZqmOK0XB3.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.126,
+      "release_date": "1952-04-10"
     },
     {
       "id": 398818,
@@ -51,20 +198,22 @@
       "release_date": "2017-10-01"
     },
     {
-      "id": 872,
-      "title": "Singin' in the Rain",
+      "id": 762975,
+      "title": "Purple Hearts",
       "type": "movie",
-      "year": 1952,
-      "poster_url": "https://image.tmdb.org/t/p/w342/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
-      "genre": "comedy",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4JyNWkryifWbWXJyxcWh3pVya6N.jpg",
+      "genre": "drama",
       "genres": [
-        "comedy",
+        "drama",
+        "romance",
+        "drama",
         "romance"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.1,
-      "release_date": "1952-04-10"
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.044,
+      "release_date": "2022-07-29"
     },
     {
       "id": 762975,
@@ -75,12 +224,36 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.043,
+      "user_rating": 8.044,
       "release_date": "2022-07-29"
+    },
+    {
+      "id": 140420,
+      "title": "Paperman",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9tvF744hwTm2Bn9hkDjMfEsysKz.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy",
+        "romance",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.976,
+      "release_date": "2012-11-02"
     },
     {
       "id": 19542,
@@ -91,28 +264,70 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.983,
+      "user_rating": 7.974,
       "release_date": "1948-09-06"
     },
     {
-      "id": 930094,
-      "title": "Red, White & Royal Blue",
+      "id": 19542,
+      "title": "The Red Shoes",
       "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ta3ReqbdEcLJM3mcHMzbYFZI8v7.jpg",
+      "year": 1948,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vPvpBWFWDvEXuQBkoYgA6A89GVp.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.974,
+      "release_date": "1948-09-06"
+    },
+    {
+      "id": 449176,
+      "title": "Love, Simon",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/snIsqVPmlu4LPjvToHpDotxa7Eh.jpg",
       "genre": "comedy",
       "genres": [
         "comedy",
-        "romance"
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.96,
+      "release_date": "2018-02-16"
+    },
+    {
+      "id": 961,
+      "title": "The General",
+      "type": "movie",
+      "year": 1926,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4NmV1Wei4LxT2lpjViCAScgCZLq.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "war",
+        "comedy",
+        "drama"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.92,
-      "release_date": "2023-07-27"
+      "user_rating": 7.912,
+      "release_date": "1926-12-25"
     },
     {
       "id": 770,
@@ -124,12 +339,126 @@
       "genres": [
         "drama",
         "romance",
+        "war",
+        "drama",
+        "romance",
         "war"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.9,
+      "user_rating": 7.903,
       "release_date": "1939-12-15"
+    },
+    {
+      "id": 770,
+      "title": "Gone with the Wind",
+      "type": "movie",
+      "year": 1939,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "war",
+        "drama",
+        "romance",
+        "war"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.903,
+      "release_date": "1939-12-15"
+    },
+    {
+      "id": 122906,
+      "title": "About Time",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "fantasy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.902,
+      "release_date": "2013-09-04"
+    },
+    {
+      "id": 930094,
+      "title": "Red, White & Royal Blue",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dD3vhyDRCCT90hf4rldHU6Wu3Va.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.9,
+      "release_date": "2023-07-27"
+    },
+    {
+      "id": 930094,
+      "title": "Red, White & Royal Blue",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dD3vhyDRCCT90hf4rldHU6Wu3Va.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.9,
+      "release_date": "2023-07-27"
+    },
+    {
+      "id": 28978,
+      "title": "The Circus",
+      "type": "movie",
+      "year": 1928,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sihWAgBYa8yZFVAonGFGbLTVUj2.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.9,
+      "release_date": "1928-01-06"
+    },
+    {
+      "id": 28971,
+      "title": "Limelight",
+      "type": "movie",
+      "year": 1952,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wNWQS4cPTVtyOPzMZ9HSjmOLZ97.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.892,
+      "release_date": "1952-10-16"
     },
     {
       "id": 776503,
@@ -141,12 +470,111 @@
       "genres": [
         "drama",
         "music",
+        "romance",
+        "drama",
+        "music",
         "romance"
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.89,
+      "user_rating": 7.881,
       "release_date": "2021-08-13"
+    },
+    {
+      "id": 776503,
+      "title": "CODA",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music",
+        "romance",
+        "drama",
+        "music",
+        "romance"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.881,
+      "release_date": "2021-08-13"
+    },
+    {
+      "id": 698508,
+      "title": "Redeeming Love",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2iu0lBF7sfAioLfSnSJtdKxlms6.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "western",
+        "drama",
+        "western"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.864,
+      "release_date": "2022-01-21"
+    },
+    {
+      "id": 369557,
+      "title": "Sing Street",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sUWpVlrvzU2SJbnVZqIeKulPKwk.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "drama",
+        "music",
+        "comedy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.857,
+      "release_date": "2016-03-11"
+    },
+    {
+      "id": 453,
+      "title": "A Beautiful Mind",
+      "type": "movie",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.852,
+      "release_date": "2001-12-14"
+    },
+    {
+      "id": 550205,
+      "title": "Wish Dragon",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "fantasy",
+        "romance",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.851,
+      "release_date": "2021-01-15"
     },
     {
       "id": 331482,
@@ -157,12 +585,105 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.855,
+      "user_rating": 7.841,
       "release_date": "2019-12-25"
+    },
+    {
+      "id": 331482,
+      "title": "Little Women",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.841,
+      "release_date": "2019-12-25"
+    },
+    {
+      "id": 152601,
+      "title": "Her",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "science fiction",
+        "drama"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.835,
+      "release_date": "2013-12-18"
+    },
+    {
+      "id": 266856,
+      "title": "The Theory of Everything",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7kwcLFNt887saoQAL7EY0XnW7VI.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.822,
+      "release_date": "2014-11-07"
+    },
+    {
+      "id": 198,
+      "title": "To Be or Not to Be",
+      "type": "movie",
+      "year": 1942,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "war",
+        "comedy",
+        "romance",
+        "war"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.817,
+      "release_date": "1942-03-06"
+    },
+    {
+      "id": 198,
+      "title": "To Be or Not to Be",
+      "type": "movie",
+      "year": 1942,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "war",
+        "comedy",
+        "romance",
+        "war"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.817,
+      "release_date": "1942-03-06"
     },
     {
       "id": 2942,
@@ -177,8 +698,45 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.807,
+      "user_rating": 7.811,
       "release_date": "2007-04-01"
+    },
+    {
+      "id": 1367642,
+      "title": "Reminders of Him",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.807,
+      "release_date": "2026-03-11"
+    },
+    {
+      "id": 779047,
+      "title": "Us Again",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zKnenwvQB6xA4mxc8zxL2S8qVbR.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "drama",
+        "family",
+        "romance",
+        "animation",
+        "drama",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.803,
+      "release_date": "2021-03-03"
     },
     {
       "id": 419478,
@@ -189,46 +747,32 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.804,
+      "user_rating": 7.801,
       "release_date": "2018-03-22"
     },
     {
-      "id": 198,
-      "title": "To Be or Not to Be",
+      "id": 419478,
+      "title": "Midnight Sun",
       "type": "movie",
-      "year": 1942,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "romance",
-        "war"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.801,
-      "release_date": "1942-03-06"
-    },
-    {
-      "id": 31011,
-      "title": "Mr. Nobody",
-      "type": "movie",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qNkIONc4Rgmzo23ph7qWp9QfVnW.jpg",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vPG2zEKPXhovPW9S91SRnwr5JM1.jpg",
       "genre": "drama",
       "genres": [
         "drama",
         "romance",
-        "science fiction"
+        "drama",
+        "romance"
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.8,
-      "release_date": "2009-11-06"
+      "user_rating": 7.801,
+      "release_date": "2018-03-22"
     },
     {
       "id": 10229,
@@ -247,21 +791,44 @@
       "release_date": "2002-01-25"
     },
     {
-      "id": 887,
-      "title": "The Best Years of Our Lives",
+      "id": 31011,
+      "title": "Mr. Nobody",
       "type": "movie",
-      "year": 1946,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qNkIONc4Rgmzo23ph7qWp9QfVnW.jpg",
       "genre": "drama",
       "genres": [
         "drama",
         "romance",
-        "war"
+        "science fiction",
+        "drama",
+        "romance",
+        "science fiction"
       ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.8,
-      "release_date": "1946-12-25"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.785,
+      "release_date": "2009-11-06"
+    },
+    {
+      "id": 31011,
+      "title": "Mr. Nobody",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qNkIONc4Rgmzo23ph7qWp9QfVnW.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "science fiction",
+        "drama",
+        "romance",
+        "science fiction"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.785,
+      "release_date": "2009-11-06"
     },
     {
       "id": 29845,
@@ -272,61 +839,146 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.789,
+      "user_rating": 7.744,
       "release_date": "1974-11-18"
     },
     {
-      "id": 632322,
-      "title": "All My Life",
+      "id": 29845,
+      "title": "A Woman Under the Influence",
       "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xoKZ4ZkVApcTaTYlGoZ3J8xcIzG.jpg",
+      "year": 1974,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
       "genre": "drama",
       "genres": [
         "drama",
-        "romance"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.767,
-      "release_date": "2020-10-23"
-    },
-    {
-      "id": 858024,
-      "title": "Hamnet",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
-      "genre": "drama",
-      "genres": [
+        "romance",
         "drama",
-        "history",
-        "romance"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.749,
-      "release_date": "2025-11-26"
-    },
-    {
-      "id": 22596,
-      "title": "Safety Last!",
-      "type": "movie",
-      "year": 1923,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fEt5HWJ32ek8ibef7zSZnA00Jp0.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
         "romance"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.713,
-      "release_date": "1923-04-01"
+      "user_rating": 7.744,
+      "release_date": "1974-11-18"
+    },
+    {
+      "id": 887,
+      "title": "The Best Years of Our Lives",
+      "type": "movie",
+      "year": 1946,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "war",
+        "drama",
+        "romance",
+        "war"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.737,
+      "release_date": "1946-11-22"
+    },
+    {
+      "id": 887,
+      "title": "The Best Years of Our Lives",
+      "type": "movie",
+      "year": 1946,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "war",
+        "drama",
+        "romance",
+        "war"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.737,
+      "release_date": "1946-11-22"
+    },
+    {
+      "id": 15121,
+      "title": "The Sound of Music",
+      "type": "movie",
+      "year": 1965,
+      "poster_url": "https://image.tmdb.org/t/p/w342/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "family",
+        "music",
+        "romance",
+        "drama",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.729,
+      "release_date": "1965-03-29"
+    },
+    {
+      "id": 10020,
+      "title": "Beauty and the Beast",
+      "type": "movie",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "family",
+        "fantasy",
+        "romance",
+        "animation",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.724,
+      "release_date": "1991-10-22"
+    },
+    {
+      "id": 428493,
+      "title": "God's Own Country",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hKJz8Moim43P1f1kGrM9Gh0c0rf.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.72,
+      "release_date": "2017-08-31"
+    },
+    {
+      "id": 162,
+      "title": "Night Court",
+      "type": "tv_series",
+      "year": 1990,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "fantasy",
+        "romance",
+        "comedy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.72,
+      "release_date": "1990-12-07"
     },
     {
       "id": 851,
@@ -337,12 +989,243 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.702,
+      "release_date": "1945-11-24"
+    },
+    {
+      "id": 851,
+      "title": "Brief Encounter",
+      "type": "movie",
+      "year": 1945,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.702,
+      "release_date": "1945-11-24"
+    },
+    {
+      "id": 858024,
+      "title": "Hamnet",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "history",
+        "romance"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.7,
+      "release_date": "2025-11-26"
+    },
+    {
+      "id": 858024,
+      "title": "Hamnet",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "history",
+        "romance"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.7,
+      "release_date": "2025-11-26"
+    },
+    {
+      "id": 632322,
+      "title": "All My Life",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xoKZ4ZkVApcTaTYlGoZ3J8xcIzG.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.7,
+      "release_date": "2020-10-23"
+    },
+    {
+      "id": 632322,
+      "title": "All My Life",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xoKZ4ZkVApcTaTYlGoZ3J8xcIzG.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.7,
+      "release_date": "2020-10-23"
+    },
+    {
+      "id": 14624,
+      "title": "The Ultimate Gift",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8BdVk1u110lwHFELTEO9HrPrIDa.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "family",
+        "romance",
+        "drama",
+        "family"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.7,
+      "release_date": "2007-03-09"
+    },
+    {
+      "id": 812,
+      "title": "Aladdin",
+      "type": "movie",
+      "year": 1992,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy",
+        "romance",
+        "animation",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.7,
+      "release_date": "1992-11-25"
+    },
+    {
+      "id": 4808,
+      "title": "Charade",
+      "type": "movie",
+      "year": 1963,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "mystery",
+        "romance",
+        "comedy",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.7,
+      "release_date": "1963-12-01"
+    },
+    {
+      "id": 22596,
+      "title": "Safety Last!",
+      "type": "movie",
+      "year": 1923,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fEt5HWJ32ek8ibef7zSZnA00Jp0.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "thriller",
+        "comedy",
         "romance"
       ],
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.7,
-      "release_date": "1945-11-24"
+      "release_date": "1923-03-12"
+    },
+    {
+      "id": 22596,
+      "title": "Safety Last!",
+      "type": "movie",
+      "year": 1923,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fEt5HWJ32ek8ibef7zSZnA00Jp0.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "thriller",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.7,
+      "release_date": "1923-03-12"
+    },
+    {
+      "id": 950396,
+      "title": "The Gorge",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "science fiction",
+        "thriller",
+        "romance",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.699,
+      "release_date": "2025-02-13"
+    },
+    {
+      "id": 950396,
+      "title": "The Gorge",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "science fiction",
+        "thriller",
+        "romance",
+        "science fiction",
+        "thriller"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.699,
+      "release_date": "2025-02-13"
     },
     {
       "id": 1027014,
@@ -353,12 +1236,37 @@
       "genre": "animation",
       "genres": [
         "animation",
+        "comedy",
+        "music",
+        "romance",
+        "animation",
         "music",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.688,
+      "user_rating": 7.697,
+      "release_date": "2022-09-28"
+    },
+    {
+      "id": 1027014,
+      "title": "Entergalactic",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oMU3JpuKuasjAWIbUQgCaT6pco1.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "music",
+        "romance",
+        "animation",
+        "music",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.697,
       "release_date": "2022-09-28"
     },
     {
@@ -379,21 +1287,40 @@
       "release_date": "2005-12-06"
     },
     {
-      "id": 950396,
-      "title": "The Gorge",
+      "id": 342470,
+      "title": "All the Bright Places",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
-      "genre": "romance",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
+      "genre": "drama",
       "genres": [
+        "drama",
         "romance",
-        "science fiction",
-        "thriller"
+        "drama",
+        "romance"
       ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 7.635,
-      "release_date": "2025-02-13"
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.638,
+      "release_date": "2020-02-28"
+    },
+    {
+      "id": 342470,
+      "title": "All the Bright Places",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.638,
+      "release_date": "2020-02-28"
     },
     {
       "id": 4347,
@@ -412,68 +1339,55 @@
       "release_date": "2007-02-27"
     },
     {
-      "id": 583083,
-      "title": "The Kissing Booth 2",
+      "id": 37247,
+      "title": "The Graduate",
       "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "romance"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.607,
-      "release_date": "2020-07-24"
-    },
-    {
-      "id": 744114,
-      "title": "My Policeman",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
+      "year": 1967,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8XaDpF0COV1MLsDirJMnxmYc1Wp.jpg",
       "genre": "drama",
       "genres": [
         "drama",
-        "romance"
+        "romance",
+        "comedy"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.604,
-      "release_date": "2022-10-20"
+      "user_rating": 7.63,
+      "release_date": "1967-12-21"
     },
     {
-      "id": 342470,
-      "title": "All the Bright Places",
+      "id": 792307,
+      "title": "Poor Things",
       "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
-      "genre": "drama",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "genre": "science fiction",
       "genres": [
-        "drama",
-        "romance"
+        "science fiction",
+        "romance",
+        "comedy"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.6,
-      "release_date": "2020-02-28"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.628,
+      "release_date": "2023-12-07"
     },
     {
-      "id": 222935,
-      "title": "The Fault in Our Stars",
+      "id": 417261,
+      "title": "Forever My Girl",
       "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg",
-      "genre": "drama",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bKqdggnIPeOI15VqtBZTkvh4hA9.jpg",
+      "genre": "romance",
       "genres": [
+        "romance",
         "drama",
-        "romance"
+        "music"
       ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.6,
-      "release_date": "2014-06-02"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.628,
+      "release_date": "2018-01-26"
     },
     {
       "id": 4922,
@@ -493,6 +1407,82 @@
       "release_date": "2008-12-25"
     },
     {
+      "id": 583083,
+      "title": "The Kissing Booth 2",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.598,
+      "release_date": "2020-07-24"
+    },
+    {
+      "id": 583083,
+      "title": "The Kissing Booth 2",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.598,
+      "release_date": "2020-07-24"
+    },
+    {
+      "id": 4951,
+      "title": "10 Things I Hate About You",
+      "type": "movie",
+      "year": 1999,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.598,
+      "release_date": "1999-03-30"
+    },
+    {
+      "id": 976573,
+      "title": "Elemental",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "romance",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.593,
+      "release_date": "2023-06-14"
+    },
+    {
       "id": 466282,
       "title": "To All the Boys I've Loved Before",
       "type": "movie",
@@ -501,12 +1491,85 @@
       "genre": "comedy",
       "genres": [
         "comedy",
+        "romance",
+        "comedy",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.594,
+      "user_rating": 7.589,
       "release_date": "2018-08-17"
+    },
+    {
+      "id": 466282,
+      "title": "To All the Boys I've Loved Before",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.589,
+      "release_date": "2018-08-17"
+    },
+    {
+      "id": 222935,
+      "title": "The Fault in Our Stars",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.589,
+      "release_date": "2014-06-03"
+    },
+    {
+      "id": 222935,
+      "title": "The Fault in Our Stars",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.589,
+      "release_date": "2014-06-03"
+    },
+    {
+      "id": 921,
+      "title": "Cinderella Man",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "drama",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.581,
+      "release_date": "2005-06-02"
     },
     {
       "id": 319,
@@ -518,11 +1581,34 @@
       "genres": [
         "action",
         "crime",
+        "romance",
+        "action",
+        "crime",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.538,
+      "user_rating": 7.537,
+      "release_date": "1993-09-09"
+    },
+    {
+      "id": 319,
+      "title": "True Romance",
+      "type": "movie",
+      "year": 1993,
+      "poster_url": "https://image.tmdb.org/t/p/w342/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "crime",
+        "romance",
+        "action",
+        "crime",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.537,
       "release_date": "1993-09-09"
     },
     {
@@ -535,60 +1621,90 @@
       "genres": [
         "drama",
         "fantasy",
+        "romance",
+        "drama",
+        "fantasy",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.531,
+      "user_rating": 7.514,
       "release_date": "1980-10-02"
     },
     {
-      "id": 200481,
-      "title": "The Blue Umbrella",
+      "id": 16633,
+      "title": "Somewhere in Time",
       "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iSWV7ra8HJ3gYnZFMMrPe8CBbrv.jpg",
-      "genre": "animation",
+      "year": 1980,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hmdegiSwVYUNvEfihaE3HRM3Sos.jpg",
+      "genre": "drama",
       "genres": [
-        "animation",
+        "drama",
+        "fantasy",
+        "romance",
+        "drama",
+        "fantasy",
         "romance"
       ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.522,
-      "release_date": "2013-02-12"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.514,
+      "release_date": "1980-10-02"
     },
     {
-      "id": 828613,
-      "title": "About Fate",
+      "id": 682507,
+      "title": "Where the Crawdads Sing",
       "type": "movie",
       "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fabZkaVHYJ67KbZx7oFoitauX34.jpg",
-      "genre": "comedy",
+      "poster_url": "https://image.tmdb.org/t/p/w342/n1el846gLDXfhOvrRCsyvaAOQWv.jpg",
+      "genre": "drama",
       "genres": [
-        "comedy",
+        "drama",
+        "mystery",
+        "romance",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.508,
+      "release_date": "2022-07-14"
+    },
+    {
+      "id": 744114,
+      "title": "My Policeman",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.5,
-      "release_date": "2022-09-08"
+      "release_date": "2022-10-20"
     },
     {
-      "id": 810171,
-      "title": "The Valet",
+      "id": 744114,
+      "title": "My Policeman",
       "type": "movie",
       "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg",
-      "genre": "comedy",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
+      "genre": "drama",
       "genres": [
-        "comedy",
+        "drama",
+        "romance",
+        "drama",
         "romance"
       ],
-      "service_id": 15,
-      "service_name": "Hulu",
+      "service_id": 9,
+      "service_name": "Prime Video",
       "user_rating": 7.5,
-      "release_date": "2022-05-11"
+      "release_date": "2022-10-20"
     },
     {
       "id": 258480,
@@ -607,47 +1723,221 @@
       "release_date": "2015-11-20"
     },
     {
+      "id": 200481,
+      "title": "The Blue Umbrella",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iSWV7ra8HJ3gYnZFMMrPe8CBbrv.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "romance",
+        "animation",
+        "romance"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.5,
+      "release_date": "2013-02-12"
+    },
+    {
+      "id": 200481,
+      "title": "The Blue Umbrella",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iSWV7ra8HJ3gYnZFMMrPe8CBbrv.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "romance",
+        "animation",
+        "romance"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.5,
+      "release_date": "2013-02-12"
+    },
+    {
+      "id": 828613,
+      "title": "About Fate",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fabZkaVHYJ67KbZx7oFoitauX34.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.499,
+      "release_date": "2022-09-08"
+    },
+    {
+      "id": 828613,
+      "title": "About Fate",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fabZkaVHYJ67KbZx7oFoitauX34.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.499,
+      "release_date": "2022-09-08"
+    },
+    {
       "id": 69,
       "title": "Walk the Line",
       "type": "movie",
       "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/zMkD6FVikyPNnigoupO7vD5ti9p.jpg",
       "genre": "drama",
       "genres": [
+        "drama",
+        "music",
+        "romance",
         "drama",
         "music",
         "romance"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.497,
+      "user_rating": 7.499,
       "release_date": "2005-09-13"
     },
     {
-      "id": 599521,
-      "title": "Z-O-M-B-I-E-S 2",
+      "id": 69,
+      "title": "Walk the Line",
       "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cOnxoQ3kx4mgmWb7yRi6GBWssOh.jpg",
-      "genre": "fantasy",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zMkD6FVikyPNnigoupO7vD5ti9p.jpg",
+      "genre": "drama",
       "genres": [
+        "drama",
+        "music",
+        "romance",
+        "drama",
+        "music",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.499,
+      "release_date": "2005-09-13"
+    },
+    {
+      "id": 11970,
+      "title": "Hercules",
+      "type": "movie",
+      "year": 1997,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
         "fantasy",
         "romance",
-        "tv movie"
+        "animation",
+        "comedy",
+        "family"
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.47,
-      "release_date": "2020-06-13"
+      "user_rating": 7.499,
+      "release_date": "1997-06-13"
+    },
+    {
+      "id": 1291335,
+      "title": "Solo Mio",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "comedy"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.498,
+      "release_date": "2026-02-05"
+    },
+    {
+      "id": 614409,
+      "title": "To All the Boys: Always and Forever",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iepqdM52f4w75fNcvgRF5QoIAjm.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.492,
+      "release_date": "2021-02-12"
+    },
+    {
+      "id": 475888,
+      "title": "Tell It to the Bees",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/Rj6zpHhMU1zFW3v28U4PSRSRgP.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.492,
+      "release_date": "2019-05-03"
+    },
+    {
+      "id": 25037,
+      "title": "The Life and Death of Colonel Blimp",
+      "type": "movie",
+      "year": 1943,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kgyd5uyndsXiLYKlVgH0sm7Jfkv.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "war",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.473,
+      "release_date": "1943-07-26"
     },
     {
       "id": 293863,
       "title": "The Age of Adaline",
       "type": "movie",
       "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/MbILysGhjAbnZi1Okae9wYqLMx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/3XFuCS6wBfpSnUQboLd1JtkJqe0.jpg",
       "genre": "drama",
       "genres": [
+        "drama",
+        "fantasy",
+        "romance",
         "drama",
         "fantasy",
         "romance"
@@ -656,6 +1946,42 @@
       "service_name": "Netflix",
       "user_rating": 7.466,
       "release_date": "2015-04-16"
+    },
+    {
+      "id": 293863,
+      "title": "The Age of Adaline",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3XFuCS6wBfpSnUQboLd1JtkJqe0.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "fantasy",
+        "romance",
+        "drama",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.466,
+      "release_date": "2015-04-16"
+    },
+    {
+      "id": 8055,
+      "title": "The Reader",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r0WURbmnhgKeBpHcpDULBgRedQM.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.461,
+      "release_date": "2008-12-10"
     },
     {
       "id": 15919,
@@ -674,6 +2000,61 @@
       "release_date": "1955-04-11"
     },
     {
+      "id": 9454,
+      "title": "EverAfter",
+      "type": "movie",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9TspO5dThMBioF0DFrvy6YqrngH.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.454,
+      "release_date": "1998-07-31"
+    },
+    {
+      "id": 810171,
+      "title": "The Valet",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.451,
+      "release_date": "2022-05-11"
+    },
+    {
+      "id": 810171,
+      "title": "The Valet",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.451,
+      "release_date": "2022-05-11"
+    },
+    {
       "id": 114,
       "title": "Pretty Woman",
       "type": "movie",
@@ -690,21 +2071,101 @@
       "release_date": "1990-03-23"
     },
     {
-      "id": 1371185,
-      "title": "Song Sung Blue",
+      "id": 599521,
+      "title": "Z-O-M-B-I-E-S 2",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg",
-      "genre": "drama",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cOnxoQ3kx4mgmWb7yRi6GBWssOh.jpg",
+      "genre": "fantasy",
       "genres": [
-        "drama",
-        "music",
+        "fantasy",
+        "romance",
+        "tv movie",
+        "fantasy",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.443,
+      "release_date": "2020-06-13"
+    },
+    {
+      "id": 599521,
+      "title": "Z-O-M-B-I-E-S 2",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cOnxoQ3kx4mgmWb7yRi6GBWssOh.jpg",
+      "genre": "fantasy",
+      "genres": [
+        "fantasy",
+        "romance",
+        "tv movie",
+        "fantasy",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.443,
+      "release_date": "2020-06-13"
+    },
+    {
+      "id": 1076364,
+      "title": "Carl's Date",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wakoF2UgsEE3fGs5KpuwMWsaNr2.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "romance",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.437,
+      "release_date": "2023-06-15"
+    },
+    {
+      "id": 860159,
+      "title": "Crush",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hayr56csDzCSADaejgrRMVPHyDy.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
         "romance"
       ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.4,
-      "release_date": "2025-12-15"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.416,
+      "release_date": "2022-04-29"
+    },
+    {
+      "id": 860159,
+      "title": "Crush",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hayr56csDzCSADaejgrRMVPHyDy.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.416,
+      "release_date": "2022-04-29"
     },
     {
       "id": 1294203,
@@ -715,12 +2176,89 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.4,
       "release_date": "2025-02-12"
+    },
+    {
+      "id": 1294203,
+      "title": "My Fault: London",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.4,
+      "release_date": "2025-02-12"
+    },
+    {
+      "id": 994108,
+      "title": "All of Us Strangers",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "drama",
+        "fantasy"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.4,
+      "release_date": "2023-12-22"
+    },
+    {
+      "id": 673595,
+      "title": "Maggie Simpson in \"Playdate with Destiny\"",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/k6fgOq7wPKujibXGWYlcIBgkcwQ.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "romance",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.4,
+      "release_date": "2020-02-29"
+    },
+    {
+      "id": 111969,
+      "title": "Stuck in Love",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/byic4VFVrpPyjDWK54CcsxYWW85.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.4,
+      "release_date": "2013-06-14"
     },
     {
       "id": 10849,
@@ -749,28 +2287,159 @@
       "genres": [
         "drama",
         "history",
+        "romance",
+        "drama",
+        "history",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.399,
+      "user_rating": 7.391,
       "release_date": "2018-04-19"
     },
     {
-      "id": 860159,
-      "title": "Crush",
+      "id": 451480,
+      "title": "The Guernsey Literary & Potato Peel Pie Society",
       "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hayr56csDzCSADaejgrRMVPHyDy.jpg",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/55oz5d6NdH7ohbM1I1Euh1Tt6PN.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "romance",
+        "drama",
+        "history",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.391,
+      "release_date": "2018-04-19"
+    },
+    {
+      "id": 29884,
+      "title": "Ball of Fire",
+      "type": "movie",
+      "year": 1941,
+      "poster_url": "https://image.tmdb.org/t/p/w342/t9L16dMTuNq4saLpQswZjkNvaMt.jpg",
       "genre": "comedy",
       "genres": [
         "comedy",
+        "crime",
+        "romance",
+        "comedy",
+        "crime"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.389,
+      "release_date": "1941-12-02"
+    },
+    {
+      "id": 2690,
+      "title": "Irma la Douce",
+      "type": "movie",
+      "year": 1963,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5TgL8ql6WwXWmX4EvBL4geJ7gx5.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "comedy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.383,
+      "release_date": "1963-01-30"
+    },
+    {
+      "id": 9560,
+      "title": "A Walk in the Clouds",
+      "type": "movie",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xencQzZnUWDRAOUydjf9PWet8Ae.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.378,
+      "release_date": "1995-05-27"
+    },
+    {
+      "id": 1371185,
+      "title": "Song Sung Blue",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music",
+        "romance",
+        "drama",
+        "music",
+        "romance"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.37,
+      "release_date": "2025-12-15"
+    },
+    {
+      "id": 1371185,
+      "title": "Song Sung Blue",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "music",
+        "romance",
+        "drama",
+        "music",
+        "romance"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.37,
+      "release_date": "2025-12-15"
+    },
+    {
+      "id": 297,
+      "title": "Meet Joe Black",
+      "type": "movie",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+      "genre": "fantasy",
+      "genres": [
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.37,
+      "release_date": "1998-11-12"
+    },
+    {
+      "id": 1245,
+      "title": "The Remains of the Day",
+      "type": "movie",
+      "year": 1993,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uDGDtqSvuch324WnM7Ukdp1bCAQ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
         "romance"
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.385,
-      "release_date": "2022-04-29"
+      "user_rating": 7.358,
+      "release_date": "1993-11-05"
     },
     {
       "id": 116,
@@ -782,12 +2451,70 @@
       "genres": [
         "drama",
         "romance",
+        "thriller",
+        "drama",
+        "romance",
         "thriller"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.359,
+      "user_rating": 7.357,
       "release_date": "2005-10-26"
+    },
+    {
+      "id": 116,
+      "title": "Match Point",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vHjEVTD8ucuwKSFOZJeyAnTZYli.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "thriller",
+        "drama",
+        "romance",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.357,
+      "release_date": "2005-10-26"
+    },
+    {
+      "id": 49020,
+      "title": "Submarine",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nbzXX3CYtKUBrPeMcG7PVoLQHXB.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.355,
+      "release_date": "2011-03-18"
+    },
+    {
+      "id": 550231,
+      "title": "The Secret: Dare to Dream",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5mCqEeBA0MW7H6akFrFQXJu68rU.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.342,
+      "release_date": "2020-04-16"
     },
     {
       "id": 587792,
@@ -799,11 +2526,34 @@
       "genres": [
         "comedy",
         "romance",
+        "science fiction",
+        "comedy",
+        "romance",
         "science fiction"
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.339,
+      "user_rating": 7.337,
+      "release_date": "2020-07-10"
+    },
+    {
+      "id": 587792,
+      "title": "Palm Springs",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "science fiction",
+        "comedy",
+        "romance",
+        "science fiction"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.337,
       "release_date": "2020-07-10"
     },
     {
@@ -815,12 +2565,54 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.335,
+      "user_rating": 7.334,
       "release_date": "2021-07-23"
+    },
+    {
+      "id": 638449,
+      "title": "The Last Letter from Your Lover",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.334,
+      "release_date": "2021-07-23"
+    },
+    {
+      "id": 809,
+      "title": "Shrek 2",
+      "type": "movie",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy",
+        "romance",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.33,
+      "release_date": "2004-05-19"
     },
     {
       "id": 818750,
@@ -840,6 +2632,25 @@
       "release_date": "2022-02-11"
     },
     {
+      "id": 416477,
+      "title": "The Big Sick",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.321,
+      "release_date": "2017-03-30"
+    },
+    {
       "id": 15764,
       "title": "Sophie's Choice",
       "type": "movie",
@@ -849,44 +2660,51 @@
       "genres": [
         "drama",
         "romance",
+        "war",
+        "drama",
+        "romance",
         "war"
       ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.321,
+      "user_rating": 7.303,
       "release_date": "1982-12-08"
     },
     {
-      "id": 621013,
-      "title": "Chemical Hearts",
+      "id": 15764,
+      "title": "Sophie's Choice",
       "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/q1MNlZYqhoD4U7sd7pjxD6SUf4z.jpg",
+      "year": 1982,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rZDPbPTFwuKgr5b9jixGFNYkGYt.jpg",
       "genre": "drama",
       "genres": [
         "drama",
-        "romance"
+        "romance",
+        "war",
+        "drama",
+        "romance",
+        "war"
       ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.308,
-      "release_date": "2020-08-21"
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.303,
+      "release_date": "1982-12-08"
     },
     {
-      "id": 14320,
-      "title": "Great Expectations",
+      "id": 400617,
+      "title": "Phantom Thread",
       "type": "movie",
-      "year": 1946,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ynaFuVvW2jaG06pMV67dOhzMYfJ.jpg",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
       "genre": "drama",
       "genres": [
         "drama",
         "romance"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.302,
-      "release_date": "1946-12-26"
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.3,
+      "release_date": "2017-12-25"
     },
     {
       "id": 90369,
@@ -903,6 +2721,50 @@
       "service_name": "Hulu",
       "user_rating": 7.3,
       "release_date": "2012-09-19"
+    },
+    {
+      "id": 1491,
+      "title": "The Illusionist",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1O9jUvqkHaGBMVRyOJz1AlkmALW.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "fantasy",
+        "romance",
+        "thriller",
+        "drama",
+        "fantasy",
+        "romance",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.3,
+      "release_date": "2006-08-18"
+    },
+    {
+      "id": 1491,
+      "title": "The Illusionist",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1O9jUvqkHaGBMVRyOJz1AlkmALW.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "fantasy",
+        "romance",
+        "thriller",
+        "drama",
+        "fantasy",
+        "romance",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.3,
+      "release_date": "2006-08-18"
     },
     {
       "id": 88,
@@ -922,22 +2784,96 @@
       "release_date": "1987-08-21"
     },
     {
-      "id": 1491,
-      "title": "The Illusionist",
+      "id": 621013,
+      "title": "Chemical Hearts",
       "type": "movie",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1O9jUvqkHaGBMVRyOJz1AlkmALW.jpg",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q1MNlZYqhoD4U7sd7pjxD6SUf4z.jpg",
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.296,
+      "release_date": "2020-08-21"
+    },
+    {
+      "id": 621013,
+      "title": "Chemical Hearts",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q1MNlZYqhoD4U7sd7pjxD6SUf4z.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.296,
+      "release_date": "2020-08-21"
+    },
+    {
+      "id": 14320,
+      "title": "Great Expectations",
+      "type": "movie",
+      "year": 1946,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ynaFuVvW2jaG06pMV67dOhzMYfJ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.294,
+      "release_date": "1946-12-26"
+    },
+    {
+      "id": 14320,
+      "title": "Great Expectations",
+      "type": "movie",
+      "year": 1946,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ynaFuVvW2jaG06pMV67dOhzMYfJ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.294,
+      "release_date": "1946-12-26"
+    },
+    {
+      "id": 1262,
+      "title": "Stranger Than Fiction",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nCzcepubwShvZ4vbCsygQNgF2Z1.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
         "fantasy",
         "romance",
-        "thriller"
+        "comedy",
+        "drama"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.299,
-      "release_date": "2006-08-18"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.293,
+      "release_date": "2006-11-10"
     },
     {
       "id": 2270,
@@ -958,6 +2894,61 @@
       "release_date": "2007-08-10"
     },
     {
+      "id": 50646,
+      "title": "Crazy, Stupid, Love.",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/p4RafgAPk558muOjnBMHhMArjS2.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.277,
+      "release_date": "2011-07-29"
+    },
+    {
+      "id": 47653,
+      "title": "The Immigrant",
+      "type": "movie",
+      "year": 1917,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dbBrtc3mPCEVUIv8QKMcMcaOiZ1.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.27,
+      "release_date": "1917-06-17"
+    },
+    {
+      "id": 47653,
+      "title": "The Immigrant",
+      "type": "movie",
+      "year": 1917,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dbBrtc3mPCEVUIv8QKMcMcaOiZ1.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.27,
+      "release_date": "1917-06-17"
+    },
+    {
       "id": 11816,
       "title": "On Golden Pond",
       "type": "movie",
@@ -966,62 +2957,81 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.278,
+      "user_rating": 7.266,
       "release_date": "1981-12-04"
     },
     {
-      "id": 574451,
-      "title": "Turtles All the Way Down",
+      "id": 11816,
+      "title": "On Golden Pond",
       "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tDKlFXWCvIkP2Xl2nMdI49kzwZx.jpg",
+      "year": 1981,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ic4f03J6pnf9cpQmVDABFhUpbCU.jpg",
       "genre": "drama",
       "genres": [
         "drama",
-        "romance"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.273,
-      "release_date": "2024-04-27"
-    },
-    {
-      "id": 47653,
-      "title": "The Immigrant",
-      "type": "movie",
-      "year": 1917,
-      "poster_url": "https://image.tmdb.org/t/p/w342/f4xP9DvXKqpYKo0Fth5tKyZY8ej.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "romance"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.267,
-      "release_date": "1917-06-17"
-    },
-    {
-      "id": 483980,
-      "title": "Z-O-M-B-I-E-S",
-      "type": "movie",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "fantasy",
         "romance",
-        "tv movie"
+        "drama",
+        "romance"
       ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.251,
-      "release_date": "2018-02-16"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.266,
+      "release_date": "1981-12-04"
+    },
+    {
+      "id": 11426,
+      "title": "From Here to Eternity",
+      "type": "movie",
+      "year": 1953,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sP3T6hTkTMCksUXb0wzzOgbXIfk.jpg",
+      "genre": "war",
+      "genres": [
+        "war",
+        "romance",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.258,
+      "release_date": "1953-08-28"
+    },
+    {
+      "id": 1468683,
+      "title": "Heartstopper Forever",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.247,
+      "release_date": "2026-07-14"
+    },
+    {
+      "id": 9603,
+      "title": "Clueless",
+      "type": "movie",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.242,
+      "release_date": "1995-07-19"
     },
     {
       "id": 13949,
@@ -1033,19 +3043,118 @@
       "genres": [
         "drama",
         "romance",
+        "tv movie",
+        "drama",
+        "romance",
         "tv movie"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.246,
+      "user_rating": 7.24,
       "release_date": "2007-04-01"
     },
     {
-      "id": 283591,
-      "title": "The Secret Scripture",
+      "id": 13949,
+      "title": "Persuasion",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rDv38jqf3t0n4F9wGkQXBLx7wN9.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "tv movie",
+        "drama",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.24,
+      "release_date": "2007-04-01"
+    },
+    {
+      "id": 574451,
+      "title": "Turtles All the Way Down",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tDKlFXWCvIkP2Xl2nMdI49kzwZx.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.239,
+      "release_date": "2024-04-27"
+    },
+    {
+      "id": 574451,
+      "title": "Turtles All the Way Down",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tDKlFXWCvIkP2Xl2nMdI49kzwZx.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.239,
+      "release_date": "2024-04-27"
+    },
+    {
+      "id": 271674,
+      "title": "Suite Fran\u00e7aise",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "war",
+        "drama",
+        "romance",
+        "war"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.238,
+      "release_date": "2015-03-12"
+    },
+    {
+      "id": 271674,
+      "title": "Suite Fran\u00e7aise",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "war",
+        "drama",
+        "romance",
+        "war"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.238,
+      "release_date": "2015-03-12"
+    },
+    {
+      "id": 417678,
+      "title": "Everything, Everything",
       "type": "movie",
       "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iVoZqwvGAwxvGVbYV5y04wpiBob.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gukkmf3W5Cev7winxBa8FHvKLql.jpg",
       "genre": "drama",
       "genres": [
         "drama",
@@ -1053,24 +3162,8 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.238,
-      "release_date": "2017-03-23"
-    },
-    {
-      "id": 112949,
-      "title": "Safe Haven",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2CbJ3HTb6SFbMeguYH52UQSHOwY.jpg",
-      "genre": "romance",
-      "genres": [
-        "romance",
-        "thriller"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.23,
-      "release_date": "2013-02-07"
+      "user_rating": 7.237,
+      "release_date": "2017-05-18"
     },
     {
       "id": 353577,
@@ -1081,12 +3174,276 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.215,
+      "user_rating": 7.235,
       "release_date": "2023-09-15"
+    },
+    {
+      "id": 353577,
+      "title": "Love at First Sight",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vCMGlarDrcmhclBmnYoH7JUCDuA.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.235,
+      "release_date": "2023-09-15"
+    },
+    {
+      "id": 198277,
+      "title": "Begin Again",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qx4HXHXt528hS4rwePZbZo20xqZ.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "music",
+        "romance",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.235,
+      "release_date": "2013-09-07"
+    },
+    {
+      "id": 112949,
+      "title": "Safe Haven",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2CbJ3HTb6SFbMeguYH52UQSHOwY.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "thriller",
+        "romance",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.232,
+      "release_date": "2013-02-07"
+    },
+    {
+      "id": 112949,
+      "title": "Safe Haven",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2CbJ3HTb6SFbMeguYH52UQSHOwY.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "thriller",
+        "romance",
+        "thriller"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.232,
+      "release_date": "2013-02-07"
+    },
+    {
+      "id": 283591,
+      "title": "The Secret Scripture",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iVoZqwvGAwxvGVbYV5y04wpiBob.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.231,
+      "release_date": "2017-03-23"
+    },
+    {
+      "id": 283591,
+      "title": "The Secret Scripture",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iVoZqwvGAwxvGVbYV5y04wpiBob.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.231,
+      "release_date": "2017-03-23"
+    },
+    {
+      "id": 399055,
+      "title": "The Shape of Water",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "fantasy",
+        "romance",
+        "drama",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.23,
+      "release_date": "2017-12-01"
+    },
+    {
+      "id": 399055,
+      "title": "The Shape of Water",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "fantasy",
+        "romance",
+        "drama",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.23,
+      "release_date": "2017-12-01"
+    },
+    {
+      "id": 35690,
+      "title": "The Last Song",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/76twEOHXAM2oKnvZYBI5bP6GeDu.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "family",
+        "romance",
+        "drama",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.229,
+      "release_date": "2010-03-31"
+    },
+    {
+      "id": 72570,
+      "title": "The Vow",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y5GUXzTvt7kSQbdQrSvbYNoa8HB.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.227,
+      "release_date": "2012-02-05"
+    },
+    {
+      "id": 820446,
+      "title": "Downton Abbey: A New Era",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.224,
+      "release_date": "2022-04-27"
+    },
+    {
+      "id": 820446,
+      "title": "Downton Abbey: A New Era",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.224,
+      "release_date": "2022-04-27"
+    },
+    {
+      "id": 706860,
+      "title": "Out",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dCmtnJqu4Lk4yzEPoLZkHYrpwaP.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "drama",
+        "family",
+        "fantasy",
+        "romance",
+        "animation",
+        "comedy",
+        "drama",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.224,
+      "release_date": "2020-05-22"
+    },
+    {
+      "id": 9820,
+      "title": "The Parent Trap",
+      "type": "movie",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "family",
+        "romance",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.216,
+      "release_date": "1998-07-28"
     },
     {
       "id": 42297,
@@ -1097,28 +3454,123 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.208,
+      "user_rating": 7.214,
       "release_date": "2010-11-23"
     },
     {
-      "id": 306745,
-      "title": "Freeheld",
+      "id": 42297,
+      "title": "Burlesque",
       "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/794PfYjTz3yxMRdTRmdFYt6w6ff.jpg",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3U9zBIibERQZqYKM3N1a4MYgBsN.jpg",
       "genre": "drama",
       "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.214,
+      "release_date": "2010-11-23"
+    },
+    {
+      "id": 16553,
+      "title": "Little Manhattan",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z0RNI1NMtsvLsuTo1rWZfNHVs1z.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.213,
+      "release_date": "2005-09-26"
+    },
+    {
+      "id": 16553,
+      "title": "Little Manhattan",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z0RNI1NMtsvLsuTo1rWZfNHVs1z.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.213,
+      "release_date": "2005-09-26"
+    },
+    {
+      "id": 519035,
+      "title": "Nappily Ever After",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lxXsGqxUwSxypffv8hn3r332jf4.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.207,
+      "release_date": "2018-09-21"
+    },
+    {
+      "id": 330483,
+      "title": "The Choice",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6MF3cdAasnF17SG9bmeamQ066iJ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
         "drama",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.202,
-      "release_date": "2015-10-02"
+      "user_rating": 7.204,
+      "release_date": "2016-02-04"
+    },
+    {
+      "id": 330483,
+      "title": "The Choice",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6MF3cdAasnF17SG9bmeamQ066iJ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.204,
+      "release_date": "2016-02-04"
     },
     {
       "id": 9576,
@@ -1153,70 +3605,159 @@
       "release_date": "2024-10-10"
     },
     {
-      "id": 1014590,
-      "title": "Upgraded",
+      "id": 843527,
+      "title": "The Idea of You",
       "type": "movie",
       "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uhOXS17gRpTwA85WsZLlYFK3rz0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg",
       "genre": "comedy",
       "genres": [
         "comedy",
-        "romance"
+        "drama",
+        "music",
+        "romance",
+        "comedy",
+        "drama"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.2,
-      "release_date": "2024-02-07"
+      "release_date": "2024-05-02"
     },
     {
-      "id": 454983,
-      "title": "The Kissing Booth",
+      "id": 613504,
+      "title": "After We Collided",
       "type": "movie",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
-      "genre": "comedy",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+      "genre": "drama",
       "genres": [
-        "comedy",
+        "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.2,
-      "release_date": "2018-05-11"
+      "release_date": "2020-09-02"
     },
     {
-      "id": 399055,
-      "title": "The Shape of Water",
+      "id": 613504,
+      "title": "After We Collided",
       "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "fantasy",
-        "romance"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.2,
-      "release_date": "2017-12-01"
-    },
-    {
-      "id": 271674,
-      "title": "Suite Fran\u00e7aise",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
       "genre": "drama",
       "genres": [
         "drama",
         "romance",
-        "war"
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.2,
+      "release_date": "2020-09-02"
+    },
+    {
+      "id": 512895,
+      "title": "Lady and the Tramp",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8wBEye516IKul9sW7JKGcFXVGfV.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "family",
+        "romance",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.2,
+      "release_date": "2019-11-12"
+    },
+    {
+      "id": 483980,
+      "title": "Z-O-M-B-I-E-S",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "fantasy",
+        "romance",
+        "tv movie",
+        "comedy",
+        "fantasy",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.2,
+      "release_date": "2018-02-16"
+    },
+    {
+      "id": 483980,
+      "title": "Z-O-M-B-I-E-S",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "fantasy",
+        "romance",
+        "tv movie",
+        "comedy",
+        "fantasy",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.2,
+      "release_date": "2018-02-16"
+    },
+    {
+      "id": 306745,
+      "title": "Freeheld",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/794PfYjTz3yxMRdTRmdFYt6w6ff.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.2,
-      "release_date": "2015-03-12"
+      "release_date": "2015-10-02"
+    },
+    {
+      "id": 306745,
+      "title": "Freeheld",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/794PfYjTz3yxMRdTRmdFYt6w6ff.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "2015-10-02"
     },
     {
       "id": 152603,
@@ -1236,37 +3777,96 @@
       "release_date": "2013-12-12"
     },
     {
-      "id": 16553,
-      "title": "Little Manhattan",
+      "id": 10198,
+      "title": "The Princess and the Frog",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yprv5PbnEksoVj2v6XEnDBg9joR.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "family",
+        "fantasy",
+        "romance",
+        "animation",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.2,
+      "release_date": "2009-12-08"
+    },
+    {
+      "id": 15906,
+      "title": "Barbie and the Magic of Pegasus",
       "type": "movie",
       "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/z0RNI1NMtsvLsuTo1rWZfNHVs1z.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wqKNLSzGN9lqnmtFFwu40g2eWgQ.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "family",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "2005-10-04"
+    },
+    {
+      "id": 1014590,
+      "title": "Upgraded",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uhOXS17gRpTwA85WsZLlYFK3rz0.jpg",
       "genre": "comedy",
       "genres": [
+        "comedy",
+        "romance",
         "comedy",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.2,
-      "release_date": "2005-09-26"
+      "user_rating": 7.187,
+      "release_date": "2024-02-07"
     },
     {
-      "id": 606,
-      "title": "Out of Africa",
+      "id": 1014590,
+      "title": "Upgraded",
       "type": "movie",
-      "year": 1985,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg",
-      "genre": "drama",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uhOXS17gRpTwA85WsZLlYFK3rz0.jpg",
+      "genre": "comedy",
       "genres": [
-        "drama",
-        "history",
+        "comedy",
+        "romance",
+        "comedy",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.2,
-      "release_date": "1985-12-20"
+      "user_rating": 7.187,
+      "release_date": "2024-02-07"
+    },
+    {
+      "id": 549053,
+      "title": "Last Christmas",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.186,
+      "release_date": "2019-11-07"
     },
     {
       "id": 13368,
@@ -1278,11 +3878,34 @@
       "genres": [
         "comedy",
         "music",
+        "romance",
+        "comedy",
+        "music",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.2,
+      "user_rating": 7.185,
+      "release_date": "1954-10-14"
+    },
+    {
+      "id": 13368,
+      "title": "White Christmas",
+      "type": "movie",
+      "year": 1954,
+      "poster_url": "https://image.tmdb.org/t/p/w342/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "music",
+        "romance",
+        "comedy",
+        "music",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.185,
       "release_date": "1954-10-14"
     },
     {
@@ -1294,44 +3917,32 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.2,
+      "user_rating": 7.183,
       "release_date": "1939-04-07"
     },
     {
-      "id": 820446,
-      "title": "Downton Abbey: A New Era",
+      "id": 3084,
+      "title": "Wuthering Heights",
       "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
+      "year": 1939,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pwHdSzXwlUFAcYGcFutKcPcX2OW.jpg",
       "genre": "drama",
       "genres": [
         "drama",
-        "romance"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.199,
-      "release_date": "2022-04-27"
-    },
-    {
-      "id": 330483,
-      "title": "The Choice",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6MF3cdAasnF17SG9bmeamQ066iJ.jpg",
-      "genre": "drama",
-      "genres": [
+        "romance",
         "drama",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.193,
-      "release_date": "2016-02-04"
+      "user_rating": 7.183,
+      "release_date": "1939-04-07"
     },
     {
       "id": 446696,
@@ -1342,11 +3953,31 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.187,
+      "user_rating": 7.179,
+      "release_date": "2018-09-21"
+    },
+    {
+      "id": 446696,
+      "title": "Life Itself",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pE2hxC8bPbIi9tGyhFg5xiFW6dA.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.179,
       "release_date": "2018-09-21"
     },
     {
@@ -1366,36 +3997,24 @@
       "release_date": "2017-10-13"
     },
     {
-      "id": 613504,
-      "title": "After We Collided",
+      "id": 535544,
+      "title": "Downton Abbey",
       "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg",
       "genre": "drama",
       "genres": [
         "drama",
+        "history",
+        "romance",
+        "drama",
+        "history",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.152,
-      "release_date": "2020-09-02"
-    },
-    {
-      "id": 616251,
-      "title": "The Broken Hearts Gallery",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wGkr4r1e8nubmSNKJpv3HL6sFrA.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "romance"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.138,
-      "release_date": "2020-09-11"
+      "user_rating": 7.16,
+      "release_date": "2019-09-12"
     },
     {
       "id": 535544,
@@ -1407,109 +4026,127 @@
       "genres": [
         "drama",
         "history",
+        "romance",
+        "drama",
+        "history",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.134,
+      "user_rating": 7.16,
       "release_date": "2019-09-12"
     },
     {
-      "id": 371738,
-      "title": "Looking: The Movie",
+      "id": 454983,
+      "title": "The Kissing Booth",
       "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tQdda275rJqNi6Ifrf3ntWBsXDj.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "romance",
-        "tv movie"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.13,
-      "release_date": "2016-07-24"
-    },
-    {
-      "id": 785539,
-      "title": "Resort to Love",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7w4gX4zRlONqThjhmjdxw93FAXt.jpg",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
       "genre": "comedy",
       "genres": [
+        "comedy",
+        "romance",
         "comedy",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.129,
-      "release_date": "2021-07-29"
+      "user_rating": 7.154,
+      "release_date": "2018-05-11"
     },
     {
-      "id": 4441,
-      "title": "Candy",
+      "id": 454983,
+      "title": "The Kissing Booth",
       "type": "movie",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9DvrEg2p3Hrdr1uGe0t7kRraWjl.jpg",
-      "genre": "drama",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
+      "genre": "comedy",
       "genres": [
-        "drama",
-        "romance"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.117,
-      "release_date": "2006-05-25"
-    },
-    {
-      "id": 537915,
-      "title": "After",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
+        "comedy",
+        "romance",
+        "comedy",
         "romance"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.107,
-      "release_date": "2019-04-11"
+      "user_rating": 7.154,
+      "release_date": "2018-05-11"
     },
     {
-      "id": 23169,
-      "title": "Remember Me",
+      "id": 616251,
+      "title": "The Broken Hearts Gallery",
       "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/j7umuMiLCHvWT7wYhFKJOTFSokF.jpg",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wGkr4r1e8nubmSNKJpv3HL6sFrA.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.147,
+      "release_date": "2020-09-11"
+    },
+    {
+      "id": 616251,
+      "title": "The Broken Hearts Gallery",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wGkr4r1e8nubmSNKJpv3HL6sFrA.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.147,
+      "release_date": "2020-09-11"
+    },
+    {
+      "id": 606,
+      "title": "Out of Africa",
+      "type": "movie",
+      "year": 1985,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg",
       "genre": "drama",
       "genres": [
         "drama",
+        "history",
+        "romance",
+        "drama",
+        "history",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.102,
-      "release_date": "2010-03-11"
+      "user_rating": 7.147,
+      "release_date": "1985-12-20"
     },
     {
-      "id": 1289936,
-      "title": "Downton Abbey: The Grand Finale",
+      "id": 606,
+      "title": "Out of Africa",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg",
+      "year": 1985,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg",
       "genre": "drama",
       "genres": [
         "drama",
+        "history",
+        "romance",
+        "drama",
+        "history",
         "romance"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.1,
-      "release_date": "2025-09-10"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.147,
+      "release_date": "1985-12-20"
     },
     {
       "id": 672647,
@@ -1520,12 +4157,306 @@
       "genre": "fantasy",
       "genres": [
         "fantasy",
+        "romance",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.142,
+      "release_date": "2021-02-12"
+    },
+    {
+      "id": 672647,
+      "title": "The Map of Tiny Perfect Things",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6y3ev0rJFbHA1hU22UPmmfzBjrG.jpg",
+      "genre": "fantasy",
+      "genres": [
+        "fantasy",
+        "romance",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.142,
+      "release_date": "2021-02-12"
+    },
+    {
+      "id": 12232,
+      "title": "The Thief of Bagdad",
+      "type": "movie",
+      "year": 1940,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8Fs29JYTOkDluTXgbvLRIaps6PO.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "fantasy",
+        "romance",
+        "adventure",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.131,
+      "release_date": "1940-02-19"
+    },
+    {
+      "id": 12232,
+      "title": "The Thief of Bagdad",
+      "type": "movie",
+      "year": 1940,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8Fs29JYTOkDluTXgbvLRIaps6PO.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "fantasy",
+        "romance",
+        "adventure",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.131,
+      "release_date": "1940-02-19"
+    },
+    {
+      "id": 243,
+      "title": "High Fidelity",
+      "type": "movie",
+      "year": 2000,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "comedy",
+        "romance",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.13,
+      "release_date": "2000-03-17"
+    },
+    {
+      "id": 9464,
+      "title": "Buffalo '66",
+      "type": "movie",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fxzXFzbSGNA52NHQCMqQiwzMIQw.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "comedy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.13,
+      "release_date": "1998-01-20"
+    },
+    {
+      "id": 11620,
+      "title": "Quo Vadis",
+      "type": "movie",
+      "year": 1951,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dqF1dattMNiwGjPSphu2VSi558Q.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "romance"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.126,
+      "release_date": "1951-11-08"
+    },
+    {
+      "id": 785539,
+      "title": "Resort to Love",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7w4gX4zRlONqThjhmjdxw93FAXt.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.124,
+      "release_date": "2021-07-29"
+    },
+    {
+      "id": 785539,
+      "title": "Resort to Love",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7w4gX4zRlONqThjhmjdxw93FAXt.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.124,
+      "release_date": "2021-07-29"
+    },
+    {
+      "id": 352490,
+      "title": "This Beautiful Fantastic",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/22b9jLGJ8OVzlEnWzqF0yRy5Na3.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.124,
+      "release_date": "2016-10-20"
+    },
+    {
+      "id": 370755,
+      "title": "Paterson",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AuJ1ZlfqwuAr9H5Qr1U9KILylse.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.119,
+      "release_date": "2016-11-17"
+    },
+    {
+      "id": 536743,
+      "title": "Queen & Slim",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qfIJOmsiBcum6EGosiy5gTF6ihk.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.109,
+      "release_date": "2019-11-27"
+    },
+    {
+      "id": 537915,
+      "title": "After",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.104,
+      "release_date": "2019-04-11"
+    },
+    {
+      "id": 537915,
+      "title": "After",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.104,
+      "release_date": "2019-04-11"
+    },
+    {
+      "id": 1259102,
+      "title": "Eternity",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.101,
+      "release_date": "2025-11-10"
+    },
+    {
+      "id": 1327862,
+      "title": "Regretting You",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.1,
-      "release_date": "2021-02-12"
+      "release_date": "2025-10-22"
+    },
+    {
+      "id": 1327862,
+      "title": "Regretting You",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.1,
+      "release_date": "2025-10-22"
     },
     {
       "id": 455207,
@@ -1544,32 +4475,51 @@
       "release_date": "2018-08-15"
     },
     {
-      "id": 102651,
-      "title": "Maleficent",
+      "id": 4441,
+      "title": "Candy",
       "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg",
-      "genre": "action",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9DvrEg2p3Hrdr1uGe0t7kRraWjl.jpg",
+      "genre": "drama",
       "genres": [
-        "action",
-        "adventure",
-        "family",
-        "fantasy",
+        "drama",
+        "romance",
+        "drama",
         "romance"
       ],
-      "service_id": 337,
-      "service_name": "Disney+",
+      "service_id": 9,
+      "service_name": "Prime Video",
       "user_rating": 7.1,
-      "release_date": "2014-05-28"
+      "release_date": "2006-05-25"
+    },
+    {
+      "id": 4441,
+      "title": "Candy",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9DvrEg2p3Hrdr1uGe0t7kRraWjl.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.1,
+      "release_date": "2006-05-25"
     },
     {
       "id": 14533,
       "title": "Gia",
       "type": "movie",
       "year": 1998,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8KxvKGl8lQembejIadDP03qjEYT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/oFi5OIvBf59W1KFaN0cuiMEEbs1.jpg",
       "genre": "drama",
       "genres": [
+        "drama",
+        "romance",
         "drama",
         "romance"
       ],
@@ -1579,21 +4529,222 @@
       "release_date": "1998-09-22"
     },
     {
-      "id": 12232,
-      "title": "The Thief of Bagdad",
+      "id": 14533,
+      "title": "Gia",
       "type": "movie",
-      "year": 1940,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8Fs29JYTOkDluTXgbvLRIaps6PO.jpg",
-      "genre": "adventure",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oFi5OIvBf59W1KFaN0cuiMEEbs1.jpg",
+      "genre": "drama",
       "genres": [
-        "adventure",
-        "fantasy",
+        "drama",
+        "romance",
+        "drama",
         "romance"
       ],
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.1,
-      "release_date": "1940-02-19"
+      "release_date": "1998-09-22"
+    },
+    {
+      "id": 10340,
+      "title": "Lady and the Tramp",
+      "type": "movie",
+      "year": 1955,
+      "poster_url": "https://image.tmdb.org/t/p/w342/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "romance",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.1,
+      "release_date": "1955-06-22"
+    },
+    {
+      "id": 11224,
+      "title": "Cinderella",
+      "type": "movie",
+      "year": 1950,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "family",
+        "fantasy",
+        "romance",
+        "animation",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.1,
+      "release_date": "1950-02-22"
+    },
+    {
+      "id": 9769,
+      "title": "Lolita",
+      "type": "movie",
+      "year": 1997,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9INcC14WZjCMKGE360VXmklCLdZ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.096,
+      "release_date": "1997-09-27"
+    },
+    {
+      "id": 23169,
+      "title": "Remember Me",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/j7umuMiLCHvWT7wYhFKJOTFSokF.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.095,
+      "release_date": "2010-03-11"
+    },
+    {
+      "id": 23169,
+      "title": "Remember Me",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/j7umuMiLCHvWT7wYhFKJOTFSokF.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.095,
+      "release_date": "2010-03-11"
+    },
+    {
+      "id": 43539,
+      "title": "The Next Three Days",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wBaRZ3aHa7qoYTSY0ONbXrXYk4B.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.091,
+      "release_date": "2010-11-18"
+    },
+    {
+      "id": 19490,
+      "title": "The Bishop's Wife",
+      "type": "movie",
+      "year": 1947,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2sMpffmvoJlW7WBcvyHTPR9DEsj.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "fantasy",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.09,
+      "release_date": "1947-12-25"
+    },
+    {
+      "id": 102651,
+      "title": "Maleficent",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "family",
+        "fantasy",
+        "romance",
+        "action",
+        "adventure",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.089,
+      "release_date": "2014-05-28"
+    },
+    {
+      "id": 102651,
+      "title": "Maleficent",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "family",
+        "fantasy",
+        "romance",
+        "action",
+        "adventure",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.089,
+      "release_date": "2014-05-28"
+    },
+    {
+      "id": 597219,
+      "title": "The Half of It",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.087,
+      "release_date": "2020-05-01"
     },
     {
       "id": 520172,
@@ -1604,12 +4755,51 @@
       "genre": "comedy",
       "genres": [
         "comedy",
+        "romance",
+        "comedy",
         "romance"
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.094,
+      "user_rating": 7.079,
       "release_date": "2020-11-26"
+    },
+    {
+      "id": 520172,
+      "title": "Happiest Season",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vzec9kkOSE93tygyfOktedkeOQ.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.079,
+      "release_date": "2020-11-26"
+    },
+    {
+      "id": 1064213,
+      "title": "Anora",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.077,
+      "release_date": "2024-10-14"
     },
     {
       "id": 420817,
@@ -1622,12 +4812,113 @@
         "adventure",
         "family",
         "fantasy",
+        "romance",
+        "adventure",
+        "family",
+        "fantasy",
         "romance"
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.085,
+      "user_rating": 7.077,
       "release_date": "2019-05-22"
+    },
+    {
+      "id": 420817,
+      "title": "Aladdin",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy",
+        "romance",
+        "adventure",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.077,
+      "release_date": "2019-05-22"
+    },
+    {
+      "id": 371738,
+      "title": "Looking: The Movie",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tQdda275rJqNi6Ifrf3ntWBsXDj.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "tv movie",
+        "drama",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.076,
+      "release_date": "2016-07-24"
+    },
+    {
+      "id": 371738,
+      "title": "Looking: The Movie",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tQdda275rJqNi6Ifrf3ntWBsXDj.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "tv movie",
+        "drama",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.076,
+      "release_date": "2016-07-24"
+    },
+    {
+      "id": 814340,
+      "title": "Cha Cha Real Smooth",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iUvoVhvwTlP8DofoqeIu7QAGLAe.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.075,
+      "release_date": "2022-06-17"
+    },
+    {
+      "id": 19265,
+      "title": "Whatever Works",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/upIYOZbiutCBnvejGYaZlJxxKcs.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.074,
+      "release_date": "2009-06-19"
     },
     {
       "id": 1049638,
@@ -1646,6 +4937,42 @@
       "release_date": "2023-03-17"
     },
     {
+      "id": 1289936,
+      "title": "Downton Abbey: The Grand Finale",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.059,
+      "release_date": "2025-09-10"
+    },
+    {
+      "id": 1289936,
+      "title": "Downton Abbey: The Grand Finale",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "drama",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.059,
+      "release_date": "2025-09-10"
+    },
+    {
       "id": 10653,
       "title": "The Seven Year Itch",
       "type": "movie",
@@ -1654,46 +4981,71 @@
       "genre": "comedy",
       "genres": [
         "comedy",
+        "romance",
+        "comedy",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.05,
+      "user_rating": 7.044,
       "release_date": "1955-06-03"
     },
     {
-      "id": 35558,
-      "title": "Starstruck",
+      "id": 10653,
+      "title": "The Seven Year Itch",
       "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kuyJuNiiZvu5iNr8Dgv5y75v1uc.jpg",
+      "year": 1955,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4oLqx0QbjWFzWtkxRmDLGH47CUJ.jpg",
       "genre": "comedy",
       "genres": [
         "comedy",
-        "music",
         "romance",
-        "tv movie"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.041,
-      "release_date": "2010-02-14"
-    },
-    {
-      "id": 1327862,
-      "title": "Regretting You",
-      "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
+        "comedy",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.04,
-      "release_date": "2025-10-22"
+      "user_rating": 7.044,
+      "release_date": "1955-06-03"
+    },
+    {
+      "id": 15789,
+      "title": "A Goofy Movie",
+      "type": "movie",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bycmMhO3iIoEDzP768sUjq2RV4T.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "romance",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.039,
+      "release_date": "1995-04-05"
+    },
+    {
+      "id": 365942,
+      "title": "The Space Between Us",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lRBl9mfvUbZeaAyXoP09XwPOo0W.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "science fiction",
+        "drama"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.038,
+      "release_date": "2017-01-26"
     },
     {
       "id": 15775,
@@ -1705,12 +5057,90 @@
       "genres": [
         "drama",
         "fantasy",
+        "romance",
+        "drama",
+        "fantasy",
         "romance"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.038,
+      "user_rating": 7.036,
       "release_date": "2004-01-23"
+    },
+    {
+      "id": 15775,
+      "title": "If Only",
+      "type": "movie",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/m55qCh44VzrDhWSINr1MdB7RtAb.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "fantasy",
+        "romance",
+        "drama",
+        "fantasy",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.036,
+      "release_date": "2004-01-23"
+    },
+    {
+      "id": 2064,
+      "title": "While You Were Sleeping",
+      "type": "movie",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.032,
+      "release_date": "1995-04-21"
+    },
+    {
+      "id": 2064,
+      "title": "While You Were Sleeping",
+      "type": "movie",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance",
+        "comedy",
+        "romance"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.032,
+      "release_date": "1995-04-21"
+    },
+    {
+      "id": 254320,
+      "title": "The Lobster",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.022,
+      "release_date": "2015-10-15"
     },
     {
       "id": 157370,
@@ -1730,6 +5160,25 @@
       "release_date": "2013-10-16"
     },
     {
+      "id": 1307078,
+      "title": "My Oxford Year",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jrhXbIOFingzdLjkccjg9vZnqIp.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.009,
+      "release_date": "2025-07-31"
+    },
+    {
       "id": 722913,
       "title": "Malcolm & Marie",
       "type": "movie",
@@ -1744,6 +5193,74 @@
       "service_name": "Netflix",
       "user_rating": 7.009,
       "release_date": "2021-01-29"
+    },
+    {
+      "id": 8583,
+      "title": "Dangerous Beauty",
+      "type": "movie",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7uHX8qIr8VYPwdpVv4TCjXcVxDo.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.008,
+      "release_date": "1998-02-20"
+    },
+    {
+      "id": 37056,
+      "title": "Letters to Juliet",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y9DdvY1IRNS2hWLq161hmP2gXn.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.004,
+      "release_date": "2010-05-13"
+    },
+    {
+      "id": 1143319,
+      "title": "Puppy Love",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zjpsW3sflsoxahFyFujvTnWUuqV.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.003,
+      "release_date": "2023-08-22"
+    },
+    {
+      "id": 9390,
+      "title": "Jerry Maguire",
+      "type": "movie",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.002,
+      "release_date": "1996-12-13"
     },
     {
       "id": 744275,
@@ -1778,20 +5295,84 @@
       "release_date": "2016-10-07"
     },
     {
-      "id": 2064,
-      "title": "While You Were Sleeping",
+      "id": 35558,
+      "title": "Starstruck",
       "type": "movie",
-      "year": 1995,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kuyJuNiiZvu5iNr8Dgv5y75v1uc.jpg",
       "genre": "comedy",
       "genres": [
         "comedy",
-        "romance"
+        "music",
+        "romance",
+        "tv movie",
+        "comedy",
+        "music",
+        "romance",
+        "tv movie"
       ],
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.0,
-      "release_date": "1995-04-21"
+      "release_date": "2010-02-14"
+    },
+    {
+      "id": 35558,
+      "title": "Starstruck",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kuyJuNiiZvu5iNr8Dgv5y75v1uc.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "music",
+        "romance",
+        "tv movie",
+        "comedy",
+        "music",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.0,
+      "release_date": "2010-02-14"
+    },
+    {
+      "id": 483,
+      "title": "Wild at Heart",
+      "type": "movie",
+      "year": 1990,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "thriller",
+        "romance"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.0,
+      "release_date": "1990-08-17"
+    },
+    {
+      "id": 19186,
+      "title": "The Parent Trap",
+      "type": "movie",
+      "year": 1961,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jaZFWy6ZAvQoMW2mo9xP5gx4URo.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "family",
+        "romance",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.0,
+      "release_date": "1961-05-13"
     },
     {
       "id": 1242011,
@@ -1825,6 +5406,39 @@
       "service_name": "Peacock",
       "user_rating": 6.9,
       "release_date": "2024-10-16"
+    },
+    {
+      "id": 1516698,
+      "title": "The Last Sunrise",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.813,
+      "release_date": "2026-08-26"
+    },
+    {
+      "id": 6435,
+      "title": "Practical Magic",
+      "type": "movie",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
+      "genre": "romance",
+      "genres": [
+        "romance",
+        "fantasy",
+        "comedy"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.809,
+      "release_date": "1998-10-16"
     },
     {
       "id": 1072790,
@@ -1873,6 +5487,40 @@
       "service_name": "Max",
       "user_rating": 6.639,
       "release_date": "2026-02-11"
+    },
+    {
+      "id": 967941,
+      "title": "Wicked: For Good",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "genre": "fantasy",
+      "genres": [
+        "fantasy",
+        "adventure",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.585,
+      "release_date": "2025-11-19"
+    },
+    {
+      "id": 8966,
+      "title": "Twilight",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "genre": "fantasy",
+      "genres": [
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.273,
+      "release_date": "2008-11-20"
     },
     {
       "id": 1317672,

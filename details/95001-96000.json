@@ -1,6 +1,6 @@
 {
   "range": "95001-96000",
-  "updated_at": 1780004424358,
+  "updated_at": 1790380083119,
   "shows": [
     {
       "id": 95057,
@@ -14,7 +14,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.057,
+      "user_rating": 8.055,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-02-23",
@@ -40,7 +40,7 @@
       "genres": [
         "documentary"
       ],
-      "user_rating": 8.311,
+      "user_rating": 8.305,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-05-23",
@@ -122,7 +122,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.38,
+      "user_rating": 7.364,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-10-13",
@@ -142,14 +142,15 @@
       "title": "Lanterns",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9WvY1jicpfYLA6KoczwvdMRNGvc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/moA5NNpOsSeQ2gNkOBgbMeNOl3d.jpg",
-      "plot_overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, earth-based mystery as they investigate a murder in the American heartland.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "plot_overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "genres": [
+        "drama",
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 0.0,
+      "user_rating": 8.262,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-08-16",
@@ -172,9 +173,9 @@
       "tmdb_id": 95350,
       "is_returning": true,
       "next_season": 1,
-      "next_air_date": "2026-08-16",
-      "next_episode": 1,
-      "relevance_score": 75,
+      "next_air_date": "2026-09-27",
+      "next_episode": 7,
+      "relevance_score": 100,
       "genre": "mystery"
     },
     {
@@ -190,7 +191,7 @@
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.4,
+      "user_rating": 8.396,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-02-17",
@@ -237,15 +238,16 @@
       "title": "Slow Horses",
       "type": "tv_series",
       "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
       "plot_overview": "Follow a dysfunctional team of MI5 agents\u2014and their obnoxious boss, the notorious Jackson Lamb\u2014as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
       "genres": [
         "comedy",
         "crime",
-        "drama"
+        "drama",
+        "mystery"
       ],
-      "user_rating": 8.014,
+      "user_rating": 8.026,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-04-01",
@@ -255,10 +257,21 @@
           "service_name": "Apple TV+",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 95480,
-      "genre": "comedy"
+      "genre": "comedy",
+      "is_returning": true,
+      "next_season": 6,
+      "next_air_date": "2026-09-30",
+      "next_episode": 3,
+      "relevance_score": 75
     },
     {
       "id": 95555,
@@ -300,7 +313,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.6,
+      "user_rating": 8.63,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-03-25",

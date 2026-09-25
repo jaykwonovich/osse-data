@@ -1,6 +1,6 @@
 {
   "range": "71001-72000",
-  "updated_at": 1780004424351,
+  "updated_at": 1790380083098,
   "shows": [
     {
       "id": 71024,
@@ -128,11 +128,18 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uxezSInaPoH20CyHx4TuY1LzGly.jpg",
       "plot_overview": "Phineas and Ferb get trapped in an alternate dimension where the evil Doofenshmirtz rules the tri-state area. They must find a way back home with the help of their pet platypus named Perry, who they discover is a secret agent.",
       "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction",
+        "TV Movie",
         "animation",
         "comedy",
         "family"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.113,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-08-05",
@@ -159,7 +166,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 8.361,
+      "user_rating": 8.387,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-07-05",
@@ -167,6 +174,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
@@ -185,7 +198,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 8.459,
+      "user_rating": 8.452,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-09-25",
@@ -212,7 +225,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.813,
+      "user_rating": 7.817,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-02-26",
@@ -290,11 +303,38 @@
       "genre": "comedy"
     },
     {
+      "id": 71789,
+      "title": "SEAL Team",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ojyo33io8HGxNCRg21Z1o87YEZX.jpg",
+      "plot_overview": "Military drama following the professional and personal lives of the most elite unit of Navy SEALs as they train, plan and execute the most dangerous, high stakes missions our country can ask of them.",
+      "genres": [
+        "action & adventure",
+        "drama",
+        "war & politics"
+      ],
+      "user_rating": 8.037,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-09-27",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 71789
+    },
+    {
       "id": 71790,
       "title": "S.W.A.T.",
       "type": "tv_series",
       "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1l7vsAIkqOzrqiPwjO27Cb5QdfJ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
       "plot_overview": "A Los Angeles S.W.A.T. sergeant is assigned to lead a highly skilled unit in the community where he grew up. Torn between loyalty to the streets, where the cops are sometimes the enemy, and allegiance to his brothers in blue, he strategically straddles the two worlds.",
       "genres": [
@@ -302,7 +342,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 8.0,
+      "user_rating": 8.029,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-11-02",
@@ -310,6 +350,12 @@
         {
           "service_id": 8,
           "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -354,10 +400,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/k7lwdrpZ92BDahx6TLdkPE65cpJ.jpg",
       "plot_overview": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
       "genres": [
+        "Drama",
+        "Thriller",
         "drama",
         "thriller"
       ],
-      "user_rating": 7.542,
+      "user_rating": 7.532,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-09-28",
@@ -387,11 +435,15 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2ExC9bBiPYPsA1EP5nvsy0GfG44.jpg",
       "plot_overview": "A childless couple bury a box in their backyard, containing all of their wishes for an infant. Soon, a child is born, though Timothy Green is not all that he appears.",
       "genres": [
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
         "comedy",
         "drama",
         "family"
       ],
-      "user_rating": 7.003,
+      "user_rating": 7.005,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-08-15",
@@ -417,7 +469,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.857,
+      "user_rating": 7.814,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-01-03",
@@ -475,9 +527,10 @@
       "plot_overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
       "genres": [
         "action & adventure",
-        "drama"
+        "drama",
+        "sci-fi & fantasy"
       ],
-      "user_rating": 7.921,
+      "user_rating": 7.889,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-12-20",
@@ -504,7 +557,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.589,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-11-18",

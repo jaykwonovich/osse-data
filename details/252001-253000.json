@@ -1,7 +1,60 @@
 {
   "range": "252001-253000",
-  "updated_at": 1780004424383,
+  "updated_at": 1790380083175,
   "shows": [
+    {
+      "id": 252105,
+      "title": "Golden Axe",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
+      "plot_overview": "Legendary warriors Ax Battler, Tyris Flare, and Gilius Thunderhead reunite to save Yuria from the evil giant Death Adder, who just won't seem to stay dead. Their quest is complicated by Hampton Squib, an inexperienced and wildly underprepared adventurer whose dream of heroism far exceeds his abilities. Forced to work together despite their flaws, they must find a way to stop Death Adder once and for all.",
+      "genres": [
+        "animation",
+        "sci-fi & fantasy"
+      ],
+      "user_rating": 8.111,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-09-16",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 252105
+    },
+    {
+      "id": 252107,
+      "title": "Star City",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gaL7wuMdG8MMOR0UTm3LtkPSBVV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
+      "plot_overview": "Step into a thrilling chapter inspired by For All Mankind. Same alt-history universe. Different perspective: the Soviet Union's. Go behind the Iron Curtain with the cosmonauts, engineers, and intelligence officers who risked it all in the race for the Moon.",
+      "genres": [
+        "drama",
+        "sci-fi & fantasy",
+        "war & politics"
+      ],
+      "user_rating": 7.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-05-28",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 252107
+    },
     {
       "id": 252605,
       "title": "Geek Girl",
@@ -29,6 +82,31 @@
       ],
       "tmdb_id": 252605,
       "genre": "comedy"
+    },
+    {
+      "id": 252884,
+      "title": "The Man Will Burn",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xhQSWQBAn5fFGXBIEq22NvUhV8s.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r7DeEHAvfW8q30fetw6HgB60aip.jpg",
+      "plot_overview": "Explores the definitive story of the Burning Man festival, filmed over three years with the co-operation of the Burning Man Project, the non-profit behind it, and featuring archive from the last 30 years.",
+      "genres": [
+        "documentary"
+      ],
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-07-09",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 252884
     }
   ]
 }

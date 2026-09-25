@@ -1,6 +1,6 @@
 {
   "range": "37001-38000",
-  "updated_at": 1780004424339,
+  "updated_at": 1790380083080,
   "shows": [
     {
       "id": 37056,
@@ -11,10 +11,13 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2dCkaxVGvXnPfQC07cweMAT2n3F.jpg",
       "plot_overview": "An American girl on vacation in Italy finds an unanswered \"letter to Juliet\" -- one of thousands of missives left at the fictional lover's Verona courtyard, which are typically answered by the \"secretaries of Juliet\" -- and she goes on a quest to find the lovers referenced in the letter.",
       "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
         "comedy",
         "drama"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.004,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-05-13",
@@ -22,6 +25,12 @@
         {
           "service_id": 8,
           "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -38,10 +47,13 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/a0E1mbejev56Ii51hCnYUDj4tZS.jpg",
       "plot_overview": "Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
         "animation",
         "family"
       ],
-      "user_rating": 7.402,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1999-06-17",
@@ -55,6 +67,60 @@
       ],
       "tmdb_id": 37135,
       "genre": "animation"
+    },
+    {
+      "id": 37247,
+      "title": "The Graduate",
+      "type": "movie",
+      "year": 1967,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8XaDpF0COV1MLsDirJMnxmYc1Wp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+      "plot_overview": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "user_rating": 7.63,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1967-12-21",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 37247
+    },
+    {
+      "id": 37257,
+      "title": "Witness for the Prosecution",
+      "type": "movie",
+      "year": 1957,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bCj4EfuehAlgBwVd3diyWyhuuau.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/evUB9YKE5IPPtQOchcEF6hS90BO.jpg",
+      "plot_overview": "An ailing barrister is thrust back into the courtroom in what becomes one of the most unusual and eventful murder cases of the lawyer's career when he finds himself defending a man being tried for the murder of a socialite.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "user_rating": 8.205,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1957-12-17",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 37257
     },
     {
       "id": 37606,
@@ -117,13 +183,13 @@
       "title": "Suits",
       "type": "tv_series",
       "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fO0nFvGcbTHpwZGLkr98xuZ5hFs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cwKuMNndfjSl8iQIcAISL0C1tDZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
       "plot_overview": "While running from a drug deal gone bad, Mike Ross, a brilliant young college-dropout, slips into a job interview with one of New York City's best legal closers, Harvey Specter. Tired of cookie-cutter law school grads, Harvey takes a gamble by hiring Mike on the spot after he recognizes his raw talent and photographic memory.",
       "genres": [
         "drama"
       ],
-      "user_rating": 8.216,
+      "user_rating": 8.22,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-06-23",
@@ -143,6 +209,31 @@
       ],
       "tmdb_id": 37680,
       "genre": "drama"
+    },
+    {
+      "id": 37799,
+      "title": "The Social Network",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1PXwh3nJzgRkkYnqfWInJNypeL4.jpg",
+      "plot_overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.377,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-10-01",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 37799
     }
   ]
 }

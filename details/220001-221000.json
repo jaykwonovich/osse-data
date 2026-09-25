@@ -1,7 +1,34 @@
 {
   "range": "220001-221000",
-  "updated_at": 1780004424378,
+  "updated_at": 1790380083163,
   "shows": [
+    {
+      "id": 220102,
+      "title": "Spider-Noir",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/reAZlLG6YMkBuxPT1XKuCH97TM1.jpg",
+      "plot_overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+      "genres": [
+        "drama",
+        "mystery",
+        "crime"
+      ],
+      "user_rating": 8.351,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-05-25",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 220102
+    },
     {
       "id": 220289,
       "title": "Coherence",
@@ -11,10 +38,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cvGE73s935bXEAVt2W0zADPPegG.jpg",
       "plot_overview": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
       "genres": [
+        "Science Fiction",
+        "Thriller",
         "science fiction",
         "thriller"
       ],
-      "user_rating": 7.214,
+      "user_rating": 7.21,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-04-06",

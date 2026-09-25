@@ -1,6 +1,6 @@
 {
   "range": "817001-818000",
-  "updated_at": 1780004424425,
+  "updated_at": 1790380083251,
   "shows": [
     {
       "id": 817758,
@@ -11,10 +11,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/84XcRwKHAw4VXdKOYTSW5ARxFEt.jpg",
       "plot_overview": "As celebrated conductor Lydia T\u00e1r starts rehearsals for a career-defining symphony, the consequences of her past choices begin to echo in the present.",
       "genres": [
+        "Drama",
+        "Music",
         "drama",
         "music"
       ],
-      "user_rating": 7.103,
+      "user_rating": 7.093,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-10-07",
@@ -22,6 +24,12 @@
         {
           "service_id": 386,
           "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }

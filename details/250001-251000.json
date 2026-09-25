@@ -1,7 +1,37 @@
 {
   "range": "250001-251000",
-  "updated_at": 1780004424383,
+  "updated_at": 1790380083173,
   "shows": [
+    {
+      "id": 250203,
+      "title": "Brothers",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+      "plot_overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+      "genres": [
+        "comedy"
+      ],
+      "user_rating": 9.5,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-09-22",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 250203,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-09-29",
+      "next_episode": 3,
+      "relevance_score": 75
+    },
     {
       "id": 250220,
       "title": "The Miniature Wife",
@@ -14,7 +44,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.034,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-04-09",
@@ -40,7 +70,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 8.747,
+      "user_rating": 8.735,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-01-09",
@@ -60,10 +90,13 @@
       "title": "The Many Adventures of Winnie the Pooh",
       "type": "movie",
       "year": 1977,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cT1oDTMwVMVvkaBkbyCKxvtZ8TQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/nefc61WQGahSWoNRrndoqinrZQu.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/19lyrve8NcorainRPLXELTDVnA2.jpg",
       "plot_overview": "Whether we\u2019re young or forever young at heart, the Hundred Acre Wood calls to that place in each of us that still believes in magic. Join pals Pooh, Piglet, Kanga, Roo, Owl, Rabbit, Tigger and Christopher Robin as they enjoy their days together and sing their way through adventures.",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
         "animation",
         "family"
       ],
@@ -188,7 +221,12 @@
         }
       ],
       "tmdb_id": 250923,
-      "genre": "comedy"
+      "genre": "comedy",
+      "is_returning": true,
+      "next_season": 3,
+      "next_air_date": "2026-10-22",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 250988,

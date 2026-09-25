@@ -1,6 +1,6 @@
 {
   "range": "399001-400000",
-  "updated_at": 1780004424399,
+  "updated_at": 1790380083214,
   "shows": [
     {
       "id": 399055,
@@ -11,11 +11,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/abirSHwWgKajV3hXhaIR5lcCIXe.jpg",
       "plot_overview": "An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.",
       "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance",
         "drama",
         "fantasy",
         "romance"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.23,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-12-01",
@@ -31,6 +34,33 @@
       "genre": "drama"
     },
     {
+      "id": 399057,
+      "title": "The Killing of a Sacred Deer",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kJwQXgAk440l2vZOspUJee6inim.jpg",
+      "plot_overview": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-10-20",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 399057
+    },
+    {
       "id": 399106,
       "title": "Piper",
       "type": "movie",
@@ -39,10 +69,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4GWYk5VP9qu1rNSeNAwNaBy9mwS.jpg",
       "plot_overview": "A mother bird tries to teach her little one how to find food by herself. In the process, she encounters a traumatic experience that she must overcome in order to survive.",
       "genres": [
+        "Animation",
+        "Family",
         "animation",
         "family"
       ],
-      "user_rating": 8.148,
+      "user_rating": 8.131,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-06-16",
@@ -62,14 +94,17 @@
       "title": "Isle of Dogs",
       "type": "movie",
       "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4C7ZHv5LUPq7XzxC3nq8mBr77sP.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/goMGTcitprGu7YD6VZS4lUUwzRA.jpg",
       "plot_overview": "In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island used as a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
         "animation",
         "comedy"
       ],
-      "user_rating": 7.848,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-03-23",
@@ -77,6 +112,12 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }

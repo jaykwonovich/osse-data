@@ -1,6 +1,6 @@
 {
   "genre": "news",
-  "updated_at": 1780004424310,
+  "updated_at": 1790380083000,
   "shows": [
     {
       "id": 60694,
@@ -16,8 +16,25 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.81,
+      "user_rating": 7.768,
       "release_date": "2014-04-27"
+    },
+    {
+      "id": 32415,
+      "title": "Conan",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+      "genre": "talk",
+      "genres": [
+        "talk",
+        "comedy",
+        "news"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.173,
+      "release_date": "2010-11-08"
     },
     {
       "id": 118043,
@@ -35,6 +52,21 @@
       "service_name": "Netflix",
       "user_rating": 7.1,
       "release_date": "2021-02-17"
+    },
+    {
+      "id": 336200,
+      "title": "The Breakdown with Peyton and Kuechly",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "news",
+      "genres": [
+        "news"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-02"
     }
   ]
 }

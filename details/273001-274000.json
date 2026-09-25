@@ -1,6 +1,6 @@
 {
   "range": "273001-274000",
-  "updated_at": 1780004424386,
+  "updated_at": 1790380083182,
   "shows": [
     {
       "id": 273160,
@@ -30,17 +30,44 @@
       "genre": "drama"
     },
     {
+      "id": 273207,
+      "title": "Neagley",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+      "plot_overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+      "genres": [
+        "drama",
+        "mystery",
+        "crime"
+      ],
+      "user_rating": 8.015,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-09-16",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 273207
+    },
+    {
       "id": 273240,
       "title": "Off Campus",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
       "plot_overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "genres": [
         "drama"
       ],
-      "user_rating": 9.121,
+      "user_rating": 8.898,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-05-13",
@@ -92,11 +119,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
       "plot_overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
       "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
         "action",
         "crime",
         "thriller"
       ],
-      "user_rating": 7.419,
+      "user_rating": 7.43,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-09-17",
@@ -106,10 +136,42 @@
           "service_name": "Hulu",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 273481,
       "genre": "action"
+    },
+    {
+      "id": 273895,
+      "title": "Selma",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2QyUcitU0hrxy6B2zkyJ0EhNlqm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bTnUxw2qH4oBGDMM0w4r6KQ11BD.jpg",
+      "plot_overview": "\"Selma,\" as in Alabama, the place where segregation in the South was at its worst, leading to a march that ended in violence, forcing a famous statement by President Lyndon B. Johnson that ultimately led to the signing of the Voting Rights Act.",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "user_rating": 7.367,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2014-12-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 273895
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "222001-223000",
-  "updated_at": 1780004424378,
+  "updated_at": 1790380083163,
   "shows": [
     {
       "id": 222023,
@@ -56,6 +56,33 @@
       "genre": "drama"
     },
     {
+      "id": 222766,
+      "title": "The Day of the Jackal",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
+      "plot_overview": "An unrivalled and highly elusive lone assassin, the Jackal, makes his living carrying out hits for the highest fee. But following his latest kill, he meets his match in a tenacious British intelligence officer who starts to track down the Jackal in a thrilling cat-and-mouse chase across Europe, leaving destruction in its wake.",
+      "genres": [
+        "drama",
+        "action & adventure",
+        "mystery"
+      ],
+      "user_rating": 8.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2024-11-07",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 222766
+    },
+    {
       "id": 222935,
       "title": "The Fault in Our Stars",
       "type": "movie",
@@ -64,13 +91,15 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oQaVV7p916HO5MDI820zzs1pin9.jpg",
       "plot_overview": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a patient named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
       "genres": [
+        "Drama",
+        "Romance",
         "drama",
         "romance"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.589,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2014-06-02",
+      "release_date": "2014-06-03",
       "streaming_services": [
         {
           "service_id": 337,

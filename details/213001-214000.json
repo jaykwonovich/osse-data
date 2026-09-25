@@ -1,6 +1,6 @@
 {
   "range": "213001-214000",
-  "updated_at": 1780004424376,
+  "updated_at": 1790380083160,
   "shows": [
     {
       "id": 213121,
@@ -11,11 +11,15 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hrjLiSuPPj4rPPn13Aj9sgAzw.jpg",
       "plot_overview": "What starts out as a fun road trip for the Toy Story gang takes an unexpected turn for the worse when the trip detours to a roadside motel. After one of the toys goes missing, the others find themselves caught up in a mysterious sequence of events that must be solved before they all suffer the same fate in this Toy Story of Terror.",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
         "animation",
         "comedy",
         "family"
       ],
-      "user_rating": 7.203,
+      "user_rating": 7.254,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-10-16",
@@ -39,6 +43,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/t65wB2iajohomOYqcQVwjBFebHh.jpg",
       "plot_overview": "A girl with extraordinary psychic abilities joins two gifted teen boys at a small ghost-hunting agency to fight the many deadly spirits haunting London.",
       "genres": [
+        "action & adventure",
         "sci-fi & fantasy"
       ],
       "user_rating": 7.566,
@@ -55,6 +60,80 @@
       ],
       "tmdb_id": 213241,
       "genre": "sci-fi & fantasy"
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/v50p9hearMiu6BlYfp4O7FACmXl.jpg",
+      "plot_overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "genres": [
+        "sci-fi & fantasy"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-14",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Marvel Studios",
+        "Kevin Feige Productions"
+      ],
+      "networks": [
+        "Disney+"
+      ],
+      "tmdb_id": 213375,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-14",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 213562,
+      "title": "Crystal Lake",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/c1RP38PbwfCaQjSSotniS01uvuY.jpg",
+      "plot_overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "genres": [
+        "mystery",
+        "drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-15",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "A24"
+      ],
+      "networks": [
+        "Peacock"
+      ],
+      "tmdb_id": 213562,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-15",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 213609,

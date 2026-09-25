@@ -1,6 +1,6 @@
 {
   "range": "30001-31000",
-  "updated_at": 1780004424337,
+  "updated_at": 1790380083074,
   "shows": [
     {
       "id": 30497,
@@ -13,7 +13,7 @@
       "genres": [
         "horror"
       ],
-      "user_rating": 7.28,
+      "user_rating": 7.292,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1974-10-11",
@@ -27,6 +27,12 @@
         {
           "service_id": 386,
           "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
@@ -43,11 +49,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/f5EUue0mNt4gzjsrCP5QZENv3Ub.jpg",
       "plot_overview": "The film is about an unemployed banker, Henri Verdoux, and his sociopathic methods of attaining income. While being both loyal and competent in his work, Verdoux has been laid-off. To make money for his wife and child, he marries wealthy widows and then murders them. His crime spree eventually works against him when two particular widows break his normal routine.",
       "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
         "comedy",
         "crime",
         "drama"
       ],
-      "user_rating": 7.7,
+      "user_rating": 7.695,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1947-08-27",

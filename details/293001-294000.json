@@ -1,6 +1,6 @@
 {
   "range": "293001-294000",
-  "updated_at": 1780004424388,
+  "updated_at": 1790380083187,
   "shows": [
     {
       "id": 293299,
@@ -11,12 +11,16 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/2xyyn4Rc9kbkaojG9am1FInCmxr.jpg",
       "plot_overview": "This Oscar-winning animated short film tells the story of one man's love life as seen through the eyes of his best friend and dog, Winston, and revealed bite by bite through the meals they share.",
       "genres": [
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
         "animation",
         "comedy",
         "drama",
         "family"
       ],
-      "user_rating": 7.838,
+      "user_rating": 7.823,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-10-25",
@@ -63,14 +67,17 @@
       "type": "movie",
       "year": 2016,
       "poster_url": "https://image.tmdb.org/t/p/w342/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/en971MEXui9diirXlogOrPKmsEn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg",
       "plot_overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
       "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
         "action",
         "adventure",
         "comedy"
       ],
-      "user_rating": 7.623,
+      "user_rating": 7.626,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-02-09",
@@ -90,10 +97,13 @@
       "title": "The Age of Adaline",
       "type": "movie",
       "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/MbILysGhjAbnZi1Okae9wYqLMx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/3XFuCS6wBfpSnUQboLd1JtkJqe0.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wTvDGO0xGMmnScqjuiDeWU7PkcB.jpg",
       "plot_overview": "After 29-year-old Adaline recovers from a nearly lethal accident, she inexplicably stops growing older. As the years stretch on and on, Adaline keeps her secret to herself  until she meets a man who changes her life.",
       "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance",
         "drama",
         "fantasy",
         "romance"
@@ -106,6 +116,12 @@
         {
           "service_id": 8,
           "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }

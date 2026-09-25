@@ -1,6 +1,6 @@
 {
   "range": "830001-831000",
-  "updated_at": 1780002331017,
+  "updated_at": 1790380083260,
   "shows": [
     {
       "id": 830784,
@@ -8,13 +8,14 @@
       "type": "movie",
       "year": 2022,
       "poster_url": "https://image.tmdb.org/t/p/w342/dN6XnCEP3AO7N4XFOFyZ8V8kZF5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oWWsuxplpHdwxVw2u6f3dGLKcvC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zE97tcQOx7Ax6g1xKdKeCjTgpNl.jpg",
       "plot_overview": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle \u2014 a singing crocodile who loves baths, caviar and great music \u2014 living in the attic of his new home. But when Lyle\u2019s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.",
       "genres": [
         "Comedy",
-        "Family"
+        "Family",
+        "Music"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.043,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-10-07",
@@ -24,69 +25,9 @@
           "service_name": "Hulu",
           "type": "sub",
           "region": "US"
-        },
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
         }
       ],
       "tmdb_id": 830784
-    },
-    {
-      "id": 830788,
-      "title": "The Invitation",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jcTq6gIskCsHlKDvCKKouEfiU66.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/m1FOYkc7125mV7vMYlIf56zQ7vL.jpg",
-      "plot_overview": "After the death of her mother, Evie is approached by an unknown cousin who invites her to a lavish wedding in the English countryside. Soon, she realizes a gothic conspiracy is afoot and must fight for survival as she uncovers twisted secrets in her family\u2019s history.",
-      "genres": [],
-      "user_rating": 6.012,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2022-08-24",
-      "streaming_services": [
-        {
-          "service_id": 15,
-          "service_name": "Hulu",
-          "type": "sub",
-          "region": "US"
-        },
-        {
-          "service_id": 1899,
-          "service_name": "Max",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 830788
-    },
-    {
-      "id": 830896,
-      "title": "The Portable Door",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/49NQGuvaMWYeAD22h135tFd2Grs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/drNH9o8DHvFh648LRdxAm8BMZVJ.jpg",
-      "plot_overview": "Paul and Sophie, interns at a mysterious London firm, become steadily aware their employers Humphrey and Dennis are anything but conventional \u2013 they are disrupting the world of magic by bringing modern corporate strategy to ancient magical practices.",
-      "genres": [
-        "Comedy"
-      ],
-      "user_rating": 6.463,
-      "critic_score": null,
-      "us_rating": null,
-      "release_date": "2023-03-23",
-      "streaming_services": [
-        {
-          "service_id": 9,
-          "service_name": "Prime Video",
-          "type": "sub",
-          "region": "US"
-        }
-      ],
-      "tmdb_id": 830896
     }
   ]
 }

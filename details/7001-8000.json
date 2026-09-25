@@ -1,6 +1,6 @@
 {
   "range": "7001-8000",
-  "updated_at": 1780004424324,
+  "updated_at": 1790380083051,
   "shows": [
     {
       "id": 7087,
@@ -97,14 +97,14 @@
       "type": "tv_series",
       "year": 2008,
       "poster_url": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2JcrP4gNhU3KMbdajoEi1OvDl1Y.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
       "plot_overview": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
       "genres": [
         "action & adventure",
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.828,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2008-09-20",
@@ -130,7 +130,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.97,
+      "user_rating": 7.979,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1983-06-15",
@@ -298,6 +298,65 @@
       "genre": "action & adventure"
     },
     {
+      "id": 7340,
+      "title": "Carrie",
+      "type": "movie",
+      "year": 1976,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+      "plot_overview": "Withdrawn and sensitive teenager Carrie White faces bullying from her classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "user_rating": 7.34,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1976-11-03",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 7340
+    },
+    {
+      "id": 7445,
+      "title": "Brothers",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/skHqceAFYee0JZuYd9MVk2IQggi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xERofiEyzGekTNi3oIppQvdLDZB.jpg",
+      "plot_overview": "When his helicopter goes down during his fourth tour of duty in Afghanistan, Marine Sam Cahill is presumed dead. Back home, brother Tommy steps in to look over Sam\u2019s wife, Grace, and two children. Sam\u2019s surprise homecoming triggers domestic mayhem.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "War"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-12-02",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 7445
+    },
+    {
       "id": 7482,
       "title": "Leverage",
       "type": "tv_series",
@@ -335,10 +394,13 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ocAiyzGWhfr3PtNXxYih5s19c1h.jpg",
       "plot_overview": "When two brothers organize the robbery of their parents' jewelry store, the job goes horribly wrong, triggering a series of events that send them and their family hurtling towards a shattering climax.",
       "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
         "crime",
         "drama"
       ],
-      "user_rating": 7.117,
+      "user_rating": 7.109,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2007-09-26",

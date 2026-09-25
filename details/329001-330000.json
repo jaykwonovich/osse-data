@@ -1,31 +1,163 @@
 {
   "range": "329001-330000",
-  "updated_at": 1780002330958,
+  "updated_at": 1790380083199,
   "shows": [
     {
-      "id": 329996,
-      "title": "Dumbo",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qgibOIN9RDHiPdimw7Gc7YcY960.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5tFt6iuGnKapHl5tw0X0cKcnuVo.jpg",
-      "plot_overview": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+      "id": 329471,
+      "title": "The Grand Tour",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg",
+      "plot_overview": "Welcome to The Grand Tour. The world's greatest motoring show reboots with new presenters - Thomas Holland, James Engelsman and Francis Bourgeois - and its trademark blend of global adventure, incredible vehicles, epic stunts and strong opinions.",
       "genres": [
-        "Family"
+        "reality"
       ],
-      "user_rating": 6.589,
+      "user_rating": 8.5,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2019-03-27",
+      "release_date": "2026-09-04",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 329471
+    },
+    {
+      "id": 329524,
+      "title": "Unmasking a Monster: Aileen Wuornos",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fkl2huQPv3lc9vE82wAA5uhbBoD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/72a0AYn6df9dzYjFOj5OGyNkCGM.jpg",
+      "plot_overview": "A three-part docuseries examining the life and crimes of notorious American serial killer Aileen Wuornos, who shot and killed seven male clients while working as a prostitute in Florida in 1989 and 1990. She was arrested in 1991 and spent around 10 years on death row before being executed in 2002.",
+      "genres": [
+        "documentary",
+        "crime"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-09-30",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Warner Bros. Discovery",
+        "Arrow Media",
+        "Fremantle"
+      ],
+      "networks": [
+        "Investigation Discovery"
+      ],
+      "tmdb_id": 329524,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-09-30",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 329575,
+      "title": "The Pellikandy Show",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hpR3VSaiay5nQrMM95kYazuQQvc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8X1uazlzpWZFHut5pNwhfaNch3C.jpg",
+      "plot_overview": "Self proclaimed \"Life Expert\" Pellikandy hosts an educational show with his bumbling intern, Marko, covering everything from martial arts to alternative medicine, while selling out to absurd sponsors, getting sued, and giving away awful free prizes.",
+      "genres": [
+        "comedy"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-15",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [],
+      "networks": [],
+      "tmdb_id": 329575,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-15",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 329896,
+      "title": "Locker Diaries: Coven Academy",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3ygE7A7VTMOUr9kK1SZyIyHdnFY.jpg",
+      "backdrop_url": null,
+      "plot_overview": "The latest in Disney Channel's vertical short-form series.",
+      "genres": [],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-17",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [],
+      "networks": [],
+      "tmdb_id": 329896,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-17",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 329987,
+      "title": "9/11: Reunited",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/97MBKEskobZSHT0f0wzZVRYd2fg.jpg",
+      "plot_overview": "The story of September 11 through the eyes of survivors who experienced life-or-death moments with strangers that day and now want to meet again.",
+      "genres": [
+        "documentary"
+      ],
+      "user_rating": 8.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-08-21",
       "streaming_services": [
         {
           "service_id": 337,
           "service_name": "Disney+",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
         }
       ],
-      "tmdb_id": 329996
+      "tmdb_id": 329987
     }
   ]
 }

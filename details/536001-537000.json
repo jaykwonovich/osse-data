@@ -1,6 +1,6 @@
 {
   "range": "536001-537000",
-  "updated_at": 1780004424410,
+  "updated_at": 1790380083233,
   "shows": [
     {
       "id": 536554,
@@ -11,10 +11,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qd4EKTuudkws9lW76Dn9C0tnuVA.jpg",
       "plot_overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
       "genres": [
+        "Horror",
+        "Science Fiction",
         "horror",
         "science fiction"
       ],
-      "user_rating": 7.023,
+      "user_rating": 7.005,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-12-28",
@@ -24,10 +26,43 @@
           "service_name": "Peacock",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 536554,
       "genre": "horror"
+    },
+    {
+      "id": 536743,
+      "title": "Queen & Slim",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qfIJOmsiBcum6EGosiy5gTF6ihk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/MmDgXMjZhD7rSH74mPrQj3uZaI.jpg",
+      "plot_overview": "While on a forgettable first date together in Ohio, a black man and a black woman are pulled over for a minor traffic infraction. The situation escalates, with sudden and tragic results.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "user_rating": 7.109,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-11-27",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 536743
     },
     {
       "id": 536841,
@@ -35,12 +70,12 @@
       "type": "movie",
       "year": 2019,
       "poster_url": "https://image.tmdb.org/t/p/w342/3eBZxi0xcXBnEYq4m4YTVf0eHWX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/baDD8h5aZfKygdkCuclqjYQlLup.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lFb1Ey6HqCdc2D74Zt5kr7EpQKT.jpg",
       "plot_overview": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the personal life and career of the controversial football player Diego Maradona who played for SSC Napoli and Argentina in the 1980s.",
       "genres": [
         "documentary"
       ],
-      "user_rating": 7.408,
+      "user_rating": 7.394,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-06-14",

@@ -1,6 +1,6 @@
 {
   "range": "198001-199000",
-  "updated_at": 1780004424372,
+  "updated_at": 1790380083154,
   "shows": [
     {
       "id": 198102,
@@ -13,7 +13,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.538,
+      "user_rating": 7.489,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-06-28",
@@ -60,6 +60,40 @@
       ],
       "tmdb_id": 198178,
       "genre": "comedy"
+    },
+    {
+      "id": 198277,
+      "title": "Begin Again",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qx4HXHXt528hS4rwePZbZo20xqZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xrSRmL6pXnRfu9vKwayILkNgLP.jpg",
+      "plot_overview": "Gretta, a budding songwriter, finds herself alone after her boyfriend Dave ditches her. Her life gains purpose when Dan, a record label executive, notices her talent.",
+      "genres": [
+        "Comedy",
+        "Music",
+        "Romance",
+        "Drama"
+      ],
+      "user_rating": 7.235,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-09-07",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 198277
     }
   ]
 }

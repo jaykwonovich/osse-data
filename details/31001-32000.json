@@ -1,6 +1,6 @@
 {
   "range": "31001-32000",
-  "updated_at": 1780004424337,
+  "updated_at": 1790380083074,
   "shows": [
     {
       "id": 31011,
@@ -11,11 +11,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/y9zcjxEilWr44c4vJbEaLTgE0Uw.jpg",
       "plot_overview": "Nemo Nobody leads an ordinary existence with his wife and 3 children; one day, he wakes up as a mortal centenarian in the year 2092.",
       "genres": [
+        "Drama",
+        "Romance",
+        "Science Fiction",
         "drama",
         "romance",
         "science fiction"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.785,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-11-06",
@@ -23,6 +26,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -73,7 +82,7 @@
         "comedy",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.635,
+      "user_rating": 8.634,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-09-06",
@@ -94,12 +103,14 @@
       "type": "movie",
       "year": 1991,
       "poster_url": "https://image.tmdb.org/t/p/w342/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8yJg7SOv0hbuOYhFwq3FW8GajuM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1DOLRxIQbRxhZcllLVx4DUAGqfS.jpg",
       "plot_overview": "Where does voguing come from, and what, exactly, is throwing shade? This landmark documentary provides a vibrant snapshot of the 1980s through the eyes of New York City's African American and Latinx Harlem drag-ball scene. Made over seven years, PARIS IS BURNING offers an intimate portrait of rival fashion \"houses,\" from fierce contests for trophies to house mothers offering sustenance in a world rampant with homophobia, transphobia, racism, AIDS, and poverty. Featuring legendary voguers, drag q",
       "genres": [
+        "Documentary",
+        "History",
         "documentary"
       ],
-      "user_rating": 7.993,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1991-03-13",
@@ -154,7 +165,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.596,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-11-12",
@@ -242,7 +253,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.971,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-06-08",

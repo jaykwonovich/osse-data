@@ -1,6 +1,6 @@
 {
   "range": "82001-83000",
-  "updated_at": 1780004424354,
+  "updated_at": 1790380083107,
   "shows": [
     {
       "id": 82001,
@@ -63,7 +63,7 @@
       "type": "tv_series",
       "year": 2018,
       "poster_url": "https://image.tmdb.org/t/p/w342/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6npymlbLc0SMqqktCpu7X7K4eJy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2sAQs9nIhLXcJU7rz8Vq19j8rO0.jpg",
       "plot_overview": "When a rising high school football player from South Central L.A. is recruited to play for Beverly Hills High, the wins, losses and struggles of two families from vastly different worlds - Compton and Beverly Hills - begin to collide. Inspired by the life of pro football player Spencer Paysinger.",
       "genres": [
         "drama"
@@ -83,9 +83,9 @@
       "tmdb_id": 82428,
       "is_returning": true,
       "next_season": 8,
-      "next_air_date": "2026-07-13",
-      "next_episode": 1,
-      "relevance_score": 75,
+      "next_air_date": "2026-09-28",
+      "next_episode": 13,
+      "relevance_score": 100,
       "genre": "drama"
     },
     {
@@ -94,7 +94,7 @@
       "type": "tv_series",
       "year": 2024,
       "poster_url": "https://image.tmdb.org/t/p/w342/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/imlTCObfzISogbvcwB1dokoXAIc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
       "plot_overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war \u2014 and fight a ruthless enemy bent on stopping him.",
       "genres": [
         "action & adventure",
@@ -102,7 +102,7 @@
         "family",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.772,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-02-22",
@@ -163,7 +163,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.573,
+      "user_rating": 7.543,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-10-02",
@@ -176,17 +176,26 @@
         }
       ],
       "tmdb_id": 82596,
-      "genre": "comedy"
+      "genre": "comedy",
+      "is_returning": true,
+      "next_season": 6,
+      "next_air_date": "2026-12-24",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 82690,
       "title": "Wreck-It Ralph",
       "type": "movie",
       "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fiHyt6UmG4yjcXFt9Cbpw6OedHh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/nrEupcBwf4O1zihCM34NoXusZDq.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
       "plot_overview": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope ",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
         "animation",
         "comedy",
         "family"
@@ -207,12 +216,38 @@
       "genre": "animation"
     },
     {
+      "id": 82695,
+      "title": "Les Mis\u00e9rables",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bsG8LkZx1ijrcf3fP6AvBlGTxkX.jpg",
+      "plot_overview": "An adaptation of the successful stage musical based on Victor Hugo's classic novel set in 19th-century France. Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "user_rating": 7.293,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2012-12-18",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 82695
+    },
+    {
       "id": 82728,
       "title": "Bluey",
       "type": "tv_series",
       "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/g88VMPtog8sl8riaIRtz4U80dMK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9p4pNoGcuyCfHcGWKNrTopqMWtq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tWdNZ3xuFBhJ2ZoQ9vShNGHTb85.jpg",
       "plot_overview": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordinary adventures, developing her imagination as well as her mental, physical and emotional resilience.",
       "genres": [
         "animation",
@@ -220,7 +255,7 @@
         "family",
         "kids"
       ],
-      "user_rating": 8.579,
+      "user_rating": 8.573,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-10-01",
@@ -305,7 +340,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.427,
+      "user_rating": 7.505,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-08-18",
@@ -360,7 +395,7 @@
         "action & adventure",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.4,
+      "user_rating": 8.401,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-11-12",
@@ -384,11 +419,15 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6qvKbLYkfXXKM82M38UmDz3IfBk.jpg",
       "plot_overview": "The kingdom is in a festive mood as everyone gathers for the royal wedding of Rapunzel and Flynn. However, when Pascal and Maximus, as flower chameleon and ring bearer, respectively, lose the gold bands, a frenzied search and recovery mission gets underway. As the desperate duo tries to find the rings before anyone discovers that they\u2019re missing, they leave behind a trail of comical chaos that includes flying lanterns, a flock of doves, a wine barrel barricade and a very sticky finale. Will Maxi",
       "genres": [
+        "Action",
+        "Animation",
+        "Comedy",
+        "Family",
         "animation",
         "comedy",
         "family"
       ],
-      "user_rating": 7.14,
+      "user_rating": 7.136,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-01-13",

@@ -1,21 +1,23 @@
 {
   "range": "858001-859000",
-  "updated_at": 1780004424426,
+  "updated_at": 1790380083263,
   "shows": [
     {
       "id": 858024,
       "title": "Hamnet",
       "type": "movie",
       "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/a9IQXoYCpsjqTOKXRTw1osLd5il.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yt9m5CiU2MZkQoNl1kqLPODNR4t.jpg",
       "plot_overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
       "genres": [
+        "Drama",
+        "Romance",
         "drama",
         "history",
         "romance"
       ],
-      "user_rating": 7.749,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-11-26",
@@ -23,6 +25,12 @@
         {
           "service_id": 386,
           "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }

@@ -1,6 +1,6 @@
 {
   "range": "860001-861000",
-  "updated_at": 1780004424426,
+  "updated_at": 1790380083263,
   "shows": [
     {
       "id": 860159,
@@ -11,10 +11,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aozj1tYuAIgopkiSPogePgSxZkR.jpg",
       "plot_overview": "When an aspiring young artist is forced to join her high school track team, she uses it as an opportunity to pursue the girl she's been harboring a long-time crush on. But she soon finds herself falling for an unexpected teammate and discovers what real love feels like.",
       "genres": [
+        "Comedy",
+        "Romance",
         "comedy",
         "romance"
       ],
-      "user_rating": 7.385,
+      "user_rating": 7.416,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-04-29",
@@ -28,6 +30,33 @@
       ],
       "tmdb_id": 860159,
       "genre": "comedy"
+    },
+    {
+      "id": 860508,
+      "title": "The Whisper Man",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "plot_overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "user_rating": 6.871,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-08-27",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 860508
     }
   ]
 }

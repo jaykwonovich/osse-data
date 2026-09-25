@@ -1,6 +1,6 @@
 {
   "range": "774001-775000",
-  "updated_at": 1780004424423,
+  "updated_at": 1790380083248,
   "shows": [
     {
       "id": 774370,
@@ -8,14 +8,19 @@
       "type": "movie",
       "year": 2025,
       "poster_url": "https://image.tmdb.org/t/p/w342/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/w1SjvuBifhtFwe3BSssXXFyV6bk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg",
       "plot_overview": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve\u2014and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
       "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
         "animation",
         "comedy",
         "family"
       ],
-      "user_rating": 7.447,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-01-24",
@@ -23,6 +28,12 @@
         {
           "service_id": 8,
           "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
@@ -39,10 +50,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pgsxHZO2Tf7nHpRnBoQZitAPguA.jpg",
       "plot_overview": "Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.",
       "genres": [
+        "Documentary",
+        "Music",
         "documentary",
         "music"
       ],
-      "user_rating": 7.965,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-12-21",
@@ -63,13 +76,15 @@
       "type": "movie",
       "year": 2024,
       "poster_url": "https://image.tmdb.org/t/p/w342/bZlecCuBVvKuarNGvchBwaOsQ3c.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fpo2qM5b4gTF5EHuYGlxsDIlZOj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wrifTYmJPTxBf26xJrwyPfGbg3T.jpg",
       "plot_overview": "This is the extraordinary true story of Trudy Ederle, the first woman to successfully swim the English Channel. Through the steadfast support of her older sister and supportive trainers, she overcame adversity and the animosity of a patriarchal society to rise through the ranks of the Olympic swimming team and complete the 21-mile trek from France to England.",
       "genres": [
+        "Drama",
+        "History",
         "drama",
         "history"
       ],
-      "user_rating": 7.855,
+      "user_rating": 7.85,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-05-31",
@@ -93,11 +108,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rfnmMYuZ6EKOBvQLp2wqP21v7sI.jpg",
       "plot_overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
       "genres": [
+        "Adventure",
+        "Comedy",
+        "Science Fiction",
         "adventure",
         "comedy",
         "science fiction"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.085,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-11-24",
