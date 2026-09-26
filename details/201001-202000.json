@@ -1,6 +1,6 @@
 {
   "range": "201001-202000",
-  "updated_at": 1790380505706,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 201289,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.056,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-04-13",
       "streaming_services": [
         {
@@ -27,7 +27,10 @@
         }
       ],
       "tmdb_id": 201289,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 201550,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 7.238,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2013-06-22",
       "streaming_services": [
         {
@@ -76,7 +79,7 @@
       ],
       "user_rating": 7.846,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2024-11-03",
       "streaming_services": [
         {
@@ -87,7 +90,10 @@
         }
       ],
       "tmdb_id": 201643,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Adult Swim"
+      ]
     },
     {
       "id": 201676,
@@ -109,7 +115,7 @@
       ],
       "user_rating": 7.524,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "G",
       "release_date": "2013-06-16",
       "streaming_services": [
         {
@@ -135,7 +141,7 @@
       ],
       "user_rating": 7.96,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-01-11",
       "streaming_services": [
         {
@@ -146,7 +152,10 @@
         }
       ],
       "tmdb_id": 201834,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Peacock"
+      ]
     }
   ]
 }

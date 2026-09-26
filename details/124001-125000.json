@@ -1,6 +1,6 @@
 {
   "range": "124001-125000",
-  "updated_at": 1790380505699,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 124067,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.7,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-03-06",
       "streaming_services": [
         {
@@ -27,7 +27,10 @@
         }
       ],
       "tmdb_id": 124067,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 124101,
@@ -43,7 +46,7 @@
       ],
       "user_rating": 7.494,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-05-13",
       "streaming_services": [
         {
@@ -60,7 +63,12 @@
         }
       ],
       "tmdb_id": 124101,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "HBO Max",
+        "Max",
+        "HBO Max"
+      ]
     },
     {
       "id": 124394,
@@ -76,7 +84,7 @@
       ],
       "user_rating": 8.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-07-18",
       "streaming_services": [
         {
@@ -92,7 +100,10 @@
       "next_air_date": "2026-06-12",
       "next_episode": 1,
       "relevance_score": 75,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "STARZ"
+      ]
     },
     {
       "id": 124800,
@@ -108,7 +119,7 @@
       ],
       "user_rating": 7.788,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-04-27",
       "streaming_services": [
         {
@@ -125,7 +136,11 @@
         }
       ],
       "tmdb_id": 124800,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "HBO Max",
+        "Max"
+      ]
     },
     {
       "id": 124834,
@@ -140,7 +155,7 @@
       ],
       "user_rating": 8.56,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2022-04-22",
       "streaming_services": [
         {
@@ -151,7 +166,10 @@
         }
       ],
       "tmdb_id": 124834,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

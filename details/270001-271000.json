@@ -1,6 +1,6 @@
 {
   "range": "270001-271000",
-  "updated_at": 1790380505718,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 270476,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 8.051,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-04-28",
       "streaming_services": [
         {
@@ -33,7 +33,10 @@
       "next_air_date": "2026-06-02",
       "next_episode": 8,
       "relevance_score": 75,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 270572,
@@ -49,7 +52,7 @@
       ],
       "user_rating": 7.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-02-08",
       "streaming_services": [
         {
@@ -60,7 +63,10 @@
         }
       ],
       "tmdb_id": 270572,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 270596,
@@ -113,7 +119,7 @@
       ],
       "user_rating": 5.189,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-02-08",
       "streaming_services": [
         {
@@ -124,7 +130,10 @@
         }
       ],
       "tmdb_id": 270600,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Peacock"
+      ]
     }
   ]
 }

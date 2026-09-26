@@ -1,6 +1,6 @@
 {
   "range": "307001-308000",
-  "updated_at": 1790380505724,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 307176,
@@ -105,7 +105,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 307498
+      "tmdb_id": 307498,
+      "networks": [
+        "HGTV"
+      ]
     },
     {
       "id": 307966,
@@ -131,7 +134,11 @@
         }
       ],
       "tmdb_id": 307966,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "HGTV",
+        "Magnolia Network"
+      ]
     },
     {
       "id": 307980,
@@ -157,7 +164,10 @@
         }
       ],
       "tmdb_id": 307980,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Prime Video"
+      ]
     }
   ]
 }

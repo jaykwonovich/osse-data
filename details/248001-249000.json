@@ -1,6 +1,6 @@
 {
   "range": "248001-249000",
-  "updated_at": 1790380505714,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 248830,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.288,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-06-03",
       "streaming_services": [
         {
@@ -32,7 +32,10 @@
       "next_season": 2,
       "next_air_date": "2026-11-03",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 248852,
@@ -48,7 +51,7 @@
       ],
       "user_rating": 7.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-07-17",
       "streaming_services": [
         {
@@ -59,7 +62,10 @@
         }
       ],
       "tmdb_id": 248852,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

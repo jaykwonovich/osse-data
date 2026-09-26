@@ -1,6 +1,6 @@
 {
   "range": "239001-240000",
-  "updated_at": 1790380505712,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 239618,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-09-20",
       "streaming_services": [
         {
@@ -31,7 +31,10 @@
       "next_season": 1,
       "next_air_date": "2026-09-27",
       "next_episode": 3,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "MGM+"
+      ]
     },
     {
       "id": 239826,
@@ -47,7 +50,7 @@
       ],
       "user_rating": 7.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2025-07-09",
       "streaming_services": [
         {
@@ -58,7 +61,10 @@
         }
       ],
       "tmdb_id": 239826,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Prime Video"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "285001-286000",
-  "updated_at": 1790380505720,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 285079,
@@ -58,7 +58,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 285147
+      "tmdb_id": 285147,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 285322,
@@ -73,7 +76,7 @@
       ],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-10-08",
       "streaming_services": [
         {
@@ -109,7 +112,7 @@
       ],
       "user_rating": 6.712,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-05-19",
       "streaming_services": [
         {
@@ -131,7 +134,10 @@
       "next_air_date": "2026-06-02",
       "next_episode": 4,
       "relevance_score": 75,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 285418,
@@ -147,7 +153,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-09-21",
       "streaming_services": [
         {
@@ -162,7 +168,10 @@
       "next_season": 1,
       "next_air_date": "2026-09-28",
       "next_episode": 3,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "HBO Max"
+      ]
     },
     {
       "id": 285643,
@@ -177,7 +186,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2025-03-04",
       "streaming_services": [
         {
@@ -188,7 +197,10 @@
         }
       ],
       "tmdb_id": 285643,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Bravo"
+      ]
     },
     {
       "id": 285739,
@@ -203,7 +215,7 @@
       ],
       "user_rating": 6.926,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-03-05",
       "streaming_services": [
         {
@@ -214,7 +226,10 @@
         }
       ],
       "tmdb_id": 285739,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 285807,
@@ -231,7 +246,7 @@
       ],
       "user_rating": 7.752,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-05-14",
       "streaming_services": [
         {
@@ -242,7 +257,10 @@
         }
       ],
       "tmdb_id": 285807,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

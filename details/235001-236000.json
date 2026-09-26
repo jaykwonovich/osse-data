@@ -1,6 +1,6 @@
 {
   "range": "235001-236000",
-  "updated_at": 1790380505712,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 235345,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 8.03,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-10-04",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 235345,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 235930,
@@ -43,7 +46,7 @@
       ],
       "user_rating": 8.241,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-04-03",
       "streaming_services": [
         {
@@ -54,7 +57,10 @@
         }
       ],
       "tmdb_id": 235930,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

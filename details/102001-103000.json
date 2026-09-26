@@ -1,6 +1,6 @@
 {
   "range": "102001-103000",
-  "updated_at": 1790380505695,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 102321,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2020-05-27",
       "streaming_services": [
         {
@@ -28,7 +28,11 @@
         }
       ],
       "tmdb_id": 102321,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "HBO Max",
+        "Max"
+      ]
     },
     {
       "id": 102434,
@@ -44,7 +48,7 @@
       ],
       "user_rating": 7.069,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-06-12",
       "streaming_services": [
         {
@@ -55,7 +59,12 @@
         }
       ],
       "tmdb_id": 102434,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "HBO Asia",
+        "HBO Max",
+        "Max"
+      ]
     },
     {
       "id": 102619,
@@ -70,7 +79,7 @@
       ],
       "user_rating": 7.224,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2020-06-07",
       "streaming_services": [
         {
@@ -81,7 +90,10 @@
         }
       ],
       "tmdb_id": 102619,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 102621,
@@ -98,7 +110,7 @@
       ],
       "user_rating": 7.273,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-08-29",
       "streaming_services": [
         {
@@ -109,7 +121,10 @@
         }
       ],
       "tmdb_id": 102621,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 102651,
@@ -133,7 +148,7 @@
       ],
       "user_rating": 7.089,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2014-05-28",
       "streaming_services": [
         {
@@ -164,7 +179,7 @@
       ],
       "user_rating": 7.067,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2015-07-14",
       "streaming_services": [
         {
@@ -190,7 +205,7 @@
       ],
       "user_rating": 7.7,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-05-19",
       "streaming_services": [
         {
@@ -206,7 +221,10 @@
       "next_air_date": "2026-06-11",
       "next_episode": 1,
       "relevance_score": 75,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 102905,
@@ -232,7 +250,10 @@
         }
       ],
       "tmdb_id": 102905,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

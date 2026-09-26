@@ -1,6 +1,6 @@
 {
   "range": "219001-220000",
-  "updated_at": 1790380505709,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 219080,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 8.005,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-11-19",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 219080,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 219532,
@@ -44,7 +47,7 @@
       ],
       "user_rating": 7.583,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2024-07-12",
       "streaming_services": [
         {
@@ -55,7 +58,10 @@
         }
       ],
       "tmdb_id": 219532,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 219543,
@@ -72,7 +78,7 @@
       ],
       "user_rating": 7.773,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-12-05",
       "streaming_services": [
         {
@@ -83,7 +89,11 @@
         }
       ],
       "tmdb_id": 219543,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Max",
+        "HBO Max"
+      ]
     },
     {
       "id": 219760,
@@ -99,7 +109,7 @@
       ],
       "user_rating": 7.68,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-08-27",
       "streaming_services": [
         {
@@ -110,7 +120,10 @@
         }
       ],
       "tmdb_id": 219760,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 219937,
@@ -127,7 +140,7 @@
       ],
       "user_rating": 8.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-12-15",
       "streaming_services": [
         {
@@ -138,7 +151,10 @@
         }
       ],
       "tmdb_id": 219937,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Paramount+ with Showtime"
+      ]
     }
   ]
 }

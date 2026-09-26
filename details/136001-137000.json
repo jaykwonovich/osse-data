@@ -1,6 +1,6 @@
 {
   "range": "136001-137000",
-  "updated_at": 1790380505702,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 136044,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.366,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-10-25",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 136044,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 136105,
@@ -43,7 +46,7 @@
       ],
       "user_rating": 6.7,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2021-11-15",
       "streaming_services": [
         {
@@ -59,7 +62,11 @@
       "next_season": 5,
       "next_air_date": "2026-09-27",
       "next_episode": 8,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Bravo",
+        "Peacock"
+      ]
     },
     {
       "id": 136308,
@@ -76,7 +83,7 @@
       ],
       "user_rating": 7.038,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-12-31",
       "streaming_services": [
         {
@@ -87,7 +94,10 @@
         }
       ],
       "tmdb_id": 136308,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 136311,
@@ -103,7 +113,7 @@
       ],
       "user_rating": 7.831,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-01-26",
       "streaming_services": [
         {
@@ -114,7 +124,10 @@
         }
       ],
       "tmdb_id": 136311,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 136315,
@@ -130,7 +143,7 @@
       ],
       "user_rating": 8.158,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-06-23",
       "streaming_services": [
         {
@@ -152,7 +165,10 @@
       "next_air_date": "2026-06-25",
       "next_episode": 1,
       "relevance_score": 75,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 136322,
@@ -168,7 +184,7 @@
       ],
       "user_rating": 7.7,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2021-12-23",
       "streaming_services": [
         {
@@ -185,7 +201,11 @@
         }
       ],
       "tmdb_id": 136322,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Hulu",
+        "Peacock"
+      ]
     },
     {
       "id": 136738,
@@ -202,7 +222,7 @@
       ],
       "user_rating": 7.158,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-01-13",
       "streaming_services": [
         {
@@ -213,7 +233,11 @@
         }
       ],
       "tmdb_id": 136738,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Stan",
+        "Peacock"
+      ]
     }
   ]
 }

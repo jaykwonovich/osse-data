@@ -1,6 +1,6 @@
 {
   "range": "116001-117000",
-  "updated_at": 1790380505698,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 116135,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.633,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-02-25",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 116135,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 116174,
@@ -44,7 +47,7 @@
       ],
       "user_rating": 7.936,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-01-22",
       "streaming_services": [
         {
@@ -55,7 +58,10 @@
         }
       ],
       "tmdb_id": 116174,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Channel 4"
+      ]
     },
     {
       "id": 116450,
@@ -71,7 +77,7 @@
       ],
       "user_rating": 7.223,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-12-09",
       "streaming_services": [
         {
@@ -82,7 +88,12 @@
         }
       ],
       "tmdb_id": 116450,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "HBO Max",
+        "Max",
+        "HBO Max"
+      ]
     },
     {
       "id": 116799,
@@ -98,7 +109,7 @@
       ],
       "user_rating": 7.717,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-05-13",
       "streaming_services": [
         {
@@ -115,7 +126,10 @@
         }
       ],
       "tmdb_id": 116799,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

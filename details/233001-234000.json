@@ -1,6 +1,6 @@
 {
   "range": "233001-234000",
-  "updated_at": 1790380505712,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 233629,
@@ -18,7 +18,7 @@
       ],
       "user_rating": 7.125,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-10-19",
       "streaming_services": [
         {
@@ -29,7 +29,10 @@
         }
       ],
       "tmdb_id": 233629,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

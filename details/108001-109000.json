@@ -1,6 +1,6 @@
 {
   "range": "108001-109000",
-  "updated_at": 1790380505696,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 108181,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 6.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-03-17",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 108181,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 108298,
@@ -43,7 +46,7 @@
       ],
       "user_rating": 7.092,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-09-16",
       "streaming_services": [
         {
@@ -54,7 +57,10 @@
         }
       ],
       "tmdb_id": 108298,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 108303,
@@ -69,7 +75,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2020-10-02",
       "streaming_services": [
         {
@@ -80,7 +86,10 @@
         }
       ],
       "tmdb_id": 108303,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 108545,
@@ -97,7 +106,7 @@
       ],
       "user_rating": 7.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-03-21",
       "streaming_services": [
         {
@@ -108,7 +117,10 @@
         }
       ],
       "tmdb_id": 108545,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 108664,
@@ -123,7 +135,7 @@
       ],
       "user_rating": 7.554,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-08-11",
       "streaming_services": [
         {
@@ -134,7 +146,10 @@
         }
       ],
       "tmdb_id": 108664,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 108978,
@@ -151,7 +166,7 @@
       ],
       "user_rating": 8.128,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-02-03",
       "streaming_services": [
         {
@@ -162,7 +177,10 @@
         }
       ],
       "tmdb_id": 108978,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Prime Video"
+      ]
     }
   ]
 }

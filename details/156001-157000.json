@@ -1,6 +1,6 @@
 {
   "range": "156001-157000",
-  "updated_at": 1790380505704,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 156022,
@@ -20,7 +20,7 @@
       ],
       "user_rating": 7.293,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2014-09-24",
       "streaming_services": [
         {
@@ -52,7 +52,7 @@
       ],
       "user_rating": 7.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-11-17",
       "streaming_services": [
         {
@@ -63,7 +63,10 @@
         }
       ],
       "tmdb_id": 156401,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 156933,
@@ -79,7 +82,7 @@
       ],
       "user_rating": 7.834,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-06-11",
       "streaming_services": [
         {
@@ -90,7 +93,10 @@
         }
       ],
       "tmdb_id": 156933,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Apple TV"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "220001-221000",
-  "updated_at": 1790380505710,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 220074,
@@ -35,7 +35,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 220074
+      "tmdb_id": 220074,
+      "networks": [
+        "SBS"
+      ]
     },
     {
       "id": 220102,
@@ -52,7 +55,7 @@
       ],
       "user_rating": 8.351,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-05-25",
       "streaming_services": [
         {
@@ -62,7 +65,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 220102
+      "tmdb_id": 220102,
+      "networks": [
+        "MGM+"
+      ]
     },
     {
       "id": 220289,
@@ -80,7 +86,7 @@
       ],
       "user_rating": 7.21,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "NR",
       "release_date": "2014-04-06",
       "streaming_services": [
         {
@@ -112,7 +118,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2023-03-16",
       "streaming_services": [
         {
@@ -123,7 +129,10 @@
         }
       ],
       "tmdb_id": 220393,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Peacock"
+      ]
     },
     {
       "id": 220801,
@@ -140,7 +149,7 @@
       ],
       "user_rating": 7.154,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-01-01",
       "streaming_services": [
         {
@@ -151,7 +160,10 @@
         }
       ],
       "tmdb_id": 220801,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

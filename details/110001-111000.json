@@ -1,6 +1,6 @@
 {
   "range": "110001-111000",
-  "updated_at": 1790380505696,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 110381,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 6.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-11-11",
       "streaming_services": [
         {
@@ -31,7 +31,10 @@
       "next_season": 7,
       "next_air_date": "2026-09-30",
       "next_episode": 3,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Bravo"
+      ]
     },
     {
       "id": 110382,
@@ -46,7 +49,7 @@
       ],
       "user_rating": 7.9,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-03-24",
       "streaming_services": [
         {
@@ -57,7 +60,10 @@
         }
       ],
       "tmdb_id": 110382,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 110492,
@@ -75,7 +81,7 @@
       ],
       "user_rating": 8.182,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-01-13",
       "streaming_services": [
         {
@@ -86,7 +92,11 @@
         }
       ],
       "tmdb_id": 110492,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "HBO Max",
+        "HBO Max"
+      ]
     },
     {
       "id": 110531,
@@ -102,7 +112,7 @@
       ],
       "user_rating": 7.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-07-28",
       "streaming_services": [
         {
@@ -113,7 +123,11 @@
         }
       ],
       "tmdb_id": 110531,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "HBO Max",
+        "Max"
+      ]
     },
     {
       "id": 110695,
@@ -129,7 +143,7 @@
       ],
       "user_rating": 8.019,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-10-13",
       "streaming_services": [
         {
@@ -140,7 +154,10 @@
         }
       ],
       "tmdb_id": 110695,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 110948,
@@ -155,7 +172,7 @@
       ],
       "user_rating": 7.776,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2021-02-05",
       "streaming_services": [
         {
@@ -166,7 +183,10 @@
         }
       ],
       "tmdb_id": 110948,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 110971,
@@ -182,7 +202,7 @@
       ],
       "user_rating": 8.093,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2020-10-23",
       "streaming_services": [
         {
@@ -193,7 +213,10 @@
         }
       ],
       "tmdb_id": 110971,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "HBO"
+      ]
     }
   ]
 }

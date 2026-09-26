@@ -1,6 +1,6 @@
 {
   "range": "59001-60000",
-  "updated_at": 1790380505678,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 59186,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2011-12-15",
       "streaming_services": [
         {
@@ -37,7 +37,11 @@
       "next_air_date": "2026-07-23",
       "next_episode": 1,
       "relevance_score": 75,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "TBS",
+        "truTV"
+      ]
     },
     {
       "id": 59312,
@@ -54,7 +58,7 @@
       ],
       "user_rating": 7.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2012-09-06",
       "streaming_services": [
         {
@@ -71,7 +75,10 @@
         }
       ],
       "tmdb_id": 59312,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "ITV1"
+      ]
     },
     {
       "id": 59375,
@@ -88,7 +95,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2013-07-19",
       "streaming_services": [
         {
@@ -99,7 +106,10 @@
         }
       ],
       "tmdb_id": 59375,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Disney Channel"
+      ]
     },
     {
       "id": 59427,
@@ -116,7 +126,7 @@
       ],
       "user_rating": 7.54,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2013-05-26",
       "streaming_services": [
         {
@@ -127,7 +137,10 @@
         }
       ],
       "tmdb_id": 59427,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Disney XD"
+      ]
     },
     {
       "id": 59440,
@@ -143,7 +156,7 @@
       ],
       "user_rating": 7.84,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2011-09-09",
       "streaming_services": [
         {
@@ -171,7 +184,7 @@
       ],
       "user_rating": 7.08,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2010-09-10",
       "streaming_services": [
         {
@@ -198,7 +211,7 @@
       ],
       "user_rating": 7.118,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2012-07-19",
       "streaming_services": [
         {
@@ -209,7 +222,11 @@
         }
       ],
       "tmdb_id": 59717,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Crackle",
+        "Netflix"
+      ]
     }
   ]
 }

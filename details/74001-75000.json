@@ -1,6 +1,6 @@
 {
   "range": "74001-75000",
-  "updated_at": 1790380505685,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 74016,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 8.363,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2018-01-21",
       "streaming_services": [
         {
@@ -32,7 +32,10 @@
         }
       ],
       "tmdb_id": 74016,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 74204,
@@ -48,7 +51,7 @@
       ],
       "user_rating": 7.606,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2017-09-29",
       "streaming_services": [
         {
@@ -59,7 +62,10 @@
         }
       ],
       "tmdb_id": 74204,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 74313,
@@ -75,7 +81,7 @@
       ],
       "user_rating": 8.623,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2017-10-29",
       "streaming_services": [
         {
@@ -86,7 +92,10 @@
         }
       ],
       "tmdb_id": 74313,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 74440,
@@ -104,7 +113,7 @@
       ],
       "user_rating": 8.282,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2019-11-29",
       "streaming_services": [
         {
@@ -115,7 +124,12 @@
         }
       ],
       "tmdb_id": 74440,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "DC Universe",
+        "HBO Max",
+        "Max"
+      ]
     },
     {
       "id": 74577,
@@ -132,7 +146,7 @@
       ],
       "user_rating": 8.03,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2017-10-24",
       "streaming_services": [
         {
@@ -143,7 +157,11 @@
         }
       ],
       "tmdb_id": 74577,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Channel 4",
+        "Channel 4 (Online)"
+      ]
     },
     {
       "id": 74728,
@@ -161,7 +179,7 @@
       ],
       "user_rating": 7.943,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2019-01-18",
       "streaming_services": [
         {
@@ -172,7 +190,10 @@
         }
       ],
       "tmdb_id": 74728,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 74851,
@@ -188,7 +209,7 @@
       ],
       "user_rating": 7.458,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2017-10-27",
       "streaming_services": [
         {
@@ -199,7 +220,10 @@
         }
       ],
       "tmdb_id": 74851,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

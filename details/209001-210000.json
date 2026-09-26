@@ -1,6 +1,6 @@
 {
   "range": "209001-210000",
-  "updated_at": 1790380505708,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 209167,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.784,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-10-07",
       "streaming_services": [
         {
@@ -27,7 +27,10 @@
         }
       ],
       "tmdb_id": 209167,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 209332,
@@ -44,7 +47,7 @@
       ],
       "user_rating": 7.324,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-01-11",
       "streaming_services": [
         {
@@ -55,7 +58,10 @@
         }
       ],
       "tmdb_id": 209332,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 209867,
@@ -90,7 +96,38 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 209867
+      "tmdb_id": 209867,
+      "networks": [
+        "Nippon TV",
+        "YTV",
+        "FBS",
+        "Chukyo TV",
+        "RNB",
+        "HTV",
+        "FCT",
+        "STV",
+        "KNB",
+        "YBS",
+        "KTK",
+        "NKT",
+        "RAB",
+        "TVI",
+        "MMT",
+        "ABS",
+        "JRT",
+        "YBC",
+        "UMK TV Miyazaki",
+        "TSB",
+        "TeNY",
+        "RNC",
+        "NIB",
+        "KKT",
+        "Daiichi-TV",
+        "FBC",
+        "RKC",
+        "KYT",
+        "KRY"
+      ]
     }
   ]
 }

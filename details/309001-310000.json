@@ -1,6 +1,6 @@
 {
   "range": "309001-310000",
-  "updated_at": 1790380505725,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 309334,
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 309334,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "HGTV"
+      ]
     },
     {
       "id": 309369,
@@ -49,7 +52,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 309369
+      "tmdb_id": 309369,
+      "networks": []
     },
     {
       "id": 309732,
@@ -65,7 +69,7 @@
       ],
       "user_rating": 7.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-01-13",
       "streaming_services": [
         {
@@ -76,7 +80,10 @@
         }
       ],
       "tmdb_id": 309732,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Investigation Discovery"
+      ]
     },
     {
       "id": 309792,
@@ -105,7 +112,10 @@
         }
       ],
       "tmdb_id": 309792,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 309798,
@@ -121,7 +131,7 @@
       ],
       "user_rating": 5.75,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-08-13",
       "streaming_services": [
         {
@@ -131,7 +141,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 309798
+      "tmdb_id": 309798,
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

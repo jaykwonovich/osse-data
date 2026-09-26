@@ -1,6 +1,6 @@
 {
   "range": "199001-200000",
-  "updated_at": 1790380505706,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 199001,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.753,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2023-12-07",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 199001,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 199318,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 7.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-08-19",
       "streaming_services": [
         {
@@ -53,7 +56,10 @@
         }
       ],
       "tmdb_id": 199318,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Apple TV"
+      ]
     }
   ]
 }

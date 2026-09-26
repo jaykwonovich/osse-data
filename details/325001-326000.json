@@ -1,6 +1,6 @@
 {
   "range": "325001-326000",
-  "updated_at": 1790380505730,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 325113,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.035,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2015-03-27",
       "streaming_services": [
         {
@@ -52,7 +52,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 325755
+      "tmdb_id": 325755,
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

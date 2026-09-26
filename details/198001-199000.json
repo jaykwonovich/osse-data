@@ -1,6 +1,6 @@
 {
   "range": "198001-199000",
-  "updated_at": 1790380505706,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 198102,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.489,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-06-28",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 198102,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 198178,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 7.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-01-27",
       "streaming_services": [
         {
@@ -59,7 +62,10 @@
         }
       ],
       "tmdb_id": 198178,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 198277,
@@ -77,7 +83,7 @@
       ],
       "user_rating": 7.235,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2013-09-07",
       "streaming_services": [
         {

@@ -1,6 +1,6 @@
 {
   "range": "226001-227000",
-  "updated_at": 1790380505711,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 226135,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.9,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-06-07",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 226135,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 226637,
@@ -43,7 +46,7 @@
       ],
       "user_rating": 8.25,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2024-09-17",
       "streaming_services": [
         {
@@ -59,7 +62,10 @@
       "next_season": 3,
       "next_air_date": "2027-01-06",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "ABC"
+      ]
     }
   ]
 }

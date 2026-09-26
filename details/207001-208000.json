@@ -1,6 +1,6 @@
 {
   "range": "207001-208000",
-  "updated_at": 1790380505708,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 207411,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-03-19",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 207411,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 207484,
@@ -54,7 +57,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 207484
+      "tmdb_id": 207484,
+      "networks": [
+        "STARZ"
+      ]
     },
     {
       "id": 207717,
@@ -69,7 +75,7 @@
       ],
       "user_rating": 7.588,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-10-21",
       "streaming_services": [
         {
@@ -80,7 +86,10 @@
         }
       ],
       "tmdb_id": 207717,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 207863,
@@ -96,7 +105,7 @@
       ],
       "user_rating": 7.249,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-01-08",
       "streaming_services": [
         {
@@ -107,7 +116,10 @@
         }
       ],
       "tmdb_id": 207863,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "AMC"
+      ]
     }
   ]
 }

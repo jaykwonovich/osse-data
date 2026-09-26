@@ -1,6 +1,6 @@
 {
   "range": "261001-262000",
-  "updated_at": 1790380505717,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 261145,
@@ -18,7 +18,7 @@
       ],
       "user_rating": 8.447,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2023-10-13",
       "streaming_services": [
         {
@@ -34,7 +34,11 @@
       "next_air_date": "2026-06-19",
       "next_episode": 9,
       "relevance_score": 75,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Netflix",
+        "YouTube"
+      ]
     },
     {
       "id": 261579,
@@ -51,7 +55,7 @@
       ],
       "user_rating": 7.4,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2024-12-10",
       "streaming_services": [
         {
@@ -62,7 +66,10 @@
         }
       ],
       "tmdb_id": 261579,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 261647,
@@ -79,7 +86,7 @@
       ],
       "user_rating": 8.9,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y",
       "release_date": "2026-05-25",
       "streaming_services": [
         {
@@ -89,7 +96,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 261647
+      "tmdb_id": 261647,
+      "networks": [
+        "Disney Junior"
+      ]
     }
   ]
 }

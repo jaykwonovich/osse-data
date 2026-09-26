@@ -1,6 +1,6 @@
 {
   "range": "271001-272000",
-  "updated_at": 1790380505718,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 271110,
@@ -20,7 +20,7 @@
       ],
       "user_rating": 7.455,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2016-04-27",
       "streaming_services": [
         {
@@ -57,7 +57,7 @@
       ],
       "user_rating": 7.238,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "NR",
       "release_date": "2015-03-12",
       "streaming_services": [
         {
@@ -85,7 +85,7 @@
       ],
       "user_rating": 7.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2015-05-29",
       "streaming_services": [
         {
@@ -123,7 +123,12 @@
         }
       ],
       "tmdb_id": 271855,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Telecinco",
+        "Rai 1",
+        "Mediaset Infinity"
+      ]
     },
     {
       "id": 271918,
@@ -149,7 +154,10 @@
         }
       ],
       "tmdb_id": 271918,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Bravo"
+      ]
     }
   ]
 }

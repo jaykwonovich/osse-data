@@ -1,6 +1,6 @@
 {
   "range": "253001-254000",
-  "updated_at": 1790380505715,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 253376,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-09-10",
       "streaming_services": [
         {
@@ -27,7 +27,10 @@
         }
       ],
       "tmdb_id": 253376,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Prime Video"
+      ]
     }
   ]
 }

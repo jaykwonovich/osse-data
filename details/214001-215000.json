@@ -1,6 +1,6 @@
 {
   "range": "214001-215000",
-  "updated_at": 1790380505709,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 214257,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-11-23",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 214257,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

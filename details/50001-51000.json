@@ -1,6 +1,6 @@
 {
   "range": "50001-51000",
-  "updated_at": 1790380505676,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 50032,
@@ -45,7 +45,7 @@
       ],
       "user_rating": 8.009,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2014-04-14",
       "streaming_services": [
         {
@@ -62,7 +62,10 @@
         }
       ],
       "tmdb_id": 50035,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Cartoon Network"
+      ]
     },
     {
       "id": 50137,
@@ -79,7 +82,7 @@
       ],
       "user_rating": 7.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2013-07-18",
       "streaming_services": [
         {
@@ -90,7 +93,11 @@
         }
       ],
       "tmdb_id": 50137,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Crunchyroll",
+        "Rooster Teeth"
+      ]
     },
     {
       "id": 50646,
@@ -109,7 +116,7 @@
       ],
       "user_rating": 7.277,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2011-07-29",
       "streaming_services": [
         {
@@ -137,7 +144,7 @@
       ],
       "user_rating": 7.424,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2013-09-16",
       "streaming_services": [
         {
@@ -154,7 +161,10 @@
         }
       ],
       "tmdb_id": 50825,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "FOX"
+      ]
     }
   ]
 }

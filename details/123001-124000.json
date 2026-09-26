@@ -1,6 +1,6 @@
 {
   "range": "123001-124000",
-  "updated_at": 1790380505699,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 123192,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.679,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-06-08",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 123192,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 123548,
@@ -45,7 +48,7 @@
       ],
       "user_rating": 7.775,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-09-28",
       "streaming_services": [
         {
@@ -56,7 +59,10 @@
         }
       ],
       "tmdb_id": 123548,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

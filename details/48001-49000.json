@@ -1,6 +1,6 @@
 {
   "range": "48001-49000",
-  "updated_at": 1790380505676,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 48865,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 8.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2013-10-17",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 48865,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "The CW"
+      ]
     },
     {
       "id": 48891,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 8.208,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2013-09-17",
       "streaming_services": [
         {
@@ -59,7 +62,11 @@
         }
       ],
       "tmdb_id": 48891,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "NBC",
+        "FOX"
+      ]
     }
   ]
 }

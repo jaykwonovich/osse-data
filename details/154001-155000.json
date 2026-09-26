@@ -1,6 +1,6 @@
 {
   "range": "154001-155000",
-  "updated_at": 1790380505703,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 154359,
@@ -27,7 +27,10 @@
         }
       ],
       "tmdb_id": 154359,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 154385,
@@ -43,7 +46,7 @@
       ],
       "user_rating": 7.75,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-04-06",
       "streaming_services": [
         {
@@ -54,7 +57,10 @@
         }
       ],
       "tmdb_id": 154385,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 154521,
@@ -69,7 +75,7 @@
       ],
       "user_rating": 8.468,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2022-04-14",
       "streaming_services": [
         {
@@ -91,7 +97,10 @@
       "next_season": 8,
       "next_air_date": "2026-10-08",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Hulu"
+      ]
     }
   ]
 }

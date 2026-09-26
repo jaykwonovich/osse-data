@@ -1,6 +1,6 @@
 {
   "range": "290001-291000",
-  "updated_at": 1790380505722,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 290295,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 8.022,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-05-22",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 290295,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 290307,
@@ -78,7 +81,7 @@
       ],
       "user_rating": 7.37,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2014-10-10",
       "streaming_services": [
         {
@@ -152,7 +155,7 @@
       ],
       "user_rating": 10.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-04-02",
       "streaming_services": [
         {
@@ -174,7 +177,10 @@
       "next_air_date": "2026-05-31",
       "next_episode": 10,
       "relevance_score": 75,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Bravo"
+      ]
     },
     {
       "id": 290884,
@@ -189,7 +195,7 @@
       ],
       "user_rating": 10.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-01-08",
       "streaming_services": [
         {
@@ -206,7 +212,10 @@
         }
       ],
       "tmdb_id": 290884,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Bravo"
+      ]
     },
     {
       "id": 290885,
@@ -232,7 +241,10 @@
         }
       ],
       "tmdb_id": 290885,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Bravo"
+      ]
     }
   ]
 }

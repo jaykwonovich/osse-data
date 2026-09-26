@@ -1,6 +1,6 @@
 {
   "range": "321001-322000",
-  "updated_at": 1790380505728,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 321048,
@@ -13,7 +13,7 @@
       "genres": [],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-08-21",
       "streaming_services": [
         {
@@ -87,7 +87,10 @@
         }
       ],
       "tmdb_id": 321267,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 321389,
@@ -105,7 +108,7 @@
       ],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-12-03",
       "streaming_services": [
         {
@@ -152,7 +155,10 @@
       "next_season": 1,
       "next_air_date": "2026-06-02",
       "next_episode": 4,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Food Network"
+      ]
     },
     {
       "id": 321456,
@@ -178,7 +184,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 321456
+      "tmdb_id": 321456,
+      "networks": [
+        "Discovery"
+      ]
     },
     {
       "id": 321623,
@@ -209,7 +218,8 @@
       ],
       "networks": [
         "Hulu",
-        "Now TV"
+        "Now TV",
+        "Viu"
       ],
       "tmdb_id": 321623,
       "is_returning": true,
@@ -235,7 +245,7 @@
       ],
       "user_rating": 3.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y",
       "release_date": "2026-05-05",
       "streaming_services": [
         {
@@ -245,7 +255,11 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 321657
+      "tmdb_id": 321657,
+      "networks": [
+        "Disney+",
+        "DisneyNOW"
+      ]
     },
     {
       "id": 321741,
@@ -260,7 +274,7 @@
       ],
       "user_rating": 7.078,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2015-11-12",
       "streaming_services": [
         {
@@ -408,7 +422,10 @@
       "next_season": 1,
       "next_air_date": "2026-09-28",
       "next_episode": 2,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 321960,
@@ -423,7 +440,7 @@
       ],
       "user_rating": 7.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-05-19",
       "streaming_services": [
         {
@@ -434,7 +451,10 @@
         }
       ],
       "tmdb_id": 321960,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 321961,

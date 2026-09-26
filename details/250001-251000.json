@@ -1,6 +1,6 @@
 {
   "range": "250001-251000",
-  "updated_at": 1790380505714,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 250203,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 9.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-09-22",
       "streaming_services": [
         {
@@ -30,7 +30,10 @@
       "next_season": 1,
       "next_air_date": "2026-09-29",
       "next_episode": 3,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 250220,
@@ -46,7 +49,7 @@
       ],
       "user_rating": 7.034,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-04-09",
       "streaming_services": [
         {
@@ -57,7 +60,10 @@
         }
       ],
       "tmdb_id": 250220,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Peacock"
+      ]
     },
     {
       "id": 250307,
@@ -72,7 +78,7 @@
       ],
       "user_rating": 8.735,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-01-09",
       "streaming_services": [
         {
@@ -83,7 +89,11 @@
         }
       ],
       "tmdb_id": 250307,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Max",
+        "HBO Max"
+      ]
     },
     {
       "id": 250480,
@@ -102,7 +112,7 @@
       ],
       "user_rating": 7.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "G",
       "release_date": "1977-03-11",
       "streaming_services": [
         {
@@ -129,7 +139,7 @@
       ],
       "user_rating": 7.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-11-13",
       "streaming_services": [
         {
@@ -140,7 +150,10 @@
         }
       ],
       "tmdb_id": 250504,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 250505,
@@ -157,7 +170,7 @@
       ],
       "user_rating": 6.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-01-15",
       "streaming_services": [
         {
@@ -168,7 +181,10 @@
         }
       ],
       "tmdb_id": 250505,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 250766,
@@ -183,7 +199,7 @@
       ],
       "user_rating": 7.515,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2014-07-04",
       "streaming_services": [
         {
@@ -210,7 +226,7 @@
       ],
       "user_rating": 7.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-09-26",
       "streaming_services": [
         {
@@ -226,7 +242,10 @@
       "next_season": 3,
       "next_air_date": "2026-10-22",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 250988,
@@ -241,7 +260,7 @@
       ],
       "user_rating": 7.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-09-25",
       "streaming_services": [
         {
@@ -252,7 +271,10 @@
         }
       ],
       "tmdb_id": 250988,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

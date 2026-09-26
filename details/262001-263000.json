@@ -1,6 +1,6 @@
 {
   "range": "262001-263000",
-  "updated_at": 1790380505717,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 262280,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.609,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-05-07",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 262280,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 262388,
@@ -44,7 +47,7 @@
       ],
       "user_rating": 8.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-05-07",
       "streaming_services": [
         {
@@ -55,7 +58,10 @@
         }
       ],
       "tmdb_id": 262388,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Peacock"
+      ]
     },
     {
       "id": 262481,
@@ -101,7 +107,7 @@
       ],
       "user_rating": 6.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-01-15",
       "streaming_services": [
         {
@@ -112,7 +118,10 @@
         }
       ],
       "tmdb_id": 262793,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Peacock"
+      ]
     },
     {
       "id": 262848,
@@ -127,7 +136,7 @@
       ],
       "user_rating": 6.732,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-04-21",
       "streaming_services": [
         {
@@ -138,7 +147,10 @@
         }
       ],
       "tmdb_id": 262848,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

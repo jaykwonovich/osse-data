@@ -1,6 +1,6 @@
 {
   "range": "200001-201000",
-  "updated_at": 1790380505706,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 200481,
@@ -18,7 +18,7 @@
       ],
       "user_rating": 7.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "G",
       "release_date": "2013-02-12",
       "streaming_services": [
         {
@@ -45,7 +45,7 @@
       ],
       "user_rating": 8.229,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-10-26",
       "streaming_services": [
         {
@@ -56,7 +56,10 @@
         }
       ],
       "tmdb_id": 200875,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "HBO"
+      ]
     }
   ]
 }

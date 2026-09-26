@@ -1,6 +1,6 @@
 {
   "range": "197001-198000",
-  "updated_at": 1790380505706,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 197248,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.421,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-04-20",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 197248,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 197373,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 7.067,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-06-08",
       "streaming_services": [
         {
@@ -53,7 +56,10 @@
         }
       ],
       "tmdb_id": 197373,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Peacock"
+      ]
     },
     {
       "id": 197428,
@@ -69,7 +75,7 @@
       ],
       "user_rating": 8.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-05-05",
       "streaming_services": [
         {
@@ -80,7 +86,10 @@
         }
       ],
       "tmdb_id": 197428,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 197429,
@@ -98,7 +107,7 @@
       ],
       "user_rating": 7.4,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2022-05-19",
       "streaming_services": [
         {
@@ -109,7 +118,10 @@
         }
       ],
       "tmdb_id": 197429,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 197588,
@@ -125,7 +137,7 @@
       ],
       "user_rating": 7.127,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2022-06-24",
       "streaming_services": [
         {
@@ -136,7 +148,10 @@
         }
       ],
       "tmdb_id": 197588,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

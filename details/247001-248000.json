@@ -1,6 +1,6 @@
 {
   "range": "247001-248000",
-  "updated_at": 1790380505714,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 247172,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 6.7,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2024-03-11",
       "streaming_services": [
         {
@@ -26,7 +26,12 @@
         }
       ],
       "tmdb_id": 247172,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "USA Network",
+        "Bravo",
+        "Peacock"
+      ]
     },
     {
       "id": 247518,
@@ -43,7 +48,7 @@
       ],
       "user_rating": 7.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-09-25",
       "streaming_services": [
         {
@@ -54,7 +59,10 @@
         }
       ],
       "tmdb_id": 247518,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 247619,
@@ -69,7 +77,7 @@
       ],
       "user_rating": 7.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-05-15",
       "streaming_services": [
         {
@@ -80,7 +88,10 @@
         }
       ],
       "tmdb_id": 247619,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 247704,
@@ -98,7 +109,7 @@
       ],
       "user_rating": 7.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2024-04-21",
       "streaming_services": [
         {
@@ -109,7 +120,10 @@
         }
       ],
       "tmdb_id": 247704,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "ITV1"
+      ]
     },
     {
       "id": 247721,
@@ -126,7 +140,7 @@
       ],
       "user_rating": 7.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-10-10",
       "streaming_services": [
         {
@@ -137,7 +151,10 @@
         }
       ],
       "tmdb_id": 247721,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Peacock"
+      ]
     },
     {
       "id": 247723,
@@ -153,7 +170,7 @@
       ],
       "user_rating": 7.133,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2025-01-19",
       "streaming_services": [
         {
@@ -163,7 +180,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 247723
+      "tmdb_id": 247723,
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 247767,
@@ -179,7 +199,7 @@
       ],
       "user_rating": 7.77,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-03-25",
       "streaming_services": [
         {
@@ -190,7 +210,10 @@
         }
       ],
       "tmdb_id": 247767,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Apple TV"
+      ]
     }
   ]
 }

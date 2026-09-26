@@ -1,6 +1,6 @@
 {
   "range": "229001-230000",
-  "updated_at": 1790380505711,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 229544,
@@ -18,7 +18,7 @@
       ],
       "user_rating": 9.036,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-06-05",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 229544
+      "tmdb_id": 229544,
+      "networks": [
+        "Paramount+"
+      ]
     },
     {
       "id": 229711,
@@ -45,7 +48,7 @@
       ],
       "user_rating": 7.245,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-04-03",
       "streaming_services": [
         {
@@ -56,7 +59,10 @@
         }
       ],
       "tmdb_id": 229711,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 229926,
@@ -73,7 +79,7 @@
       ],
       "user_rating": 7.277,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-06-27",
       "streaming_services": [
         {
@@ -90,7 +96,11 @@
         }
       ],
       "tmdb_id": 229926,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Hulu",
+        "Max"
+      ]
     }
   ]
 }

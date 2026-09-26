@@ -1,6 +1,6 @@
 {
   "range": "246001-247000",
-  "updated_at": 1790380505714,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 246246,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 8.42,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-10-24",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 246246,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 246386,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 8.034,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-11-07",
       "streaming_services": [
         {
@@ -53,7 +56,10 @@
         }
       ],
       "tmdb_id": 246386,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Sky Atlantic"
+      ]
     },
     {
       "id": 246412,
@@ -70,7 +76,7 @@
       ],
       "user_rating": 6.483,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-12-27",
       "streaming_services": [
         {
@@ -81,7 +87,10 @@
         }
       ],
       "tmdb_id": 246412,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Peacock"
+      ]
     },
     {
       "id": 246473,
@@ -114,7 +123,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 246473
+      "tmdb_id": 246473,
+      "networks": [
+        "Disney+"
+      ]
     }
   ]
 }

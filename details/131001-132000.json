@@ -1,6 +1,6 @@
 {
   "range": "131001-132000",
-  "updated_at": 1790380505701,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 131142,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 8.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-02-12",
       "streaming_services": [
         {
@@ -26,7 +26,11 @@
         }
       ],
       "tmdb_id": 131142,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "FX",
+        "Hulu"
+      ]
     },
     {
       "id": 131378,
@@ -44,7 +48,7 @@
       ],
       "user_rating": 8.7,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2023-08-31",
       "streaming_services": [
         {
@@ -55,7 +59,11 @@
         }
       ],
       "tmdb_id": 131378,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Max",
+        "HBO Max"
+      ]
     },
     {
       "id": 131631,
@@ -72,7 +80,7 @@
       ],
       "user_rating": 6.814,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2014-11-19",
       "streaming_services": [
         {
@@ -99,7 +107,7 @@
       ],
       "user_rating": 6.897,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2015-11-18",
       "streaming_services": [
         {
@@ -125,7 +133,7 @@
       ],
       "user_rating": 7.246,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2021-09-01",
       "streaming_services": [
         {
@@ -136,7 +144,10 @@
         }
       ],
       "tmdb_id": 131651,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 131927,
@@ -152,7 +163,7 @@
       ],
       "user_rating": 7.921,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-11-07",
       "streaming_services": [
         {
@@ -163,7 +174,10 @@
         }
       ],
       "tmdb_id": 131927,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Showtime"
+      ]
     }
   ]
 }

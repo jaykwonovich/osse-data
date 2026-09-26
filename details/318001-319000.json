@@ -1,6 +1,6 @@
 {
   "range": "318001-319000",
-  "updated_at": 1790380505727,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 318044,
@@ -47,7 +47,7 @@
       ],
       "user_rating": 7.285,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2016-06-16",
       "streaming_services": [
         {
@@ -147,7 +147,7 @@
       ],
       "user_rating": 7.411,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2015-01-25",
       "streaming_services": [
         {
@@ -195,7 +195,10 @@
       "next_air_date": "2026-06-02",
       "next_episode": 4,
       "relevance_score": 75,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 318918,
@@ -254,7 +257,7 @@
       ],
       "user_rating": 10.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-05-19",
       "streaming_services": [
         {
@@ -270,7 +273,10 @@
       "next_air_date": "2026-06-02",
       "next_episode": 3,
       "relevance_score": 75,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Bravo"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "134001-135000",
-  "updated_at": 1790380505701,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 134029,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.062,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-11-24",
       "streaming_services": [
         {
@@ -27,7 +27,10 @@
         }
       ],
       "tmdb_id": 134029,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 134297,
@@ -45,7 +48,7 @@
       ],
       "user_rating": 7.186,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y",
       "release_date": "2021-11-12",
       "streaming_services": [
         {
@@ -56,7 +59,10 @@
         }
       ],
       "tmdb_id": 134297,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 134373,
@@ -72,7 +78,7 @@
       ],
       "user_rating": 7.169,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-11-18",
       "streaming_services": [
         {
@@ -83,7 +89,11 @@
         }
       ],
       "tmdb_id": 134373,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "HBO Max",
+        "Max"
+      ]
     }
   ]
 }

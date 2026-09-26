@@ -1,6 +1,6 @@
 {
   "range": "100001-101000",
-  "updated_at": 1790380505694,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 100010,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.236,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-11-17",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 100010,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 100052,
@@ -43,7 +46,7 @@
       ],
       "user_rating": 7.4,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-03-20",
       "streaming_services": [
         {
@@ -54,7 +57,10 @@
         }
       ],
       "tmdb_id": 100052,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 100088,
@@ -69,7 +75,7 @@
       ],
       "user_rating": 8.406,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-01-15",
       "streaming_services": [
         {
@@ -80,7 +86,10 @@
         }
       ],
       "tmdb_id": 100088,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 100402,
@@ -100,7 +109,7 @@
       ],
       "user_rating": 7.655,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2014-03-20",
       "streaming_services": [
         {
@@ -133,7 +142,7 @@
       ],
       "user_rating": 7.9,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2020-07-03",
       "streaming_services": [
         {
@@ -144,7 +153,10 @@
         }
       ],
       "tmdb_id": 100412,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 100617,
@@ -161,7 +173,7 @@
       ],
       "user_rating": 7.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-07-30",
       "streaming_services": [
         {
@@ -172,7 +184,10 @@
         }
       ],
       "tmdb_id": 100617,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 100757,
@@ -189,7 +204,7 @@
       ],
       "user_rating": 8.235,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2020-04-15",
       "streaming_services": [
         {
@@ -200,7 +215,10 @@
         }
       ],
       "tmdb_id": 100757,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 100883,
@@ -216,7 +234,7 @@
       ],
       "user_rating": 8.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-04-27",
       "streaming_services": [
         {
@@ -227,7 +245,10 @@
         }
       ],
       "tmdb_id": 100883,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 100963,
@@ -244,7 +265,7 @@
       ],
       "user_rating": 7.451,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2020-04-06",
       "streaming_services": [
         {
@@ -255,7 +276,10 @@
         }
       ],
       "tmdb_id": 100963,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

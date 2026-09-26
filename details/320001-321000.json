@@ -1,6 +1,6 @@
 {
   "range": "320001-321000",
-  "updated_at": 1790380505728,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 320079,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "NR",
       "release_date": "2026-06-01",
       "streaming_services": [
         {
@@ -52,7 +52,7 @@
       ],
       "user_rating": 3.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2026-07-31",
       "streaming_services": [
         {
@@ -68,7 +68,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 320399
+      "tmdb_id": 320399,
+      "networks": [
+        "Hulu",
+        "Disney+",
+        "ESPN App"
+      ]
     },
     {
       "id": 320472,
@@ -94,7 +99,10 @@
         }
       ],
       "tmdb_id": 320472,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 320503,
@@ -109,7 +117,7 @@
       ],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2026-07-13",
       "streaming_services": [
         {
@@ -146,7 +154,7 @@
       ],
       "user_rating": 8.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-04-28",
       "streaming_services": [
         {
@@ -157,7 +165,10 @@
         }
       ],
       "tmdb_id": 320579,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 320760,
@@ -183,7 +194,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 320760
+      "tmdb_id": 320760,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 320781,
@@ -251,7 +265,10 @@
       "next_season": 4,
       "next_air_date": "2026-09-30",
       "next_episode": 2,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "YouTube"
+      ]
     }
   ]
 }

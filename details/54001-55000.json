@@ -1,6 +1,6 @@
 {
   "range": "54001-55000",
-  "updated_at": 1790380505677,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 54138,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.32,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2013-05-05",
       "streaming_services": [
         {
@@ -43,7 +43,7 @@
       ],
       "user_rating": 7.4,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2019-03-28",
       "streaming_services": [
         {
@@ -54,7 +54,10 @@
         }
       ],
       "tmdb_id": 54155,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 54293,
@@ -96,7 +99,7 @@
       ],
       "user_rating": 7.681,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2014-06-29",
       "streaming_services": [
         {
@@ -107,7 +110,10 @@
         }
       ],
       "tmdb_id": 54344,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 54650,
@@ -123,7 +129,7 @@
       ],
       "user_rating": 7.681,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2014-06-07",
       "streaming_services": [
         {
@@ -140,7 +146,10 @@
         }
       ],
       "tmdb_id": 54650,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "STARZ"
+      ]
     },
     {
       "id": 54671,
@@ -158,7 +167,7 @@
       ],
       "user_rating": 7.802,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2014-05-11",
       "streaming_services": [
         {
@@ -169,7 +178,10 @@
         }
       ],
       "tmdb_id": 54671,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Showtime"
+      ]
     }
   ]
 }

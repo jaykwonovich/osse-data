@@ -1,6 +1,6 @@
 {
   "range": "254001-255000",
-  "updated_at": 1790380505715,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 254071,
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 254071,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 254172,
@@ -43,7 +46,7 @@
       ],
       "user_rating": 7.182,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2015-10-01",
       "streaming_services": [
         {
@@ -72,7 +75,7 @@
       ],
       "user_rating": 7.022,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2015-10-15",
       "streaming_services": [
         {
@@ -99,7 +102,7 @@
       ],
       "user_rating": 7.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-07-01",
       "streaming_services": [
         {
@@ -139,7 +142,7 @@
       ],
       "user_rating": 5.4,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-07-16",
       "streaming_services": [
         {
@@ -218,7 +221,7 @@
       ],
       "user_rating": 7.513,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-03-08",
       "streaming_services": [
         {
@@ -229,7 +232,10 @@
         }
       ],
       "tmdb_id": 254953,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "HBO"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "132001-133000",
-  "updated_at": 1790380505701,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 132159,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-05-31",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 132159,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 132188,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 7.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2022-07-08",
       "streaming_services": [
         {
@@ -53,7 +56,10 @@
         }
       ],
       "tmdb_id": 132188,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 132559,
@@ -72,7 +78,7 @@
       ],
       "user_rating": 7.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2021-09-23",
       "streaming_services": [
         {
@@ -83,7 +89,11 @@
         }
       ],
       "tmdb_id": 132559,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Hulu",
+        "Peacock"
+      ]
     },
     {
       "id": 132750,
@@ -100,7 +110,7 @@
       ],
       "user_rating": 7.7,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-04-25",
       "streaming_services": [
         {
@@ -111,7 +121,10 @@
         }
       ],
       "tmdb_id": 132750,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 132922,
@@ -127,7 +140,7 @@
       ],
       "user_rating": 5.714,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-09-06",
       "streaming_services": [
         {
@@ -138,7 +151,10 @@
         }
       ],
       "tmdb_id": 132922,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Adult Swim"
+      ]
     }
   ]
 }

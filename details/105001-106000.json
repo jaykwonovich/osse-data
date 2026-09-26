@@ -1,6 +1,6 @@
 {
   "range": "105001-106000",
-  "updated_at": 1790380505695,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 105177,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.7,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2020-07-01",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 105177,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 105288,
@@ -43,7 +46,7 @@
       ],
       "user_rating": 7.655,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2020-07-10",
       "streaming_services": [
         {
@@ -54,7 +57,10 @@
         }
       ],
       "tmdb_id": 105288,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 105797,
@@ -72,7 +78,7 @@
       ],
       "user_rating": 8.165,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2020-08-07",
       "streaming_services": [
         {
@@ -83,7 +89,10 @@
         }
       ],
       "tmdb_id": 105797,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 105804,
@@ -99,7 +108,7 @@
       ],
       "user_rating": 7.137,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-05-09",
       "streaming_services": [
         {
@@ -110,7 +119,10 @@
         }
       ],
       "tmdb_id": 105804,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 105971,
@@ -127,7 +139,7 @@
       ],
       "user_rating": 8.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2021-05-04",
       "streaming_services": [
         {
@@ -138,7 +150,10 @@
         }
       ],
       "tmdb_id": 105971,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Disney+"
+      ]
     }
   ]
 }

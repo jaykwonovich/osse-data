@@ -1,6 +1,6 @@
 {
   "range": "30001-31000",
-  "updated_at": 1790380505669,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 30497,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.292,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "1974-10-11",
       "streaming_services": [
         {
@@ -58,7 +58,7 @@
       ],
       "user_rating": 7.695,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "NR",
       "release_date": "1947-08-27",
       "streaming_services": [
         {
@@ -85,7 +85,7 @@
       ],
       "user_rating": 7.046,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "1987-01-30",
       "streaming_services": [
         {
@@ -125,7 +125,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 30983
+      "tmdb_id": 30983,
+      "networks": [
+        "YTV"
+      ]
     },
     {
       "id": 30984,
@@ -153,7 +156,16 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 30984
+      "tmdb_id": 30984,
+      "networks": [
+        "TV Tokyo",
+        "TV Aichi",
+        "TVQ",
+        "TV Osaka",
+        "TVh",
+        "TSC",
+        "BS TV Tokyo"
+      ]
     }
   ]
 }

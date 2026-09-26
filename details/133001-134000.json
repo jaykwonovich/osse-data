@@ -1,6 +1,6 @@
 {
   "range": "133001-134000",
-  "updated_at": 1790380505701,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 133723,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2021-11-28",
       "streaming_services": [
         {
@@ -27,7 +27,11 @@
         }
       ],
       "tmdb_id": 133723,
-      "genre": "family"
+      "genre": "family",
+      "networks": [
+        "Cartoon Network",
+        "TBS"
+      ]
     },
     {
       "id": 133727,
@@ -43,7 +47,7 @@
       ],
       "user_rating": 7.277,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2021-10-08",
       "streaming_services": [
         {
@@ -54,7 +58,10 @@
         }
       ],
       "tmdb_id": 133727,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 133748,
@@ -70,7 +77,7 @@
       ],
       "user_rating": 7.721,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-07-27",
       "streaming_services": [
         {
@@ -81,7 +88,10 @@
         }
       ],
       "tmdb_id": 133748,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Peacock"
+      ]
     },
     {
       "id": 133903,
@@ -97,7 +107,7 @@
       ],
       "user_rating": 7.753,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-11-17",
       "streaming_services": [
         {
@@ -108,7 +118,10 @@
         }
       ],
       "tmdb_id": 133903,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Hulu"
+      ]
     }
   ]
 }
