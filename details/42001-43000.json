@@ -1,6 +1,6 @@
 {
   "range": "42001-43000",
-  "updated_at": 1780004424341,
+  "updated_at": 1790380505674,
   "shows": [
     {
       "id": 42009,
@@ -15,7 +15,7 @@
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.286,
+      "user_rating": 8.291,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-12-04",
@@ -117,14 +117,14 @@
       "title": "Hemlock Grove",
       "type": "tv_series",
       "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sjGOYM7GTG03aWUZIFOUiFDTeoL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/zu3bPbiYPsHt12A0LIPRUASmnqO.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nGFTegLPFXH2RzqNALTTh2I1fst.jpg",
       "plot_overview": "One cannot quench his all-consuming thirst. The other cannot tame the beast clawing its way out. In the sleepy Pennsylvania village of Hemlock Grove, two young men struggle to accept painful truths: about family, themselves, the mystery of the White Tower - and a terrifying new threat so powerful it will turn them from predators into prey.",
       "genres": [
         "drama",
         "mystery"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.062,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-04-19",
@@ -145,13 +145,15 @@
       "type": "movie",
       "year": 2010,
       "poster_url": "https://image.tmdb.org/t/p/w342/3U9zBIibERQZqYKM3N1a4MYgBsN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/56H7AtJ5GK4UxFoHuw9QDwI7wzD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/t5S0EaBud0lT4lbn4HvIFZ4EBU.jpg",
       "plot_overview": "Ali leaves behind a troubled life and follows her dreams to Los Angeles, where she lands a job as a cocktail waitress at the Burlesque Lounge, a once-majestic theater that houses an inspired musical revue. Vowing to perform there, she makes the leap from bar to stage, helping restore the club's former glory.",
       "genres": [
+        "Drama",
+        "Romance",
         "drama",
         "romance"
       ],
-      "user_rating": 7.208,
+      "user_rating": 7.214,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-11-23",
@@ -159,6 +161,12 @@
         {
           "service_id": 8,
           "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -219,6 +227,33 @@
       ],
       "tmdb_id": 42518,
       "genre": "drama"
+    },
+    {
+      "id": 42661,
+      "title": "The Vikings",
+      "type": "movie",
+      "year": 1958,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fagWQmo7VZkjtMchqCu9jR7d6fK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uRi6TrBzjXG3IsPqnUP8cz61NRD.jpg",
+      "plot_overview": "Einar, brutal son of the viking Ragnar and future heir to his throne, tangles with clever slave Eric, for the hand of a beautiful English maiden.",
+      "genres": [
+        "Adventure",
+        "History",
+        "Action"
+      ],
+      "user_rating": 7.008,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1958-06-11",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 42661
     },
     {
       "id": 42987,

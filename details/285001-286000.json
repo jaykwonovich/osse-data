@@ -1,6 +1,6 @@
 {
   "range": "285001-286000",
-  "updated_at": 1780004424387,
+  "updated_at": 1790380505720,
   "shows": [
     {
       "id": 285079,
@@ -33,17 +33,81 @@
       "relevance_score": 75
     },
     {
+      "id": 285147,
+      "title": "Shaque: Trust No One",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg",
+      "plot_overview": "A mother receives yearly photos of her missing child. After nine years of searching, she discovers the truth about the abduction lies not far away, but hidden among her closest circle.",
+      "genres": [
+        "crime",
+        "mystery",
+        "drama"
+      ],
+      "genre": "crime",
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2026-09-24",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 285147
+    },
+    {
+      "id": 285322,
+      "title": "Below",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qadm9To9UfMVenVzGVLt0m0iuxv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "plot_overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+      "genres": [
+        "mystery"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-08",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Pacesetter U.K."
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "tmdb_id": 285322,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-08",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
       "id": 285404,
       "title": "Maximum Pleasure Guaranteed",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
       "plot_overview": "A newly divorced mom falls down a dangerous rabbit hole of blackmail, murder, and youth soccer.",
       "genres": [
         "comedy"
       ],
-      "user_rating": 5.4,
+      "user_rating": 6.712,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-05-19",
@@ -68,6 +132,37 @@
       "next_episode": 4,
       "relevance_score": 75,
       "genre": "comedy"
+    },
+    {
+      "id": 285418,
+      "title": "Youth",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zKaTNcWmP2dxYnxmOAVhBvSqNy9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
+      "plot_overview": "A 50-year-old divorcee searches for sex and love whilst juggling caring for her ailing parents and parenting her should-be grown up son.",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "user_rating": 8.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-09-21",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 285418,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-09-28",
+      "next_episode": 3,
+      "relevance_score": 75
     },
     {
       "id": 285643,
@@ -134,7 +229,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.123,
+      "user_rating": 7.752,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-05-14",

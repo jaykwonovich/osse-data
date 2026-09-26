@@ -1,6 +1,6 @@
 {
   "range": "109001-110000",
-  "updated_at": 1780004424362,
+  "updated_at": 1790380505696,
   "shows": [
     {
       "id": 109330,
@@ -36,14 +36,43 @@
       "genre": "animation"
     },
     {
+      "id": 109410,
+      "title": "42",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iZ7jVGQWj3eBUdqwAPUlKk0BaS2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eyjWwMOgkq4nh0wMtyW8XPJ749H.jpg",
+      "plot_overview": "In 1947, Jackie Robinson becomes the first Black man to play in Major League Baseball facing unabashed racism from the public, the press and other players.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.214,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-04-12",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 109410
+    },
+    {
       "id": 109445,
       "title": "Frozen",
       "type": "movie",
       "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
       "plot_overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa\u2019s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy",
         "animation",
         "family"
       ],

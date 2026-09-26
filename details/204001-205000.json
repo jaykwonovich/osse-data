@@ -1,6 +1,6 @@
 {
   "range": "204001-205000",
-  "updated_at": 1780004424373,
+  "updated_at": 1790380505707,
   "shows": [
     {
       "id": 204135,
@@ -9,18 +9,27 @@
       "year": 2026,
       "poster_url": "https://image.tmdb.org/t/p/w342/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hoLPJjPfYdEWJXG1y7OCgOeipaF.jpg",
-      "plot_overview": "When the world\u2019s most popular sport combines with magic, awesomeness escalates quicker than a dragon-powered strike!",
+      "plot_overview": "In a world where sports and magic combine, farm boy Key discovers his ultrapowerful natural talent and learns he could be the legendary Dragon Striker.",
       "genres": [
-        "animation"
+        "action & adventure",
+        "animation",
+        "family",
+        "sci-fi & fantasy"
       ],
-      "user_rating": 0.0,
+      "user_rating": 7.75,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-06-09",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "TBD",
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -42,12 +51,41 @@
       "genre": "animation"
     },
     {
+      "id": 204137,
+      "title": "The Doomies",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zTUuiutD2Kj8lwd552uX8dzxA24.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dT7ARI93vfbP1Tf8fuVfDFMyQqE.jpg",
+      "plot_overview": "When best friends Bobby and Romy mistakenly open up a gateway to another world, they turn their sleepy coastal town into a hotspot for terrifying creatures of doom. Roped into an epic supernatural mystery, they will cross paths with the so-called \u201cChosen One\u201d and do battle with both literal and inner monsters.",
+      "genres": [
+        "animation",
+        "sci-fi & fantasy",
+        "action & adventure",
+        "comedy",
+        "family"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-06-26",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 204137
+    },
+    {
       "id": 204154,
       "title": "Scavengers Reign",
       "type": "tv_series",
       "year": 2023,
       "poster_url": "https://image.tmdb.org/t/p/w342/bFlVZV8TQbs8hcIY7PVYonYFMgK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rrREM1cowfMZ8SmrJ9KCFO3y4j6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rTViEeltl4rO974PmkUAdhQqW2R.jpg",
       "plot_overview": "When a deep space freighter is damaged by a solar flare its surviving crew are stranded on a beautiful and unforgiving planet. They begin to learn the true nature of this planet as they try to survive long enough to escape or be rescued.",
       "genres": [
         "action & adventure",
@@ -55,7 +93,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.486,
+      "user_rating": 8.462,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-10-19",
@@ -63,6 +101,12 @@
         {
           "service_id": 8,
           "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 318,
+          "service_name": "Starz",
           "type": "sub",
           "region": "US"
         }

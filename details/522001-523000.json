@@ -1,6 +1,6 @@
 {
   "range": "522001-523000",
-  "updated_at": 1780004424409,
+  "updated_at": 1790380505751,
   "shows": [
     {
       "id": 522402,
@@ -11,11 +11,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uoc358GH6Yl7TufbUKHkETPu64B.jpg",
       "plot_overview": "On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator's beloved dog, learns about life, love, friendship, and what it means to be human.",
       "genres": [
+        "Adventure",
+        "Drama",
+        "Science Fiction",
         "adventure",
         "drama",
         "science fiction"
       ],
-      "user_rating": 7.806,
+      "user_rating": 7.82,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-11-04",
@@ -31,21 +34,51 @@
       "genre": "adventure"
     },
     {
+      "id": 522518,
+      "title": "A Dog's Journey",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wquJChp0NpoqthYdE3YjXNNxvVC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i109vzdCkG7W3H9FxHmfpZjgh61.jpg",
+      "plot_overview": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
+      "genres": [
+        "Family",
+        "Adventure",
+        "Drama"
+      ],
+      "user_rating": 8.045,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-05-03",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 522518
+    },
+    {
       "id": 522627,
       "title": "The Gentlemen",
       "type": "movie",
-      "year": 2020,
+      "year": 2019,
       "poster_url": "https://image.tmdb.org/t/p/w342/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hClLP88yMIuhslwSVxtYrvWmxfp.jpg",
       "plot_overview": "American expat Mickey Pearson has built a highly profitable marijuana empire in London. When word gets out that he\u2019s looking to cash out of the business forever it triggers plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
       "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
         "comedy",
         "crime"
       ],
-      "user_rating": 7.7,
+      "user_rating": 7.657,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2020-01-01",
+      "release_date": "2019-12-03",
       "streaming_services": [
         {
           "service_id": 8,
@@ -66,10 +99,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/96sS0woEzf0zFSWjHVblOhsBfGd.jpg",
       "plot_overview": "A family dog \u2013 with a near-human soul and a philosopher's mind \u2013 evaluates his life through the lessons learned by his human owner, a race-car driver.",
       "genres": [
+        "Drama",
+        "Romance",
         "drama",
         "romance"
       ],
-      "user_rating": 8.168,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-08-08",
@@ -77,6 +112,12 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }

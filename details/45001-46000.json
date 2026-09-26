@@ -1,7 +1,63 @@
 {
   "range": "45001-46000",
-  "updated_at": 1780004424342,
+  "updated_at": 1790380505675,
   "shows": [
+    {
+      "id": 45013,
+      "title": "Wander Over Yonder",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ow88KmFUXMb6S4EKOWyTBy8ta7O.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1Be0q7wRrSADtXTQueGWOggxpEm.jpg",
+      "plot_overview": "The adventures of Wander, an eternally-optimistic intergalactic traveler and constant do-gooder, and his quick-tempered but loyal steed and best friend, Sylvia.  The friendliest face in outer space, Wander journeys across the galaxies to spread good cheer and to help anyone he can \u2014 much to his overly pragmatic stallion\u2019s chagrin. Their fun-loving escapades often lead them to clash with the evil villain Lord Hater and his army of Watchdogs, who travel from planet to planet trying to make hate th",
+      "genres": [
+        "animation",
+        "family",
+        "comedy",
+        "sci-fi & fantasy"
+      ],
+      "user_rating": 7.519,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-09-13",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 45013
+    },
+    {
+      "id": 45162,
+      "title": "Superman/Batman: Apocalypse",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3zZKtQAMcCWEq6EVh2mraJOAajY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/74H4XXU0q22TSrkPmlqkcWoX5ZZ.jpg",
+      "plot_overview": "Batman discovers a mysterious teen-aged girl with superhuman powers and a connection to Superman. When the girl comes to the attention of Darkseid, the evil overlord of Apokolips, events take a decidedly dangerous turn.",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure",
+        "Animation"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-09-28",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 45162
+    },
     {
       "id": 45317,
       "title": "The Fighter",
@@ -55,6 +111,46 @@
       ],
       "tmdb_id": 45666,
       "genre": "comedy"
+    },
+    {
+      "id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "type": "tv_series",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+      "plot_overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "genres": [
+        "animation",
+        "action & adventure",
+        "sci-fi & fantasy"
+      ],
+      "genre": "animation",
+      "user_rating": 8.6,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2012-10-06",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 45790
     }
   ]
 }

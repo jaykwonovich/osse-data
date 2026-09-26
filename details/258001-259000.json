@@ -1,6 +1,6 @@
 {
   "range": "258001-259000",
-  "updated_at": 1780004424384,
+  "updated_at": 1790380505716,
   "shows": [
     {
       "id": 258036,
@@ -14,7 +14,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.444,
+      "user_rating": 7.091,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-04-05",
@@ -22,6 +22,12 @@
         {
           "service_id": 9,
           "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
@@ -33,6 +39,75 @@
       "next_episode": 8,
       "relevance_score": 75,
       "genre": "comedy"
+    },
+    {
+      "id": 258165,
+      "title": "East of Eden",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/VMyZWR0GBHGY9WIwcaj232ALAl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8WGq5Q0tmTe30YZetLnU2dkOJZf.jpg",
+      "plot_overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 5.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Fifth Season",
+        "Anonymous Content"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "tmdb_id": 258165,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-01",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 258230,
+      "title": "Last Seen",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
+      "plot_overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "user_rating": 8.421,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-09-09",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 258230,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-09-30",
+      "next_episode": 5,
+      "relevance_score": 75
     },
     {
       "id": 258480,
@@ -88,6 +163,48 @@
       ],
       "tmdb_id": 258918,
       "genre": "comedy"
+    },
+    {
+      "id": 258989,
+      "title": "The Greatest",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y5pF7XCRpptZr3NMtCs5dAVdETQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vqfjeMy0QTwRLmw4mbMOfyk1WjK.jpg",
+      "plot_overview": "An intimate exploration of the incomparable life of Muhammad Ali. The amazing victories and defeats that made Ali a legend, both in and out of the ring, have been well documented and while those landmark events will live in The Greatest, the heartbeat of the story is fueled by all the moments that took place outside of the spotlight. The world remembers an icon, but The Greatest is about a man, a husband, a father, a brother, and a son.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-11-04",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Roc Nation",
+        "Outlier Society",
+        "Polygram Entertainment",
+        "Amazon MGM Studios",
+        "Blue Monday Productions",
+        "Authentic Studios",
+        "Grace: A Storytelling Company"
+      ],
+      "networks": [
+        "Prime Video"
+      ],
+      "tmdb_id": 258989,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-11-04",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

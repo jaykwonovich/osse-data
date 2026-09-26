@@ -1,6 +1,6 @@
 {
   "range": "289001-290000",
-  "updated_at": 1780004424388,
+  "updated_at": 1790380505721,
   "shows": [
     {
       "id": 289219,
@@ -8,14 +8,14 @@
       "type": "tv_series",
       "year": 2026,
       "poster_url": "https://image.tmdb.org/t/p/w342/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cvvj1RXGmmAZ1FZr6CrUu8LgQm5.jpg",
       "plot_overview": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
       "genres": [
         "action & adventure",
         "animation",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.5,
+      "user_rating": 8.607,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-04-06",
@@ -57,6 +57,43 @@
       ],
       "tmdb_id": 289222,
       "genre": "drama"
+    },
+    {
+      "id": 289729,
+      "title": "Unaccustomed Earth",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "backdrop_url": null,
+      "plot_overview": "When a health crisis forces a devoted mother and her family to return to the US, she confronts buried desires that upend her Indian American community.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-12-17",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "John Wells Productions",
+        "Warner Bros. Television"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "tmdb_id": 289729,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-12-17",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

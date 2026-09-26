@@ -1,6 +1,6 @@
 {
   "range": "32001-33000",
-  "updated_at": 1780004424337,
+  "updated_at": 1790380505670,
   "shows": [
     {
       "id": 32040,
@@ -11,10 +11,13 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/71oqZMM6dgKvi1WQztOoUHSzDdZ.jpg",
       "plot_overview": "Cosmo Vittelli, the proprietor of a sleazy, low-rent Hollywood cabaret, has a real affection for the women who strip in his peepshows and the staff who keep up his dingy establishment. He also has a major gambling problem that has gotten him in trouble before. When Cosmo loses big-time at an underground casino run by mobster Mort, he isn't able to pay up. Mort then offers Cosmo the chance to pay back his debt by knocking off a pesky, Mafia-protected bookie.",
       "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
         "crime",
         "drama"
       ],
-      "user_rating": 7.059,
+      "user_rating": 7.011,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1976-02-15",
@@ -57,6 +60,33 @@
       "genre": "comedy"
     },
     {
+      "id": 32415,
+      "title": "Conan",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2Ib8kvWa9gGhJrAfGlhIvbmtbWn.jpg",
+      "plot_overview": "A late night television talk show hosted by  Conan O'Brien.",
+      "genres": [
+        "talk",
+        "comedy",
+        "news"
+      ],
+      "user_rating": 7.173,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-11-08",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32415
+    },
+    {
       "id": 32608,
       "title": "Ancient Aliens",
       "type": "tv_series",
@@ -69,7 +99,7 @@
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.018,
+      "user_rating": 7.132,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-04-20",
@@ -119,7 +149,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.787,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-09-24",
@@ -182,7 +212,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 8.273,
+      "user_rating": 8.279,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-06-13",
@@ -209,7 +239,7 @@
         "animation",
         "comedy"
       ],
-      "user_rating": 7.847,
+      "user_rating": 7.833,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-01-09",
@@ -229,6 +259,33 @@
       ],
       "tmdb_id": 32726,
       "genre": "animation"
+    },
+    {
+      "id": 32798,
+      "title": "Hawaii Five-0",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tLccUh3uazZ9TkLhe53UwprJhI4.jpg",
+      "plot_overview": "Steve McGarrett returns home to Oahu, in order to find his father's killer. The governor offers him the chance to run his own task force (Five-0). Steve's team is joined by Chin Ho Kelly, Danny \"Danno\" Williams, and Kono Kalakaua.",
+      "genres": [
+        "crime",
+        "drama",
+        "action & adventure"
+      ],
+      "user_rating": 7.732,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-09-20",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 32798
     },
     {
       "id": 32815,
@@ -271,7 +328,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.9,
+      "user_rating": 7.881,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-07-12",

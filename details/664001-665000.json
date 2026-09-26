@@ -1,6 +1,6 @@
 {
   "range": "664001-665000",
-  "updated_at": 1780004424418,
+  "updated_at": 1790380505761,
   "shows": [
     {
       "id": 664280,
@@ -11,10 +11,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hHL4pwGzYS4njLpXhIjfc9skAQJ.jpg",
       "plot_overview": "The story of life on our planet by the man who has seen more of the natural world than any other. In more than 90 years, Attenborough has visited every continent on the globe, exploring the wild places of our planet and documenting the living world in all its variety and wonder. Addressing the biggest challenges facing life on our planet, the film offers a powerful message of hope for future generations.",
       "genres": [
+        "Documentary",
+        "Drama",
         "documentary",
         "drama"
       ],
-      "user_rating": 8.436,
+      "user_rating": 8.434,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-09-28",
@@ -38,10 +40,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/feQvRl67oc4AOWN4LhAwkrMWdX4.jpg",
       "plot_overview": "College student Danielle must cover her tracks when she unexpectedly runs into her sugar daddy at a shiva - with her parents, ex-girlfriend and family friends also in attendance.",
       "genres": [
+        "Comedy",
+        "Drama",
         "comedy",
         "drama"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.091,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-03-26",
@@ -51,10 +55,42 @@
           "service_name": "Netflix",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 664300,
       "genre": "comedy"
+    },
+    {
+      "id": 664416,
+      "title": "Beastie Boys Story",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mph9vxXnEgiFrkrUqMk40DpPtEX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lvRg7jnX1hof429ZuBQzRl04h2P.jpg",
+      "plot_overview": "Here's a little story they're about to tell... Mike Diamond and Adam Horovitz share the story of their band and 40 years of friendship in a live documentary experience directed by friend, collaborator, and their former grandfather, Spike Jonze.",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "user_rating": 7.515,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-04-24",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 664416
     },
     {
       "id": 664767,
@@ -93,11 +129,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3yAoVcQR1i7Zgm7yNxy58i3RzCi.jpg",
       "plot_overview": "A man narrates stories of his life as a 10-year-old boy in 1969 Houston, weaving tales of nostalgia with a fantastical account of a journey to the moon.",
       "genres": [
+        "Animation",
+        "Comedy",
+        "Drama",
         "animation",
         "comedy",
         "drama"
       ],
-      "user_rating": 7.03,
+      "user_rating": 7.004,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-03-24",

@@ -1,6 +1,6 @@
 {
   "range": "23001-24000",
-  "updated_at": 1780004424333,
+  "updated_at": 1790380505667,
   "shows": [
     {
       "id": 23168,
@@ -9,12 +9,15 @@
       "year": 2010,
       "poster_url": "https://image.tmdb.org/t/p/w342/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
-      "plot_overview": "Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her \u2013 but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
+      "plot_overview": "A proficient group of thieves rob a bank and hold the manager hostage. Things begin to get complicated when one of the crew members falls in love with her.",
       "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
         "crime",
         "drama"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.227,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-09-15",
@@ -38,10 +41,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kbxk09QgBJfJjnp66ey3JCEshKf.jpg",
       "plot_overview": "Still reeling from a heartbreaking family event and his parents' subsequent divorce, Tyler Hawkins discovers a fresh lease on life when he meets Ally Craig, a gregarious beauty who witnessed her mother's death. But as the couple draws closer, the fallout from their separate tragedies jeopardizes their love.",
       "genres": [
+        "Drama",
+        "Romance",
         "drama",
         "romance"
       ],
-      "user_rating": 7.102,
+      "user_rating": 7.095,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-03-11",
@@ -49,6 +54,12 @@
         {
           "service_id": 9,
           "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
@@ -67,7 +78,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.427,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1948-12-10",
@@ -81,6 +92,32 @@
       ],
       "tmdb_id": 23383,
       "genre": "drama"
+    },
+    {
+      "id": 23483,
+      "title": "Kick-Ass",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+      "plot_overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "user_rating": 7.123,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-03-26",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 23483
     }
   ]
 }

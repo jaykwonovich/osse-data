@@ -1,6 +1,6 @@
 {
   "range": "211001-212000",
-  "updated_at": 1780004424375,
+  "updated_at": 1790380505708,
   "shows": [
     {
       "id": 211178,
@@ -42,7 +42,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.53,
+      "user_rating": 7.613,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-02-11",
@@ -55,7 +55,12 @@
         }
       ],
       "tmdb_id": 211288,
-      "genre": "crime"
+      "genre": "crime",
+      "is_returning": true,
+      "next_season": 4,
+      "next_air_date": "2026-10-04",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 211358,
@@ -93,11 +98,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kv8KDbi2I4F4MNBbBMCR4LDqP6H.jpg",
       "plot_overview": "Agent Peggy Carter is relegated to a desk job and frustrated at her male boss and comrades' sexist dismissal of her place in the SSR. Ordered to work late one night, Carter gets an alert that the villain Zodiac has been spotted and decides to take care of it herself.",
       "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction",
         "action",
         "adventure",
         "science fiction"
       ],
-      "user_rating": 7.247,
+      "user_rating": 7.254,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-10-04",

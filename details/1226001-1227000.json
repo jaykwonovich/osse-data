@@ -1,6 +1,6 @@
 {
   "range": "1226001-1227000",
-  "updated_at": 1780004424438,
+  "updated_at": 1790380505787,
   "shows": [
     {
       "id": 1226841,
@@ -11,10 +11,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/Amb16QpgV4ZxdU8C80SW6JNySp9.jpg",
       "plot_overview": "On a January night in 1985, music's biggest stars gathered to record \"We Are the World.\" This documentary goes behind the scenes of the historic event.",
       "genres": [
+        "Documentary",
+        "Music",
         "documentary",
         "music"
       ],
-      "user_rating": 7.862,
+      "user_rating": 7.877,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-01-19",
@@ -28,6 +30,35 @@
       ],
       "tmdb_id": 1226841,
       "genre": "documentary"
+    },
+    {
+      "id": 1226863,
+      "title": "The Super Mario Galaxy Movie",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "plot_overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "user_rating": 8.222,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-04-01",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1226863
     }
   ]
 }

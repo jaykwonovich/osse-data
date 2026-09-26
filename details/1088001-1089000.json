@@ -1,6 +1,6 @@
 {
   "range": "1088001-1089000",
-  "updated_at": 1765853014733,
+  "updated_at": 1790380505783,
   "shows": [
     {
       "id": 1088166,
@@ -10,15 +10,19 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1ZnEOaOUj2e2Fq6Y7wo9KeH5rS6.jpg",
       "plot_overview": "A broker of lucrative payoffs between corrupt corporations and the individuals who threaten them breaks his own rules when a new client seeks his protection to stay alive.",
-      "genres": [],
-      "user_rating": 7.106,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "user_rating": 7.011,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-08-21",
       "streaming_services": [
         {
-          "service_id": 0,
-          "service_name": "Theatrical",
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }

@@ -1,6 +1,6 @@
 {
   "range": "65001-66000",
-  "updated_at": 1780004424348,
+  "updated_at": 1790380505681,
   "shows": [
     {
       "id": 65150,
@@ -37,10 +37,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lBy0tIjlc3rAy4dih74RFDIpxoP.jpg",
       "plot_overview": "When five ragtag freshman first meet in detention, it seems they have nothing in common. But, through music, they form an unbreakable bond and discover they have the makings of the greatest high school garage band in history! In the face of incredible odds, Olivia, Stella, Wen, Mohini and Charlie find they can make a real difference when they learn to lean on each other and let go of everything holding back their dreams.",
       "genres": [
+        "Comedy",
+        "Drama",
+        "Music",
+        "TV Movie",
         "comedy",
         "drama"
       ],
-      "user_rating": 7.432,
+      "user_rating": 7.445,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2011-04-15",
@@ -100,7 +104,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 7.7,
+      "user_rating": 7.684,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-02-14",
@@ -209,7 +213,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 8.186,
+      "user_rating": 8.183,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-11-04",
@@ -279,6 +283,33 @@
       "genre": "drama"
     },
     {
+      "id": 65754,
+      "title": "The Girl with the Dragon Tattoo",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg",
+      "plot_overview": "Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Mystery"
+      ],
+      "user_rating": 7.386,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-12-14",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 65754
+    },
+    {
       "id": 65798,
       "title": "Letterkenny",
       "type": "tv_series",
@@ -316,7 +347,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.566,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-09-10",
@@ -358,6 +389,35 @@
       ],
       "tmdb_id": 65820,
       "genre": "action & adventure"
+    },
+    {
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+      "plot_overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "genres": [
+        "animation",
+        "mystery",
+        "action & adventure",
+        "sci-fi & fantasy"
+      ],
+      "genre": "animation",
+      "user_rating": 8.113,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2016-04-04",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 65942
     }
   ]
 }

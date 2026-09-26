@@ -1,6 +1,6 @@
 {
   "range": "21001-22000",
-  "updated_at": 1780004424332,
+  "updated_at": 1790380505667,
   "shows": [
     {
       "id": 21183,
@@ -69,7 +69,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 8.2,
+      "user_rating": 8.215,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-10-23",
@@ -91,7 +91,7 @@
       "year": 1995,
       "poster_url": "https://image.tmdb.org/t/p/w342/1mf3GKgYeEIBhsp61uTGmI58NIB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yeuPvfPYK7Y3J3ZWqLF2IcWEi36.jpg",
-      "plot_overview": "Anthology series of composed of distinct story episodes, sometimes with a plot twist at the end, with occasional recurring story elements that were often tied together during season-finale clip shows.",
+      "plot_overview": "Anthology series composed of distinct story episodes, sometimes with a plot twist at the end, with occasional recurring story elements that were often tied together during season-finale clip shows.",
       "genres": [
         "drama",
         "sci-fi & fantasy"
@@ -146,11 +146,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9BrhCgffilZPr3VOnDAKP9vBrU1.jpg",
       "plot_overview": "Bobby Griffith was his mother's favorite son, the perfect all-American boy growing up under deeply religious influences in Walnut Creek, California. Bobby was also gay. Struggling with a conflict no one knew of, much less understood, Bobby finally came out to his family.",
       "genres": [
+        "Drama",
+        "History",
+        "TV Movie",
         "drama",
         "history",
         "tv movie"
       ],
-      "user_rating": 8.05,
+      "user_rating": 8.059,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-01-24",
@@ -158,6 +161,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
@@ -178,7 +187,7 @@
         "family",
         "kids"
       ],
-      "user_rating": 7.905,
+      "user_rating": 7.885,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2010-04-04",
@@ -238,7 +247,7 @@
       "genres": [
         "reality"
       ],
-      "user_rating": 7.131,
+      "user_rating": 7.134,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-07-19",
@@ -277,14 +286,14 @@
       "type": "tv_series",
       "year": 2009,
       "poster_url": "https://image.tmdb.org/t/p/w342/3CdaaPZdU1Xv2c6hDaSVWhsXtuO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/15DFqwJsyXs3lPSrwzARhCMWRTo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tSbZytA2RSLVXgEjTNTb27ZkvjZ.jpg",
       "plot_overview": "The Super Hero Squad Show is an American cartoon series by Marvel Animation. It is based on the Marvel Super Hero Squad action figure line from Hasbro, which portray the Avengers, the X-Men, and various other characters of the Marvel Universe in a cartoonish super-deformed-style. It is also a self-aware parody of the Marvel characters, with influences taken from on the comedic Mini Marvels series of parody comic books, in that the heroes tend to find themselves in comedic situations, and have ca",
       "genres": [
         "action & adventure",
         "animation",
         "comedy"
       ],
-      "user_rating": 7.5,
+      "user_rating": 7.523,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-09-14",
@@ -298,6 +307,34 @@
       ],
       "tmdb_id": 21781,
       "genre": "action & adventure"
+    },
+    {
+      "id": 21876,
+      "title": "Von Ryan's Express",
+      "type": "movie",
+      "year": 1965,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kNIpEa4fe0RvgTqjkRrHFuSW8lz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4nIEoIesbcW85iwgneg92a9xU2P.jpg",
+      "plot_overview": "Von Ryan's Express stars Frank Sinatra as a POW colonel who leads a daring escape from WWII Italy by taking over a freight train, but he has to win over the British soldiers he finds himself commanding.",
+      "genres": [
+        "War",
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1965-06-23",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 21876
     }
   ]
 }

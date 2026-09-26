@@ -1,6 +1,6 @@
 {
   "range": "618001-619000",
-  "updated_at": 1780004424415,
+  "updated_at": 1790380505758,
   "shows": [
     {
       "id": 618344,
@@ -11,12 +11,16 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/miChhr7EXynB2R5JLvMcz2oBgi2.jpg",
       "plot_overview": "Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good \u2013 the Justice League, Teen Titans, Suicide Squad and assorted others \u2013 must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.",
       "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy",
         "action",
         "adventure",
         "animation",
         "fantasy"
       ],
-      "user_rating": 8.198,
+      "user_rating": 8.189,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-05-05",
@@ -40,10 +44,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jw4SNkaSgbrO7VJPsZUZqbBg1Ph.jpg",
       "plot_overview": "Over the course of ten days and 435 miles, an unbreakable bond is forged between pro adventure racer Michael Light and a scrappy street dog companion dubbed Arthur. As the team is pushed to their outer limits of endurance in the race, Arthur redefines what victory, loyalty and friendship truly mean.",
       "genres": [
+        "Adventure",
+        "Drama",
         "adventure",
         "drama"
       ],
-      "user_rating": 7.546,
+      "user_rating": 7.534,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-02-22",
@@ -51,6 +57,12 @@
         {
           "service_id": 386,
           "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }

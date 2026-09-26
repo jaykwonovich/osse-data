@@ -1,6 +1,6 @@
 {
   "range": "493001-494000",
-  "updated_at": 1780004424407,
+  "updated_at": 1790380505749,
   "shows": [
     {
       "id": 493099,
@@ -39,7 +39,7 @@
       "genres": [
         "documentary"
       ],
-      "user_rating": 7.861,
+      "user_rating": 7.868,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-01-19",
@@ -53,6 +53,60 @@
       ],
       "tmdb_id": 493100,
       "genre": "documentary"
+    },
+    {
+      "id": 493529,
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
+      "plot_overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Comedy"
+      ],
+      "user_rating": 7.356,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-03-23",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 493529
+    },
+    {
+      "id": 493922,
+      "title": "Hereditary",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+      "plot_overview": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "user_rating": 7.297,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2018-06-07",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 493922
     }
   ]
 }

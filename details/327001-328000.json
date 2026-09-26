@@ -1,7 +1,41 @@
 {
   "range": "327001-328000",
-  "updated_at": 1780004424394,
+  "updated_at": 1790380505730,
   "shows": [
+    {
+      "id": 327287,
+      "title": "Doula: A True Crime",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "backdrop_url": null,
+      "plot_overview": "In 2022, Kaitlyn Braun contacted more than 40 Ontario doulas claiming she was pregnant with a stillborn child after a sexual assault. As doulas rallied to support her, inconsistencies emerged, sparking a shocking saga involving social media, criminal charges, and questions about the limits of empathy.",
+      "genres": [
+        "documentary"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-07",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [],
+      "networks": [
+        "CBC Television"
+      ],
+      "tmdb_id": 327287,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-07",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
     {
       "id": 327331,
       "title": "The Dirt",
@@ -11,13 +45,16 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lFLwxSd9JReOBBxoUwQFBANcyIl.jpg",
       "plot_overview": "The story of M\u00f6tley Cr\u00fce and their rise from the Sunset Strip club scene of the early 1980s to superstardom.",
       "genres": [
+        "Comedy",
+        "Drama",
+        "Music",
         "comedy",
         "drama"
       ],
-      "user_rating": 7.434,
+      "user_rating": 7.439,
       "critic_score": null,
       "us_rating": null,
-      "release_date": "2019-03-22",
+      "release_date": "2019-03-18",
       "streaming_services": [
         {
           "service_id": 8,
@@ -28,6 +65,41 @@
       ],
       "tmdb_id": 327331,
       "genre": "comedy"
+    },
+    {
+      "id": 327346,
+      "title": "Astral Watch",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lRnv1w65oogXDUxXiDsvqFjwblb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2B5WXDlBWUKGlARnFbD9oRMXlQ5.jpg",
+      "plot_overview": "An extra-terrestrial infant was sent to Earth from a dying planet and lands in a small farmtown in Bloxville, Robloxia. The Child, now given a name (Clark Kent) grows up  getting used to his extraordinary abilities granted by the Earth's Yellow Sun. His father, Jonathan Kent sadly passes away from natural causes and in his final moments, he tells Clark that he will change the world someday. Eventually Clark and his mother Martha Kent move to Central Robloxia to start a new life where Clark atten",
+      "genres": [
+        "sci-fi & fantasy",
+        "action & adventure",
+        "animation",
+        "mystery"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-11-30",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [],
+      "networks": [],
+      "tmdb_id": 327346,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-11-30",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

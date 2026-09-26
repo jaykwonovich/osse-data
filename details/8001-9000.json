@@ -1,7 +1,113 @@
 {
   "range": "8001-9000",
-  "updated_at": 1780004424324,
+  "updated_at": 1790380505658,
   "shows": [
+    {
+      "id": 8055,
+      "title": "The Reader",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r0WURbmnhgKeBpHcpDULBgRedQM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/waMGsUEoHfYj3A1uRMUUgpBa71d.jpg",
+      "plot_overview": "The story of Michael Berg, a German lawyer who, as a teenager in the late 1950s, had an affair with an older woman, Hanna, who then disappeared only to resurface years later as one of the defendants in a war crimes trial stemming from her actions as a concentration camp guard late in the war. He alone realizes that Hanna is illiterate and may be concealing that fact at the expense of her freedom.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "user_rating": 7.461,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-12-10",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8055
+    },
+    {
+      "id": 8129,
+      "title": "My Name Is Joe",
+      "type": "movie",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3qUWbQjtNQFX26QOENPIkck9KOJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7HS8YSbD37UvS3XABBjOnKKsbc5.jpg",
+      "plot_overview": "Two thirtysomethings, unemployed former alcoholic Joe and community health worker Sarah, start a romantic relationship in one of the toughest Glasgow neighbourhoods.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.258,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1998-05-15",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8129
+    },
+    {
+      "id": 8333,
+      "title": "The Taking of Pelham One Two Three",
+      "type": "movie",
+      "year": 1974,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vNhywp9w1DVG6BytxKp4kjtaaGC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wDLUp63wIE6NeWHAcJkCijhI3M8.jpg",
+      "plot_overview": "In New York, armed men hijack a subway car and demand a ransom for the passengers while the authorities question about the method of their escape.",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Action",
+        "Comedy"
+      ],
+      "user_rating": 7.46,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1974-10-02",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8333
+    },
+    {
+      "id": 8337,
+      "title": "They Live",
+      "type": "movie",
+      "year": 1988,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+      "plot_overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Thriller"
+      ],
+      "user_rating": 7.309,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1988-11-04",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8337
+    },
     {
       "id": 8358,
       "title": "Lie to Me",
@@ -31,6 +137,31 @@
       "genre": "crime"
     },
     {
+      "id": 8363,
+      "title": "Superbad",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/coru98UcFBzJIU7bxZguxaePgu0.jpg",
+      "plot_overview": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+      "genres": [
+        "comedy"
+      ],
+      "user_rating": 7.274,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2007-08-17",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8363
+    },
+    {
       "id": 8374,
       "title": "The Boondock Saints",
       "type": "movie",
@@ -39,11 +170,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9DNDELpVxuLJWMoomgULhhZFoHR.jpg",
       "plot_overview": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner and Murphy are inspired by their faith to cleanse their hometown of evil with their own brand of zealous vigilante justice. As they hunt down and kill one notorious gangster after another, they become controversial folk heroes in the community. But Paul Smecker, an eccentric FBI agent, is fast closing in on their blood-soaked trail.",
       "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
         "action",
         "crime",
         "thriller"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.241,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1999-01-22",
@@ -57,6 +191,12 @@
         {
           "service_id": 386,
           "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -73,10 +213,13 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sZUnqJCjEUtdZ0vhPO3oe1PFYV9.jpg",
       "plot_overview": "As the world is overrun by zombies, scientists and military personnel in an underground Florida bunker must decide on how they should deal with the undead.",
       "genres": [
+        "Drama",
+        "Horror",
+        "Mystery",
         "drama",
         "mystery"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.009,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1985-07-03",
@@ -92,19 +235,48 @@
       "genre": "drama"
     },
     {
+      "id": 8583,
+      "title": "Dangerous Beauty",
+      "type": "movie",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7uHX8qIr8VYPwdpVv4TCjXcVxDo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nT6udCjGaYih9VUZQU7xnwX99RK.jpg",
+      "plot_overview": "Veronica is brilliant, gifted and beautiful, but the handsome aristocrat she loves, Marco Venier, cannot marry her because she is penniless and of questionable family. So Veronica's mother, Paola, teaches her to become a courtesan, one of the exotic companions favored by the richest and most powerful Venetian men. Veronica courageously uses her charms to change destiny -- and to give herself a chance at true love.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "user_rating": 7.008,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1998-02-20",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8583
+    },
+    {
       "id": 8587,
       "title": "The Lion King",
       "type": "movie",
       "year": 1994,
       "poster_url": "https://image.tmdb.org/t/p/w342/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bqFxtuGNsz30HTk5mzgGs8m9Po.jpg",
       "plot_overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
       "genres": [
+        "Animation",
+        "Drama",
+        "Family",
         "animation",
         "drama",
         "family"
       ],
-      "user_rating": 8.254,
+      "user_rating": 8.251,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1994-06-15",
@@ -130,7 +302,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 8.038,
+      "user_rating": 8.049,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-04-09",
@@ -144,6 +316,33 @@
       ],
       "tmdb_id": 8592,
       "genre": "comedy"
+    },
+    {
+      "id": 8619,
+      "title": "Master and Commander: The Far Side of the World",
+      "type": "movie",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7ZUHF6P0vcA5v1Gm8NbRYyd9w4N.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+      "plot_overview": "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship's thoughtful surgeon, his best friend.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "user_rating": 7.203,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2003-11-14",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8619
     },
     {
       "id": 8624,
@@ -243,15 +442,18 @@
       "title": "Jumanji",
       "type": "movie",
       "year": 1995,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iWV47r6kFneCiApgrMII5HSkfHw.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bdHG5Mo83VPobeZZdlSz0Y7HQHB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qSxeCfWUUyht9hZgaaYmtPtTkw2.jpg",
       "plot_overview": "When siblings Judy and Peter discover an enchanted board game that opens the door to a magical world, they unwittingly invite Alan -- an adult who's been trapped inside the game for 26 years -- into their living room. Alan's only hope for freedom is to finish the game, which proves risky as all three find themselves running from giant rhinoceroses, evil monkeys and other terrifying creatures.",
       "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
         "adventure",
         "family",
         "fantasy"
       ],
-      "user_rating": 7.247,
+      "user_rating": 7.249,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1995-12-15",
@@ -265,6 +467,61 @@
       ],
       "tmdb_id": 8844,
       "genre": "adventure"
+    },
+    {
+      "id": 8963,
+      "title": "Crimson Tide",
+      "type": "movie",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mjlRoaURNhcW5YmXev8Z4UrV7x6.jpg",
+      "plot_overview": "After the Cold War, a breakaway Russian republic with nuclear warheads becomes a possible worldwide threat. U.S. submarine Capt. Frank Ramsey signs on a relatively green but highly recommended Lt. Cmdr. Ron Hunter to the USS Alabama, which may be the only ship able to stop a possible Armageddon. When Ramsey insists that the Alabama must act aggressively, Hunter, fearing they will start rather than stop a disaster, leads a potential mutiny to stop him.",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "user_rating": 7.188,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "1995-05-12",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8963
+    },
+    {
+      "id": 8966,
+      "title": "Twilight",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+      "plot_overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Romance"
+      ],
+      "user_rating": 6.273,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2008-11-20",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 8966
     }
   ]
 }

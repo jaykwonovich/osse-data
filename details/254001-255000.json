@@ -1,6 +1,6 @@
 {
   "range": "254001-255000",
-  "updated_at": 1780004424383,
+  "updated_at": 1790380505715,
   "shows": [
     {
       "id": 254071,
@@ -31,6 +31,31 @@
       "genre": "crime"
     },
     {
+      "id": 254172,
+      "title": "Fathers and Daughters",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fgzp7gGea27hN5d26mgKtZJQgX7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/858cbEQUEwAceAZCtFXsFDcfwzB.jpg",
+      "plot_overview": "A Pulitzer-winning writer grapples with being a widower and father after a mental breakdown, while, 27 years later, his grown daughter struggles to forge connections of her own.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.182,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-10-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 254172
+    },
+    {
       "id": 254320,
       "title": "The Lobster",
       "type": "movie",
@@ -39,10 +64,13 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
       "plot_overview": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
       "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
         "comedy",
         "drama"
       ],
-      "user_rating": 7.026,
+      "user_rating": 7.022,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-10-15",
@@ -62,14 +90,14 @@
       "title": "Elle",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aaxl6bYhG6pzhCCe6Oxk5pAesBN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qDuNYLq4ykp5K4SpAnLp4H38ksy.jpg",
-      "plot_overview": "Follow Elle Woods in high school as we learn about the life experiences that shaped her into the iconic young woman we came to know and love in the first Legally Blonde film.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/dpH7Lyrs7z7MlTGgfeibryGnWAv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/truh4rtTUdRVYGeT0n17dxvdv41.jpg",
+      "plot_overview": "Before Elle Woods was a fish-out-of-water at Harvard, we meet her in 1995 in the tumultuous waters of high school where she encounters tricky friendships, forbidden romance, and questionable fashion choices. In this unexpected chapter of her adolescence, we learn about the experiences that shaped Elle into the iconic young woman we've come to know and love.",
       "genres": [
         "comedy",
         "drama"
       ],
-      "user_rating": 0.0,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-07-01",
@@ -103,13 +131,13 @@
       "title": "The Hawk",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/klwdBtkpdW1RIqOl0dkSWJ7mtjq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/g9gWKJJdRknKGXDGh7VGTp6SIOb.jpg",
-      "plot_overview": "A professional golfer becomes the face of a controversial new league competing with the PGA Tour.",
+      "poster_url": "https://image.tmdb.org/t/p/w342/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fBVNJL85Q60njpKPD6YaLi6tEsX.jpg",
+      "plot_overview": "On the back nine of his career, golf legend Lonnie \"The Hawk\" Hawkins chases one final major \u2014 and drags everyone he loves into the chaos.",
       "genres": [
         "comedy"
       ],
-      "user_rating": 0.0,
+      "user_rating": 5.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-07-16",
@@ -135,6 +163,47 @@
       "next_episode": 1,
       "relevance_score": 75,
       "genre": "comedy"
+    },
+    {
+      "id": 254630,
+      "title": "12 12 12",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bG4h6C6wRKmf3ryz8gdN6imXW4c.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2L7YJPKTOdyNrY7sqOl6ouFKRGp.jpg",
+      "plot_overview": "A heist takes 12 months to plan, 12 hours to execute\u2014and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+      "genres": [
+        "action & adventure",
+        "crime",
+        "drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-11-12",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Make It With Gravy Productions",
+        "Inspire Entertainment",
+        "Anonymous Content",
+        "Paramount Television Studios"
+      ],
+      "networks": [
+        "Apple TV"
+      ],
+      "tmdb_id": 254630,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-11-12",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 254953,

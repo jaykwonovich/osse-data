@@ -1,6 +1,6 @@
 {
   "range": "296001-297000",
-  "updated_at": 1780004424389,
+  "updated_at": 1790380505723,
   "shows": [
     {
       "id": 296052,
@@ -27,6 +27,43 @@
       ],
       "tmdb_id": 296052,
       "genre": "reality"
+    },
+    {
+      "id": 296756,
+      "title": "President Curtis",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+      "plot_overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+      "genres": [
+        "animation",
+        "comedy"
+      ],
+      "user_rating": 6.741,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-07-26",
+      "streaming_services": [
+        {
+          "service_id": 318,
+          "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 296756,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-09-27",
+      "next_episode": 10,
+      "relevance_score": 75
     }
   ]
 }

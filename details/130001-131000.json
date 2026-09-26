@@ -1,6 +1,6 @@
 {
   "range": "130001-131000",
-  "updated_at": 1780004424367,
+  "updated_at": 1790380505701,
   "shows": [
     {
       "id": 130372,
@@ -69,7 +69,7 @@
         "comedy",
         "crime"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.176,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-08-13",
@@ -82,22 +82,30 @@
         }
       ],
       "tmdb_id": 130853,
-      "genre": "comedy"
+      "genre": "comedy",
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-12-01",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 130925,
       "title": "Partysaurus Rex",
       "type": "movie",
       "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7Y7NBliUme8KFqBh4MvQ1NOSDNW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/eRxHdAPoXLPHOUvbNc49C4dw15k.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sRPMsLAygtI3GlZS8fLERQrzIvk.jpg",
       "plot_overview": "When Rex finds himself left behind in the bathroom, he puts his limbs to use by getting a bath going for a bunch of new toy friends.",
       "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
         "animation",
         "comedy",
         "family"
       ],
-      "user_rating": 7.123,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-09-14",

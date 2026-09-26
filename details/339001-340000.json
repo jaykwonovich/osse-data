@@ -1,6 +1,6 @@
 {
   "range": "339001-340000",
-  "updated_at": 1780004424395,
+  "updated_at": 1790380505733,
   "shows": [
     {
       "id": 339380,
@@ -11,10 +11,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iRl2k4TMhfESV2W3ygu3OmIVVwh.jpg",
       "plot_overview": "Young lawyer Ruth Bader Ginsburg teams with her husband Marty to bring a groundbreaking case before the U.S. Court of Appeals and overturn a century of sex discrimination.",
       "genres": [
+        "Drama",
+        "History",
         "drama",
         "history"
       ],
-      "user_rating": 7.326,
+      "user_rating": 7.328,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-12-25",
@@ -28,6 +30,33 @@
       ],
       "tmdb_id": 339380,
       "genre": "drama"
+    },
+    {
+      "id": 339877,
+      "title": "Loving Vincent",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/56sq57kDm7XgyXBYrgJLumo0Jac.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/KKrsUGDXZfpeL3ddXTeGibmUHS.jpg",
+      "plot_overview": "A young man arrives at the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "History"
+      ],
+      "user_rating": 7.98,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-06-22",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 339877
     }
   ]
 }

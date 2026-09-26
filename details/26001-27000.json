@@ -1,6 +1,6 @@
 {
   "range": "26001-27000",
-  "updated_at": 1780004424334,
+  "updated_at": 1790380505669,
   "shows": [
     {
       "id": 26101,
@@ -31,19 +31,59 @@
       "genre": "crime"
     },
     {
+      "id": 26428,
+      "title": "Agora",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1xsFa6I5vDd2UI1AJ1tsW7BUChv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bdms9QMM4y6NBKIvXDINsKnK0Fj.jpg",
+      "plot_overview": "A historical drama set in Roman Egypt, concerning philosopher Hypatia of Alexandria and her relationship with her slave Davus, who is torn between his love for her and the possibility of gaining his freedom by joining the rising tide of Christianity.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "user_rating": 7.003,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2009-05-17",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 26428
+    },
+    {
       "id": 26736,
       "title": "Wizards of Waverly Place: The Movie",
       "type": "movie",
       "year": 2009,
       "poster_url": "https://image.tmdb.org/t/p/w342/vrjLcGBLurVem5lXN8237qz4tyE.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9Qvc6fzE3PzodgJ9no11GlLYZJF.jpg",
-      "plot_overview": "A young wizard accidentally conjures a spell that puts her family in jeopardy.",
+      "plot_overview": "During a family vacation, Alex, a young witch, accidentally casts a curse on her loved ones. To reverse this, she tries to find a magical stone while her brother tries to keep their parents together.",
       "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "TV Movie",
         "comedy",
         "drama",
         "family"
       ],
-      "user_rating": 7.303,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2009-08-28",

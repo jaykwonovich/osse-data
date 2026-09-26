@@ -1,6 +1,6 @@
 {
   "range": "680001-681000",
-  "updated_at": 1780004424419,
+  "updated_at": 1790380505762,
   "shows": [
     {
       "id": 680058,
@@ -11,10 +11,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gOBKWe6lHlt8srk11TFlDuBtl0H.jpg",
       "plot_overview": "The enthralling, against-all-odds story that transfixed the world in 2018: the daring rescue of twelve boys and their coach from deep inside a flooded cave in Northern Thailand.",
       "genres": [
+        "Documentary",
+        "Drama",
         "documentary",
         "drama"
       ],
-      "user_rating": 7.951,
+      "user_rating": 7.961,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-10-08",
@@ -28,6 +30,32 @@
       ],
       "tmdb_id": 680058,
       "genre": "documentary"
+    },
+    {
+      "id": 680493,
+      "title": "Return to Silent Hill",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+      "plot_overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "user_rating": 5.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-01-21",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 680493
     }
   ]
 }

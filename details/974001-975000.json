@@ -1,6 +1,6 @@
 {
   "range": "974001-975000",
-  "updated_at": 1780004424431,
+  "updated_at": 1790380505775,
   "shows": [
     {
       "id": 974036,
@@ -13,7 +13,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.678,
+      "user_rating": 7.674,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-02-22",
@@ -21,6 +21,12 @@
         {
           "service_id": 386,
           "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }

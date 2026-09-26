@@ -1,6 +1,6 @@
 {
   "range": "79001-80000",
-  "updated_at": 1780004424353,
+  "updated_at": 1790380505686,
   "shows": [
     {
       "id": 79061,
@@ -16,7 +16,7 @@
         "comedy",
         "kids"
       ],
-      "user_rating": 8.1,
+      "user_rating": 8.142,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-03-30",
@@ -278,7 +278,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.513,
+      "user_rating": 7.481,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-02-15",
@@ -439,13 +439,13 @@
       "type": "tv_series",
       "year": 2020,
       "poster_url": "https://image.tmdb.org/t/p/w342/exKzfiKzMdQBHrdd7zNmKauJkbg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zFJxwXtW3Y7FSDrc2FnVFpQCcY1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/h8dzXytAPFkAHv1kZAN1SshXI68.jpg",
       "plot_overview": "More than seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a gigantic, perpetually-moving train that circles the globe as class warfare, social injustice and the politics of survival play out.",
       "genres": [
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.347,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-05-17",
@@ -453,6 +453,12 @@
         {
           "service_id": 9,
           "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
@@ -473,7 +479,7 @@
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.633,
+      "user_rating": 7.605,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-09-24",
@@ -501,7 +507,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 8.545,
+      "user_rating": 8.539,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-10-16",
@@ -514,7 +520,12 @@
         }
       ],
       "tmdb_id": 79744,
-      "genre": "comedy"
+      "genre": "comedy",
+      "is_returning": true,
+      "next_season": 9,
+      "next_air_date": "2027-01-01",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 79746,

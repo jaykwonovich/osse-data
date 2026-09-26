@@ -1,6 +1,6 @@
 {
   "range": "103001-104000",
-  "updated_at": 1780004424360,
+  "updated_at": 1790380505695,
   "shows": [
     {
       "id": 103023,
@@ -87,8 +87,8 @@
       "title": "Percy Jackson and the Olympians",
       "type": "tv_series",
       "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/danN2NzJTMouaBEkDWTnyDjDxUt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bd5ZIqiz1PRiLC7FLexzVBf8qu1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sAxx25ijwYQ8xsT56wu2IzvIRss.jpg",
       "plot_overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
       "genres": [
         "action & adventure",
@@ -96,7 +96,7 @@
         "family",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.247,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-12-19",
@@ -109,7 +109,37 @@
         }
       ],
       "tmdb_id": 103540,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "is_returning": true,
+      "next_season": 3,
+      "next_air_date": "2026-11-20",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 103731,
+      "title": "Mud",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/o2jT5jQdKh1HAF0fMKuGwBOwOYB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/otmqSaptLwYutON1oZEgBLZeBEQ.jpg",
+      "plot_overview": "Two teenage boys find a fugitive hiding out on an island in the Mississippi River and help him reunite with his lover and escape an avenging family and their armed posse.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.059,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-04-26",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 103731
     },
     {
       "id": 103768,

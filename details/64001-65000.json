@@ -1,6 +1,6 @@
 {
   "range": "64001-65000",
-  "updated_at": 1780004424348,
+  "updated_at": 1790380505681,
   "shows": [
     {
       "id": 64099,
@@ -361,6 +361,33 @@
       "genre": "crime"
     },
     {
+      "id": 64720,
+      "title": "Take Shelter",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9YDnwmjGYkw1r9EKys33Wf95DAZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7HtE5hLVTEvFKQC33wK7XAnIdFk.jpg",
+      "plot_overview": "Plagued by a series of apocalyptic visions, a young husband and father questions whether to shelter his family from a coming storm, or from himself.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Horror"
+      ],
+      "user_rating": 7.055,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2011-09-30",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64720
+    },
+    {
       "id": 64752,
       "title": "The Lion Guard",
       "type": "tv_series",
@@ -386,6 +413,35 @@
       ],
       "tmdb_id": 64752,
       "genre": "animation"
+    },
+    {
+      "id": 64783,
+      "title": "Dawn of the Croods",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cyCAsMLGECvEAFDfKcxcWy7YTOW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bVml4IQKIS5DfPqgDoaZoRLlxIY.jpg",
+      "plot_overview": "The world's first family is back for more laughs as they discover sports, sleepovers and other wonders in a world of exotic creatures and adventures. This 2D animated cartoon is based on the 3D animated feature film, \"The Croods\".",
+      "genres": [
+        "animation",
+        "family",
+        "kids",
+        "comedy",
+        "action & adventure"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2015-12-24",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 64783
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "593001-594000",
-  "updated_at": 1780004424414,
+  "updated_at": 1790380505756,
   "shows": [
     {
       "id": 593643,
@@ -11,10 +11,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg",
       "plot_overview": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
       "genres": [
+        "Comedy",
+        "Horror",
         "comedy",
         "horror"
       ],
-      "user_rating": 7.173,
+      "user_rating": 7.181,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-11-17",
@@ -22,6 +24,12 @@
         {
           "service_id": 9,
           "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
@@ -35,14 +43,17 @@
       "type": "movie",
       "year": 2019,
       "poster_url": "https://image.tmdb.org/t/p/w342/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5VUpSn9bBOFkSXKcUFJHQW9AY6e.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rfqUYH6gav0P2uwvSSwjahAwzwk.jpg",
       "plot_overview": "This intimate, in-depth look at Beyonc\u00e9's celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.",
       "genres": [
+        "Documentary",
+        "Music",
+        "TV Movie",
         "documentary",
         "music",
         "tv movie"
       ],
-      "user_rating": 8.1,
+      "user_rating": 8.041,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-04-16",

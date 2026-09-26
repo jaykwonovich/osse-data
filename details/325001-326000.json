@@ -1,6 +1,6 @@
 {
   "range": "325001-326000",
-  "updated_at": 1780004424394,
+  "updated_at": 1790380505730,
   "shows": [
     {
       "id": 325113,
@@ -13,7 +13,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.058,
+      "user_rating": 7.035,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-03-27",
@@ -27,6 +27,32 @@
       ],
       "tmdb_id": 325113,
       "genre": "drama"
+    },
+    {
+      "id": 325755,
+      "title": "The Perfect Lie",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
+      "plot_overview": "When one of their own is killed in a house fire, four picture-perfect couples are forced to question everything they thought they knew about each other.",
+      "genres": [
+        "drama"
+      ],
+      "genre": "drama",
+      "user_rating": 6.2,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2026-09-10",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 325755
     }
   ]
 }

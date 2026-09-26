@@ -1,6 +1,6 @@
 {
   "range": "117001-118000",
-  "updated_at": 1780004424364,
+  "updated_at": 1790380505698,
   "shows": [
     {
       "id": 117030,
@@ -42,7 +42,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 8.232,
+      "user_rating": 8.183,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-10-12",
@@ -69,7 +69,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.5,
+      "user_rating": 7.43,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-11-14",
@@ -88,7 +88,12 @@
         }
       ],
       "tmdb_id": 117488,
-      "genre": "drama"
+      "genre": "drama",
+      "is_returning": true,
+      "next_season": 4,
+      "next_air_date": "2026-11-22",
+      "next_episode": 1,
+      "relevance_score": 75
     },
     {
       "id": 117581,
@@ -216,7 +221,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.343,
+      "user_rating": 7.358,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-03-17",

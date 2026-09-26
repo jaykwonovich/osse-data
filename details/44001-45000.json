@@ -1,6 +1,6 @@
 {
   "range": "44001-45000",
-  "updated_at": 1780004424341,
+  "updated_at": 1790380505674,
   "shows": [
     {
       "id": 44006,
@@ -13,7 +13,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 8.399,
+      "user_rating": 8.41,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-10-10",
@@ -26,7 +26,39 @@
         }
       ],
       "tmdb_id": 44006,
-      "genre": "drama"
+      "genre": "drama",
+      "is_returning": true,
+      "next_season": 15,
+      "next_air_date": "2026-10-07",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
+    {
+      "id": 44115,
+      "title": "127 Hours",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/h0RMdn0rfl9l5hWXz3tUh6QVkhi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/viBWzktrBmhzRw4ehmUIrrN4C0z.jpg",
+      "plot_overview": "The true story of mountain climber Aron Ralston's remarkable adventure to save himself after a fallen boulder crashes on his arm and traps him in an isolated canyon in Utah.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "user_rating": 7.091,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-11-12",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 44115
     },
     {
       "id": 44169,
@@ -68,7 +100,7 @@
         "drama",
         "war & politics"
       ],
-      "user_rating": 8.1,
+      "user_rating": 8.101,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2013-03-03",
@@ -152,7 +184,7 @@
         "comedy",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.754,
+      "user_rating": 7.762,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-08-07",
@@ -220,6 +252,32 @@
       ],
       "tmdb_id": 44856,
       "genre": "crime"
+    },
+    {
+      "id": 44874,
+      "title": "Barbie: A Fashion Fairytale",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bFnf8f8DXdCANQ7Y62djgubhh4P.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5R80JAmEMWbdCkylHDL2NIIbpVP.jpg",
+      "plot_overview": "Barbie, a popular actress on a sabbatical, learns that her fashion designer aunt Millicent has sold her business to a rival. With the help of a few magical beings, Barbie steps in to save the day.",
+      "genres": [
+        "Family",
+        "Animation"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2010-09-14",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 44874
     },
     {
       "id": 44931,

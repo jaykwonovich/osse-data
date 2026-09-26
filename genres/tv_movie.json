@@ -1,23 +1,28 @@
 {
   "genre": "tv movie",
-  "updated_at": 1780004424309,
+  "updated_at": 1790380505641,
   "shows": [
     {
-      "id": 593691,
-      "title": "HOMECOMING: A film by Beyonc\u00e9",
+      "id": 537061,
+      "title": "Steven Universe: The Movie",
       "type": "movie",
       "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
-      "genre": "documentary",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8mRgpubxHqnqvENK4Bei30xMDvy.jpg",
+      "genre": "adventure",
       "genres": [
-        "documentary",
-        "music",
-        "tv movie"
+        "adventure",
+        "animation",
+        "drama",
+        "family",
+        "fantasy",
+        "tv movie",
+        "animation",
+        "family"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.1,
-      "release_date": "2019-04-16"
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.204,
+      "release_date": "2019-10-07"
     },
     {
       "id": 21634,
@@ -29,12 +34,94 @@
       "genres": [
         "drama",
         "history",
+        "tv movie",
+        "drama",
+        "history",
         "tv movie"
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 8.05,
+      "user_rating": 8.059,
       "release_date": "2009-01-24"
+    },
+    {
+      "id": 21634,
+      "title": "Prayers for Bobby",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1viFwXluAettogGDsTrSUUg29lZ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "tv movie",
+        "drama",
+        "history",
+        "tv movie"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.059,
+      "release_date": "2009-01-24"
+    },
+    {
+      "id": 593691,
+      "title": "HOMECOMING: A film by Beyonc\u00e9",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "tv movie",
+        "documentary",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.041,
+      "release_date": "2019-04-16"
+    },
+    {
+      "id": 593691,
+      "title": "HOMECOMING: A film by Beyonc\u00e9",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "tv movie",
+        "documentary",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.041,
+      "release_date": "2019-04-16"
+    },
+    {
+      "id": 550776,
+      "title": "Believe Me: The Abduction of Lisa McVey",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qbJEzCzEKDHPZDiRvSSBiYEKaAH.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "tv movie",
+        "crime",
+        "drama"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.03,
+      "release_date": "2018-09-30"
     },
     {
       "id": 20544,
@@ -45,12 +132,52 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "tv movie",
+        "drama",
         "tv movie"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.904,
+      "user_rating": 8.0,
       "release_date": "2004-05-30"
+    },
+    {
+      "id": 20544,
+      "title": "Something the Lord Made",
+      "type": "movie",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lk2wEO6Rt3mnZmfRTu8wvYiGPmp.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "tv movie",
+        "drama",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.0,
+      "release_date": "2004-05-30"
+    },
+    {
+      "id": 1497017,
+      "title": "Adult Swim's The Elephant",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hesk0yJrkojyuZcyZ4KRxMtAQNK.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "drama",
+        "science fiction",
+        "tv movie",
+        "animation",
+        "drama"
+      ],
+      "service_id": 318,
+      "service_name": "Starz",
+      "user_rating": 7.932,
+      "release_date": "2025-12-19"
     },
     {
       "id": 520594,
@@ -61,12 +188,94 @@
       "genre": "comedy",
       "genres": [
         "comedy",
+        "tv movie",
+        "comedy",
         "tv movie"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.901,
+      "user_rating": 7.902,
       "release_date": "2018-05-01"
+    },
+    {
+      "id": 520594,
+      "title": "John Mulaney: Kid Gorgeous at Radio City",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fERO7sktbElVbGS1SGDKzQJWxtn.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "tv movie",
+        "comedy",
+        "tv movie"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.902,
+      "release_date": "2018-05-01"
+    },
+    {
+      "id": 677638,
+      "title": "We Bare Bears: The Movie",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/khtIr0Gxtz52T10RRQZ42o1a5Ry.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "tv movie",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.828,
+      "release_date": "2020-06-30"
+    },
+    {
+      "id": 178682,
+      "title": "The Wizards Return: Alex vs. Alex",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iWL88DymJrzO6hYI1ykUeUohqef.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "family",
+        "fantasy",
+        "tv movie",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.8,
+      "release_date": "2013-06-01"
+    },
+    {
+      "id": 831223,
+      "title": "Gone Mom: The Disappearance of Jennifer Dulos",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mzTNGnLG6LTHmrqrY0IADHDuyOJ.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "mystery",
+        "tv movie",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.763,
+      "release_date": "2021-06-05"
     },
     {
       "id": 367735,
@@ -77,12 +286,55 @@
       "genre": "comedy",
       "genres": [
         "comedy",
+        "documentary",
+        "tv movie",
+        "comedy",
         "tv movie"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.714,
+      "user_rating": 7.711,
       "release_date": "2015-11-13"
+    },
+    {
+      "id": 367735,
+      "title": "John Mulaney: The Comeback Kid",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pzM9t33T2YUA7vaCb2GxaDrlTW1.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "documentary",
+        "tv movie",
+        "comedy",
+        "tv movie"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.711,
+      "release_date": "2015-11-13"
+    },
+    {
+      "id": 13187,
+      "title": "A Charlie Brown Christmas",
+      "type": "movie",
+      "year": 1965,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vtaufTzJBMJAeziQA1eP4BLU24C.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "tv movie",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.694,
+      "release_date": "1965-12-09"
     },
     {
       "id": 12219,
@@ -111,12 +363,39 @@
         "adventure",
         "family",
         "fantasy",
+        "tv movie",
+        "adventure",
+        "family",
+        "fantasy",
         "music",
         "tv movie"
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.671,
+      "user_rating": 7.678,
+      "release_date": "2019-08-02"
+    },
+    {
+      "id": 506574,
+      "title": "Descendants 3",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy",
+        "tv movie",
+        "adventure",
+        "family",
+        "fantasy",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.678,
       "release_date": "2019-08-02"
     },
     {
@@ -128,13 +407,113 @@
       "genre": "crime",
       "genres": [
         "crime",
+        "tv movie",
+        "thriller",
+        "crime",
         "thriller",
         "tv movie"
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.6,
+      "user_rating": 7.578,
       "release_date": "2021-02-27"
+    },
+    {
+      "id": 801335,
+      "title": "Girl in the Basement",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "tv movie",
+        "thriller",
+        "crime",
+        "thriller",
+        "tv movie"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.578,
+      "release_date": "2021-02-27"
+    },
+    {
+      "id": 13353,
+      "title": "It's the Great Pumpkin, Charlie Brown",
+      "type": "movie",
+      "year": 1966,
+      "poster_url": "https://image.tmdb.org/t/p/w342/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "tv movie",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.5,
+      "release_date": "1966-10-27"
+    },
+    {
+      "id": 625128,
+      "title": "Bill Burr: Paper Tiger",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zho1ypBSxia3bHCSeB4Znpzh7nM.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "tv movie",
+        "comedy",
+        "tv movie"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.49,
+      "release_date": "2019-09-10"
+    },
+    {
+      "id": 625128,
+      "title": "Bill Burr: Paper Tiger",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zho1ypBSxia3bHCSeB4Znpzh7nM.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "tv movie",
+        "comedy",
+        "tv movie"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.49,
+      "release_date": "2019-09-10"
+    },
+    {
+      "id": 65218,
+      "title": "Lemonade Mouth",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5Tbbxf38c16kbfezmXkPYS2tYRN.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "music",
+        "tv movie",
+        "comedy",
+        "drama"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.445,
+      "release_date": "2011-04-15"
     },
     {
       "id": 599521,
@@ -146,19 +525,95 @@
       "genres": [
         "fantasy",
         "romance",
+        "tv movie",
+        "fantasy",
+        "romance",
         "tv movie"
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.47,
+      "user_rating": 7.443,
       "release_date": "2020-06-13"
     },
     {
-      "id": 625128,
-      "title": "Bill Burr: Paper Tiger",
+      "id": 599521,
+      "title": "Z-O-M-B-I-E-S 2",
       "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zho1ypBSxia3bHCSeB4Znpzh7nM.jpg",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cOnxoQ3kx4mgmWb7yRi6GBWssOh.jpg",
+      "genre": "fantasy",
+      "genres": [
+        "fantasy",
+        "romance",
+        "tv movie",
+        "fantasy",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.443,
+      "release_date": "2020-06-13"
+    },
+    {
+      "id": 877703,
+      "title": "Teen Wolf: The Movie",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "fantasy",
+        "tv movie"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.4,
+      "release_date": "2023-01-18"
+    },
+    {
+      "id": 50032,
+      "title": "Stuart: A Life Backwards",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vpzjn5QQ9AFNoY6Lr7M8evFXK3l.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "tv movie",
+        "drama",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.386,
+      "release_date": "2007-09-23"
+    },
+    {
+      "id": 50032,
+      "title": "Stuart: A Life Backwards",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vpzjn5QQ9AFNoY6Lr7M8evFXK3l.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "tv movie",
+        "drama",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.386,
+      "release_date": "2007-09-23"
+    },
+    {
+      "id": 1253971,
+      "title": "Cunk on Life",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zZx5a595bYuNxd8TdoRflxATFML.jpg",
       "genre": "comedy",
       "genres": [
         "comedy",
@@ -166,8 +621,8 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.467,
-      "release_date": "2019-09-10"
+      "user_rating": 7.375,
+      "release_date": "2024-12-05"
     },
     {
       "id": 417320,
@@ -180,29 +635,149 @@
         "adventure",
         "family",
         "fantasy",
+        "tv movie",
+        "adventure",
+        "family",
+        "fantasy",
         "music",
         "tv movie"
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.4,
+      "user_rating": 7.374,
       "release_date": "2017-07-21"
     },
     {
-      "id": 50032,
-      "title": "Stuart: A Life Backwards",
+      "id": 417320,
+      "title": "Descendants 2",
       "type": "movie",
-      "year": 2007,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vpzjn5QQ9AFNoY6Lr7M8evFXK3l.jpg",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qoNlGfQmFZ37Gf5fRBaCTLlOZtx.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy",
+        "tv movie",
+        "adventure",
+        "family",
+        "fantasy",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.374,
+      "release_date": "2017-07-21"
+    },
+    {
+      "id": 13479,
+      "title": "A Charlie Brown Thanksgiving",
+      "type": "movie",
+      "year": 1973,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy",
+        "family",
+        "tv movie",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.301,
+      "release_date": "1973-11-20"
+    },
+    {
+      "id": 26736,
+      "title": "Wizards of Waverly Place: The Movie",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vrjLcGBLurVem5lXN8237qz4tyE.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "comedy",
+        "drama",
+        "family",
+        "fantasy",
+        "tv movie",
+        "comedy",
+        "drama",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.3,
+      "release_date": "2009-08-28"
+    },
+    {
+      "id": 12900,
+      "title": "Conspiracy",
+      "type": "movie",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xKocKpTHaKcTuNRLu0rLbZWbLnH.jpg",
       "genre": "drama",
       "genres": [
         "drama",
-        "tv movie"
+        "history",
+        "tv movie",
+        "war",
+        "drama",
+        "history",
+        "tv movie",
+        "war"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.358,
-      "release_date": "2007-09-23"
+      "user_rating": 7.3,
+      "release_date": "2001-05-19"
+    },
+    {
+      "id": 12900,
+      "title": "Conspiracy",
+      "type": "movie",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xKocKpTHaKcTuNRLu0rLbZWbLnH.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "tv movie",
+        "war",
+        "drama",
+        "history",
+        "tv movie",
+        "war"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.3,
+      "release_date": "2001-05-19"
+    },
+    {
+      "id": 809107,
+      "title": "Z-O-M-B-I-E-S 3",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vqzdv4nArhuZxd7il0boKaVxQMF.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "family",
+        "fantasy",
+        "tv movie",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.288,
+      "release_date": "2022-07-09"
     },
     {
       "id": 634544,
@@ -217,44 +792,29 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.283,
+      "user_rating": 7.278,
       "release_date": "2020-11-25"
     },
     {
-      "id": 12900,
-      "title": "Conspiracy",
+      "id": 457840,
+      "title": "Psych: The Movie",
       "type": "movie",
-      "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xKocKpTHaKcTuNRLu0rLbZWbLnH.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "tv movie",
-        "war"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.281,
-      "release_date": "2001-05-19"
-    },
-    {
-      "id": 483980,
-      "title": "Z-O-M-B-I-E-S",
-      "type": "movie",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/82Z6LEnkewH40pv6fa2Ci1CkSnd.jpg",
       "genre": "comedy",
       "genres": [
         "comedy",
-        "fantasy",
-        "romance",
-        "tv movie"
+        "crime",
+        "mystery",
+        "tv movie",
+        "comedy",
+        "crime",
+        "mystery"
       ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.251,
-      "release_date": "2018-02-16"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.242,
+      "release_date": "2017-12-07"
     },
     {
       "id": 13949,
@@ -266,12 +826,91 @@
       "genres": [
         "drama",
         "romance",
+        "tv movie",
+        "drama",
+        "romance",
         "tv movie"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.246,
+      "user_rating": 7.24,
       "release_date": "2007-04-01"
+    },
+    {
+      "id": 13949,
+      "title": "Persuasion",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rDv38jqf3t0n4F9wGkQXBLx7wN9.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "tv movie",
+        "drama",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.24,
+      "release_date": "2007-04-01"
+    },
+    {
+      "id": 360606,
+      "title": "Adventures in Babysitting",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/t12bYhmv7LIcHT4TGGpW6WaMV2W.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "comedy",
+        "family",
+        "tv movie",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.229,
+      "release_date": "2016-06-24"
+    },
+    {
+      "id": 56831,
+      "title": "The Sunset Limited",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8cwqylJVbCfMflcjXQ71CwsXdpf.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "tv movie",
+        "drama",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.224,
+      "release_date": "2011-02-12"
+    },
+    {
+      "id": 56831,
+      "title": "The Sunset Limited",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8cwqylJVbCfMflcjXQ71CwsXdpf.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "tv movie",
+        "drama",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.224,
+      "release_date": "2011-02-12"
     },
     {
       "id": 25318,
@@ -292,20 +931,48 @@
       "release_date": "1987-04-12"
     },
     {
-      "id": 56831,
-      "title": "The Sunset Limited",
+      "id": 483980,
+      "title": "Z-O-M-B-I-E-S",
       "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8cwqylJVbCfMflcjXQ71CwsXdpf.jpg",
-      "genre": "drama",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg",
+      "genre": "comedy",
       "genres": [
-        "drama",
+        "comedy",
+        "fantasy",
+        "romance",
+        "tv movie",
+        "comedy",
+        "fantasy",
+        "romance",
         "tv movie"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
+      "service_id": 337,
+      "service_name": "Disney+",
       "user_rating": 7.2,
-      "release_date": "2011-02-12"
+      "release_date": "2018-02-16"
+    },
+    {
+      "id": 483980,
+      "title": "Z-O-M-B-I-E-S",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "fantasy",
+        "romance",
+        "tv movie",
+        "comedy",
+        "fantasy",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.2,
+      "release_date": "2018-02-16"
     },
     {
       "id": 25405,
@@ -317,11 +984,34 @@
       "genres": [
         "drama",
         "tv movie",
+        "war",
+        "drama",
+        "tv movie",
         "war"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.179,
+      "user_rating": 7.191,
+      "release_date": "2009-09-21"
+    },
+    {
+      "id": 25405,
+      "title": "Taking Chance",
+      "type": "movie",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2gPpwshMJHiaIcbL2K234zPGvK1.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "tv movie",
+        "war",
+        "drama",
+        "tv movie",
+        "war"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.191,
       "release_date": "2009-09-21"
     },
     {
@@ -335,13 +1025,88 @@
         "adventure",
         "family",
         "fantasy",
+        "tv movie",
+        "adventure",
+        "family",
+        "fantasy",
         "music",
         "tv movie"
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.156,
+      "user_rating": 7.182,
       "release_date": "2015-07-31"
+    },
+    {
+      "id": 277217,
+      "title": "Descendants",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy",
+        "tv movie",
+        "adventure",
+        "family",
+        "fantasy",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.182,
+      "release_date": "2015-07-31"
+    },
+    {
+      "id": 392216,
+      "title": "Phineas and Ferb: Star Wars",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tz3dWhlrLb5eZ96iINOyGf1Pvdj.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "science fiction",
+        "tv movie",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.154,
+      "release_date": "2014-07-26"
+    },
+    {
+      "id": 71689,
+      "title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/updMFSOZwEftfkJRpozwBlRlYI2.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "science fiction",
+        "tv movie",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.113,
+      "release_date": "2011-08-05"
     },
     {
       "id": 671583,
@@ -353,11 +1118,34 @@
       "genres": [
         "family",
         "fantasy",
+        "tv movie",
+        "family",
+        "fantasy",
         "tv movie"
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.134,
+      "user_rating": 7.098,
+      "release_date": "2020-07-31"
+    },
+    {
+      "id": 671583,
+      "title": "Upside-Down Magic",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/r2MfnMmFzGvRvjGVLIuyx3R16a6.jpg",
+      "genre": "family",
+      "genres": [
+        "family",
+        "fantasy",
+        "tv movie",
+        "family",
+        "fantasy",
+        "tv movie"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.098,
       "release_date": "2020-07-31"
     },
     {
@@ -370,12 +1158,75 @@
       "genres": [
         "drama",
         "romance",
+        "tv movie",
+        "drama",
+        "romance",
         "tv movie"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.13,
+      "user_rating": 7.076,
       "release_date": "2016-07-24"
+    },
+    {
+      "id": 371738,
+      "title": "Looking: The Movie",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tQdda275rJqNi6Ifrf3ntWBsXDj.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "tv movie",
+        "drama",
+        "romance",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.076,
+      "release_date": "2016-07-24"
+    },
+    {
+      "id": 36950,
+      "title": "You Don't Know Jack",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xl4x8aILt9v91TUOKXHIVDZwkXy.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "tv movie",
+        "drama",
+        "history",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.011,
+      "release_date": "2010-06-27"
+    },
+    {
+      "id": 36950,
+      "title": "You Don't Know Jack",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xl4x8aILt9v91TUOKXHIVDZwkXy.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "tv movie",
+        "drama",
+        "history",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.011,
+      "release_date": "2010-06-27"
     },
     {
       "id": 35558,
@@ -388,29 +1239,38 @@
         "comedy",
         "music",
         "romance",
+        "tv movie",
+        "comedy",
+        "music",
+        "romance",
         "tv movie"
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.041,
+      "user_rating": 7.0,
       "release_date": "2010-02-14"
     },
     {
-      "id": 36950,
-      "title": "You Don't Know Jack",
+      "id": 35558,
+      "title": "Starstruck",
       "type": "movie",
       "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xl4x8aILt9v91TUOKXHIVDZwkXy.jpg",
-      "genre": "drama",
+      "poster_url": "https://image.tmdb.org/t/p/w342/kuyJuNiiZvu5iNr8Dgv5y75v1uc.jpg",
+      "genre": "comedy",
       "genres": [
-        "drama",
-        "history",
+        "comedy",
+        "music",
+        "romance",
+        "tv movie",
+        "comedy",
+        "music",
+        "romance",
         "tv movie"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.018,
-      "release_date": "2010-06-27"
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.0,
+      "release_date": "2010-02-14"
     }
   ]
 }

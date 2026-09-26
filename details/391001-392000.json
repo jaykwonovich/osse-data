@@ -1,27 +1,60 @@
 {
   "range": "391001-392000",
-  "updated_at": 1780002330965,
+  "updated_at": 1790380505737,
   "shows": [
+    {
+      "id": 391713,
+      "title": "Lady Bird",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jwBiY1kE5089i2WpfS1MHDYp3VO.jpg",
+      "plot_overview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "user_rating": 7.249,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-09-01",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 391713
+    },
     {
       "id": 391757,
       "title": "Never Back Down: No Surrender",
       "type": "movie",
       "year": 2016,
       "poster_url": "https://image.tmdb.org/t/p/w342/pHVswTDHAvq9Npi0XCZ0qVMSiM2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/akxAl0yNXK2pJZkJjmbLmtH1DY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1ADN2D5iqC7w1xXo8r0BqTsBifK.jpg",
       "plot_overview": "Picking up after the events of Never Back Down 2, former MMA champion Case Walker is on the comeback trail to become champion once again.",
       "genres": [
-        "Drama"
+        "Drama",
+        "Action"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.057,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-06-07",
       "streaming_services": [
         {
-          "service_id": 207,
-          "service_name": "The Roku Channel",
-          "type": "free",
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
           "region": "US"
         }
       ],

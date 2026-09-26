@@ -1,19 +1,46 @@
 {
   "range": "212001-213000",
-  "updated_at": 1780004424376,
+  "updated_at": 1790380505708,
   "shows": [
+    {
+      "id": 212470,
+      "title": "Monster High: 13 Wishes",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eEZJMmzDNUNKoJw6jfmGVWeqqhJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sTYseHnxMFFxzPjU0nsgouU8VJX.jpg",
+      "plot_overview": "It\u2019s a new school year at Monster High, and the little sister of Clawdeen Wolf, Howleen, is determined to be more fangtastic than ever.  Her dream of popularity turns out to be easier than anyone imagined when she stumbles upon a genie named Gigi Grant who grants her not 3, but 13 Wishes!  But the ghouls quickly learn to be s-careful what you wish for because each wish comes with a dark side, and soon the student disem-body of Monster High is turned upside-down!  Join Frankie Stein, Clawdeen Wol",
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Animation"
+      ],
+      "user_rating": 7.807,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-10-08",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 212470
+    },
     {
       "id": 212778,
       "title": "Chef",
       "type": "movie",
       "year": 2014,
       "poster_url": "https://image.tmdb.org/t/p/w342/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/12rDMkiQFeXrLhlIbJpArL8wOHf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/igVNCpS132rOqrnDsrVYW5HCIsM.jpg",
       "plot_overview": "When Chef Carl Casper suddenly quits his job at a prominent Los Angeles restaurant after refusing to compromise his creative integrity for its controlling owner, he is left to figure out what's next. Finding himself in Miami, he teams up with his ex-wife, his friend and his son to launch a food truck. Taking to the road, Chef Carl goes back to his roots to reignite his passion for the kitchen -- and zest for life and love.",
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.114,
+      "user_rating": 7.113,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2014-05-08",
@@ -23,10 +50,55 @@
           "service_name": "Netflix",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 212778,
       "genre": "comedy"
+    },
+    {
+      "id": 212989,
+      "title": "LEGO Ninjago: Dragons Rising",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4vubgrPvqDKNFP1kNvHpd3do9hd.jpg",
+      "plot_overview": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstable. A Spinjitzu Ninja Master must train a new generation of heroes to help find Elemental Dragons who can save the planet before the forces of evil use the same dragon energy to destroy this new world.",
+      "genres": [
+        "animation",
+        "action & adventure",
+        "kids"
+      ],
+      "user_rating": 8.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2023-06-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 212989
     }
   ]
 }

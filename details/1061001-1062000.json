@@ -1,6 +1,6 @@
 {
   "range": "1061001-1062000",
-  "updated_at": 1780004424434,
+  "updated_at": 1790380505782,
   "shows": [
     {
       "id": 1061474,
@@ -8,14 +8,17 @@
       "type": "movie",
       "year": 2025,
       "poster_url": "https://image.tmdb.org/t/p/w342/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yRBc6WY3r1Fz5Cjd6DhSvzqunED.jpg",
       "plot_overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
       "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction",
         "action",
         "adventure",
         "science fiction"
       ],
-      "user_rating": 7.344,
+      "user_rating": 7.325,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2025-07-09",
@@ -23,6 +26,12 @@
         {
           "service_id": 1899,
           "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -41,7 +50,7 @@
       "genres": [
         "documentary"
       ],
-      "user_rating": 7.014,
+      "user_rating": 7.037,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-01-30",
@@ -65,11 +74,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4FnbeuCnsN3MT6omPrivl2ttJ8o.jpg",
       "plot_overview": "During World War II, the US Army's only all-Black, all-women battalion takes on an impossible mission: sorting through a three-year backlog of 17 million pieces of mail that hadn't been delivered to American soldiers and finish within six months.",
       "genres": [
+        "Drama",
+        "History",
+        "War",
         "drama",
         "history",
         "war"
       ],
-      "user_rating": 7.528,
+      "user_rating": 7.574,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2024-12-06",

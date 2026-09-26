@@ -1,7 +1,45 @@
 {
   "range": "314001-315000",
-  "updated_at": 1780004424391,
+  "updated_at": 1790380505726,
   "shows": [
+    {
+      "id": 314271,
+      "title": "Bass X Machina",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+      "plot_overview": "In a lawless Steampunk West overrun by brutal outlaws, machines, and supernatural terrors, a father is forced to become judge, jury, and executioner\u2014knowing that every act of justice meant to protect his family may ultimately cost him the very people he's fighting to save.",
+      "genres": [
+        "animation",
+        "western",
+        "sci-fi & fantasy"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-11-03",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Studio Mir"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "tmdb_id": 314271,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-11-03",
+      "next_episode": 1,
+      "relevance_score": 75
+    },
     {
       "id": 314748,
       "title": "Inside the CIA: Secrets & Spies",
@@ -53,6 +91,33 @@
       ],
       "tmdb_id": 314922,
       "genre": "documentary"
+    },
+    {
+      "id": 314939,
+      "title": "A Love Other Than Yours",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+      "plot_overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+      "genres": [
+        "drama",
+        "comedy"
+      ],
+      "genre": "drama",
+      "user_rating": 9.0,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2026-09-12",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 314939
     },
     {
       "id": 314990,

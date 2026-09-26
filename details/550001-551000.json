@@ -1,6 +1,6 @@
 {
   "range": "550001-551000",
-  "updated_at": 1780004424411,
+  "updated_at": 1790380505753,
   "shows": [
     {
       "id": 550205,
@@ -11,11 +11,17 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg",
       "plot_overview": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Romance",
         "animation",
         "comedy",
         "family"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.851,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-01-15",
@@ -31,6 +37,32 @@
       "genre": "animation"
     },
     {
+      "id": 550231,
+      "title": "The Secret: Dare to Dream",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5mCqEeBA0MW7H6akFrFQXJu68rU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kN8SMfKfca655F97pqRnWPmFAiZ.jpg",
+      "plot_overview": "A widow with three children hires a handyman to fix her house during a major storm. When not doing home repairs, he shares his philosophy of believing in the power of the universe to deliver what we want.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "user_rating": 7.342,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-04-16",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 550231
+    },
+    {
       "id": 550776,
       "title": "Believe Me: The Abduction of Lisa McVey",
       "type": "movie",
@@ -39,10 +71,13 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gPW90IPq6Go8hlT0n7Es3cFl7ly.jpg",
       "plot_overview": "On the night she plans on taking her own life, 17-year-old 'Lisa McVey' is kidnapped and finds herself fighting to stay alive and is raped. She manages to talk her attacker into releasing her, but when she returns home, no one believes her story except for one detective, who suspects she was abducted by a serial killer. Based on horrifying true events.",
       "genres": [
+        "Crime",
+        "Drama",
+        "TV Movie",
         "crime",
         "drama"
       ],
-      "user_rating": 8.026,
+      "user_rating": 8.03,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-09-30",
@@ -50,6 +85,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
@@ -63,14 +104,17 @@
       "type": "movie",
       "year": 2021,
       "poster_url": "https://image.tmdb.org/t/p/w342/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7py8kUCYaOdFn1TfVS87BDBySOz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rOJb0yQOCny0bPjg8bCLw8DyAD7.jpg",
       "plot_overview": "A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.",
       "genres": [
+        "Adventure",
+        "Comedy",
+        "Science Fiction",
         "adventure",
         "comedy",
         "science fiction"
       ],
-      "user_rating": 7.451,
+      "user_rating": 7.433,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-08-11",

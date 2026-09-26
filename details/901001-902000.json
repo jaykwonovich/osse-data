@@ -1,6 +1,6 @@
 {
   "range": "901001-902000",
-  "updated_at": 1780004424428,
+  "updated_at": 1790380505773,
   "shows": [
     {
       "id": 901362,
@@ -11,11 +11,17 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mDW6z7I6de6JbUgPOkAEZwKbg7G.jpg",
       "plot_overview": "When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
       "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Music",
         "animation",
         "comedy",
         "family"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.243,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-10-12",
@@ -23,6 +29,12 @@
         {
           "service_id": 9,
           "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }

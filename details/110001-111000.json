@@ -1,19 +1,19 @@
 {
   "range": "110001-111000",
-  "updated_at": 1780004424362,
+  "updated_at": 1790380505696,
   "shows": [
     {
       "id": 110381,
       "title": "The Real Housewives of Salt Lake City",
       "type": "tv_series",
       "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1tQ2wVVKoma672CxE2kfl9oxHR8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/52C5LxFmg4z0dSUUbYnLhJij0Jv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/57DhzlJaKkkx2RlbH7Epb8P8YFJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/atyPW8lAPcahHbiaPVE5iPtNHkq.jpg",
       "plot_overview": "Fueled by multi-million-dollar businesses and brands, a hidden social circle of successful women have created their own paradise in the majestic mountains of Utah.",
       "genres": [
         "reality"
       ],
-      "user_rating": 6.22,
+      "user_rating": 6.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-11-11",
@@ -26,7 +26,12 @@
         }
       ],
       "tmdb_id": 110381,
-      "genre": "reality"
+      "genre": "reality",
+      "is_returning": true,
+      "next_season": 7,
+      "next_air_date": "2026-09-30",
+      "next_episode": 3,
+      "relevance_score": 75
     },
     {
       "id": 110382,
@@ -39,7 +44,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.893,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-03-24",
@@ -59,15 +64,16 @@
       "title": "Peacemaker",
       "type": "tv_series",
       "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/eYzbGcYnOUlvj2fa76pTgIXogd7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aJcUU3LMlqMKBi8L3eaxGfAbd4G.jpg",
       "plot_overview": "The continuing story of Peacemaker, a vainglorious superhero/supervillain who believes in peace at any cost \u2014 no matter how many people he has to kill. After a miraculous recovery from his duel with Bloodsport, Peacemaker soon discovers that his freedom comes at a price.",
       "genres": [
         "action & adventure",
+        "comedy",
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.2,
+      "user_rating": 8.182,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2022-01-13",
@@ -147,7 +153,7 @@
       "genres": [
         "animation"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.776,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-02-05",

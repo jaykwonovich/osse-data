@@ -1,6 +1,6 @@
 {
   "range": "475001-476000",
-  "updated_at": 1780004424406,
+  "updated_at": 1790380505748,
   "shows": [
     {
       "id": 475557,
@@ -8,13 +8,16 @@
       "type": "movie",
       "year": 2019,
       "poster_url": "https://image.tmdb.org/t/p/w342/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
       "plot_overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
       "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
         "crime",
         "drama"
       ],
-      "user_rating": 8.125,
+      "user_rating": 8.116,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2019-10-01",
@@ -28,6 +31,32 @@
       ],
       "tmdb_id": 475557,
       "genre": "crime"
+    },
+    {
+      "id": 475888,
+      "title": "Tell It to the Bees",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/Rj6zpHhMU1zFW3v28U4PSRSRgP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/Oeo4ZabmekrqCQyn34SI95692d.jpg",
+      "plot_overview": "Dr. Jean Markham returns to the town she left as a teenager to take over her late father's medical practice. When a school-yard scuffle lands Charlie in her surgery, she invites him to visit the hives in her garden and tell his secrets to the bees, as she once did. The new friendship between the boy and the bee keeper brings his mother Lydia into Jean's world.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "user_rating": 7.492,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2019-05-03",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 475888
     }
   ]
 }

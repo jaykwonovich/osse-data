@@ -1,6 +1,6 @@
 {
   "range": "785001-786000",
-  "updated_at": 1780004424423,
+  "updated_at": 1790380505767,
   "shows": [
     {
       "id": 785539,
@@ -11,10 +11,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/TB88CYene7rzMs32FzFTLs0eU4.jpg",
       "plot_overview": "Aspiring pop star Erica ends up as the entertainment at her ex-fianc\u00e9\u2019s wedding after reluctantly taking a gig at a luxurious island resort while in the wake of a music career meltdown.",
       "genres": [
+        "Comedy",
+        "Romance",
         "comedy",
         "romance"
       ],
-      "user_rating": 7.129,
+      "user_rating": 7.124,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-07-29",
@@ -28,6 +30,32 @@
       ],
       "tmdb_id": 785539,
       "genre": "comedy"
+    },
+    {
+      "id": 785663,
+      "title": "Old Henry",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1uCX0fpYOdvrTIYulFymWOP08HT.jpg",
+      "plot_overview": "A widowed farmer and his son warily take in a mysterious, injured man with a satchel of cash. When a posse of men claiming to be the law come for the money, the farmer must decide who to trust. Defending a siege of his homestead, the farmer reveals a talent for gun-slinging that surprises everyone calling his true identity into question.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "user_rating": 7.281,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2021-10-01",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 785663
     }
   ]
 }

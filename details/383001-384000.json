@@ -1,6 +1,6 @@
 {
   "range": "383001-384000",
-  "updated_at": 1780004424398,
+  "updated_at": 1790380505737,
   "shows": [
     {
       "id": 383498,
@@ -11,11 +11,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
       "plot_overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
       "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
         "action",
         "adventure",
         "comedy"
       ],
-      "user_rating": 7.49,
+      "user_rating": 7.489,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2018-05-15",
@@ -23,6 +26,12 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }

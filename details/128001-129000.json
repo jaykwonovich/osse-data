@@ -1,6 +1,6 @@
 {
   "range": "128001-129000",
-  "updated_at": 1780004424366,
+  "updated_at": 1790380505700,
   "shows": [
     {
       "id": 128024,
@@ -16,7 +16,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.26,
+      "user_rating": 7.255,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-05-05",
@@ -155,7 +155,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.415,
+      "user_rating": 7.424,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2021-09-28",
@@ -228,7 +228,12 @@
         }
       ],
       "tmdb_id": 128904,
-      "genre": "crime"
+      "genre": "crime",
+      "is_returning": true,
+      "next_season": 5,
+      "next_air_date": "2027-02-07",
+      "next_episode": 1,
+      "relevance_score": 75
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "340001-341000",
-  "updated_at": 1780004424395,
+  "updated_at": 1790380505733,
   "shows": [
     {
       "id": 340270,
@@ -11,11 +11,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dwVF2gVQLfdbTLlDf2gteqa93gw.jpg",
       "plot_overview": "The film follows a man with an unwanted gift for healing who meets a teenager with cancer who helps him to find himself.",
       "genres": [
+        "Comedy",
+        "Drama",
+        "Family",
         "comedy",
         "drama",
         "family"
       ],
-      "user_rating": 7.153,
+      "user_rating": 7.146,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2017-02-17",
@@ -29,6 +32,32 @@
       ],
       "tmdb_id": 340270,
       "genre": "comedy"
+    },
+    {
+      "id": 340666,
+      "title": "Nocturnal Animals",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mdLDgQBD0va09npSQX5Zgo2evXM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5d6m8CIBQcHeiwr6R5ou4wxO9Vn.jpg",
+      "plot_overview": "Susan Morrow receives a book manuscript from her ex-husband \u2013 a man she left 20 years earlier \u2013 asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a mathematics professor whose family vacation turns violent.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "user_rating": 7.401,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2016-11-04",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 340666
     }
   ]
 }

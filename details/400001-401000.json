@@ -1,6 +1,6 @@
 {
   "range": "400001-401000",
-  "updated_at": 1780004424399,
+  "updated_at": 1790380505740,
   "shows": [
     {
       "id": 400090,
@@ -38,10 +38,12 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nicDo6SnBxK93ROGAhpKTOAhy2i.jpg",
       "plot_overview": "Combining his trademark wit and self-deprecating humor with original music, Bo Burnham offers up his unique twist on life in this stand-up special about  life, death, sexuality, hypocrisy, mental illness and Pringles cans.",
       "genres": [
+        "Comedy",
+        "Music",
         "comedy",
         "music"
       ],
-      "user_rating": 7.991,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2016-06-03",
@@ -55,6 +57,32 @@
       ],
       "tmdb_id": 400608,
       "genre": "comedy"
+    },
+    {
+      "id": 400617,
+      "title": "Phantom Thread",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sJZd1H4cl2Nxhj0nutVCK5pMczL.jpg",
+      "plot_overview": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2017-12-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 400617
     }
   ]
 }
