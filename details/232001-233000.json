@@ -1,6 +1,6 @@
 {
   "range": "232001-233000",
-  "updated_at": 1790380505712,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 232018,
@@ -27,7 +27,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 232018
+      "tmdb_id": 232018,
+      "networks": [
+        "Canal+"
+      ]
     },
     {
       "id": 232125,
@@ -46,7 +49,7 @@
       ],
       "user_rating": 7.03,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2022-08-10",
       "streaming_services": [
         {
@@ -57,7 +60,10 @@
         }
       ],
       "tmdb_id": 232125,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Disney+"
+      ]
     }
   ]
 }

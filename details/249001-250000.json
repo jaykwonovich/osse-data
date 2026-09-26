@@ -1,6 +1,6 @@
 {
   "range": "249001-250000",
-  "updated_at": 1790380505714,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 249042,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.856,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-03-13",
       "streaming_services": [
         {
@@ -27,7 +27,10 @@
         }
       ],
       "tmdb_id": 249042,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 249522,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 7.442,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2024-12-19",
       "streaming_services": [
         {
@@ -53,7 +56,10 @@
         }
       ],
       "tmdb_id": 249522,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 249565,
@@ -107,7 +113,7 @@
       ],
       "user_rating": 7.013,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2015-07-31",
       "streaming_services": [
         {

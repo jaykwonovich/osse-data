@@ -1,6 +1,6 @@
 {
   "range": "212001-213000",
-  "updated_at": 1790380505708,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 212470,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.807,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "G",
       "release_date": "2013-10-08",
       "streaming_services": [
         {
@@ -42,7 +42,7 @@
       ],
       "user_rating": 7.113,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2014-05-08",
       "streaming_services": [
         {
@@ -76,7 +76,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2023-06-01",
       "streaming_services": [
         {
@@ -98,7 +98,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 212989
+      "tmdb_id": 212989,
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

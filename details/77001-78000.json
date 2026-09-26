@@ -1,6 +1,6 @@
 {
   "range": "77001-78000",
-  "updated_at": 1790380505685,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 77016,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.351,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2012-09-20",
       "streaming_services": [
         {
@@ -44,7 +44,7 @@
       ],
       "user_rating": 8.194,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2018-05-02",
       "streaming_services": [
         {
@@ -55,7 +55,11 @@
         }
       ],
       "tmdb_id": 77169,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix",
+        "YouTube Premium"
+      ]
     },
     {
       "id": 77174,
@@ -73,7 +77,7 @@
       ],
       "user_rating": 7.051,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2012-08-03",
       "streaming_services": [
         {
@@ -99,7 +103,7 @@
       ],
       "user_rating": 7.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2018-09-14",
       "streaming_services": [
         {
@@ -110,7 +114,11 @@
         }
       ],
       "tmdb_id": 77236,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Sky One",
+        "Sky Max"
+      ]
     },
     {
       "id": 77601,
@@ -126,7 +134,7 @@
       ],
       "user_rating": 7.707,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2018-03-16",
       "streaming_services": [
         {
@@ -137,7 +145,10 @@
         }
       ],
       "tmdb_id": 77601,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 77606,
@@ -156,7 +167,7 @@
       ],
       "user_rating": 7.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2018-04-06",
       "streaming_services": [
         {
@@ -167,7 +178,10 @@
         }
       ],
       "tmdb_id": 77606,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 77947,
@@ -195,7 +209,10 @@
         }
       ],
       "tmdb_id": 77947,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "ABC TV"
+      ]
     }
   ]
 }

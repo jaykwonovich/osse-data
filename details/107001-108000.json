@@ -1,6 +1,6 @@
 {
   "range": "107001-108000",
-  "updated_at": 1790380505696,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 107113,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 8.41,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-08-31",
       "streaming_services": [
         {
@@ -39,7 +39,10 @@
       "next_season": 6,
       "next_air_date": "2026-12-08",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 107124,
@@ -55,7 +58,7 @@
       ],
       "user_rating": 8.4,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2020-11-20",
       "streaming_services": [
         {
@@ -66,7 +69,10 @@
         }
       ],
       "tmdb_id": 107124,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 107365,
@@ -81,7 +87,7 @@
       ],
       "user_rating": 7.681,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-02-13",
       "streaming_services": [
         {
@@ -92,7 +98,10 @@
         }
       ],
       "tmdb_id": 107365,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Peacock"
+      ]
     }
   ]
 }

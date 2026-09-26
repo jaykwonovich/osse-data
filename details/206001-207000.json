@@ -1,6 +1,6 @@
 {
   "range": "206001-207000",
-  "updated_at": 1790380505708,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 206246,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.325,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-08-03",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 206246,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 206828,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 6.696,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-03-01",
       "streaming_services": [
         {
@@ -53,7 +56,10 @@
         }
       ],
       "tmdb_id": 206828,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "HBO"
+      ]
     }
   ]
 }

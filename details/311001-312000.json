@@ -1,6 +1,6 @@
 {
   "range": "311001-312000",
-  "updated_at": 1790380505725,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 311022,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-01-14",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 311022,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 311231,
@@ -62,7 +65,10 @@
       "next_season": 1,
       "next_air_date": "2026-09-27",
       "next_episode": 8,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Bravo"
+      ]
     },
     {
       "id": 311731,
@@ -77,7 +83,7 @@
       ],
       "user_rating": 7.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-08-06",
       "streaming_services": [
         {
@@ -87,7 +93,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 311731
+      "tmdb_id": 311731,
+      "networks": [
+        "HBO"
+      ]
     }
   ]
 }

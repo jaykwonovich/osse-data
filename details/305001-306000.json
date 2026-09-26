@@ -1,6 +1,6 @@
 {
   "range": "305001-306000",
-  "updated_at": 1790380505724,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 305357,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 6.333,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-09-24",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 305357
+      "tmdb_id": 305357,
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

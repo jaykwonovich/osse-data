@@ -1,6 +1,6 @@
 {
   "range": "58001-59000",
-  "updated_at": 1790380505678,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 58841,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 8.421,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2014-01-08",
       "streaming_services": [
         {
@@ -38,7 +38,10 @@
       "next_season": 14,
       "next_air_date": "2026-10-07",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 58956,
@@ -55,7 +58,7 @@
       ],
       "user_rating": 7.942,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2012-09-10",
       "streaming_services": [
         {
@@ -72,7 +75,10 @@
         }
       ],
       "tmdb_id": 58956,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "CBBC"
+      ]
     },
     {
       "id": 58957,
@@ -88,7 +94,7 @@
       ],
       "user_rating": 8.242,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2013-02-28",
       "streaming_services": [
         {
@@ -99,7 +105,10 @@
         }
       ],
       "tmdb_id": 58957,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Comedy Central"
+      ]
     },
     {
       "id": 58981,
@@ -117,7 +126,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2013-10-14",
       "streaming_services": [
         {
@@ -128,7 +137,10 @@
         }
       ],
       "tmdb_id": 58981,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Nickelodeon"
+      ]
     }
   ]
 }

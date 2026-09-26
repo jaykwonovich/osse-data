@@ -1,6 +1,6 @@
 {
   "range": "300001-301000",
-  "updated_at": 1790380505723,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 300480,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.9,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-08-07",
       "streaming_services": [
         {
@@ -55,7 +55,7 @@
       ],
       "user_rating": 8.244,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-09-10",
       "streaming_services": [
         {
@@ -65,7 +65,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 300507
+      "tmdb_id": 300507,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 300669,
@@ -85,7 +88,7 @@
       ],
       "user_rating": 7.019,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2016-06-08",
       "streaming_services": [
         {

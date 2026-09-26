@@ -1,6 +1,6 @@
 {
   "range": "109001-110000",
-  "updated_at": 1790380505696,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 109330,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y",
       "release_date": "2020-09-07",
       "streaming_services": [
         {
@@ -33,7 +33,11 @@
         }
       ],
       "tmdb_id": 109330,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Hulu",
+        "Peacock"
+      ]
     },
     {
       "id": 109410,
@@ -48,7 +52,7 @@
       ],
       "user_rating": 7.214,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2013-04-12",
       "streaming_services": [
         {
@@ -78,7 +82,7 @@
       ],
       "user_rating": 7.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2013-11-20",
       "streaming_services": [
         {
@@ -115,7 +119,10 @@
         }
       ],
       "tmdb_id": 109616,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 109930,
@@ -132,7 +139,7 @@
       ],
       "user_rating": 7.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2020-11-18",
       "streaming_services": [
         {
@@ -143,7 +150,10 @@
         }
       ],
       "tmdb_id": 109930,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 109939,
@@ -160,7 +170,7 @@
       ],
       "user_rating": 7.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-03-03",
       "streaming_services": [
         {
@@ -171,7 +181,11 @@
         }
       ],
       "tmdb_id": 109939,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "HBO Max",
+        "Max"
+      ]
     },
     {
       "id": 109958,
@@ -187,7 +201,7 @@
       ],
       "user_rating": 7.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2020-10-09",
       "streaming_services": [
         {
@@ -198,7 +212,10 @@
         }
       ],
       "tmdb_id": 109958,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

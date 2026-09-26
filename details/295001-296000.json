@@ -1,6 +1,6 @@
 {
   "range": "295001-296000",
-  "updated_at": 1790380505722,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 295089,
@@ -26,7 +26,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 295089
+      "tmdb_id": 295089,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 295778,
@@ -41,7 +44,7 @@
       ],
       "user_rating": 7.773,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-02-25",
       "streaming_services": [
         {
@@ -63,7 +66,10 @@
       "next_season": 2,
       "next_air_date": "2026-09-30",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 295780,
@@ -78,7 +84,7 @@
       ],
       "user_rating": 5.46,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-06-26",
       "streaming_services": [
         {

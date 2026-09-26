@@ -1,6 +1,6 @@
 {
   "range": "118001-119000",
-  "updated_at": 1790380505698,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 118043,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-02-17",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 118043,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 118340,
@@ -48,7 +51,7 @@
       ],
       "user_rating": 7.908,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2014-07-30",
       "streaming_services": [
         {
@@ -76,7 +79,7 @@
       ],
       "user_rating": 7.731,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-03-25",
       "streaming_services": [
         {
@@ -87,7 +90,10 @@
         }
       ],
       "tmdb_id": 118956,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 118958,
@@ -103,7 +109,7 @@
       ],
       "user_rating": 7.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-10-07",
       "streaming_services": [
         {
@@ -114,7 +120,10 @@
         }
       ],
       "tmdb_id": 118958,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Peacock"
+      ]
     }
   ]
 }

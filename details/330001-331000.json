@@ -1,6 +1,6 @@
 {
   "range": "330001-331000",
-  "updated_at": 1790380505731,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 330292,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 10.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "NR",
       "release_date": "2026-07-30",
       "streaming_services": [
         {
@@ -26,7 +26,11 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 330292
+      "tmdb_id": 330292,
+      "networks": [
+        "Hulu",
+        "Disney+"
+      ]
     },
     {
       "id": 330430,
@@ -86,7 +90,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 330438
+      "tmdb_id": 330438,
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 330457,
@@ -108,7 +115,7 @@
       ],
       "user_rating": 7.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2019-11-20",
       "streaming_services": [
         {
@@ -139,7 +146,7 @@
       ],
       "user_rating": 7.51,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2016-12-14",
       "streaming_services": [
         {
@@ -207,7 +214,7 @@
       ],
       "user_rating": 7.204,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2016-02-04",
       "streaming_services": [
         {
@@ -249,7 +256,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 330654
+      "tmdb_id": 330654,
+      "networks": [
+        "Freeform"
+      ]
     },
     {
       "id": 330667,
@@ -274,7 +284,8 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 330667
+      "tmdb_id": 330667,
+      "networks": []
     },
     {
       "id": 330968,
@@ -300,7 +311,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 330968
+      "tmdb_id": 330968,
+      "networks": [
+        "Investigation Discovery"
+      ]
     }
   ]
 }

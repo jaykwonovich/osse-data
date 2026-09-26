@@ -1,6 +1,6 @@
 {
   "range": "119001-120000",
-  "updated_at": 1790380505698,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 119051,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 8.329,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2022-11-23",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 119051,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 119450,
@@ -50,7 +53,7 @@
       ],
       "user_rating": 7.343,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2014-07-08",
       "streaming_services": [
         {
@@ -77,7 +80,7 @@
       ],
       "user_rating": 8.306,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-02-06",
       "streaming_services": [
         {
@@ -88,7 +91,10 @@
         }
       ],
       "tmdb_id": 119845,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "STARZ"
+      ]
     },
     {
       "id": 119934,
@@ -105,7 +111,7 @@
       ],
       "user_rating": 7.118,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-03-19",
       "streaming_services": [
         {
@@ -116,7 +122,10 @@
         }
       ],
       "tmdb_id": 119934,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Apple TV"
+      ]
     }
   ]
 }

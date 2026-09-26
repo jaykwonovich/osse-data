@@ -1,6 +1,6 @@
 {
   "range": "194001-195000",
-  "updated_at": 1790380505705,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 194583,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.904,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-06-18",
       "streaming_services": [
         {
@@ -39,7 +39,10 @@
       "next_air_date": "2026-07-26",
       "next_episode": 1,
       "relevance_score": 75,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "AMC"
+      ]
     },
     {
       "id": 194662,
@@ -55,7 +58,7 @@
       ],
       "user_rating": 7.436,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2014-10-17",
       "streaming_services": [
         {
@@ -81,7 +84,7 @@
       ],
       "user_rating": 8.353,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-09-19",
       "streaming_services": [
         {
@@ -92,7 +95,10 @@
         }
       ],
       "tmdb_id": 194764,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 194766,
@@ -107,7 +113,7 @@
       ],
       "user_rating": 8.064,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2022-06-16",
       "streaming_services": [
         {
@@ -118,7 +124,10 @@
         }
       ],
       "tmdb_id": 194766,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Prime Video"
+      ]
     }
   ]
 }

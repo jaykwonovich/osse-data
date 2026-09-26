@@ -1,6 +1,6 @@
 {
   "range": "316001-317000",
-  "updated_at": 1790380505726,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 316029,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.853,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2017-12-20",
       "streaming_services": [
         {
@@ -52,7 +52,10 @@
         }
       ],
       "tmdb_id": 316525,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 316527,
@@ -67,7 +70,7 @@
       ],
       "user_rating": 8.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-04-14",
       "streaming_services": [
         {
@@ -78,7 +81,10 @@
         }
       ],
       "tmdb_id": 316527,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 316536,
@@ -136,7 +142,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 316657
+      "tmdb_id": 316657,
+      "networks": [
+        "Hallmark+"
+      ]
     },
     {
       "id": 316830,
@@ -151,7 +160,7 @@
       ],
       "user_rating": 8.625,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2026-03-01",
       "streaming_services": [
         {
@@ -162,7 +171,11 @@
         }
       ],
       "tmdb_id": 316830,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Prime Video",
+        "Fandango"
+      ]
     },
     {
       "id": 316832,
@@ -180,7 +193,7 @@
       ],
       "user_rating": 8.4,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2026-04-24",
       "streaming_services": [
         {
@@ -191,7 +204,10 @@
         }
       ],
       "tmdb_id": 316832,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Apple TV"
+      ]
     }
   ]
 }

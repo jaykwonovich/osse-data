@@ -1,6 +1,6 @@
 {
   "range": "135001-136000",
-  "updated_at": 1790380505702,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 135204,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 8.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2021-10-20",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 135204,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Bravo"
+      ]
     },
     {
       "id": 135250,
@@ -52,7 +55,10 @@
         }
       ],
       "tmdb_id": 135250,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 135934,
@@ -69,7 +75,7 @@
       ],
       "user_rating": 8.22,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-01-27",
       "streaming_services": [
         {
@@ -85,7 +91,10 @@
       "next_air_date": "2026-06-03",
       "next_episode": 1,
       "relevance_score": 75,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Prime Video"
+      ]
     }
   ]
 }

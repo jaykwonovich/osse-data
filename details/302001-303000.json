@@ -1,6 +1,6 @@
 {
   "range": "302001-303000",
-  "updated_at": 1790380505724,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 302074,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.808,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-03-03",
       "streaming_services": [
         {
@@ -33,7 +33,10 @@
       "next_season": 2,
       "next_air_date": "2026-09-29",
       "next_episode": 3,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 302401,
@@ -51,7 +54,7 @@
       ],
       "user_rating": 7.115,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2016-09-15",
       "streaming_services": [
         {
@@ -81,7 +84,7 @@
       ],
       "user_rating": 7.26,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2015-01-23",
       "streaming_services": [
         {
@@ -113,7 +116,7 @@
       ],
       "user_rating": 9.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2025-10-08",
       "streaming_services": [
         {
@@ -124,7 +127,10 @@
         }
       ],
       "tmdb_id": 302696,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 302919,
@@ -139,7 +145,7 @@
       ],
       "user_rating": 8.739,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-12-12",
       "streaming_services": [
         {
@@ -150,7 +156,10 @@
         }
       ],
       "tmdb_id": 302919,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Disney+"
+      ]
     }
   ]
 }

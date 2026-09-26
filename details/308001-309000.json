@@ -1,6 +1,6 @@
 {
   "range": "308001-309000",
-  "updated_at": 1790380505725,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 308007,
@@ -65,7 +65,10 @@
         }
       ],
       "tmdb_id": 308112,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 308136,
@@ -91,7 +94,10 @@
         }
       ],
       "tmdb_id": 308136,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Hallmark+"
+      ]
     },
     {
       "id": 308402,
@@ -106,7 +112,7 @@
       ],
       "user_rating": 8.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-01-25",
       "streaming_services": [
         {
@@ -117,7 +123,10 @@
         }
       ],
       "tmdb_id": 308402,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Wonder Project"
+      ]
     },
     {
       "id": 308639,
@@ -137,7 +146,7 @@
       ],
       "user_rating": 7.041,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2015-06-19",
       "streaming_services": [
         {
@@ -205,7 +214,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 308963
+      "tmdb_id": 308963,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 308975,
@@ -231,7 +243,10 @@
         }
       ],
       "tmdb_id": 308975,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "National Geographic"
+      ]
     }
   ]
 }

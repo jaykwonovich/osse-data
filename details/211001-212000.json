@@ -1,6 +1,6 @@
 {
   "range": "211001-212000",
-  "updated_at": 1790380505708,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 211178,
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 211178,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 211288,
@@ -44,7 +47,7 @@
       ],
       "user_rating": 7.613,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2024-02-11",
       "streaming_services": [
         {
@@ -60,7 +63,10 @@
       "next_season": 4,
       "next_air_date": "2026-10-04",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "CBS"
+      ]
     },
     {
       "id": 211358,
@@ -76,7 +82,7 @@
       ],
       "user_rating": 7.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-04-17",
       "streaming_services": [
         {
@@ -87,7 +93,10 @@
         }
       ],
       "tmdb_id": 211358,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 211387,
@@ -107,7 +116,7 @@
       ],
       "user_rating": 7.254,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2013-10-04",
       "streaming_services": [
         {
@@ -135,7 +144,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-09-10",
       "streaming_services": [
         {
@@ -146,7 +155,10 @@
         }
       ],
       "tmdb_id": 211684,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "AMC"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "genre": "soap",
-  "updated_at": 1790380505643,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 72002,
@@ -16,7 +16,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.078,
-      "release_date": "2017-10-11"
+      "release_date": "2017-10-11",
+      "us_rating": "TV-14",
+      "networks": [
+        "The CW"
+      ]
     },
     {
       "id": 1948,
@@ -32,7 +36,13 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.565,
-      "release_date": "2001-10-14"
+      "release_date": "2001-10-14",
+      "us_rating": "TV-14",
+      "networks": [
+        "Much ",
+        "CTV",
+        "MTV Canada"
+      ]
     },
     {
       "id": 2327,
@@ -48,7 +58,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.3,
-      "release_date": "1998-01-20"
+      "release_date": "1998-01-20",
+      "us_rating": "TV-14",
+      "networks": [
+        "The WB"
+      ]
     },
     {
       "id": 61733,
@@ -64,7 +78,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.147,
-      "release_date": "2015-01-07"
+      "release_date": "2015-01-07",
+      "us_rating": "TV-14",
+      "networks": [
+        "FOX"
+      ]
     }
   ]
 }

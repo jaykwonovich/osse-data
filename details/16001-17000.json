@@ -1,6 +1,6 @@
 {
   "range": "16001-17000",
-  "updated_at": 1790380505665,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 16052,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.718,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "1997-03-21",
       "streaming_services": [
         {
@@ -42,7 +42,7 @@
       ],
       "user_rating": 7.33,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "1973-12-06",
       "streaming_services": [
         {
@@ -70,7 +70,7 @@
       ],
       "user_rating": 7.361,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2005-09-25",
       "streaming_services": [
         {
@@ -99,7 +99,7 @@
       ],
       "user_rating": 7.495,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "1971-08-04",
       "streaming_services": [
         {
@@ -125,7 +125,7 @@
       ],
       "user_rating": 7.488,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "NR",
       "release_date": "1947-05-26",
       "streaming_services": [
         {
@@ -154,7 +154,7 @@
       ],
       "user_rating": 7.213,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2005-09-26",
       "streaming_services": [
         {
@@ -181,7 +181,7 @@
       ],
       "user_rating": 7.227,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "1992-03-27",
       "streaming_services": [
         {
@@ -211,7 +211,7 @@
       ],
       "user_rating": 7.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2005-10-06",
       "streaming_services": [
         {
@@ -240,7 +240,7 @@
       ],
       "user_rating": 7.276,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "1987-07-24",
       "streaming_services": [
         {
@@ -277,7 +277,7 @@
       ],
       "user_rating": 7.514,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "1980-10-02",
       "streaming_services": [
         {
@@ -308,7 +308,7 @@
       ],
       "user_rating": 8.217,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2009-08-02",
       "streaming_services": [
         {
@@ -340,7 +340,7 @@
       ],
       "user_rating": 8.39,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2009-10-11",
       "streaming_services": [
         {
@@ -351,7 +351,10 @@
         }
       ],
       "tmdb_id": 16946,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 16997,
@@ -368,7 +371,7 @@
       ],
       "user_rating": 7.788,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2010-03-14",
       "streaming_services": [
         {
@@ -379,7 +382,10 @@
         }
       ],
       "tmdb_id": 16997,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "HBO"
+      ]
     }
   ]
 }

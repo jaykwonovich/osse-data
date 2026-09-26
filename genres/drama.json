@@ -1,6 +1,6 @@
 {
   "genre": "drama",
-  "updated_at": 1790380505573,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 336455,
@@ -15,7 +15,9 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 10.0,
-      "release_date": "2026-09-30"
+      "release_date": "2026-09-30",
+      "us_rating": null,
+      "networks": []
     },
     {
       "id": 309369,
@@ -30,7 +32,9 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 10.0,
-      "release_date": "2025-12-19"
+      "release_date": "2025-12-19",
+      "us_rating": null,
+      "networks": []
     },
     {
       "id": 331979,
@@ -47,7 +51,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 10.0,
-      "release_date": "2026-09-24"
+      "release_date": "2026-09-24",
+      "us_rating": null,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 260249,
@@ -62,7 +70,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 9.125,
-      "release_date": "2026-09-11"
+      "release_date": "2026-09-11",
+      "us_rating": "TV-14",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 321958,
@@ -78,7 +90,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 9.0,
-      "release_date": "2026-09-21"
+      "release_date": "2026-09-21",
+      "us_rating": null,
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 308136,
@@ -93,7 +109,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 9.0,
-      "release_date": "2026-03-21"
+      "release_date": "2026-03-21",
+      "us_rating": null,
+      "networks": [
+        "Hallmark+"
+      ]
     },
     {
       "id": 314939,
@@ -109,7 +129,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 9.0,
-      "release_date": "2026-09-12"
+      "release_date": "2026-09-12",
+      "us_rating": "TV-14",
+      "networks": [
+        "KBS2"
+      ]
     },
     {
       "id": 1396,
@@ -125,7 +149,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.952,
-      "release_date": "2008-01-20"
+      "release_date": "2008-01-20",
+      "us_rating": "TV-MA",
+      "networks": [
+        "AMC"
+      ]
     },
     {
       "id": 273240,
@@ -140,7 +168,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.898,
-      "release_date": "2026-05-13"
+      "release_date": "2026-05-13",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 209867,
@@ -158,7 +190,39 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.809,
-      "release_date": "2023-09-29"
+      "release_date": "2023-09-29",
+      "us_rating": "TV-14",
+      "networks": [
+        "Nippon TV",
+        "YTV",
+        "FBS",
+        "Chukyo TV",
+        "RNB",
+        "HTV",
+        "FCT",
+        "STV",
+        "KNB",
+        "YBS",
+        "KTK",
+        "NKT",
+        "RAB",
+        "TVI",
+        "MMT",
+        "ABS",
+        "JRT",
+        "YBC",
+        "UMK TV Miyazaki",
+        "TSB",
+        "TeNY",
+        "RNC",
+        "NIB",
+        "KKT",
+        "Daiichi-TV",
+        "FBC",
+        "RKC",
+        "KYT",
+        "KRY"
+      ]
     },
     {
       "id": 85077,
@@ -175,7 +239,14 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.807,
-      "release_date": "2019-04-21"
+      "release_date": "2019-04-21",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Prime Video",
+        "VidAngel",
+        "Angel",
+        "TheChosen.tv"
+      ]
     },
     {
       "id": 250307,
@@ -190,7 +261,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.735,
-      "release_date": "2025-01-09"
+      "release_date": "2025-01-09",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Max",
+        "HBO Max"
+      ]
     },
     {
       "id": 87108,
@@ -205,7 +281,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.727,
-      "release_date": "2019-05-06"
+      "release_date": "2019-05-06",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 301507,
@@ -220,7 +300,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.724,
-      "release_date": "2025-11-28"
+      "release_date": "2025-11-28",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Crave"
+      ]
     },
     {
       "id": 60059,
@@ -236,7 +320,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.714,
-      "release_date": "2015-02-08"
+      "release_date": "2015-02-08",
+      "us_rating": "TV-MA",
+      "networks": [
+        "AMC"
+      ]
     },
     {
       "id": 1398,
@@ -252,7 +340,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.673,
-      "release_date": "1999-01-10"
+      "release_date": "1999-01-10",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 70785,
@@ -268,7 +360,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.651,
-      "release_date": "2017-03-19"
+      "release_date": "2017-03-19",
+      "us_rating": "TV-G",
+      "networks": [
+        "CBC Television"
+      ]
     },
     {
       "id": 1438,
@@ -284,7 +380,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.639,
-      "release_date": "2002-06-02"
+      "release_date": "2002-06-02",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 95557,
@@ -302,7 +402,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.63,
-      "release_date": "2021-03-25"
+      "release_date": "2021-03-25",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 316830,
@@ -317,7 +421,12 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.625,
-      "release_date": "2026-03-01"
+      "release_date": "2026-03-01",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Prime Video",
+        "Fandango"
+      ]
     },
     {
       "id": 207484,
@@ -332,7 +441,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.606,
-      "release_date": "2025-08-08"
+      "release_date": "2025-08-08",
+      "us_rating": "TV-MA",
+      "networks": [
+        "STARZ"
+      ]
     },
     {
       "id": 4613,
@@ -348,7 +461,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.604,
-      "release_date": "2001-09-09"
+      "release_date": "2001-09-09",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 94954,
@@ -366,7 +483,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.6,
-      "release_date": "2024-01-18"
+      "release_date": "2024-01-18",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 97186,
@@ -382,7 +503,12 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.6,
-      "release_date": "2020-06-17"
+      "release_date": "2020-06-17",
+      "us_rating": "TV-14",
+      "networks": [
+        "Hulu",
+        "Disney+"
+      ]
     },
     {
       "id": 2098,
@@ -400,7 +526,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.6,
-      "release_date": "1992-09-05"
+      "release_date": "1992-09-05",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Fox Kids"
+      ]
     },
     {
       "id": 46896,
@@ -417,7 +547,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.584,
-      "release_date": "2013-10-03"
+      "release_date": "2013-10-03",
+      "us_rating": "TV-14",
+      "networks": [
+        "The CW"
+      ]
     },
     {
       "id": 389,
@@ -432,7 +566,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.571,
-      "release_date": "1957-04-10"
+      "release_date": "1957-04-10",
+      "us_rating": "NR"
     },
     {
       "id": 424,
@@ -449,7 +584,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.569,
-      "release_date": "1993-12-15"
+      "release_date": "1993-12-15",
+      "us_rating": "R"
     },
     {
       "id": 1408,
@@ -464,7 +600,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.562,
-      "release_date": "2004-11-16"
+      "release_date": "2004-11-16",
+      "us_rating": "TV-14",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 124834,
@@ -479,7 +619,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.56,
-      "release_date": "2022-04-22"
+      "release_date": "2022-04-22",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 79744,
@@ -496,7 +640,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.539,
-      "release_date": "2018-10-16"
+      "release_date": "2018-10-16",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 61222,
@@ -513,7 +661,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.529,
-      "release_date": "2014-08-22"
+      "release_date": "2014-08-22",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 19885,
@@ -530,7 +682,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.506,
-      "release_date": "2010-07-25"
+      "release_date": "2010-07-25",
+      "us_rating": "TV-14",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 262388,
@@ -546,7 +702,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.5,
-      "release_date": "2026-05-07"
+      "release_date": "2026-05-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Peacock"
+      ]
     },
     {
       "id": 308402,
@@ -561,7 +721,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.5,
-      "release_date": "2026-01-25"
+      "release_date": "2026-01-25",
+      "us_rating": "TV-14",
+      "networks": [
+        "Wonder Project"
+      ]
     },
     {
       "id": 225180,
@@ -578,7 +742,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.5,
-      "release_date": "2023-11-03"
+      "release_date": "2023-11-03",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 75006,
@@ -595,7 +763,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.5,
-      "release_date": "2019-02-15"
+      "release_date": "2019-02-15",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 60574,
@@ -611,7 +783,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.5,
-      "release_date": "2013-09-12"
+      "release_date": "2013-09-12",
+      "us_rating": "TV-MA",
+      "networks": [
+        "BBC One",
+        "BBC Two"
+      ]
     },
     {
       "id": 89901,
@@ -627,7 +804,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.491,
-      "release_date": "2019-11-01"
+      "release_date": "2019-11-01",
+      "us_rating": "TV-14",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 157336,
@@ -644,7 +825,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.488,
-      "release_date": "2014-11-05"
+      "release_date": "2014-11-05",
+      "us_rating": "PG-13"
     },
     {
       "id": 228878,
@@ -662,7 +844,11 @@
       "service_id": 318,
       "service_name": "Starz",
       "user_rating": 8.473,
-      "release_date": "2025-02-02"
+      "release_date": "2025-02-02",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Adult Swim"
+      ]
     },
     {
       "id": 1399,
@@ -679,7 +865,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.472,
-      "release_date": "2011-04-17"
+      "release_date": "2011-04-17",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 259702,
@@ -694,7 +884,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.47,
-      "release_date": "2026-04-29"
+      "release_date": "2026-04-29",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 204154,
@@ -712,7 +906,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.462,
-      "release_date": "2023-10-19"
+      "release_date": "2023-10-19",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Max"
+      ]
     },
     {
       "id": 769,
@@ -728,7 +926,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.453,
-      "release_date": "1990-09-12"
+      "release_date": "1990-09-12",
+      "us_rating": "R"
     },
     {
       "id": 71712,
@@ -743,7 +942,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.452,
-      "release_date": "2017-09-25"
+      "release_date": "2017-09-25",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 261145,
@@ -761,7 +964,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.447,
-      "release_date": "2023-10-13"
+      "release_date": "2023-10-13",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Netflix",
+        "YouTube"
+      ]
     },
     {
       "id": 87739,
@@ -776,7 +984,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.436,
-      "release_date": "2020-10-23"
+      "release_date": "2020-10-23",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 664280,
@@ -794,7 +1006,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.434,
-      "release_date": "2020-09-28"
+      "release_date": "2020-09-28",
+      "us_rating": "PG"
     },
     {
       "id": 664280,
@@ -812,7 +1025,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.434,
-      "release_date": "2020-09-28"
+      "release_date": "2020-09-28",
+      "us_rating": "PG"
     },
     {
       "id": 224372,
@@ -829,7 +1043,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.426,
-      "release_date": "2026-01-18"
+      "release_date": "2026-01-18",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 258230,
@@ -846,7 +1064,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.421,
-      "release_date": "2026-09-09"
+      "release_date": "2026-09-09",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 58841,
@@ -862,7 +1084,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.421,
-      "release_date": "2014-01-08"
+      "release_date": "2014-01-08",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 246246,
@@ -877,7 +1103,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.42,
-      "release_date": "2024-10-24"
+      "release_date": "2024-10-24",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 126308,
@@ -893,7 +1123,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.415,
-      "release_date": "2024-02-27"
+      "release_date": "2024-02-27",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX",
+        "Hulu"
+      ]
     },
     {
       "id": 1330021,
@@ -911,7 +1146,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.414,
-      "release_date": "2026-05-07"
+      "release_date": "2026-05-07",
+      "us_rating": "PG-13"
     },
     {
       "id": 1330021,
@@ -929,7 +1165,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.414,
-      "release_date": "2026-05-07"
+      "release_date": "2026-05-07",
+      "us_rating": "PG-13"
     },
     {
       "id": 44006,
@@ -944,7 +1181,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.41,
-      "release_date": "2012-10-10"
+      "release_date": "2012-10-10",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 5920,
@@ -961,7 +1202,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.408,
-      "release_date": "2008-09-23"
+      "release_date": "2008-09-23",
+      "us_rating": "TV-14",
+      "networks": [
+        "CBS"
+      ]
     },
     {
       "id": 100088,
@@ -976,7 +1221,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.406,
-      "release_date": "2023-01-15"
+      "release_date": "2023-01-15",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 1409,
@@ -992,7 +1241,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.405,
-      "release_date": "2008-09-03"
+      "release_date": "2008-09-03",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 217460,
@@ -1008,7 +1261,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.4,
-      "release_date": "2023-01-20"
+      "release_date": "2023-01-20",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 770156,
@@ -1026,7 +1283,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.4,
-      "release_date": "2020-10-19"
+      "release_date": "2020-10-19",
+      "us_rating": null
     },
     {
       "id": 770156,
@@ -1044,7 +1302,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.4,
-      "release_date": "2020-10-19"
+      "release_date": "2020-10-19",
+      "us_rating": null
     },
     {
       "id": 94686,
@@ -1060,7 +1319,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.4,
-      "release_date": "2019-10-23"
+      "release_date": "2019-10-23",
+      "us_rating": "TV-14",
+      "networks": [
+        "BET"
+      ]
     },
     {
       "id": 79460,
@@ -1076,7 +1339,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.4,
-      "release_date": "2018-10-25"
+      "release_date": "2018-10-25",
+      "us_rating": "TV-14",
+      "networks": [
+        "The CW"
+      ]
     },
     {
       "id": 63314,
@@ -1092,7 +1359,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.4,
-      "release_date": "2015-08-07"
+      "release_date": "2015-08-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 34524,
@@ -1109,7 +1380,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.4,
-      "release_date": "2011-06-05"
+      "release_date": "2011-06-05",
+      "us_rating": "TV-MA",
+      "networks": [
+        "MTV"
+      ]
     },
     {
       "id": 1891,
@@ -1128,7 +1403,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.4,
-      "release_date": "1980-05-20"
+      "release_date": "1980-05-20",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 69050,
@@ -1145,7 +1424,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.397,
-      "release_date": "2017-01-26"
+      "release_date": "2017-01-26",
+      "us_rating": "TV-14",
+      "networks": [
+        "The CW"
+      ]
     },
     {
       "id": 95396,
@@ -1162,7 +1445,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.396,
-      "release_date": "2022-02-17"
+      "release_date": "2022-02-17",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 71694,
@@ -1178,7 +1465,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.387,
-      "release_date": "2017-07-05"
+      "release_date": "2017-07-05",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 94997,
@@ -1195,7 +1486,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.381,
-      "release_date": "2022-08-21"
+      "release_date": "2022-08-21",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 311,
@@ -1211,7 +1506,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.381,
-      "release_date": "1984-05-23"
+      "release_date": "1984-05-23",
+      "us_rating": "R"
     },
     {
       "id": 423,
@@ -1227,7 +1523,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.371,
-      "release_date": "2002-09-17"
+      "release_date": "2002-09-17",
+      "us_rating": "R"
     },
     {
       "id": 97546,
@@ -1243,7 +1540,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.369,
-      "release_date": "2020-08-14"
+      "release_date": "2020-08-14",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 74016,
@@ -1258,7 +1559,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.363,
-      "release_date": "2018-01-21"
+      "release_date": "2018-01-21",
+      "us_rating": "TV-14",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 194764,
@@ -1274,7 +1579,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.353,
-      "release_date": "2024-09-19"
+      "release_date": "2024-09-19",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 220102,
@@ -1291,7 +1600,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.351,
-      "release_date": "2026-05-25"
+      "release_date": "2026-05-25",
+      "us_rating": "TV-14",
+      "networks": [
+        "MGM+"
+      ]
     },
     {
       "id": 92621,
@@ -1308,7 +1621,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.348,
-      "release_date": "2019-08-22"
+      "release_date": "2019-08-22",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Sky One",
+        "Sky Max"
+      ]
     },
     {
       "id": 4500,
@@ -1325,7 +1643,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.347,
-      "release_date": "1988-01-31"
+      "release_date": "1988-01-31",
+      "us_rating": "TV-PG",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 274,
@@ -1342,7 +1664,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.345,
-      "release_date": "1991-02-14"
+      "release_date": "1991-02-14",
+      "us_rating": "R"
     },
     {
       "id": 1437,
@@ -1359,7 +1682,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.338,
-      "release_date": "2002-09-20"
+      "release_date": "2002-09-20",
+      "us_rating": "TV-14",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 299952,
@@ -1374,7 +1701,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.318,
-      "release_date": "2026-08-26"
+      "release_date": "2026-08-26",
+      "us_rating": "TV-14",
+      "networks": [
+        "Youku"
+      ]
     },
     {
       "id": 1622,
@@ -1391,7 +1722,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.316,
-      "release_date": "2005-09-13"
+      "release_date": "2005-09-13",
+      "us_rating": "TV-14",
+      "networks": [
+        "The WB",
+        "The CW"
+      ]
     },
     {
       "id": 614945,
@@ -1408,7 +1744,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.315,
-      "release_date": "2026-06-20"
+      "release_date": "2026-06-20",
+      "us_rating": "PG-13"
     },
     {
       "id": 83867,
@@ -1425,7 +1762,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.313,
-      "release_date": "2022-09-21"
+      "release_date": "2022-09-21",
+      "us_rating": "TV-14",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 287527,
@@ -1440,7 +1781,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.312,
-      "release_date": "2026-04-08"
+      "release_date": "2026-04-08",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 80350,
@@ -1455,7 +1800,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.311,
-      "release_date": "2018-09-25"
+      "release_date": "2018-09-25",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 119845,
@@ -1471,7 +1820,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.306,
-      "release_date": "2022-02-06"
+      "release_date": "2022-02-06",
+      "us_rating": "TV-MA",
+      "networks": [
+        "STARZ"
+      ]
     },
     {
       "id": 260592,
@@ -1486,7 +1839,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.3,
-      "release_date": "2026-06-10"
+      "release_date": "2026-06-10",
+      "us_rating": null,
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 131142,
@@ -1501,7 +1858,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.3,
-      "release_date": "2026-02-12"
+      "release_date": "2026-02-12",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX",
+        "Hulu"
+      ]
     },
     {
       "id": 222766,
@@ -1518,7 +1880,12 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.3,
-      "release_date": "2024-11-07"
+      "release_date": "2024-11-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Sky Atlantic",
+        "Sky Showcase"
+      ]
     },
     {
       "id": 76331,
@@ -1534,7 +1901,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.3,
-      "release_date": "2018-06-03"
+      "release_date": "2018-06-03",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 67070,
@@ -1550,7 +1921,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.3,
-      "release_date": "2016-07-21"
+      "release_date": "2016-07-21",
+      "us_rating": "TV-MA",
+      "networks": [
+        "BBC Three",
+        "BBC One"
+      ]
     },
     {
       "id": 18165,
@@ -1566,7 +1942,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.3,
-      "release_date": "2009-09-10"
+      "release_date": "2009-09-10",
+      "us_rating": "TV-14",
+      "networks": [
+        "The CW"
+      ]
     },
     {
       "id": 688,
@@ -1581,7 +1961,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.3,
-      "release_date": "1999-09-22"
+      "release_date": "1999-09-22",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 1777,
@@ -1598,7 +1982,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.3,
-      "release_date": "1993-09-24"
+      "release_date": "1993-09-24",
+      "us_rating": "TV-G",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 4057,
@@ -1615,7 +2003,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.295,
-      "release_date": "2005-09-22"
+      "release_date": "2005-09-22",
+      "us_rating": "TV-MA",
+      "networks": [
+        "CBS",
+        "Paramount+"
+      ]
     },
     {
       "id": 42009,
@@ -1632,7 +2025,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.291,
-      "release_date": "2011-12-04"
+      "release_date": "2011-12-04",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Channel 4",
+        "Netflix"
+      ]
     },
     {
       "id": 60622,
@@ -1648,7 +2046,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.287,
-      "release_date": "2014-04-15"
+      "release_date": "2014-04-15",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 46648,
@@ -1664,7 +2066,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.287,
-      "release_date": "2014-01-12"
+      "release_date": "2014-01-12",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 3082,
@@ -1683,7 +2089,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.281,
-      "release_date": "1936-02-05"
+      "release_date": "1936-02-05",
+      "us_rating": "G"
     },
     {
       "id": 3082,
@@ -1702,7 +2109,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.281,
-      "release_date": "1936-02-05"
+      "release_date": "1936-02-05",
+      "us_rating": "G"
     },
     {
       "id": 1585,
@@ -1721,7 +2129,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.278,
-      "release_date": "1946-12-20"
+      "release_date": "1946-12-20",
+      "us_rating": "PG"
     },
     {
       "id": 1585,
@@ -1740,7 +2149,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.278,
-      "release_date": "1946-12-20"
+      "release_date": "1946-12-20",
+      "us_rating": "PG"
     },
     {
       "id": 85552,
@@ -1755,7 +2165,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.275,
-      "release_date": "2019-06-16"
+      "release_date": "2019-06-16",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 73586,
@@ -1771,7 +2185,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.273,
-      "release_date": "2018-06-20"
+      "release_date": "2018-06-20",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Paramount Network"
+      ]
     },
     {
       "id": 1439930,
@@ -1790,7 +2208,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.27,
-      "release_date": "2026-05-12"
+      "release_date": "2026-05-12",
+      "us_rating": "R"
     },
     {
       "id": 1439930,
@@ -1809,7 +2228,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.27,
-      "release_date": "2026-05-12"
+      "release_date": "2026-05-12",
+      "us_rating": "R"
     },
     {
       "id": 39351,
@@ -1826,7 +2246,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.266,
-      "release_date": "2011-10-28"
+      "release_date": "2011-10-28",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 40008,
@@ -1842,7 +2266,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.263,
-      "release_date": "2013-04-04"
+      "release_date": "2013-04-04",
+      "us_rating": "TV-MA",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 95350,
@@ -1859,7 +2287,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.262,
-      "release_date": "2026-08-16"
+      "release_date": "2026-08-16",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 1317149,
@@ -1875,7 +2307,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.262,
-      "release_date": "2025-09-22"
+      "release_date": "2025-09-22",
+      "us_rating": "R"
     },
     {
       "id": 71024,
@@ -1892,7 +2325,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.259,
-      "release_date": "2017-07-07"
+      "release_date": "2017-07-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 81358,
@@ -1908,7 +2345,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.258,
-      "release_date": "2018-09-25"
+      "release_date": "2018-09-25",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 62650,
@@ -1923,7 +2364,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.257,
-      "release_date": "2015-11-17"
+      "release_date": "2015-11-17",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 79084,
@@ -1938,7 +2383,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.256,
-      "release_date": "2018-06-03"
+      "release_date": "2018-06-03",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 63333,
@@ -1955,7 +2404,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.256,
-      "release_date": "2015-10-10"
+      "release_date": "2015-10-10",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix",
+        "BBC Two"
+      ]
     },
     {
       "id": 8587,
@@ -1975,7 +2429,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.251,
-      "release_date": "1994-06-15"
+      "release_date": "1994-06-15",
+      "us_rating": "G"
     },
     {
       "id": 8587,
@@ -1995,7 +2450,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.251,
-      "release_date": "1994-06-15"
+      "release_date": "1994-06-15",
+      "us_rating": "G"
     },
     {
       "id": 226637,
@@ -2012,7 +2468,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.25,
-      "release_date": "2024-09-17"
+      "release_date": "2024-09-17",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 1139087,
@@ -2035,7 +2495,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.25,
-      "release_date": "2023-09-24"
+      "release_date": "2023-09-24",
+      "us_rating": "G"
     },
     {
       "id": 1139087,
@@ -2058,7 +2519,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.25,
-      "release_date": "2023-09-24"
+      "release_date": "2023-09-24",
+      "us_rating": "G"
     },
     {
       "id": 14929,
@@ -2075,7 +2537,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.25,
-      "release_date": "2007-10-14"
+      "release_date": "2007-10-14",
+      "us_rating": "TV-PG",
+      "networks": [
+        "CBC Television"
+      ]
     },
     {
       "id": 300507,
@@ -2090,7 +2556,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.244,
-      "release_date": "2026-09-10"
+      "release_date": "2026-09-10",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 901,
@@ -2109,7 +2579,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.244,
-      "release_date": "1931-02-06"
+      "release_date": "1931-02-06",
+      "us_rating": "G"
     },
     {
       "id": 901,
@@ -2128,7 +2599,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.244,
-      "release_date": "1931-02-06"
+      "release_date": "1931-02-06",
+      "us_rating": "G"
     },
     {
       "id": 100757,
@@ -2145,7 +2617,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.235,
-      "release_date": "2020-04-15"
+      "release_date": "2020-04-15",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 200875,
@@ -2161,7 +2637,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.229,
-      "release_date": "2025-10-26"
+      "release_date": "2025-10-26",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 9702,
@@ -2180,7 +2660,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.228,
-      "release_date": "1993-02-05"
+      "release_date": "1993-02-05",
+      "us_rating": "R"
     },
     {
       "id": 9702,
@@ -2199,7 +2680,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.228,
-      "release_date": "1993-02-05"
+      "release_date": "1993-02-05",
+      "us_rating": "R"
     },
     {
       "id": 67136,
@@ -2214,7 +2696,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.227,
-      "release_date": "2016-09-20"
+      "release_date": "2016-09-20",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 87784,
@@ -2231,7 +2717,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.226,
-      "release_date": "2020-04-24"
+      "release_date": "2020-04-24",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 490132,
@@ -2250,7 +2740,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.225,
-      "release_date": "2018-11-16"
+      "release_date": "2018-11-16",
+      "us_rating": "PG-13"
     },
     {
       "id": 490132,
@@ -2269,7 +2760,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.225,
-      "release_date": "2018-11-16"
+      "release_date": "2018-11-16",
+      "us_rating": "PG-13"
     },
     {
       "id": 43982,
@@ -2286,7 +2778,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.225,
-      "release_date": "2012-06-26"
+      "release_date": "2012-06-26",
+      "us_rating": "TV-MA",
+      "networks": [
+        "BBC One",
+        "BBC Two"
+      ]
     },
     {
       "id": 125988,
@@ -2302,7 +2799,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.222,
-      "release_date": "2023-05-04"
+      "release_date": "2023-05-04",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 37680,
@@ -2317,7 +2818,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.22,
-      "release_date": "2011-06-23"
+      "release_date": "2011-06-23",
+      "us_rating": "TV-14",
+      "networks": [
+        "USA Network"
+      ]
     },
     {
       "id": 16869,
@@ -2337,7 +2842,8 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.217,
-      "release_date": "2009-08-02"
+      "release_date": "2009-08-02",
+      "us_rating": "R"
     },
     {
       "id": 16869,
@@ -2357,7 +2863,8 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.217,
-      "release_date": "2009-08-02"
+      "release_date": "2009-08-02",
+      "us_rating": "R"
     },
     {
       "id": 21510,
@@ -2374,7 +2881,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.215,
-      "release_date": "2009-10-23"
+      "release_date": "2009-10-23",
+      "us_rating": "TV-PG",
+      "networks": [
+        "USA Network"
+      ]
     },
     {
       "id": 97890,
@@ -2390,7 +2901,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.209,
-      "release_date": "2020-09-06"
+      "release_date": "2020-09-06",
+      "us_rating": "TV-MA",
+      "networks": [
+        "STARZ"
+      ]
     },
     {
       "id": 5303,
@@ -2408,7 +2923,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.209,
-      "release_date": "1988-05-15"
+      "release_date": "1988-05-15",
+      "us_rating": "TV-Y7",
+      "networks": [
+        "NBC",
+        "Channel 4"
+      ]
     },
     {
       "id": 1124,
@@ -2424,7 +2944,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.208,
-      "release_date": "2006-10-19"
+      "release_date": "2006-10-19",
+      "us_rating": "PG-13"
     },
     {
       "id": 1457,
@@ -2439,7 +2960,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.208,
-      "release_date": "1995-09-24"
+      "release_date": "1995-09-24",
+      "us_rating": "TV-14",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 1416,
@@ -2454,7 +2979,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.205,
-      "release_date": "2005-03-27"
+      "release_date": "2005-03-27",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 37257,
@@ -2471,7 +3000,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.205,
-      "release_date": "1957-12-17"
+      "release_date": "1957-12-17",
+      "us_rating": "NR"
     },
     {
       "id": 537061,
@@ -2493,7 +3023,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.204,
-      "release_date": "2019-10-07"
+      "release_date": "2019-10-07",
+      "us_rating": "PG"
     },
     {
       "id": 76773,
@@ -2509,7 +3040,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.201,
-      "release_date": "2018-03-22"
+      "release_date": "2018-03-22",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 56570,
@@ -2525,7 +3060,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.201,
-      "release_date": "2014-08-09"
+      "release_date": "2014-08-09",
+      "us_rating": "TV-MA",
+      "networks": [
+        "STARZ"
+      ]
     },
     {
       "id": 278178,
@@ -2542,7 +3081,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.2,
-      "release_date": "2026-06-18"
+      "release_date": "2026-06-18",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 243881,
@@ -2557,7 +3100,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.2,
-      "release_date": "2025-02-27"
+      "release_date": "2025-02-27",
+      "us_rating": "TV-14",
+      "networks": [
+        "Prime Video",
+        "Wonder Project"
+      ]
     },
     {
       "id": 219937,
@@ -2574,7 +3122,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.2,
-      "release_date": "2024-12-15"
+      "release_date": "2024-12-15",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Paramount+ with Showtime"
+      ]
     },
     {
       "id": 995133,
@@ -2595,7 +3147,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.2,
-      "release_date": "2022-12-25"
+      "release_date": "2022-12-25",
+      "us_rating": "G"
     },
     {
       "id": 995133,
@@ -2616,7 +3169,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.2,
-      "release_date": "2022-12-25"
+      "release_date": "2022-12-25",
+      "us_rating": "G"
     },
     {
       "id": 114547,
@@ -2634,7 +3188,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.2,
-      "release_date": "2021-01-15"
+      "release_date": "2021-01-15",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Disney Channel"
+      ]
     },
     {
       "id": 522924,
@@ -2652,7 +3210,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.2,
-      "release_date": "2019-08-08"
+      "release_date": "2019-08-08",
+      "us_rating": "PG"
     },
     {
       "id": 522924,
@@ -2670,7 +3229,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.2,
-      "release_date": "2019-08-08"
+      "release_date": "2019-08-08",
+      "us_rating": "PG"
     },
     {
       "id": 81355,
@@ -2685,7 +3245,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.2,
-      "release_date": "2019-05-31"
+      "release_date": "2019-05-31",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 79242,
@@ -2702,7 +3266,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.2,
-      "release_date": "2018-10-26"
+      "release_date": "2018-10-26",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 75219,
@@ -2719,7 +3287,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.2,
-      "release_date": "2018-01-03"
+      "release_date": "2018-01-03",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC",
+        "FOX"
+      ]
     },
     {
       "id": 69740,
@@ -2735,7 +3308,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.2,
-      "release_date": "2017-07-21"
+      "release_date": "2017-07-21",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 324786,
@@ -2752,7 +3329,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.2,
-      "release_date": "2016-10-07"
+      "release_date": "2016-10-07",
+      "us_rating": "R"
     },
     {
       "id": 11324,
@@ -2768,7 +3346,8 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.2,
-      "release_date": "2010-02-14"
+      "release_date": "2010-02-14",
+      "us_rating": "R"
     },
     {
       "id": 1911,
@@ -2784,7 +3363,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.2,
-      "release_date": "2005-09-13"
+      "release_date": "2005-09-13",
+      "us_rating": "TV-14",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 90,
@@ -2801,7 +3384,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.2,
-      "release_date": "2003-09-03"
+      "release_date": "2003-09-03",
+      "us_rating": "TV-14",
+      "networks": [
+        "Discovery"
+      ]
     },
     {
       "id": 1414,
@@ -2818,7 +3405,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.2,
-      "release_date": "2002-03-12"
+      "release_date": "2002-03-12",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 4604,
@@ -2835,7 +3426,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.2,
-      "release_date": "2001-10-16"
+      "release_date": "2001-10-16",
+      "us_rating": "TV-14",
+      "networks": [
+        "The WB",
+        "The CW"
+      ]
     },
     {
       "id": 2913,
@@ -2852,7 +3448,13 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.2,
-      "release_date": "1992-08-15"
+      "release_date": "1992-08-15",
+      "us_rating": "TV-Y7",
+      "networks": [
+        "Nickelodeon",
+        "YTV",
+        "Family Channel"
+      ]
     },
     {
       "id": 1186532,
@@ -2870,7 +3472,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.196,
-      "release_date": "2024-08-22"
+      "release_date": "2024-08-22",
+      "us_rating": "PG"
     },
     {
       "id": 1186532,
@@ -2888,7 +3491,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.196,
-      "release_date": "2024-08-22"
+      "release_date": "2024-08-22",
+      "us_rating": "PG"
     },
     {
       "id": 790,
@@ -2905,7 +3509,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.195,
-      "release_date": "1989-01-08"
+      "release_date": "1989-01-08",
+      "us_rating": "TV-PG",
+      "networks": [
+        "ITV1"
+      ]
     },
     {
       "id": 77169,
@@ -2922,7 +3530,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.194,
-      "release_date": "2018-05-02"
+      "release_date": "2018-05-02",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix",
+        "YouTube Premium"
+      ]
     },
     {
       "id": 81356,
@@ -2938,7 +3551,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.191,
-      "release_date": "2019-01-11"
+      "release_date": "2019-01-11",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 68718,
@@ -2954,7 +3571,8 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.191,
-      "release_date": "2012-12-25"
+      "release_date": "2012-12-25",
+      "us_rating": "R"
     },
     {
       "id": 115004,
@@ -2971,7 +3589,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.184,
-      "release_date": "2021-04-18"
+      "release_date": "2021-04-18",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 117303,
@@ -2986,7 +3608,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.183,
-      "release_date": "2023-10-12"
+      "release_date": "2023-10-12",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 65494,
@@ -3001,7 +3627,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.183,
-      "release_date": "2016-11-04"
+      "release_date": "2016-11-04",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 110492,
@@ -3019,7 +3649,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.182,
-      "release_date": "2022-01-13"
+      "release_date": "2022-01-13",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO Max",
+        "HBO Max"
+      ]
     },
     {
       "id": 85271,
@@ -3036,7 +3671,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.181,
-      "release_date": "2021-01-15"
+      "release_date": "2021-01-15",
+      "us_rating": "TV-14",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 84958,
@@ -3052,7 +3691,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.176,
-      "release_date": "2021-06-09"
+      "release_date": "2021-06-09",
+      "us_rating": "TV-14",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 61889,
@@ -3069,7 +3712,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.176,
-      "release_date": "2015-04-10"
+      "release_date": "2015-04-10",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 2382,
@@ -3085,7 +3732,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.175,
-      "release_date": "1999-09-25"
+      "release_date": "1999-09-25",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC",
+        "Fox Family"
+      ]
     },
     {
       "id": 185,
@@ -3104,7 +3756,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.169,
-      "release_date": "1971-10-28"
+      "release_date": "1971-10-28",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 283297,
@@ -3120,7 +3776,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.168,
-      "release_date": "2026-08-05"
+      "release_date": "2026-08-05",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 95712,
@@ -3136,7 +3796,9 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.168,
-      "release_date": "1991-12-01"
+      "release_date": "1991-12-01",
+      "us_rating": "TV-PG",
+      "networks": []
     },
     {
       "id": 67178,
@@ -3153,7 +3815,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.166,
-      "release_date": "2017-11-17"
+      "release_date": "2017-11-17",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 202555,
@@ -3170,7 +3836,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.164,
-      "release_date": "2025-03-04"
+      "release_date": "2025-03-04",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 34307,
@@ -3186,7 +3856,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.164,
-      "release_date": "2011-01-09"
+      "release_date": "2011-01-09",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Showtime"
+      ]
     },
     {
       "id": 629,
@@ -3203,7 +3877,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.163,
-      "release_date": "1995-07-19"
+      "release_date": "1995-07-19",
+      "us_rating": "R"
     },
     {
       "id": 1981,
@@ -3221,7 +3896,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.16,
-      "release_date": "1998-10-07"
+      "release_date": "1998-10-07",
+      "us_rating": "TV-14",
+      "networks": [
+        "The WB"
+      ]
     },
     {
       "id": 136315,
@@ -3237,7 +3916,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.158,
-      "release_date": "2022-06-23"
+      "release_date": "2022-06-23",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 361743,
@@ -3253,7 +3936,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.158,
-      "release_date": "2022-05-21"
+      "release_date": "2022-05-21",
+      "us_rating": "PG-13"
     },
     {
       "id": 90870,
@@ -3268,7 +3952,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.158,
-      "release_date": "2019-09-04"
+      "release_date": "2019-09-04",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 111,
@@ -3287,7 +3975,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.152,
-      "release_date": "1983-12-09"
+      "release_date": "1983-12-09",
+      "us_rating": "R"
     },
     {
       "id": 111,
@@ -3306,7 +3995,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.152,
-      "release_date": "1983-12-09"
+      "release_date": "1983-12-09",
+      "us_rating": "R"
     },
     {
       "id": 69478,
@@ -3323,7 +4013,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.151,
-      "release_date": "2017-04-26"
+      "release_date": "2017-04-26",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 900,
@@ -3339,7 +4033,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.139,
-      "release_date": "2007-01-25"
+      "release_date": "2007-01-25",
+      "us_rating": "TV-MA",
+      "networks": [
+        "E4"
+      ]
     },
     {
       "id": 289,
@@ -3357,7 +4055,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.138,
-      "release_date": "1943-01-15"
+      "release_date": "1943-01-15",
+      "us_rating": "PG"
     },
     {
       "id": 289,
@@ -3375,7 +4074,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.138,
-      "release_date": "1943-01-15"
+      "release_date": "1943-01-15",
+      "us_rating": "PG"
     },
     {
       "id": 89905,
@@ -3390,7 +4090,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.136,
-      "release_date": "2020-04-26"
+      "release_date": "2020-04-26",
+      "us_rating": "TV-MA",
+      "networks": [
+        "BBC Three"
+      ]
     },
     {
       "id": 10098,
@@ -3408,7 +4112,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.135,
-      "release_date": "1921-01-21"
+      "release_date": "1921-01-21",
+      "us_rating": "NR"
     },
     {
       "id": 10098,
@@ -3426,7 +4131,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.135,
-      "release_date": "1921-01-21"
+      "release_date": "1921-01-21",
+      "us_rating": "NR"
     },
     {
       "id": 1705,
@@ -3443,7 +4149,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.134,
-      "release_date": "2008-09-09"
+      "release_date": "2008-09-09",
+      "us_rating": "TV-14",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 1395,
@@ -3458,7 +4168,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.132,
-      "release_date": "2007-09-19"
+      "release_date": "2007-09-19",
+      "us_rating": "TV-14",
+      "networks": [
+        "The CW"
+      ]
     },
     {
       "id": 108978,
@@ -3475,7 +4189,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.128,
-      "release_date": "2022-02-03"
+      "release_date": "2022-02-03",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 458220,
@@ -3490,7 +4208,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.121,
-      "release_date": "2021-01-28"
+      "release_date": "2021-01-28",
+      "us_rating": "R"
     },
     {
       "id": 600,
@@ -3506,7 +4225,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.119,
-      "release_date": "1987-06-26"
+      "release_date": "1987-06-26",
+      "us_rating": "R"
     },
     {
       "id": 106379,
@@ -3523,7 +4243,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.117,
-      "release_date": "2024-04-10"
+      "release_date": "2024-04-10",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 475557,
@@ -3542,7 +4266,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.116,
-      "release_date": "2019-10-01"
+      "release_date": "2019-10-01",
+      "us_rating": "R"
     },
     {
       "id": 475557,
@@ -3561,7 +4286,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.116,
-      "release_date": "2019-10-01"
+      "release_date": "2019-10-01",
+      "us_rating": "R"
     },
     {
       "id": 33907,
@@ -3576,7 +4302,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.116,
-      "release_date": "2010-09-26"
+      "release_date": "2010-09-26",
+      "us_rating": "TV-14",
+      "networks": [
+        "ITV1"
+      ]
     },
     {
       "id": 1274,
@@ -3591,7 +4321,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.115,
-      "release_date": "2001-06-03"
+      "release_date": "2001-06-03",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 76148,
@@ -3607,7 +4341,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.114,
-      "release_date": "2018-01-04"
+      "release_date": "2018-01-04",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Channel 4"
+      ]
     },
     {
       "id": 1406,
@@ -3624,7 +4362,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.108,
-      "release_date": "2004-03-21"
+      "release_date": "2004-03-21",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 215874,
@@ -3639,7 +4381,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.104,
-      "release_date": "2022-12-16"
+      "release_date": "2022-12-16",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 3556,
@@ -3655,7 +4401,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.104,
-      "release_date": "1998-04-05"
+      "release_date": "1998-04-05",
+      "us_rating": "TV-PG",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 44217,
@@ -3672,7 +4422,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.101,
-      "release_date": "2013-03-03"
+      "release_date": "2013-03-03",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video",
+        "History"
+      ]
     },
     {
       "id": 202208,
@@ -3689,7 +4444,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.1,
-      "release_date": "2023-11-29"
+      "release_date": "2023-11-29",
+      "us_rating": "TV-14",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 195670,
@@ -3705,7 +4464,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.1,
-      "release_date": "2023-05-18"
+      "release_date": "2023-05-18",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 197428,
@@ -3721,7 +4484,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.1,
-      "release_date": "2022-05-05"
+      "release_date": "2022-05-05",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 124394,
@@ -3737,7 +4504,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.1,
-      "release_date": "2021-07-18"
+      "release_date": "2021-07-18",
+      "us_rating": "TV-MA",
+      "networks": [
+        "STARZ"
+      ]
     },
     {
       "id": 100883,
@@ -3753,7 +4524,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.1,
-      "release_date": "2020-04-27"
+      "release_date": "2020-04-27",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 82428,
@@ -3768,7 +4543,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.1,
-      "release_date": "2018-10-10"
+      "release_date": "2018-10-10",
+      "us_rating": "TV-14",
+      "networks": [
+        "The CW"
+      ]
     },
     {
       "id": 67744,
@@ -3784,7 +4563,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.1,
-      "release_date": "2017-10-13"
+      "release_date": "2017-10-13",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 398818,
@@ -3800,7 +4583,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.1,
-      "release_date": "2017-10-01"
+      "release_date": "2017-10-01",
+      "us_rating": "R"
     },
     {
       "id": 70796,
@@ -3816,7 +4600,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.1,
-      "release_date": "2017-03-16"
+      "release_date": "2017-03-16",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 48865,
@@ -3831,7 +4619,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.1,
-      "release_date": "2013-10-17"
+      "release_date": "2013-10-17",
+      "us_rating": "TV-14",
+      "networks": [
+        "The CW"
+      ]
     },
     {
       "id": 44264,
@@ -3848,7 +4640,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.1,
-      "release_date": "2013-04-14"
+      "release_date": "2013-04-14",
+      "us_rating": "TV-14",
+      "networks": [
+        "ITV1"
+      ]
     },
     {
       "id": 1413,
@@ -3865,7 +4661,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.1,
-      "release_date": "2011-10-05"
+      "release_date": "2011-10-05",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 1104,
@@ -3880,7 +4680,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.1,
-      "release_date": "2007-07-19"
+      "release_date": "2007-07-19",
+      "us_rating": "TV-14",
+      "networks": [
+        "AMC"
+      ]
     },
     {
       "id": 655,
@@ -3895,7 +4699,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.1,
-      "release_date": "1984-07-16"
+      "release_date": "1984-07-16",
+      "us_rating": "R"
     },
     {
       "id": 4464,
@@ -3912,7 +4717,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.098,
-      "release_date": "1993-01-31"
+      "release_date": "1993-01-31",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 13643,
@@ -3927,7 +4736,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.097,
-      "release_date": "2004-11-14"
+      "release_date": "2004-11-14",
+      "us_rating": null,
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 72844,
@@ -3943,7 +4756,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.096,
-      "release_date": "2018-10-12"
+      "release_date": "2018-10-12",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 1411,
@@ -3961,7 +4778,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.096,
-      "release_date": "2011-09-22"
+      "release_date": "2011-09-22",
+      "us_rating": "TV-14",
+      "networks": [
+        "CBS"
+      ]
     },
     {
       "id": 95,
@@ -3978,7 +4799,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.095,
-      "release_date": "1997-03-10"
+      "release_date": "1997-03-10",
+      "us_rating": "TV-14",
+      "networks": [
+        "The WB",
+        "UPN"
+      ]
     },
     {
       "id": 79086,
@@ -3994,7 +4820,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.093,
-      "release_date": "2019-09-29"
+      "release_date": "2019-09-29",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Epix",
+        "MGM+"
+      ]
     },
     {
       "id": 508442,
@@ -4016,7 +4847,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.087,
-      "release_date": "2020-12-25"
+      "release_date": "2020-12-25",
+      "us_rating": "PG"
     },
     {
       "id": 508442,
@@ -4038,7 +4870,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.087,
-      "release_date": "2020-12-25"
+      "release_date": "2020-12-25",
+      "us_rating": "PG"
     },
     {
       "id": 91875,
@@ -4055,7 +4888,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.087,
-      "release_date": "2019-09-23"
+      "release_date": "2019-09-23",
+      "us_rating": "TV-14",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 21720,
@@ -4072,7 +4909,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.087,
-      "release_date": "1990-11-18"
+      "release_date": "1990-11-18",
+      "us_rating": "TV-14",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 63351,
@@ -4088,7 +4929,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.083,
-      "release_date": "2015-08-28"
+      "release_date": "2015-08-28",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 1402,
@@ -4105,7 +4950,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.08,
-      "release_date": "2010-10-31"
+      "release_date": "2010-10-31",
+      "us_rating": "TV-MA",
+      "networks": [
+        "AMC"
+      ]
     },
     {
       "id": 72002,
@@ -4121,7 +4970,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.078,
-      "release_date": "2017-10-11"
+      "release_date": "2017-10-11",
+      "us_rating": "TV-14",
+      "networks": [
+        "The CW"
+      ]
     },
     {
       "id": 80752,
@@ -4138,7 +4991,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.076,
-      "release_date": "2019-11-01"
+      "release_date": "2019-11-01",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 93812,
@@ -4154,7 +5011,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.075,
-      "release_date": "2020-05-15"
+      "release_date": "2020-05-15",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 63639,
@@ -4171,7 +5032,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.072,
-      "release_date": "2015-12-14"
+      "release_date": "2015-12-14",
+      "us_rating": "TV-14",
+      "networks": [
+        "Syfy",
+        "Prime Video"
+      ]
     },
     {
       "id": 155537,
@@ -4187,7 +5053,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.067,
-      "release_date": "2022-07-07"
+      "release_date": "2022-07-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 194766,
@@ -4202,7 +5072,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.064,
-      "release_date": "2022-06-16"
+      "release_date": "2022-06-16",
+      "us_rating": "TV-14",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 1064486,
@@ -4222,7 +5096,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.063,
-      "release_date": "2024-10-17"
+      "release_date": "2024-10-17",
+      "us_rating": "R"
     },
     {
       "id": 1064486,
@@ -4242,7 +5117,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.063,
-      "release_date": "2024-10-17"
+      "release_date": "2024-10-17",
+      "us_rating": "R"
     },
     {
       "id": 86430,
@@ -4258,7 +5134,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.063,
-      "release_date": "2020-12-06"
+      "release_date": "2020-12-06",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Showtime"
+      ]
     },
     {
       "id": 1606,
@@ -4275,7 +5155,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.063,
-      "release_date": "2005-09-23"
+      "release_date": "2005-09-23",
+      "us_rating": "TV-PG",
+      "networks": [
+        "CBS"
+      ]
     },
     {
       "id": 2288,
@@ -4292,7 +5176,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.063,
-      "release_date": "2005-08-29"
+      "release_date": "2005-08-29",
+      "us_rating": "TV-14",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 873,
@@ -4309,7 +5197,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.062,
-      "release_date": "1971-09-15"
+      "release_date": "1971-09-15",
+      "us_rating": "TV-PG",
+      "networks": [
+        "ABC",
+        "NBC"
+      ]
     },
     {
       "id": 21634,
@@ -4329,7 +5222,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.059,
-      "release_date": "2009-01-24"
+      "release_date": "2009-01-24",
+      "us_rating": "PG"
     },
     {
       "id": 21634,
@@ -4349,7 +5243,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.059,
-      "release_date": "2009-01-24"
+      "release_date": "2009-01-24",
+      "us_rating": "PG"
     },
     {
       "id": 15621,
@@ -4364,7 +5259,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.058,
-      "release_date": "2012-06-24"
+      "release_date": "2012-06-24",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 95057,
@@ -4380,7 +5279,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.055,
-      "release_date": "2021-02-23"
+      "release_date": "2021-02-23",
+      "us_rating": "TV-14",
+      "networks": [
+        "The CW"
+      ]
     },
     {
       "id": 71578,
@@ -4396,7 +5299,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.053,
-      "release_date": "2017-08-11"
+      "release_date": "2017-08-11",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 246473,
@@ -4412,7 +5319,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.053,
-      "release_date": "2025-12-24"
+      "release_date": "2025-12-24",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 359940,
@@ -4430,7 +5341,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.052,
-      "release_date": "2017-12-01"
+      "release_date": "2017-12-01",
+      "us_rating": "R"
     },
     {
       "id": 359940,
@@ -4448,7 +5360,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.052,
-      "release_date": "2017-12-01"
+      "release_date": "2017-12-01",
+      "us_rating": "R"
     },
     {
       "id": 270476,
@@ -4465,7 +5378,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.051,
-      "release_date": "2026-04-28"
+      "release_date": "2026-04-28",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 257994,
@@ -4480,7 +5397,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.049,
-      "release_date": "2026-04-28"
+      "release_date": "2026-04-28",
+      "us_rating": "TV-MA",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 91239,
@@ -4495,7 +5416,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.048,
-      "release_date": "2020-12-25"
+      "release_date": "2020-12-25",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 381284,
@@ -4513,7 +5438,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.048,
-      "release_date": "2016-12-10"
+      "release_date": "2016-12-10",
+      "us_rating": "PG"
     },
     {
       "id": 381284,
@@ -4531,7 +5457,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.048,
-      "release_date": "2016-12-10"
+      "release_date": "2016-12-10",
+      "us_rating": "PG"
     },
     {
       "id": 46786,
@@ -4548,7 +5475,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.047,
-      "release_date": "2013-03-18"
+      "release_date": "2013-03-18",
+      "us_rating": "TV-MA",
+      "networks": [
+        "A&E"
+      ]
     },
     {
       "id": 522518,
@@ -4565,7 +5496,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.045,
-      "release_date": "2019-05-03"
+      "release_date": "2019-05-03",
+      "us_rating": "PG"
     },
     {
       "id": 3322,
@@ -4581,7 +5513,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.045,
-      "release_date": "1997-07-12"
+      "release_date": "1997-07-12",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 762975,
@@ -4599,7 +5535,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.044,
-      "release_date": "2022-07-29"
+      "release_date": "2022-07-29",
+      "us_rating": "PG-13"
     },
     {
       "id": 762975,
@@ -4617,7 +5554,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.044,
-      "release_date": "2022-07-29"
+      "release_date": "2022-07-29",
+      "us_rating": "PG-13"
     },
     {
       "id": 89393,
@@ -4634,7 +5572,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.038,
-      "release_date": "2020-01-19"
+      "release_date": "2020-01-19",
+      "us_rating": "TV-14",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 71789,
@@ -4651,7 +5593,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.037,
-      "release_date": "2017-09-27"
+      "release_date": "2017-09-27",
+      "us_rating": "TV-14",
+      "networks": [
+        "CBS",
+        "Paramount+"
+      ]
     },
     {
       "id": 334543,
@@ -4666,7 +5613,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.037,
-      "release_date": "2016-11-24"
+      "release_date": "2016-11-24",
+      "us_rating": "PG-13"
     },
     {
       "id": 70540,
@@ -4683,7 +5631,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.032,
-      "release_date": "2017-04-07"
+      "release_date": "2017-04-07",
+      "us_rating": "TV-G",
+      "networks": [
+        "Disney Channel"
+      ]
     },
     {
       "id": 550776,
@@ -4702,7 +5654,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.03,
-      "release_date": "2018-09-30"
+      "release_date": "2018-09-30",
+      "us_rating": "PG-13"
     },
     {
       "id": 550776,
@@ -4721,7 +5674,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.03,
-      "release_date": "2018-09-30"
+      "release_date": "2018-09-30",
+      "us_rating": "PG-13"
     },
     {
       "id": 74577,
@@ -4738,7 +5692,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.03,
-      "release_date": "2017-10-24"
+      "release_date": "2017-10-24",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Channel 4",
+        "Channel 4 (Online)"
+      ]
     },
     {
       "id": 2290,
@@ -4755,7 +5714,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.03,
-      "release_date": "2004-07-15"
+      "release_date": "2004-07-15",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Syfy"
+      ]
     },
     {
       "id": 71915,
@@ -4772,7 +5735,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.029,
-      "release_date": "2019-05-31"
+      "release_date": "2019-05-31",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 71790,
@@ -4789,7 +5756,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.029,
-      "release_date": "2017-11-02"
+      "release_date": "2017-11-02",
+      "us_rating": "TV-14",
+      "networks": [
+        "CBS"
+      ]
     },
     {
       "id": 106646,
@@ -4806,7 +5777,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.027,
-      "release_date": "2013-12-25"
+      "release_date": "2013-12-25",
+      "us_rating": "R"
     },
     {
       "id": 95480,
@@ -4824,7 +5796,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 8.026,
-      "release_date": "2022-04-01"
+      "release_date": "2022-04-01",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 872585,
@@ -4840,7 +5816,8 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.023,
-      "release_date": "2023-07-19"
+      "release_date": "2023-07-19",
+      "us_rating": "R"
     },
     {
       "id": 1621,
@@ -4856,7 +5833,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.022,
-      "release_date": "2010-09-19"
+      "release_date": "2010-09-19",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 46296,
@@ -4871,7 +5852,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.022,
-      "release_date": "2010-01-22"
+      "release_date": "2010-01-22",
+      "us_rating": "TV-MA",
+      "networks": [
+        "STARZ"
+      ]
     },
     {
       "id": 110695,
@@ -4887,7 +5872,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.019,
-      "release_date": "2021-10-13"
+      "release_date": "2021-10-13",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 273207,
@@ -4904,7 +5893,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.015,
-      "release_date": "2026-09-16"
+      "release_date": "2026-09-16",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 65495,
@@ -4920,7 +5913,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.015,
-      "release_date": "2016-09-06"
+      "release_date": "2016-09-06",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 38974,
@@ -4938,7 +5935,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.015,
-      "release_date": "2011-09-30"
+      "release_date": "2011-09-30",
+      "us_rating": "TV-G",
+      "networks": [
+        "Disney Channel"
+      ]
     },
     {
       "id": 279471,
@@ -4954,7 +5955,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.008,
-      "release_date": "2026-04-10"
+      "release_date": "2026-04-10",
+      "us_rating": "TV-14",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 359724,
@@ -4971,7 +5976,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.007,
-      "release_date": "2019-11-13"
+      "release_date": "2019-11-13",
+      "us_rating": "PG-13"
     },
     {
       "id": 641,
@@ -4989,7 +5995,8 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.005,
-      "release_date": "2000-10-06"
+      "release_date": "2000-10-06",
+      "us_rating": "R"
     },
     {
       "id": 641,
@@ -5007,7 +6014,8 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.005,
-      "release_date": "2000-10-06"
+      "release_date": "2000-10-06",
+      "us_rating": "R"
     },
     {
       "id": 78191,
@@ -5024,7 +6032,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.004,
-      "release_date": "2018-09-09"
+      "release_date": "2018-09-09",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Lifetime",
+        "Netflix"
+      ]
     },
     {
       "id": 1425,
@@ -5039,7 +6052,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.003,
-      "release_date": "2013-02-01"
+      "release_date": "2013-02-01",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 90260,
@@ -5056,7 +6073,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.001,
-      "release_date": "2020-02-26"
+      "release_date": "2020-02-26",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 285418,
@@ -5072,7 +6093,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.0,
-      "release_date": "2026-09-21"
+      "release_date": "2026-09-21",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO Max"
+      ]
     },
     {
       "id": 317265,
@@ -5087,7 +6112,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.0,
-      "release_date": "2026-04-01"
+      "release_date": "2026-04-01",
+      "us_rating": null,
+      "networks": [
+        "Discovery"
+      ]
     },
     {
       "id": 225647,
@@ -5104,7 +6133,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.0,
-      "release_date": "2025-10-09"
+      "release_date": "2025-10-09",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 114500,
@@ -5122,7 +6155,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.0,
-      "release_date": "2025-02-19"
+      "release_date": "2025-02-19",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 222405,
@@ -5138,7 +6175,12 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 8.0,
-      "release_date": "2024-05-02"
+      "release_date": "2024-05-02",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Sky Atlantic",
+        "Sky Showcase"
+      ]
     },
     {
       "id": 211684,
@@ -5155,7 +6197,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.0,
-      "release_date": "2023-09-10"
+      "release_date": "2023-09-10",
+      "us_rating": "TV-MA",
+      "networks": [
+        "AMC"
+      ]
     },
     {
       "id": 196454,
@@ -5170,7 +6216,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.0,
-      "release_date": "2023-05-04"
+      "release_date": "2023-05-04",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 202297,
@@ -5186,7 +6236,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.0,
-      "release_date": "2022-10-07"
+      "release_date": "2022-10-07",
+      "us_rating": "TV-14",
+      "networks": [
+        "CBS"
+      ]
     },
     {
       "id": 111141,
@@ -5201,7 +6255,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.0,
-      "release_date": "2021-09-30"
+      "release_date": "2021-09-30",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 823754,
@@ -5217,7 +6275,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.0,
-      "release_date": "2021-07-22"
+      "release_date": "2021-07-22",
+      "us_rating": "R"
     },
     {
       "id": 117581,
@@ -5233,7 +6292,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.0,
-      "release_date": "2021-02-24"
+      "release_date": "2021-02-24",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 526702,
@@ -5248,7 +6311,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.0,
-      "release_date": "2020-11-27"
+      "release_date": "2020-11-27",
+      "us_rating": "PG"
     },
     {
       "id": 93544,
@@ -5265,7 +6329,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.0,
-      "release_date": "2019-09-13"
+      "release_date": "2019-09-13",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 73544,
@@ -5283,7 +6351,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.0,
-      "release_date": "2019-04-05"
+      "release_date": "2019-04-05",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Cinemax",
+        "Max"
+      ]
     },
     {
       "id": 424694,
@@ -5299,7 +6372,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.0,
-      "release_date": "2018-10-24"
+      "release_date": "2018-10-24",
+      "us_rating": "PG-13"
     },
     {
       "id": 71728,
@@ -5316,7 +6390,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.0,
-      "release_date": "2017-09-25"
+      "release_date": "2017-09-25",
+      "us_rating": "TV-PG",
+      "networks": [
+        "CBS"
+      ]
     },
     {
       "id": 59375,
@@ -5333,7 +6411,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 8.0,
-      "release_date": "2013-07-19"
+      "release_date": "2013-07-19",
+      "us_rating": "TV-G",
+      "networks": [
+        "Disney Channel"
+      ]
     },
     {
       "id": 44856,
@@ -5349,7 +6431,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.0,
-      "release_date": "2013-05-01"
+      "release_date": "2013-05-01",
+      "us_rating": "TV-MA",
+      "networks": [
+        "showcase",
+        "FOX Showcase"
+      ]
     },
     {
       "id": 31917,
@@ -5365,7 +6452,12 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.0,
-      "release_date": "2010-06-08"
+      "release_date": "2010-06-08",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC Family",
+        "Freeform"
+      ]
     },
     {
       "id": 4278,
@@ -5380,7 +6472,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 8.0,
-      "release_date": "2006-10-03"
+      "release_date": "2006-10-03",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC",
+        "The 101"
+      ]
     },
     {
       "id": 20544,
@@ -5398,7 +6495,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.0,
-      "release_date": "2004-05-30"
+      "release_date": "2004-05-30",
+      "us_rating": "PG"
     },
     {
       "id": 20544,
@@ -5416,7 +6514,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 8.0,
-      "release_date": "2004-05-30"
+      "release_date": "2004-05-30",
+      "us_rating": "PG"
     },
     {
       "id": 2734,
@@ -5433,7 +6532,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 8.0,
-      "release_date": "1999-09-20"
+      "release_date": "1999-09-20",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 524,
@@ -5449,7 +6552,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.997,
-      "release_date": "1995-11-22"
+      "release_date": "1995-11-22",
+      "us_rating": "R"
     },
     {
       "id": 555604,
@@ -5469,7 +6573,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.996,
-      "release_date": "2022-11-09"
+      "release_date": "2022-11-09",
+      "us_rating": "PG"
     },
     {
       "id": 555604,
@@ -5489,7 +6594,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.996,
-      "release_date": "2022-11-09"
+      "release_date": "2022-11-09",
+      "us_rating": "PG"
     },
     {
       "id": 95555,
@@ -5504,7 +6610,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.995,
-      "release_date": "2023-03-02"
+      "release_date": "2023-03-02",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 515001,
@@ -5520,7 +6630,8 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.986,
-      "release_date": "2019-10-18"
+      "release_date": "2019-10-18",
+      "us_rating": "PG-13"
     },
     {
       "id": 76231,
@@ -5536,7 +6647,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.986,
-      "release_date": "2018-09-04"
+      "release_date": "2018-09-04",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 264644,
@@ -5552,7 +6667,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.986,
-      "release_date": "2015-10-16"
+      "release_date": "2015-10-16",
+      "us_rating": "R"
     },
     {
       "id": 530915,
@@ -5572,7 +6688,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.983,
-      "release_date": "2019-12-25"
+      "release_date": "2019-12-25",
+      "us_rating": "R"
     },
     {
       "id": 530915,
@@ -5592,7 +6709,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.983,
-      "release_date": "2019-12-25"
+      "release_date": "2019-12-25",
+      "us_rating": "R"
     },
     {
       "id": 66276,
@@ -5609,7 +6727,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.981,
-      "release_date": "2016-07-10"
+      "release_date": "2016-07-10",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 339877,
@@ -5626,7 +6748,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.98,
-      "release_date": "2017-06-22"
+      "release_date": "2017-06-22",
+      "us_rating": "PG-13"
     },
     {
       "id": 245318,
@@ -5642,7 +6765,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.979,
-      "release_date": "2026-04-14"
+      "release_date": "2026-04-14",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 41727,
@@ -5658,7 +6785,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.974,
-      "release_date": "2013-01-11"
+      "release_date": "2013-01-11",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Cinemax"
+      ]
     },
     {
       "id": 19542,
@@ -5676,7 +6807,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.974,
-      "release_date": "1948-09-06"
+      "release_date": "1948-09-06",
+      "us_rating": "NR"
     },
     {
       "id": 19542,
@@ -5694,7 +6826,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.974,
-      "release_date": "1948-09-06"
+      "release_date": "1948-09-06",
+      "us_rating": "NR"
     },
     {
       "id": 1436,
@@ -5710,7 +6843,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.972,
-      "release_date": "2010-03-16"
+      "release_date": "2010-03-16",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 668,
@@ -5729,7 +6866,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.969,
-      "release_date": "2000-11-04"
+      "release_date": "2000-11-04",
+      "us_rating": "TV-Y7",
+      "networks": [
+        "The WB"
+      ]
     },
     {
       "id": 68780,
@@ -5744,7 +6885,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.968,
-      "release_date": "2016-12-14"
+      "release_date": "2016-12-14",
+      "us_rating": "TV-14",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 626332,
@@ -5762,7 +6907,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.966,
-      "release_date": "2023-03-11"
+      "release_date": "2023-03-11",
+      "us_rating": "PG-13"
     },
     {
       "id": 626332,
@@ -5780,7 +6926,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.966,
-      "release_date": "2023-03-11"
+      "release_date": "2023-03-11",
+      "us_rating": "PG-13"
     },
     {
       "id": 337404,
@@ -5800,7 +6947,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.965,
-      "release_date": "2021-05-26"
+      "release_date": "2021-05-26",
+      "us_rating": "PG-13"
     },
     {
       "id": 292,
@@ -5817,7 +6965,11 @@
       "service_id": 318,
       "service_name": "Starz",
       "user_rating": 7.963,
-      "release_date": "2005-12-12"
+      "release_date": "2005-12-12",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Adult Swim"
+      ]
     },
     {
       "id": 1781,
@@ -5834,7 +6986,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.963,
-      "release_date": "1974-09-11"
+      "release_date": "1974-09-11",
+      "us_rating": "TV-PG",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 4607,
@@ -5851,7 +7007,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.962,
-      "release_date": "2004-09-22"
+      "release_date": "2004-09-22",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 680058,
@@ -5869,7 +7029,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.961,
-      "release_date": "2021-10-08"
+      "release_date": "2021-10-08",
+      "us_rating": "PG"
     },
     {
       "id": 680058,
@@ -5887,7 +7048,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.961,
-      "release_date": "2021-10-08"
+      "release_date": "2021-10-08",
+      "us_rating": "PG"
     },
     {
       "id": 11778,
@@ -5903,7 +7065,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.961,
-      "release_date": "1978-12-08"
+      "release_date": "1978-12-08",
+      "us_rating": "R"
     },
     {
       "id": 962,
@@ -5922,7 +7085,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.961,
-      "release_date": "1925-07-13"
+      "release_date": "1925-07-13",
+      "us_rating": "NR"
     },
     {
       "id": 962,
@@ -5941,7 +7105,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.961,
-      "release_date": "1925-07-13"
+      "release_date": "1925-07-13",
+      "us_rating": "NR"
     },
     {
       "id": 85801,
@@ -5958,7 +7123,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.96,
-      "release_date": "2019-11-12"
+      "release_date": "2019-11-12",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 449176,
@@ -5977,7 +7146,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.96,
-      "release_date": "2018-02-16"
+      "release_date": "2018-02-16",
+      "us_rating": "PG-13"
     },
     {
       "id": 449176,
@@ -5996,7 +7166,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.96,
-      "release_date": "2018-02-16"
+      "release_date": "2018-02-16",
+      "us_rating": "PG-13"
     },
     {
       "id": 120911,
@@ -6012,7 +7183,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.959,
-      "release_date": "2022-06-30"
+      "release_date": "2022-06-30",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 1419,
@@ -6028,7 +7203,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.959,
-      "release_date": "2009-03-09"
+      "release_date": "2009-03-09",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 97175,
@@ -6044,7 +7223,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.957,
-      "release_date": "2021-01-22"
+      "release_date": "2021-01-22",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 113988,
@@ -6060,7 +7243,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.955,
-      "release_date": "2022-09-21"
+      "release_date": "2022-09-21",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 745,
@@ -6077,7 +7264,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.955,
-      "release_date": "1999-08-06"
+      "release_date": "1999-08-06",
+      "us_rating": "PG-13"
     },
     {
       "id": 678512,
@@ -6095,7 +7283,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.95,
-      "release_date": "2023-07-03"
+      "release_date": "2023-07-03",
+      "us_rating": "PG-13"
     },
     {
       "id": 678512,
@@ -6113,7 +7302,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.95,
-      "release_date": "2023-07-03"
+      "release_date": "2023-07-03",
+      "us_rating": "PG-13"
     },
     {
       "id": 5371,
@@ -6130,7 +7320,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.945,
-      "release_date": "2007-09-08"
+      "release_date": "2007-09-08",
+      "us_rating": "TV-G",
+      "networks": [
+        "Nickelodeon"
+      ]
     },
     {
       "id": 58956,
@@ -6147,7 +7341,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.942,
-      "release_date": "2012-09-10"
+      "release_date": "2012-09-10",
+      "us_rating": "TV-PG",
+      "networks": [
+        "CBBC"
+      ]
     },
     {
       "id": 94028,
@@ -6162,7 +7360,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.941,
-      "release_date": "2024-04-04"
+      "release_date": "2024-04-04",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 918,
@@ -6179,7 +7381,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.94,
-      "release_date": "1972-09-17"
+      "release_date": "1972-09-17",
+      "us_rating": "TV-PG",
+      "networks": [
+        "CBS"
+      ]
     },
     {
       "id": 116174,
@@ -6195,7 +7401,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.936,
-      "release_date": "2021-01-22"
+      "release_date": "2021-01-22",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Channel 4"
+      ]
     },
     {
       "id": 60616,
@@ -6211,7 +7421,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.936,
-      "release_date": "2013-01-14"
+      "release_date": "2013-01-14",
+      "us_rating": null,
+      "networks": [
+        "E4"
+      ]
     },
     {
       "id": 41692,
@@ -6227,7 +7441,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.936,
-      "release_date": "1989-02-05"
+      "release_date": "1989-02-05",
+      "us_rating": "TV-14",
+      "networks": [
+        "CBS"
+      ]
     },
     {
       "id": 1695,
@@ -6245,7 +7463,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.935,
-      "release_date": "2002-07-12"
+      "release_date": "2002-07-12",
+      "us_rating": "TV-14",
+      "networks": [
+        "USA Network"
+      ]
     },
     {
       "id": 949,
@@ -6261,7 +7483,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.934,
-      "release_date": "1995-12-15"
+      "release_date": "1995-12-15",
+      "us_rating": "R"
     },
     {
       "id": 1497017,
@@ -6281,7 +7504,8 @@
       "service_id": 318,
       "service_name": "Starz",
       "user_rating": 7.932,
-      "release_date": "2025-12-19"
+      "release_date": "2025-12-19",
+      "us_rating": "R"
     },
     {
       "id": 1497017,
@@ -6301,7 +7525,8 @@
       "service_id": 318,
       "service_name": "Starz",
       "user_rating": 7.932,
-      "release_date": "2025-12-19"
+      "release_date": "2025-12-19",
+      "us_rating": "R"
     },
     {
       "id": 157160,
@@ -6317,7 +7542,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.932,
-      "release_date": "2023-05-01"
+      "release_date": "2023-05-01",
+      "us_rating": "TV-14",
+      "networks": [
+        "National Geographic"
+      ]
     },
     {
       "id": 87689,
@@ -6334,7 +7563,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.931,
-      "release_date": "2020-07-02"
+      "release_date": "2020-07-02",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 225171,
@@ -6350,7 +7583,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.93,
-      "release_date": "2025-11-06"
+      "release_date": "2025-11-06",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 574074,
@@ -6370,7 +7607,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.927,
-      "release_date": "2019-01-18"
+      "release_date": "2019-01-18",
+      "us_rating": "PG"
     },
     {
       "id": 574074,
@@ -6390,7 +7628,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.927,
-      "release_date": "2019-01-18"
+      "release_date": "2019-01-18",
+      "us_rating": "PG"
     },
     {
       "id": 5925,
@@ -6407,7 +7646,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.924,
-      "release_date": "1963-07-03"
+      "release_date": "1963-07-03",
+      "us_rating": "NR"
     },
     {
       "id": 95215,
@@ -6423,7 +7663,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.923,
-      "release_date": "2021-08-09"
+      "release_date": "2021-08-09",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 60585,
@@ -6440,7 +7684,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.923,
-      "release_date": "2015-01-14"
+      "release_date": "2015-01-14",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 91275,
@@ -6456,7 +7704,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.922,
-      "release_date": "2019-09-13"
+      "release_date": "2019-09-13",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 131927,
@@ -6472,7 +7724,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.921,
-      "release_date": "2021-11-07"
+      "release_date": "2021-11-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Showtime"
+      ]
     },
     {
       "id": 1427,
@@ -6489,7 +7745,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.916,
-      "release_date": "2013-03-04"
+      "release_date": "2013-03-04",
+      "us_rating": "TV-MA",
+      "networks": [
+        "ITV1"
+      ]
     },
     {
       "id": 4598,
@@ -6505,7 +7765,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.916,
-      "release_date": "2004-10-03"
+      "release_date": "2004-10-03",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 153657,
@@ -6521,7 +7785,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.913,
-      "release_date": "2022-05-05"
+      "release_date": "2022-05-05",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Prime Video",
+        "Amazon Freevee"
+      ]
     },
     {
       "id": 73107,
@@ -6538,7 +7807,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.913,
-      "release_date": "2018-03-25"
+      "release_date": "2018-03-25",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 152532,
@@ -6554,7 +7827,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.913,
-      "release_date": "2013-11-01"
+      "release_date": "2013-11-01",
+      "us_rating": "R"
     },
     {
       "id": 961,
@@ -6573,7 +7847,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.912,
-      "release_date": "1926-12-25"
+      "release_date": "1926-12-25",
+      "us_rating": "NR"
     },
     {
       "id": 150540,
@@ -6596,7 +7871,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.905,
-      "release_date": "2015-06-17"
+      "release_date": "2015-06-17",
+      "us_rating": "PG"
     },
     {
       "id": 150540,
@@ -6619,7 +7895,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.905,
-      "release_date": "2015-06-17"
+      "release_date": "2015-06-17",
+      "us_rating": "PG"
     },
     {
       "id": 194583,
@@ -6636,7 +7913,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.904,
-      "release_date": "2023-06-18"
+      "release_date": "2023-06-18",
+      "us_rating": "TV-MA",
+      "networks": [
+        "AMC"
+      ]
     },
     {
       "id": 770,
@@ -6656,7 +7937,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.903,
-      "release_date": "1939-12-15"
+      "release_date": "1939-12-15",
+      "us_rating": "G"
     },
     {
       "id": 770,
@@ -6676,7 +7958,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.903,
-      "release_date": "1939-12-15"
+      "release_date": "1939-12-15",
+      "us_rating": "G"
     },
     {
       "id": 79410,
@@ -6692,7 +7975,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.902,
-      "release_date": "2019-03-08"
+      "release_date": "2019-03-08",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 122906,
@@ -6709,7 +7996,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.902,
-      "release_date": "2013-09-04"
+      "release_date": "2013-09-04",
+      "us_rating": "R"
     },
     {
       "id": 72750,
@@ -6725,7 +8013,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.901,
-      "release_date": "2018-04-08"
+      "release_date": "2018-04-08",
+      "us_rating": "TV-14",
+      "networks": [
+        "BBC America"
+      ]
     },
     {
       "id": 245703,
@@ -6742,7 +8034,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2025-05-29"
+      "release_date": "2025-05-29",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 110382,
@@ -6757,7 +8053,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.9,
-      "release_date": "2022-03-24"
+      "release_date": "2022-03-24",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 106158,
@@ -6773,7 +8073,12 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.9,
-      "release_date": "2021-04-01"
+      "release_date": "2021-04-01",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC",
+        "Peacock"
+      ]
     },
     {
       "id": 100412,
@@ -6789,7 +8094,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2020-07-03"
+      "release_date": "2020-07-03",
+      "us_rating": "TV-G",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 92053,
@@ -6805,7 +8114,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.9,
-      "release_date": "2020-02-11"
+      "release_date": "2020-02-11",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 88324,
@@ -6820,7 +8133,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2019-12-06"
+      "release_date": "2019-12-06",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 549559,
@@ -6839,7 +8156,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2019-03-01"
+      "release_date": "2019-03-01",
+      "us_rating": "G"
     },
     {
       "id": 549559,
@@ -6858,7 +8176,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2019-03-01"
+      "release_date": "2019-03-01",
+      "us_rating": "G"
     },
     {
       "id": 80968,
@@ -6874,7 +8193,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2018-11-16"
+      "release_date": "2018-11-16",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 72462,
@@ -6891,7 +8214,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2017-06-22"
+      "release_date": "2017-06-22",
+      "us_rating": "TV-G",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 66292,
@@ -6906,7 +8233,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.9,
-      "release_date": "2017-02-19"
+      "release_date": "2017-02-19",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 1426,
@@ -6923,7 +8254,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.9,
-      "release_date": "2010-05-04"
+      "release_date": "2010-05-04",
+      "us_rating": "TV-14",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 17611,
@@ -6938,7 +8273,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2009-04-09"
+      "release_date": "2009-04-09",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC",
+        "TNT"
+      ]
     },
     {
       "id": 17035,
@@ -6955,7 +8295,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.9,
-      "release_date": "2008-07-13"
+      "release_date": "2008-07-13",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 5146,
@@ -6972,7 +8316,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2004-06-03"
+      "release_date": "2004-06-03",
+      "us_rating": "TV-14",
+      "networks": [
+        "A&E"
+      ]
     },
     {
       "id": 4586,
@@ -6988,7 +8336,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.9,
-      "release_date": "2000-10-05"
+      "release_date": "2000-10-05",
+      "us_rating": "TV-14",
+      "networks": [
+        "The WB",
+        "The CW"
+      ]
     },
     {
       "id": 52,
@@ -7005,7 +8358,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.9,
-      "release_date": "1998-08-23"
+      "release_date": "1998-08-23",
+      "us_rating": "TV-PG",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 28978,
@@ -7024,7 +8381,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.9,
-      "release_date": "1928-01-06"
+      "release_date": "1928-01-06",
+      "us_rating": "G"
     },
     {
       "id": 28978,
@@ -7043,7 +8401,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.9,
-      "release_date": "1928-01-06"
+      "release_date": "1928-01-06",
+      "us_rating": "G"
     },
     {
       "id": 33602,
@@ -7061,7 +8420,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.897,
-      "release_date": "2010-02-06"
+      "release_date": "2010-02-06",
+      "us_rating": null
     },
     {
       "id": 33602,
@@ -7079,7 +8439,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.897,
-      "release_date": "2010-02-06"
+      "release_date": "2010-02-06",
+      "us_rating": null
     },
     {
       "id": 1578,
@@ -7095,7 +8456,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.896,
-      "release_date": "1980-11-14"
+      "release_date": "1980-11-14",
+      "us_rating": "R"
     },
     {
       "id": 236235,
@@ -7112,7 +8474,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.893,
-      "release_date": "2024-03-07"
+      "release_date": "2024-03-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 1447,
@@ -7129,7 +8495,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.893,
-      "release_date": "2006-07-07"
+      "release_date": "2006-07-07",
+      "us_rating": "TV-PG",
+      "networks": [
+        "USA Network"
+      ]
     },
     {
       "id": 693,
@@ -7146,7 +8516,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.892,
-      "release_date": "2004-10-03"
+      "release_date": "2004-10-03",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 28971,
@@ -7165,7 +8539,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.892,
-      "release_date": "1952-10-16"
+      "release_date": "1952-10-16",
+      "us_rating": "G"
     },
     {
       "id": 28971,
@@ -7184,7 +8559,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.892,
-      "release_date": "1952-10-16"
+      "release_date": "1952-10-16",
+      "us_rating": "G"
     },
     {
       "id": 210577,
@@ -7201,7 +8577,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.89,
-      "release_date": "2014-10-01"
+      "release_date": "2014-10-01",
+      "us_rating": "R"
     },
     {
       "id": 1162,
@@ -7217,7 +8594,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.89,
-      "release_date": "1962-05-23"
+      "release_date": "1962-05-23",
+      "us_rating": "NR"
     },
     {
       "id": 71912,
@@ -7234,7 +8612,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.889,
-      "release_date": "2019-12-20"
+      "release_date": "2019-12-20",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 46533,
@@ -7250,7 +8632,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.888,
-      "release_date": "2013-01-30"
+      "release_date": "2013-01-30",
+      "us_rating": "TV-MA",
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 491480,
@@ -7268,7 +8654,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.887,
-      "release_date": "2019-02-14"
+      "release_date": "2019-02-14",
+      "us_rating": null
     },
     {
       "id": 491480,
@@ -7286,7 +8673,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.887,
-      "release_date": "2019-02-14"
+      "release_date": "2019-02-14",
+      "us_rating": null
     },
     {
       "id": 65708,
@@ -7302,7 +8690,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.883,
-      "release_date": "2017-01-07"
+      "release_date": "2017-01-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 8358,
@@ -7319,7 +8711,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.882,
-      "release_date": "2009-01-21"
+      "release_date": "2009-01-21",
+      "us_rating": "TV-14",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 776503,
@@ -7339,7 +8735,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.881,
-      "release_date": "2021-08-13"
+      "release_date": "2021-08-13",
+      "us_rating": "PG-13"
     },
     {
       "id": 776503,
@@ -7359,7 +8756,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.881,
-      "release_date": "2021-08-13"
+      "release_date": "2021-08-13",
+      "us_rating": "PG-13"
     },
     {
       "id": 32895,
@@ -7377,7 +8775,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.881,
-      "release_date": "2010-07-12"
+      "release_date": "2010-07-12",
+      "us_rating": "TV-14",
+      "networks": [
+        "TNT"
+      ]
     },
     {
       "id": 4271,
@@ -7394,7 +8796,12 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.878,
-      "release_date": "1999-03-19"
+      "release_date": "1999-03-19",
+      "us_rating": "TV-14",
+      "networks": [
+        "Nine Network",
+        "Syfy"
+      ]
     },
     {
       "id": 24238,
@@ -7411,7 +8818,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.872,
-      "release_date": "2009-04-09"
+      "release_date": "2009-04-09",
+      "us_rating": "NR"
     },
     {
       "id": 698508,
@@ -7430,7 +8838,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.864,
-      "release_date": "2022-01-21"
+      "release_date": "2022-01-21",
+      "us_rating": "PG-13"
     },
     {
       "id": 698508,
@@ -7449,7 +8858,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.864,
-      "release_date": "2022-01-21"
+      "release_date": "2022-01-21",
+      "us_rating": "PG-13"
     },
     {
       "id": 79588,
@@ -7465,7 +8875,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.861,
-      "release_date": "2019-07-28"
+      "release_date": "2019-07-28",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Epix",
+        "HBO Max"
+      ]
     },
     {
       "id": 369557,
@@ -7483,7 +8898,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.857,
-      "release_date": "2016-03-11"
+      "release_date": "2016-03-11",
+      "us_rating": "PG-13"
     },
     {
       "id": 249042,
@@ -7499,7 +8915,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.856,
-      "release_date": "2025-03-13"
+      "release_date": "2025-03-13",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 316029,
@@ -7514,7 +8934,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.853,
-      "release_date": "2017-12-20"
+      "release_date": "2017-12-20",
+      "us_rating": "PG"
     },
     {
       "id": 453,
@@ -7530,7 +8951,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.852,
-      "release_date": "2001-12-14"
+      "release_date": "2001-12-14",
+      "us_rating": "PG-13"
     },
     {
       "id": 4482,
@@ -7548,7 +8970,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.851,
-      "release_date": "1964-09-17"
+      "release_date": "1964-09-17",
+      "us_rating": "TV-G",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 774531,
@@ -7566,7 +8992,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.85,
-      "release_date": "2024-05-31"
+      "release_date": "2024-05-31",
+      "us_rating": "PG"
     },
     {
       "id": 774531,
@@ -7584,7 +9011,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.85,
-      "release_date": "2024-05-31"
+      "release_date": "2024-05-31",
+      "us_rating": "PG"
     },
     {
       "id": 90296,
@@ -7600,7 +9028,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.849,
-      "release_date": "2022-04-07"
+      "release_date": "2022-04-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO Max",
+        "Max"
+      ]
     },
     {
       "id": 75450,
@@ -7617,7 +9050,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.849,
-      "release_date": "2018-10-12"
+      "release_date": "2018-10-12",
+      "us_rating": "TV-MA",
+      "networks": [
+        "DC Universe",
+        "HBO Max"
+      ]
     },
     {
       "id": 275,
@@ -7636,7 +9074,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.849,
-      "release_date": "1996-03-08"
+      "release_date": "1996-03-08",
+      "us_rating": "R"
     },
     {
       "id": 275,
@@ -7655,7 +9094,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.849,
-      "release_date": "1996-03-08"
+      "release_date": "1996-03-08",
+      "us_rating": "R"
     },
     {
       "id": 2426,
@@ -7671,7 +9111,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.847,
-      "release_date": "1999-10-05"
+      "release_date": "1999-10-05",
+      "us_rating": "TV-14",
+      "networks": [
+        "The WB"
+      ]
     },
     {
       "id": 90802,
@@ -7688,7 +9132,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.845,
-      "release_date": "2022-08-05"
+      "release_date": "2022-08-05",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 331482,
@@ -7706,7 +9154,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.841,
-      "release_date": "2019-12-25"
+      "release_date": "2019-12-25",
+      "us_rating": "PG"
     },
     {
       "id": 331482,
@@ -7724,7 +9173,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.841,
-      "release_date": "2019-12-25"
+      "release_date": "2019-12-25",
+      "us_rating": "PG"
     },
     {
       "id": 59440,
@@ -7740,7 +9190,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.84,
-      "release_date": "2011-09-09"
+      "release_date": "2011-09-09",
+      "us_rating": "PG-13"
     },
     {
       "id": 152601,
@@ -7757,7 +9208,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.835,
-      "release_date": "2013-12-18"
+      "release_date": "2013-12-18",
+      "us_rating": "R"
     },
     {
       "id": 235,
@@ -7773,7 +9225,8 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.835,
-      "release_date": "1986-08-08"
+      "release_date": "1986-08-08",
+      "us_rating": "R"
     },
     {
       "id": 156933,
@@ -7789,7 +9242,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.834,
-      "release_date": "2024-06-11"
+      "release_date": "2024-06-11",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 35279,
@@ -7806,7 +9263,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.832,
-      "release_date": "2011-12-02"
+      "release_date": "2011-12-02",
+      "us_rating": "TV-G",
+      "networks": [
+        "Disney Channel"
+      ]
     },
     {
       "id": 136311,
@@ -7822,7 +9283,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.831,
-      "release_date": "2023-01-26"
+      "release_date": "2023-01-26",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 2583,
@@ -7839,7 +9304,11 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.829,
-      "release_date": "1991-04-07"
+      "release_date": "1991-04-07",
+      "us_rating": null,
+      "networks": [
+        "ITV1"
+      ]
     },
     {
       "id": 698948,
@@ -7859,7 +9328,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.828,
-      "release_date": "2022-07-18"
+      "release_date": "2022-07-18",
+      "us_rating": "PG-13"
     },
     {
       "id": 698948,
@@ -7879,7 +9349,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.828,
-      "release_date": "2022-07-18"
+      "release_date": "2022-07-18",
+      "us_rating": "PG-13"
     },
     {
       "id": 7225,
@@ -7896,7 +9367,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.828,
-      "release_date": "2008-09-20"
+      "release_date": "2008-09-20",
+      "us_rating": "TV-PG",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 93,
@@ -7913,7 +9388,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.828,
-      "release_date": "1959-07-01"
+      "release_date": "1959-07-01",
+      "us_rating": "NR"
     },
     {
       "id": 911430,
@@ -7931,7 +9407,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.827,
-      "release_date": "2025-06-25"
+      "release_date": "2025-06-25",
+      "us_rating": "PG-13"
     },
     {
       "id": 911430,
@@ -7949,7 +9426,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.827,
-      "release_date": "2025-06-25"
+      "release_date": "2025-06-25",
+      "us_rating": "PG-13"
     },
     {
       "id": 6075,
@@ -7966,7 +9444,8 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.827,
-      "release_date": "1993-11-10"
+      "release_date": "1993-11-10",
+      "us_rating": "R"
     },
     {
       "id": 293299,
@@ -7988,7 +9467,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.823,
-      "release_date": "2014-10-25"
+      "release_date": "2014-10-25",
+      "us_rating": "G"
     },
     {
       "id": 293299,
@@ -8010,7 +9490,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.823,
-      "release_date": "2014-10-25"
+      "release_date": "2014-10-25",
+      "us_rating": "G"
     },
     {
       "id": 266856,
@@ -8026,7 +9507,8 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.822,
-      "release_date": "2014-11-07"
+      "release_date": "2014-11-07",
+      "us_rating": "PG-13"
     },
     {
       "id": 522402,
@@ -8046,7 +9528,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.82,
-      "release_date": "2021-11-04"
+      "release_date": "2021-11-04",
+      "us_rating": "PG-13"
     },
     {
       "id": 522402,
@@ -8066,7 +9549,8 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.82,
-      "release_date": "2021-11-04"
+      "release_date": "2021-11-04",
+      "us_rating": "PG-13"
     },
     {
       "id": 103411,
@@ -8081,7 +9565,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.82,
-      "release_date": "2020-05-20"
+      "release_date": "2020-05-20",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 263115,
@@ -8101,7 +9589,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.82,
-      "release_date": "2017-02-28"
+      "release_date": "2017-02-28",
+      "us_rating": "R"
     },
     {
       "id": 263115,
@@ -8121,7 +9610,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.82,
-      "release_date": "2017-02-28"
+      "release_date": "2017-02-28",
+      "us_rating": "R"
     },
     {
       "id": 111625,
@@ -8137,7 +9627,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.817,
-      "release_date": "2020-11-10"
+      "release_date": "2020-11-10",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 71715,
@@ -8153,7 +9647,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.817,
-      "release_date": "2018-02-26"
+      "release_date": "2018-02-26",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 4588,
@@ -8168,7 +9666,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.816,
-      "release_date": "1994-09-19"
+      "release_date": "1994-09-19",
+      "us_rating": "TV-14",
+      "networks": [
+        "NBC"
+      ]
     },
     {
       "id": 2942,
@@ -8184,7 +9686,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.811,
-      "release_date": "2007-04-01"
+      "release_date": "2007-04-01",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Showtime"
+      ]
     },
     {
       "id": 302074,
@@ -8201,7 +9707,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.808,
-      "release_date": "2026-03-03"
+      "release_date": "2026-03-03",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 1367642,
@@ -8217,7 +9727,8 @@
       "service_id": 386,
       "service_name": "Peacock",
       "user_rating": 7.807,
-      "release_date": "2026-03-11"
+      "release_date": "2026-03-11",
+      "us_rating": "PG-13"
     },
     {
       "id": 61056,
@@ -8234,7 +9745,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.806,
-      "release_date": "2014-09-25"
+      "release_date": "2014-09-25",
+      "us_rating": "TV-14",
+      "networks": [
+        "ABC"
+      ]
     },
     {
       "id": 56296,
@@ -8250,7 +9765,12 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.804,
-      "release_date": "2013-03-30"
+      "release_date": "2013-03-30",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Space",
+        "BBC America"
+      ]
     },
     {
       "id": 779047,
@@ -8271,7 +9791,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.803,
-      "release_date": "2021-03-03"
+      "release_date": "2021-03-03",
+      "us_rating": "G"
     },
     {
       "id": 779047,
@@ -8292,7 +9813,8 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.803,
-      "release_date": "2021-03-03"
+      "release_date": "2021-03-03",
+      "us_rating": "G"
     },
     {
       "id": 68507,
@@ -8309,7 +9831,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.803,
-      "release_date": "2019-11-03"
+      "release_date": "2019-11-03",
+      "us_rating": "TV-14",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 54671,
@@ -8327,7 +9853,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.802,
-      "release_date": "2014-05-11"
+      "release_date": "2014-05-11",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Showtime"
+      ]
     },
     {
       "id": 419478,
@@ -8345,7 +9875,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.801,
-      "release_date": "2018-03-22"
+      "release_date": "2018-03-22",
+      "us_rating": "PG-13"
     },
     {
       "id": 419478,
@@ -8363,7 +9894,8 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.801,
-      "release_date": "2018-03-22"
+      "release_date": "2018-03-22",
+      "us_rating": "PG-13"
     },
     {
       "id": 6127,
@@ -8380,7 +9912,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.801,
-      "release_date": "2004-12-12"
+      "release_date": "2004-12-12",
+      "us_rating": "TV-14",
+      "networks": [
+        "ITV1"
+      ]
     },
     {
       "id": 254420,
@@ -8396,7 +9932,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.8,
-      "release_date": "2026-07-01"
+      "release_date": "2026-07-01",
+      "us_rating": "TV-14",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 196322,
@@ -8412,7 +9952,11 @@
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 7.8,
-      "release_date": "2024-05-07"
+      "release_date": "2024-05-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 211358,
@@ -8428,7 +9972,11 @@
       "service_id": 15,
       "service_name": "Hulu",
       "user_rating": 7.8,
-      "release_date": "2024-04-17"
+      "release_date": "2024-04-17",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Hulu"
+      ]
     },
     {
       "id": 110531,
@@ -8444,7 +9992,12 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.8,
-      "release_date": "2022-07-28"
+      "release_date": "2022-07-28",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO Max",
+        "Max"
+      ]
     },
     {
       "id": 130372,
@@ -8461,7 +10014,11 @@
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.8,
-      "release_date": "2021-09-08"
+      "release_date": "2021-09-08",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 83050,
@@ -8476,7 +10033,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.8,
-      "release_date": "2020-01-01"
+      "release_date": "2020-01-01",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 86163,
@@ -8491,7 +10052,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.8,
-      "release_date": "2019-04-22"
+      "release_date": "2019-04-22",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     }
   ]
 }

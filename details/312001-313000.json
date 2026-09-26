@@ -1,6 +1,6 @@
 {
   "range": "312001-313000",
-  "updated_at": 1790380505725,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 312221,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.408,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2015-11-25",
       "streaming_services": [
         {
@@ -41,7 +41,7 @@
       ],
       "user_rating": 5.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-02-13",
       "streaming_services": [
         {
@@ -52,7 +52,10 @@
         }
       ],
       "tmdb_id": 312428,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 312530,
@@ -79,7 +82,10 @@
         }
       ],
       "tmdb_id": 312530,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 312557,
@@ -106,7 +112,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 312557
+      "tmdb_id": 312557,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 312593,
@@ -121,7 +130,7 @@
       ],
       "user_rating": 6.7,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-02-12",
       "streaming_services": [
         {
@@ -132,7 +141,10 @@
         }
       ],
       "tmdb_id": 312593,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 312663,
@@ -160,7 +172,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 312663
+      "tmdb_id": 312663,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 312697,
@@ -175,7 +190,7 @@
       ],
       "user_rating": 7.286,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-03-20",
       "streaming_services": [
         {
@@ -186,7 +201,10 @@
         }
       ],
       "tmdb_id": 312697,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 312710,
@@ -212,7 +230,8 @@
         }
       ],
       "tmdb_id": 312710,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": []
     },
     {
       "id": 312949,
@@ -240,7 +259,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 312949
+      "tmdb_id": 312949,
+      "networks": [
+        "Tokyo MX"
+      ]
     }
   ]
 }

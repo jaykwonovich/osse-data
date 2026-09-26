@@ -1,6 +1,6 @@
 {
   "range": "195001-196000",
-  "updated_at": 1790380505706,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 195339,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 8.12,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2022-09-01",
       "streaming_services": [
         {
@@ -27,7 +27,12 @@
         }
       ],
       "tmdb_id": 195339,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Netflix",
+        "AMC+",
+        "HIDIVE"
+      ]
     },
     {
       "id": 195382,
@@ -43,7 +48,7 @@
       ],
       "user_rating": 7.136,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-10-02",
       "streaming_services": [
         {
@@ -54,7 +59,10 @@
         }
       ],
       "tmdb_id": 195382,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Adult Swim"
+      ]
     },
     {
       "id": 195530,
@@ -71,7 +79,7 @@
       ],
       "user_rating": 7.375,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2022-08-18",
       "streaming_services": [
         {
@@ -82,7 +90,10 @@
         }
       ],
       "tmdb_id": 195530,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 195670,
@@ -98,7 +109,7 @@
       ],
       "user_rating": 8.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2023-05-18",
       "streaming_services": [
         {
@@ -109,7 +120,10 @@
         }
       ],
       "tmdb_id": 195670,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "98001-99000",
-  "updated_at": 1790380505693,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 98161,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.522,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-04-03",
       "streaming_services": [
         {
@@ -27,7 +27,10 @@
         }
       ],
       "tmdb_id": 98161,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 98177,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 7.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-05-01",
       "streaming_services": [
         {
@@ -58,7 +61,10 @@
       "next_air_date": "2026-07-08",
       "next_episode": 1,
       "relevance_score": 75,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 98178,
@@ -74,7 +80,7 @@
       ],
       "user_rating": 7.288,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-03-06",
       "streaming_services": [
         {
@@ -85,7 +91,10 @@
         }
       ],
       "tmdb_id": 98178,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 98187,
@@ -102,7 +111,7 @@
       ],
       "user_rating": 7.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2021-03-26",
       "streaming_services": [
         {
@@ -113,7 +122,10 @@
         }
       ],
       "tmdb_id": 98187,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 98201,
@@ -129,7 +141,7 @@
       ],
       "user_rating": 7.404,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2021-04-20",
       "streaming_services": [
         {
@@ -140,7 +152,10 @@
         }
       ],
       "tmdb_id": 98201,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Freeform"
+      ]
     },
     {
       "id": 98494,
@@ -157,7 +172,7 @@
       ],
       "user_rating": 8.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2020-02-21",
       "streaming_services": [
         {
@@ -168,7 +183,10 @@
         }
       ],
       "tmdb_id": 98494,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

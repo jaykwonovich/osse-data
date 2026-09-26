@@ -1,6 +1,6 @@
 {
   "range": "208001-209000",
-  "updated_at": 1790380505708,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 208569,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2023-01-03",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 208569,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "ABC"
+      ]
     }
   ]
 }

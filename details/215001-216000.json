@@ -1,6 +1,6 @@
 {
   "range": "215001-216000",
-  "updated_at": 1790380505709,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 215522,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.218,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2025-06-18",
       "streaming_services": [
         {
@@ -27,7 +27,10 @@
         }
       ],
       "tmdb_id": 215522,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 215866,
@@ -44,7 +47,7 @@
       ],
       "user_rating": 7.7,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-01-09",
       "streaming_services": [
         {
@@ -55,7 +58,10 @@
         }
       ],
       "tmdb_id": 215866,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 215874,
@@ -70,7 +76,7 @@
       ],
       "user_rating": 8.104,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-12-16",
       "streaming_services": [
         {
@@ -81,7 +87,10 @@
         }
       ],
       "tmdb_id": 215874,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "genre": "news",
-  "updated_at": 1790380505614,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 60694,
@@ -17,7 +17,11 @@
       "service_id": 1899,
       "service_name": "Max",
       "user_rating": 7.768,
-      "release_date": "2014-04-27"
+      "release_date": "2014-04-27",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 32415,
@@ -34,7 +38,11 @@
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.173,
-      "release_date": "2010-11-08"
+      "release_date": "2010-11-08",
+      "us_rating": "TV-14",
+      "networks": [
+        "TBS"
+      ]
     },
     {
       "id": 118043,
@@ -51,7 +59,11 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.1,
-      "release_date": "2021-02-17"
+      "release_date": "2021-02-17",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 336200,
@@ -66,7 +78,11 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-10-02"
+      "release_date": "2026-10-02",
+      "us_rating": null,
+      "networks": [
+        "ESPN2"
+      ]
     }
   ]
 }

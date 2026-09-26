@@ -1,6 +1,6 @@
 {
   "range": "299001-300000",
-  "updated_at": 1790380505723,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 299534,
@@ -20,7 +20,7 @@
       ],
       "user_rating": 8.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2019-04-24",
       "streaming_services": [
         {
@@ -51,7 +51,7 @@
       ],
       "user_rating": 8.243,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2018-04-25",
       "streaming_services": [
         {
@@ -78,7 +78,7 @@
       ],
       "user_rating": 6.88,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-09-17",
       "streaming_services": [
         {
@@ -88,7 +88,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 299939
+      "tmdb_id": 299939,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 299952,
@@ -114,7 +117,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 299952
+      "tmdb_id": 299952,
+      "networks": [
+        "Youku"
+      ]
     }
   ]
 }

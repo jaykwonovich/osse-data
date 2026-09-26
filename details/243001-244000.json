@@ -1,6 +1,6 @@
 {
   "range": "243001-244000",
-  "updated_at": 1790380505713,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 243875,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2024-10-17",
       "streaming_services": [
         {
@@ -30,7 +30,10 @@
       "next_season": 3,
       "next_air_date": "2026-10-08",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "CBS"
+      ]
     },
     {
       "id": 243881,
@@ -45,7 +48,7 @@
       ],
       "user_rating": 8.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2025-02-27",
       "streaming_services": [
         {
@@ -56,7 +59,11 @@
         }
       ],
       "tmdb_id": 243881,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Prime Video",
+        "Wonder Project"
+      ]
     }
   ]
 }

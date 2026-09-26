@@ -1,6 +1,6 @@
 {
   "range": "106001-107000",
-  "updated_at": 1790380505695,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 106158,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.9,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2021-04-01",
       "streaming_services": [
         {
@@ -27,7 +27,11 @@
         }
       ],
       "tmdb_id": 106158,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "NBC",
+        "Peacock"
+      ]
     },
     {
       "id": 106292,
@@ -44,7 +48,7 @@
       ],
       "user_rating": 8.42,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2020-09-10",
       "streaming_services": [
         {
@@ -55,7 +59,10 @@
         }
       ],
       "tmdb_id": 106292,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 106379,
@@ -72,7 +79,7 @@
       ],
       "user_rating": 8.117,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-04-10",
       "streaming_services": [
         {
@@ -83,7 +90,10 @@
         }
       ],
       "tmdb_id": 106379,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 106388,
@@ -100,7 +110,7 @@
       ],
       "user_rating": 7.445,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-04-28",
       "streaming_services": [
         {
@@ -111,7 +121,10 @@
         }
       ],
       "tmdb_id": 106388,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 106431,
@@ -128,7 +141,7 @@
       ],
       "user_rating": 7.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-07-28",
       "streaming_services": [
         {
@@ -139,7 +152,10 @@
         }
       ],
       "tmdb_id": 106431,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 106454,
@@ -156,7 +172,7 @@
       ],
       "user_rating": 7.086,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-01-28",
       "streaming_services": [
         {
@@ -167,7 +183,10 @@
         }
       ],
       "tmdb_id": 106454,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 106502,
@@ -184,7 +203,7 @@
       ],
       "user_rating": 7.285,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2021-07-08",
       "streaming_services": [
         {
@@ -195,7 +214,12 @@
         }
       ],
       "tmdb_id": 106502,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Prime Video",
+        "IMDb TV",
+        "Amazon Freevee"
+      ]
     },
     {
       "id": 106646,
@@ -212,7 +236,7 @@
       ],
       "user_rating": 8.027,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2013-12-25",
       "streaming_services": [
         {
@@ -237,7 +261,7 @@
       ],
       "user_rating": 7.427,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-08-19",
       "streaming_services": [
         {
@@ -248,7 +272,10 @@
         }
       ],
       "tmdb_id": 106754,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 106925,
@@ -264,7 +291,7 @@
       ],
       "user_rating": 6.786,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2020-04-01",
       "streaming_services": [
         {
@@ -275,7 +302,10 @@
         }
       ],
       "tmdb_id": 106925,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Adult Swim"
+      ]
     }
   ]
 }

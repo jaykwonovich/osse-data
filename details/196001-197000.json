@@ -1,6 +1,6 @@
 {
   "range": "196001-197000",
-  "updated_at": 1790380505706,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 196322,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-05-07",
       "streaming_services": [
         {
@@ -38,7 +38,10 @@
       "next_air_date": "2026-10-01",
       "next_episode": 6,
       "relevance_score": 100,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 196454,
@@ -53,7 +56,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-05-04",
       "streaming_services": [
         {
@@ -64,7 +67,10 @@
         }
       ],
       "tmdb_id": 196454,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 196592,
@@ -79,7 +85,7 @@
       ],
       "user_rating": 6.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2022-06-01",
       "streaming_services": [
         {
@@ -90,7 +96,10 @@
         }
       ],
       "tmdb_id": 196592,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Bravo"
+      ]
     },
     {
       "id": 196890,
@@ -105,7 +114,7 @@
       ],
       "user_rating": 7.346,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-07-31",
       "streaming_services": [
         {
@@ -116,7 +125,10 @@
         }
       ],
       "tmdb_id": 196890,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Apple TV"
+      ]
     }
   ]
 }

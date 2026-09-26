@@ -1,6 +1,6 @@
 {
   "range": "139001-140000",
-  "updated_at": 1780002330926,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 139099,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 6.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-02-23",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 139099
+      "tmdb_id": 139099,
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 139567,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 5.68,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2012-08-31",
       "streaming_services": [
         {

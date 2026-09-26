@@ -1,6 +1,6 @@
 {
   "range": "218001-219000",
-  "updated_at": 1790380505709,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 218274,
@@ -32,7 +32,11 @@
         }
       ],
       "tmdb_id": 218274,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "National Geographic",
+        "Nat Geo Wild"
+      ]
     },
     {
       "id": 218342,
@@ -49,7 +53,7 @@
       ],
       "user_rating": 7.382,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-07-10",
       "streaming_services": [
         {
@@ -65,7 +69,10 @@
       "next_air_date": "2026-06-03",
       "next_episode": 3,
       "relevance_score": 75,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "BBC Three"
+      ]
     },
     {
       "id": 218347,
@@ -81,7 +88,7 @@
       ],
       "user_rating": 7.471,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-10-10",
       "streaming_services": [
         {
@@ -97,7 +104,12 @@
       "next_season": 2,
       "next_air_date": "2026-11-05",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Sky One",
+        "Sky Atlantic",
+        "Sky Showcase"
+      ]
     },
     {
       "id": 218589,
@@ -112,7 +124,7 @@
       ],
       "user_rating": 7.4,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-07-18",
       "streaming_services": [
         {
@@ -123,7 +135,10 @@
         }
       ],
       "tmdb_id": 218589,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Peacock"
+      ]
     }
   ]
 }

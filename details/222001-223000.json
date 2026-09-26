@@ -1,6 +1,6 @@
 {
   "range": "222001-223000",
-  "updated_at": 1790380505710,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 222023,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.602,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-04-07",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 222023,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Amazon Freevee"
+      ]
     },
     {
       "id": 222405,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-05-02",
       "streaming_services": [
         {
@@ -53,7 +56,11 @@
         }
       ],
       "tmdb_id": 222405,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Sky Atlantic",
+        "Sky Showcase"
+      ]
     },
     {
       "id": 222766,
@@ -70,7 +77,7 @@
       ],
       "user_rating": 8.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-11-07",
       "streaming_services": [
         {
@@ -80,7 +87,11 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 222766
+      "tmdb_id": 222766,
+      "networks": [
+        "Sky Atlantic",
+        "Sky Showcase"
+      ]
     },
     {
       "id": 222935,
@@ -98,7 +109,7 @@
       ],
       "user_rating": 7.589,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2014-06-03",
       "streaming_services": [
         {

@@ -1,6 +1,6 @@
 {
   "range": "126001-127000",
-  "updated_at": 1790380505700,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 126167,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.219,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-08-29",
       "streaming_services": [
         {
@@ -27,7 +27,10 @@
         }
       ],
       "tmdb_id": 126167,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "BBC One"
+      ]
     },
     {
       "id": 126280,
@@ -42,7 +45,7 @@
       ],
       "user_rating": 7.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-06-25",
       "streaming_services": [
         {
@@ -53,7 +56,10 @@
         }
       ],
       "tmdb_id": 126280,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 126308,
@@ -69,7 +75,7 @@
       ],
       "user_rating": 8.415,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-02-27",
       "streaming_services": [
         {
@@ -80,7 +86,11 @@
         }
       ],
       "tmdb_id": 126308,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "FX",
+        "Hulu"
+      ]
     },
     {
       "id": 126506,
@@ -97,7 +107,7 @@
       ],
       "user_rating": 8.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2020-04-01",
       "streaming_services": [
         {
@@ -114,7 +124,10 @@
         }
       ],
       "tmdb_id": 126506,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Adult Swim"
+      ]
     },
     {
       "id": 126929,
@@ -130,7 +143,7 @@
       ],
       "user_rating": 7.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-08-24",
       "streaming_services": [
         {
@@ -141,7 +154,12 @@
         }
       ],
       "tmdb_id": 126929,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "FX",
+        "Hulu",
+        "FXX"
+      ]
     }
   ]
 }

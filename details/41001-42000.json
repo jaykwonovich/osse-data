@@ -1,6 +1,6 @@
 {
   "range": "41001-42000",
-  "updated_at": 1790380505673,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 41692,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.936,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "1989-02-05",
       "streaming_services": [
         {
@@ -33,7 +33,10 @@
         }
       ],
       "tmdb_id": 41692,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "CBS"
+      ]
     },
     {
       "id": 41727,
@@ -49,7 +52,7 @@
       ],
       "user_rating": 7.974,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2013-01-11",
       "streaming_services": [
         {
@@ -60,7 +63,10 @@
         }
       ],
       "tmdb_id": 41727,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Cinemax"
+      ]
     },
     {
       "id": 41889,
@@ -75,7 +81,7 @@
       ],
       "user_rating": 7.444,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2011-10-31",
       "streaming_services": [
         {
@@ -86,7 +92,10 @@
         }
       ],
       "tmdb_id": 41889,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Channel 4"
+      ]
     }
   ]
 }

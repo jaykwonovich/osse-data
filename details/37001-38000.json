@@ -1,6 +1,6 @@
 {
   "range": "37001-38000",
-  "updated_at": 1790380505672,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 37056,
@@ -19,7 +19,7 @@
       ],
       "user_rating": 7.004,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2010-05-13",
       "streaming_services": [
         {
@@ -55,7 +55,7 @@
       ],
       "user_rating": 7.4,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "G",
       "release_date": "1999-06-17",
       "streaming_services": [
         {
@@ -83,7 +83,7 @@
       ],
       "user_rating": 7.63,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "1967-12-21",
       "streaming_services": [
         {
@@ -110,7 +110,7 @@
       ],
       "user_rating": 8.205,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "NR",
       "release_date": "1957-12-17",
       "streaming_services": [
         {
@@ -138,7 +138,7 @@
       ],
       "user_rating": 8.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2011-05-03",
       "streaming_services": [
         {
@@ -149,7 +149,10 @@
         }
       ],
       "tmdb_id": 37606,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Cartoon Network"
+      ]
     },
     {
       "id": 37632,
@@ -165,7 +168,7 @@
       ],
       "user_rating": 7.449,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2011-06-06",
       "streaming_services": [
         {
@@ -176,7 +179,11 @@
         }
       ],
       "tmdb_id": 37632,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "ABC Family",
+        "Freeform"
+      ]
     },
     {
       "id": 37680,
@@ -191,7 +198,7 @@
       ],
       "user_rating": 8.22,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2011-06-23",
       "streaming_services": [
         {
@@ -208,7 +215,10 @@
         }
       ],
       "tmdb_id": 37680,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "USA Network"
+      ]
     },
     {
       "id": 37799,
@@ -223,7 +233,7 @@
       ],
       "user_rating": 7.377,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2010-10-01",
       "streaming_services": [
         {
@@ -267,7 +277,11 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 37854
+      "tmdb_id": 37854,
+      "networks": [
+        "Fuji TV",
+        "Tokai Television Broadcasting"
+      ]
     }
   ]
 }

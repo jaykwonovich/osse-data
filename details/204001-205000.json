@@ -1,6 +1,6 @@
 {
   "range": "204001-205000",
-  "updated_at": 1790380505707,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 204135,
@@ -18,7 +18,7 @@
       ],
       "user_rating": 7.75,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2026-06-09",
       "streaming_services": [
         {
@@ -67,7 +67,7 @@
       ],
       "user_rating": 7.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2026-06-26",
       "streaming_services": [
         {
@@ -77,7 +77,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 204137
+      "tmdb_id": 204137,
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 204154,
@@ -95,7 +98,7 @@
       ],
       "user_rating": 8.462,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-10-19",
       "streaming_services": [
         {
@@ -112,7 +115,10 @@
         }
       ],
       "tmdb_id": 204154,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Max"
+      ]
     },
     {
       "id": 204284,
@@ -128,7 +134,7 @@
       ],
       "user_rating": 8.006,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-07-15",
       "streaming_services": [
         {
@@ -139,7 +145,10 @@
         }
       ],
       "tmdb_id": 204284,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "HBO"
+      ]
     }
   ]
 }

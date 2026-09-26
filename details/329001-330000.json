@@ -1,6 +1,6 @@
 {
   "range": "329001-330000",
-  "updated_at": 1790380505730,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 329471,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 8.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-09-04",
       "streaming_services": [
         {
@@ -25,7 +25,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 329471
+      "tmdb_id": 329471,
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 329524,
@@ -141,7 +144,7 @@
       ],
       "user_rating": 8.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-08-21",
       "streaming_services": [
         {
@@ -157,7 +160,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 329987
+      "tmdb_id": 329987,
+      "networks": [
+        "National Geographic"
+      ]
     }
   ]
 }

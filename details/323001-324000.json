@@ -1,6 +1,6 @@
 {
   "range": "323001-324000",
-  "updated_at": 1790380505729,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 323010,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-05-19",
       "streaming_services": [
         {
@@ -31,7 +31,12 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 323010
+      "tmdb_id": 323010,
+      "networks": [
+        "YouTube",
+        "Hulu",
+        "Disney+"
+      ]
     },
     {
       "id": 323039,
@@ -154,7 +159,7 @@
       ],
       "user_rating": 4.645,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-06-03",
       "streaming_services": [
         {
@@ -278,7 +283,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 323185
+      "tmdb_id": 323185,
+      "networks": [
+        "Oxygen"
+      ]
     },
     {
       "id": 323411,
@@ -294,7 +302,7 @@
       ],
       "user_rating": 6.492,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-06-07",
       "streaming_services": [
         {
@@ -412,7 +420,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2026-08-19",
       "streaming_services": [
         {
@@ -428,7 +436,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 323557
+      "tmdb_id": 323557,
+      "networks": [
+        "National Geographic"
+      ]
     },
     {
       "id": 323636,
@@ -487,8 +498,7 @@
         "Goalhanger Podcasts"
       ],
       "networks": [
-        "Netflix",
-        "YouTube"
+        "Netflix"
       ],
       "tmdb_id": 323660,
       "is_returning": true,
@@ -512,7 +522,7 @@
       ],
       "user_rating": 7.259,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2016-02-19",
       "streaming_services": [
         {
@@ -581,7 +591,9 @@
         }
       ],
       "production_companies": [],
-      "networks": [],
+      "networks": [
+        "Netflix"
+      ],
       "tmdb_id": 323842,
       "is_returning": true,
       "next_season": 1,
@@ -644,7 +656,9 @@
         }
       ],
       "production_companies": [],
-      "networks": [],
+      "networks": [
+        "Prime Video"
+      ],
       "tmdb_id": 323976,
       "is_returning": true,
       "next_season": 1,

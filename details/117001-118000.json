@@ -1,6 +1,6 @@
 {
   "range": "117001-118000",
-  "updated_at": 1790380505698,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 117030,
@@ -18,7 +18,7 @@
       ],
       "user_rating": 7.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2022-01-01",
       "streaming_services": [
         {
@@ -29,7 +29,10 @@
         }
       ],
       "tmdb_id": 117030,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Cartoon Network"
+      ]
     },
     {
       "id": 117303,
@@ -44,7 +47,7 @@
       ],
       "user_rating": 8.183,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2023-10-12",
       "streaming_services": [
         {
@@ -55,7 +58,10 @@
         }
       ],
       "tmdb_id": 117303,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 117488,
@@ -71,7 +77,7 @@
       ],
       "user_rating": 7.43,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-11-14",
       "streaming_services": [
         {
@@ -93,7 +99,11 @@
       "next_season": 4,
       "next_air_date": "2026-11-22",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Showtime",
+        "Paramount+ with Showtime"
+      ]
     },
     {
       "id": 117581,
@@ -109,7 +119,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2021-02-24",
       "streaming_services": [
         {
@@ -120,7 +130,10 @@
         }
       ],
       "tmdb_id": 117581,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 117648,
@@ -136,7 +149,7 @@
       ],
       "user_rating": 8.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2021-06-11",
       "streaming_services": [
         {
@@ -152,7 +165,10 @@
       "next_air_date": "2026-06-03",
       "next_episode": 1,
       "relevance_score": 75,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 117678,
@@ -169,7 +185,7 @@
       ],
       "user_rating": 7.053,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2023-06-22",
       "streaming_services": [
         {
@@ -180,7 +196,10 @@
         }
       ],
       "tmdb_id": 117678,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 117682,
@@ -197,7 +216,7 @@
       ],
       "user_rating": 7.787,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2020-12-30",
       "streaming_services": [
         {
@@ -208,7 +227,10 @@
         }
       ],
       "tmdb_id": 117682,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 117821,
@@ -223,7 +245,7 @@
       ],
       "user_rating": 7.358,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-03-17",
       "streaming_services": [
         {
@@ -234,7 +256,10 @@
         }
       ],
       "tmdb_id": 117821,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Apple TV"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "115001-116000",
-  "updated_at": 1790380505698,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 115004,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 8.184,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2021-04-18",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 115004,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 115036,
@@ -44,7 +47,7 @@
       ],
       "user_rating": 7.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2021-12-29",
       "streaming_services": [
         {
@@ -55,7 +58,10 @@
         }
       ],
       "tmdb_id": 115036,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 115577,
@@ -73,7 +79,7 @@
       ],
       "user_rating": 8.241,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2022-12-15",
       "streaming_services": [
         {
@@ -84,7 +90,10 @@
         }
       ],
       "tmdb_id": 115577,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

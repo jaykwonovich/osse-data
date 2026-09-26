@@ -1,6 +1,6 @@
 {
   "range": "260001-261000",
-  "updated_at": 1790380505717,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 260249,
@@ -26,7 +26,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 260249
+      "tmdb_id": 260249,
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 260458,
@@ -52,7 +55,11 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 260458
+      "tmdb_id": 260458,
+      "networks": [
+        "FX",
+        "FXX"
+      ]
     },
     {
       "id": 260463,
@@ -86,7 +93,13 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 260463
+      "tmdb_id": 260463,
+      "networks": [
+        "Gunma TV",
+        "Tokyo MX",
+        "BS11",
+        "Tochigi TV"
+      ]
     },
     {
       "id": 260513,
@@ -106,7 +119,7 @@
       ],
       "user_rating": 7.453,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2018-06-14",
       "streaming_services": [
         {

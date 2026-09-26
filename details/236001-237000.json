@@ -1,6 +1,6 @@
 {
   "range": "236001-237000",
-  "updated_at": 1790380505712,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 236235,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.893,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-03-07",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 236235,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 236429,
@@ -45,7 +48,7 @@
       ],
       "user_rating": 7.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-01-09",
       "streaming_services": [
         {
@@ -56,7 +59,10 @@
         }
       ],
       "tmdb_id": 236429,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Prime Video"
+      ]
     }
   ]
 }

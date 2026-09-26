@@ -1,6 +1,6 @@
 {
   "range": "255001-256000",
-  "updated_at": 1790380505715,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 255358,
@@ -28,7 +28,35 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 255358
+      "tmdb_id": 255358,
+      "networks": [
+        "Fuji TV",
+        "Tokai Television Broadcasting",
+        "Kansai TV",
+        "Fukui TV",
+        "Hokkaido Cultural Broadcasting",
+        "Iwate Menkoi Television",
+        "Sendai Television",
+        "SAGA TV",
+        "Ishikawa TV",
+        "TNC",
+        "OHK",
+        "Kochi Sun Sun Broadcasting",
+        "Television Shin Hiroshima System",
+        "TV Shizuoka",
+        "NST",
+        "NBS",
+        "Sakuranbo TV",
+        "TSK",
+        "Ehime Broadcasting",
+        "KTS",
+        "Fukushima TV",
+        "AKT",
+        "Toyama Television",
+        "TV Kumamoto",
+        "Okinawa Television Broadcasting",
+        "KTN"
+      ]
     },
     {
       "id": 255661,
@@ -44,7 +72,7 @@
       ],
       "user_rating": 7.9,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-03-04",
       "streaming_services": [
         {
@@ -55,7 +83,10 @@
         }
       ],
       "tmdb_id": 255661,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 255760,
@@ -83,7 +114,10 @@
         }
       ],
       "tmdb_id": 255760,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 255868,
@@ -100,7 +134,7 @@
       ],
       "user_rating": 7.755,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2024-12-11",
       "streaming_services": [
         {
@@ -111,7 +145,10 @@
         }
       ],
       "tmdb_id": 255868,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Disney+"
+      ]
     }
   ]
 }

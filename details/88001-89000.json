@@ -1,6 +1,6 @@
 {
   "range": "88001-89000",
-  "updated_at": 1790380505690,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 88018,
@@ -22,7 +22,7 @@
       ],
       "user_rating": 7.383,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "NR",
       "release_date": "1929-08-29",
       "streaming_services": [
         {
@@ -49,7 +49,7 @@
       ],
       "user_rating": 7.501,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2019-11-28",
       "streaming_services": [
         {
@@ -60,7 +60,10 @@
         }
       ],
       "tmdb_id": 88055,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 88166,
@@ -75,7 +78,7 @@
       ],
       "user_rating": 7.62,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2020-05-09",
       "streaming_services": [
         {
@@ -86,7 +89,10 @@
         }
       ],
       "tmdb_id": 88166,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 88324,
@@ -101,7 +107,7 @@
       ],
       "user_rating": 7.9,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2019-12-06",
       "streaming_services": [
         {
@@ -112,7 +118,10 @@
         }
       ],
       "tmdb_id": 88324,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 88329,
@@ -129,7 +138,7 @@
       ],
       "user_rating": 7.771,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2021-11-24",
       "streaming_services": [
         {
@@ -140,7 +149,10 @@
         }
       ],
       "tmdb_id": 88329,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 88378,
@@ -155,7 +167,7 @@
       ],
       "user_rating": 7.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2019-06-21",
       "streaming_services": [
         {
@@ -166,7 +178,10 @@
         }
       ],
       "tmdb_id": 88378,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 88396,
@@ -182,7 +197,7 @@
       ],
       "user_rating": 7.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2021-03-19",
       "streaming_services": [
         {
@@ -193,7 +208,10 @@
         }
       ],
       "tmdb_id": 88396,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 88713,
@@ -208,7 +226,7 @@
       ],
       "user_rating": 7.7,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2020-09-14",
       "streaming_services": [
         {
@@ -219,7 +237,10 @@
         }
       ],
       "tmdb_id": 88713,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "HBO"
+      ]
     }
   ]
 }

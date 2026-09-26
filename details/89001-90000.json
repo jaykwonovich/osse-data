@@ -1,6 +1,6 @@
 {
   "range": "89001-90000",
-  "updated_at": 1790380505690,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 89092,
@@ -18,7 +18,7 @@
       ],
       "user_rating": 7.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y",
       "release_date": "2018-05-03",
       "streaming_services": [
         {
@@ -29,7 +29,11 @@
         }
       ],
       "tmdb_id": 89092,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "YTV",
+        "Netflix"
+      ]
     },
     {
       "id": 89393,
@@ -46,7 +50,7 @@
       ],
       "user_rating": 8.038,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2020-01-19",
       "streaming_services": [
         {
@@ -57,7 +61,10 @@
         }
       ],
       "tmdb_id": 89393,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 89456,
@@ -73,7 +80,7 @@
       ],
       "user_rating": 8.656,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2019-10-08",
       "streaming_services": [
         {
@@ -90,7 +97,10 @@
         }
       ],
       "tmdb_id": 89456,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Adult Swim"
+      ]
     },
     {
       "id": 89572,
@@ -107,7 +117,7 @@
       ],
       "user_rating": 7.724,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2019-10-09",
       "streaming_services": [
         {
@@ -118,7 +128,10 @@
         }
       ],
       "tmdb_id": 89572,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "The CW"
+      ]
     },
     {
       "id": 89852,
@@ -133,7 +146,7 @@
       ],
       "user_rating": 7.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2019-06-14",
       "streaming_services": [
         {
@@ -144,7 +157,10 @@
         }
       ],
       "tmdb_id": 89852,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 89901,
@@ -160,7 +176,7 @@
       ],
       "user_rating": 8.491,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2019-11-01",
       "streaming_services": [
         {
@@ -171,7 +187,10 @@
         }
       ],
       "tmdb_id": 89901,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 89905,
@@ -186,7 +205,7 @@
       ],
       "user_rating": 8.136,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2020-04-26",
       "streaming_services": [
         {
@@ -197,7 +216,10 @@
         }
       ],
       "tmdb_id": 89905,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "BBC Three"
+      ]
     }
   ]
 }

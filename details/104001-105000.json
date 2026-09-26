@@ -1,6 +1,6 @@
 {
   "range": "104001-105000",
-  "updated_at": 1790380505695,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 104229,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.448,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2020-10-16",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 104229,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

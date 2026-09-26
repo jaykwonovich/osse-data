@@ -1,6 +1,6 @@
 {
   "range": "286001-287000",
-  "updated_at": 1790380505721,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 286183,
@@ -58,7 +58,7 @@
       ],
       "user_rating": 7.25,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "G",
       "release_date": "2015-06-18",
       "streaming_services": [
         {
@@ -89,7 +89,7 @@
       ],
       "user_rating": 7.708,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2015-09-30",
       "streaming_services": [
         {
@@ -122,7 +122,7 @@
       ],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-07-12",
       "streaming_services": [
         {
@@ -200,7 +200,7 @@
       ],
       "user_rating": 7.267,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-10-03",
       "streaming_services": [
         {
@@ -211,7 +211,10 @@
         }
       ],
       "tmdb_id": 286801,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 286940,
@@ -226,7 +229,7 @@
       ],
       "user_rating": 5.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2026-09-23",
       "streaming_services": [
         {
@@ -241,7 +244,10 @@
       "next_season": 1,
       "next_air_date": "2026-09-30",
       "next_episode": 8,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

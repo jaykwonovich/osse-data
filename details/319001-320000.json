@@ -1,6 +1,6 @@
 {
   "range": "319001-320000",
-  "updated_at": 1790380505727,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 319048,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-05-09",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 319048,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "HBO Max"
+      ]
     },
     {
       "id": 319075,
@@ -44,7 +47,7 @@
       ],
       "user_rating": 7.621,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "NR",
       "release_date": "2015-03-23",
       "streaming_services": [
         {
@@ -70,7 +73,7 @@
       ],
       "user_rating": 7.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-04-22",
       "streaming_services": [
         {
@@ -86,7 +89,10 @@
       "next_air_date": "2026-06-02",
       "next_episode": 7,
       "relevance_score": 75,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "FOX"
+      ]
     },
     {
       "id": 319385,
@@ -253,7 +259,9 @@
         }
       ],
       "production_companies": [],
-      "networks": [],
+      "networks": [
+        "tv asahi"
+      ],
       "tmdb_id": 319938,
       "is_returning": true,
       "next_season": 1,

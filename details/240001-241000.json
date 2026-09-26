@@ -1,6 +1,6 @@
 {
   "range": "240001-241000",
-  "updated_at": 1790380505712,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 240667,
@@ -15,7 +15,7 @@
       ],
       "user_rating": 7.683,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-02-08",
       "streaming_services": [
         {
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 240667,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 240740,
@@ -43,7 +46,7 @@
       ],
       "user_rating": 6.473,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-03-11",
       "streaming_services": [
         {
@@ -54,7 +57,10 @@
         }
       ],
       "tmdb_id": 240740,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Prime Video"
+      ]
     }
   ]
 }

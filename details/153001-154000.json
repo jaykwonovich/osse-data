@@ -1,6 +1,6 @@
 {
   "range": "153001-154000",
-  "updated_at": 1790380505703,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 153657,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.913,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-05-05",
       "streaming_services": [
         {
@@ -27,7 +27,11 @@
         }
       ],
       "tmdb_id": 153657,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Prime Video",
+        "Amazon Freevee"
+      ]
     }
   ]
 }

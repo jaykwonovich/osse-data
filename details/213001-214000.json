@@ -1,6 +1,6 @@
 {
   "range": "213001-214000",
-  "updated_at": 1790380505709,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 213121,
@@ -21,7 +21,7 @@
       ],
       "user_rating": 7.254,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "G",
       "release_date": "2013-10-16",
       "streaming_services": [
         {
@@ -48,7 +48,7 @@
       ],
       "user_rating": 7.566,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2023-01-27",
       "streaming_services": [
         {
@@ -59,7 +59,10 @@
         }
       ],
       "tmdb_id": 213241,
-      "genre": "sci-fi & fantasy"
+      "genre": "sci-fi & fantasy",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 213375,
@@ -74,7 +77,7 @@
       ],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-10-14",
       "streaming_services": [
         {
@@ -148,7 +151,7 @@
       ],
       "user_rating": 7.978,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2023-10-25",
       "streaming_services": [
         {
@@ -159,7 +162,10 @@
         }
       ],
       "tmdb_id": 213609,
-      "genre": "documentary"
+      "genre": "documentary",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

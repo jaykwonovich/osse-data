@@ -1,6 +1,6 @@
 {
   "range": "237001-238000",
-  "updated_at": 1790380505712,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 237015,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 9.4,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-08-18",
       "streaming_services": [
         {
@@ -27,7 +27,10 @@
         }
       ],
       "tmdb_id": 237015,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Adult Swim"
+      ]
     },
     {
       "id": 237512,
@@ -46,7 +49,7 @@
       ],
       "user_rating": 8.296,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2024-05-24",
       "streaming_services": [
         {
@@ -57,7 +60,10 @@
         }
       ],
       "tmdb_id": 237512,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 237853,
@@ -74,7 +80,7 @@
       ],
       "user_rating": 7.413,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2024-06-27",
       "streaming_services": [
         {
@@ -84,7 +90,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 237853
+      "tmdb_id": 237853,
+      "networks": [
+        "Apple TV"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "223001-224000",
-  "updated_at": 1790380505710,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 223386,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.442,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-04-30",
       "streaming_services": [
         {
@@ -27,7 +27,10 @@
         }
       ],
       "tmdb_id": 223386,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

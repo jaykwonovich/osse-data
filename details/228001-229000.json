@@ -1,6 +1,6 @@
 {
   "range": "228001-229000",
-  "updated_at": 1790380505711,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 228056,
@@ -26,7 +26,10 @@
         }
       ],
       "tmdb_id": 228056,
-      "genre": "reality"
+      "genre": "reality",
+      "networks": [
+        "Bravo"
+      ]
     },
     {
       "id": 228203,
@@ -44,7 +47,7 @@
       ],
       "user_rating": 7.491,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2015-02-20",
       "streaming_services": [
         {
@@ -74,7 +77,7 @@
       ],
       "user_rating": 7.539,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2014-10-01",
       "streaming_services": [
         {
@@ -118,7 +121,10 @@
         }
       ],
       "tmdb_id": 228671,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Disney Junior"
+      ]
     },
     {
       "id": 228878,
@@ -136,7 +142,7 @@
       ],
       "user_rating": 8.473,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-02-02",
       "streaming_services": [
         {
@@ -153,7 +159,10 @@
         }
       ],
       "tmdb_id": 228878,
-      "genre": "animation"
+      "genre": "animation",
+      "networks": [
+        "Adult Swim"
+      ]
     }
   ]
 }

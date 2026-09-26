@@ -1,6 +1,6 @@
 {
   "range": "298001-299000",
-  "updated_at": 1790380505723,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 298008,
@@ -26,7 +26,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 298008
+      "tmdb_id": 298008,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 298156,
@@ -41,7 +44,7 @@
       ],
       "user_rating": 6.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-09-14",
       "streaming_services": [
         {
@@ -56,7 +59,10 @@
       "next_season": 1,
       "next_air_date": "2026-09-28",
       "next_episode": 3,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "Adult Swim"
+      ]
     },
     {
       "id": 298168,
@@ -72,7 +78,7 @@
       ],
       "user_rating": 7.159,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-08-05",
       "streaming_services": [
         {
@@ -82,7 +88,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 298168
+      "tmdb_id": 298168,
+      "networks": [
+        "FX"
+      ]
     },
     {
       "id": 298382,
@@ -127,7 +136,7 @@
       ],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2026-10-01",
       "streaming_services": [
         {
@@ -166,7 +175,7 @@
       ],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-10-01",
       "streaming_services": [
         {

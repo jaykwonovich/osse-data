@@ -1,6 +1,6 @@
 {
   "range": "31001-32000",
-  "updated_at": 1790380505670,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 31011,
@@ -20,7 +20,7 @@
       ],
       "user_rating": 7.785,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2009-11-06",
       "streaming_services": [
         {
@@ -55,7 +55,7 @@
       ],
       "user_rating": 7.261,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2009-09-20",
       "streaming_services": [
         {
@@ -66,7 +66,10 @@
         }
       ],
       "tmdb_id": 31078,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 31132,
@@ -84,7 +87,7 @@
       ],
       "user_rating": 8.634,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2010-09-06",
       "streaming_services": [
         {
@@ -95,7 +98,10 @@
         }
       ],
       "tmdb_id": 31132,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Cartoon Network"
+      ]
     },
     {
       "id": 31225,
@@ -112,7 +118,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "1991-03-13",
       "streaming_services": [
         {
@@ -139,7 +145,7 @@
       ],
       "user_rating": 8.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2010-03-27",
       "streaming_services": [
         {
@@ -150,7 +156,10 @@
         }
       ],
       "tmdb_id": 31251,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Nickelodeon"
+      ]
     },
     {
       "id": 31295,
@@ -167,7 +176,7 @@
       ],
       "user_rating": 7.596,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2009-11-12",
       "streaming_services": [
         {
@@ -184,7 +193,10 @@
         }
       ],
       "tmdb_id": 31295,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "E4"
+      ]
     },
     {
       "id": 31497,
@@ -199,7 +211,7 @@
       ],
       "user_rating": 7.3,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2009-10-29",
       "streaming_services": [
         {
@@ -210,7 +222,11 @@
         }
       ],
       "tmdb_id": 31497,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "FX",
+        "FXX"
+      ]
     },
     {
       "id": 31628,
@@ -228,7 +244,7 @@
       ],
       "user_rating": 7.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2010-09-10",
       "streaming_services": [
         {
@@ -239,7 +255,10 @@
         }
       ],
       "tmdb_id": 31628,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Disney XD"
+      ]
     },
     {
       "id": 31917,
@@ -255,7 +274,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2010-06-08",
       "streaming_services": [
         {
@@ -272,7 +291,11 @@
         }
       ],
       "tmdb_id": 31917,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "ABC Family",
+        "Freeform"
+      ]
     },
     {
       "id": 31941,
@@ -287,7 +310,7 @@
       ],
       "user_rating": 7.583,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2010-01-11",
       "streaming_services": [
         {
@@ -298,7 +321,10 @@
         }
       ],
       "tmdb_id": 31941,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Spike"
+      ]
     }
   ]
 }

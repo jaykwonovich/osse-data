@@ -1,6 +1,6 @@
 {
   "range": "244001-245000",
-  "updated_at": 1790380505713,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 244001,
@@ -43,7 +43,7 @@
       ],
       "user_rating": 6.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-01-01",
       "streaming_services": [
         {
@@ -54,7 +54,10 @@
         }
       ],
       "tmdb_id": 244244,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 244267,
@@ -70,7 +73,7 @@
       ],
       "user_rating": 7.6,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2014-07-18",
       "streaming_services": [
         {
@@ -96,7 +99,7 @@
       ],
       "user_rating": 7.261,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-02-27",
       "streaming_services": [
         {
@@ -107,7 +110,10 @@
         }
       ],
       "tmdb_id": 244623,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

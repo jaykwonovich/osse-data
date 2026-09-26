@@ -1,6 +1,6 @@
 {
   "range": "202001-203000",
-  "updated_at": 1790380505707,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 202208,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 8.1,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2023-11-29",
       "streaming_services": [
         {
@@ -28,7 +28,10 @@
         }
       ],
       "tmdb_id": 202208,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 202282,
@@ -45,7 +48,7 @@
       ],
       "user_rating": 5.178,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2024-08-16",
       "streaming_services": [
         {
@@ -56,7 +59,10 @@
         }
       ],
       "tmdb_id": 202282,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Adult Swim"
+      ]
     },
     {
       "id": 202284,
@@ -72,7 +78,7 @@
       ],
       "user_rating": 8.131,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2024-02-11",
       "streaming_services": [
         {
@@ -89,7 +95,10 @@
         }
       ],
       "tmdb_id": 202284,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Adult Swim"
+      ]
     },
     {
       "id": 202297,
@@ -105,7 +114,7 @@
       ],
       "user_rating": 8.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2022-10-07",
       "streaming_services": [
         {
@@ -121,7 +130,10 @@
       "next_season": 5,
       "next_air_date": "2026-10-09",
       "next_episode": 1,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "CBS"
+      ]
     },
     {
       "id": 202411,
@@ -138,7 +150,7 @@
       ],
       "user_rating": 7.726,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2023-11-16",
       "streaming_services": [
         {
@@ -149,7 +161,10 @@
         }
       ],
       "tmdb_id": 202411,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Apple TV"
+      ]
     },
     {
       "id": 202555,
@@ -166,7 +181,7 @@
       ],
       "user_rating": 8.164,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2025-03-04",
       "streaming_services": [
         {
@@ -183,7 +198,10 @@
         }
       ],
       "tmdb_id": 202555,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 202880,
@@ -199,7 +217,7 @@
       ],
       "user_rating": 7.4,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2022-06-08",
       "streaming_services": [
         {
@@ -210,7 +228,10 @@
         }
       ],
       "tmdb_id": 202880,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }

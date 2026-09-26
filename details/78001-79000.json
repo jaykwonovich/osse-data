@@ -1,6 +1,6 @@
 {
   "range": "78001-79000",
-  "updated_at": 1790380505686,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 78036,
@@ -16,7 +16,7 @@
       ],
       "user_rating": 7.173,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2017-10-31",
       "streaming_services": [
         {
@@ -27,7 +27,11 @@
         }
       ],
       "tmdb_id": 78036,
-      "genre": "mystery"
+      "genre": "mystery",
+      "networks": [
+        "CBBC",
+        "Family Channel"
+      ]
     },
     {
       "id": 78173,
@@ -45,7 +49,7 @@
       ],
       "user_rating": 8.371,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-Y7",
       "release_date": "2015-06-26",
       "streaming_services": [
         {
@@ -56,7 +60,10 @@
         }
       ],
       "tmdb_id": 78173,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 78191,
@@ -73,7 +80,7 @@
       ],
       "user_rating": 8.004,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2018-09-09",
       "streaming_services": [
         {
@@ -84,7 +91,11 @@
         }
       ],
       "tmdb_id": 78191,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "Lifetime",
+        "Netflix"
+      ]
     },
     {
       "id": 78903,
@@ -101,7 +112,7 @@
       ],
       "user_rating": 7.187,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2020-09-25",
       "streaming_services": [
         {
@@ -112,7 +123,10 @@
         }
       ],
       "tmdb_id": 78903,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Prime Video"
+      ]
     }
   ]
 }

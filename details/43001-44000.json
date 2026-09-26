@@ -1,6 +1,6 @@
 {
   "range": "43001-44000",
-  "updated_at": 1790380505674,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 43020,
@@ -17,7 +17,7 @@
       ],
       "user_rating": 7.478,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2012-05-27",
       "streaming_services": [
         {
@@ -34,7 +34,10 @@
         }
       ],
       "tmdb_id": 43020,
-      "genre": "action & adventure"
+      "genre": "action & adventure",
+      "networks": [
+        "Showcase"
+      ]
     },
     {
       "id": 43078,
@@ -62,7 +65,10 @@
         }
       ],
       "tmdb_id": 43078,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "ABC TV"
+      ]
     },
     {
       "id": 43461,
@@ -81,7 +87,7 @@
       ],
       "user_rating": 7.273,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "NR",
       "release_date": "1947-01-30",
       "streaming_services": [
         {
@@ -110,7 +116,7 @@
       ],
       "user_rating": 7.091,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG-13",
       "release_date": "2010-11-18",
       "streaming_services": [
         {
@@ -137,7 +143,7 @@
       ],
       "user_rating": 7.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-G",
       "release_date": "2012-10-12",
       "streaming_services": [
         {
@@ -148,7 +154,10 @@
         }
       ],
       "tmdb_id": 43775,
-      "genre": "comedy"
+      "genre": "comedy",
+      "networks": [
+        "Disney Channel"
+      ]
     },
     {
       "id": 43899,
@@ -163,7 +172,7 @@
       ],
       "user_rating": 7.369,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2013-03-03",
       "streaming_services": [
         {
@@ -174,7 +183,10 @@
         }
       ],
       "tmdb_id": 43899,
-      "genre": "drama"
+      "genre": "drama",
+      "networks": [
+        "History"
+      ]
     },
     {
       "id": 43959,
@@ -190,7 +202,7 @@
       ],
       "user_rating": 7.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2011-04-08",
       "streaming_services": [
         {
@@ -217,7 +229,7 @@
       ],
       "user_rating": 8.225,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2012-06-26",
       "streaming_services": [
         {
@@ -234,7 +246,11 @@
         }
       ],
       "tmdb_id": 43982,
-      "genre": "crime"
+      "genre": "crime",
+      "networks": [
+        "BBC One",
+        "BBC Two"
+      ]
     }
   ]
 }

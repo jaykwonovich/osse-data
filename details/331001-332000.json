@@ -1,6 +1,6 @@
 {
   "range": "331001-332000",
-  "updated_at": 1790380505731,
+  "updated_at": 1790387681057,
   "shows": [
     {
       "id": 331366,
@@ -50,7 +50,7 @@
       ],
       "user_rating": 7.841,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "PG",
       "release_date": "2019-12-25",
       "streaming_services": [
         {
@@ -77,7 +77,7 @@
       ],
       "user_rating": 7.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-08-26",
       "streaming_services": [
         {
@@ -87,7 +87,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 331616
+      "tmdb_id": 331616,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 331755,
@@ -137,7 +140,7 @@
       ],
       "user_rating": 7.572,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "release_date": "2015-07-02",
       "streaming_services": [
         {
@@ -169,7 +172,7 @@
       ],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "release_date": "2026-08-06",
       "streaming_services": [
         {
@@ -184,7 +187,12 @@
       "next_season": 1,
       "next_air_date": "2026-10-01",
       "next_episode": 4,
-      "relevance_score": 75
+      "relevance_score": 75,
+      "networks": [
+        "YouTube",
+        "Hulu",
+        "Disney+"
+      ]
     },
     {
       "id": 331946,
@@ -215,7 +223,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 331946
+      "tmdb_id": 331946,
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 331979,
@@ -243,7 +254,10 @@
           "region": "US"
         }
       ],
-      "tmdb_id": 331979
+      "tmdb_id": 331979,
+      "networks": [
+        "Netflix"
+      ]
     }
   ]
 }
