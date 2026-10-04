@@ -1,6 +1,6 @@
 {
   "range": "1102001-1103000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462155,
   "shows": [
     {
       "id": 1102493,
@@ -11,7 +11,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rtpFIgy1YYw3kx7PCyNhi6xmEFb.jpg",
       "plot_overview": "In 1985, while working as a coal merchant to support his family, Bill Furlong discovers disturbing secrets kept by the local convent and uncovers truths of his own; forcing him to confront his past and the complicit silence of a small Irish town controlled by the Catholic Church.",
       "genres": [
-        "Drama"
+        "drama"
       ],
       "user_rating": 6.684,
       "critic_score": null,
@@ -26,6 +26,34 @@
         }
       ],
       "tmdb_id": 1102493
+    },
+    {
+      "id": 1102883,
+      "title": "Mother Mary",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9eynUDRhChIsgSYLK82aC4zIQ2M.jpg",
+      "plot_overview": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
+      "genres": [
+        "music",
+        "drama",
+        "thriller"
+      ],
+      "genre": "music",
+      "user_rating": 5.663,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "2026-04-16",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1102883
     }
   ]
 }

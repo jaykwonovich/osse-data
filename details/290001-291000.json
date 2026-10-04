@@ -1,6 +1,6 @@
 {
   "range": "290001-291000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462040,
   "shows": [
     {
       "id": 290295,
@@ -15,7 +15,7 @@
         "comedy",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.022,
+      "user_rating": 8.032,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2026-05-22",
@@ -61,10 +61,6 @@
       "production_companies": [],
       "networks": [],
       "tmdb_id": 290307,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-07-24",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "drama"
     },
@@ -79,7 +75,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.37,
+      "user_rating": 7.372,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2014-10-10",
@@ -99,6 +95,36 @@
       ],
       "tmdb_id": 290542,
       "genre": "drama"
+    },
+    {
+      "id": 290720,
+      "title": "The Final Problem",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+      "plot_overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
+      "genres": [
+        "crime",
+        "mystery"
+      ],
+      "genre": "crime",
+      "user_rating": 6.788,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2026-09-25",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 290720,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 290826,
@@ -143,6 +169,38 @@
       "relevance_score": 75
     },
     {
+      "id": 290835,
+      "title": "a",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/adXTggSEt55foHUwghxhaDlTDka.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rGfK5bGyeYtLl7GkHULB735oGmk.jpg",
+      "plot_overview": "",
+      "genres": [
+        "crime"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-12-30",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [],
+      "networks": [],
+      "tmdb_id": 290835,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-12-30",
+      "next_episode": 1
+    },
+    {
       "id": 290883,
       "title": "The Real Housewives of Rhode Island",
       "type": "tv_series",
@@ -173,9 +231,9 @@
       ],
       "tmdb_id": 290883,
       "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-05-31",
-      "next_episode": 10,
+      "next_season": 2,
+      "next_air_date": null,
+      "next_episode": 1,
       "relevance_score": 75,
       "genre": "reality",
       "networks": [

@@ -1,6 +1,6 @@
 {
   "range": "200001-201000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462020,
   "shows": [
     {
       "id": 200481,
@@ -16,7 +16,7 @@
         "animation",
         "romance"
       ],
-      "user_rating": 7.5,
+      "user_rating": 7.517,
       "critic_score": null,
       "us_rating": "G",
       "release_date": "2013-02-12",
@@ -43,7 +43,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 8.229,
+      "user_rating": 8.223,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2025-10-26",
@@ -59,7 +59,12 @@
       "genre": "drama",
       "networks": [
         "HBO"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": null,
+      "next_episode": 1
     }
   ]
 }

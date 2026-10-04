@@ -1,6 +1,6 @@
 {
   "genre": "talk",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461901,
   "shows": [
     {
       "id": 67557,
@@ -16,7 +16,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 8.021,
+      "user_rating": 8.023,
       "release_date": "2016-11-17",
       "us_rating": "TV-14",
       "networks": [
@@ -60,7 +60,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.768,
+      "user_rating": 7.767,
       "release_date": "2014-04-27",
       "us_rating": "TV-MA",
       "networks": [
@@ -80,7 +80,7 @@
       ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.594,
+      "user_rating": 7.6,
       "release_date": "2002-10-20",
       "us_rating": "TV-PG",
       "networks": [
@@ -101,11 +101,53 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.458,
+      "user_rating": 7.5,
       "release_date": "2017-10-27",
       "us_rating": "TV-14",
       "networks": [
         "Netflix"
+      ]
+    },
+    {
+      "id": 62974,
+      "title": "8 Out of 10 Cats Does Countdown",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l4LGTlpRbGqgZURwzGXCZLHRr1k.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "reality",
+        "talk"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.4,
+      "release_date": "2013-04-12",
+      "us_rating": null,
+      "networks": [
+        "Channel 4"
+      ]
+    },
+    {
+      "id": 34607,
+      "title": "Penn & Teller: Fool Us",
+      "type": "tv_series",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8fLyvZZ2yxDhjqc2z6L2iwtW4T3.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "talk"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "2011-01-07",
+      "us_rating": "TV-PG",
+      "networks": [
+        "ITV1",
+        "The CW"
       ]
     },
     {
@@ -122,7 +164,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.173,
+      "user_rating": 7.18,
       "release_date": "2010-11-08",
       "us_rating": "TV-14",
       "networks": [
@@ -142,7 +184,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.118,
+      "user_rating": 7.1,
       "release_date": "2012-07-19",
       "us_rating": "TV-14",
       "networks": [
@@ -263,6 +305,45 @@
       ]
     },
     {
+      "id": 333400,
+      "title": "The Howard Stern Show",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2aTAQGOIjr2MmdQTIrAOHl8sYGS.jpg",
+      "genre": "talk",
+      "genres": [
+        "talk"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 0.0,
+      "release_date": "2026-09-17",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 332379,
+      "title": "Countdown to Avengers: Doomsday Official Podcast",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jQKt9R0LRWGXYF4TfhyrIrqqvv3.jpg",
+      "genre": "talk",
+      "genres": [
+        "talk"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 0.0,
+      "release_date": "2026-08-27",
+      "us_rating": "TV-PG",
+      "networks": [
+        "YouTube",
+        "Disney+"
+      ]
+    },
+    {
       "id": 331877,
       "title": "Disney+ Hulu Throwbacks Podcast",
       "type": "tv_series",
@@ -320,6 +401,28 @@
       "us_rating": null,
       "networks": [
         "Netflix"
+      ]
+    },
+    {
+      "id": 325394,
+      "title": "This Was SportsCenter: Stories from the Set",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/PpZxvOQxUMfLhvIceYFOtLt6KO.jpg",
+      "genre": "talk",
+      "genres": [
+        "talk"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 0.0,
+      "release_date": "2026-06-05",
+      "us_rating": null,
+      "networks": [
+        "YouTube",
+        "Hulu",
+        "Disney+",
+        "ESPN App"
       ]
     },
     {

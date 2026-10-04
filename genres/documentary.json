@@ -1,26 +1,7 @@
 {
   "genre": "documentary",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461864,
   "shows": [
-    {
-      "id": 332910,
-      "title": "A Killer Story",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aq9m0ZiiNVquFFrTMeL9dCDstkJ.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 10.0,
-      "release_date": "2026-09-10",
-      "us_rating": null,
-      "networks": [
-        "HBO"
-      ]
-    },
     {
       "id": 330654,
       "title": "Somebody Knows Something",
@@ -121,6 +102,22 @@
       ]
     },
     {
+      "id": 1752355,
+      "title": "Schumacher '94 - The Birth of a Legend",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/em19DrMkLSinf04NEhiRxTnVupI.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.8,
+      "release_date": "2026-10-02",
+      "us_rating": "PG-13"
+    },
+    {
       "id": 302919,
       "title": "The End of an Era",
       "type": "tv_series",
@@ -159,26 +156,6 @@
       ]
     },
     {
-      "id": 68595,
-      "title": "Planet Earth II",
-      "type": "tv_series",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5maYKYzWpE68ycxGh1luu4P2LOS.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "family"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.636,
-      "release_date": "2016-11-06",
-      "us_rating": "TV-G",
-      "networks": [
-        "BBC One"
-      ]
-    },
-    {
       "id": 74313,
       "title": "Blue Planet II",
       "type": "tv_series",
@@ -191,9 +168,48 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.623,
+      "user_rating": 8.648,
       "release_date": "2017-10-29",
       "us_rating": "TV-G",
+      "networks": [
+        "BBC One"
+      ]
+    },
+    {
+      "id": 68595,
+      "title": "Planet Earth II",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tUKomxy50suT4MyxjYfOJDkZUq3.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "family"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.644,
+      "release_date": "2016-11-06",
+      "us_rating": "TV-G",
+      "networks": [
+        "BBC One"
+      ]
+    },
+    {
+      "id": 1044,
+      "title": "Planet Earth",
+      "type": "tv_series",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bNcNxUtZ520d5de5s78onoiSiwQ.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.639,
+      "release_date": "2006-03-05",
+      "us_rating": "TV-PG",
       "networks": [
         "BBC One"
       ]
@@ -210,7 +226,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.6,
+      "user_rating": 8.556,
       "release_date": "2026-04-14",
       "us_rating": "TV-MA",
       "networks": [
@@ -218,19 +234,40 @@
       ]
     },
     {
-      "id": 1044,
-      "title": "Planet Earth",
+      "id": 83880,
+      "title": "Our Planet",
       "type": "tv_series",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bNcNxUtZ520d5de5s78onoiSiwQ.jpg",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wRSnArnQBmeUYb5GWDU595bGsBr.jpg",
       "genre": "documentary",
       "genres": [
-        "documentary"
+        "documentary",
+        "family"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.538,
+      "release_date": "2019-04-05",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 90790,
+      "title": "Seven Worlds, One Planet",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kzKNMIlqyznC1jjht8mI2oEtDcp.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "family"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.6,
-      "release_date": "2006-03-05",
+      "user_rating": 8.505,
+      "release_date": "2019-10-27",
       "us_rating": "TV-PG",
       "networks": [
         "BBC One"
@@ -275,139 +312,96 @@
       ]
     },
     {
-      "id": 90790,
-      "title": "Seven Worlds, One Planet",
-      "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kzKNMIlqyznC1jjht8mI2oEtDcp.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "family"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.5,
-      "release_date": "2019-10-27",
-      "us_rating": "TV-PG",
-      "networks": [
-        "BBC One"
-      ]
-    },
-    {
-      "id": 83880,
-      "title": "Our Planet",
-      "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wRSnArnQBmeUYb5GWDU595bGsBr.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "family"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.5,
-      "release_date": "2019-04-05",
-      "us_rating": "TV-PG",
-      "networks": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 1022256,
-      "title": "Selena Gomez: My Mind & Me",
+      "id": 1505013,
+      "title": "Masaka Kids, A Rhythm Within",
       "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 8.452,
-      "release_date": "2022-11-04",
-      "us_rating": "R"
-    },
-    {
-      "id": 1022256,
-      "title": "Selena Gomez: My Mind & Me",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 8.452,
-      "release_date": "2022-11-04",
-      "us_rating": "R"
-    },
-    {
-      "id": 664280,
-      "title": "David Attenborough: A Life on Our Planet",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "drama",
-        "documentary",
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.434,
-      "release_date": "2020-09-28",
-      "us_rating": "PG"
-    },
-    {
-      "id": 664280,
-      "title": "David Attenborough: A Life on Our Planet",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "drama",
-        "documentary",
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.434,
-      "release_date": "2020-09-28",
-      "us_rating": "PG"
-    },
-    {
-      "id": 128876,
-      "title": "The Beatles: Get Back",
-      "type": "tv_series",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nxy9fg1rT853P7zP7ZQGqRimiCS.jpg",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
       ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 8.397,
-      "release_date": "2021-11-25",
-      "us_rating": "TV-MA",
-      "networks": [
-        "Disney+"
-      ]
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.5,
+      "release_date": "2025-12-08",
+      "us_rating": "PG"
+    },
+    {
+      "id": 1022256,
+      "title": "Selena Gomez: My Mind & Me",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 8.5,
+      "release_date": "2022-11-04",
+      "us_rating": "R"
+    },
+    {
+      "id": 1022256,
+      "title": "Selena Gomez: My Mind & Me",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 8.5,
+      "release_date": "2022-11-04",
+      "us_rating": "R"
+    },
+    {
+      "id": 664280,
+      "title": "David Attenborough: A Life on Our Planet",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama",
+        "documentary",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.431,
+      "release_date": "2020-09-28",
+      "us_rating": "PG"
+    },
+    {
+      "id": 664280,
+      "title": "David Attenborough: A Life on Our Planet",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama",
+        "documentary",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.431,
+      "release_date": "2020-09-28",
+      "us_rating": "PG"
     },
     {
       "id": 16946,
@@ -421,7 +415,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.39,
+      "user_rating": 8.414,
       "release_date": "2009-10-11",
       "us_rating": "TV-G",
       "networks": [
@@ -440,7 +434,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.386,
+      "user_rating": 8.4,
       "release_date": "2011-10-26",
       "us_rating": "TV-PG",
       "networks": [
@@ -448,22 +442,42 @@
       ]
     },
     {
-      "id": 95171,
-      "title": "Prehistoric Planet",
+      "id": 128876,
+      "title": "The Beatles: Get Back",
       "type": "tv_series",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9yjWMmYWQSDY2eelHECQcwSL816.jpg",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nxy9fg1rT853P7zP7ZQGqRimiCS.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
       ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 8.305,
-      "release_date": "2022-05-23",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 8.391,
+      "release_date": "2021-11-25",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Disney+"
+      ]
+    },
+    {
+      "id": 82953,
+      "title": "Dynasties",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qEu1jJ2VariPLN8JZVxTtmY3IG2.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "family"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.325,
+      "release_date": "2018-11-11",
       "us_rating": "TV-PG",
       "networks": [
-        "Apple TV"
+        "BBC One"
       ]
     },
     {
@@ -505,6 +519,45 @@
       ]
     },
     {
+      "id": 16906,
+      "title": "The Beatles Anthology",
+      "type": "tv_series",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/97zhDkOLlrkaIiIvROPsAMSqnzQ.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 8.3,
+      "release_date": "1995-11-19",
+      "us_rating": "TV-MA",
+      "networks": [
+        "ABC",
+        "Disney+"
+      ]
+    },
+    {
+      "id": 95171,
+      "title": "Prehistoric Planet",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9yjWMmYWQSDY2eelHECQcwSL816.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 8.294,
+      "release_date": "2022-05-23",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Apple TV"
+      ]
+    },
+    {
       "id": 33827,
       "title": "How the Universe Works",
       "type": "tv_series",
@@ -516,7 +569,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.3,
+      "user_rating": 8.283,
       "release_date": "2010-04-25",
       "us_rating": "TV-PG",
       "networks": [
@@ -536,7 +589,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.265,
+      "user_rating": 8.276,
       "release_date": "2020-04-19",
       "us_rating": "TV-MA",
       "networks": [
@@ -556,7 +609,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.242,
+      "user_rating": 8.233,
       "release_date": "2013-02-28",
       "us_rating": "TV-14",
       "networks": [
@@ -564,23 +617,22 @@
       ]
     },
     {
-      "id": 2899,
-      "title": "Long Way Round",
+      "id": 87083,
+      "title": "Formula 1: Drive to Survive",
       "type": "tv_series",
-      "year": 2004,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uoAYNsbmjQXk0vs72R6ITZzYaYx.jpg",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xGOGjJFYYeRSoOpnhN9IHZTXIxj.jpg",
       "genre": "documentary",
       "genres": [
-        "documentary",
-        "reality"
+        "documentary"
       ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 8.219,
-      "release_date": "2004-10-18",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.2,
+      "release_date": "2019-03-08",
       "us_rating": "TV-MA",
       "networks": [
-        "Sky One"
+        "Netflix"
       ]
     },
     {
@@ -599,6 +651,26 @@
       "user_rating": 8.2,
       "release_date": "2013-08-20",
       "us_rating": "PG"
+    },
+    {
+      "id": 2899,
+      "title": "Long Way Round",
+      "type": "tv_series",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uoAYNsbmjQXk0vs72R6ITZzYaYx.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "reality"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 8.2,
+      "release_date": "2004-10-18",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Sky One"
+      ]
     },
     {
       "id": 90,
@@ -652,7 +724,7 @@
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 8.17,
+      "user_rating": 8.174,
       "release_date": "2021-02-26",
       "us_rating": "R"
     },
@@ -671,28 +743,9 @@
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 8.17,
+      "user_rating": 8.174,
       "release_date": "2021-02-26",
       "us_rating": "R"
-    },
-    {
-      "id": 87083,
-      "title": "Formula 1: Drive to Survive",
-      "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xGOGjJFYYeRSoOpnhN9IHZTXIxj.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.155,
-      "release_date": "2019-03-08",
-      "us_rating": "TV-MA",
-      "networks": [
-        "Netflix"
-      ]
     },
     {
       "id": 230936,
@@ -714,23 +767,20 @@
       ]
     },
     {
-      "id": 56304,
-      "title": "The Men Who Built America",
-      "type": "tv_series",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kmxok1OGUFLd2psEMzZ7mU0MjQi.jpg",
+      "id": 1128559,
+      "title": "Super/Man: The Christopher Reeve Story",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/73WchlI0Hj4HQd0T2KOztKquOek.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
       ],
-      "service_id": 15,
-      "service_name": "Hulu",
+      "service_id": 1899,
+      "service_name": "Max",
       "user_rating": 8.1,
-      "release_date": "2012-10-16",
-      "us_rating": "TV-PG",
-      "networks": [
-        "History"
-      ]
+      "release_date": "2024-09-21",
+      "us_rating": "PG-13"
     },
     {
       "id": 110971,
@@ -745,7 +795,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.093,
+      "user_rating": 8.1,
       "release_date": "2020-10-23",
       "us_rating": "TV-MA",
       "networks": [
@@ -753,22 +803,6 @@
       ]
     },
     {
-      "id": 1128559,
-      "title": "Super/Man: The Christopher Reeve Story",
-      "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/73WchlI0Hj4HQd0T2KOztKquOek.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.068,
-      "release_date": "2024-09-21",
-      "us_rating": "PG-13"
-    },
-    {
       "id": 15584,
       "title": "Dear Zachary: A Letter to a Son About His Father",
       "type": "movie",
@@ -783,7 +817,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 8.064,
+      "user_rating": 8.1,
       "release_date": "2008-10-31",
       "us_rating": "NR"
     },
@@ -802,89 +836,83 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 8.064,
+      "user_rating": 8.1,
       "release_date": "2008-10-31",
       "us_rating": "NR"
     },
     {
-      "id": 593691,
-      "title": "HOMECOMING: A film by Beyonc\u00e9",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "tv movie",
-        "documentary",
-        "music",
-        "tv movie"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.041,
-      "release_date": "2019-04-16",
-      "us_rating": "R"
-    },
-    {
-      "id": 593691,
-      "title": "HOMECOMING: A film by Beyonc\u00e9",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "tv movie",
-        "documentary",
-        "music",
-        "tv movie"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 8.041,
-      "release_date": "2019-04-16",
-      "us_rating": "R"
-    },
-    {
-      "id": 235345,
-      "title": "Beckham",
+      "id": 91724,
+      "title": "Greatest Events of World War II in Colour",
       "type": "tv_series",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mEUKVATefTsRP1CMeKp9fVyivo9.jpg",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dZpfRWErT6wyvlgGanhhUM89aQa.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "war & politics"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.057,
+      "release_date": "2019-07-12",
+      "us_rating": null,
+      "networks": [
+        "Discovery"
+      ]
+    },
+    {
+      "id": 1414312,
+      "title": "The Stringer: The Man Who Took the Photo",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cnDf5hkhoAa810dWTSkBDYEkbcY.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.03,
-      "release_date": "2023-10-04",
-      "us_rating": "TV-MA",
+      "user_rating": 8.056,
+      "release_date": "2025-01-25",
+      "us_rating": "R"
+    },
+    {
+      "id": 313298,
+      "title": "The Dinosaurs",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.033,
+      "release_date": "2026-03-06",
+      "us_rating": "TV-PG",
       "networks": [
         "Netflix"
       ]
     },
     {
-      "id": 204284,
-      "title": "The Rehearsal",
+      "id": 213609,
+      "title": "Life on Our Planet",
       "type": "tv_series",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mIevNYxovnH4sR22qkUmAgS5vdv.jpg",
-      "genre": "comedy",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xli64UUAmxX1ZAQGvBjEDrcBc3k.jpg",
+      "genre": "documentary",
       "genres": [
-        "comedy",
         "documentary"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.006,
-      "release_date": "2022-07-15",
-      "us_rating": "TV-MA",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.033,
+      "release_date": "2023-10-25",
+      "us_rating": "TV-PG",
       "networks": [
-        "HBO"
+        "Netflix"
       ]
     },
     {
@@ -926,21 +954,40 @@
       ]
     },
     {
-      "id": 313298,
-      "title": "The Dinosaurs",
+      "id": 233237,
+      "title": "World War II: From the Frontlines",
       "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
-      "genre": "animation",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/15wIhM1X6oRiId0tPPTVoXLT6mx.jpg",
+      "genre": "documentary",
       "genres": [
-        "animation",
+        "documentary",
+        "war & politics"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.0,
+      "release_date": "2023-12-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 235345,
+      "title": "Beckham",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y9d3trMAczZWFqYvGSW6V695vf3.jpg",
+      "genre": "documentary",
+      "genres": [
         "documentary"
       ],
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 8.0,
-      "release_date": "2026-03-06",
-      "us_rating": "TV-PG",
+      "release_date": "2023-10-04",
+      "us_rating": "TV-MA",
       "networks": [
         "Netflix"
       ]
@@ -965,6 +1012,48 @@
       ]
     },
     {
+      "id": 593691,
+      "title": "HOMECOMING: A film by Beyonc\u00e9",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "tv movie",
+        "documentary",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.0,
+      "release_date": "2019-04-16",
+      "us_rating": "R"
+    },
+    {
+      "id": 593691,
+      "title": "HOMECOMING: A film by Beyonc\u00e9",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "tv movie",
+        "documentary",
+        "music",
+        "tv movie"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.0,
+      "release_date": "2019-04-16",
+      "us_rating": "R"
+    },
+    {
       "id": 61929,
       "title": "The Jinx: The Life and Deaths of Robert Durst",
       "type": "tv_series",
@@ -985,252 +1074,23 @@
       ]
     },
     {
-      "id": 31225,
-      "title": "Paris Is Burning",
-      "type": "movie",
-      "year": 1991,
-      "poster_url": "https://image.tmdb.org/t/p/w342/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "history",
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.0,
-      "release_date": "1991-03-13",
-      "us_rating": "R"
-    },
-    {
-      "id": 31225,
-      "title": "Paris Is Burning",
-      "type": "movie",
-      "year": 1991,
-      "poster_url": "https://image.tmdb.org/t/p/w342/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "history",
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 8.0,
-      "release_date": "1991-03-13",
-      "us_rating": "R"
-    },
-    {
-      "id": 91724,
-      "title": "Greatest Events of World War II in Colour",
+      "id": 56304,
+      "title": "The Men Who Built America",
       "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dZpfRWErT6wyvlgGanhhUM89aQa.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "war & politics"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.996,
-      "release_date": "2019-07-12",
-      "us_rating": null,
-      "networks": [
-        "Discovery"
-      ]
-    },
-    {
-      "id": 213609,
-      "title": "Life on Our Planet",
-      "type": "tv_series",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xli64UUAmxX1ZAQGvBjEDrcBc3k.jpg",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kmxok1OGUFLd2psEMzZ7mU0MjQi.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.978,
-      "release_date": "2023-10-25",
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 8.0,
+      "release_date": "2012-10-16",
       "us_rating": "TV-PG",
       "networks": [
-        "Netflix"
+        "History"
       ]
-    },
-    {
-      "id": 680058,
-      "title": "The Rescue",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kC7fVtCkJACwPBaRr2hlj2whfKX.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "drama",
-        "documentary",
-        "drama"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.961,
-      "release_date": "2021-10-08",
-      "us_rating": "PG"
-    },
-    {
-      "id": 680058,
-      "title": "The Rescue",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kC7fVtCkJACwPBaRr2hlj2whfKX.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "drama",
-        "documentary",
-        "drama"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.961,
-      "release_date": "2021-10-08",
-      "us_rating": "PG"
-    },
-    {
-      "id": 263614,
-      "title": "Virunga",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7ULqkiqpxWfQxNHRq5PeZjJQ3f6.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "war",
-        "documentary",
-        "war"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.913,
-      "release_date": "2014-11-07",
-      "us_rating": null
-    },
-    {
-      "id": 263614,
-      "title": "Virunga",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7ULqkiqpxWfQxNHRq5PeZjJQ3f6.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "war",
-        "documentary",
-        "war"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.913,
-      "release_date": "2014-11-07",
-      "us_rating": null
-    },
-    {
-      "id": 226135,
-      "title": "Arnold",
-      "type": "tv_series",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.9,
-      "release_date": "2023-06-07",
-      "us_rating": "TV-MA",
-      "networks": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 774372,
-      "title": "ariana grande: excuse me, i love you",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.9,
-      "release_date": "2020-12-21",
-      "us_rating": null
-    },
-    {
-      "id": 774372,
-      "title": "ariana grande: excuse me, i love you",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.9,
-      "release_date": "2020-12-21",
-      "us_rating": null
-    },
-    {
-      "id": 549559,
-      "title": "Apollo 11",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "drama",
-        "history",
-        "documentary",
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.9,
-      "release_date": "2019-03-01",
-      "us_rating": "G"
-    },
-    {
-      "id": 549559,
-      "title": "Apollo 11",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "drama",
-        "history",
-        "documentary",
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.9,
-      "release_date": "2019-03-01",
-      "us_rating": "G"
     },
     {
       "id": 2622,
@@ -1244,13 +1104,326 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.9,
+      "user_rating": 8.0,
       "release_date": "2007-05-29",
       "us_rating": "TV-PG",
       "networks": [
         "History",
         "H2"
       ]
+    },
+    {
+      "id": 31225,
+      "title": "Paris Is Burning",
+      "type": "movie",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history",
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.0,
+      "release_date": "1991-03-13",
+      "us_rating": "R"
+    },
+    {
+      "id": 31225,
+      "title": "Paris Is Burning",
+      "type": "movie",
+      "year": 1991,
+      "poster_url": "https://image.tmdb.org/t/p/w342/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history",
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 8.0,
+      "release_date": "1991-03-13",
+      "us_rating": "R"
+    },
+    {
+      "id": 204284,
+      "title": "The Rehearsal",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mIevNYxovnH4sR22qkUmAgS5vdv.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.977,
+      "release_date": "2022-07-15",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
+    },
+    {
+      "id": 680058,
+      "title": "The Rescue",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kC7fVtCkJACwPBaRr2hlj2whfKX.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama",
+        "documentary",
+        "drama"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.965,
+      "release_date": "2021-10-08",
+      "us_rating": "PG"
+    },
+    {
+      "id": 680058,
+      "title": "The Rescue",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kC7fVtCkJACwPBaRr2hlj2whfKX.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama",
+        "documentary",
+        "drama"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.965,
+      "release_date": "2021-10-08",
+      "us_rating": "PG"
+    },
+    {
+      "id": 263614,
+      "title": "Virunga",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7ULqkiqpxWfQxNHRq5PeZjJQ3f6.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "war",
+        "documentary",
+        "war"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.913,
+      "release_date": "2014-11-07",
+      "us_rating": null
+    },
+    {
+      "id": 263614,
+      "title": "Virunga",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7ULqkiqpxWfQxNHRq5PeZjJQ3f6.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "war",
+        "documentary",
+        "war"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.913,
+      "release_date": "2014-11-07",
+      "us_rating": null
+    },
+    {
+      "id": 1226841,
+      "title": "The Greatest Night in Pop",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.9,
+      "release_date": "2024-01-19",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 1226841,
+      "title": "The Greatest Night in Pop",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.9,
+      "release_date": "2024-01-19",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 774372,
+      "title": "ariana grande: excuse me, i love you",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.9,
+      "release_date": "2020-12-21",
+      "us_rating": null
+    },
+    {
+      "id": 774372,
+      "title": "ariana grande: excuse me, i love you",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.9,
+      "release_date": "2020-12-21",
+      "us_rating": null
+    },
+    {
+      "id": 549559,
+      "title": "Apollo 11",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama",
+        "history",
+        "documentary",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.9,
+      "release_date": "2019-03-01",
+      "us_rating": "G"
+    },
+    {
+      "id": 549559,
+      "title": "Apollo 11",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama",
+        "history",
+        "documentary",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.9,
+      "release_date": "2019-03-01",
+      "us_rating": "G"
+    },
+    {
+      "id": 493100,
+      "title": "Robin Williams: Come Inside My Mind",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ak9DZnzInl9oIUlXxsFsUd37ueh.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.9,
+      "release_date": "2018-01-19",
+      "us_rating": null
+    },
+    {
+      "id": 355020,
+      "title": "Winter on Fire: Ukraine's Fight for Freedom",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xGKMWhYsK3OxQ6ceqMnvXBfFd7G.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.9,
+      "release_date": "2015-09-03",
+      "us_rating": "R"
+    },
+    {
+      "id": 158999,
+      "title": "Blackfish",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kCk4mDFE96Mn1AYfEcbxkIiw7ND.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.9,
+      "release_date": "2013-06-07",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 84334,
+      "title": "Searching for Sugar Man",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+      "genre": "music",
+      "genres": [
+        "music",
+        "documentary"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.9,
+      "release_date": "2012-06-30",
+      "us_rating": "PG-13"
     },
     {
       "id": 5146,
@@ -1323,47 +1496,9 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.895,
+      "user_rating": 7.891,
       "release_date": "2020-09-04",
       "us_rating": null
-    },
-    {
-      "id": 1226841,
-      "title": "The Greatest Night in Pop",
-      "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.877,
-      "release_date": "2024-01-19",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 1226841,
-      "title": "The Greatest Night in Pop",
-      "type": "movie",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.877,
-      "release_date": "2024-01-19",
-      "us_rating": "PG-13"
     },
     {
       "id": 11314,
@@ -1383,53 +1518,23 @@
       "us_rating": "NR"
     },
     {
-      "id": 84334,
-      "title": "Searching for Sugar Man",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
-      "genre": "music",
-      "genres": [
-        "music",
-        "documentary"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.871,
-      "release_date": "2012-06-30",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 493100,
-      "title": "Robin Williams: Come Inside My Mind",
-      "type": "movie",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ak9DZnzInl9oIUlXxsFsUd37ueh.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.868,
-      "release_date": "2018-01-19",
-      "us_rating": null
-    },
-    {
-      "id": 355020,
-      "title": "Winter on Fire: Ukraine's Fight for Freedom",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xGKMWhYsK3OxQ6ceqMnvXBfFd7G.jpg",
+      "id": 226135,
+      "title": "Arnold",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.863,
-      "release_date": "2015-09-03",
-      "us_rating": "R"
+      "user_rating": 7.85,
+      "release_date": "2023-06-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 64439,
@@ -1444,44 +1549,12 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.855,
+      "user_rating": 7.835,
       "release_date": "2015-12-18",
       "us_rating": "TV-14",
       "networks": [
         "Netflix"
       ]
-    },
-    {
-      "id": 158999,
-      "title": "Blackfish",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kCk4mDFE96Mn1AYfEcbxkIiw7ND.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.851,
-      "release_date": "2013-06-07",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 407806,
-      "title": "13th",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.83,
-      "release_date": "2016-10-07",
-      "us_rating": null
     },
     {
       "id": 1428,
@@ -1495,7 +1568,7 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.819,
+      "user_rating": 7.82,
       "release_date": "2003-01-23",
       "us_rating": "TV-PG",
       "networks": [
@@ -1504,42 +1577,40 @@
       ]
     },
     {
-      "id": 653567,
-      "title": "Miss Americana",
+      "id": 691179,
+      "title": "Friends: The Reunion",
       "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
-      "genre": "documentary",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg",
+      "genre": "comedy",
       "genres": [
+        "comedy",
         "documentary",
-        "music",
-        "documentary",
-        "music"
+        "documentary"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.815,
-      "release_date": "2020-01-31",
-      "us_rating": "R"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.812,
+      "release_date": "2021-05-27",
+      "us_rating": "PG-13"
     },
     {
-      "id": 653567,
-      "title": "Miss Americana",
+      "id": 691179,
+      "title": "Friends: The Reunion",
       "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
-      "genre": "documentary",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg",
+      "genre": "comedy",
       "genres": [
+        "comedy",
         "documentary",
-        "music",
-        "documentary",
-        "music"
+        "documentary"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.815,
-      "release_date": "2020-01-31",
-      "us_rating": "R"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.812,
+      "release_date": "2021-05-27",
+      "us_rating": "PG-13"
     },
     {
       "id": 308112,
@@ -1559,6 +1630,26 @@
       "us_rating": null,
       "networks": [
         "HBO"
+      ]
+    },
+    {
+      "id": 209167,
+      "title": "Conversations with a Killer: The Jeffrey Dahmer Tapes",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hsdNCScC2rk23fLuHNNgBXtI891.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.8,
+      "release_date": "2022-10-07",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
       ]
     },
     {
@@ -1584,60 +1675,58 @@
       ]
     },
     {
-      "id": 691179,
-      "title": "Friends: The Reunion",
+      "id": 653567,
+      "title": "Miss Americana",
       "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg",
-      "genre": "comedy",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
+      "genre": "documentary",
       "genres": [
-        "comedy",
         "documentary",
-        "documentary"
+        "music",
+        "documentary",
+        "music"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 7.8,
-      "release_date": "2021-05-27",
-      "us_rating": "PG-13"
+      "release_date": "2020-01-31",
+      "us_rating": "R"
     },
     {
-      "id": 691179,
-      "title": "Friends: The Reunion",
+      "id": 653567,
+      "title": "Miss Americana",
       "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg",
-      "genre": "comedy",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
+      "genre": "documentary",
       "genres": [
-        "comedy",
         "documentary",
-        "documentary"
+        "music",
+        "documentary",
+        "music"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 7.8,
-      "release_date": "2021-05-27",
-      "us_rating": "PG-13"
+      "release_date": "2020-01-31",
+      "us_rating": "R"
     },
     {
-      "id": 209167,
-      "title": "Conversations with a Killer: The Jeffrey Dahmer Tapes",
-      "type": "tv_series",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hsdNCScC2rk23fLuHNNgBXtI891.jpg",
-      "genre": "crime",
+      "id": 407806,
+      "title": "13th",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
+      "genre": "documentary",
       "genres": [
-        "crime",
         "documentary"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.784,
-      "release_date": "2022-10-07",
-      "us_rating": "TV-MA",
-      "networks": [
-        "Netflix"
-      ]
+      "user_rating": 7.8,
+      "release_date": "2016-10-07",
+      "us_rating": null
     },
     {
       "id": 801058,
@@ -1654,7 +1743,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.784,
+      "user_rating": 7.789,
       "release_date": "2021-03-24",
       "us_rating": "NR"
     },
@@ -1673,7 +1762,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.784,
+      "user_rating": 7.789,
       "release_date": "2021-03-24",
       "us_rating": "NR"
     },
@@ -1689,154 +1778,47 @@
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.782,
+      "user_rating": 7.777,
       "release_date": "2023-01-20",
       "us_rating": "R"
     },
     {
-      "id": 62391,
-      "title": "Chef's Table",
+      "id": 263089,
+      "title": "Mr. McMahon",
       "type": "tv_series",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2aTdai1vsWr2NjdYEBDxA2hffXb.jpg",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mtLYsALvuHlnw7PHg0frCCwSRVy.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.775,
-      "release_date": "2015-04-26",
+      "user_rating": 7.755,
+      "release_date": "2024-09-25",
       "us_rating": "TV-MA",
       "networks": [
         "Netflix"
       ]
     },
     {
-      "id": 80767,
-      "title": "Jiro Dreams of Sushi",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iVrkM4jSJw1IsOpW5jTtY5QxVqj.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.719,
-      "release_date": "2011-06-11",
-      "us_rating": "PG"
-    },
-    {
-      "id": 1149947,
-      "title": "To End All War: Oppenheimer & the Atomic Bomb",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "history",
-        "documentary",
-        "history"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.718,
-      "release_date": "2023-07-09",
-      "us_rating": "R"
-    },
-    {
-      "id": 1149947,
-      "title": "To End All War: Oppenheimer & the Atomic Bomb",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "history",
-        "documentary",
-        "history"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.718,
-      "release_date": "2023-07-09",
-      "us_rating": "R"
-    },
-    {
-      "id": 367735,
-      "title": "John Mulaney: The Comeback Kid",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pzM9t33T2YUA7vaCb2GxaDrlTW1.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "documentary",
-        "tv movie",
-        "comedy",
-        "tv movie"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.711,
-      "release_date": "2015-11-13",
-      "us_rating": "PG"
-    },
-    {
-      "id": 77601,
-      "title": "Wild Wild Country",
+      "id": 322974,
+      "title": "Bring Me the Beauties: A Model Cult",
       "type": "tv_series",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kprB5Jj2LYQAYlqVQMEucT2vGt.jpg",
-      "genre": "crime",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
+      "genre": "documentary",
       "genres": [
-        "crime",
         "documentary"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.707,
-      "release_date": "2018-03-16",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.7,
+      "release_date": "2026-06-01",
       "us_rating": "TV-MA",
       "networks": [
-        "Netflix"
+        "HBO"
       ]
-    },
-    {
-      "id": 333377,
-      "title": "Requiem for the American Dream",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/z30fIUchddu5RPUN8JWFiDhk2yp.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.704,
-      "release_date": "2015-04-18",
-      "us_rating": null
-    },
-    {
-      "id": 489985,
-      "title": "Minding the Gap",
-      "type": "movie",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uOu2YgrryHD1UlngykzTodAxGdC.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.702,
-      "release_date": "2018-08-17",
-      "us_rating": "NR"
     },
     {
       "id": 315837,
@@ -1898,6 +1880,44 @@
       ]
     },
     {
+      "id": 1149947,
+      "title": "To End All War: Oppenheimer & the Atomic Bomb",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history",
+        "documentary",
+        "history"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.7,
+      "release_date": "2023-07-09",
+      "us_rating": "R"
+    },
+    {
+      "id": 1149947,
+      "title": "To End All War: Oppenheimer & the Atomic Bomb",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history",
+        "documentary",
+        "history"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.7,
+      "release_date": "2023-07-09",
+      "us_rating": "R"
+    },
+    {
       "id": 105177,
       "title": "Unsolved Mysteries",
       "type": "tv_series",
@@ -1919,6 +1939,22 @@
       ]
     },
     {
+      "id": 489985,
+      "title": "Minding the Gap",
+      "type": "movie",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uOu2YgrryHD1UlngykzTodAxGdC.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.7,
+      "release_date": "2018-08-17",
+      "us_rating": "NR"
+    },
+    {
       "id": 410718,
       "title": "Before the Flood",
       "type": "movie",
@@ -1935,22 +1971,74 @@
       "us_rating": "PG"
     },
     {
-      "id": 322974,
-      "title": "Bring Me the Beauties: A Model Cult",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
+      "id": 367735,
+      "title": "John Mulaney: The Comeback Kid",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pzM9t33T2YUA7vaCb2GxaDrlTW1.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "documentary",
+        "tv movie",
+        "comedy",
+        "tv movie"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.7,
+      "release_date": "2015-11-13",
+      "us_rating": "PG"
+    },
+    {
+      "id": 333377,
+      "title": "Requiem for the American Dream",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/z30fIUchddu5RPUN8JWFiDhk2yp.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.667,
-      "release_date": "2026-06-01",
-      "us_rating": "TV-MA",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.7,
+      "release_date": "2015-04-18",
+      "us_rating": null
+    },
+    {
+      "id": 80767,
+      "title": "Jiro Dreams of Sushi",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iVrkM4jSJw1IsOpW5jTtY5QxVqj.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.7,
+      "release_date": "2011-06-11",
+      "us_rating": "PG"
+    },
+    {
+      "id": 1749,
+      "title": "How It's Made",
+      "type": "tv_series",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jO3DKZyiEWQsEE6ji7IXwobDnl8.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.7,
+      "release_date": "2001-01-06",
+      "us_rating": "TV-G",
       "networks": [
-        "HBO"
+        "Discovery"
       ]
     },
     {
@@ -1962,13 +2050,73 @@
       "genre": "documentary",
       "genres": [
         "documentary",
+        "music",
+        "documentary",
         "music"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.658,
+      "user_rating": 7.7,
       "release_date": "1978-04-26",
       "us_rating": "PG"
+    },
+    {
+      "id": 13963,
+      "title": "The Last Waltz",
+      "type": "movie",
+      "year": 1978,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.7,
+      "release_date": "1978-04-26",
+      "us_rating": "PG"
+    },
+    {
+      "id": 77601,
+      "title": "Wild Wild Country",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kprB5Jj2LYQAYlqVQMEucT2vGt.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.697,
+      "release_date": "2018-03-16",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 62391,
+      "title": "Chef's Table",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2aTdai1vsWr2NjdYEBDxA2hffXb.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.681,
+      "release_date": "2015-04-26",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 105288,
@@ -1982,7 +2130,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.655,
+      "user_rating": 7.664,
       "release_date": "2020-07-10",
       "us_rating": "TV-PG",
       "networks": [
@@ -1990,20 +2138,25 @@
       ]
     },
     {
-      "id": 76180,
-      "title": "Empire of Dreams: The Story of the Star Wars Trilogy",
-      "type": "movie",
-      "year": 2004,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xq0MPT1lLxfznTRaAbInxWT2wfh.jpg",
+      "id": 42154,
+      "title": "World War II in Colour",
+      "type": "tv_series",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1in5DbN4t8a7Osw9hCqWEmNoEZF.jpg",
       "genre": "documentary",
       "genres": [
-        "documentary"
+        "documentary",
+        "war & politics"
       ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.644,
-      "release_date": "2004-09-20",
-      "us_rating": null
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.643,
+      "release_date": "2009-09-04",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Military Channel",
+        "PLAN\u00c8TE+"
+      ]
     },
     {
       "id": 432976,
@@ -2017,7 +2170,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.641,
+      "user_rating": 7.642,
       "release_date": "2017-06-03",
       "us_rating": null
     },
@@ -2036,7 +2189,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.621,
+      "user_rating": 7.625,
       "release_date": "2015-03-23",
       "us_rating": "NR"
     },
@@ -2055,7 +2208,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.621,
+      "user_rating": 7.625,
       "release_date": "2015-03-23",
       "us_rating": "NR"
     },
@@ -2071,71 +2224,9 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.619,
+      "user_rating": 7.62,
       "release_date": "2014-07-01",
       "us_rating": "NR"
-    },
-    {
-      "id": 776527,
-      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "history",
-        "music",
-        "documentary",
-        "history",
-        "music"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.612,
-      "release_date": "2021-07-02",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 776527,
-      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "history",
-        "music",
-        "documentary",
-        "history",
-        "music"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.612,
-      "release_date": "2021-07-02",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 96129,
-      "title": "Don't F**k with Cats: Hunting an Internet Killer",
-      "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/Crc4XkhLddMTNJfj1iLca0w1Bb.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.608,
-      "release_date": "2019-12-18",
-      "us_rating": "TV-MA",
-      "networks": [
-        "Netflix"
-      ]
     },
     {
       "id": 205002,
@@ -2176,114 +2267,66 @@
       ]
     },
     {
-      "id": 42154,
-      "title": "World War II in Colour",
-      "type": "tv_series",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1in5DbN4t8a7Osw9hCqWEmNoEZF.jpg",
+      "id": 776527,
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
       "genre": "documentary",
       "genres": [
         "documentary",
-        "war & politics"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.6,
-      "release_date": "2009-09-04",
-      "us_rating": "TV-PG",
-      "networks": [
-        "Military Channel",
-        "PLAN\u00c8TE+"
-      ]
-    },
-    {
-      "id": 1749,
-      "title": "How It's Made",
-      "type": "tv_series",
-      "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jO3DKZyiEWQsEE6ji7IXwobDnl8.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
+        "history",
+        "music",
+        "documentary",
+        "history",
+        "music"
       ],
       "service_id": 337,
       "service_name": "Disney+",
       "user_rating": 7.6,
-      "release_date": "2001-01-06",
-      "us_rating": "TV-G",
-      "networks": [
-        "Discovery"
-      ]
-    },
-    {
-      "id": 14275,
-      "title": "Hoop Dreams",
-      "type": "movie",
-      "year": 1994,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.597,
-      "release_date": "1994-09-12",
+      "release_date": "2021-07-02",
       "us_rating": "PG-13"
     },
     {
-      "id": 17204,
-      "title": "Paradise Lost: The Child Murders at Robin Hood Hills",
+      "id": 776527,
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
       "type": "movie",
-      "year": 1996,
-      "poster_url": "https://image.tmdb.org/t/p/w342/h65fwEQTv9zRNyEuExE1wAk5CQ2.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary",
-        "crime",
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.585,
-      "release_date": "1996-12-03",
-      "us_rating": null
-    },
-    {
-      "id": 17204,
-      "title": "Paradise Lost: The Child Murders at Robin Hood Hills",
-      "type": "movie",
-      "year": 1996,
-      "poster_url": "https://image.tmdb.org/t/p/w342/h65fwEQTv9zRNyEuExE1wAk5CQ2.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary",
-        "crime",
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.585,
-      "release_date": "1996-12-03",
-      "us_rating": null
-    },
-    {
-      "id": 318224,
-      "title": "Going Clear: Scientology and the Prison of Belief",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zWHQYR9srde9nZjU6Dot8qTjoni.jpg",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
       "genre": "documentary",
       "genres": [
+        "documentary",
+        "history",
+        "music",
+        "documentary",
+        "history",
+        "music"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.6,
+      "release_date": "2021-07-02",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 96129,
+      "title": "Don't F**k with Cats: Hunting an Internet Killer",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/Crc4XkhLddMTNJfj1iLca0w1Bb.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
         "documentary"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.577,
-      "release_date": "2015-01-25",
-      "us_rating": null
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.6,
+      "release_date": "2019-12-18",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 18094,
@@ -2298,25 +2341,9 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.576,
+      "user_rating": 7.6,
       "release_date": "2008-01-14",
       "us_rating": "NR"
-    },
-    {
-      "id": 10548,
-      "title": "When We Were Kings",
-      "type": "movie",
-      "year": 1996,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yBkZK1JZOOJ3q5Jj1H9UP9T8YuV.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.576,
-      "release_date": "1996-10-25",
-      "us_rating": "PG"
     },
     {
       "id": 21421,
@@ -2331,7 +2358,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.573,
+      "user_rating": 7.6,
       "release_date": "2004-10-07",
       "us_rating": "TV-MA",
       "networks": [
@@ -2341,165 +2368,182 @@
       ]
     },
     {
-      "id": 331781,
-      "title": "Amy",
+      "id": 76180,
+      "title": "Empire of Dreams: The Story of the Star Wars Trilogy",
       "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
+      "year": 2004,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xq0MPT1lLxfznTRaAbInxWT2wfh.jpg",
       "genre": "documentary",
       "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
+        "documentary"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.572,
-      "release_date": "2015-07-02",
-      "us_rating": "R"
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.6,
+      "release_date": "2004-09-20",
+      "us_rating": null
     },
     {
-      "id": 331781,
-      "title": "Amy",
+      "id": 17204,
+      "title": "Paradise Lost: The Child Murders at Robin Hood Hills",
       "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
-      "genre": "documentary",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/h65fwEQTv9zRNyEuExE1wAk5CQ2.jpg",
+      "genre": "crime",
       "genres": [
+        "crime",
         "documentary",
-        "music",
-        "documentary",
-        "music"
+        "crime",
+        "documentary"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.572,
-      "release_date": "2015-07-02",
-      "us_rating": "R"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.6,
+      "release_date": "1996-12-03",
+      "us_rating": null
     },
     {
-      "id": 467062,
-      "title": "Spielberg",
+      "id": 17204,
+      "title": "Paradise Lost: The Child Murders at Robin Hood Hills",
       "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2AAvIR2PHoxNITgLDOkXXlWLlua.jpg",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/h65fwEQTv9zRNyEuExE1wAk5CQ2.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary",
+        "crime",
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.6,
+      "release_date": "1996-12-03",
+      "us_rating": null
+    },
+    {
+      "id": 10548,
+      "title": "When We Were Kings",
+      "type": "movie",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yBkZK1JZOOJ3q5Jj1H9UP9T8YuV.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.546,
-      "release_date": "2017-10-05",
-      "us_rating": null
-    },
-    {
-      "id": 684700,
-      "title": "Athlete A",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jUVbqKcDgcLSS5s4UV82XUkMKlU.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.534,
-      "release_date": "2020-06-23",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 90125,
-      "title": "Marley",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1UQM8zsQ4HhUr4dMgDDDMBrsq5d.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.531,
-      "release_date": "2012-04-20",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 90125,
-      "title": "Marley",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1UQM8zsQ4HhUr4dMgDDDMBrsq5d.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.531,
-      "release_date": "2012-04-20",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 913823,
-      "title": "Fire of Love",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9smEX8UP84yb2GisLwyAyQKvCWS.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.524,
-      "release_date": "2022-07-06",
+      "user_rating": 7.6,
+      "release_date": "1996-10-25",
       "us_rating": "PG"
     },
     {
-      "id": 277640,
-      "title": "Pompeii: Out of Time with Tom Hiddleston",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+      "id": 14275,
+      "title": "Hoop Dreams",
+      "type": "movie",
+      "year": 1994,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.6,
+      "release_date": "1994-09-12",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 318224,
+      "title": "Going Clear: Scientology and the Prison of Belief",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zWHQYR9srde9nZjU6Dot8qTjoni.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.574,
+      "release_date": "2015-01-25",
+      "us_rating": null
+    },
+    {
+      "id": 331781,
+      "title": "Amy",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
       "genre": "documentary",
       "genres": [
         "documentary",
-        "drama"
+        "music",
+        "documentary",
+        "music"
       ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.516,
-      "release_date": "2026-07-22",
-      "us_rating": "TV-PG",
-      "networks": [
-        "National Geographic"
-      ]
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.57,
+      "release_date": "2015-07-02",
+      "us_rating": "R"
     },
     {
-      "id": 664416,
-      "title": "Beastie Boys Story",
+      "id": 331781,
+      "title": "Amy",
       "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mph9vxXnEgiFrkrUqMk40DpPtEX.jpg",
-      "genre": "music",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
+      "genre": "documentary",
       "genres": [
+        "documentary",
         "music",
-        "documentary"
+        "documentary",
+        "music"
       ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 7.515,
-      "release_date": "2020-04-24",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.57,
+      "release_date": "2015-07-02",
       "us_rating": "R"
+    },
+    {
+      "id": 90125,
+      "title": "Marley",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1UQM8zsQ4HhUr4dMgDDDMBrsq5d.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.533,
+      "release_date": "2012-04-20",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 90125,
+      "title": "Marley",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1UQM8zsQ4HhUr4dMgDDDMBrsq5d.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.533,
+      "release_date": "2012-04-20",
+      "us_rating": "PG-13"
     },
     {
       "id": 250766,
@@ -2552,6 +2596,26 @@
       "us_rating": "TV-MA",
       "networks": [
         "Netflix"
+      ]
+    },
+    {
+      "id": 277640,
+      "title": "Pompeii: Out of Time with Tom Hiddleston",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.5,
+      "release_date": "2026-07-22",
+      "us_rating": "TV-PG",
+      "networks": [
+        "National Geographic"
       ]
     },
     {
@@ -2612,6 +2676,132 @@
       ]
     },
     {
+      "id": 242845,
+      "title": "American Nightmare",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y7dQEXvqzNxm3sFY3VV7PqKeHzB.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2024-01-17",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 799375,
+      "title": "Stutz",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uOiJmotRM12wsgfwiEXsp3AErdU.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2022-11-13",
+      "us_rating": "R"
+    },
+    {
+      "id": 913823,
+      "title": "Fire of Love",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9smEX8UP84yb2GisLwyAyQKvCWS.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.5,
+      "release_date": "2022-07-06",
+      "us_rating": "PG"
+    },
+    {
+      "id": 202880,
+      "title": "Keep Sweet: Pray and Obey",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4Nmb8R9fO9ezzTDZKE5hwkPhu7M.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2022-06-08",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 684700,
+      "title": "Athlete A",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jUVbqKcDgcLSS5s4UV82XUkMKlU.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2020-06-23",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 664416,
+      "title": "Beastie Boys Story",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mph9vxXnEgiFrkrUqMk40DpPtEX.jpg",
+      "genre": "music",
+      "genres": [
+        "music",
+        "documentary"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.5,
+      "release_date": "2020-04-24",
+      "us_rating": "R"
+    },
+    {
+      "id": 96481,
+      "title": "Rise of Empires: Ottoman",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nkvdPFYo7o2IQWooJvA9UE0nvAp.jpg",
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure",
+        "documentary",
+        "war & politics"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2020-01-24",
+      "us_rating": null,
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
       "id": 96723,
       "title": "James May: Our Man in\u2026",
       "type": "tv_series",
@@ -2650,6 +2840,145 @@
       "networks": [
         "Netflix"
       ]
+    },
+    {
+      "id": 75871,
+      "title": "The Toys That Made Us",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qh3UQ7WPSSYUJ5FrCugqAeSqIhr.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2017-12-22",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 74851,
+      "title": "Beyond Stranger Things",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rHCFO8RJ3Hg6a8KjWAsvAsa38hp.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "talk"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2017-10-27",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 467062,
+      "title": "Spielberg",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2AAvIR2PHoxNITgLDOkXXlWLlua.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.5,
+      "release_date": "2017-10-05",
+      "us_rating": null
+    },
+    {
+      "id": 469019,
+      "title": "Jim & Andy: The Great Beyond",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kKzopOFXz9YfsCTqg3XpF0GoypX.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "documentary",
+        "drama",
+        "comedy",
+        "documentary",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2017-09-05",
+      "us_rating": null
+    },
+    {
+      "id": 469019,
+      "title": "Jim & Andy: The Great Beyond",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kKzopOFXz9YfsCTqg3XpF0GoypX.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "documentary",
+        "drama",
+        "comedy",
+        "documentary",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.5,
+      "release_date": "2017-09-05",
+      "us_rating": null
+    },
+    {
+      "id": 36970,
+      "title": "Oceans",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kIT3G7QoV1vatMCL8TAA3xnkO2V.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama",
+        "family",
+        "documentary",
+        "drama",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.5,
+      "release_date": "2010-01-22",
+      "us_rating": "G"
+    },
+    {
+      "id": 36970,
+      "title": "Oceans",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kIT3G7QoV1vatMCL8TAA3xnkO2V.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama",
+        "family",
+        "documentary",
+        "drama",
+        "family"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.5,
+      "release_date": "2010-01-22",
+      "us_rating": "G"
     },
     {
       "id": 15302,
@@ -2700,46 +3029,6 @@
       "us_rating": "PG"
     },
     {
-      "id": 96481,
-      "title": "Rise of Empires: Ottoman",
-      "type": "tv_series",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nkvdPFYo7o2IQWooJvA9UE0nvAp.jpg",
-      "genre": "action & adventure",
-      "genres": [
-        "action & adventure",
-        "documentary",
-        "war & politics"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.497,
-      "release_date": "2020-01-24",
-      "us_rating": null,
-      "networks": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 79746,
-      "title": "Explained",
-      "type": "tv_series",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4iiV2Fh4EA5of5B9Wtgllu0WDWA.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.484,
-      "release_date": "2018-05-23",
-      "us_rating": "TV-MA",
-      "networks": [
-        "Netflix"
-      ]
-    },
-    {
       "id": 11779,
       "title": "Buena Vista Social Club",
       "type": "movie",
@@ -2754,7 +3043,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.481,
+      "user_rating": 7.474,
       "release_date": "1999-06-04",
       "us_rating": "G"
     },
@@ -2773,109 +3062,9 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.481,
+      "user_rating": 7.474,
       "release_date": "1999-06-04",
       "us_rating": "G"
-    },
-    {
-      "id": 36970,
-      "title": "Oceans",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kIT3G7QoV1vatMCL8TAA3xnkO2V.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "drama",
-        "family",
-        "documentary",
-        "drama",
-        "family"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.471,
-      "release_date": "2010-01-22",
-      "us_rating": "G"
-    },
-    {
-      "id": 36970,
-      "title": "Oceans",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kIT3G7QoV1vatMCL8TAA3xnkO2V.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "drama",
-        "family",
-        "documentary",
-        "drama",
-        "family"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.471,
-      "release_date": "2010-01-22",
-      "us_rating": "G"
-    },
-    {
-      "id": 799375,
-      "title": "Stutz",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uOiJmotRM12wsgfwiEXsp3AErdU.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.464,
-      "release_date": "2022-11-13",
-      "us_rating": "R"
-    },
-    {
-      "id": 469019,
-      "title": "Jim & Andy: The Great Beyond",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kKzopOFXz9YfsCTqg3XpF0GoypX.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "documentary",
-        "drama",
-        "comedy",
-        "documentary",
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.462,
-      "release_date": "2017-09-05",
-      "us_rating": null
-    },
-    {
-      "id": 469019,
-      "title": "Jim & Andy: The Great Beyond",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kKzopOFXz9YfsCTqg3XpF0GoypX.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "documentary",
-        "drama",
-        "comedy",
-        "documentary",
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.462,
-      "release_date": "2017-09-05",
-      "us_rating": null
     },
     {
       "id": 114705,
@@ -2891,70 +3080,12 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.458,
+      "user_rating": 7.472,
       "release_date": "2021-01-13",
       "us_rating": "TV-MA",
       "networks": [
         "Netflix"
       ]
-    },
-    {
-      "id": 74851,
-      "title": "Beyond Stranger Things",
-      "type": "tv_series",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rHCFO8RJ3Hg6a8KjWAsvAsa38hp.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "talk"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.458,
-      "release_date": "2017-10-27",
-      "us_rating": "TV-14",
-      "networks": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 656690,
-      "title": "The Social Dilemma",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jcaM6V2tCtu6iMHDsGLBUbaYgYp.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "drama",
-        "documentary",
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.454,
-      "release_date": "2020-01-26",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 656690,
-      "title": "The Social Dilemma",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jcaM6V2tCtu6iMHDsGLBUbaYgYp.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "drama",
-        "documentary",
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.454,
-      "release_date": "2020-01-26",
-      "us_rating": "PG-13"
     },
     {
       "id": 85833,
@@ -2969,7 +3100,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.452,
+      "user_rating": 7.47,
       "release_date": "2019-01-24",
       "us_rating": "TV-MA",
       "networks": [
@@ -2977,176 +3108,42 @@
       ]
     },
     {
-      "id": 242845,
-      "title": "American Nightmare",
-      "type": "tv_series",
-      "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/y7dQEXvqzNxm3sFY3VV7PqKeHzB.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.44,
-      "release_date": "2024-01-17",
-      "us_rating": "TV-MA",
-      "networks": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 957457,
-      "title": "Moonage Daydream",
+      "id": 656690,
+      "title": "The Social Dilemma",
       "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xr4EYd4WHr3Z6MXIYR3tEzP6yuT.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.435,
-      "release_date": "2022-09-15",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 957457,
-      "title": "Moonage Daydream",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xr4EYd4WHr3Z6MXIYR3tEzP6yuT.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.435,
-      "release_date": "2022-09-15",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 472424,
-      "title": "Gaga: Five Foot Two",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/g0NONcnzzvWoASFjFoDqXZUW6SV.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.432,
-      "release_date": "2017-09-21",
-      "us_rating": "R"
-    },
-    {
-      "id": 472424,
-      "title": "Gaga: Five Foot Two",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/g0NONcnzzvWoASFjFoDqXZUW6SV.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.432,
-      "release_date": "2017-09-21",
-      "us_rating": "R"
-    },
-    {
-      "id": 106754,
-      "title": "High Score",
-      "type": "tv_series",
       "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ooN2RcOSi2tpfL1P6wCRI7LGq8I.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/jcaM6V2tCtu6iMHDsGLBUbaYgYp.jpg",
       "genre": "documentary",
       "genres": [
-        "documentary"
+        "documentary",
+        "drama",
+        "documentary",
+        "drama"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.427,
-      "release_date": "2020-08-19",
-      "us_rating": "TV-14",
-      "networks": [
-        "Netflix"
-      ]
+      "user_rating": 7.454,
+      "release_date": "2020-01-26",
+      "us_rating": "PG-13"
     },
     {
-      "id": 197248,
-      "title": "Conversations with a Killer: The John Wayne Gacy Tapes",
-      "type": "tv_series",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dSwfINzvtVJZYy1L7fsrRfOetAm.jpg",
+      "id": 656690,
+      "title": "The Social Dilemma",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jcaM6V2tCtu6iMHDsGLBUbaYgYp.jpg",
       "genre": "documentary",
       "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.421,
-      "release_date": "2022-04-20",
-      "us_rating": "TV-MA",
-      "networks": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 318279,
-      "title": "Meru",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hcGQ5KHcs7vwK1dXsPoKYQQTt3q.jpg",
-      "genre": "adventure",
-      "genres": [
-        "adventure",
         "documentary",
-        "adventure",
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.411,
-      "release_date": "2015-01-25",
-      "us_rating": "R"
-    },
-    {
-      "id": 318279,
-      "title": "Meru",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hcGQ5KHcs7vwK1dXsPoKYQQTt3q.jpg",
-      "genre": "adventure",
-      "genres": [
-        "adventure",
+        "drama",
         "documentary",
-        "adventure",
-        "documentary"
+        "drama"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.411,
-      "release_date": "2015-01-25",
-      "us_rating": "R"
+      "user_rating": 7.454,
+      "release_date": "2020-01-26",
+      "us_rating": "PG-13"
     },
     {
       "id": 99626,
@@ -3161,7 +3158,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.41,
+      "user_rating": 7.43,
       "release_date": "2020-02-26",
       "us_rating": "TV-MA",
       "networks": [
@@ -3169,87 +3166,215 @@
       ]
     },
     {
-      "id": 202880,
-      "title": "Keep Sweet: Pray and Obey",
+      "id": 106754,
+      "title": "High Score",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ooN2RcOSi2tpfL1P6wCRI7LGq8I.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.416,
+      "release_date": "2020-08-19",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 325622,
+      "title": "Murder 101",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cy7sdlwtaiZYkpykbnzBtb4IoHs.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "crime"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.4,
+      "release_date": "2026-07-13",
+      "us_rating": "TV-14",
+      "networks": [
+        "Prime Video"
+      ]
+    },
+    {
+      "id": 957457,
+      "title": "Moonage Daydream",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xr4EYd4WHr3Z6MXIYR3tEzP6yuT.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2022-09-15",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 957457,
+      "title": "Moonage Daydream",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xr4EYd4WHr3Z6MXIYR3tEzP6yuT.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2022-09-15",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 197248,
+      "title": "Conversations with a Killer: The John Wayne Gacy Tapes",
       "type": "tv_series",
       "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4Nmb8R9fO9ezzTDZKE5hwkPhu7M.jpg",
-      "genre": "crime",
+      "poster_url": "https://image.tmdb.org/t/p/w342/dSwfINzvtVJZYy1L7fsrRfOetAm.jpg",
+      "genre": "documentary",
       "genres": [
-        "crime",
         "documentary"
       ],
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.4,
-      "release_date": "2022-06-08",
+      "release_date": "2022-04-20",
       "us_rating": "TV-MA",
       "networks": [
         "Netflix"
       ]
     },
     {
-      "id": 114695,
-      "title": "Marvel Studios Legends",
-      "type": "tv_series",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
-      "genre": "action & adventure",
+      "id": 627070,
+      "title": "Tell Me Who I Am",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/v5D745JdnDLVaFsp0eTmSoV8OBV.jpg",
+      "genre": "documentary",
       "genres": [
-        "action & adventure",
         "documentary",
-        "sci-fi & fantasy"
+        "drama",
+        "mystery",
+        "documentary",
+        "drama",
+        "mystery"
       ],
-      "service_id": 337,
-      "service_name": "Disney+",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 7.4,
-      "release_date": "2021-01-08",
-      "us_rating": "TV-14",
+      "release_date": "2019-10-18",
+      "us_rating": null
+    },
+    {
+      "id": 627070,
+      "title": "Tell Me Who I Am",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/v5D745JdnDLVaFsp0eTmSoV8OBV.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama",
+        "mystery",
+        "documentary",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2019-10-18",
+      "us_rating": null
+    },
+    {
+      "id": 536841,
+      "title": "Diego Maradona",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3eBZxi0xcXBnEYq4m4YTVf0eHWX.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.4,
+      "release_date": "2019-06-14",
+      "us_rating": null
+    },
+    {
+      "id": 79746,
+      "title": "Explained",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4iiV2Fh4EA5of5B9Wtgllu0WDWA.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2018-05-23",
+      "us_rating": "TV-MA",
       "networks": [
-        "Disney+"
+        "Netflix"
       ]
     },
     {
-      "id": 627070,
-      "title": "Tell Me Who I Am",
+      "id": 472424,
+      "title": "Gaga: Five Foot Two",
       "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/v5D745JdnDLVaFsp0eTmSoV8OBV.jpg",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/g0NONcnzzvWoASFjFoDqXZUW6SV.jpg",
       "genre": "documentary",
       "genres": [
         "documentary",
-        "drama",
-        "mystery",
+        "music",
         "documentary",
-        "drama",
-        "mystery"
+        "music"
       ],
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.4,
-      "release_date": "2019-10-18",
-      "us_rating": null
+      "release_date": "2017-09-21",
+      "us_rating": "R"
     },
     {
-      "id": 627070,
-      "title": "Tell Me Who I Am",
+      "id": 472424,
+      "title": "Gaga: Five Foot Two",
       "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/v5D745JdnDLVaFsp0eTmSoV8OBV.jpg",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/g0NONcnzzvWoASFjFoDqXZUW6SV.jpg",
       "genre": "documentary",
       "genres": [
         "documentary",
-        "drama",
-        "mystery",
+        "music",
         "documentary",
-        "drama",
-        "mystery"
+        "music"
       ],
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.4,
-      "release_date": "2019-10-18",
-      "us_rating": null
+      "release_date": "2017-09-21",
+      "us_rating": "R"
     },
     {
       "id": 26101,
@@ -3273,57 +3398,134 @@
       ]
     },
     {
-      "id": 318044,
-      "title": "What Happened, Miss Simone?",
+      "id": 438446,
+      "title": "Mommy Dead and Dearest",
       "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8XpM91NVq6IyCnDkiWf4xjHpewK.jpg",
-      "genre": "documentary",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l77SGOaXhLfkBPdl3UqsVMg0w1l.jpg",
+      "genre": "crime",
       "genres": [
+        "crime",
         "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.397,
-      "release_date": "2015-01-22",
-      "us_rating": null
-    },
-    {
-      "id": 318044,
-      "title": "What Happened, Miss Simone?",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8XpM91NVq6IyCnDkiWf4xjHpewK.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music",
-        "documentary",
-        "music"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.397,
-      "release_date": "2015-01-22",
-      "us_rating": null
-    },
-    {
-      "id": 536841,
-      "title": "Diego Maradona",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3eBZxi0xcXBnEYq4m4YTVf0eHWX.jpg",
-      "genre": "documentary",
-      "genres": [
+        "crime",
         "documentary"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.394,
-      "release_date": "2019-06-14",
+      "user_rating": 7.4,
+      "release_date": "2017-03-11",
+      "us_rating": null
+    },
+    {
+      "id": 438446,
+      "title": "Mommy Dead and Dearest",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l77SGOaXhLfkBPdl3UqsVMg0w1l.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary",
+        "crime",
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.4,
+      "release_date": "2017-03-11",
+      "us_rating": null
+    },
+    {
+      "id": 318279,
+      "title": "Meru",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hcGQ5KHcs7vwK1dXsPoKYQQTt3q.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "documentary",
+        "adventure",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2015-01-25",
+      "us_rating": "R"
+    },
+    {
+      "id": 318279,
+      "title": "Meru",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hcGQ5KHcs7vwK1dXsPoKYQQTt3q.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "documentary",
+        "adventure",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2015-01-25",
+      "us_rating": "R"
+    },
+    {
+      "id": 318044,
+      "title": "What Happened, Miss Simone?",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8XpM91NVq6IyCnDkiWf4xjHpewK.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2015-01-22",
+      "us_rating": null
+    },
+    {
+      "id": 318044,
+      "title": "What Happened, Miss Simone?",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8XpM91NVq6IyCnDkiWf4xjHpewK.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music",
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2015-01-22",
+      "us_rating": null
+    },
+    {
+      "id": 132,
+      "title": "Gimme Shelter",
+      "type": "movie",
+      "year": 1970,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7lWFVDYyeft9WbglHGEBUl9OLFu.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.4,
+      "release_date": "1970-12-13",
       "us_rating": null
     },
     {
@@ -3356,7 +3558,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.372,
+      "user_rating": 7.373,
       "release_date": "2008-08-01",
       "us_rating": "PG-13"
     },
@@ -3372,7 +3574,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.37,
+      "user_rating": 7.366,
       "release_date": "2017-04-23",
       "us_rating": null
     },
@@ -3388,9 +3590,46 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.361,
+      "user_rating": 7.359,
       "release_date": "2008-09-07",
       "us_rating": "PG"
+    },
+    {
+      "id": 380808,
+      "title": "Zero Days",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xwQVkRJGCH59jGNPR78Aw8wzyZg.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.355,
+      "release_date": "2016-07-08",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 114695,
+      "title": "Marvel Studios Legends",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure",
+        "documentary",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.354,
+      "release_date": "2021-01-08",
+      "us_rating": "TV-14",
+      "networks": [
+        "Disney+"
+      ]
     },
     {
       "id": 97861,
@@ -3404,9 +3643,77 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.359,
+      "user_rating": 7.344,
       "release_date": "2020-01-29",
       "us_rating": "TV-PG",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 890825,
+      "title": "14 Peaks: Nothing Is Impossible",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8YS9oRn9rcAyBhYELFbGKk1TpFs.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.335,
+      "release_date": "2021-11-12",
+      "us_rating": null
+    },
+    {
+      "id": 1372795,
+      "title": "Return of the King: The Fall and Rise of Elvis Presley",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eijfr4QiMu1ZK2XfBNd9KjoRmau.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.324,
+      "release_date": "2024-11-12",
+      "us_rating": "R"
+    },
+    {
+      "id": 899082,
+      "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.311,
+      "release_date": "2022-01-01",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 93016,
+      "title": "Inside Bill's Brain: Decoding Bill Gates",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5RIVJnpIkPt90EwJQwPzqS1UTPG.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.307,
+      "release_date": "2019-09-20",
+      "us_rating": "TV-14",
       "networks": [
         "Netflix"
       ]
@@ -3424,137 +3731,12 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.355,
+      "user_rating": 7.301,
       "release_date": "2021-07-09",
       "us_rating": "TV-MA",
       "networks": [
         "Netflix"
       ]
-    },
-    {
-      "id": 380808,
-      "title": "Zero Days",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xwQVkRJGCH59jGNPR78Aw8wzyZg.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.354,
-      "release_date": "2016-07-08",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 132,
-      "title": "Gimme Shelter",
-      "type": "movie",
-      "year": 1970,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7lWFVDYyeft9WbglHGEBUl9OLFu.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "music"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.353,
-      "release_date": "1970-12-13",
-      "us_rating": null
-    },
-    {
-      "id": 438446,
-      "title": "Mommy Dead and Dearest",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/l77SGOaXhLfkBPdl3UqsVMg0w1l.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary",
-        "crime",
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.351,
-      "release_date": "2017-03-11",
-      "us_rating": null
-    },
-    {
-      "id": 438446,
-      "title": "Mommy Dead and Dearest",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/l77SGOaXhLfkBPdl3UqsVMg0w1l.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary",
-        "crime",
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.351,
-      "release_date": "2017-03-11",
-      "us_rating": null
-    },
-    {
-      "id": 890825,
-      "title": "14 Peaks: Nothing Is Impossible",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8YS9oRn9rcAyBhYELFbGKk1TpFs.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.334,
-      "release_date": "2021-11-12",
-      "us_rating": null
-    },
-    {
-      "id": 57586,
-      "title": "African Cats",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg",
-      "genre": "adventure",
-      "genres": [
-        "adventure",
-        "documentary",
-        "adventure",
-        "documentary"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.33,
-      "release_date": "2011-04-21",
-      "us_rating": "G"
-    },
-    {
-      "id": 57586,
-      "title": "African Cats",
-      "type": "movie",
-      "year": 2011,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg",
-      "genre": "adventure",
-      "genres": [
-        "adventure",
-        "documentary",
-        "adventure",
-        "documentary"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.33,
-      "release_date": "2011-04-21",
-      "us_rating": "G"
     },
     {
       "id": 206246,
@@ -3568,144 +3750,8 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.325,
+      "user_rating": 7.3,
       "release_date": "2022-08-03",
-      "us_rating": "TV-MA",
-      "networks": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 97401,
-      "title": "Cheer",
-      "type": "tv_series",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5GzthY7qguoUs43K9qmwHJWjI05.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.313,
-      "release_date": "2020-01-08",
-      "us_rating": null,
-      "networks": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 899082,
-      "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.3,
-      "release_date": "2022-01-01",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 743601,
-      "title": "American Murder: The Family Next Door",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary",
-        "crime",
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.3,
-      "release_date": "2020-09-29",
-      "us_rating": "R"
-    },
-    {
-      "id": 743601,
-      "title": "American Murder: The Family Next Door",
-      "type": "movie",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary",
-        "crime",
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.3,
-      "release_date": "2020-09-29",
-      "us_rating": "R"
-    },
-    {
-      "id": 84287,
-      "title": "The Imposter",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yMaHhVkyFL4U1jJkg9SZKo80T9w.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary",
-        "mystery",
-        "crime",
-        "documentary",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.3,
-      "release_date": "2012-07-13",
-      "us_rating": "R"
-    },
-    {
-      "id": 84287,
-      "title": "The Imposter",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yMaHhVkyFL4U1jJkg9SZKo80T9w.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary",
-        "mystery",
-        "crime",
-        "documentary",
-        "mystery"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.3,
-      "release_date": "2012-07-13",
-      "us_rating": "R"
-    },
-    {
-      "id": 79126,
-      "title": "Evil Genius",
-      "type": "tv_series",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rXaq7vl7sXynXFBVLPrNzj6CGUp.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary",
-        "mystery"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.283,
-      "release_date": "2018-05-11",
       "us_rating": "TV-MA",
       "networks": [
         "Netflix"
@@ -3723,25 +3769,46 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.279,
+      "user_rating": 7.3,
       "release_date": "2022-04-08",
       "us_rating": "R"
     },
     {
-      "id": 17346,
-      "title": "Grey Gardens",
+      "id": 861604,
+      "title": "Blood Brothers: Malcolm X & Muhammad Ali",
       "type": "movie",
-      "year": 1976,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jb6o66HE1duy0L7MJzEZXvrrsux.jpg",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kdOXdPIgbbCHXb51tWJZ0r8kZfe.jpg",
       "genre": "documentary",
       "genres": [
-        "documentary"
+        "documentary",
+        "history"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.273,
-      "release_date": "1976-02-19",
-      "us_rating": "PG"
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.3,
+      "release_date": "2021-09-08",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 131651,
+      "title": "Turning Point: 9/11 and the War on Terror",
+      "type": "tv_series",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aWHyzSVVVlKcd6KIuZCMIvD5TPZ.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "war & politics"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.3,
+      "release_date": "2021-09-01",
+      "us_rating": "TV-14",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 129677,
@@ -3755,11 +3822,68 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.262,
+      "user_rating": 7.3,
       "release_date": "2021-01-19",
       "us_rating": "TV-PG",
       "networks": [
         "Sky History"
+      ]
+    },
+    {
+      "id": 743601,
+      "title": "American Murder: The Family Next Door",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary",
+        "crime",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.3,
+      "release_date": "2020-09-29",
+      "us_rating": "R"
+    },
+    {
+      "id": 743601,
+      "title": "American Murder: The Family Next Door",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary",
+        "crime",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.3,
+      "release_date": "2020-09-29",
+      "us_rating": "R"
+    },
+    {
+      "id": 97401,
+      "title": "Cheer",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5GzthY7qguoUs43K9qmwHJWjI05.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.3,
+      "release_date": "2020-01-08",
+      "us_rating": null,
+      "networks": [
+        "Netflix"
       ]
     },
     {
@@ -3776,12 +3900,148 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.257,
+      "user_rating": 7.3,
       "release_date": "2019-07-03",
       "us_rating": "TV-MA",
       "networks": [
         "Netflix"
       ]
+    },
+    {
+      "id": 79126,
+      "title": "Evil Genius",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rXaq7vl7sXynXFBVLPrNzj6CGUp.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary",
+        "mystery"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.3,
+      "release_date": "2018-05-11",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 57586,
+      "title": "African Cats",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "documentary",
+        "adventure",
+        "documentary"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.3,
+      "release_date": "2011-04-21",
+      "us_rating": "G"
+    },
+    {
+      "id": 57586,
+      "title": "African Cats",
+      "type": "movie",
+      "year": 2011,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nERPMF2kHjc1slLHZYZGwcWX9kg.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "documentary",
+        "adventure",
+        "documentary"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.3,
+      "release_date": "2011-04-21",
+      "us_rating": "G"
+    },
+    {
+      "id": 18408,
+      "title": "Life After People: The Series",
+      "type": "tv_series",
+      "year": 2009,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2I7qpI6LSgNPWvhAXgN79jZgMwD.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.3,
+      "release_date": "2009-04-21",
+      "us_rating": null,
+      "networks": [
+        "History"
+      ]
+    },
+    {
+      "id": 17346,
+      "title": "Grey Gardens",
+      "type": "movie",
+      "year": 1976,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jb6o66HE1duy0L7MJzEZXvrrsux.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.3,
+      "release_date": "1976-02-19",
+      "us_rating": "PG"
+    },
+    {
+      "id": 84287,
+      "title": "The Imposter",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yMaHhVkyFL4U1jJkg9SZKo80T9w.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary",
+        "mystery",
+        "crime",
+        "documentary",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.298,
+      "release_date": "2012-07-13",
+      "us_rating": "R"
+    },
+    {
+      "id": 84287,
+      "title": "The Imposter",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yMaHhVkyFL4U1jJkg9SZKo80T9w.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary",
+        "mystery",
+        "crime",
+        "documentary",
+        "mystery"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.298,
+      "release_date": "2012-07-13",
+      "us_rating": "R"
     },
     {
       "id": 93219,
@@ -3795,49 +4055,12 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.256,
+      "user_rating": 7.276,
       "release_date": "2019-11-29",
       "us_rating": "TV-MA",
       "networks": [
         "Netflix"
       ]
-    },
-    {
-      "id": 131651,
-      "title": "Turning Point: 9/11 and the War on Terror",
-      "type": "tv_series",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aWHyzSVVVlKcd6KIuZCMIvD5TPZ.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "war & politics"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.246,
-      "release_date": "2021-09-01",
-      "us_rating": "TV-14",
-      "networks": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 352208,
-      "title": "Where to Invade Next",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/58gW2Uty2cAsgBgwC58vT2Z9SVt.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "comedy"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.239,
-      "release_date": "2015-12-23",
-      "us_rating": "R"
     },
     {
       "id": 1003180,
@@ -3851,73 +4074,9 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.224,
+      "user_rating": 7.223,
       "release_date": "2022-08-18",
       "us_rating": null
-    },
-    {
-      "id": 13180,
-      "title": "Zeitgeist: Addendum",
-      "type": "movie",
-      "year": 2008,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5zlBxoyWRyzPOHO7QmmAC1WG9bK.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "history",
-        "war",
-        "documentary",
-        "history",
-        "war"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.21,
-      "release_date": "2008-10-02",
-      "us_rating": null
-    },
-    {
-      "id": 13180,
-      "title": "Zeitgeist: Addendum",
-      "type": "movie",
-      "year": 2008,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5zlBxoyWRyzPOHO7QmmAC1WG9bK.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "history",
-        "war",
-        "documentary",
-        "history",
-        "war"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.21,
-      "release_date": "2008-10-02",
-      "us_rating": null
-    },
-    {
-      "id": 60603,
-      "title": "The Curse of Oak Island",
-      "type": "tv_series",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
-      "genre": "action & adventure",
-      "genres": [
-        "action & adventure",
-        "documentary",
-        "mystery",
-        "reality"
-      ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.209,
-      "release_date": "2014-01-05",
-      "us_rating": "TV-PG",
-      "networks": [
-        "History"
-      ]
     },
     {
       "id": 1146302,
@@ -3931,7 +4090,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.207,
+      "user_rating": 7.215,
       "release_date": "2023-09-16",
       "us_rating": "R"
     },
@@ -3947,9 +4106,30 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.205,
+      "user_rating": 7.208,
       "release_date": "2021-07-23",
       "us_rating": "R"
+    },
+    {
+      "id": 333058,
+      "title": "Welcome to the Family: The Murder of Dan Markel",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2Do6U54cg31Y9DWWmjT69O6lFow.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.2,
+      "release_date": "2026-09-01",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Hulu",
+        "Disney+"
+      ]
     },
     {
       "id": 311731,
@@ -3969,6 +4149,43 @@
       "networks": [
         "HBO"
       ]
+    },
+    {
+      "id": 283197,
+      "title": "American Murder: Gabby Petito",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/83PrIV5PH124m1sR4UIubm7E9sO.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "crime"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.2,
+      "release_date": "2025-02-17",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 1369167,
+      "title": "2024 Rock & Roll Hall of Fame Induction Ceremony",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hXfAUXO0j8d9ANFqcfMSyxCbwaO.jpg",
+      "genre": "music",
+      "genres": [
+        "music",
+        "documentary"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.2,
+      "release_date": "2024-10-19",
+      "us_rating": null
     },
     {
       "id": 97062,
@@ -4011,11 +4228,31 @@
       ]
     },
     {
-      "id": 93016,
-      "title": "Inside Bill's Brain: Decoding Bill Gates",
+      "id": 94813,
+      "title": "The Devil Next Door",
       "type": "tv_series",
       "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5RIVJnpIkPt90EwJQwPzqS1UTPG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/sLv7OzCqqCoMG2l464BNXhwni3q.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.2,
+      "release_date": "2019-11-04",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 565716,
+      "title": "American Factory",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
@@ -4023,11 +4260,24 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.2,
-      "release_date": "2019-09-20",
-      "us_rating": "TV-14",
-      "networks": [
-        "Netflix"
-      ]
+      "release_date": "2019-08-21",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 376228,
+      "title": "Audrie & Daisy",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4AsrmTmKMVs8PmBnu6jNpMekoBj.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.2,
+      "release_date": "2016-09-23",
+      "us_rating": null
     },
     {
       "id": 373072,
@@ -4046,23 +4296,139 @@
       "us_rating": "R"
     },
     {
-      "id": 18408,
-      "title": "Life After People: The Series",
+      "id": 352208,
+      "title": "Where to Invade Next",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/58gW2Uty2cAsgBgwC58vT2Z9SVt.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "comedy"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "2015-12-23",
+      "us_rating": "R"
+    },
+    {
+      "id": 317952,
+      "title": "Cartel Land",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bNNP8IYV1VZKsS5CRavRpRDWV06.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama",
+        "documentary",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "2015-07-03",
+      "us_rating": "R"
+    },
+    {
+      "id": 317952,
+      "title": "Cartel Land",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bNNP8IYV1VZKsS5CRavRpRDWV06.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama",
+        "documentary",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "2015-07-03",
+      "us_rating": "R"
+    },
+    {
+      "id": 60603,
+      "title": "The Curse of Oak Island",
       "type": "tv_series",
-      "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2I7qpI6LSgNPWvhAXgN79jZgMwD.jpg",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure",
+        "documentary",
+        "mystery",
+        "reality"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.2,
+      "release_date": "2014-01-05",
+      "us_rating": "TV-PG",
+      "networks": [
+        "History"
+      ]
+    },
+    {
+      "id": 13180,
+      "title": "Zeitgeist: Addendum",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5zlBxoyWRyzPOHO7QmmAC1WG9bK.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history",
+        "war",
+        "documentary",
+        "history",
+        "war"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "2008-10-02",
+      "us_rating": null
+    },
+    {
+      "id": 13180,
+      "title": "Zeitgeist: Addendum",
+      "type": "movie",
+      "year": 2008,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5zlBxoyWRyzPOHO7QmmAC1WG9bK.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history",
+        "war",
+        "documentary",
+        "history",
+        "war"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "2008-10-02",
+      "us_rating": null
+    },
+    {
+      "id": 13020,
+      "title": "Enron: The Smartest Guys in the Room",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zezeOElCxlPui9SFGj5ToZ4W1Nh.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
       ],
-      "service_id": 337,
-      "service_name": "Disney+",
+      "service_id": 9,
+      "service_name": "Prime Video",
       "user_rating": 7.2,
-      "release_date": "2009-04-21",
-      "us_rating": null,
-      "networks": [
-        "History"
-      ]
+      "release_date": "2005-04-22",
+      "us_rating": "R"
     },
     {
       "id": 159014,
@@ -4082,76 +4448,6 @@
       "us_rating": "PG-13"
     },
     {
-      "id": 317952,
-      "title": "Cartel Land",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bNNP8IYV1VZKsS5CRavRpRDWV06.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "drama",
-        "documentary",
-        "drama"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.176,
-      "release_date": "2015-07-03",
-      "us_rating": "R"
-    },
-    {
-      "id": 317952,
-      "title": "Cartel Land",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bNNP8IYV1VZKsS5CRavRpRDWV06.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "drama",
-        "documentary",
-        "drama"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.176,
-      "release_date": "2015-07-03",
-      "us_rating": "R"
-    },
-    {
-      "id": 565716,
-      "title": "American Factory",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.169,
-      "release_date": "2019-08-21",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 13020,
-      "title": "Enron: The Smartest Guys in the Room",
-      "type": "movie",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zezeOElCxlPui9SFGj5ToZ4W1Nh.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.163,
-      "release_date": "2005-04-22",
-      "us_rating": "R"
-    },
-    {
       "id": 101267,
       "title": "Katy Perry: Part of Me",
       "type": "movie",
@@ -4169,20 +4465,24 @@
       "us_rating": "PG"
     },
     {
-      "id": 376228,
-      "title": "Audrie & Daisy",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4AsrmTmKMVs8PmBnu6jNpMekoBj.jpg",
-      "genre": "documentary",
+      "id": 4709,
+      "title": "Man vs. Wild",
+      "type": "tv_series",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9M4xXcz9m1aUlRsASv7vsx776do.jpg",
+      "genre": "action & adventure",
       "genres": [
+        "action & adventure",
         "documentary"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.153,
-      "release_date": "2016-09-23",
-      "us_rating": null
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.147,
+      "release_date": "2006-10-27",
+      "us_rating": "TV-PG",
+      "networks": [
+        "Discovery"
+      ]
     },
     {
       "id": 315800,
@@ -4204,34 +4504,49 @@
       ]
     },
     {
-      "id": 2260,
-      "title": "H2O: Just Add Water",
-      "type": "tv_series",
-      "year": 2003,
-      "poster_url": "https://image.tmdb.org/t/p/w342/429t6nh7M8cg29CtgXAjvwWe1Dv.jpg",
+      "id": 988046,
+      "title": "Girl in the Picture",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/w6dnirDUhvWuHy91QECqGSYmOpa.jpg",
       "genre": "crime",
       "genres": [
         "crime",
         "documentary",
-        "drama",
-        "family",
-        "sci-fi & fantasy"
+        "crime",
+        "documentary"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.142,
-      "release_date": "2003-05-30",
-      "us_rating": "TV-PG",
-      "networks": [
-        "10"
-      ]
+      "user_rating": 7.141,
+      "release_date": "2022-07-06",
+      "us_rating": "R"
     },
     {
-      "id": 94813,
-      "title": "The Devil Next Door",
+      "id": 988046,
+      "title": "Girl in the Picture",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/w6dnirDUhvWuHy91QECqGSYmOpa.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary",
+        "crime",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.141,
+      "release_date": "2022-07-06",
+      "us_rating": "R"
+    },
+    {
+      "id": 76307,
+      "title": "Dirty Money",
       "type": "tv_series",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sLv7OzCqqCoMG2l464BNXhwni3q.jpg",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hAnNeIPSzV0a8jxE3nkEdCtYWp8.jpg",
       "genre": "crime",
       "genres": [
         "crime",
@@ -4240,69 +4555,10 @@
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.139,
-      "release_date": "2019-11-04",
-      "us_rating": "TV-MA",
+      "release_date": "2018-01-26",
+      "us_rating": "TV-14",
       "networks": [
         "Netflix"
-      ]
-    },
-    {
-      "id": 988046,
-      "title": "Girl in the Picture",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/w6dnirDUhvWuHy91QECqGSYmOpa.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary",
-        "crime",
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.133,
-      "release_date": "2022-07-06",
-      "us_rating": "R"
-    },
-    {
-      "id": 988046,
-      "title": "Girl in the Picture",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/w6dnirDUhvWuHy91QECqGSYmOpa.jpg",
-      "genre": "crime",
-      "genres": [
-        "crime",
-        "documentary",
-        "crime",
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.133,
-      "release_date": "2022-07-06",
-      "us_rating": "R"
-    },
-    {
-      "id": 32608,
-      "title": "Ancient Aliens",
-      "type": "tv_series",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "mystery",
-        "sci-fi & fantasy"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.132,
-      "release_date": "2010-04-20",
-      "us_rating": "TV-PG",
-      "networks": [
-        "History"
       ]
     },
     {
@@ -4347,7 +4603,7 @@
       "title": "Amend: The Fight for America",
       "type": "tv_series",
       "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zvgMH7sIBhBtXZ10td59zNDYqrt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/sGjTwbXSwKiyvkNURipvicW6scJ.jpg",
       "genre": "documentary",
       "genres": [
         "documentary",
@@ -4364,21 +4620,40 @@
       ]
     },
     {
-      "id": 103506,
-      "title": "Jeffrey Epstein: Filthy Rich",
+      "id": 111647,
+      "title": "Seduced: Inside the NXIVM Cult",
       "type": "tv_series",
       "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vV72HIa2a1nnqb5nCHUf5Dn2Y5d.jpg",
-      "genre": "crime",
+      "poster_url": "https://image.tmdb.org/t/p/w342/2algVl1riUbFcFBxxy1Ops6FNM7.jpg",
+      "genre": "documentary",
       "genres": [
-        "crime",
+        "documentary",
+        "crime"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.1,
+      "release_date": "2020-10-18",
+      "us_rating": "TV-MA",
+      "networks": [
+        "STARZ"
+      ]
+    },
+    {
+      "id": 108298,
+      "title": "Challenger: The Final Flight",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nJqCgP3vzu79mtf3i51Dv2B20Oy.jpg",
+      "genre": "documentary",
+      "genres": [
         "documentary"
       ],
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.1,
-      "release_date": "2020-05-27",
-      "us_rating": "TV-MA",
+      "release_date": "2020-09-16",
+      "us_rating": "TV-14",
       "networks": [
         "Netflix"
       ]
@@ -4403,23 +4678,88 @@
       ]
     },
     {
-      "id": 76307,
-      "title": "Dirty Money",
-      "type": "tv_series",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hAnNeIPSzV0a8jxE3nkEdCtYWp8.jpg",
-      "genre": "crime",
+      "id": 262481,
+      "title": "An Honest Liar",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sXgXPtynmZnLLISonrrc7XtrLKv.jpg",
+      "genre": "comedy",
       "genres": [
-        "crime",
+        "comedy",
+        "documentary",
+        "history",
+        "comedy",
         "documentary"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.1,
+      "release_date": "2014-04-18",
+      "us_rating": null
+    },
+    {
+      "id": 262481,
+      "title": "An Honest Liar",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sXgXPtynmZnLLISonrrc7XtrLKv.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "documentary",
+        "history",
+        "comedy",
+        "documentary"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.1,
+      "release_date": "2014-04-18",
+      "us_rating": null
+    },
+    {
+      "id": 32608,
+      "title": "Ancient Aliens",
+      "type": "tv_series",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "mystery",
+        "sci-fi & fantasy"
       ],
       "service_id": 8,
       "service_name": "Netflix",
       "user_rating": 7.1,
-      "release_date": "2018-01-26",
-      "us_rating": "TV-14",
+      "release_date": "2010-04-20",
+      "us_rating": "TV-PG",
       "networks": [
-        "Netflix"
+        "History",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 2260,
+      "title": "H2O: Just Add Water",
+      "type": "tv_series",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/429t6nh7M8cg29CtgXAjvwWe1Dv.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary",
+        "drama",
+        "family",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.1,
+      "release_date": "2003-05-30",
+      "us_rating": "TV-PG",
+      "networks": [
+        "10"
       ]
     },
     {
@@ -4439,65 +4779,6 @@
       "us_rating": "PG"
     },
     {
-      "id": 262481,
-      "title": "An Honest Liar",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sXgXPtynmZnLLISonrrc7XtrLKv.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "documentary",
-        "history",
-        "comedy",
-        "documentary"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.093,
-      "release_date": "2014-04-18",
-      "us_rating": null
-    },
-    {
-      "id": 262481,
-      "title": "An Honest Liar",
-      "type": "movie",
-      "year": 2014,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sXgXPtynmZnLLISonrrc7XtrLKv.jpg",
-      "genre": "comedy",
-      "genres": [
-        "comedy",
-        "documentary",
-        "history",
-        "comedy",
-        "documentary"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.093,
-      "release_date": "2014-04-18",
-      "us_rating": null
-    },
-    {
-      "id": 108298,
-      "title": "Challenger: The Final Flight",
-      "type": "tv_series",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nJqCgP3vzu79mtf3i51Dv2B20Oy.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.092,
-      "release_date": "2020-09-16",
-      "us_rating": "TV-14",
-      "networks": [
-        "Netflix"
-      ]
-    },
-    {
       "id": 669,
       "title": "Nanook of the North",
       "type": "movie",
@@ -4512,7 +4793,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.078,
+      "user_rating": 7.1,
       "release_date": "1922-06-11",
       "us_rating": null
     },
@@ -4531,7 +4812,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.078,
+      "user_rating": 7.1,
       "release_date": "1922-06-11",
       "us_rating": null
     },
@@ -4547,7 +4828,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.071,
+      "user_rating": 7.073,
       "release_date": "2022-02-09",
       "us_rating": "PG-13"
     },
@@ -4568,20 +4849,20 @@
       "us_rating": null
     },
     {
-      "id": 1061671,
-      "title": "Pamela, A Love Story",
+      "id": 565719,
+      "title": "Hail Satan?",
       "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lwP8CMOfPJhkMyxELgX2D2aDZfy.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.037,
-      "release_date": "2023-01-30",
-      "us_rating": null
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.04,
+      "release_date": "2019-04-17",
+      "us_rating": "R"
     },
     {
       "id": 591278,
@@ -4595,28 +4876,43 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.031,
+      "user_rating": 7.036,
       "release_date": "2019-05-26",
       "us_rating": null
     },
     {
-      "id": 103023,
-      "title": "I'll Be Gone in the Dark",
-      "type": "tv_series",
-      "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wP8ypum7Jpy1UBfR6HLxdvMkqX6.jpg",
-      "genre": "crime",
+      "id": 1061671,
+      "title": "Pamela, A Love Story",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
+      "genre": "documentary",
       "genres": [
-        "crime",
         "documentary"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.004,
-      "release_date": "2020-06-28",
-      "us_rating": "TV-MA",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.021,
+      "release_date": "2023-01-30",
+      "us_rating": null
+    },
+    {
+      "id": 334569,
+      "title": "Chilean Mine Rescue: Race Against Time",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/b0AQ9aCyRtiTEKhl1au78kksSgN.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.0,
+      "release_date": "2026-09-25",
+      "us_rating": "TV-14",
       "networks": [
-        "HBO"
+        "National Geographic"
       ]
     },
     {
@@ -4758,6 +5054,46 @@
       ]
     },
     {
+      "id": 103023,
+      "title": "I'll Be Gone in the Dark",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wP8ypum7Jpy1UBfR6HLxdvMkqX6.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.0,
+      "release_date": "2020-06-28",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
+    },
+    {
+      "id": 103506,
+      "title": "Jeffrey Epstein: Filthy Rich",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vV72HIa2a1nnqb5nCHUf5Dn2Y5d.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.0,
+      "release_date": "2020-05-27",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
       "id": 566228,
       "title": "The Inventor: Out for Blood in Silicon Valley",
       "type": "movie",
@@ -4774,24 +5110,20 @@
       "us_rating": null
     },
     {
-      "id": 4709,
-      "title": "Man vs. Wild",
-      "type": "tv_series",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9M4xXcz9m1aUlRsASv7vsx776do.jpg",
-      "genre": "action & adventure",
+      "id": 916738,
+      "title": "Nam June Paik: Moon Is the Oldest TV",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ceqIRL4BfHguTnlLz00wNlc8uAN.jpg",
+      "genre": "documentary",
       "genres": [
-        "action & adventure",
         "documentary"
       ],
-      "service_id": 15,
-      "service_name": "Hulu",
-      "user_rating": 7.0,
-      "release_date": "2006-10-27",
-      "us_rating": "TV-PG",
-      "networks": [
-        "Discovery"
-      ]
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.9,
+      "release_date": "2023-03-24",
+      "us_rating": null
     },
     {
       "id": 1662317,
@@ -4809,6 +5141,25 @@
       "user_rating": 6.807,
       "release_date": "2026-05-14",
       "us_rating": "R"
+    },
+    {
+      "id": 332910,
+      "title": "A Killer Story",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aq9m0ZiiNVquFFrTMeL9dCDstkJ.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.8,
+      "release_date": "2026-09-10",
+      "us_rating": "TV-MA",
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 157194,
@@ -4868,6 +5219,102 @@
       ]
     },
     {
+      "id": 1400780,
+      "title": "Come See Me in the Good Light",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5AFbcDGT78cLZTyHTSDBohczjuO.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 6.688,
+      "release_date": "2025-11-14",
+      "us_rating": "R"
+    },
+    {
+      "id": 1437446,
+      "title": "The Twister: Caught in the Storm",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ggXb37lX9gW4SR7kpMaraXDFeFR.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.524,
+      "release_date": "2025-03-18",
+      "us_rating": "R"
+    },
+    {
+      "id": 1279717,
+      "title": "Illusions for Sale: The Rise and Fall of Generation Zoe",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5aHeqOt9B0iolBRKQdW5HWDoZ53.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.5,
+      "release_date": "2024-05-22",
+      "us_rating": "R"
+    },
+    {
+      "id": 1224953,
+      "title": "A Hero's Journey: The Making of Percy Jackson and the Olympians",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mHbiXDWetNGTeWGJRXwSRJBDVqM.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 6.462,
+      "release_date": "2024-01-30",
+      "us_rating": "PG"
+    },
+    {
+      "id": 953300,
+      "title": "The Mystery of Marilyn Monroe: The Unheard Tapes",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9Ab3MEngH2sWK8uydGBFfgZDB4z.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.349,
+      "release_date": "2022-04-27",
+      "us_rating": "R"
+    },
+    {
+      "id": 1517758,
+      "title": "Stiller & Meara: Nothing Is Lost",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zJuzuanxfc7D7Kqz4qYQqsDhRY3.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 6.107,
+      "release_date": "2025-10-17",
+      "us_rating": "R"
+    },
+    {
       "id": 312530,
       "title": "Murder in Glitterball City",
       "type": "tv_series",
@@ -4888,23 +5335,37 @@
       ]
     },
     {
-      "id": 326440,
-      "title": "JA\u0178-Z in 8",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ncwa0H2NxO64sHnY3Xda0pWtdcl.jpg",
+      "id": 1324987,
+      "title": "Untold: The Murder of Air McNair",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wCsl9VrGGfcWqoe8A1VD1mo0cIs.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "crime"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 5.776,
+      "release_date": "2024-08-19",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 1275606,
+      "title": "Marvel Studios Assembled: The Making of X-Men '97",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6YIhiAzNB9PPgIPA04tD1xaSBMw.jpg",
       "genre": "documentary",
       "genres": [
         "documentary"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 5.5,
-      "release_date": "2026-09-18",
-      "us_rating": null,
-      "networks": [
-        "HBO"
-      ]
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 5.769,
+      "release_date": "2024-05-21",
+      "us_rating": "PG"
     },
     {
       "id": 312428,
@@ -4927,6 +5388,22 @@
       ]
     },
     {
+      "id": 1188618,
+      "title": "Titanic: Case Closed",
+      "type": "movie",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1IC5QesDZsimN2xll7avmCgIRM8.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 531,
+      "service_name": "Paramount+",
+      "user_rating": 5.0,
+      "release_date": "2012-01-01",
+      "us_rating": null
+    },
+    {
       "id": 323111,
       "title": "Michael Jackson: The Verdict",
       "type": "tv_series",
@@ -4938,11 +5415,30 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 4.645,
+      "user_rating": 4.597,
       "release_date": "2026-06-03",
       "us_rating": "TV-MA",
       "networks": [
         "Netflix"
+      ]
+    },
+    {
+      "id": 326440,
+      "title": "JA\u0178-Z in 8",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ncwa0H2NxO64sHnY3Xda0pWtdcl.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 4.5,
+      "release_date": "2026-09-18",
+      "us_rating": null,
+      "networks": [
+        "HBO"
       ]
     },
     {
@@ -4964,6 +5460,24 @@
       "networks": [
         "Oxygen"
       ]
+    },
+    {
+      "id": 1000703,
+      "title": "Billie Eilish: The World\u2019s A Little Blurry Live Premiere Event",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aTvCFO8vXM41zEACxOnForNOmJp.jpg",
+      "genre": "music",
+      "genres": [
+        "music",
+        "documentary",
+        "tv movie"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 3.5,
+      "release_date": "2021-02-28",
+      "us_rating": null
     },
     {
       "id": 324043,
@@ -5005,6 +5519,59 @@
       ]
     },
     {
+      "id": 1547050,
+      "title": "Lali: Time To Step Up",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cz6U9ot1XKRjw8OMMAb3XKSGhnA.jpg",
+      "genre": "music",
+      "genres": [
+        "music",
+        "documentary"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 1.0,
+      "release_date": "2025-12-04",
+      "us_rating": null
+    },
+    {
+      "id": 336768,
+      "title": "Aaj",
+      "type": "tv_series",
+      "year": 2027,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qHoNTS3JCFFzVhAMh8dpmKww4my.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "documentary",
+        "crime"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2027-01-01",
+      "us_rating": null,
+      "networks": []
+    },
+    {
+      "id": 332290,
+      "title": "Seeing is Believing: The Story of Narrative Art",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-12-31",
+      "us_rating": null,
+      "networks": []
+    },
+    {
       "id": 336199,
       "title": "Crime and Punishment in America",
       "type": "tv_series",
@@ -5037,7 +5604,7 @@
       "service_name": "Apple TV+",
       "user_rating": 0.0,
       "release_date": "2026-11-06",
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "networks": [
         "Apple TV"
       ]
@@ -5056,7 +5623,7 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-10-27",
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "networks": [
         "Netflix"
       ]
@@ -5080,6 +5647,25 @@
       "networks": [
         "BBC Two",
         "BBC One Northern Ireland"
+      ]
+    },
+    {
+      "id": 336973,
+      "title": "Hometown Giants",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 0.0,
+      "release_date": "2026-10-16",
+      "us_rating": null,
+      "networks": [
+        "Prime Video"
       ]
     },
     {
@@ -5160,6 +5746,26 @@
       ]
     },
     {
+      "id": 337244,
+      "title": "Stress Test",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5mBq3FF9b6op5TcwT50af1eHlj0.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "comedy"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-06",
+      "us_rating": null,
+      "networks": [
+        "TVOntario"
+      ]
+    },
+    {
       "id": 334888,
       "title": "Africa Earth's Wild Home",
       "type": "tv_series",
@@ -5173,9 +5779,10 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-02",
-      "us_rating": null,
+      "us_rating": "TV-PG",
       "networks": [
-        "National Geographic"
+        "National Geographic",
+        "Nat Geo Wild"
       ]
     },
     {
@@ -5230,8 +5837,8 @@
         "documentary",
         "reality"
       ],
-      "service_id": 0,
-      "service_name": "TBD",
+      "service_id": 386,
+      "service_name": "Peacock",
       "user_rating": 0.0,
       "release_date": "2026-09-28",
       "us_rating": null,
@@ -5312,6 +5919,25 @@
       "us_rating": null,
       "networks": [
         "Prime Video"
+      ]
+    },
+    {
+      "id": 329542,
+      "title": "Legend of Troy: The Epic Rise and Fall",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6t0w5APf5Kus2O2kI4KZhLO05FM.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 0.0,
+      "release_date": "2026-07-13",
+      "us_rating": "TV-14",
+      "networks": [
+        "National Geographic"
       ]
     },
     {
@@ -5524,6 +6150,73 @@
       ]
     },
     {
+      "id": 1583875,
+      "title": "Los mejores a\u00f1os de nuestra vida",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-04-30",
+      "us_rating": null
+    },
+    {
+      "id": 1510306,
+      "title": "With Hasan in Gaza",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yQXvnbzchPPJYSKJqYp8Ecjio68.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "war"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-03-26",
+      "us_rating": null
+    },
+    {
+      "id": 1512629,
+      "title": "Biermann",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-03-19",
+      "us_rating": null
+    },
+    {
+      "id": 1515899,
+      "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bLt8nyHylaewbLZtCl7C0UpaRU4.jpg",
+      "genre": "music",
+      "genres": [
+        "music",
+        "documentary"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-03-19",
+      "us_rating": "PG-13"
+    },
+    {
       "id": 314748,
       "title": "Inside the CIA: Secrets & Spies",
       "type": "tv_series",
@@ -5558,6 +6251,270 @@
       "release_date": "2026-02-05",
       "us_rating": null,
       "networks": []
+    },
+    {
+      "id": 1495490,
+      "title": "Infinite Icon: A Visual Memoir",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kK00TpS62CEQjOJqXs00618unk4.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-01-30",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 1494498,
+      "title": "A World Gone Mad - The War Diaries of Astrid Lindgren",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hFVxglqtDIaevsf3Cj8CJNSC3HO.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-01-22",
+      "us_rating": null
+    },
+    {
+      "id": 1276874,
+      "title": "Life and Deaths of Max Linder",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5FJ8kh5rj7RdFbYdF0nycmPsYbv.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-01-16",
+      "us_rating": null
+    },
+    {
+      "id": 1446424,
+      "title": "The Animated Mind of Oliver Sacks",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-01-01",
+      "us_rating": null
+    },
+    {
+      "id": 1461751,
+      "title": "Black Men in Uniform",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tZmufORYoqWfjYDxblpBSiHlQEk.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-01-01",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 1568843,
+      "title": "EXOUSIA",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/arcUSQX90riS51o9XJBtof0OGXt.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "thriller",
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-01-01",
+      "us_rating": null
+    },
+    {
+      "id": 1578172,
+      "title": "Farewell, America",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4fSN7RxWOBVqixXFEMXX8axfiF2.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-01-01",
+      "us_rating": null
+    },
+    {
+      "id": 1405097,
+      "title": "GenX: the Saga of Forever Chemicals",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mSogpARsz9b8GMvW8wmmLvQUhPt.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2025-12-31",
+      "us_rating": null
+    },
+    {
+      "id": 1575712,
+      "title": "#RUNSEOKJIN_EP.TOUR THE MOVIE",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1GZ75yVI8KTT10IG2sEkxbY9rhr.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2025-12-27",
+      "us_rating": null
+    },
+    {
+      "id": 1571485,
+      "title": "David Bowie: The Final Act",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tPG2I0qr61aE5xZwbM9WiT3nHxJ.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "music"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2025-12-26",
+      "us_rating": null
+    },
+    {
+      "id": 1360933,
+      "title": "Cement Grass",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": null,
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2025-12-24",
+      "us_rating": null
+    },
+    {
+      "id": 1584125,
+      "title": "Breakdown: 1975",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6LirpQnBmBpAOa5Me1lBCBBy90e.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2025-12-18",
+      "us_rating": "R"
+    },
+    {
+      "id": 1309373,
+      "title": "Whispers in the Woods",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q4e4b55SIqv0O3Q2bXhtBlnVOtr.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2025-12-17",
+      "us_rating": null
+    },
+    {
+      "id": 1232931,
+      "title": "76 Days Adrift",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xh7ysljRvXVs74sSm3Rhmji0Fw6.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 531,
+      "service_name": "Paramount+",
+      "user_rating": 0.0,
+      "release_date": "2025-07-10",
+      "us_rating": null
+    },
+    {
+      "id": 1365962,
+      "title": "Smile",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l2DVwVYazHTBjF5l6LnXOkFR6r6.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 531,
+      "service_name": "Paramount+",
+      "user_rating": 0.0,
+      "release_date": "2021-08-24",
+      "us_rating": null
+    },
+    {
+      "id": 1103859,
+      "title": "Seabiscuit",
+      "type": "movie",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mSPbTGa0vXwlHU4MU9ceJ1Aod17.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history"
+      ],
+      "service_id": 531,
+      "service_name": "Paramount+",
+      "user_rating": 0.0,
+      "release_date": "2003-04-21",
+      "us_rating": null
     }
   ]
 }

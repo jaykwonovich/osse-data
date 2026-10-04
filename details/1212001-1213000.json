@@ -1,6 +1,6 @@
 {
   "range": "1212001-1213000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462166,
   "shows": [
     {
       "id": 1212142,
@@ -11,7 +11,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8qSsnSbgosaCROnvcOzeXyWsxIp.jpg",
       "plot_overview": "When Lainy's plan to settle down and start a family falls apart, she puts on a fake baby bump, tells a lie \u2014 and accidentally falls for her dream guy.",
       "genres": [
-        "Comedy"
+        "comedy",
+        "romance"
       ],
       "user_rating": 5.6,
       "critic_score": null,
@@ -26,6 +27,31 @@
         }
       ],
       "tmdb_id": 1212142
+    },
+    {
+      "id": 1212763,
+      "title": "Evil Dead Burn",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+      "plot_overview": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "genres": [
+        "horror"
+      ],
+      "user_rating": 7.647,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "2026-07-07",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1212763
     }
   ]
 }

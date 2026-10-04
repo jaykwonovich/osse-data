@@ -1,6 +1,6 @@
 {
   "range": "117001-118000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462004,
   "shows": [
     {
       "id": 117030,
@@ -45,7 +45,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 8.183,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2023-10-12",
@@ -75,7 +75,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.43,
+      "user_rating": 7.428,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2021-11-14",
@@ -133,21 +133,26 @@
       "genre": "comedy",
       "networks": [
         "Netflix"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 4,
+      "next_air_date": null,
+      "next_episode": 1
     },
     {
       "id": 117648,
       "title": "Clarkson's Farm",
       "type": "tv_series",
       "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/toVhyqMT3ICfahE7Ad8obJvZHpX.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/i50h4Gz6e9BMGak5l6gg5qfIjcv.jpg",
       "plot_overview": "Follow Jeremy Clarkson as he embarks on his latest adventure, farming. The man who on several occasions claims to be allergic to manual labour takes on the most manually labour intensive job there is. What could possibly go wrong?",
       "genres": [
         "comedy",
         "reality"
       ],
-      "user_rating": 8.5,
+      "user_rating": 8.514,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2021-06-11",
@@ -160,10 +165,6 @@
         }
       ],
       "tmdb_id": 117648,
-      "is_returning": true,
-      "next_season": 5,
-      "next_air_date": "2026-06-03",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "comedy",
       "networks": [
@@ -183,7 +184,7 @@
         "animation",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.053,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2023-06-22",
@@ -214,7 +215,7 @@
         "animation",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.787,
+      "user_rating": 7.793,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2020-12-30",
@@ -243,7 +244,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.358,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2022-03-17",

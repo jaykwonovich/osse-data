@@ -1,6 +1,6 @@
 {
   "range": "204001-205000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462022,
   "shows": [
     {
       "id": 204135,
@@ -16,7 +16,7 @@
         "family",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.75,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2026-06-09",
@@ -44,8 +44,8 @@
       ],
       "tmdb_id": 204135,
       "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-06-09",
+      "next_season": 2,
+      "next_air_date": null,
       "next_episode": 1,
       "relevance_score": 75,
       "genre": "animation"
@@ -65,7 +65,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2026-06-26",
@@ -96,7 +96,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.462,
+      "user_rating": 8.472,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2023-10-19",
@@ -110,6 +110,12 @@
         {
           "service_id": 318,
           "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
@@ -132,7 +138,7 @@
         "comedy",
         "documentary"
       ],
-      "user_rating": 8.006,
+      "user_rating": 7.977,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2022-07-15",

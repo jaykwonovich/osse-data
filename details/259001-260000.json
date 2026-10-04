@@ -1,7 +1,44 @@
 {
   "range": "259001-260000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462034,
   "shows": [
+    {
+      "id": 259140,
+      "title": "Ranma1/2",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
+      "plot_overview": "Akane Tendo meets her new fianc\u00e9, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
+      "genres": [
+        "animation",
+        "action & adventure",
+        "comedy",
+        "sci-fi & fantasy"
+      ],
+      "genre": "animation",
+      "user_rating": 8.1,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2024-10-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 259140,
+      "networks": [
+        "Nippon TV",
+        "RNB",
+        "YBS",
+        "RAB",
+        "TVI",
+        "YBC"
+      ]
+    },
     {
       "id": 259265,
       "title": "Something Very Bad Is Going to Happen",
@@ -79,7 +116,7 @@
       "genres": [
         "horror"
       ],
-      "user_rating": 7.294,
+      "user_rating": 7.295,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2016-06-08",
@@ -105,7 +142,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 8.47,
+      "user_rating": 8.5,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2026-04-29",
@@ -136,7 +173,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.291,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2026-01-08",
@@ -168,7 +205,7 @@
         "comedy",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.8,
+      "user_rating": 8.753,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2026-03-15",
@@ -187,14 +224,45 @@
         }
       ],
       "tmdb_id": 259819,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-05-31",
-      "next_episode": 12,
       "relevance_score": 75,
       "genre": "action & adventure",
       "networks": [
         "Adult Swim"
+      ]
+    },
+    {
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "plot_overview": "Dexter Morgan awakens from a coma to find Harrison gone without a trace. Realizing the weight of what he put his son through, Dexter sets out for New York City, determined to find him and make things right. But closure won't come easy. When Miami Metro's Angel Batista arrives with questions, Dexter realizes his past is catching up to him fast. As father and son navigate their own darkness in the city that never sleeps, they soon find themselves deeper than they ever imagined - and that the only ",
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "user_rating": 8.514,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2025-07-13",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 259909,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-11-01",
+      "next_episode": 1,
+      "networks": [
+        "Paramount+ with Showtime"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
   "range": "86001-87000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461993,
   "shows": [
     {
       "id": 86163,
@@ -44,7 +44,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.79,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-04-30",
@@ -52,6 +52,12 @@
         {
           "service_id": 9,
           "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -75,7 +81,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.68,
+      "user_rating": 7.69,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-09-12",
@@ -106,7 +112,7 @@
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.751,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2020-02-07",
@@ -195,7 +201,7 @@
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.422,
+      "user_rating": 7.42,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-09-26",
@@ -224,7 +230,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.94,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2012-01-31",
@@ -240,6 +246,34 @@
       "genre": "comedy"
     },
     {
+      "id": 86799,
+      "title": "The Hot Zone",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/npCaBQi941PRhHlUEWPws4qi10U.jpg",
+      "plot_overview": "In this anthology series, heroic scientists risk all to deal with deadly outbreaks.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2019-05-27",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 86799,
+      "networks": [
+        "National Geographic"
+      ]
+    },
+    {
       "id": 86831,
       "title": "Love, Death & Robots",
       "type": "tv_series",
@@ -251,7 +285,7 @@
         "animation",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.205,
+      "user_rating": 8.204,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-03-15",

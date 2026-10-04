@@ -1,6 +1,6 @@
 {
   "range": "203001-204000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462021,
   "shows": [
     {
       "id": 203085,
@@ -15,7 +15,7 @@
         "animation",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.96,
+      "user_rating": 7.953,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2022-10-26",
@@ -75,7 +75,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.5,
+      "user_rating": 7.497,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2024-06-27",
@@ -104,7 +104,7 @@
       "genres": [
         "reality"
       ],
-      "user_rating": 4.25,
+      "user_rating": 4.2,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2022-11-28",
@@ -117,14 +117,75 @@
         }
       ],
       "tmdb_id": 203448,
-      "is_returning": true,
-      "next_season": 4,
-      "next_air_date": "2026-06-03",
-      "next_episode": 14,
       "relevance_score": 75,
       "genre": "reality",
       "networks": [
         "Bravo"
+      ]
+    },
+    {
+      "id": 203489,
+      "title": "Mike Judge's Beavis and Butt-Head",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/75am8jsmRHHcpIPkm4RyrMn851A.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rAUxCUyroOvjbTYZDXaRLJRoVHr.jpg",
+      "plot_overview": "Two teenage heavy-metal music fans occasionally do idiotic things because they're bored. For them, everything is \"cool\" or \"sucks.\"",
+      "genres": [
+        "animation",
+        "comedy"
+      ],
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2022-08-04",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 203489,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 4,
+      "next_air_date": "2026-10-14",
+      "next_episode": 1,
+      "networks": [
+        "Comedy Central",
+        "Paramount+"
+      ]
+    },
+    {
+      "id": 203667,
+      "title": "Red Queen",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lk7LVXYSOO5rReR2jzLo8Le3cO1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
+      "plot_overview": "A gifted woman's intellect brings chance to lead covert European police force. But it backfires, costing her everything. Following murder at her home and kidnapped heiress, her ex-supervisor enlists a policeman's aid to reinstate her.",
+      "genres": [
+        "action & adventure",
+        "mystery"
+      ],
+      "genre": "action & adventure",
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2024-02-29",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 203667,
+      "networks": [
+        "Prime Video"
       ]
     },
     {
@@ -139,7 +200,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.147,
+      "user_rating": 7.151,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2024-04-04",
@@ -152,10 +213,6 @@
         }
       ],
       "tmdb_id": 203744,
-      "is_returning": true,
-      "next_season": 2,
-      "next_air_date": "2026-06-18",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "drama",
       "networks": [

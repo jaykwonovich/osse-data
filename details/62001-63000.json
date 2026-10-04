@@ -1,6 +1,6 @@
 {
   "range": "62001-63000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461981,
   "shows": [
     {
       "id": 62017,
@@ -14,7 +14,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.5,
+      "user_rating": 7.52,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2015-01-15",
@@ -50,7 +50,7 @@
         "comedy",
         "mystery"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.84,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2015-09-22",
@@ -58,6 +58,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -79,7 +85,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.7,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2015-03-08",
@@ -87,6 +93,12 @@
         {
           "service_id": 8,
           "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -113,7 +125,7 @@
         "animation",
         "family"
       ],
-      "user_rating": 7.036,
+      "user_rating": 7.037,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2012-06-21",
@@ -147,7 +159,7 @@
         "family",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.057,
+      "user_rating": 7.058,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2013-06-19",
@@ -161,6 +173,12 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -184,11 +202,13 @@
         "Animation",
         "Comedy",
         "Family",
+        "Horror",
+        "Science Fiction",
         "animation",
         "comedy",
         "family"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.014,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2012-10-04",
@@ -216,7 +236,7 @@
         "comedy",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.736,
+      "user_rating": 7.765,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2015-10-31",
@@ -247,7 +267,7 @@
         "crime",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.052,
+      "user_rating": 7.038,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2017-08-18",
@@ -277,7 +297,7 @@
         "action & adventure",
         "drama"
       ],
-      "user_rating": 7.607,
+      "user_rating": 7.606,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2015-08-23",
@@ -313,7 +333,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.725,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2015-05-08",
@@ -342,7 +362,7 @@
       "genres": [
         "documentary"
       ],
-      "user_rating": 7.775,
+      "user_rating": 7.681,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2015-04-26",
@@ -373,7 +393,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.511,
+      "user_rating": 7.554,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2015-10-08",
@@ -404,7 +424,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.242,
+      "user_rating": 7.238,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2016-01-21",
@@ -504,7 +524,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.261,
+      "user_rating": 7.26,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2015-10-26",
@@ -566,7 +586,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.378,
+      "user_rating": 7.389,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2015-05-17",
@@ -596,7 +616,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 7.713,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "2015-01-17",
@@ -726,7 +746,7 @@
       "genres": [
         "reality"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.911,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2015-06-22",
@@ -754,6 +774,36 @@
       "genre": "reality",
       "networks": [
         "History"
+      ]
+    },
+    {
+      "id": 62974,
+      "title": "8 Out of 10 Cats Does Countdown",
+      "type": "tv_series",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l4LGTlpRbGqgZURwzGXCZLHRr1k.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rALzi6BHoWdXuHjbOhzGjIKfhV4.jpg",
+      "plot_overview": "Jimmy Carr hosts proceedings as the 8 Out of 10 Cats crew take over the words and numbers quiz.",
+      "genres": [
+        "comedy",
+        "reality",
+        "talk"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2013-04-12",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 62974,
+      "networks": [
+        "Channel 4"
       ]
     }
   ]

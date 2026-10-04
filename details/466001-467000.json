@@ -1,6 +1,6 @@
 {
   "range": "466001-467000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462075,
   "shows": [
     {
       "id": 466272,
@@ -17,7 +17,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.419,
+      "user_rating": 7.417,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2019-07-24",
@@ -25,6 +25,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -76,7 +82,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.391,
+      "user_rating": 7.392,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2023-10-18",

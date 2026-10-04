@@ -1,6 +1,6 @@
 {
   "range": "395001-396000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462067,
   "shows": [
     {
       "id": 395834,
@@ -18,7 +18,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.442,
+      "user_rating": 7.441,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2017-08-03",
@@ -32,6 +32,32 @@
       ],
       "tmdb_id": 395834,
       "genre": "crime"
+    },
+    {
+      "id": 395991,
+      "title": "Only the Brave",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/db5IkOJu9UHktrKroNktw1Z8ARY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zaX6d5GCtb2CmOH9jrHBl58xxBY.jpg",
+      "plot_overview": "Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "user_rating": 7.484,
+      "critic_score": null,
+      "us_rating": "PG-13",
+      "release_date": "2017-09-22",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 395991
     }
   ]
 }

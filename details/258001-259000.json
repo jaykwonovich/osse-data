@@ -1,6 +1,6 @@
 {
   "range": "258001-259000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462034,
   "shows": [
     {
       "id": 258036,
@@ -33,10 +33,6 @@
         }
       ],
       "tmdb_id": 258036,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-05-31",
-      "next_episode": 8,
       "relevance_score": 75,
       "genre": "comedy",
       "networks": [
@@ -48,15 +44,15 @@
       "title": "East of Eden",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/VMyZWR0GBHGY9WIwcaj232ALAl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8WGq5Q0tmTe30YZetLnU2dkOJZf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
       "plot_overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
       "genres": [
         "drama"
       ],
-      "user_rating": 5.0,
+      "user_rating": 7.8,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-10-01",
       "streaming_services": [
         {
@@ -74,10 +70,6 @@
         "Netflix"
       ],
       "tmdb_id": 258165,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-10-01",
-      "next_episode": 1,
       "relevance_score": 75
     },
     {
@@ -93,7 +85,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 8.421,
+      "user_rating": 8.217,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2026-09-09",
@@ -108,8 +100,8 @@
       "tmdb_id": 258230,
       "is_returning": true,
       "next_season": 1,
-      "next_air_date": "2026-09-30",
-      "next_episode": 5,
+      "next_air_date": "2026-10-07",
+      "next_episode": 6,
       "relevance_score": 75,
       "networks": [
         "Apple TV"
@@ -121,9 +113,11 @@
       "type": "movie",
       "year": 2015,
       "poster_url": "https://image.tmdb.org/t/p/w342/cJeled7EyPdur6TnCA5GYg0UVna.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/o0ghC4XMIMdbRBXIqSvnPrxwj3W.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2giW19Qb8Lmyd5XCyVU2avABvhZ.jpg",
       "plot_overview": "In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman.",
       "genres": [
+        "Drama",
+        "Romance",
         "drama",
         "romance"
       ],
@@ -135,6 +129,12 @@
         {
           "service_id": 1899,
           "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }

@@ -1,19 +1,19 @@
 {
   "range": "333001-334000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462056,
   "shows": [
     {
       "id": 333016,
       "title": "Outside",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/24D2wHB78bGXeHuDUNo2OdTQXjp.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg",
       "plot_overview": "Going beyond the four walls, Outside is the latest spin-off from the Sidemen's smash-hit series Inside. A new group of content creators are thrown into the forest to battle for a prize of up to \u00a31 million. With every comfort eating into the prize pot, they'll face brutal decisions, unpredictable challenges and plenty of Sidemen mischief as they fight to keep hold of the cash.",
       "genres": [
         "reality"
       ],
-      "user_rating": 0.0,
+      "user_rating": 5.2,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-09-28",
@@ -32,11 +32,37 @@
         "Netflix"
       ],
       "tmdb_id": 333016,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-09-28",
-      "next_episode": 1,
       "relevance_score": 75
+    },
+    {
+      "id": 333058,
+      "title": "Welcome to the Family: The Murder of Dan Markel",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2Do6U54cg31Y9DWWmjT69O6lFow.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oLsJziZaI6gCUhAJOfGdDmlZM3U.jpg",
+      "plot_overview": "How far would you go for your family? The brutal murder of a prominent law professor in Tallahassee, Florida reveals the dark secrets of a wealthy family. A series of larger-than-life suspects leads to a mind-bending story of a murder-for-hire-plot, a messy custody battle, ex-lovers \u2013 and family dentistry. With exclusive access to those at the center of this extraordinary story, many of whom have never spoken before, this is the definitive telling of a case which took 11 years to solve.",
+      "genres": [
+        "crime",
+        "documentary"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2026-09-01",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 333058,
+      "networks": [
+        "Hulu",
+        "Disney+"
+      ]
     },
     {
       "id": 333101,
@@ -89,7 +115,7 @@
         "Action",
         "Science Fiction"
       ],
-      "user_rating": 7.586,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "2018-03-28",
@@ -112,12 +138,16 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
       "plot_overview": "After a catastrophic car crash, a young woman wakes up in a survivalist's underground bunker, where he claims to have saved her from an apocalyptic attack that has left the outside world uninhabitable.",
       "genres": [
+        "Drama",
+        "Horror",
+        "Science Fiction",
+        "Thriller",
         "drama",
         "horror",
         "science fiction",
         "thriller"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.011,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "2016-03-10",
@@ -125,6 +155,12 @@
         {
           "service_id": 9,
           "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
           "type": "sub",
           "region": "US"
         }
@@ -143,7 +179,7 @@
       "genres": [
         "documentary"
       ],
-      "user_rating": 7.704,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2015-04-18",
@@ -156,6 +192,39 @@
         }
       ],
       "tmdb_id": 333377
+    },
+    {
+      "id": 333400,
+      "title": "The Howard Stern Show",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2aTAQGOIjr2MmdQTIrAOHl8sYGS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gg06gfnRxgYiE6bfNdha4BXf0Qz.jpg",
+      "plot_overview": "Each episode spotlights Howard Stern's boundary-pushing humor, social commentary, and intimate conversations \u2013 all with his iconic voice and unique perspective. Recognized as one of the best interviewers in the business, the series also features Howard's in-depth, candid conversations with celebrities, musicians, and more.",
+      "genres": [
+        "talk"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2026-09-17",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 333400,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-08",
+      "next_episode": 4,
+      "networks": [
+        "HBO Max"
+      ]
     },
     {
       "id": 333437,
@@ -202,7 +271,7 @@
       ],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-10-27",
       "streaming_services": [
         {

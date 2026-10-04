@@ -1,6 +1,6 @@
 {
   "range": "603001-604000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462097,
   "shows": [
     {
       "id": 603692,
@@ -11,11 +11,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
       "plot_overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
       "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
         "action",
         "crime",
         "thriller"
       ],
-      "user_rating": 7.706,
+      "user_rating": 7.712,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2023-03-21",
@@ -23,6 +26,12 @@
         {
           "service_id": 1899,
           "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }

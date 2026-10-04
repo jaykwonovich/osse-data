@@ -1,6 +1,6 @@
 {
   "range": "228001-229000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462028,
   "shows": [
     {
       "id": 228056,
@@ -13,7 +13,7 @@
       "genres": [
         "reality"
       ],
-      "user_rating": 7.667,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2023-07-09",
@@ -32,6 +32,33 @@
       ]
     },
     {
+      "id": 228150,
+      "title": "Fury",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
+      "plot_overview": "April, 1945. As the Allies make their final push in the European Theater, a battle-hardened army sergeant commands a Sherman tank with a five-man crew on a deadly mission behind enemy lines.",
+      "genres": [
+        "War",
+        "Drama",
+        "Action"
+      ],
+      "user_rating": 7.545,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "2014-10-15",
+      "streaming_services": [
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 228150
+    },
+    {
       "id": 228203,
       "title": "McFarland, USA",
       "type": "movie",
@@ -45,7 +72,7 @@
         "drama",
         "family"
       ],
-      "user_rating": 7.491,
+      "user_rating": 7.496,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2015-02-20",
@@ -59,6 +86,40 @@
       ],
       "tmdb_id": 228203,
       "genre": "drama"
+    },
+    {
+      "id": 228305,
+      "title": "Task",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hEE8TV5jLQZQnpPN4QmYZ1lCJNq.jpg",
+      "plot_overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+      "genres": [
+        "crime",
+        "drama"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2025-09-07",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 228305,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": null,
+      "next_episode": 1,
+      "networks": [
+        "HBO"
+      ]
     },
     {
       "id": 228326,
@@ -75,7 +136,7 @@
         "animation",
         "family"
       ],
-      "user_rating": 7.539,
+      "user_rating": 7.541,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2014-10-01",
@@ -140,7 +201,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.473,
+      "user_rating": 8.47,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2025-02-02",
@@ -162,7 +223,12 @@
       "genre": "animation",
       "networks": [
         "Adult Swim"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": null,
+      "next_episode": 1
     }
   ]
 }

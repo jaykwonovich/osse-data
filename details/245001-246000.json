@@ -1,6 +1,6 @@
 {
   "range": "245001-246000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462031,
   "shows": [
     {
       "id": 245026,
@@ -15,7 +15,7 @@
         "family",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.9,
+      "user_rating": 8.8,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "2024-10-29",
@@ -63,6 +63,64 @@
       ]
     },
     {
+      "id": 245219,
+      "title": "Death by Lightning",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/KyUrz3GA1FML3XnKkY795XxDxN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ksxQyZAU2fX1n9OOcGqgttmJg0O.jpg",
+      "plot_overview": "The story of James Garfield, who rose from obscurity to become America's 20th President \u2014 and Charles Guiteau, the man who assassinated him.",
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "user_rating": 7.303,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2025-11-06",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 245219,
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 245256,
+      "title": "Say Nothing",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bAF3gTGuFNDdzGUIAnDqi5nbFf3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gbeldCIJck5L0oyRkyFxHH9xAaG.jpg",
+      "plot_overview": "Through the eyes of various Irish Republican Army (IRA) members, explore the extremes some people will go to in the name of their beliefs, the way a deeply divided society can suddenly tip over into armed conflict, the long shadow of radical violence for both victims and perpetrators, and the emotional and psychological costs of a code of silence.",
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2024-11-14",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 245256,
+      "networks": [
+        "Hulu"
+      ]
+    },
+    {
       "id": 245312,
       "title": "A Man on the Inside",
       "type": "tv_series",
@@ -104,7 +162,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.979,
+      "user_rating": 7.958,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2026-04-14",
@@ -141,7 +199,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.9,
+      "user_rating": 7.877,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2025-05-29",
@@ -157,7 +215,12 @@
       "genre": "crime",
       "networks": [
         "Netflix"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": null,
+      "next_episode": 1
     },
     {
       "id": 245891,
@@ -228,7 +291,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.53,
+      "user_rating": 7.565,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2025-01-26",

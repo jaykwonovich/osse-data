@@ -1,6 +1,6 @@
 {
   "range": "5001-6000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461958,
   "shows": [
     {
       "id": 5021,
@@ -13,7 +13,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.118,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "1972-09-14",
@@ -105,6 +105,12 @@
           "service_name": "Peacock",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 5146,
@@ -126,7 +132,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.404,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2009-10-02",
@@ -183,7 +189,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.783,
+      "user_rating": 7.784,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "1955-10-02",
@@ -222,7 +228,7 @@
         "family",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.209,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "1988-05-15",
@@ -306,12 +312,38 @@
       "tmdb_id": 5548
     },
     {
+      "id": 5693,
+      "title": "Hoosiers",
+      "type": "movie",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dHpjZQXEdoi1xNLubM1rPmTHJYz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sz31PrTT4ZyJn2gbzHdxTilt1md.jpg",
+      "plot_overview": "Failed college coach Norman Dale gets a chance at redemption when he is hired to coach a high school basketball team in a tiny Indiana town. After a teacher persuades star player Jimmy Chitwood to quit and focus on his long-neglected studies, Dale struggles to develop a winning team in the face of community criticism for his temper and his unconventional choice of assistant coach: Shooter, a notorious alcoholic.",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "user_rating": 7.045,
+      "critic_score": null,
+      "us_rating": "PG",
+      "release_date": "1986-11-14",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 5693
+    },
+    {
       "id": 5835,
       "title": "Goosebumps",
       "type": "tv_series",
       "year": 1995,
       "poster_url": "https://image.tmdb.org/t/p/w342/km7uuxaU4mzp49Hpt5hxnLx7p6F.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wEErXXCQyt6LSKiwnLQIKppN8S7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gN3gG8m1QfdKiQ5crRO5a0J7ObL.jpg",
       "plot_overview": "Anything can turn spooky in this horror anthology series based on the best-selling books by master of kid horror, R.L. Stine. In every episode, see what happens when regular kids find themselves in scary situations, and how they work to confront and overcome their fears.",
       "genres": [
         "comedy",
@@ -319,7 +351,7 @@
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.948,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "1995-10-27",
@@ -340,6 +372,33 @@
       ]
     },
     {
+      "id": 5919,
+      "title": "The Towering Inferno",
+      "type": "movie",
+      "year": 1974,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gT3hatcFDbZWUlLZ7TClRDhZ9Pa.jpg",
+      "plot_overview": "At the opening party of a colossal\u2014but poorly constructed\u2014skyscraper, a massive fire breaks out, threatening to destroy the tower and everyone in it.",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "user_rating": 7.008,
+      "critic_score": null,
+      "us_rating": "PG",
+      "release_date": "1974-12-14",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 5919
+    },
+    {
       "id": 5920,
       "title": "The Mentalist",
       "type": "tv_series",
@@ -352,7 +411,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 8.408,
+      "user_rating": 8.413,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2008-09-23",
@@ -376,14 +435,14 @@
       "type": "movie",
       "year": 1963,
       "poster_url": "https://image.tmdb.org/t/p/w342/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lb87H6BFXXKMJlUnDHvPOMGfh8z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zlg0d4pnq1xDOU4cQxqGG8bX5l0.jpg",
       "plot_overview": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocate them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undaunted, the prisoners plan one of the most ambitious escape attempts of World War II. Based on a true story.",
       "genres": [
         "Adventure",
         "Drama",
         "War"
       ],
-      "user_rating": 7.924,
+      "user_rating": 7.923,
       "critic_score": null,
       "us_rating": "NR",
       "release_date": "1963-07-03",

@@ -1,20 +1,22 @@
 {
   "range": "695001-696000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462107,
   "shows": [
     {
       "id": 695721,
       "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
       "type": "movie",
       "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lrkOYL5GBTFW9cgs9RlojxAcZZF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bk1TitfD4YIGrM6AvljonMCtfnl.jpg",
       "plot_overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
       "genres": [
-        "science fiction",
-        "action"
+        "Action",
+        "Science Fiction",
+        "action",
+        "science fiction"
       ],
-      "user_rating": 7.001,
+      "user_rating": 6.953,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "2023-11-15",
@@ -23,6 +25,12 @@
           "service_id": 207,
           "service_name": "The Roku Channel",
           "type": "free",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
           "region": "US"
         }
       ],

@@ -1,6 +1,6 @@
 {
   "range": "530001-531000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462084,
   "shows": [
     {
       "id": 530385,
@@ -15,7 +15,7 @@
         "Drama",
         "Mystery"
       ],
-      "user_rating": 7.144,
+      "user_rating": 7.146,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2019-07-03",
@@ -23,6 +23,12 @@
         {
           "service_id": 1899,
           "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }

@@ -1,6 +1,6 @@
 {
   "range": "260001-261000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462034,
   "shows": [
     {
       "id": 260249,
@@ -16,7 +16,7 @@
       "genre": "drama",
       "user_rating": 9.125,
       "critic_score": null,
-      "us_rating": "TV-14",
+      "us_rating": "TV-MA",
       "release_date": "2026-09-11",
       "streaming_services": [
         {
@@ -99,7 +99,12 @@
         "Tokyo MX",
         "BS11",
         "Tochigi TV"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": null,
+      "next_episode": 1
     },
     {
       "id": 260513,
@@ -117,7 +122,7 @@
         "animation",
         "family"
       ],
-      "user_rating": 7.453,
+      "user_rating": 7.452,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2018-06-14",
@@ -163,10 +168,6 @@
         "Prime Video"
       ],
       "tmdb_id": 260592,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-06-10",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "drama"
     }

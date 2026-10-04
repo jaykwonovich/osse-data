@@ -1,6 +1,6 @@
 {
   "range": "90001-91000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461995,
   "shows": [
     {
       "id": 90027,
@@ -15,7 +15,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.688,
+      "user_rating": 7.674,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-08-29",
@@ -47,7 +47,7 @@
         "documentary",
         "music"
       ],
-      "user_rating": 7.531,
+      "user_rating": 7.533,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "2012-04-20",
@@ -75,7 +75,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.21,
+      "user_rating": 7.202,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2024-11-17",
@@ -91,20 +91,25 @@
       "genre": "action & adventure",
       "networks": [
         "HBO"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": null,
+      "next_episode": 1
     },
     {
       "id": 90257,
       "title": "Little Fires Everywhere",
       "type": "tv_series",
       "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7EQQMl0mp8L0hMxAUZNfoCh1Tkb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/kUi6ZFfGVXjFTagYYENTXYx7uS5.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tjPVwNdFqNrbclaXdZYeCpPD2Xi.jpg",
       "plot_overview": "The intertwined fates of the picture-perfect Richardson family and an enigmatic mother and daughter who upend their lives. Explore the weight of secrets, the nature of art and identity, the ferocious pull of motherhood \u2013 and the danger in believing that following the rules can avert disaster.",
       "genres": [
         "drama"
       ],
-      "user_rating": 7.537,
+      "user_rating": 7.518,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-03-18",
@@ -135,7 +140,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.001,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-02-26",
@@ -164,7 +169,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.701,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-11-01",
@@ -180,7 +185,12 @@
       "genre": "drama",
       "networks": [
         "Apple TV"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 5,
+      "next_air_date": null,
+      "next_episode": 1
     },
     {
       "id": 90296,
@@ -194,7 +204,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.849,
+      "user_rating": 7.856,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2022-04-07",
@@ -253,7 +263,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 7.155,
+      "user_rating": 7.157,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "2021-07-07",
@@ -286,7 +296,7 @@
         "crime",
         "mystery"
       ],
-      "user_rating": 7.811,
+      "user_rating": 7.81,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2021-10-12",
@@ -326,6 +336,12 @@
           "service_name": "Peacock",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 90521,
@@ -347,7 +363,7 @@
         "drama",
         "war & politics"
       ],
-      "user_rating": 7.257,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-07-03",
@@ -378,7 +394,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.7,
+      "user_rating": 7.693,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-08-14",
@@ -408,7 +424,7 @@
         "documentary",
         "family"
       ],
-      "user_rating": 8.5,
+      "user_rating": 8.505,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2019-10-27",
@@ -439,7 +455,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.845,
+      "user_rating": 7.838,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2022-08-05",
@@ -500,7 +516,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 8.158,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-09-04",
@@ -508,6 +524,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
@@ -530,7 +552,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.402,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2019-09-23",
@@ -567,7 +589,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2021-12-16",

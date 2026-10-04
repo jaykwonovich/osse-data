@@ -1,6 +1,6 @@
 {
   "range": "17001-18000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461967,
   "shows": [
     {
       "id": 17035,
@@ -15,7 +15,7 @@
         "drama",
         "war & politics"
       ],
-      "user_rating": 7.9,
+      "user_rating": 7.913,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2008-07-13",
@@ -42,10 +42,13 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6vXnGv5ly9leE6QGBRCzrUuG2tG.jpg",
       "plot_overview": "A seductive woman gets an innocent professor mixed up in murder.",
       "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
         "crime",
         "drama"
       ],
-      "user_rating": 7.374,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": "NR",
       "release_date": "1944-10-25",
@@ -74,7 +77,7 @@
         "crime",
         "documentary"
       ],
-      "user_rating": 7.585,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1996-12-03",
@@ -110,6 +113,12 @@
           "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 17287,
@@ -129,7 +138,7 @@
       "genres": [
         "documentary"
       ],
-      "user_rating": 7.273,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "1976-02-19",
@@ -176,14 +185,14 @@
       "title": "Whitechapel",
       "type": "tv_series",
       "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9IxtiDw696DsHXlvqa1lZaIdzbz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/w69DyqIenWwcJts94JV3c3hLiYR.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/33YoD1DbilLkTvUMfWXwt0PUodD.jpg",
       "plot_overview": "Detective Inspector Chandler investigates copycat killers in London's East End.",
       "genres": [
         "crime",
         "drama"
       ],
-      "user_rating": 7.285,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2009-02-02",
@@ -229,7 +238,7 @@
         "kids",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.865,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2008-10-25",
@@ -291,7 +300,7 @@
         "comedy",
         "kids"
       ],
-      "user_rating": 8.155,
+      "user_rating": 8.163,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2010-02-13",
@@ -355,7 +364,7 @@
         "crime",
         "thriller"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.259,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1976-10-08",
@@ -411,7 +420,12 @@
         "Discovery",
         "Travel Channel",
         "discovery+"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 28,
+      "next_air_date": "2026-10-07",
+      "next_episode": 2
     },
     {
       "id": 17967,
@@ -424,7 +438,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.66,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2010-04-11",

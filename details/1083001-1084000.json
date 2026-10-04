@@ -1,7 +1,34 @@
 {
   "range": "1083001-1084000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462153,
   "shows": [
+    {
+      "id": 1083381,
+      "title": "Backrooms",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "plot_overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "user_rating": 7.017,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "2026-05-27",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 1083381
+    },
     {
       "id": 1083433,
       "title": "I Know What You Did Last Summer",
@@ -11,7 +38,9 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/gVPjIcYo1gTaACF43OMsralrcUS.jpg",
       "plot_overview": "When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the consequences. A year later, their past comes back to haunt them and they're forced to confront a horrifying truth: someone knows what they did last summer\u2026and is hell-bent on revenge.",
       "genres": [
-        "Mystery"
+        "horror",
+        "mystery",
+        "thriller"
       ],
       "user_rating": 5.812,
       "critic_score": null,

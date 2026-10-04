@@ -1,6 +1,6 @@
 {
   "range": "9001-10000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461960,
   "shows": [
     {
       "id": 9008,
@@ -46,7 +46,7 @@
         "animation",
         "family"
       ],
-      "user_rating": 7.578,
+      "user_rating": 7.58,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2002-11-26",
@@ -105,7 +105,7 @@
         "drama",
         "family"
       ],
-      "user_rating": 7.037,
+      "user_rating": 7.038,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2006-02-17",
@@ -113,6 +113,12 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -135,7 +141,7 @@
         "animation",
         "family"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.227,
       "critic_score": null,
       "us_rating": "G",
       "release_date": "1963-12-25",
@@ -163,7 +169,7 @@
         "Drama",
         "Fantasy"
       ],
-      "user_rating": 7.473,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2001-10-19",
@@ -178,6 +184,33 @@
       "tmdb_id": 9081
     },
     {
+      "id": 9277,
+      "title": "The Sting",
+      "type": "movie",
+      "year": 1973,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ckmYng37zey8INYf6d10cVgIG93.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1r9lH3DaSWKGyvZaoo6BF5STOk5.jpg",
+      "plot_overview": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "user_rating": 8.013,
+      "critic_score": null,
+      "us_rating": "PG",
+      "release_date": "1973-12-25",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 9277
+    },
+    {
       "id": 9289,
       "title": "The Longest Day",
       "type": "movie",
@@ -186,9 +219,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yt9FIS2Osm97M7w4dLFkBu7YxW8.jpg",
       "plot_overview": "The retelling of June 6, 1944, from the perspectives of the Germans, US, British, Canadians, and the Free French. Marshall Erwin Rommel, touring the defenses being established as part of the Reich's Atlantic Wall, notes to his officers that when the Allied invasion comes they must be stopped on the beach. \"For the Allies as well as the Germans, it will be the longest day\"",
       "genres": [
-        "War",
         "Action",
-        "Drama"
+        "Drama",
+        "History",
+        "War"
       ],
       "user_rating": 7.6,
       "critic_score": null,
@@ -219,7 +253,7 @@
         "animation",
         "family"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.287,
       "critic_score": null,
       "us_rating": "G",
       "release_date": "1967-10-18",
@@ -274,7 +308,7 @@
         "War",
         "Drama"
       ],
-      "user_rating": 7.384,
+      "user_rating": 7.386,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1992-08-26",
@@ -301,7 +335,7 @@
         "Drama",
         "Thriller"
       ],
-      "user_rating": 7.534,
+      "user_rating": 7.533,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1997-02-27",
@@ -326,7 +360,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.558,
+      "user_rating": 7.559,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "1986-06-11",
@@ -352,7 +386,7 @@
         "Comedy",
         "Drama"
       ],
-      "user_rating": 7.204,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2005-09-09",
@@ -379,7 +413,7 @@
         "Drama",
         "Romance"
       ],
-      "user_rating": 7.002,
+      "user_rating": 7.001,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1996-12-13",
@@ -392,6 +426,64 @@
         }
       ],
       "tmdb_id": 9390
+    },
+    {
+      "id": 9426,
+      "title": "The Fly",
+      "type": "movie",
+      "year": 1986,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g1FzhbtWYKk9WMJYi1X26kf2Q4Q.jpg",
+      "plot_overview": "When brilliant, eccentric scientist Seth Brundle makes a huge technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "user_rating": 7.448,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "1986-08-15",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 9426
+    },
+    {
+      "id": 9428,
+      "title": "The Royal Tenenbaums",
+      "type": "movie",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cbuX448RKetr5Y5cZkmJEfu3xji.jpg",
+      "plot_overview": "Royal Tenenbaum and his wife Etheline had three children and then they separated. All three children are extraordinary --- all geniuses. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. Most of this was generally considered to be their father's fault. \"The Royal Tenenbaums\" is the story of the family's sudden, unexpected reunion one recent winter.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "user_rating": 7.453,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "2001-10-05",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 9428
     },
     {
       "id": 9444,
@@ -439,7 +531,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.454,
+      "user_rating": 7.457,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "1998-07-31",
@@ -496,7 +588,7 @@
         "animation",
         "family"
       ],
-      "user_rating": 7.841,
+      "user_rating": 7.845,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "1993-10-09",
@@ -512,6 +604,33 @@
       "genre": "animation"
     },
     {
+      "id": 9495,
+      "title": "The Crow",
+      "type": "movie",
+      "year": 1994,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2VN9umruwVZsT1Pr1NMCV71HpUu.jpg",
+      "plot_overview": "Exactly one year after young rock guitarist Eric Draven and his fianc\u00e9e are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Thriller"
+      ],
+      "user_rating": 7.53,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "1994-05-11",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 9495
+    },
+    {
       "id": 9502,
       "title": "Kung Fu Panda",
       "type": "movie",
@@ -525,7 +644,7 @@
         "Comedy",
         "Family"
       ],
-      "user_rating": 7.339,
+      "user_rating": 7.34,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2008-06-04",
@@ -533,6 +652,12 @@
         {
           "service_id": 386,
           "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -555,7 +680,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.329,
+      "user_rating": 7.326,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1992-09-10",
@@ -569,6 +694,64 @@
       ],
       "tmdb_id": 9504,
       "genre": "crime"
+    },
+    {
+      "id": 9533,
+      "title": "Red Dragon",
+      "type": "movie",
+      "year": 2002,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ou9ZKA2cms02b7CdCdVqGkKu0O0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7c65xpnYlea6VITznLLRS9cTuwS.jpg",
+      "plot_overview": "Former FBI Agent Will Graham, who was once almost killed by the savage Hannibal 'The Cannibal' Lecter, now has no choice but to face him again, as it seems Lecter is the only one who can help Graham track down a new serial killer.",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Horror"
+      ],
+      "user_rating": 7.05,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "2002-10-02",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 9533
+    },
+    {
+      "id": 9552,
+      "title": "The Exorcist",
+      "type": "movie",
+      "year": 1973,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+      "plot_overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+      "genres": [
+        "horror"
+      ],
+      "user_rating": 7.748,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "1973-12-26",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 9552
     },
     {
       "id": 9560,
@@ -660,7 +843,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.257,
+      "user_rating": 7.235,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "1992-09-16",
@@ -709,14 +892,14 @@
       "type": "tv_series",
       "year": 1997,
       "poster_url": "https://image.tmdb.org/t/p/w342/wCiQ7XySqnz9X1REtDNZRGLfhpe.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jmCegdxo0woQ3GpI3IuR7XxSMWN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wVRd4VjrkJ4WObvfjqUZhlmN3gT.jpg",
       "plot_overview": "Warrior Odysseus leaves his idyllic life in the kingdom of Ithaca to fight in the Trojan War. Following victory, he now must endure a lengthy, decade-long return journey, and with all his wits, overcome deadly monsters, powerful forces of nature, seductive enchantresses, and even journey into the bowels of the Underworld.",
       "genres": [
         "action & adventure",
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.29,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "1997-05-18",
@@ -749,7 +932,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 8.228,
+      "user_rating": 8.23,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1993-02-05",
@@ -810,7 +993,7 @@
         "Romance",
         "drama"
       ],
-      "user_rating": 7.096,
+      "user_rating": 7.099,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1997-09-27",
@@ -865,7 +1048,7 @@
         "Drama",
         "Thriller"
       ],
-      "user_rating": 7.079,
+      "user_rating": 7.082,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1998-11-20",
@@ -892,7 +1075,7 @@
         "Crime",
         "Thriller"
       ],
-      "user_rating": 7.016,
+      "user_rating": 7.021,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "2001-06-22",
@@ -905,6 +1088,33 @@
         }
       ],
       "tmdb_id": 9799
+    },
+    {
+      "id": 9802,
+      "title": "The Rock",
+      "type": "movie",
+      "year": 1996,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eBcoxveWzzXQrCrwWMGAROcqgpP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+      "plot_overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "user_rating": 7.157,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "1996-06-07",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 9802
     },
     {
       "id": 9806,
@@ -922,7 +1132,7 @@
         "animation",
         "family"
       ],
-      "user_rating": 7.729,
+      "user_rating": 7.73,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2004-10-27",
@@ -952,7 +1162,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 7.216,
+      "user_rating": 7.22,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "1998-07-28",
@@ -1035,7 +1245,7 @@
         "comedy",
         "kids"
       ],
-      "user_rating": 8.2,
+      "user_rating": 8.207,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2007-11-02",
@@ -1069,7 +1279,7 @@
         "drama",
         "history"
       ],
-      "user_rating": 7.679,
+      "user_rating": 7.674,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "2005-10-12",
@@ -1098,7 +1308,7 @@
         "drama",
         "history"
       ],
-      "user_rating": 7.414,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2006-01-13",

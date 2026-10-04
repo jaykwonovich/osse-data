@@ -1,6 +1,6 @@
 {
   "range": "110001-111000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462002,
   "shows": [
     {
       "id": 110381,
@@ -13,7 +13,7 @@
       "genres": [
         "reality"
       ],
-      "user_rating": 6.0,
+      "user_rating": 6.2,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2020-11-11",
@@ -29,8 +29,8 @@
       "genre": "reality",
       "is_returning": true,
       "next_season": 7,
-      "next_air_date": "2026-09-30",
-      "next_episode": 3,
+      "next_air_date": "2026-10-07",
+      "next_episode": 4,
       "relevance_score": 75,
       "networks": [
         "Bravo"
@@ -79,7 +79,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.182,
+      "user_rating": 8.181,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2022-01-13",
@@ -141,7 +141,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 8.019,
+      "user_rating": 8.029,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2021-10-13",
@@ -149,6 +149,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
           "type": "sub",
           "region": "US"
         }
@@ -170,7 +176,7 @@
       "genres": [
         "animation"
       ],
-      "user_rating": 7.776,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "2021-02-05",
@@ -200,7 +206,7 @@
         "comedy",
         "documentary"
       ],
-      "user_rating": 8.093,
+      "user_rating": 8.1,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-10-23",

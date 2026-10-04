@@ -1,6 +1,6 @@
 {
   "range": "275001-276000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462037,
   "shows": [
     {
       "id": 275102,
@@ -30,6 +30,45 @@
       "networks": [
         "Netflix"
       ]
+    },
+    {
+      "id": 275139,
+      "title": "Phony",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AdFlgN6pKI6C481z2KshrQL204w.jpg",
+      "plot_overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+      "genres": [
+        "comedy",
+        "drama",
+        "mystery"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-20",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Goddard Textiles",
+        "20th Television"
+      ],
+      "networks": [
+        "Hulu"
+      ],
+      "tmdb_id": 275139,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-20",
+      "next_episode": 1
     }
   ]
 }

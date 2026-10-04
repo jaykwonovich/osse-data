@@ -1,6 +1,6 @@
 {
   "range": "335001-336000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462058,
   "shows": [
     {
       "id": 335032,
@@ -33,10 +33,6 @@
         "Discovery"
       ],
       "tmdb_id": 335032,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-09-29",
-      "next_episode": 1,
       "relevance_score": 75
     },
     {
@@ -68,6 +64,36 @@
       "next_air_date": "2026-12-13",
       "next_episode": 1,
       "relevance_score": 75
+    },
+    {
+      "id": 335227,
+      "title": "I Would Rather Die",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wCFvuoNaL4nk7HCFiH7uEm2CDEp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/x91V52Ew4WFoYOryVuFMNuFPZDC.jpg",
+      "plot_overview": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
+      "genres": [
+        "action & adventure",
+        "comedy"
+      ],
+      "genre": "action & adventure",
+      "user_rating": 7.667,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2026-10-02",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 335227,
+      "networks": [
+        "Prime Video"
+      ]
     },
     {
       "id": 335319,
@@ -411,9 +437,42 @@
       "tmdb_id": 335811,
       "is_returning": true,
       "next_season": 1,
-      "next_air_date": "2026-09-28",
-      "next_episode": 1,
+      "next_air_date": "2026-10-05",
+      "next_episode": 2,
       "relevance_score": 75
+    },
+    {
+      "id": 335813,
+      "title": "Gnomes",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/42e3kEfajUz9uvHaTgTH4ADXcx8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/16QwPJBUSO8pWYn8TOzD0hep9Lw.jpg",
+      "plot_overview": "Senior Sergeant Arnold Kipps is having the worst day of his life. His ex-partner returns to Nompton to shut down his police station, just as an ancient evil is awakened by the Gnome Queen who unleashes a hellish horde, plunging the town into chaos.",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-08",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [],
+      "networks": [],
+      "tmdb_id": 335813,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-08",
+      "next_episode": 1
     },
     {
       "id": 335857,
@@ -473,11 +532,33 @@
         "BBC iPlayer"
       ],
       "tmdb_id": 335975,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-10-04",
-      "next_episode": 1,
       "relevance_score": 75
+    },
+    {
+      "id": 335984,
+      "title": "Blade Runner 2049",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
+      "plot_overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "user_rating": 7.608,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "2017-10-04",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 335984
     },
     {
       "id": 336000,

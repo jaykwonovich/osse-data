@@ -1,7 +1,36 @@
 {
   "range": "38001-39000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461973,
   "shows": [
+    {
+      "id": 38055,
+      "title": "Megamind",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+      "plot_overview": "After Megamind, a highly intelligent alien supervillain, defeats his long-time nemesis Metro Man, Megamind creates a new hero to fight, but must act to save the city when his \"creation\" becomes an even worse villain than he was.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Comedy",
+        "Family",
+        "Science Fiction"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": "PG",
+      "release_date": "2010-10-28",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 38055
+    },
     {
       "id": 38165,
       "title": "ThunderCats",
@@ -15,7 +44,7 @@
         "animation",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.902,
+      "user_rating": 7.894,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2011-07-29",
@@ -45,7 +74,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.485,
+      "user_rating": 7.486,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2015-11-20",
@@ -53,6 +82,12 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -107,7 +142,7 @@
         "kids",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.0,
+      "user_rating": 7.97,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2012-01-11",
@@ -161,6 +196,32 @@
       ],
       "tmdb_id": 38700,
       "genre": "action"
+    },
+    {
+      "id": 38732,
+      "title": "Bend of the River",
+      "type": "movie",
+      "year": 1952,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pffOvEVDt6XRWDwBkmQ6zWITakJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qiL8TkEUcKwZExd9UHO5rp3woYD.jpg",
+      "plot_overview": "Two men with questionable pasts, Glyn McLyntock and his friend Cole, lead a wagon-train load of homesteaders from Missouri to the Oregon territory...",
+      "genres": [
+        "Western",
+        "Adventure"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": "NR",
+      "release_date": "1952-01-23",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 38732
     },
     {
       "id": 38757,
@@ -232,7 +293,7 @@
         "kids",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.056,
+      "user_rating": 8.1,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2012-02-27",

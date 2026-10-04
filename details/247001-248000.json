@@ -1,7 +1,41 @@
 {
   "range": "247001-248000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462031,
   "shows": [
+    {
+      "id": 247168,
+      "title": "Chad Powers",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aXetUcD4wfalCj90QmT6kSvwO6D.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r7uH0Wa7rzHyK83XQpxRZVH76u7.jpg",
+      "plot_overview": "Eight years after an unforgivable mistake nukes his promising college football career, hotshot quarterback Russ Holliday tries to resurrect his dreams by disguising himself as Chad Powers - a talented oddball who walks on to the struggling South Georgia Catfish.",
+      "genres": [
+        "comedy"
+      ],
+      "user_rating": 7.996,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2025-09-30",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 247168,
+      "networks": [
+        "Hulu"
+      ]
+    },
     {
       "id": 247172,
       "title": "The McBee Dynasty: Real American Cowboys",
@@ -38,7 +72,7 @@
       "title": "Grotesquerie",
       "type": "tv_series",
       "year": 2024,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vu7X19nHIJ9HOXhES3DIhO9N99c.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/oskgLp7inXPU9NgfL2NWRW0KK2e.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tUdqnpN03fQFWAe5O7d61O2lNkr.jpg",
       "plot_overview": "A series of heinous crimes have unsettled a small community, and Detective Lois Tryon feels they are eerily personal, as if someone\u2014or something\u2014is taunting her.",
       "genres": [
@@ -75,7 +109,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2025-05-15",
@@ -107,7 +141,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.098,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2024-04-21",
@@ -168,7 +202,7 @@
         "drama",
         "crime"
       ],
-      "user_rating": 7.133,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2025-01-19",
@@ -176,6 +210,12 @@
         {
           "service_id": 386,
           "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
@@ -213,6 +253,39 @@
       "genre": "comedy",
       "networks": [
         "Apple TV"
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": null,
+      "next_episode": 1
+    },
+    {
+      "id": 247784,
+      "title": "PULSE",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uGKTDr8ruc4IHGsEZ8wSQZpy2eN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pfEqosKFlJUvYgrO0XiJAiCzMFy.jpg",
+      "plot_overview": "A group of ER residents navigate medical crises and personal drama amid a divisive allegation at their Miami hospital.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2025-04-03",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 247784,
+      "networks": [
+        "Netflix"
       ]
     }
   ]

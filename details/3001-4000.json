@@ -1,7 +1,34 @@
 {
   "range": "3001-4000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461955,
   "shows": [
+    {
+      "id": 3019,
+      "title": "Dr. Jekyll and Mr. Hyde",
+      "type": "movie",
+      "year": 1931,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zN6pJV518rw1DSFrXSpaelqxHkZ.jpg",
+      "plot_overview": "Dr. Henry Jekyll believes that there are two distinct sides to men: one that is good and one that is evil. He believes that by separating the two, man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug, it is already too late.",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Drama"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": "NR",
+      "release_date": "1931-12-24",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 3019
+    },
     {
       "id": 3035,
       "title": "Frankenstein",
@@ -15,7 +42,7 @@
         "Horror",
         "Science Fiction"
       ],
-      "user_rating": 7.467,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1931-11-21",
@@ -23,6 +50,12 @@
         {
           "service_id": 386,
           "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -40,7 +73,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.623,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "1997-03-04",
@@ -72,7 +105,7 @@
         "drama",
         "history"
       ],
-      "user_rating": 7.077,
+      "user_rating": 7.084,
       "critic_score": null,
       "us_rating": "NR",
       "release_date": "1916-09-05",
@@ -102,7 +135,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 8.281,
+      "user_rating": 8.282,
       "critic_score": null,
       "us_rating": "G",
       "release_date": "1936-02-05",
@@ -137,7 +170,7 @@
         "drama",
         "romance"
       ],
-      "user_rating": 7.183,
+      "user_rating": 7.182,
       "critic_score": null,
       "us_rating": "NR",
       "release_date": "1939-04-07",
@@ -171,7 +204,7 @@
         "animation",
         "comedy"
       ],
-      "user_rating": 7.514,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2008-09-28",
@@ -202,7 +235,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.785,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2003-11-07",
@@ -295,7 +328,7 @@
         "drama",
         "family"
       ],
-      "user_rating": 7.015,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": "G",
       "release_date": "1942-08-14",
@@ -350,7 +383,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.515,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2002-03-27",
@@ -390,7 +423,7 @@
         "kids",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.443,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "1991-09-06",
@@ -422,7 +455,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 8.045,
+      "user_rating": 8.046,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "1997-07-12",
@@ -452,7 +485,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 7.694,
+      "user_rating": 7.697,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "1993-09-16",
@@ -477,6 +510,37 @@
       ]
     },
     {
+      "id": 3470,
+      "title": "Masters of Horror",
+      "type": "tv_series",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vgTy1Lfi5P1yD7ZvsuoPKYvxwzv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/w9FOfBEtb8iMWLulegu9ieWqPFp.jpg",
+      "plot_overview": "An anthology series written and directed by the most famous names in horror.",
+      "genres": [
+        "drama",
+        "mystery",
+        "crime",
+        "sci-fi & fantasy"
+      ],
+      "user_rating": 7.147,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2005-10-28",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 3470,
+      "networks": [
+        "Showtime"
+      ]
+    },
+    {
       "id": 3482,
       "title": "The Train",
       "type": "movie",
@@ -488,7 +552,7 @@
         "War",
         "Thriller"
       ],
-      "user_rating": 7.581,
+      "user_rating": 7.583,
       "critic_score": null,
       "us_rating": "NR",
       "release_date": "1964-09-24",
@@ -515,7 +579,7 @@
         "kids",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.626,
+      "user_rating": 8.6,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "2007-10-12",
@@ -545,7 +609,7 @@
         "action & adventure",
         "drama"
       ],
-      "user_rating": 8.104,
+      "user_rating": 8.1,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "1998-04-05",
@@ -605,7 +669,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.182,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2003-07-22",
@@ -636,7 +700,7 @@
         "family",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.806,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "1991-04-26",
@@ -669,7 +733,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.711,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2004-02-24",
@@ -732,7 +796,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.7,
+      "user_rating": 7.746,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2001-04-22",
@@ -764,7 +828,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.642,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2007-09-26",
@@ -802,7 +866,7 @@
         "family",
         "kids"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.666,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "2007-03-05",
@@ -819,6 +883,61 @@
       "networks": [
         "BBC One",
         "CBBC"
+      ]
+    },
+    {
+      "id": 3933,
+      "title": "Corpse Bride",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3RAoVTxUk1OzZClscAsynuu670p.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
+      "plot_overview": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+      "genres": [
+        "Romance",
+        "Fantasy",
+        "Animation"
+      ],
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": "PG",
+      "release_date": "2005-09-12",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 3933
+    },
+    {
+      "id": 3968,
+      "title": "NewsRadio",
+      "type": "tv_series",
+      "year": 1995,
+      "poster_url": "https://image.tmdb.org/t/p/w342/nP698ZfQ9OqCXnxhEPapa8QOgdX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9cusPHYQfwgI0fNbAhCjdngwBsb.jpg",
+      "plot_overview": "The office politics and interpersonal relationships among the staff of WNYX NewsRadio, New York's #2 news radio station.",
+      "genres": [
+        "comedy"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": "TV-PG",
+      "release_date": "1995-03-21",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 3968,
+      "networks": [
+        "NBC"
       ]
     }
   ]

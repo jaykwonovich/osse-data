@@ -1,6 +1,6 @@
 {
   "range": "45001-46000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461976,
   "shows": [
     {
       "id": 45013,
@@ -16,7 +16,7 @@
         "comedy",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.519,
+      "user_rating": 7.524,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2013-09-13",
@@ -47,7 +47,7 @@
         "Adventure",
         "Animation"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.161,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "2010-09-28",
@@ -100,7 +100,7 @@
         "family",
         "kids"
       ],
-      "user_rating": 7.61,
+      "user_rating": 7.616,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "2013-06-08",
@@ -161,7 +161,12 @@
         "Netflix",
         "Tokyo MX",
         "BS11"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 6,
+      "next_air_date": "2026-10-09",
+      "next_episode": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "range": "96001-97000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461998,
   "shows": [
     {
       "id": 96129,
@@ -14,7 +14,7 @@
         "crime",
         "documentary"
       ],
-      "user_rating": 7.608,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-12-18",
@@ -33,6 +33,41 @@
       ]
     },
     {
+      "id": 96450,
+      "title": "Miss Scarlet",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9pbxTckwvaTXMABenkcmO1VhQi8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fRkL08tLtjMKaiDjkdniAS2MXw6.jpg",
+      "plot_overview": "When Eliza Scarlet's father dies, he leaves her penniless, but she resolves to continue his detective agency. To operate in a male-dominated world, though, she needs a partner... step forward a detective known as the Duke. Eliza and The Duke strike up a mismatched, fiery relationship as they team up to solve crime in the murkiest depths of 1880\u2019s London.",
+      "genres": [
+        "drama",
+        "mystery",
+        "crime"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": "TV-PG",
+      "release_date": "2020-03-31",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 96450,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 7,
+      "next_air_date": null,
+      "next_episode": 1,
+      "networks": [
+        "U&Alibi"
+      ]
+    },
+    {
       "id": 96481,
       "title": "Rise of Empires: Ottoman",
       "type": "tv_series",
@@ -45,7 +80,7 @@
         "documentary",
         "war & politics"
       ],
-      "user_rating": 7.497,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2020-01-24",
@@ -74,7 +109,7 @@
       "genres": [
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.788,
+      "user_rating": 7.783,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2021-01-27",
@@ -111,7 +146,7 @@
         "crime",
         "mystery"
       ],
-      "user_rating": 7.178,
+      "user_rating": 7.164,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-01-30",
@@ -130,6 +165,35 @@
       ]
     },
     {
+      "id": 96628,
+      "title": "Des",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9llAQpT74W2fajazgRvgN5Z5fyG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/msuG3O9MJVZx26T7aFuMH0GfDL7.jpg",
+      "plot_overview": "The story of one of the most infamous cases in UK criminal history, that of serial killer Dennis Nilsen. Told through the prism of three men, the series explores the personal and professional consequences of coming into contact with a man like Nilsen.",
+      "genres": [
+        "crime",
+        "drama"
+      ],
+      "user_rating": 7.238,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2020-09-14",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 96628,
+      "networks": [
+        "ITV1"
+      ]
+    },
+    {
       "id": 96659,
       "title": "He-Man and the Masters of the Universe",
       "type": "tv_series",
@@ -143,7 +207,7 @@
         "family",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.138,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2021-09-16",
@@ -175,7 +239,7 @@
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.3,
+      "user_rating": 8.281,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-04-20",
@@ -271,6 +335,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }

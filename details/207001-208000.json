@@ -1,7 +1,64 @@
 {
   "range": "207001-208000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462023,
   "shows": [
+    {
+      "id": 207347,
+      "title": "Blue Box",
+      "type": "tv_series",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sN3TuYevEPWxZhwcp6I2PJRW1jl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
+      "plot_overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls\u2019 basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
+      "genres": [
+        "animation",
+        "drama"
+      ],
+      "genre": "animation",
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": "TV-PG",
+      "release_date": "2024-10-03",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 207347,
+      "networks": [
+        "MBS",
+        "TBS",
+        "CBC",
+        "Tulip Television",
+        "SBC",
+        "BSN",
+        "tys",
+        "NBC",
+        "HBC",
+        "RKK",
+        "i-Television",
+        "SBS",
+        "IBC",
+        "BSS",
+        "MRO",
+        "OBS",
+        "TUF",
+        "RSK",
+        "TUY",
+        "tbc",
+        "RKB",
+        "KUTV",
+        "RBC",
+        "UTY",
+        "RCC",
+        "MRT",
+        "ATV",
+        "MBC"
+      ]
+    },
     {
       "id": 207411,
       "title": "Good American Family",
@@ -25,6 +82,12 @@
           "service_name": "Hulu",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 207411,
@@ -45,7 +108,7 @@
         "drama"
       ],
       "genre": "drama",
-      "user_rating": 8.606,
+      "user_rating": 8.6,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2025-08-08",
@@ -60,7 +123,12 @@
       "tmdb_id": 207484,
       "networks": [
         "STARZ"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-10-09",
+      "next_episode": 4
     },
     {
       "id": 207717,
@@ -73,7 +141,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.588,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2022-10-21",
@@ -103,7 +171,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.249,
+      "user_rating": 7.296,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2023-01-08",
@@ -113,13 +181,24 @@
           "service_name": "Netflix",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 207863,
       "genre": "drama",
       "networks": [
         "AMC"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 3,
+      "next_air_date": null,
+      "next_episode": 1
     }
   ]
 }

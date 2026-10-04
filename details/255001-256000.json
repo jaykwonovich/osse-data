@@ -1,6 +1,6 @@
 {
   "range": "255001-256000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462033,
   "shows": [
     {
       "id": 255358,
@@ -70,7 +70,7 @@
         "action & adventure",
         "mystery"
       ],
-      "user_rating": 7.9,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2026-03-04",
@@ -86,6 +86,45 @@
       "genre": "action & adventure",
       "networks": [
         "Prime Video"
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": null,
+      "next_episode": 1
+    },
+    {
+      "id": 255752,
+      "title": "Haunted Hotel",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
+      "plot_overview": "After inheriting a hotel from her late brother, a single mom moves in with his good-natured ghost \u2014 and high-maintenance guests who will never check out.",
+      "genres": [
+        "animation",
+        "comedy"
+      ],
+      "user_rating": 8.167,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2025-09-19",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 255752,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-10-09",
+      "next_episode": 1,
+      "networks": [
+        "Netflix"
       ]
     },
     {
@@ -132,7 +171,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 7.755,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "2024-12-11",

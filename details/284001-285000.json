@@ -1,6 +1,6 @@
 {
   "range": "284001-285000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462039,
   "shows": [
     {
       "id": 284052,
@@ -103,6 +103,31 @@
       "genre": "action"
     },
     {
+      "id": 284293,
+      "title": "Still Alice",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jJiGGbuLW8IkEnh5073maEmIr7V.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qgCg1bCg9QBwr4jRygz6nZCoDqw.jpg",
+      "plot_overview": "Alice Howland, happily married with three grown children, is a renowned linguistics professor who starts to forget words. When she receives a devastating diagnosis, Alice and her family find their bonds tested.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.465,
+      "critic_score": null,
+      "us_rating": "PG-13",
+      "release_date": "2014-12-05",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 284293
+    },
+    {
       "id": 284558,
       "title": "Kill Jackie",
       "type": "tv_series",
@@ -135,11 +160,34 @@
         "Stan"
       ],
       "tmdb_id": 284558,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-10-02",
-      "next_episode": 1,
       "relevance_score": 75
+    },
+    {
+      "id": 284689,
+      "title": "Testament of Youth",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/a6kFsaDCulCLfYHmKLDKTYaddM4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jD0mmfqPRpvJUaPdpLl1vMj38CA.jpg",
+      "plot_overview": "Testament of Youth is a powerful story of love, war and remembrance, based on the First World War memoir by Vera Brittain, which has become the classic testimony of that war from a woman\u2019s point of view. A searing journey from youthful hopes and dreams to the edge of despair and back again, it\u2019s a film about young love, the futility of war and how to make sense of the darkest times.",
+      "genres": [
+        "History",
+        "Drama",
+        "War"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": "PG-13",
+      "release_date": "2015-01-16",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 284689
     },
     {
       "id": 284725,
@@ -152,7 +200,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 6.583,
+      "user_rating": 6.6,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2026-06-02",
@@ -173,12 +221,37 @@
         "Hulu"
       ],
       "tmdb_id": 284725,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-06-02",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "comedy"
+    },
+    {
+      "id": 284792,
+      "title": "Medusa",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gm7OMY4t99UpiMpIShNOKvKLQwO.jpg",
+      "plot_overview": "Somebody wants to kill CEO B\u00e1rbara Hidalgo. Can she find the culprit as her family schemes ruthlessly for control of their Colombian business empire?",
+      "genres": [
+        "drama"
+      ],
+      "genre": "drama",
+      "user_rating": 7.261,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2025-03-05",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 284792,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 284833,

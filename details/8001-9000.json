@@ -1,6 +1,6 @@
 {
   "range": "8001-9000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461959,
   "shows": [
     {
       "id": 8055,
@@ -39,7 +39,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.258,
+      "user_rating": 7.252,
       "critic_score": null,
       "us_rating": null,
       "release_date": "1998-05-15",
@@ -67,7 +67,7 @@
         "Action",
         "Comedy"
       ],
-      "user_rating": 7.46,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1974-10-02",
@@ -94,7 +94,7 @@
         "Action",
         "Thriller"
       ],
-      "user_rating": 7.309,
+      "user_rating": 7.312,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1988-11-04",
@@ -121,7 +121,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.882,
+      "user_rating": 7.869,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2009-01-21",
@@ -222,7 +222,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.009,
+      "user_rating": 7.01,
       "critic_score": null,
       "us_rating": "NR",
       "release_date": "1985-07-03",
@@ -249,7 +249,7 @@
         "Drama",
         "Romance"
       ],
-      "user_rating": 7.008,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1998-02-20",
@@ -269,7 +269,7 @@
       "type": "movie",
       "year": 1994,
       "poster_url": "https://image.tmdb.org/t/p/w342/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bqFxtuGNsz30HTk5mzgGs8m9Po.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
       "plot_overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
       "genres": [
         "Animation",
@@ -305,7 +305,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 8.049,
+      "user_rating": 8.051,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2009-04-09",
@@ -336,7 +336,7 @@
         "Drama",
         "War"
       ],
-      "user_rating": 7.203,
+      "user_rating": 7.205,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "2003-11-14",
@@ -355,14 +355,14 @@
       "title": "Eastbound & Down",
       "type": "tv_series",
       "year": 2009,
-      "poster_url": "https://image.tmdb.org/t/p/w342/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gLbk34xxqd31mLjaPnBMs7Fyse.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yQNtCRbofKQAPKRKy101tV0BEKI.jpg",
       "plot_overview": "Years after he turned his back on his hometown, a burned-out major league ballplayer returns to teach phys ed at his old middle school.",
       "genres": [
         "comedy",
         "drama"
       ],
-      "user_rating": 7.421,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2009-02-15",
@@ -386,12 +386,12 @@
       "type": "tv_series",
       "year": 2011,
       "poster_url": "https://image.tmdb.org/t/p/w342/jEGKNLYq6ZxtBmkQz3edaw62xMp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sKMbSXLNTh8P4WO71EZFstZIWMk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kxVtvTIih45EZXKpI13MX9GtfIM.jpg",
       "plot_overview": "David Attenborough travels to the end of the earth, taking viewers on an extraordinary journey across the polar regions of our planet.",
       "genres": [
         "documentary"
       ],
-      "user_rating": 8.386,
+      "user_rating": 8.4,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2011-10-26",
@@ -442,10 +442,6 @@
         "STARZ"
       ],
       "tmdb_id": 8840,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-07-31",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "crime"
     },
@@ -521,7 +517,7 @@
         "Drama",
         "Romance"
       ],
-      "user_rating": 6.273,
+      "user_rating": 6.272,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "2008-11-20",
@@ -529,6 +525,12 @@
         {
           "service_id": 386,
           "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }

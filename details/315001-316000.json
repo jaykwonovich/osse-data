@@ -1,6 +1,6 @@
 {
   "range": "315001-316000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462046,
   "shows": [
     {
       "id": 315110,
@@ -49,7 +49,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 8.218,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2022-12-07",
@@ -101,10 +101,6 @@
         "CNN"
       ],
       "tmdb_id": 315321,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-05-30",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "documentary"
     },
@@ -139,10 +135,6 @@
         "YouTube"
       ],
       "tmdb_id": 315531,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-06-01",
-      "next_episode": 1,
       "relevance_score": 75
     },
     {
@@ -181,6 +173,39 @@
       ],
       "tmdb_id": 315635,
       "genre": "action"
+    },
+    {
+      "id": 315722,
+      "title": "InkSpill and Co.",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "backdrop_url": null,
+      "plot_overview": "In the near future where aliens and humans co-exist, a young adult named InkSpill has to juggle a part-time job at a failing TV station with saving the world from an evil alien overlord. Fortunately, he has teammates to help him do both.",
+      "genres": [],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-12-31",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [],
+      "networks": [
+        "YouTube",
+        "Vimeo"
+      ],
+      "tmdb_id": 315722,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-12-31",
+      "next_episode": 1
     },
     {
       "id": 315800,

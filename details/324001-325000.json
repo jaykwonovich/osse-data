@@ -1,6 +1,6 @@
 {
   "range": "324001-325000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462052,
   "shows": [
     {
       "id": 324002,
@@ -33,10 +33,6 @@
         "Prime Video"
       ],
       "tmdb_id": 324002,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-06-18",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "reality"
     },
@@ -64,10 +60,6 @@
       "production_companies": [],
       "networks": [],
       "tmdb_id": 324004,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-05-29",
-      "next_episode": 1,
       "relevance_score": 75
     },
     {
@@ -133,6 +125,37 @@
       "relevance_score": 75
     },
     {
+      "id": 324326,
+      "title": "The Seven Knights of the Marronnier Kingdom",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/g3G9DHjjRBKdm8SbHVU2w3Cmp51.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
+      "plot_overview": "At the heart of a continent of eight kingdoms lies the Marronnier Kingdom. Its general, Baribara, has seven sons, each with a unique gift and serving as a knight commander. Bound by a single noble cause of heroically rescuing a princess someday, the brothers set out as goodwill ambassadors to the seven neighboring kingdoms. What encounters, trials, and destinies await them in these unknown lands?",
+      "genres": [
+        "animation",
+        "sci-fi & fantasy",
+        "comedy"
+      ],
+      "genre": "animation",
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-10-03",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 324326,
+      "networks": [
+        "NHK Educational TV"
+      ]
+    },
+    {
       "id": 324346,
       "title": "Ms. X",
       "type": "tv_series",
@@ -144,7 +167,7 @@
         "crime",
         "comedy"
       ],
-      "user_rating": 5.714,
+      "user_rating": 5.7,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-06-29",
@@ -159,7 +182,12 @@
       "tmdb_id": 324346,
       "networks": [
         "Three"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": null,
+      "next_episode": 1
     },
     {
       "id": 324552,
@@ -198,10 +226,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aBY4QcxdLgaGLf3ZHUvuKjRm8yF.jpg",
       "plot_overview": "In the menacing inferno of the old North-American West, Liz is a genuine survivor who is hunted by a vengeful preacher for a crime she didn\u2019t commit.",
       "genres": [
+        "Drama",
+        "Horror",
+        "Thriller",
+        "Western",
         "drama",
         "western"
       ],
-      "user_rating": 7.156,
+      "user_rating": 7.141,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2016-03-12",
@@ -261,7 +293,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 7.261,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2017-02-08",
@@ -294,7 +326,7 @@
         "animation",
         "science fiction"
       ],
-      "user_rating": 8.401,
+      "user_rating": 8.4,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2018-12-06",
@@ -314,7 +346,7 @@
       "title": "Monster High: Haunted",
       "type": "movie",
       "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jvwpfW0xRt2pQGD5tJbqmkc9STb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gGE0keq8oCx4jbRamyMcdHpyEPW.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hRwpFexKGTrxYpVmDd8Z0lrGHkp.jpg",
       "plot_overview": "Lurk what's waiting for the Monster High ghouls when they bring their killer fashion to the howlways of the spooktacular Haunted High! When the ghouls of Monster High follow Spectra Vondergeist one day, they discover a creeperiffic Ghost World with an all-spirit school. But their scary-cute student bodies are hardly welcome with the very strict Principal Revenant, and she punishes Spectra with frightful detention chains that prevent her from re-joining Monster High. Now, it's up to the imperfect",
       "genres": [
@@ -322,7 +354,7 @@
         "Family",
         "Fantasy"
       ],
-      "user_rating": 7.481,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2015-03-02",

@@ -1,7 +1,42 @@
 {
   "range": "329001-330000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462054,
   "shows": [
+    {
+      "id": 329249,
+      "title": "The Orange SMP",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "backdrop_url": null,
+      "plot_overview": "",
+      "genres": [
+        "animation",
+        "action & adventure",
+        "comedy",
+        "sci-fi & fantasy"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2026-12-17",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [],
+      "networks": [],
+      "tmdb_id": 329249,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-12-17",
+      "next_episode": 1
+    },
     {
       "id": 329471,
       "title": "The Grand Tour",
@@ -13,7 +48,7 @@
       "genres": [
         "reality"
       ],
-      "user_rating": 8.5,
+      "user_rating": 8.429,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2026-09-04",
@@ -63,11 +98,35 @@
         "Investigation Discovery"
       ],
       "tmdb_id": 329524,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-09-30",
-      "next_episode": 1,
       "relevance_score": 75
+    },
+    {
+      "id": 329542,
+      "title": "Legend of Troy: The Epic Rise and Fall",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6t0w5APf5Kus2O2kI4KZhLO05FM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pUUGXm11mqGX0qS56fEuAR6Q57E.jpg",
+      "plot_overview": "The legends of the Trojan War and the lost city of Troy captivated countless generations. More than 150 years after the discovery of Troy, what new insights can modern archaeology offer? Could the legends, in fact, preserve memories of the catastrophic decline and fall of Bronze Age civilization itself?",
+      "genres": [
+        "documentary"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2026-07-13",
+      "streaming_services": [
+        {
+          "service_id": 337,
+          "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 329542,
+      "networks": [
+        "National Geographic"
+      ]
     },
     {
       "id": 329575,
@@ -100,6 +159,63 @@
       "next_air_date": "2026-10-15",
       "next_episode": 1,
       "relevance_score": 75
+    },
+    {
+      "id": 329701,
+      "title": "My Little Pony: Forever Friendship",
+      "type": "tv_series",
+      "year": 2027,
+      "poster_url": "https://image.tmdb.org/t/p/w342/domyigCvw8u66mCENl4v2HESgz2.jpg",
+      "backdrop_url": null,
+      "plot_overview": "The series is said to follow \u201cTwilight Sparkle, Pinkie Pie, Rainbow Dash, and Fluttershy as they embark on a new journey of friendship, magic and self-discovery.\u201d",
+      "genres": [],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2027-01-01",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [],
+      "networks": [],
+      "tmdb_id": 329701,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2027-01-01",
+      "next_episode": 1
+    },
+    {
+      "id": 329865,
+      "title": "Arrival",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
+      "plot_overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+      "genres": [
+        "Drama",
+        "Science Fiction",
+        "Mystery"
+      ],
+      "user_rating": 7.635,
+      "critic_score": null,
+      "us_rating": "PG-13",
+      "release_date": "2016-11-10",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 329865
     },
     {
       "id": 329896,

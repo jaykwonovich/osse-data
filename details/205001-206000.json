@@ -1,6 +1,6 @@
 {
   "range": "205001-206000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462022,
   "shows": [
     {
       "id": 205002,
@@ -33,10 +33,6 @@
         "NBC"
       ],
       "tmdb_id": 205002,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-06-11",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "documentary"
     },
@@ -52,7 +48,7 @@
         "animation",
         "comedy"
       ],
-      "user_rating": 5.963,
+      "user_rating": 6.0,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2023-04-02",
@@ -71,11 +67,36 @@
       ]
     },
     {
+      "id": 205587,
+      "title": "The Judge",
+      "type": "movie",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3K93GWotLXe4FqpErri0xkpLaD5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sPantp0oQ9idos7Jdwko2r6ZOIa.jpg",
+      "plot_overview": "A successful lawyer returns to his hometown for his mother's funeral only to discover that his estranged father, the town's judge, is suspected of murder.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 7.331,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "2014-10-08",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 205587
+    },
+    {
       "id": 205715,
       "title": "Gen V",
       "type": "tv_series",
       "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/tEv842Nd5uMSavURG4aQO1pNtst.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tldMHeR7UnihV5ffrxxM8cDhbtT.jpg",
       "plot_overview": "At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.",
       "genres": [
@@ -83,7 +104,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.7,
+      "user_rating": 7.617,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2023-09-28",

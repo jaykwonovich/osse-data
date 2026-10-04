@@ -1,6 +1,6 @@
 {
   "range": "310001-311000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462045,
   "shows": [
     {
       "id": 310131,
@@ -18,7 +18,7 @@
         "Thriller",
         "horror"
       ],
-      "user_rating": 7.003,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2016-02-19",
@@ -32,6 +32,12 @@
         {
           "service_id": 8,
           "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -48,7 +54,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg",
       "plot_overview": "Emma can see the dead. But when her niece arrives, thousands of lives are shaken.",
       "genres": [
-        "drama"
+        "drama",
+        "sci-fi & fantasy"
       ],
       "genre": "drama",
       "user_rating": 5.3,
@@ -82,7 +89,7 @@
         "drama",
         "history"
       ],
-      "user_rating": 7.154,
+      "user_rating": 7.155,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "2016-11-24",
@@ -121,10 +128,6 @@
       "production_companies": [],
       "networks": [],
       "tmdb_id": 310355,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-08-21",
-      "next_episode": 1,
       "relevance_score": 75
     },
     {

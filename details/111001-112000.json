@@ -1,7 +1,41 @@
 {
   "range": "111001-112000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462002,
   "shows": [
+    {
+      "id": 111110,
+      "title": "ONE PIECE",
+      "type": "tv_series",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+      "plot_overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy"
+      ],
+      "user_rating": 8.11,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2023-08-31",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 111110,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 3,
+      "next_air_date": null,
+      "next_episode": 1,
+      "networks": [
+        "Netflix"
+      ]
+    },
     {
       "id": 111111,
       "title": "Blood of Zeus",
@@ -15,7 +49,7 @@
         "animation",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.753,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-10-27",
@@ -39,12 +73,12 @@
       "type": "tv_series",
       "year": 2021,
       "poster_url": "https://image.tmdb.org/t/p/w342/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eX0tVkoLokMQGne4lBHqUgJUE6o.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg",
       "plot_overview": "After fleeing an abusive relationship, a young mother finds a job cleaning houses as she fights to provide for her child and build them a better future.",
       "genres": [
         "drama"
       ],
-      "user_rating": 8.0,
+      "user_rating": 7.978,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2021-09-30",
@@ -75,7 +109,7 @@
         "drama",
         "war & politics"
       ],
-      "user_rating": 7.069,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-11-11",
@@ -107,7 +141,7 @@
         "kids",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.9,
+      "user_rating": 7.93,
       "critic_score": null,
       "us_rating": "TV-Y",
       "release_date": "2021-01-05",
@@ -137,7 +171,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.723,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2022-06-10",
@@ -167,7 +201,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.817,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2020-11-10",
@@ -186,6 +220,35 @@
       ]
     },
     {
+      "id": 111647,
+      "title": "Seduced: Inside the NXIVM Cult",
+      "type": "tv_series",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2algVl1riUbFcFBxxy1Ops6FNM7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ySEDARpT8q6dEGfNUh7WpKdn2qj.jpg",
+      "plot_overview": "This four-part documentary series follows the story of India Oxenberg's perilous journey through the dark and criminal world of the notorious self-help-group-turned-sex-slave-cult NXIVM.",
+      "genres": [
+        "documentary",
+        "crime"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2020-10-18",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 111647,
+      "networks": [
+        "STARZ"
+      ]
+    },
+    {
       "id": 111800,
       "title": "The Old Man",
       "type": "tv_series",
@@ -197,7 +260,7 @@
         "action & adventure",
         "drama"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.197,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2022-06-16",
@@ -228,7 +291,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.594,
+      "user_rating": 7.595,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2021-07-11",
@@ -261,7 +324,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.376,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2013-06-14",

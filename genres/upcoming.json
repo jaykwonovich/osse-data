@@ -1,59 +1,66 @@
 {
   "genre": "upcoming",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149467874,
   "processing_stats": {
-    "total": 96,
-    "rules": 0,
+    "total": 100,
+    "rules": 6,
     "gemini": 0,
-    "cache": 10,
-    "kept": 96,
+    "cache": 0,
+    "kept": 100,
     "filtered": 0
   },
   "shows": [
     {
-      "id": 258165,
-      "title": "East of Eden",
+      "id": 1458319,
+      "title": "How to Train Your Dragon 2",
+      "type": "movie",
+      "year": 2027,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8HUBvnbizvTkGOZfxOZBjVSWFhi.jpg",
+      "genre": "fantasy",
+      "genres": [
+        "fantasy",
+        "adventure",
+        "family",
+        "action"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 0.0,
+      "release_date": "2027-06-10",
+      "us_rating": null,
+      "production_companies": [
+        "DreamWorks Animation",
+        "Marc Platt Productions"
+      ],
+      "networks": [],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 75.0
+    },
+    {
+      "id": 224377,
+      "title": "Harry Potter",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/VMyZWR0GBHGY9WIwcaj232ALAl.jpg",
-      "genre": "drama",
+      "poster_url": "https://image.tmdb.org/t/p/w342/SJCnXVBJZh7X7ePLt6XMp6TZAj.jpg",
+      "genre": "sci-fi & fantasy",
       "genres": [
-        "drama"
+        "sci-fi & fantasy",
+        "action & adventure",
+        "family"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 5.0,
-      "release_date": "2026-10-01",
-      "production_companies": [
-        "Fifth Season",
-        "Anonymous Content"
-      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 0.0,
+      "release_date": "2026-12-25",
+      "us_rating": "TV-14",
       "networks": [
-        "Netflix"
+        "HBO",
+        "HBO Max"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 90.0,
-      "us_rating": null
-    },
-    {
-      "id": 336455,
-      "title": "Holiewood: From Rags To Cardboard",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/yqqVJuyCcVcojLFLTpEFwT3ZxMt.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 10.0,
-      "release_date": "2026-09-30",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 80.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 289729,
@@ -69,17 +76,36 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-12-17",
-      "production_companies": [
-        "John Wells Productions",
-        "Warner Bros. Television"
-      ],
+      "us_rating": null,
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
+    },
+    {
+      "id": 291074,
+      "title": "TED: The Animated Series",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y75yXTixSGBjLmtPCu6plFlXPTj.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "comedy"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 0.0,
+      "release_date": "2026-12-17",
+      "us_rating": null,
+      "networks": [
+        "Peacock"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 75.0
     },
     {
       "id": 270596,
@@ -96,16 +122,35 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-12-10",
-      "production_companies": [
-        "101 Studios"
-      ],
+      "us_rating": null,
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
+    },
+    {
+      "id": 331822,
+      "title": "Sunshine Girls",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 0.0,
+      "release_date": "2026-12-07",
+      "us_rating": null,
+      "networks": [
+        "Netflix"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 75.0
     },
     {
       "id": 288672,
@@ -121,16 +166,13 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-12-03",
-      "production_companies": [
-        "Lookout Point"
-      ],
+      "us_rating": null,
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 171802,
@@ -146,18 +188,13 @@
       "service_name": "Prime Video",
       "user_rating": 0.0,
       "release_date": "2026-11-25",
-      "production_companies": [
-        "Scott Free Productions",
-        "Amazon MGM Studios",
-        "Alcon Television Group"
-      ],
+      "us_rating": "TV-14",
       "networks": [
         "Prime Video"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": "TV-14"
+      "relevance_score": 75.0
     },
     {
       "id": 290826,
@@ -173,22 +210,13 @@
       "service_name": "Peacock",
       "user_rating": 0.0,
       "release_date": "2026-11-23",
-      "production_companies": [
-        "3 Arts Entertainment",
-        "Paper Kite Productions",
-        "Universal Television",
-        "Fremulon",
-        "Ocean Avenue",
-        "Duck Duck Films",
-        "Dunshire Productions"
-      ],
+      "us_rating": null,
       "networks": [
         "Peacock"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 308007,
@@ -204,18 +232,13 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-11-19",
-      "production_companies": [
-        "Vox Media Studios",
-        "Higher Ground",
-        "New York Magazine"
-      ],
+      "us_rating": null,
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 254630,
@@ -233,19 +256,13 @@
       "service_name": "Apple TV+",
       "user_rating": 0.0,
       "release_date": "2026-11-12",
-      "production_companies": [
-        "Make It With Gravy Productions",
-        "Inspire Entertainment",
-        "Anonymous Content",
-        "Paramount Television Studios"
-      ],
+      "us_rating": null,
       "networks": [
         "Apple TV"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 249565,
@@ -262,18 +279,35 @@
       "service_name": "Peacock",
       "user_rating": 0.0,
       "release_date": "2026-11-12",
-      "production_companies": [
-        "Iron Ocean",
-        "Made Up Stories",
-        "Fifth Season"
-      ],
+      "us_rating": null,
       "networks": [
         "Peacock"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
+    },
+    {
+      "id": 320507,
+      "title": "The Secret Lives of Mormon Wives: Orange County",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "reality",
+      "genres": [
+        "reality"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 0.0,
+      "release_date": "2026-11-12",
+      "us_rating": null,
+      "networks": [
+        "Hulu"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 75.0
     },
     {
       "id": 291507,
@@ -289,18 +323,13 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-11-11",
-      "production_companies": [
-        "Felix Culpa",
-        "The North Road Company",
-        "Chernin Entertainment"
-      ],
+      "us_rating": null,
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 336478,
@@ -313,17 +342,17 @@
         "animation",
         "kids"
       ],
-      "service_id": 386,
-      "service_name": "Peacock",
+      "service_id": 8,
+      "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-11-09",
-      "production_companies": [
-        "DreamWorks Television"
+      "us_rating": "TV-Y",
+      "networks": [
+        "Netflix"
       ],
-      "networks": [],
-      "prediction_source": "cache",
-      "relevance_score": 75.0,
-      "us_rating": "TV-Y"
+      "prediction_source": "rules",
+      "prediction_confidence": 0.95,
+      "relevance_score": 75.0
     },
     {
       "id": 306179,
@@ -339,16 +368,13 @@
       "service_name": "Apple TV+",
       "user_rating": 0.0,
       "release_date": "2026-11-06",
-      "production_companies": [
-        "Twofour"
-      ],
+      "us_rating": "TV-MA",
       "networks": [
         "Apple TV"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 258989,
@@ -364,22 +390,13 @@
       "service_name": "Prime Video",
       "user_rating": 0.0,
       "release_date": "2026-11-04",
-      "production_companies": [
-        "Roc Nation",
-        "Outlier Society",
-        "Polygram Entertainment",
-        "Amazon MGM Studios",
-        "Blue Monday Productions",
-        "Authentic Studios",
-        "Grace: A Storytelling Company"
-      ],
+      "us_rating": null,
       "networks": [
         "Prime Video"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 314271,
@@ -397,16 +414,13 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-11-03",
-      "production_companies": [
-        "Studio Mir"
-      ],
+      "us_rating": "TV-MA",
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": "TV-MA"
+      "relevance_score": 75.0
     },
     {
       "id": 334708,
@@ -422,16 +436,13 @@
       "service_name": "Hulu",
       "user_rating": 0.0,
       "release_date": "2026-11-02",
-      "production_companies": [
-        "iHeartPodcasts"
-      ],
+      "us_rating": null,
       "networks": [
         "Hulu"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 292741,
@@ -441,24 +452,20 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/4ooQ6EdSQwJZJl7eKJ7DfHnlA6c.jpg",
       "genre": "crime",
       "genres": [
-        "crime"
+        "crime",
+        "mystery"
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
       "user_rating": 0.0,
       "release_date": "2026-10-29",
-      "production_companies": [
-        "A+E Studios",
-        "Range Studios",
-        "Sleepy Poppy"
-      ],
+      "us_rating": "TV-MA",
       "networks": [
         "Apple TV"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 333533,
@@ -474,16 +481,13 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-10-27",
-      "production_companies": [
-        "Maxine Productions"
-      ],
+      "us_rating": "TV-MA",
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 334887,
@@ -499,17 +503,13 @@
       "service_name": "Hulu",
       "user_rating": 0.0,
       "release_date": "2026-10-26",
-      "production_companies": [
-        "Primal Media",
-        "Studio Lambert"
-      ],
+      "us_rating": null,
       "networks": [
         "Hulu"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 321221,
@@ -525,16 +525,13 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-10-26",
-      "production_companies": [
-        "American High"
-      ],
+      "us_rating": "TV-14",
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 322267,
@@ -550,13 +547,13 @@
       "service_name": "Peacock",
       "user_rating": 0.0,
       "release_date": "2026-10-23",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [
         "NBC"
       ],
-      "prediction_source": "cache",
-      "relevance_score": 75.0,
-      "us_rating": null
+      "prediction_source": "rules",
+      "prediction_confidence": 0.8,
+      "relevance_score": 75.0
     },
     {
       "id": 334703,
@@ -572,14 +569,13 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-10-22",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 335319,
@@ -595,16 +591,59 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-10-21",
-      "production_companies": [
-        "Alfred Street Industries"
-      ],
+      "us_rating": null,
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
+    },
+    {
+      "id": 275139,
+      "title": "Phony",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama",
+        "mystery"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 0.0,
+      "release_date": "2026-10-20",
+      "us_rating": null,
+      "networks": [
+        "Hulu"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 75.0
+    },
+    {
+      "id": 336973,
+      "title": "Hometown Giants",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 0.0,
+      "release_date": "2026-10-16",
+      "us_rating": null,
+      "networks": [
+        "Prime Video"
+      ],
+      "prediction_source": "existing",
+      "prediction_confidence": 1.0,
+      "relevance_score": 75.0
     },
     {
       "id": 213562,
@@ -621,16 +660,13 @@
       "service_name": "Peacock",
       "user_rating": 0.0,
       "release_date": "2026-10-15",
-      "production_companies": [
-        "A24"
-      ],
+      "us_rating": null,
       "networks": [
         "Peacock"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 286183,
@@ -648,18 +684,13 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-10-15",
-      "production_companies": [
-        "Paramount Television Studios",
-        "Nickelodeon Productions",
-        "Quick to Judge"
-      ],
+      "us_rating": null,
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 213375,
@@ -675,17 +706,13 @@
       "service_name": "Disney+",
       "user_rating": 0.0,
       "release_date": "2026-10-14",
-      "production_companies": [
-        "Marvel Studios",
-        "Kevin Feige Productions"
-      ],
+      "us_rating": "TV-14",
       "networks": [
         "Disney+"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": "TV-14"
+      "relevance_score": 75.0
     },
     {
       "id": 335403,
@@ -702,14 +729,13 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-10-14",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 335536,
@@ -725,19 +751,13 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-10-13",
-      "production_companies": [
-        "EverWonder Studio",
-        "DLP Media Group",
-        "Five All in the Fifth Entertainment",
-        "Scratchy Productions"
-      ],
+      "us_rating": "TV-MA",
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": "TV-MA"
+      "relevance_score": 75.0
     },
     {
       "id": 307176,
@@ -755,18 +775,13 @@
       "service_name": "Disney+",
       "user_rating": 0.0,
       "release_date": "2026-10-11",
-      "production_companies": [
-        "Moon River Studios",
-        "Screen Australia",
-        "Screen Queensland",
-        "Soapbox Pictures"
-      ],
+      "us_rating": null,
       "networks": [
         "ABC TV"
       ],
-      "prediction_source": "cache",
-      "relevance_score": 75.0,
-      "us_rating": null
+      "prediction_source": "rules",
+      "prediction_confidence": 0.7,
+      "relevance_score": 75.0
     },
     {
       "id": 336418,
@@ -782,17 +797,13 @@
       "service_name": "Max",
       "user_rating": 0.0,
       "release_date": "2026-10-11",
-      "production_companies": [
-        "HBO Documentary Films",
-        "Lightbox Entertainment"
-      ],
+      "us_rating": null,
       "networks": [
         "HBO"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 284833,
@@ -811,17 +822,13 @@
       "service_name": "Paramount+",
       "user_rating": 0.0,
       "release_date": "2026-10-09",
-      "production_companies": [
-        "Avatar Studios",
-        "Nickelodeon Animation Studio"
-      ],
+      "us_rating": null,
       "networks": [
         "Paramount+"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 75.0
     },
     {
       "id": 285322,
@@ -837,16 +844,13 @@
       "service_name": "Netflix",
       "user_rating": 0.0,
       "release_date": "2026-10-08",
-      "production_companies": [
-        "Pacesetter U.K."
-      ],
+      "us_rating": "TV-MA",
       "networks": [
         "Netflix"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": "TV-MA"
+      "relevance_score": 75.0
     },
     {
       "id": 303630,
@@ -862,16 +866,13 @@
       "service_name": "Paramount+",
       "user_rating": 0.0,
       "release_date": "2026-10-08",
-      "production_companies": [
-        "CBS Studios",
-        "King Size Productions"
-      ],
+      "us_rating": null,
       "networks": [
         "CBS"
       ],
-      "prediction_source": "cache",
-      "relevance_score": 75.0,
-      "us_rating": null
+      "prediction_source": "rules",
+      "prediction_confidence": 0.8,
+      "relevance_score": 75.0
     },
     {
       "id": 313630,
@@ -888,15 +889,13 @@
       "service_name": "Paramount+",
       "user_rating": 0.0,
       "release_date": "2026-10-08",
-      "production_companies": [
-        "CBS Studios"
-      ],
+      "us_rating": null,
       "networks": [
         "CBS"
       ],
-      "prediction_source": "cache",
-      "relevance_score": 75.0,
-      "us_rating": null
+      "prediction_source": "rules",
+      "prediction_confidence": 0.8,
+      "relevance_score": 75.0
     },
     {
       "id": 288673,
@@ -913,18 +912,13 @@
       "service_name": "Prime Video",
       "user_rating": 0.0,
       "release_date": "2026-10-07",
-      "production_companies": [
-        "Amazon MGM Studios",
-        "Intrepid Pictures",
-        "Red Room Pictures"
-      ],
+      "us_rating": "TV-14",
       "networks": [
         "Prime Video"
       ],
       "prediction_source": "existing",
       "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": "TV-14"
+      "relevance_score": 75.0
     },
     {
       "id": 319800,
@@ -941,284 +935,253 @@
       "service_name": "Paramount+",
       "user_rating": 0.0,
       "release_date": "2026-10-06",
-      "production_companies": [
-        "CBS Studios"
-      ],
+      "us_rating": null,
       "networks": [
         "CBS"
       ],
-      "prediction_source": "cache",
-      "relevance_score": 75.0,
-      "us_rating": null
+      "prediction_source": "rules",
+      "prediction_confidence": 0.8,
+      "relevance_score": 75.0
     },
     {
-      "id": 231801,
-      "title": "Get Jiro",
+      "id": 334751,
+      "title": "Legends",
       "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7sPonRG42zGId0ERvN3q5OHsjkl.jpg",
-      "genre": "animation",
-      "genres": [
-        "animation"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 0.0,
-      "release_date": "2026-10-04",
-      "production_companies": [
-        "Warner Bros. Animation",
-        "DC Studios"
-      ],
-      "networks": [
-        "Adult Swim"
-      ],
-      "prediction_source": "cache",
-      "relevance_score": 75.0,
-      "us_rating": null
-    },
-    {
-      "id": 284558,
-      "title": "Kill Jackie",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "crime"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 0.0,
-      "release_date": "2026-10-02",
-      "production_companies": [
-        "Steel Springs Pictures",
-        "Fremantle"
-      ],
-      "networks": [
-        "Prime Video",
-        "Stan"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
-    },
-    {
-      "id": 298505,
-      "title": "Coven Academy",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
-      "genre": "mystery",
-      "genres": [
-        "mystery",
-        "action & adventure",
-        "drama",
-        "comedy"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 0.0,
-      "release_date": "2026-10-01",
-      "production_companies": [
-        "Chorus Boy",
-        "Bear Claw Productions",
-        "Slavkin/Swimmer Productions",
-        "Disney Kids & Family"
-      ],
-      "networks": [
-        "Freeform"
-      ],
-      "prediction_source": "cache",
-      "relevance_score": 75.0,
-      "us_rating": "TV-PG"
-    },
-    {
-      "id": 298852,
-      "title": "War",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+      "year": 2027,
+      "poster_url": null,
       "genre": "drama",
       "genres": [
         "drama"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
+      "service_id": 0,
+      "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-10-01",
-      "production_companies": [
-        "New Pictures",
-        "Observatory Pictures",
-        "Sky",
-        "HBO"
-      ],
-      "networks": [
-        "HBO"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": "TV-MA"
+      "release_date": "2027-01-01",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
-      "id": 286712,
-      "title": "Private Eyes West Coast",
+      "id": 329701,
+      "title": "My Little Pony: Forever Friendship",
       "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6eulJ8STxOjTkIpBMAcJBOPuKOw.jpg",
-      "genre": "crime",
+      "year": 2027,
+      "poster_url": "https://image.tmdb.org/t/p/w342/domyigCvw8u66mCENl4v2HESgz2.jpg",
+      "genre": "drama",
       "genres": [
-        "crime",
-        "drama",
-        "comedy"
+        "drama"
       ],
-      "service_id": 318,
-      "service_name": "Starz",
+      "service_id": 0,
+      "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-09-30",
-      "production_companies": [
-        "Corus Entertainment",
-        "Lionsgate Canada"
-      ],
-      "networks": [
-        "Global TV"
-      ],
-      "prediction_source": "cache",
-      "relevance_score": 75.0,
-      "us_rating": null
+      "release_date": "2027-01-01",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
-      "id": 329524,
-      "title": "Unmasking a Monster: Aileen Wuornos",
+      "id": 330569,
+      "title": "Lumine",
       "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fkl2huQPv3lc9vE82wAA5uhbBoD.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "crime"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 0.0,
-      "release_date": "2026-09-30",
-      "production_companies": [
-        "Warner Bros. Discovery",
-        "Arrow Media",
-        "Fremantle"
-      ],
-      "networks": [
-        "Investigation Discovery"
-      ],
-      "prediction_source": "cache",
-      "relevance_score": 75.0,
-      "us_rating": null
-    },
-    {
-      "id": 318918,
-      "title": "LEGO ONE PIECE",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/j3aJ4BtFC29nOdV7FsEYD8kQk35.jpg",
+      "year": 2027,
+      "poster_url": "https://image.tmdb.org/t/p/w342/l4zpoa6e97h3xWqwtSbhB80Yupv.jpg",
       "genre": "animation",
       "genres": [
         "animation",
-        "action & adventure",
-        "sci-fi & fantasy",
-        "comedy",
-        "family"
+        "action & adventure"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
+      "service_id": 0,
+      "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-09-29",
-      "production_companies": [
-        "Netflix",
-        "Shueisha",
-        "Atomic Cartoons",
-        "Tomorrow Studios",
-        "The LEGO Group"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
-    },
-    {
-      "id": 333016,
-      "title": "Outside",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/24D2wHB78bGXeHuDUNo2OdTQXjp.jpg",
-      "genre": "reality",
-      "genres": [
-        "reality"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-09-28",
-      "production_companies": [
-        "Sidemen Entertainment"
-      ],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
-    },
-    {
-      "id": 334702,
-      "title": "Last Trace with Kaelyn Moore",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-      "genre": "talk",
-      "genres": [
-        "talk"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 0.0,
-      "release_date": "2026-09-28",
+      "release_date": "2027-01-01",
+      "us_rating": null,
+      "networks": [],
       "production_companies": [],
-      "networks": [
-        "Netflix"
-      ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 50.0
     },
     {
-      "id": 334706,
-      "title": "Outlore With Eleanor Neale",
+      "id": 334361,
+      "title": "What Remains",
+      "type": "tv_series",
+      "year": 2027,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2027-01-01",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 336768,
+      "title": "Aaj",
+      "type": "tv_series",
+      "year": 2027,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qHoNTS3JCFFzVhAMh8dpmKww4my.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "documentary",
+        "crime"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2027-01-01",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 304929,
+      "title": "Monarch of the Glen",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-      "genre": "talk",
+      "poster_url": null,
+      "genre": "drama",
       "genres": [
-        "talk"
+        "drama"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
+      "service_id": 0,
+      "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-09-27",
-      "production_companies": [],
+      "release_date": "2026-12-31",
+      "us_rating": null,
       "networks": [
-        "Netflix"
+        "5"
       ],
-      "prediction_source": "existing",
-      "prediction_confidence": 1.0,
-      "relevance_score": 75.0,
-      "us_rating": null
+      "relevance_score": 50.0
+    },
+    {
+      "id": 332290,
+      "title": "Seeing is Believing: The Story of Narrative Art",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "documentary",
+      "genres": [
+        "documentary"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-12-31",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 315722,
+      "title": "InkSpill and Co.",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-12-31",
+      "us_rating": null,
+      "networks": [
+        "YouTube",
+        "Vimeo"
+      ],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 290835,
+      "title": "a",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/adXTggSEt55foHUwghxhaDlTDka.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-12-30",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 328208,
+      "title": "Decisive Decisions",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-12-25",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [
+        "Open Eye Films"
+      ],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 321207,
+      "title": "Clara and the Below",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pLttPLFxKKC4cUuOheOWgiX0Q2w.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-12-25",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [
+        "Fantasy Project"
+      ],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 336788,
+      "title": "Glass House",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aon2qWpAOWOptNNRBRVy6v7MSjE.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-12-24",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 307325,
@@ -1237,14 +1200,33 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-12-18",
-      "production_companies": [
-        "Delasol Studios"
-      ],
+      "us_rating": null,
       "networks": [
         "Delasol"
       ],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
+    },
+    {
+      "id": 329249,
+      "title": "The Orange SMP",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "action & adventure",
+        "comedy",
+        "sci-fi & fantasy"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-12-17",
+      "us_rating": "TV-14",
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 335087,
@@ -1260,10 +1242,10 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-12-13",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 335857,
@@ -1279,12 +1261,11 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-12-12",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [
         "RT\u00c9 One"
       ],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
     },
     {
       "id": 324091,
@@ -1301,10 +1282,10 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-12-11",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 334381,
@@ -1320,12 +1301,12 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-12-10",
+      "us_rating": "TV-G",
+      "networks": [],
       "production_companies": [
         "Black & Boujee Productions"
       ],
-      "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": "TV-G"
+      "relevance_score": 50.0
     },
     {
       "id": 321389,
@@ -1344,12 +1325,11 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-12-03",
-      "production_companies": [],
+      "us_rating": "TV-14",
       "networks": [
         "YouTube"
       ],
-      "relevance_score": 50.0,
-      "us_rating": "TV-14"
+      "relevance_score": 50.0
     },
     {
       "id": 330473,
@@ -1366,10 +1346,10 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-12-01",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 327346,
@@ -1388,10 +1368,10 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-11-30",
-      "production_companies": [],
+      "us_rating": "TV-PG",
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": "TV-PG"
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 333437,
@@ -1407,10 +1387,29 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-11-30",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 337031,
+      "title": "Munawwara Ka Khadim",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-11-27",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 336199,
@@ -1426,14 +1425,11 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-11-16",
-      "production_companies": [
-        "Skiff Mountain Films"
-      ],
+      "us_rating": null,
       "networks": [
         "PBS"
       ],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
     },
     {
       "id": 332912,
@@ -1450,12 +1446,12 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-11-14",
+      "us_rating": null,
+      "networks": [],
       "production_companies": [
         "Hawk Studios"
       ],
-      "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
     },
     {
       "id": 313767,
@@ -1471,10 +1467,29 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-11-11",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 337116,
+      "title": "Unskilled Adult",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/no9YvuBWkOulGO3AKM2eyZGUrzD.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-11-01",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 334279,
@@ -1490,12 +1505,12 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-31",
+      "us_rating": null,
+      "networks": [],
       "production_companies": [
         "DigitalogMedia"
       ],
-      "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
     },
     {
       "id": 334273,
@@ -1511,10 +1526,10 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-30",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 326007,
@@ -1530,15 +1545,11 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-30",
-      "production_companies": [
-        "Star Studios Production Co.",
-        "CDL Distribution Co."
-      ],
+      "us_rating": "TV-14",
       "networks": [
         "YouTube"
       ],
-      "relevance_score": 50.0,
-      "us_rating": "TV-14"
+      "relevance_score": 50.0
     },
     {
       "id": 335481,
@@ -1555,16 +1566,32 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-23",
-      "production_companies": [
-        "Skydance Sports",
-        "Stellify Media"
-      ],
+      "us_rating": null,
       "networks": [
         "BBC Two",
         "BBC One Northern Ireland"
       ],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
+    },
+    {
+      "id": 336770,
+      "title": "Just One Before I Die",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-21",
+      "us_rating": null,
+      "networks": [
+        "Tubi"
+      ],
+      "relevance_score": 50.0
     },
     {
       "id": 313137,
@@ -1580,14 +1607,31 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-20",
-      "production_companies": [
-        "Blink49 Studios"
-      ],
+      "us_rating": null,
       "networks": [
         "E!"
       ],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
+    },
+    {
+      "id": 332204,
+      "title": "Vanderpump Rules: Lisa Las Vegas",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e0eX28mqJ2GEH8D85felMO6EqIm.jpg",
+      "genre": "reality",
+      "genres": [
+        "reality"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-20",
+      "us_rating": null,
+      "networks": [
+        "Bravo"
+      ],
+      "relevance_score": 50.0
     },
     {
       "id": 336024,
@@ -1603,10 +1647,10 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-18",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 329896,
@@ -1622,10 +1666,32 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-17",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 336773,
+      "title": "Strawberry Shortcake\u2019s Bake Shop",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5D5gxpSdeeDLIZXYaGkae255RSe.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "family",
+        "kids"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-16",
+      "us_rating": "TV-Y",
+      "networks": [
+        "YouTube"
+      ],
+      "relevance_score": 50.0
     },
     {
       "id": 329575,
@@ -1641,10 +1707,10 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-15",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 49213,
@@ -1660,10 +1726,10 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-14",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 328361,
@@ -1679,13 +1745,12 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-14",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [
         "BBC One",
         "PBS"
       ],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
     },
     {
       "id": 310794,
@@ -1701,12 +1766,12 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-12",
+      "us_rating": null,
+      "networks": [],
       "production_companies": [
         "Colored Girl Film Productions"
       ],
-      "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
     },
     {
       "id": 336311,
@@ -1722,10 +1787,10 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-12",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 333101,
@@ -1742,15 +1807,31 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-11",
-      "production_companies": [
-        "Fifth Season",
-        "Playground Entertainment"
-      ],
+      "us_rating": null,
       "networks": [
         "MGM+"
       ],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
+    },
+    {
+      "id": 336700,
+      "title": "Splitz",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dBOwkTTVbuPI05USnptCUbqphNR.jpg",
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure",
+        "western"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-11",
+      "us_rating": "TV-MA",
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 326160,
@@ -1766,12 +1847,12 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-10",
+      "us_rating": null,
+      "networks": [],
       "production_companies": [
         "rac production"
       ],
-      "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
     },
     {
       "id": 323830,
@@ -1787,12 +1868,31 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-10",
+      "us_rating": null,
+      "networks": [],
       "production_companies": [
         "Action Film Industry"
       ],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 337249,
+      "title": "Cartoonified! With Kiff",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-10",
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 313078,
@@ -1809,15 +1909,30 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-09",
-      "production_companies": [
-        "Shout! Studios",
-        "RiffTrax"
-      ],
+      "us_rating": "NR",
       "networks": [
         "RiffTrax"
       ],
-      "relevance_score": 50.0,
-      "us_rating": "NR"
+      "relevance_score": 50.0
+    },
+    {
+      "id": 337135,
+      "title": "ONE N' ONLY\u306e\u30d5\u30eb\u30a2\u30a6\u30c8TV",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-09",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 335785,
@@ -1833,10 +1948,10 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-08",
-      "production_companies": [],
+      "us_rating": "TV-Y7",
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": "TV-Y7"
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 335786,
@@ -1852,10 +1967,30 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-08",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "production_companies": [],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 335813,
+      "title": "Gnomes",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/42e3kEfajUz9uvHaTgTH4ADXcx8.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-08",
+      "us_rating": null,
+      "networks": [],
+      "production_companies": [],
+      "relevance_score": 50.0
     },
     {
       "id": 327287,
@@ -1871,12 +2006,11 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-07",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [
         "CBC Television"
       ],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
     },
     {
       "id": 306811,
@@ -1892,12 +2026,53 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-06",
+      "us_rating": null,
+      "networks": [],
       "production_companies": [
         "BADX STUDIOS"
       ],
-      "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
+    },
+    {
+      "id": 336543,
+      "title": "1 Euro House",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-06",
+      "us_rating": null,
+      "networks": [
+        "Nine Network"
+      ],
+      "relevance_score": 50.0
+    },
+    {
+      "id": 337244,
+      "title": "Stress Test",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5mBq3FF9b6op5TcwT50af1eHlj0.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "comedy"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-06",
+      "us_rating": null,
+      "networks": [
+        "TVOntario"
+      ],
+      "relevance_score": 50.0
     },
     {
       "id": 335418,
@@ -1913,13 +2088,12 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-05",
-      "production_companies": [],
+      "us_rating": null,
       "networks": [
         "PBS",
         "PBS Kids"
       ],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
     },
     {
       "id": 334759,
@@ -1935,21 +2109,18 @@
       "service_name": "TBD",
       "user_rating": 0.0,
       "release_date": "2026-10-05",
-      "production_companies": [
-        "Lando Entertainment"
-      ],
+      "us_rating": null,
       "networks": [
         "Food Network"
       ],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
     },
     {
-      "id": 335975,
-      "title": "Strictly: Lights Up",
+      "id": 317842,
+      "title": "Nazis: Threads of Evil",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/s65UJVzz7uMUeMPaLqB3vW4PdOT.jpg",
       "genre": "drama",
       "genres": [
         "drama"
@@ -1957,338 +2128,11 @@
       "service_id": 0,
       "service_name": "TBD",
       "user_rating": 0.0,
-      "release_date": "2026-10-04",
-      "production_companies": [],
-      "networks": [
-        "BBC iPlayer"
-      ],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 336480,
-      "title": "Paige Prater: Perfect Holiday",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-10-03",
-      "production_companies": [],
+      "release_date": "2026-10-05",
+      "us_rating": null,
       "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": "TV-Y"
-    },
-    {
-      "id": 334888,
-      "title": "Africa Earth's Wild Home",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bDGanROtLUFQjQ1IlWAwEBhPNrA.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-10-02",
-      "production_companies": [
-        "BBC Studios Natural History Unit",
-        "National Geographic"
-      ],
-      "networks": [
-        "National Geographic"
-      ],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 330430,
-      "title": "Love After Lockup: Relationship Rehab",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qdTcDL0zHgdo5aVJtNZEp7toDnE.jpg",
-      "genre": "reality",
-      "genres": [
-        "reality"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-10-02",
       "production_companies": [],
-      "networks": [
-        "WE tv",
-        "All Reality"
-      ],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 336200,
-      "title": "The Breakdown with Peyton and Kuechly",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "news",
-      "genres": [
-        "news"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-10-02",
-      "production_companies": [
-        "ESPN Original Entertainment",
-        "Omaha Productions",
-        "NFL Films"
-      ],
-      "networks": [
-        "ESPN2"
-      ],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 332808,
-      "title": "Archive X: Unexplained Phenomena",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/y9mecTHCdcsXU8g62C3y7vaRjkj.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-10-01",
-      "production_companies": [],
-      "networks": [
-        "SundanceTV",
-        "AMC+",
-        "All Reality"
-      ],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 331366,
-      "title": "Stereotypical",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/wpwumCsFJZeugGoc8JoRnv9BAam.jpg",
-      "genre": "animation",
-      "genres": [
-        "animation"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-10-01",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 336168,
-      "title": "Paige Prater: Pink Friendship",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-10-01",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": "TV-Y"
-    },
-    {
-      "id": 297577,
-      "title": "Rizzler News",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "crime",
-        "comedy",
-        "mystery"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-09-30",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 331755,
-      "title": "Astronomical Adventures",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-09-30",
-      "production_companies": [
-        "Astro Studios"
-      ],
-      "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 336267,
-      "title": "The World as It Is",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-09-30",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 335032,
-      "title": "Secret Life of a Vegas Casino",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": null,
-      "genre": "reality",
-      "genres": [
-        "reality"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-09-29",
-      "production_companies": [
-        "MAK Pictures",
-        "Apex Content Studios"
-      ],
-      "networks": [
-        "Discovery"
-      ],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 332902,
-      "title": "Still Flipping Out",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/kQFp9NnbyVTLRMjCtbpqKJgsQRb.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "reality"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-09-28",
-      "production_companies": [
-        "32 Flavors"
-      ],
-      "networks": [
-        "Bravo"
-      ],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 328264,
-      "title": "Michael Palin in the Philippines",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/A6eIRYWt0g8iVvq5eNOh7w7erd2.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-09-28",
-      "production_companies": [
-        "ITN Productions"
-      ],
-      "networks": [
-        "5"
-      ],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 335811,
-      "title": "Shaun Micallef\u2019s Parents\u2019 Evening",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/qqFdYX0hemGX5gMGVUjjX3b9afx.jpg",
-      "genre": "reality",
-      "genres": [
-        "reality",
-        "comedy"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-09-28",
-      "production_companies": [],
-      "networks": [
-        "10"
-      ],
-      "relevance_score": 50.0,
-      "us_rating": null
-    },
-    {
-      "id": 336279,
-      "title": "TVK Music Program Princess Princess Live Performance Collection",
-      "type": "tv_series",
-      "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6199ckRLGq4Ah8460BY21kAq0oQ.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama"
-      ],
-      "service_id": 0,
-      "service_name": "TBD",
-      "user_rating": 0.0,
-      "release_date": "2026-09-26",
-      "production_companies": [],
-      "networks": [],
-      "relevance_score": 50.0,
-      "us_rating": null
+      "relevance_score": 50.0
     }
   ]
 }

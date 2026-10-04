@@ -1,6 +1,6 @@
 {
   "range": "398001-399000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462067,
   "shows": [
     {
       "id": 398173,
@@ -34,10 +34,12 @@
       "title": "Call Me by Your Name",
       "type": "movie",
       "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4Xh2a1WeTp6b8Ksvug0pAMbX3dT.jpg",
       "plot_overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
       "genres": [
+        "Drama",
+        "Romance",
         "drama",
         "romance"
       ],
@@ -49,6 +51,12 @@
         {
           "service_id": 1899,
           "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }

@@ -1,6 +1,6 @@
 {
   "range": "156001-157000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462013,
   "shows": [
     {
       "id": 156022,
@@ -18,7 +18,7 @@
         "crime",
         "thriller"
       ],
-      "user_rating": 7.293,
+      "user_rating": 7.295,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2014-09-24",
@@ -32,6 +32,12 @@
         {
           "service_id": 1899,
           "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }
@@ -80,7 +86,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.834,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2024-06-11",

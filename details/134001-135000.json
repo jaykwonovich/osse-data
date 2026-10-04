@@ -1,6 +1,6 @@
 {
   "range": "134001-135000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462008,
   "shows": [
     {
       "id": 134029,
@@ -14,7 +14,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.062,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2021-11-24",
@@ -46,7 +46,7 @@
         "family",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.186,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": "TV-Y",
       "release_date": "2021-11-12",
@@ -76,7 +76,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.169,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2021-11-18",
@@ -86,6 +86,12 @@
           "service_name": "Max",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 134373,
@@ -93,6 +99,37 @@
       "networks": [
         "HBO Max",
         "Max"
+      ]
+    },
+    {
+      "id": 134667,
+      "title": "Reincarnated as a Sword",
+      "type": "tv_series",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/yZ3VZVc7iyF7KtIjERBGEedVXqA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+      "plot_overview": "Reincarnated as a sentient weapon with memories of his past life, but not his name, a magical sword saves a young beastgirl from a life of slavery. Fran, the cat-eared girl, becomes his wielder, and wants only to grow stronger, while the sword wants to know why he is here. Together, the strange duo's journey has only just begun!",
+      "genres": [
+        "animation",
+        "comedy",
+        "sci-fi & fantasy"
+      ],
+      "genre": "animation",
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2022-10-05",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 134667,
+      "networks": [
+        "Tokyo MX"
       ]
     }
   ]

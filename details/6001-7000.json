@@ -1,6 +1,6 @@
 {
   "range": "6001-7000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461958,
   "shows": [
     {
       "id": 6075,
@@ -15,7 +15,7 @@
         "Drama",
         "Thriller"
       ],
-      "user_rating": 7.827,
+      "user_rating": 7.826,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1993-11-10",
@@ -42,7 +42,7 @@
         "Thriller",
         "War"
       ],
-      "user_rating": 7.036,
+      "user_rating": 7.038,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1986-04-23",
@@ -69,7 +69,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.801,
+      "user_rating": 7.844,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2004-12-12",
@@ -77,6 +77,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -120,7 +126,7 @@
       "type": "tv_series",
       "year": 2009,
       "poster_url": "https://image.tmdb.org/t/p/w342/oSeJ2nESB77iC6SLo4qcqoadjdt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uPbpYFYXlUdTDEmfoubKNfdEZZx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ix5tWGa7m7qGmXOmEBJgqv91T6F.jpg",
       "plot_overview": "Wolverine and the X-Men must join together again to not only battle the increasingly powerful Mutant Response Division, but also to prevent a catastrophic future that Xavier has warned Wolverine must never come to pass.",
       "genres": [
         "action & adventure",
@@ -128,7 +134,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.479,
+      "user_rating": 7.592,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2009-01-23",
@@ -159,7 +165,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 7.509,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2007-07-08",
@@ -218,9 +224,10 @@
       "genres": [
         "animation",
         "comedy",
+        "kids",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.061,
+      "user_rating": 8.062,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2008-06-05",
@@ -254,7 +261,7 @@
         "kids",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.199,
+      "user_rating": 8.2,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2006-09-18",
@@ -285,7 +292,7 @@
         "Comedy",
         "Family"
       ],
-      "user_rating": 7.001,
+      "user_rating": 7.003,
       "critic_score": null,
       "us_rating": "G",
       "release_date": "1993-02-03",
@@ -298,6 +305,33 @@
         }
       ],
       "tmdb_id": 6878
+    },
+    {
+      "id": 6977,
+      "title": "No Country for Old Men",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
+      "plot_overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Western"
+      ],
+      "user_rating": 7.951,
+      "critic_score": null,
+      "us_rating": "R",
+      "release_date": "2007-11-09",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 6977
     },
     {
       "id": 6978,

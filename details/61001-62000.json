@@ -1,6 +1,6 @@
 {
   "range": "61001-62000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461980,
   "shows": [
     {
       "id": 61014,
@@ -13,7 +13,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.856,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2014-08-08",
@@ -44,7 +44,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.806,
+      "user_rating": 7.804,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2014-09-25",
@@ -74,7 +74,7 @@
         "drama",
         "war & politics"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2014-07-27",
@@ -104,7 +104,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.359,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2014-07-17",
@@ -169,7 +169,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 8.529,
+      "user_rating": 8.532,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2014-08-22",
@@ -200,7 +200,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.263,
+      "user_rating": 7.255,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2014-09-12",
@@ -272,7 +272,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.275,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2014-10-06",
@@ -288,7 +288,12 @@
       "genre": "crime",
       "networks": [
         "ITV1"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 11,
+      "next_air_date": null,
+      "next_episode": 1
     },
     {
       "id": 61550,
@@ -302,7 +307,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.519,
+      "user_rating": 7.516,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2015-01-06",
@@ -333,7 +338,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.223,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2014-10-28",
@@ -357,12 +362,12 @@
       "type": "tv_series",
       "year": 2014,
       "poster_url": "https://image.tmdb.org/t/p/w342/2tuB2kGd4is7tFMhcOTfEGB96lm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yWUa2QDf64BVT9X1TiHluMjVCJl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/txEVdfRT16eT97zpKXqWKrc5UXO.jpg",
       "plot_overview": "A look at a seemingly placid New England town that is actually wrought with illicit affairs, crime and tragedy, all told through the lens of Olive, whose wicked wit and harsh demeanor mask a warm but troubled heart and staunch moral center. The story spans 25 years and focuses on Olive's relationships with her husband, Henry, the good-hearted and kindly town pharmacist; their son, Christopher, who resents his mother's approach to parenting; and other members of their community.",
       "genres": [
         "drama"
       ],
-      "user_rating": 7.594,
+      "user_rating": 7.598,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2014-11-02",
@@ -392,7 +397,7 @@
         "animation",
         "comedy"
       ],
-      "user_rating": 8.136,
+      "user_rating": 8.1,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2014-09-21",
@@ -425,7 +430,7 @@
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.569,
+      "user_rating": 8.566,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2014-11-03",
@@ -433,6 +438,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }
@@ -454,7 +465,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.782,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2015-01-13",
@@ -484,13 +495,13 @@
       "type": "tv_series",
       "year": 2015,
       "poster_url": "https://image.tmdb.org/t/p/w342/kmyvlQ9QKzgdZY31rXaUlgCnzrB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/TePSNzSC8NoOkB7D7eIP3nIL1V.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/d6JYL53xISzfqz6HhvaKWTDcOUZ.jpg",
       "plot_overview": "One gunshot, one death, one moment out of time that irrevocably links eight minds in disparate parts of the world, putting them in each other's lives, each other's secrets, and in terrible danger. Ordinary people suddenly reborn as \"Sensates.\"",
       "genres": [
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.728,
+      "user_rating": 7.715,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2015-06-05",
@@ -519,7 +530,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.104,
+      "user_rating": 7.114,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2015-03-06",
@@ -548,7 +559,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.196,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2015-02-04",
@@ -578,7 +589,7 @@
         "drama",
         "soap"
       ],
-      "user_rating": 7.147,
+      "user_rating": 7.136,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2015-01-07",
@@ -597,6 +608,35 @@
       ]
     },
     {
+      "id": 61741,
+      "title": "Secrets and Lies",
+      "type": "tv_series",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/y1HaNebKAtwHOSpC3T3NTChoKtJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vakoLQvUiJMzrC4cbcW8bzyozdD.jpg",
+      "plot_overview": "Detective Andrea Cornell is a tough, thorough Homicide Detective who leaves no stone unturned. Her unwavering dedication to her job makes her the most formidable opponent - or a highly valuable ally.",
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2015-03-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61741,
+      "networks": [
+        "ABC"
+      ]
+    },
+    {
       "id": 61744,
       "title": "Mozart in the Jungle",
       "type": "tv_series",
@@ -608,7 +648,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.52,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2014-02-06",
@@ -664,14 +704,14 @@
       "title": "Barbie: Life in the Dreamhouse",
       "type": "tv_series",
       "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/c7HIZXKDaDekFAIcWU7bxP8cTv6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9gj2wYYIUg78qhgcg2IgeYU1yIg.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6ZYaLOle3iKOHlXqADnxt592v3O.jpg",
       "plot_overview": "The series is set as a reality TV-esque show following Barbie, her sisters and her friends in the day-to-day activities that take place in the Dreamhouse and surrounding areas. Much of the humor in the show derives from parodying and lampooning both the traditional reality TV format and the Barbie franchise itself.",
       "genres": [
         "animation",
         "family"
       ],
-      "user_rating": 7.609,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": "TV-Y",
       "release_date": "2012-05-11",
@@ -703,7 +743,7 @@
         "kids",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.283,
+      "user_rating": 8.285,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2014-07-26",
@@ -734,7 +774,7 @@
         "family",
         "kids"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "2014-09-13",
@@ -765,7 +805,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.735,
+      "user_rating": 7.73,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2016-02-21",
@@ -796,7 +836,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.71,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "2015-02-28",
@@ -815,6 +855,35 @@
       ]
     },
     {
+      "id": 61865,
+      "title": "When Calls the Heart",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3d8XxE3qDLzeewtaC4DGamI6Ofa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mTC6WbMEgZ6LLdwRqSDR5NVEslr.jpg",
+      "plot_overview": "Elizabeth Thatcher, a young school teacher from a wealthy Eastern family, migrates from the big city to teach school in a small coal mining town in the west.",
+      "genres": [
+        "drama",
+        "western"
+      ],
+      "user_rating": 8.3,
+      "critic_score": null,
+      "us_rating": "TV-G",
+      "release_date": "2014-01-11",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 61865,
+      "networks": [
+        "Hallmark Channel"
+      ]
+    },
+    {
       "id": 61889,
       "title": "Marvel's Daredevil",
       "type": "tv_series",
@@ -827,7 +896,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 8.176,
+      "user_rating": 8.177,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2015-04-10",
@@ -835,6 +904,12 @@
         {
           "service_id": 337,
           "service_name": "Disney+",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
           "type": "sub",
           "region": "US"
         }
@@ -888,7 +963,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.542,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2015-01-19",
@@ -981,7 +1056,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.119,
+      "user_rating": 7.109,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2015-03-20",

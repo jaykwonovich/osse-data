@@ -1,6 +1,6 @@
 {
   "range": "331001-332000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462055,
   "shows": [
     {
       "id": 331366,
@@ -28,10 +28,6 @@
       "production_companies": [],
       "networks": [],
       "tmdb_id": 331366,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-10-01",
-      "next_episode": 1,
       "relevance_score": 75
     },
     {
@@ -48,7 +44,7 @@
         "drama",
         "romance"
       ],
-      "user_rating": 7.841,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2019-12-25",
@@ -118,10 +114,6 @@
       ],
       "networks": [],
       "tmdb_id": 331755,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-09-30",
-      "next_episode": 1,
       "relevance_score": 75
     },
     {
@@ -138,7 +130,7 @@
         "documentary",
         "music"
       ],
-      "user_rating": 7.572,
+      "user_rating": 7.57,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2015-07-02",
@@ -158,6 +150,42 @@
       ],
       "tmdb_id": 331781,
       "genre": "documentary"
+    },
+    {
+      "id": 331822,
+      "title": "Sunshine Girls",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "backdrop_url": null,
+      "plot_overview": "Olivia\u2019s parents\u2019 separation plants her as the new girl at Valley High, where she meets horse girl Taylor and influencer Riley. Freshman year for the unlikely trio of best friends is full of family drama, false starts and first kisses as they each have their time in the sun.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-12-07",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Brat TV"
+      ],
+      "networks": [
+        "Netflix"
+      ],
+      "tmdb_id": 331822,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-12-07",
+      "next_episode": 1
     },
     {
       "id": 331877,
@@ -183,10 +211,6 @@
         }
       ],
       "tmdb_id": 331877,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-10-01",
-      "next_episode": 4,
       "relevance_score": 75,
       "networks": [
         "YouTube",
@@ -244,7 +268,7 @@
       "genre": "crime",
       "user_rating": 10.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-MA",
       "release_date": "2026-09-24",
       "streaming_services": [
         {

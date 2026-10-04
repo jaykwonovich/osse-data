@@ -1,6 +1,6 @@
 {
   "range": "253001-254000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462033,
   "shows": [
     {
       "id": 253376,
@@ -14,7 +14,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.1,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2025-09-10",
@@ -30,6 +30,71 @@
       "genre": "drama",
       "networks": [
         "Prime Video"
+      ]
+    },
+    {
+      "id": 253811,
+      "title": "Tougen Anki",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "plot_overview": "After a Momotaro assassin suddenly kills his adoptive father, Shiki vows to avenge him. But first, he must learn to control his newly awakened Oni blood.",
+      "genres": [
+        "animation",
+        "mystery",
+        "action & adventure"
+      ],
+      "genre": "animation",
+      "user_rating": 7.591,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2025-07-11",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 253811,
+      "networks": [
+        "Nippon TV"
+      ]
+    },
+    {
+      "id": 253941,
+      "title": "The Paper",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qtMVO0McAXN4IV30SMFAVmXraBL.jpg",
+      "plot_overview": "The documentary crew that immortalized Dunder Mifflin's Scranton branch is in search of a new subject when they discover a historic Toledo newspaper, The Truth Teller, and the eager publisher trying to revive it.",
+      "genres": [
+        "comedy"
+      ],
+      "user_rating": 7.146,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2025-09-04",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 253941,
+      "networks": [
+        "Peacock"
       ]
     }
   ]

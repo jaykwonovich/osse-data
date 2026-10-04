@@ -1,6 +1,6 @@
 {
   "range": "399001-400000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462068,
   "shows": [
     {
       "id": 399055,
@@ -18,7 +18,7 @@
         "fantasy",
         "romance"
       ],
-      "user_rating": 7.23,
+      "user_rating": 7.231,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2017-12-01",
@@ -46,7 +46,7 @@
         "Thriller",
         "Mystery"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.003,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2017-10-20",
@@ -104,7 +104,7 @@
         "animation",
         "comedy"
       ],
-      "user_rating": 7.8,
+      "user_rating": 7.849,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "2018-03-23",
@@ -124,6 +124,33 @@
       ],
       "tmdb_id": 399174,
       "genre": "animation"
+    },
+    {
+      "id": 399579,
+      "title": "Alita: Battle Angel",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
+      "plot_overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "user_rating": 7.278,
+      "critic_score": null,
+      "us_rating": "PG-13",
+      "release_date": "2019-01-31",
+      "streaming_services": [
+        {
+          "service_id": 15,
+          "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 399579
     }
   ]
 }

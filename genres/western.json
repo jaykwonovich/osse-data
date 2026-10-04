@@ -1,7 +1,27 @@
 {
   "genre": "western",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461903,
   "shows": [
+    {
+      "id": 61865,
+      "title": "When Calls the Heart",
+      "type": "tv_series",
+      "year": 2014,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3d8XxE3qDLzeewtaC4DGamI6Ofa.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "western"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 8.3,
+      "release_date": "2014-01-11",
+      "us_rating": "TV-G",
+      "networks": [
+        "Hallmark Channel"
+      ]
+    },
     {
       "id": 73586,
       "title": "Yellowstone",
@@ -53,7 +73,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.108,
+      "user_rating": 8.1,
       "release_date": "2004-03-21",
       "us_rating": "TV-MA",
       "networks": [
@@ -97,12 +117,70 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.963,
+      "user_rating": 7.965,
       "release_date": "1974-09-11",
       "us_rating": "TV-PG",
       "networks": [
         "NBC"
       ]
+    },
+    {
+      "id": 6977,
+      "title": "No Country for Old Men",
+      "type": "movie",
+      "year": 2007,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "thriller",
+        "western"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.951,
+      "release_date": "2007-11-09",
+      "us_rating": "R"
+    },
+    {
+      "id": 698508,
+      "title": "Redeeming Love",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2iu0lBF7sfAioLfSnSJtdKxlms6.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "western",
+        "drama",
+        "western"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.9,
+      "release_date": "2022-01-21",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 698508,
+      "title": "Redeeming Love",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2iu0lBF7sfAioLfSnSJtdKxlms6.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "romance",
+        "western",
+        "drama",
+        "western"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.9,
+      "release_date": "2022-01-21",
+      "us_rating": "PG-13"
     },
     {
       "id": 41692,
@@ -117,7 +195,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.936,
+      "user_rating": 7.9,
       "release_date": "1989-02-05",
       "us_rating": "TV-14",
       "networks": [
@@ -125,43 +203,46 @@
       ]
     },
     {
-      "id": 698508,
-      "title": "Redeeming Love",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2iu0lBF7sfAioLfSnSJtdKxlms6.jpg",
-      "genre": "drama",
+      "id": 65988,
+      "title": "Wynonna Earp",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qnIaDelA81dmFaXrhpz6M6dpGSD.jpg",
+      "genre": "action & adventure",
       "genres": [
-        "drama",
-        "romance",
-        "western",
-        "drama",
+        "action & adventure",
+        "sci-fi & fantasy",
         "western"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.864,
-      "release_date": "2022-01-21",
-      "us_rating": "PG-13"
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.843,
+      "release_date": "2016-04-01",
+      "us_rating": "TV-14",
+      "networks": [
+        "Syfy",
+        "Space",
+        "CTV Sci-Fi Channel"
+      ]
     },
     {
-      "id": 698508,
-      "title": "Redeeming Love",
+      "id": 581,
+      "title": "Dances with Wolves",
       "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2iu0lBF7sfAioLfSnSJtdKxlms6.jpg",
-      "genre": "drama",
+      "year": 1990,
+      "poster_url": "https://image.tmdb.org/t/p/w342/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "genre": "adventure",
       "genres": [
+        "adventure",
         "drama",
-        "romance",
         "western",
         "drama",
         "western"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.864,
-      "release_date": "2022-01-21",
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.839,
+      "release_date": "1990-11-09",
       "us_rating": "PG-13"
     },
     {
@@ -170,14 +251,17 @@
       "type": "movie",
       "year": 1990,
       "poster_url": "https://image.tmdb.org/t/p/w342/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
-      "genre": "drama",
+      "genre": "adventure",
       "genres": [
+        "adventure",
+        "drama",
+        "western",
         "drama",
         "western"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.8,
+      "user_rating": 7.839,
       "release_date": "1990-11-09",
       "us_rating": "PG-13"
     },
@@ -200,6 +284,26 @@
       "us_rating": "R"
     },
     {
+      "id": 73467,
+      "title": "Godless",
+      "type": "tv_series",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "western"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.748,
+      "release_date": "2017-11-22",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
+    },
+    {
       "id": 215866,
       "title": "American Primeval",
       "type": "tv_series",
@@ -213,28 +317,8 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.7,
+      "user_rating": 7.715,
       "release_date": "2025-01-09",
-      "us_rating": "TV-MA",
-      "networks": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 73467,
-      "title": "Godless",
-      "type": "tv_series",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "western"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.7,
-      "release_date": "2017-11-22",
       "us_rating": "TV-MA",
       "networks": [
         "Netflix"
@@ -260,23 +344,6 @@
       "us_rating": "G"
     },
     {
-      "id": 995,
-      "title": "Stagecoach",
-      "type": "movie",
-      "year": 1939,
-      "poster_url": "https://image.tmdb.org/t/p/w342/zgMnfnwWZ3nkx4t0bUDEKtW24O8.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "western"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.598,
-      "release_date": "1939-03-02",
-      "us_rating": "G"
-    },
-    {
       "id": 4681,
       "title": "Zorro",
       "type": "tv_series",
@@ -289,12 +356,47 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.594,
+      "user_rating": 7.602,
       "release_date": "1957-10-10",
       "us_rating": "TV-G",
       "networks": [
         "ABC"
       ]
+    },
+    {
+      "id": 995,
+      "title": "Stagecoach",
+      "type": "movie",
+      "year": 1939,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zgMnfnwWZ3nkx4t0bUDEKtW24O8.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "western"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.597,
+      "release_date": "1939-03-02",
+      "us_rating": "G"
+    },
+    {
+      "id": 281957,
+      "title": "The Revenant",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+      "genre": "western",
+      "genres": [
+        "western",
+        "drama",
+        "adventure"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.541,
+      "release_date": "2015-12-25",
+      "us_rating": "R"
     },
     {
       "id": 1018,
@@ -319,24 +421,6 @@
       ]
     },
     {
-      "id": 281957,
-      "title": "The Revenant",
-      "type": "movie",
-      "year": 2015,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
-      "genre": "western",
-      "genres": [
-        "western",
-        "drama",
-        "adventure"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.5,
-      "release_date": "2015-12-25",
-      "us_rating": "R"
-    },
-    {
       "id": 65493,
       "title": "The Ranch",
       "type": "tv_series",
@@ -358,6 +442,23 @@
       ]
     },
     {
+      "id": 785663,
+      "title": "Old Henry",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
+      "genre": "western",
+      "genres": [
+        "western",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.327,
+      "release_date": "2021-10-01",
+      "us_rating": "NR"
+    },
+    {
       "id": 338766,
       "title": "Hell or High Water",
       "type": "movie",
@@ -438,6 +539,26 @@
       "user_rating": 7.306,
       "release_date": "1995-12-23",
       "us_rating": "R"
+    },
+    {
+      "id": 240993,
+      "title": "Ransom Canyon",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1efzyMfIe3WauOCWk7Gn56gj7sL.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "western"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.3,
+      "release_date": "2025-04-17",
+      "us_rating": "TV-MA",
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 11901,
@@ -494,7 +615,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.294,
+      "user_rating": 7.285,
       "release_date": "2022-11-10",
       "us_rating": "TV-MA",
       "networks": [
@@ -513,26 +634,9 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.282,
+      "user_rating": 7.284,
       "release_date": "1950-07-06",
       "us_rating": null
-    },
-    {
-      "id": 785663,
-      "title": "Old Henry",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
-      "genre": "western",
-      "genres": [
-        "western",
-        "drama"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.281,
-      "release_date": "2021-10-01",
-      "us_rating": "NR"
     },
     {
       "id": 637693,
@@ -552,7 +656,7 @@
       ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.2,
+      "user_rating": 7.223,
       "release_date": "2021-05-20",
       "us_rating": "PG"
     },
@@ -574,7 +678,7 @@
       ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.2,
+      "user_rating": 7.223,
       "release_date": "2021-05-20",
       "us_rating": "PG"
     },
@@ -587,11 +691,36 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "horror",
+        "thriller",
+        "western",
+        "drama",
         "western"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.156,
+      "user_rating": 7.141,
+      "release_date": "2016-03-12",
+      "us_rating": "R"
+    },
+    {
+      "id": 324560,
+      "title": "Brimstone",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/aNxU4eZrfiChOgCEtyKWSCExdEi.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "horror",
+        "thriller",
+        "western",
+        "drama",
+        "western"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.141,
       "release_date": "2016-03-12",
       "us_rating": "R"
     },
@@ -638,39 +767,39 @@
       "us_rating": "R"
     },
     {
-      "id": 27945,
-      "title": "Hombre",
+      "id": 11209,
+      "title": "The Alamo",
       "type": "movie",
-      "year": 1967,
-      "poster_url": "https://image.tmdb.org/t/p/w342/puqgDLxdIZSnodDJ6Q0KxofOebo.jpg",
-      "genre": "drama",
+      "year": 1960,
+      "poster_url": "https://image.tmdb.org/t/p/w342/54KNQfJnYZwhI3sPYyjXtptWGfg.jpg",
+      "genre": "war",
       "genres": [
-        "drama",
-        "western",
+        "war",
+        "adventure",
+        "history",
         "western"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.1,
-      "release_date": "1967-03-21",
+      "release_date": "1960-10-23",
       "us_rating": "NR"
     },
     {
-      "id": 27945,
-      "title": "Hombre",
+      "id": 38732,
+      "title": "Bend of the River",
       "type": "movie",
-      "year": 1967,
-      "poster_url": "https://image.tmdb.org/t/p/w342/puqgDLxdIZSnodDJ6Q0KxofOebo.jpg",
-      "genre": "drama",
+      "year": 1952,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pffOvEVDt6XRWDwBkmQ6zWITakJ.jpg",
+      "genre": "western",
       "genres": [
-        "drama",
         "western",
-        "western"
+        "adventure"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
       "user_rating": 7.1,
-      "release_date": "1967-03-21",
+      "release_date": "1952-01-23",
       "us_rating": "NR"
     },
     {
@@ -687,28 +816,9 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.1,
+      "user_rating": 7.082,
       "release_date": "1966-11-01",
       "us_rating": "PG-13"
-    },
-    {
-      "id": 11209,
-      "title": "The Alamo",
-      "type": "movie",
-      "year": 1960,
-      "poster_url": "https://image.tmdb.org/t/p/w342/54KNQfJnYZwhI3sPYyjXtptWGfg.jpg",
-      "genre": "war",
-      "genres": [
-        "war",
-        "adventure",
-        "history",
-        "western"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.089,
-      "release_date": "1960-10-23",
-      "us_rating": "NR"
     },
     {
       "id": 400090,
@@ -728,6 +838,42 @@
       "us_rating": "R"
     },
     {
+      "id": 27945,
+      "title": "Hombre",
+      "type": "movie",
+      "year": 1967,
+      "poster_url": "https://image.tmdb.org/t/p/w342/puqgDLxdIZSnodDJ6Q0KxofOebo.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "western",
+        "western"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.059,
+      "release_date": "1967-03-21",
+      "us_rating": "NR"
+    },
+    {
+      "id": 27945,
+      "title": "Hombre",
+      "type": "movie",
+      "year": 1967,
+      "poster_url": "https://image.tmdb.org/t/p/w342/puqgDLxdIZSnodDJ6Q0KxofOebo.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "western",
+        "western"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.059,
+      "release_date": "1967-03-21",
+      "us_rating": "NR"
+    },
+    {
       "id": 16608,
       "title": "The Proposition",
       "type": "movie",
@@ -765,6 +911,74 @@
       "service_name": "Prime Video",
       "user_rating": 7.0,
       "release_date": "2005-10-06",
+      "us_rating": "R"
+    },
+    {
+      "id": 932086,
+      "title": "Horizon: An American Saga - Chapter 1",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/posWMQwX1HCIK26TGL3niJp5fg0.jpg",
+      "genre": "western",
+      "genres": [
+        "western",
+        "drama"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.869,
+      "release_date": "2024-06-26",
+      "us_rating": "R"
+    },
+    {
+      "id": 596161,
+      "title": "Let Him Go",
+      "type": "movie",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "western"
+      ],
+      "service_id": 613,
+      "service_name": "Freevee",
+      "user_rating": 6.822,
+      "release_date": "2020-11-05",
+      "us_rating": "R"
+    },
+    {
+      "id": 600583,
+      "title": "The Power of the Dog",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "western"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.751,
+      "release_date": "2021-10-25",
+      "us_rating": "R"
+    },
+    {
+      "id": 538225,
+      "title": "Deadwood: The Movie",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fCQ13cqd02dop7Chkov0fPl4r3t.jpg",
+      "genre": "western",
+      "genres": [
+        "western",
+        "drama"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.728,
+      "release_date": "2019-05-31",
       "us_rating": "R"
     },
     {
@@ -781,12 +995,47 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 6.733,
+      "user_rating": 6.7,
       "release_date": "2026-07-09",
       "us_rating": "TV-PG",
       "networks": [
         "Netflix"
       ]
+    },
+    {
+      "id": 648878,
+      "title": "Eddington",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+      "genre": "western",
+      "genres": [
+        "western",
+        "comedy",
+        "crime"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.495,
+      "release_date": "2025-07-16",
+      "us_rating": "R"
+    },
+    {
+      "id": 1293286,
+      "title": "Gunslingers",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/O7REXWPANWXvX2jhQydHjAq2DV.jpg",
+      "genre": "western",
+      "genres": [
+        "western",
+        "action"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.3,
+      "release_date": "2025-04-11",
+      "us_rating": "R"
     },
     {
       "id": 313767,
@@ -825,6 +1074,58 @@
       "networks": [
         "Netflix"
       ]
+    },
+    {
+      "id": 336700,
+      "title": "Splitz",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dBOwkTTVbuPI05USnptCUbqphNR.jpg",
+      "genre": "action & adventure",
+      "genres": [
+        "action & adventure",
+        "western"
+      ],
+      "service_id": 0,
+      "service_name": "TBD",
+      "user_rating": 0.0,
+      "release_date": "2026-10-11",
+      "us_rating": "TV-MA",
+      "networks": []
+    },
+    {
+      "id": 1323570,
+      "title": "Shadow Dancing in the West",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/orsfoRL9ZipPmMGFrjlrCcsW6Ue.jpg",
+      "genre": "horror",
+      "genres": [
+        "horror",
+        "drama",
+        "western"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-01-20",
+      "us_rating": "R"
+    },
+    {
+      "id": 148113,
+      "title": "Six Bounty Killers for a Massacre",
+      "type": "movie",
+      "year": 1973,
+      "poster_url": "https://image.tmdb.org/t/p/w342/vslexObvPu0PUwfYAvt4YansllM.jpg",
+      "genre": "western",
+      "genres": [
+        "western"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 0.0,
+      "release_date": "1973-01-01",
+      "us_rating": null
     }
   ]
 }

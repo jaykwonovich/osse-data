@@ -1,6 +1,6 @@
 {
   "range": "93001-94000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461996,
   "shows": [
     {
       "id": 93016,
@@ -13,7 +13,7 @@
       "genres": [
         "documentary"
       ],
-      "user_rating": 7.2,
+      "user_rating": 7.307,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2019-09-20",
@@ -44,7 +44,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.65,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-09-03",
@@ -79,7 +79,7 @@
       "genres": [
         "documentary"
       ],
-      "user_rating": 7.256,
+      "user_rating": 7.276,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-11-29",
@@ -118,6 +118,12 @@
         {
           "service_id": 318,
           "service_name": "Starz",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 1899,
+          "service_name": "Max",
           "type": "sub",
           "region": "US"
         }
@@ -171,7 +177,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.098,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-11-26",
@@ -201,7 +207,7 @@
         "animation",
         "comedy"
       ],
-      "user_rating": 7.755,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2020-02-16",
@@ -231,7 +237,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.52,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2019-10-04",
@@ -261,7 +267,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.434,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2021-01-01",
@@ -275,6 +281,35 @@
       ],
       "tmdb_id": 93454,
       "genre": "crime",
+      "networks": [
+        "BBC One"
+      ]
+    },
+    {
+      "id": 93481,
+      "title": "Dublin Murders",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3olPAGfJXQ9epf8kFCGzg9B34hR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fgkxlmFgku6X6G2a6Qmve28q7Ta.jpg",
+      "plot_overview": "Two detectives are dispatched to investigate the murder of a young girl on the outskirts of Dublin, but as the case of the missing children intensifies, both are forced to confront the darkness that lies in their past.",
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "user_rating": 7.0,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2019-10-14",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 93481,
       "networks": [
         "BBC One"
       ]
@@ -321,7 +356,7 @@
         "kids",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.283,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "2019-11-01",
@@ -344,7 +379,7 @@
       "title": "Top Boy",
       "type": "tv_series",
       "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mGZpOEaLZTRzWeQMq5SZM5BbDZg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/iQ9vE3swuwrAE7Bvun2lF1C1oe3.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jAz9AZpznu3ELhUp1XiMEeQv2Se.jpg",
       "plot_overview": "Two seasoned drug dealers return to the gritty street of London, but their pursuit of money and power is threatened by a young and ruthless hustler.",
       "genres": [
@@ -412,7 +447,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.706,
+      "user_rating": 7.707,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2021-09-23",
@@ -435,7 +470,7 @@
       "title": "Jurassic World Camp Cretaceous",
       "type": "tv_series",
       "year": 2020,
-      "poster_url": "https://image.tmdb.org/t/p/w342/nkCbCmlwjwT6QL44DqG7qE9ch8H.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/pwte1p4ZySI1qAVSVdSTRKjuIAa.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4WIglfr4lDFVjCEcXzCeu6cJsOh.jpg",
       "plot_overview": "Six teens attending an adventure camp on the opposite side of Isla Nublar must band together to survive when dinosaurs wreak havoc on the island.",
       "genres": [
@@ -444,7 +479,7 @@
         "family",
         "kids"
       ],
-      "user_rating": 8.016,
+      "user_rating": 8.0,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2020-09-18",
@@ -468,14 +503,14 @@
       "type": "tv_series",
       "year": 2020,
       "poster_url": "https://image.tmdb.org/t/p/w342/56D0QFyLhrRp1ZTBz8Gw10qtZas.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5cv0cgTIGv0jnkWsMAoCObA0XCd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jQYBwULramjWJVTumvHRP8B468I.jpg",
       "plot_overview": "The story of the town and people who live above \u201cThe Loop,\u201d a machine built to unlock and explore the mysteries of the universe \u2013 making things possible that were previously relegated only to science fiction.",
       "genres": [
         "drama",
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.001,
+      "user_rating": 7.0,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-04-03",
@@ -505,7 +540,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 8.075,
+      "user_rating": 8.1,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-05-15",
@@ -521,6 +556,39 @@
       "genre": "comedy",
       "networks": [
         "Hulu"
+      ]
+    },
+    {
+      "id": 93895,
+      "title": "LEGO: Jurassic World - Legend of Isla Nublar",
+      "type": "tv_series",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wMoL1JuARTsAPxf8b85rQfT6Opp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1H6vMSeaQsUEVGJhIJlzsxLMbfU.jpg",
+      "plot_overview": "Set in 2012, three years before the Jurassic World movie, Owen Grady and Claire Dearing team up on Isla Nublar to deal with everything the Jurassic World park throws their way, including a mysterious saboteur who wants to destroy the park forever!",
+      "genres": [
+        "animation",
+        "action & adventure",
+        "family",
+        "kids",
+        "sci-fi & fantasy",
+        "comedy"
+      ],
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": "TV-Y",
+      "release_date": "2019-07-06",
+      "streaming_services": [
+        {
+          "service_id": 386,
+          "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 93895,
+      "networks": [
+        "Family Channel"
       ]
     },
     {

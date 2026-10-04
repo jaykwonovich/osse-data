@@ -1,6 +1,6 @@
 {
   "range": "381001-382000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462065,
   "shows": [
     {
       "id": 381284,
@@ -16,7 +16,7 @@
         "drama",
         "history"
       ],
-      "user_rating": 8.048,
+      "user_rating": 8.049,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2016-12-10",
@@ -59,6 +59,12 @@
         {
           "service_id": 386,
           "service_name": "Peacock",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
           "type": "sub",
           "region": "US"
         }

@@ -1,6 +1,6 @@
 {
   "range": "82001-83000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461992,
   "shows": [
     {
       "id": 82001,
@@ -14,7 +14,7 @@
         "drama",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.753,
+      "user_rating": 7.752,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2019-01-15",
@@ -45,7 +45,7 @@
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.613,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-03-07",
@@ -74,7 +74,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 8.1,
+      "user_rating": 8.09,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2018-10-10",
@@ -87,10 +87,6 @@
         }
       ],
       "tmdb_id": 82428,
-      "is_returning": true,
-      "next_season": 8,
-      "next_air_date": "2026-09-28",
-      "next_episode": 13,
       "relevance_score": 100,
       "genre": "drama",
       "networks": [
@@ -111,7 +107,7 @@
         "family",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.772,
+      "user_rating": 7.769,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2024-02-22",
@@ -124,10 +120,6 @@
         }
       ],
       "tmdb_id": 82452,
-      "is_returning": true,
-      "next_season": 2,
-      "next_air_date": "2026-06-25",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "action & adventure",
       "networks": [
@@ -148,7 +140,7 @@
         "family",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.4,
+      "user_rating": 8.391,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2018-09-21",
@@ -178,7 +170,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.543,
+      "user_rating": 7.54,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-10-02",
@@ -218,7 +210,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.361,
       "critic_score": null,
       "us_rating": "PG",
       "release_date": "2012-11-01",
@@ -245,7 +237,7 @@
         "History",
         "Drama"
       ],
-      "user_rating": 7.293,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": "PG-13",
       "release_date": "2012-12-18",
@@ -273,7 +265,7 @@
         "family",
         "kids"
       ],
-      "user_rating": 8.573,
+      "user_rating": 8.574,
       "critic_score": null,
       "us_rating": "TV-Y",
       "release_date": "2018-10-01",
@@ -289,7 +281,12 @@
       "genre": "animation",
       "networks": [
         "ABC Kids"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 4,
+      "next_air_date": null,
+      "next_episode": 1
     },
     {
       "id": 82744,
@@ -304,7 +301,7 @@
         "drama",
         "war & politics"
       ],
-      "user_rating": 7.3,
+      "user_rating": 7.332,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-05-17",
@@ -337,7 +334,7 @@
         "family",
         "kids"
       ],
-      "user_rating": 7.245,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": "TV-Y7",
       "release_date": "2018-11-15",
@@ -367,7 +364,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.505,
+      "user_rating": 7.509,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-08-18",
@@ -398,7 +395,7 @@
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.135,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2020-08-16",
@@ -463,7 +460,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 7.136,
+      "user_rating": 7.138,
       "critic_score": null,
       "us_rating": "G",
       "release_date": "2012-01-13",
@@ -490,7 +487,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.564,
+      "user_rating": 7.565,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2019-03-20",
@@ -506,6 +503,35 @@
       "genre": "crime",
       "networks": [
         "Hulu"
+      ]
+    },
+    {
+      "id": 82953,
+      "title": "Dynasties",
+      "type": "tv_series",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qEu1jJ2VariPLN8JZVxTtmY3IG2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cfeKMz1ABlB9GpPFS1hpBP2X0O1.jpg",
+      "plot_overview": "Follow the true stories of five of the world's most celebrated, yet endangered animals; penguins, chimpanzees, lions, painted wolves and tigers. Each in a heroic struggle against rivals and against the forces of nature, these families fight for their own survival and for the future of their dynasties.",
+      "genres": [
+        "documentary",
+        "family"
+      ],
+      "user_rating": 8.325,
+      "critic_score": null,
+      "us_rating": "TV-PG",
+      "release_date": "2018-11-11",
+      "streaming_services": [
+        {
+          "service_id": 1899,
+          "service_name": "Max",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 82953,
+      "networks": [
+        "BBC One"
       ]
     }
   ]

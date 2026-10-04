@@ -1,6 +1,6 @@
 {
   "range": "304001-305000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462043,
   "shows": [
     {
       "id": 304550,
@@ -43,7 +43,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.467,
+      "user_rating": 7.792,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2026-09-08",
@@ -58,12 +58,50 @@
       "tmdb_id": 304842,
       "is_returning": true,
       "next_season": 1,
-      "next_air_date": "2026-09-29",
-      "next_episode": 4,
+      "next_air_date": "2026-10-06",
+      "next_episode": 5,
       "relevance_score": 75,
       "networks": [
         "FX"
       ]
+    },
+    {
+      "id": 304929,
+      "title": "Monarch of the Glen",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": null,
+      "backdrop_url": null,
+      "plot_overview": "When high-flying London lawyer Isla Campbell finds herself back at her family's crumbling Highland estate for her estranged father's funeral, she expects to be gone in days. Instead, she discovers she has inherited a million-pound debt, a bank closing in, and a brother who refuses to let go of their ancestral home.",
+      "genres": [],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-12-31",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Channel 5 Broadcasting",
+        "Ecosse Films",
+        "Masterpiece",
+        "Northern Ireland Screen",
+        "National Lottery"
+      ],
+      "networks": [
+        "5"
+      ],
+      "tmdb_id": 304929,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-12-31",
+      "next_episode": 1
     }
   ]
 }

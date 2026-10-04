@@ -1,6 +1,6 @@
 {
   "range": "283001-284000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462038,
   "shows": [
     {
       "id": 283151,
@@ -33,12 +33,37 @@
         "Peacock"
       ],
       "tmdb_id": 283151,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-07-16",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "drama"
+    },
+    {
+      "id": 283197,
+      "title": "American Murder: Gabby Petito",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/83PrIV5PH124m1sR4UIubm7E9sO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nNb0QaOScPOZTtSlljxmklBHVJM.jpg",
+      "plot_overview": "What happened in the final days of Gabby Petito's life? In this gripping true-crime series, her loved ones reveal the untold story of her tragic murder.",
+      "genres": [
+        "documentary",
+        "crime"
+      ],
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2025-02-17",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 283197,
+      "networks": [
+        "Netflix"
+      ]
     },
     {
       "id": 283297,
@@ -52,7 +77,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 8.168,
+      "user_rating": 8.189,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2026-08-05",
@@ -74,8 +99,8 @@
       ],
       "tmdb_id": 283297,
       "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-08-05",
+      "next_season": 2,
+      "next_air_date": null,
       "next_episode": 1,
       "relevance_score": 75,
       "genre": "drama"
@@ -93,7 +118,7 @@
         "family",
         "western"
       ],
-      "user_rating": 6.733,
+      "user_rating": 6.7,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2026-07-09",
@@ -116,11 +141,68 @@
       ],
       "tmdb_id": 283304,
       "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-07-09",
+      "next_season": 2,
+      "next_air_date": null,
       "next_episode": 1,
       "relevance_score": 75,
       "genre": "drama"
+    },
+    {
+      "id": 283428,
+      "title": "The Ramparts of Ice",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+      "plot_overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length \u2014 until three schoolmates draw her out of her shell.",
+      "genres": [
+        "animation",
+        "drama"
+      ],
+      "genre": "animation",
+      "user_rating": 8.627,
+      "critic_score": null,
+      "us_rating": "TV-PG",
+      "release_date": "2026-04-02",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 283428,
+      "networks": [
+        "MBS",
+        "TBS",
+        "CBC",
+        "Tulip Television",
+        "SBC",
+        "BSN",
+        "tys",
+        "NBC",
+        "HBC",
+        "RKK",
+        "i-Television",
+        "SBS",
+        "IBC",
+        "BSS",
+        "MRO",
+        "OBS",
+        "TUF",
+        "RSK",
+        "TUY",
+        "tbc",
+        "RKB",
+        "KUTV",
+        "RBC",
+        "UTY",
+        "RCC",
+        "MRT",
+        "ATV",
+        "MBC"
+      ]
     },
     {
       "id": 283564,
@@ -163,7 +245,7 @@
         "drama",
         "war"
       ],
-      "user_rating": 7.584,
+      "user_rating": 7.586,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "2015-09-11",

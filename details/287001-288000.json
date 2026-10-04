@@ -1,6 +1,6 @@
 {
   "range": "287001-288000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462040,
   "shows": [
     {
       "id": 287238,
@@ -14,7 +14,7 @@
         "drama",
         "crime"
       ],
-      "user_rating": 7.4,
+      "user_rating": 7.46,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2026-07-27",
@@ -77,7 +77,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 8.312,
+      "user_rating": 8.311,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2026-04-08",
@@ -93,7 +93,12 @@
       "genre": "drama",
       "networks": [
         "Hulu"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": null,
+      "next_episode": 1
     },
     {
       "id": 287620,
@@ -107,7 +112,7 @@
         "comedy",
         "sci-fi & fantasy"
       ],
-      "user_rating": 8.6,
+      "user_rating": 8.414,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2026-07-23",
@@ -128,8 +133,8 @@
       ],
       "tmdb_id": 287620,
       "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-07-23",
+      "next_season": 2,
+      "next_air_date": null,
       "next_episode": 1,
       "relevance_score": 75,
       "genre": "comedy"

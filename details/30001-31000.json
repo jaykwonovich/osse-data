@@ -1,6 +1,6 @@
 {
   "range": "30001-31000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461971,
   "shows": [
     {
       "id": 30497,
@@ -13,7 +13,7 @@
       "genres": [
         "horror"
       ],
-      "user_rating": 7.292,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": "R",
       "release_date": "1974-10-11",
@@ -46,7 +46,7 @@
       "type": "movie",
       "year": 1947,
       "poster_url": "https://image.tmdb.org/t/p/w342/mUPXIinTQsBdLlDaWiSl7GwQXVs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/f5EUue0mNt4gzjsrCP5QZENv3Ub.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pXAudXOkmQSiI6sFQyEfkibQxZp.jpg",
       "plot_overview": "The film is about an unemployed banker, Henri Verdoux, and his sociopathic methods of attaining income. While being both loyal and competent in his work, Verdoux has been laid-off. To make money for his wife and child, he marries wealthy widows and then murders them. His crime spree eventually works against him when two particular widows break his normal routine.",
       "genres": [
         "Comedy",
@@ -56,7 +56,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.695,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": "NR",
       "release_date": "1947-08-27",
@@ -128,7 +128,12 @@
       "tmdb_id": 30983,
       "networks": [
         "YTV"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-10",
+      "next_episode": 1216
     },
     {
       "id": 30984,
@@ -165,7 +170,12 @@
         "TVh",
         "TSC",
         "BS TV Tokyo"
-      ]
+      ],
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 2,
+      "next_air_date": "2026-10-20",
+      "next_episode": 49
     }
   ]
 }

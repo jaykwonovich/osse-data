@@ -1,6 +1,6 @@
 {
   "range": "677001-678000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462105,
   "shows": [
     {
       "id": 677179,
@@ -22,6 +22,12 @@
         {
           "service_id": 15,
           "service_name": "Hulu",
+          "type": "sub",
+          "region": "US"
+        },
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
           "type": "sub",
           "region": "US"
         }

@@ -1,6 +1,6 @@
 {
   "genre": "history",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461929,
   "shows": [
     {
       "id": 424,
@@ -33,8 +33,26 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.262,
+      "user_rating": 8.274,
       "release_date": "2025-09-22",
+      "us_rating": "R"
+    },
+    {
+      "id": 857,
+      "title": "Saving Private Ryan",
+      "type": "movie",
+      "year": 1998,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "genre": "war",
+      "genres": [
+        "war",
+        "drama",
+        "history"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 8.232,
+      "release_date": "1998-07-24",
       "us_rating": "R"
     },
     {
@@ -53,7 +71,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 8.225,
+      "user_rating": 8.224,
       "release_date": "2018-11-16",
       "us_rating": "PG-13"
     },
@@ -76,6 +94,23 @@
       "us_rating": "R"
     },
     {
+      "id": 1480382,
+      "title": "The Voice of Hind Rajab",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/2sUA6hyjC2HVJjDTKtCcOTzv6Qn.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 8.194,
+      "release_date": "2025-12-17",
+      "us_rating": "NR"
+    },
+    {
       "id": 21634,
       "title": "Prayers for Bobby",
       "type": "movie",
@@ -92,7 +127,7 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 8.059,
+      "user_rating": 8.06,
       "release_date": "2009-01-24",
       "us_rating": "PG"
     },
@@ -113,7 +148,7 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 8.059,
+      "user_rating": 8.06,
       "release_date": "2009-01-24",
       "us_rating": "PG"
     },
@@ -132,7 +167,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.048,
+      "user_rating": 8.049,
       "release_date": "2016-12-10",
       "us_rating": "PG"
     },
@@ -151,7 +186,7 @@
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 8.048,
+      "user_rating": 8.049,
       "release_date": "2016-12-10",
       "us_rating": "PG"
     },
@@ -168,7 +203,7 @@
       ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 8.023,
+      "user_rating": 8.022,
       "release_date": "2023-07-19",
       "us_rating": "R"
     },
@@ -188,6 +223,44 @@
       "service_name": "Prime Video",
       "user_rating": 8.007,
       "release_date": "2019-11-13",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 1167307,
+      "title": "David",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "animation",
+        "drama",
+        "family",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.0,
+      "release_date": "2025-12-14",
+      "us_rating": "PG"
+    },
+    {
+      "id": 339877,
+      "title": "Loving Vincent",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/56sq57kDm7XgyXBYrgJLumo0Jac.jpg",
+      "genre": "animation",
+      "genres": [
+        "animation",
+        "drama",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 8.0,
+      "release_date": "2017-06-22",
       "us_rating": "PG-13"
     },
     {
@@ -269,24 +342,6 @@
       "us_rating": "R"
     },
     {
-      "id": 339877,
-      "title": "Loving Vincent",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/56sq57kDm7XgyXBYrgJLumo0Jac.jpg",
-      "genre": "animation",
-      "genres": [
-        "animation",
-        "drama",
-        "history"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.98,
-      "release_date": "2017-06-22",
-      "us_rating": "PG-13"
-    },
-    {
       "id": 626332,
       "title": "Flamin' Hot",
       "type": "movie",
@@ -301,7 +356,7 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.966,
+      "user_rating": 7.967,
       "release_date": "2023-03-11",
       "us_rating": "PG-13"
     },
@@ -320,7 +375,7 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.966,
+      "user_rating": 7.967,
       "release_date": "2023-03-11",
       "us_rating": "PG-13"
     },
@@ -333,13 +388,72 @@
       "genre": "drama",
       "genres": [
         "drama",
+        "history",
+        "drama",
         "history"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.913,
+      "user_rating": 7.905,
       "release_date": "2013-11-01",
       "us_rating": "R"
+    },
+    {
+      "id": 152532,
+      "title": "Dallas Buyers Club",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.905,
+      "release_date": "2013-11-01",
+      "us_rating": "R"
+    },
+    {
+      "id": 33602,
+      "title": "Temple Grandin",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.904,
+      "release_date": "2010-02-06",
+      "us_rating": null
+    },
+    {
+      "id": 33602,
+      "title": "Temple Grandin",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.904,
+      "release_date": "2010-02-06",
+      "us_rating": null
     },
     {
       "id": 549559,
@@ -362,44 +476,6 @@
       "us_rating": "G"
     },
     {
-      "id": 33602,
-      "title": "Temple Grandin",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "drama",
-        "history"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.897,
-      "release_date": "2010-02-06",
-      "us_rating": null
-    },
-    {
-      "id": 33602,
-      "title": "Temple Grandin",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "drama",
-        "history"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.897,
-      "release_date": "2010-02-06",
-      "us_rating": null
-    },
-    {
       "id": 1578,
       "title": "Raging Bull",
       "type": "movie",
@@ -412,7 +488,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.896,
+      "user_rating": 7.894,
       "release_date": "1980-11-14",
       "us_rating": "R"
     },
@@ -448,7 +524,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.887,
+      "user_rating": 7.885,
       "release_date": "2019-02-14",
       "us_rating": null
     },
@@ -467,7 +543,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.887,
+      "user_rating": 7.885,
       "release_date": "2019-02-14",
       "us_rating": null
     },
@@ -486,7 +562,7 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.85,
+      "user_rating": 7.849,
       "release_date": "2024-05-31",
       "us_rating": "PG"
     },
@@ -505,7 +581,7 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.85,
+      "user_rating": 7.849,
       "release_date": "2024-05-31",
       "us_rating": "PG"
     },
@@ -526,7 +602,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.828,
+      "user_rating": 7.832,
       "release_date": "2022-07-18",
       "us_rating": "PG-13"
     },
@@ -547,7 +623,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.828,
+      "user_rating": 7.832,
       "release_date": "2022-07-18",
       "us_rating": "PG-13"
     },
@@ -565,7 +641,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.772,
+      "user_rating": 7.771,
       "release_date": "2015-08-11",
       "us_rating": "R"
     },
@@ -586,7 +662,7 @@
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.752,
+      "user_rating": 7.76,
       "release_date": "2023-03-15",
       "us_rating": "R"
     },
@@ -607,7 +683,7 @@
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.752,
+      "user_rating": 7.76,
       "release_date": "2023-03-15",
       "us_rating": "R"
     },
@@ -628,7 +704,7 @@
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.745,
+      "user_rating": 7.739,
       "release_date": "2022-12-02",
       "us_rating": "R"
     },
@@ -649,46 +725,8 @@
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.745,
+      "user_rating": 7.739,
       "release_date": "2022-12-02",
-      "us_rating": "R"
-    },
-    {
-      "id": 1149947,
-      "title": "To End All War: Oppenheimer & the Atomic Bomb",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "history",
-        "documentary",
-        "history"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.718,
-      "release_date": "2023-07-09",
-      "us_rating": "R"
-    },
-    {
-      "id": 1149947,
-      "title": "To End All War: Oppenheimer & the Atomic Bomb",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "history",
-        "documentary",
-        "history"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.718,
-      "release_date": "2023-07-09",
       "us_rating": "R"
     },
     {
@@ -725,7 +763,7 @@
       ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.7,
+      "user_rating": 7.717,
       "release_date": "2025-11-26",
       "us_rating": "PG-13"
     },
@@ -743,11 +781,49 @@
       ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.692,
+      "user_rating": 7.7,
       "release_date": "2026-05-28",
       "us_rating": "PG-13"
     },
     {
+      "id": 1149947,
+      "title": "To End All War: Oppenheimer & the Atomic Bomb",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history",
+        "documentary",
+        "history"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.7,
+      "release_date": "2023-07-09",
+      "us_rating": "R"
+    },
+    {
+      "id": 1149947,
+      "title": "To End All War: Oppenheimer & the Atomic Bomb",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history",
+        "documentary",
+        "history"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.7,
+      "release_date": "2023-07-09",
+      "us_rating": "R"
+    },
+    {
       "id": 9912,
       "title": "The World's Fastest Indian",
       "type": "movie",
@@ -764,7 +840,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.679,
+      "user_rating": 7.674,
       "release_date": "2005-10-12",
       "us_rating": "PG-13"
     },
@@ -785,7 +861,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.679,
+      "user_rating": 7.674,
       "release_date": "2005-10-12",
       "us_rating": "PG-13"
     },
@@ -806,7 +882,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.667,
+      "user_rating": 7.668,
       "release_date": "2006-12-07",
       "us_rating": "R"
     },
@@ -827,9 +903,26 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.667,
+      "user_rating": 7.668,
       "release_date": "2006-12-07",
       "us_rating": "R"
+    },
+    {
+      "id": 862557,
+      "title": "The Hill",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e8Dx470lSbIL7OFj7TkFsWAONR5.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.663,
+      "release_date": "2023-08-18",
+      "us_rating": "PG"
     },
     {
       "id": 556984,
@@ -846,7 +939,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.656,
+      "user_rating": 7.654,
       "release_date": "2020-09-25",
       "us_rating": "R"
     },
@@ -865,7 +958,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.656,
+      "user_rating": 7.654,
       "release_date": "2020-09-25",
       "us_rating": "R"
     },
@@ -902,7 +995,7 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.627,
+      "user_rating": 7.628,
       "release_date": "2023-04-27",
       "us_rating": "PG-13"
     },
@@ -921,53 +1014,11 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.627,
+      "user_rating": 7.628,
       "release_date": "2023-04-27",
       "us_rating": "PG-13"
     },
     {
-      "id": 776527,
-      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "history",
-        "music",
-        "documentary",
-        "history",
-        "music"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.612,
-      "release_date": "2021-07-02",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 776527,
-      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
-      "type": "movie",
-      "year": 2021,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
-      "genre": "documentary",
-      "genres": [
-        "documentary",
-        "history",
-        "music",
-        "documentary",
-        "history",
-        "music"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.612,
-      "release_date": "2021-07-02",
-      "us_rating": "PG-13"
-    },
-    {
       "id": 1214931,
       "title": "Nuremberg",
       "type": "movie",
@@ -1044,41 +1095,45 @@
       "us_rating": "PG"
     },
     {
-      "id": 746,
-      "title": "The Last Emperor",
+      "id": 776527,
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
       "type": "movie",
-      "year": 1987,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
-      "genre": "drama",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
+      "genre": "documentary",
       "genres": [
-        "drama",
+        "documentary",
         "history",
-        "drama",
-        "history"
+        "music",
+        "documentary",
+        "history",
+        "music"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.59,
-      "release_date": "1987-10-04",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.6,
+      "release_date": "2021-07-02",
       "us_rating": "PG-13"
     },
     {
-      "id": 746,
-      "title": "The Last Emperor",
+      "id": 776527,
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
       "type": "movie",
-      "year": 1987,
-      "poster_url": "https://image.tmdb.org/t/p/w342/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
-      "genre": "drama",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
+      "genre": "documentary",
       "genres": [
-        "drama",
+        "documentary",
         "history",
-        "drama",
-        "history"
+        "music",
+        "documentary",
+        "history",
+        "music"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.59,
-      "release_date": "1987-10-04",
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.6,
+      "release_date": "2021-07-02",
       "us_rating": "PG-13"
     },
     {
@@ -1095,8 +1150,65 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.581,
+      "user_rating": 7.6,
       "release_date": "2005-06-02",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 9289,
+      "title": "The Longest Day",
+      "type": "movie",
+      "year": 1962,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5zmvEofdIlgXrQl9A7e5IOzlnFU.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "drama",
+        "history",
+        "war"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.6,
+      "release_date": "1962-09-25",
+      "us_rating": "PG"
+    },
+    {
+      "id": 746,
+      "title": "The Last Emperor",
+      "type": "movie",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.589,
+      "release_date": "1987-10-04",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 746,
+      "title": "The Last Emperor",
+      "type": "movie",
+      "year": 1987,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.589,
+      "release_date": "1987-10-04",
       "us_rating": "PG-13"
     },
     {
@@ -1180,7 +1292,7 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.555,
+      "user_rating": 7.554,
       "release_date": "2022-09-16",
       "us_rating": "PG-13"
     },
@@ -1203,7 +1315,7 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.555,
+      "user_rating": 7.554,
       "release_date": "2022-09-16",
       "us_rating": "PG-13"
     },
@@ -1300,6 +1412,23 @@
       "us_rating": "PG"
     },
     {
+      "id": 395991,
+      "title": "Only the Brave",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/db5IkOJu9UHktrKroNktw1Z8ARY.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.484,
+      "release_date": "2017-09-22",
+      "us_rating": "PG-13"
+    },
+    {
       "id": 9665,
       "title": "Glory",
       "type": "movie",
@@ -1318,6 +1447,26 @@
       "us_rating": "R"
     },
     {
+      "id": 898,
+      "title": "Birdman of Alcatraz",
+      "type": "movie",
+      "year": 1962,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6EODLN11HTX4l2cmakAhWIoJLF.jpg",
+      "genre": "crime",
+      "genres": [
+        "crime",
+        "drama",
+        "history",
+        "crime",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.474,
+      "release_date": "1962-07-04",
+      "us_rating": "NR"
+    },
+    {
       "id": 551332,
       "title": "The Two Popes",
       "type": "movie",
@@ -1332,7 +1481,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.47,
+      "user_rating": 7.469,
       "release_date": "2019-11-27",
       "us_rating": "PG-13"
     },
@@ -1351,7 +1500,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.47,
+      "user_rating": 7.469,
       "release_date": "2019-11-27",
       "us_rating": "PG-13"
     },
@@ -1386,7 +1535,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.447,
+      "user_rating": 7.444,
       "release_date": "1970-01-25",
       "us_rating": "PG"
     },
@@ -1405,7 +1554,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.414,
+      "user_rating": 7.411,
       "release_date": "2022-09-08",
       "us_rating": "PG-13"
     },
@@ -1424,47 +1573,9 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.414,
+      "user_rating": 7.411,
       "release_date": "2022-09-08",
       "us_rating": "PG-13"
-    },
-    {
-      "id": 9918,
-      "title": "Glory Road",
-      "type": "movie",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bGRSV5tStxDNPRLCewnOeeiZzrY.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "drama",
-        "history"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.414,
-      "release_date": "2006-01-13",
-      "us_rating": "PG"
-    },
-    {
-      "id": 9918,
-      "title": "Glory Road",
-      "type": "movie",
-      "year": 2006,
-      "poster_url": "https://image.tmdb.org/t/p/w342/bGRSV5tStxDNPRLCewnOeeiZzrY.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "drama",
-        "history"
-      ],
-      "service_id": 337,
-      "service_name": "Disney+",
-      "user_rating": 7.414,
-      "release_date": "2006-01-13",
-      "us_rating": "PG"
     },
     {
       "id": 617653,
@@ -1486,6 +1597,148 @@
       "us_rating": "R"
     },
     {
+      "id": 855,
+      "title": "Black Hawk Down",
+      "type": "movie",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "war",
+        "history"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.401,
+      "release_date": "2001-12-28",
+      "us_rating": "R"
+    },
+    {
+      "id": 433247,
+      "title": "First They Killed My Father",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5370jxJfZQY8TUZiiGkpNgvRwU9.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "war",
+        "drama",
+        "history",
+        "war"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2017-02-18",
+      "us_rating": "R"
+    },
+    {
+      "id": 433247,
+      "title": "First They Killed My Father",
+      "type": "movie",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/5370jxJfZQY8TUZiiGkpNgvRwU9.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "war",
+        "drama",
+        "history",
+        "war"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.4,
+      "release_date": "2017-02-18",
+      "us_rating": "R"
+    },
+    {
+      "id": 9918,
+      "title": "Glory Road",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bGRSV5tStxDNPRLCewnOeeiZzrY.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.4,
+      "release_date": "2006-01-13",
+      "us_rating": "PG"
+    },
+    {
+      "id": 9918,
+      "title": "Glory Road",
+      "type": "movie",
+      "year": 2006,
+      "poster_url": "https://image.tmdb.org/t/p/w342/bGRSV5tStxDNPRLCewnOeeiZzrY.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 337,
+      "service_name": "Disney+",
+      "user_rating": 7.4,
+      "release_date": "2006-01-13",
+      "us_rating": "PG"
+    },
+    {
+      "id": 14433,
+      "title": "Zulu",
+      "type": "movie",
+      "year": 1964,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "war",
+        "action",
+        "drama",
+        "history",
+        "war"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.4,
+      "release_date": "1964-01-22",
+      "us_rating": "NR"
+    },
+    {
+      "id": 14433,
+      "title": "Zulu",
+      "type": "movie",
+      "year": 1964,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "war",
+        "action",
+        "drama",
+        "history",
+        "war"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.4,
+      "release_date": "1964-01-22",
+      "us_rating": "NR"
+    },
+    {
       "id": 466420,
       "title": "Killers of the Flower Moon",
       "type": "movie",
@@ -1501,7 +1754,7 @@
       ],
       "service_id": 350,
       "service_name": "Apple TV+",
-      "user_rating": 7.391,
+      "user_rating": 7.392,
       "release_date": "2023-10-18",
       "us_rating": "R"
     },
@@ -1522,7 +1775,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.391,
+      "user_rating": 7.39,
       "release_date": "2018-04-19",
       "us_rating": null
     },
@@ -1543,7 +1796,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.391,
+      "user_rating": 7.39,
       "release_date": "2018-04-19",
       "us_rating": null
     },
@@ -1561,7 +1814,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.384,
+      "user_rating": 7.386,
       "release_date": "1992-08-26",
       "us_rating": "R"
     },
@@ -1600,7 +1853,7 @@
       ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.379,
+      "user_rating": 7.378,
       "release_date": "2012-09-09",
       "us_rating": "PG-13"
     },
@@ -1621,7 +1874,7 @@
       ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.379,
+      "user_rating": 7.378,
       "release_date": "2012-09-09",
       "us_rating": "PG-13"
     },
@@ -1643,92 +1896,6 @@
       "us_rating": "PG-13"
     },
     {
-      "id": 14433,
-      "title": "Zulu",
-      "type": "movie",
-      "year": 1964,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "war",
-        "action",
-        "drama",
-        "history",
-        "war"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.372,
-      "release_date": "1964-01-22",
-      "us_rating": "NR"
-    },
-    {
-      "id": 14433,
-      "title": "Zulu",
-      "type": "movie",
-      "year": 1964,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "war",
-        "action",
-        "drama",
-        "history",
-        "war"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.372,
-      "release_date": "1964-01-22",
-      "us_rating": "NR"
-    },
-    {
-      "id": 433247,
-      "title": "First They Killed My Father",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5370jxJfZQY8TUZiiGkpNgvRwU9.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "war",
-        "drama",
-        "history",
-        "war"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.371,
-      "release_date": "2017-02-18",
-      "us_rating": "R"
-    },
-    {
-      "id": 433247,
-      "title": "First They Killed My Father",
-      "type": "movie",
-      "year": 2017,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5370jxJfZQY8TUZiiGkpNgvRwU9.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "war",
-        "drama",
-        "history",
-        "war"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.371,
-      "release_date": "2017-02-18",
-      "us_rating": "R"
-    },
-    {
       "id": 273895,
       "title": "Selma",
       "type": "movie",
@@ -1741,9 +1908,51 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.367,
+      "user_rating": 7.366,
       "release_date": "2014-12-25",
       "us_rating": "PG-13"
+    },
+    {
+      "id": 169881,
+      "title": "The Physician",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/18eJr4Fc4HKymLgKLgGQbD37SPK.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama",
+        "history",
+        "adventure",
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.342,
+      "release_date": "2013-12-25",
+      "us_rating": "R"
+    },
+    {
+      "id": 169881,
+      "title": "The Physician",
+      "type": "movie",
+      "year": 2013,
+      "poster_url": "https://image.tmdb.org/t/p/w342/18eJr4Fc4HKymLgKLgGQbD37SPK.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama",
+        "history",
+        "adventure",
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.342,
+      "release_date": "2013-12-25",
+      "us_rating": "R"
     },
     {
       "id": 140823,
@@ -1761,8 +1970,63 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.337,
+      "user_rating": 7.336,
       "release_date": "2013-11-29",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 506528,
+      "title": "Harriet",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.319,
+      "release_date": "2019-11-01",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 506528,
+      "title": "Harriet",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.319,
+      "release_date": "2019-11-01",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 861604,
+      "title": "Blood Brothers: Malcolm X & Muhammad Ali",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/kdOXdPIgbbCHXb51tWJZ0r8kZfe.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.3,
+      "release_date": "2021-09-08",
       "us_rating": "PG-13"
     },
     {
@@ -1780,7 +2044,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.328,
+      "user_rating": 7.3,
       "release_date": "2018-12-25",
       "us_rating": "PG-13"
     },
@@ -1799,7 +2063,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.328,
+      "user_rating": 7.3,
       "release_date": "2018-12-25",
       "us_rating": "PG-13"
     },
@@ -1813,51 +2077,117 @@
       "genres": [
         "drama",
         "history",
+        "war",
+        "drama",
+        "history",
         "war"
       ],
       "service_id": 386,
       "service_name": "Peacock",
-      "user_rating": 7.325,
+      "user_rating": 7.3,
       "release_date": "2017-03-24",
       "us_rating": "PG-13"
     },
     {
-      "id": 506528,
-      "title": "Harriet",
+      "id": 289222,
+      "title": "The Zookeeper's Wife",
       "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg",
       "genre": "drama",
       "genres": [
         "drama",
         "history",
+        "war",
         "drama",
-        "history"
+        "history",
+        "war"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.316,
-      "release_date": "2019-11-01",
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.3,
+      "release_date": "2017-03-24",
       "us_rating": "PG-13"
     },
     {
-      "id": 506528,
-      "title": "Harriet",
+      "id": 82695,
+      "title": "Les Mis\u00e9rables",
       "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg",
+      "year": 2012,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+      "genre": "history",
+      "genres": [
+        "history",
+        "drama"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.3,
+      "release_date": "2012-12-18",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 854239,
+      "title": "Till",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/cmDs0CYlgioyP2AQQTTmavt3uoO.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.293,
+      "release_date": "2022-10-14",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 12900,
+      "title": "Conspiracy",
+      "type": "movie",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xKocKpTHaKcTuNRLu0rLbZWbLnH.jpg",
       "genre": "drama",
       "genres": [
         "drama",
         "history",
+        "tv movie",
+        "war",
         "drama",
-        "history"
+        "history",
+        "tv movie",
+        "war"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.316,
-      "release_date": "2019-11-01",
-      "us_rating": "PG-13"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.287,
+      "release_date": "2001-05-19",
+      "us_rating": "R"
+    },
+    {
+      "id": 12900,
+      "title": "Conspiracy",
+      "type": "movie",
+      "year": 2001,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xKocKpTHaKcTuNRLu0rLbZWbLnH.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "tv movie",
+        "war",
+        "drama",
+        "history",
+        "tv movie",
+        "war"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.287,
+      "release_date": "2001-05-19",
+      "us_rating": "R"
     },
     {
       "id": 754609,
@@ -1875,90 +2205,9 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.3,
+      "user_rating": 7.284,
       "release_date": "2022-07-15",
       "us_rating": "PG"
-    },
-    {
-      "id": 169881,
-      "title": "The Physician",
-      "type": "movie",
-      "year": 2013,
-      "poster_url": "https://image.tmdb.org/t/p/w342/18eJr4Fc4HKymLgKLgGQbD37SPK.jpg",
-      "genre": "adventure",
-      "genres": [
-        "adventure",
-        "drama",
-        "history"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.3,
-      "release_date": "2013-12-25",
-      "us_rating": "R"
-    },
-    {
-      "id": 12900,
-      "title": "Conspiracy",
-      "type": "movie",
-      "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xKocKpTHaKcTuNRLu0rLbZWbLnH.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "tv movie",
-        "war",
-        "drama",
-        "history",
-        "tv movie",
-        "war"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.3,
-      "release_date": "2001-05-19",
-      "us_rating": "R"
-    },
-    {
-      "id": 12900,
-      "title": "Conspiracy",
-      "type": "movie",
-      "year": 2001,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xKocKpTHaKcTuNRLu0rLbZWbLnH.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "tv movie",
-        "war",
-        "drama",
-        "history",
-        "tv movie",
-        "war"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.3,
-      "release_date": "2001-05-19",
-      "us_rating": "R"
-    },
-    {
-      "id": 82695,
-      "title": "Les Mis\u00e9rables",
-      "type": "movie",
-      "year": 2012,
-      "poster_url": "https://image.tmdb.org/t/p/w342/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
-      "genre": "history",
-      "genres": [
-        "history",
-        "drama"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.293,
-      "release_date": "2012-12-18",
-      "us_rating": "PG-13"
     },
     {
       "id": 964980,
@@ -1975,7 +2224,7 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.277,
+      "user_rating": 7.278,
       "release_date": "2023-04-05",
       "us_rating": "R"
     },
@@ -1994,7 +2243,7 @@
       ],
       "service_id": 15,
       "service_name": "Hulu",
-      "user_rating": 7.277,
+      "user_rating": 7.278,
       "release_date": "2023-04-05",
       "us_rating": "R"
     },
@@ -2011,26 +2260,9 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.275,
+      "user_rating": 7.274,
       "release_date": "2008-10-15",
       "us_rating": "R"
-    },
-    {
-      "id": 823452,
-      "title": "The Boys in the Boat",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ncJMztHprw3gLRAnDjNnnT23CIt.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.261,
-      "release_date": "2023-12-25",
-      "us_rating": "PG-13"
     },
     {
       "id": 323677,
@@ -2050,6 +2282,44 @@
       "us_rating": "PG-13"
     },
     {
+      "id": 823452,
+      "title": "The Boys in the Boat",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ncJMztHprw3gLRAnDjNnnT23CIt.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.245,
+      "release_date": "2023-12-25",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 823452,
+      "title": "The Boys in the Boat",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ncJMztHprw3gLRAnDjNnnT23CIt.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.245,
+      "release_date": "2023-12-25",
+      "us_rating": "PG-13"
+    },
+    {
       "id": 393624,
       "title": "Official Secrets",
       "type": "movie",
@@ -2092,6 +2362,24 @@
       "us_rating": "R"
     },
     {
+      "id": 284689,
+      "title": "Testament of Youth",
+      "type": "movie",
+      "year": 2015,
+      "poster_url": "https://image.tmdb.org/t/p/w342/a6kFsaDCulCLfYHmKLDKTYaddM4.jpg",
+      "genre": "history",
+      "genres": [
+        "history",
+        "drama",
+        "war"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.2,
+      "release_date": "2015-01-16",
+      "us_rating": "PG-13"
+    },
+    {
       "id": 13180,
       "title": "Zeitgeist: Addendum",
       "type": "movie",
@@ -2108,7 +2396,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.21,
+      "user_rating": 7.2,
       "release_date": "2008-10-02",
       "us_rating": null
     },
@@ -2129,9 +2417,27 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.21,
+      "user_rating": 7.2,
       "release_date": "2008-10-02",
       "us_rating": null
+    },
+    {
+      "id": 11165,
+      "title": "Tora! Tora! Tora!",
+      "type": "movie",
+      "year": 1970,
+      "poster_url": "https://image.tmdb.org/t/p/w342/c311sN931DixuZRer0JGYCwpx9N.jpg",
+      "genre": "war",
+      "genres": [
+        "war",
+        "history",
+        "drama"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "1970-01-26",
+      "us_rating": "G"
     },
     {
       "id": 986,
@@ -2155,6 +2461,23 @@
       "us_rating": "NR"
     },
     {
+      "id": 15421,
+      "title": "Becket",
+      "type": "movie",
+      "year": 1964,
+      "poster_url": "https://image.tmdb.org/t/p/w342/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.2,
+      "release_date": "1964-03-11",
+      "us_rating": "PG-13"
+    },
+    {
       "id": 1016084,
       "title": "BlackBerry",
       "type": "movie",
@@ -2170,7 +2493,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.178,
+      "user_rating": 7.18,
       "release_date": "2023-02-13",
       "us_rating": "R"
     },
@@ -2184,189 +2507,54 @@
       "genres": [
         "drama",
         "history",
+        "thriller",
+        "drama",
+        "history",
         "thriller"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.167,
+      "user_rating": 7.166,
       "release_date": "2020-03-06",
       "us_rating": "PG-13"
     },
     {
-      "id": 15421,
-      "title": "Becket",
+      "id": 502425,
+      "title": "Escape from Pretoria",
       "type": "movie",
-      "year": 1964,
-      "poster_url": "https://image.tmdb.org/t/p/w342/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
+      "year": 2020,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8GGS0jkFFCnmdStvZED6NL6V7gd.jpg",
       "genre": "drama",
       "genres": [
         "drama",
-        "history"
+        "history",
+        "thriller",
+        "drama",
+        "history",
+        "thriller"
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.163,
-      "release_date": "1964-03-11",
+      "user_rating": 7.166,
+      "release_date": "2020-03-06",
       "us_rating": "PG-13"
     },
     {
-      "id": 535544,
-      "title": "Downton Abbey",
+      "id": 978,
+      "title": "Seven Years in Tibet",
       "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg",
-      "genre": "drama",
+      "year": 1997,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qm87HHUew8ICtUCM4asO3gFYvby.jpg",
+      "genre": "adventure",
       "genres": [
-        "drama",
-        "history",
-        "romance",
-        "drama",
-        "history",
-        "romance"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.16,
-      "release_date": "2019-09-12",
-      "us_rating": "PG"
-    },
-    {
-      "id": 535544,
-      "title": "Downton Abbey",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "romance",
-        "drama",
-        "history",
-        "romance"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.16,
-      "release_date": "2019-09-12",
-      "us_rating": "PG"
-    },
-    {
-      "id": 837881,
-      "title": "She Said",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "drama",
-        "history"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.156,
-      "release_date": "2022-11-17",
-      "us_rating": "R"
-    },
-    {
-      "id": 837881,
-      "title": "She Said",
-      "type": "movie",
-      "year": 2022,
-      "poster_url": "https://image.tmdb.org/t/p/w342/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "drama",
-        "history"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.156,
-      "release_date": "2022-11-17",
-      "us_rating": "R"
-    },
-    {
-      "id": 504949,
-      "title": "The King",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "war",
-        "drama",
-        "history",
-        "war"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.155,
-      "release_date": "2019-10-11",
-      "us_rating": "R"
-    },
-    {
-      "id": 504949,
-      "title": "The King",
-      "type": "movie",
-      "year": 2019,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "war",
-        "drama",
-        "history",
-        "war"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.155,
-      "release_date": "2019-10-11",
-      "us_rating": "R"
-    },
-    {
-      "id": 310307,
-      "title": "The Founder",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8gLIksu5ggdfBL1UbeTeonHquxl.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
+        "adventure",
         "drama",
         "history"
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.154,
-      "release_date": "2016-11-24",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 310307,
-      "title": "The Founder",
-      "type": "movie",
-      "year": 2016,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8gLIksu5ggdfBL1UbeTeonHquxl.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "drama",
-        "history"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.154,
-      "release_date": "2016-11-24",
+      "user_rating": 7.165,
+      "release_date": "1997-09-12",
       "us_rating": "PG-13"
     },
     {
@@ -2384,11 +2572,171 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.149,
+      "user_rating": 7.162,
       "release_date": "2025-09-19",
       "us_rating": "NR"
     },
     {
+      "id": 837881,
+      "title": "She Said",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.16,
+      "release_date": "2022-11-17",
+      "us_rating": "R"
+    },
+    {
+      "id": 837881,
+      "title": "She Said",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.16,
+      "release_date": "2022-11-17",
+      "us_rating": "R"
+    },
+    {
+      "id": 535544,
+      "title": "Downton Abbey",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "romance",
+        "drama",
+        "history",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.157,
+      "release_date": "2019-09-12",
+      "us_rating": "PG"
+    },
+    {
+      "id": 535544,
+      "title": "Downton Abbey",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "romance",
+        "drama",
+        "history",
+        "romance"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.157,
+      "release_date": "2019-09-12",
+      "us_rating": "PG"
+    },
+    {
+      "id": 504949,
+      "title": "The King",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "war",
+        "drama",
+        "history",
+        "war"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.156,
+      "release_date": "2019-10-11",
+      "us_rating": "R"
+    },
+    {
+      "id": 504949,
+      "title": "The King",
+      "type": "movie",
+      "year": 2019,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "war",
+        "drama",
+        "history",
+        "war"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.156,
+      "release_date": "2019-10-11",
+      "us_rating": "R"
+    },
+    {
+      "id": 310307,
+      "title": "The Founder",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8gLIksu5ggdfBL1UbeTeonHquxl.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.155,
+      "release_date": "2016-11-24",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 310307,
+      "title": "The Founder",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8gLIksu5ggdfBL1UbeTeonHquxl.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.155,
+      "release_date": "2016-11-24",
+      "us_rating": "PG-13"
+    },
+    {
       "id": 606,
       "title": "Out of Africa",
       "type": "movie",
@@ -2429,6 +2777,52 @@
       "user_rating": 7.147,
       "release_date": "1985-12-20",
       "us_rating": "PG"
+    },
+    {
+      "id": 10839,
+      "title": "Cross of Iron",
+      "type": "movie",
+      "year": 1977,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fR6pqh5aFn0fawsn7sR2zC15swx.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "drama",
+        "history",
+        "war",
+        "action",
+        "drama",
+        "history",
+        "war"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.14,
+      "release_date": "1977-01-28",
+      "us_rating": "R"
+    },
+    {
+      "id": 10839,
+      "title": "Cross of Iron",
+      "type": "movie",
+      "year": 1977,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fR6pqh5aFn0fawsn7sR2zC15swx.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "drama",
+        "history",
+        "war",
+        "action",
+        "drama",
+        "history",
+        "war"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.14,
+      "release_date": "1977-01-28",
+      "us_rating": "R"
     },
     {
       "id": 9829,
@@ -2449,6 +2843,50 @@
       "us_rating": "R"
     },
     {
+      "id": 612,
+      "title": "Munich",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "thriller",
+        "action",
+        "drama",
+        "history",
+        "thriller"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.132,
+      "release_date": "2005-12-23",
+      "us_rating": "R"
+    },
+    {
+      "id": 612,
+      "title": "Munich",
+      "type": "movie",
+      "year": 2005,
+      "poster_url": "https://image.tmdb.org/t/p/w342/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "thriller",
+        "action",
+        "drama",
+        "history",
+        "thriller"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 7.132,
+      "release_date": "2005-12-23",
+      "us_rating": "R"
+    },
+    {
       "id": 351339,
       "title": "Anthropoid",
       "type": "movie",
@@ -2462,55 +2900,11 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.132,
+      "user_rating": 7.131,
       "release_date": "2016-08-12",
       "us_rating": "R"
     },
     {
-      "id": 612,
-      "title": "Munich",
-      "type": "movie",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "thriller",
-        "action",
-        "drama",
-        "history",
-        "thriller"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.131,
-      "release_date": "2005-12-23",
-      "us_rating": "R"
-    },
-    {
-      "id": 612,
-      "title": "Munich",
-      "type": "movie",
-      "year": 2005,
-      "poster_url": "https://image.tmdb.org/t/p/w342/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "thriller",
-        "action",
-        "drama",
-        "history",
-        "thriller"
-      ],
-      "service_id": 386,
-      "service_name": "Peacock",
-      "user_rating": 7.131,
-      "release_date": "2005-12-23",
-      "us_rating": "R"
-    },
-    {
       "id": 14292,
       "title": "Miracle",
       "type": "movie",
@@ -2525,7 +2919,7 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.129,
+      "user_rating": 7.13,
       "release_date": "2004-02-06",
       "us_rating": "PG"
     },
@@ -2544,27 +2938,9 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.129,
+      "user_rating": 7.13,
       "release_date": "2004-02-06",
       "us_rating": "PG"
-    },
-    {
-      "id": 11620,
-      "title": "Quo Vadis",
-      "type": "movie",
-      "year": 1951,
-      "poster_url": "https://image.tmdb.org/t/p/w342/dqF1dattMNiwGjPSphu2VSi558Q.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "romance"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.126,
-      "release_date": "1951-11-08",
-      "us_rating": "NR"
     },
     {
       "id": 411728,
@@ -2624,6 +3000,64 @@
       "us_rating": "G"
     },
     {
+      "id": 895549,
+      "title": "NYAD",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.1,
+      "release_date": "2023-10-18",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 895549,
+      "title": "NYAD",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.1,
+      "release_date": "2023-10-18",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 633515,
+      "title": "The Forgotten Battle",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "war",
+        "adventure",
+        "history",
+        "drama"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.1,
+      "release_date": "2021-06-05",
+      "us_rating": "R"
+    },
+    {
       "id": 271714,
       "title": "Love & Mercy",
       "type": "movie",
@@ -2642,52 +3076,6 @@
       "us_rating": "PG-13"
     },
     {
-      "id": 10839,
-      "title": "Cross of Iron",
-      "type": "movie",
-      "year": 1977,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fR6pqh5aFn0fawsn7sR2zC15swx.jpg",
-      "genre": "action",
-      "genres": [
-        "action",
-        "drama",
-        "history",
-        "war",
-        "action",
-        "drama",
-        "history",
-        "war"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.1,
-      "release_date": "1977-01-28",
-      "us_rating": "R"
-    },
-    {
-      "id": 10839,
-      "title": "Cross of Iron",
-      "type": "movie",
-      "year": 1977,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fR6pqh5aFn0fawsn7sR2zC15swx.jpg",
-      "genre": "action",
-      "genres": [
-        "action",
-        "drama",
-        "history",
-        "war",
-        "action",
-        "drama",
-        "history",
-        "war"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.1,
-      "release_date": "1977-01-28",
-      "us_rating": "R"
-    },
-    {
       "id": 262481,
       "title": "An Honest Liar",
       "type": "movie",
@@ -2703,7 +3091,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.093,
+      "user_rating": 7.1,
       "release_date": "2014-04-18",
       "us_rating": null
     },
@@ -2721,7 +3109,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.092,
+      "user_rating": 7.1,
       "release_date": "1989-10-05",
       "us_rating": "PG-13"
     },
@@ -2740,85 +3128,27 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.089,
+      "user_rating": 7.1,
       "release_date": "1960-10-23",
       "us_rating": "NR"
     },
     {
-      "id": 763165,
-      "title": "The Burial",
+      "id": 11620,
+      "title": "Quo Vadis",
       "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg",
+      "year": 1951,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dqF1dattMNiwGjPSphu2VSi558Q.jpg",
       "genre": "drama",
       "genres": [
         "drama",
         "history",
-        "drama",
-        "history"
+        "romance"
       ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.084,
-      "release_date": "2023-10-06",
-      "us_rating": "R"
-    },
-    {
-      "id": 763165,
-      "title": "The Burial",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "drama",
-        "history"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.084,
-      "release_date": "2023-10-06",
-      "us_rating": "R"
-    },
-    {
-      "id": 895549,
-      "title": "NYAD",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "drama",
-        "history"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.077,
-      "release_date": "2023-10-18",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 895549,
-      "title": "NYAD",
-      "type": "movie",
-      "year": 2023,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "drama",
-        "history"
-      ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.077,
-      "release_date": "2023-10-18",
-      "us_rating": "PG-13"
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.1,
+      "release_date": "1951-11-08",
+      "us_rating": "NR"
     },
     {
       "id": 3059,
@@ -2835,7 +3165,7 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.077,
+      "user_rating": 7.084,
       "release_date": "1916-09-05",
       "us_rating": "NR"
     },
@@ -2854,29 +3184,63 @@
       ],
       "service_id": 9,
       "service_name": "Prime Video",
-      "user_rating": 7.077,
+      "user_rating": 7.084,
       "release_date": "1916-09-05",
       "us_rating": "NR"
     },
     {
-      "id": 474354,
-      "title": "22 July",
+      "id": 763165,
+      "title": "The Burial",
       "type": "movie",
-      "year": 2018,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8RZjeZ69UDLkaFQVKcslciP6MOr.jpg",
-      "genre": "crime",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg",
+      "genre": "drama",
       "genres": [
-        "crime",
         "drama",
         "history",
-        "thriller",
-        "crime",
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.075,
+      "release_date": "2023-10-06",
+      "us_rating": "R"
+    },
+    {
+      "id": 763165,
+      "title": "The Burial",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.075,
+      "release_date": "2023-10-06",
+      "us_rating": "R"
+    },
+    {
+      "id": 1287322,
+      "title": "Christy",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fDsxBOmBFL57QtKM9kTJ3AQU8lD.jpg",
+      "genre": "history",
+      "genres": [
+        "history",
         "drama"
       ],
-      "service_id": 8,
-      "service_name": "Netflix",
-      "user_rating": 7.064,
-      "release_date": "2018-10-04",
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.07,
+      "release_date": "2025-10-27",
       "us_rating": "R"
     },
     {
@@ -2900,20 +3264,24 @@
       "us_rating": "R"
     },
     {
-      "id": 1287322,
-      "title": "Christy",
+      "id": 474354,
+      "title": "22 July",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fDsxBOmBFL57QtKM9kTJ3AQU8lD.jpg",
-      "genre": "history",
+      "year": 2018,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8RZjeZ69UDLkaFQVKcslciP6MOr.jpg",
+      "genre": "crime",
       "genres": [
+        "crime",
+        "drama",
         "history",
+        "thriller",
+        "crime",
         "drama"
       ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.058,
-      "release_date": "2025-10-27",
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 7.062,
+      "release_date": "2018-10-04",
       "us_rating": "R"
     },
     {
@@ -2931,7 +3299,7 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.033,
+      "user_rating": 7.037,
       "release_date": "2006-08-25",
       "us_rating": "PG"
     },
@@ -2950,9 +3318,45 @@
       ],
       "service_id": 337,
       "service_name": "Disney+",
-      "user_rating": 7.033,
+      "user_rating": 7.037,
       "release_date": "2006-08-25",
       "us_rating": "PG"
+    },
+    {
+      "id": 1211472,
+      "title": "September 5",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "thriller"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.026,
+      "release_date": "2024-11-07",
+      "us_rating": "R"
+    },
+    {
+      "id": 832964,
+      "title": "Lee",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zdNWyuim8gpJHe1LtKaDrs43dWz.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "war"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 7.026,
+      "release_date": "2024-09-12",
+      "us_rating": "R"
     },
     {
       "id": 696157,
@@ -2991,6 +3395,26 @@
       "us_rating": "PG"
     },
     {
+      "id": 1236470,
+      "title": "The Lost Bus",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4IPxzGlE17fJAwUTMul4opMeutA.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "thriller",
+        "drama",
+        "history",
+        "thriller"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 7.017,
+      "release_date": "2025-09-19",
+      "us_rating": "R"
+    },
+    {
       "id": 467244,
       "title": "The Zone of Interest",
       "type": "movie",
@@ -3009,84 +3433,21 @@
       "us_rating": "PG-13"
     },
     {
-      "id": 1236470,
-      "title": "The Lost Bus",
+      "id": 446354,
+      "title": "The Post",
       "type": "movie",
-      "year": 2025,
-      "poster_url": "https://image.tmdb.org/t/p/w342/4IPxzGlE17fJAwUTMul4opMeutA.jpg",
+      "year": 2017,
+      "poster_url": "https://image.tmdb.org/t/p/w342/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg",
       "genre": "drama",
       "genres": [
         "drama",
-        "thriller",
-        "drama",
-        "history",
-        "thriller"
-      ],
-      "service_id": 350,
-      "service_name": "Apple TV+",
-      "user_rating": 7.015,
-      "release_date": "2025-09-19",
-      "us_rating": "R"
-    },
-    {
-      "id": 36950,
-      "title": "You Don't Know Jack",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xl4x8aILt9v91TUOKXHIVDZwkXy.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "tv movie",
-        "drama",
-        "history",
-        "tv movie"
+        "history"
       ],
       "service_id": 1899,
       "service_name": "Max",
-      "user_rating": 7.011,
-      "release_date": "2010-06-27",
+      "user_rating": 7.006,
+      "release_date": "2017-12-22",
       "us_rating": "PG-13"
-    },
-    {
-      "id": 36950,
-      "title": "You Don't Know Jack",
-      "type": "movie",
-      "year": 2010,
-      "poster_url": "https://image.tmdb.org/t/p/w342/xl4x8aILt9v91TUOKXHIVDZwkXy.jpg",
-      "genre": "drama",
-      "genres": [
-        "drama",
-        "history",
-        "tv movie",
-        "drama",
-        "history",
-        "tv movie"
-      ],
-      "service_id": 1899,
-      "service_name": "Max",
-      "user_rating": 7.011,
-      "release_date": "2010-06-27",
-      "us_rating": "PG-13"
-    },
-    {
-      "id": 42661,
-      "title": "The Vikings",
-      "type": "movie",
-      "year": 1958,
-      "poster_url": "https://image.tmdb.org/t/p/w342/fagWQmo7VZkjtMchqCu9jR7d6fK.jpg",
-      "genre": "adventure",
-      "genres": [
-        "adventure",
-        "history",
-        "action"
-      ],
-      "service_id": 9,
-      "service_name": "Prime Video",
-      "user_rating": 7.008,
-      "release_date": "1958-06-11",
-      "us_rating": "NR"
     },
     {
       "id": 26428,
@@ -3102,7 +3463,7 @@
       ],
       "service_id": 8,
       "service_name": "Netflix",
-      "user_rating": 7.003,
+      "user_rating": 7.005,
       "release_date": "2009-05-17",
       "us_rating": "PG-13"
     },
@@ -3123,6 +3484,450 @@
       "user_rating": 7.0,
       "release_date": "2023-01-26",
       "us_rating": "PG"
+    },
+    {
+      "id": 36950,
+      "title": "You Don't Know Jack",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xl4x8aILt9v91TUOKXHIVDZwkXy.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "tv movie",
+        "drama",
+        "history",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.0,
+      "release_date": "2010-06-27",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 36950,
+      "title": "You Don't Know Jack",
+      "type": "movie",
+      "year": 2010,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xl4x8aILt9v91TUOKXHIVDZwkXy.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "tv movie",
+        "drama",
+        "history",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 7.0,
+      "release_date": "2010-06-27",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 42661,
+      "title": "The Vikings",
+      "type": "movie",
+      "year": 1958,
+      "poster_url": "https://image.tmdb.org/t/p/w342/fagWQmo7VZkjtMchqCu9jR7d6fK.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "history",
+        "action"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 7.0,
+      "release_date": "1958-06-11",
+      "us_rating": "NR"
+    },
+    {
+      "id": 532865,
+      "title": "The Dig",
+      "type": "movie",
+      "year": 2021,
+      "poster_url": "https://image.tmdb.org/t/p/w342/dFDNb9Gk1kyLRcconpj7Mc7C7IL.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.856,
+      "release_date": "2021-01-14",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 836009,
+      "title": "Against the Ice",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg",
+      "genre": "adventure",
+      "genres": [
+        "adventure",
+        "drama",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 6.78,
+      "release_date": "2022-02-10",
+      "us_rating": "R"
+    },
+    {
+      "id": 347123,
+      "title": "All the Way",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/j4AEurmnYoRsA1nHhRK9AE4j2CL.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "tv movie"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.678,
+      "release_date": "2016-05-23",
+      "us_rating": null
+    },
+    {
+      "id": 998846,
+      "title": "Back to Black",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "music"
+      ],
+      "service_id": 386,
+      "service_name": "Peacock",
+      "user_rating": 6.667,
+      "release_date": "2024-04-11",
+      "us_rating": "R"
+    },
+    {
+      "id": 347026,
+      "title": "A United Kingdom",
+      "type": "movie",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/xyhoW9qK7ZaDM1V4A6pPL9DWjn8.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "service_id": 1899,
+      "service_name": "Max",
+      "user_rating": 6.66,
+      "release_date": "2016-11-25",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 1028196,
+      "title": "Nickel Boys",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.626,
+      "release_date": "2024-12-13",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 753342,
+      "title": "Napoleon",
+      "type": "movie",
+      "year": 2023,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "genre": "history",
+      "genres": [
+        "history",
+        "war",
+        "drama"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 6.316,
+      "release_date": "2023-11-22",
+      "us_rating": "R"
+    },
+    {
+      "id": 1195631,
+      "title": "William Tell",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/8SdaetXSTPyQVDb5pTEPRLBSx15.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "adventure",
+        "drama",
+        "history"
+      ],
+      "service_id": 15,
+      "service_name": "Hulu",
+      "user_rating": 6.248,
+      "release_date": "2025-01-17",
+      "us_rating": "R"
+    },
+    {
+      "id": 943822,
+      "title": "Prizefighter: The Life of Jem Belcher",
+      "type": "movie",
+      "year": 2022,
+      "poster_url": "https://image.tmdb.org/t/p/w342/x3PIk93PTbxT88ohfeb26L1VpZw.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "service_id": 9,
+      "service_name": "Prime Video",
+      "user_rating": 6.219,
+      "release_date": "2022-06-30",
+      "us_rating": null
+    },
+    {
+      "id": 896151,
+      "title": "Blitz",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/e9tyjbF2rugENtBolTtEhHOXgzD.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "war"
+      ],
+      "service_id": 350,
+      "service_name": "Apple TV+",
+      "user_rating": 5.996,
+      "release_date": "2024-11-01",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 844185,
+      "title": "Unfrosted",
+      "type": "movie",
+      "year": 2024,
+      "poster_url": "https://image.tmdb.org/t/p/w342/zxcpbkiyv81u1frI7b0f6qaYufE.jpg",
+      "genre": "comedy",
+      "genres": [
+        "comedy",
+        "history"
+      ],
+      "service_id": 8,
+      "service_name": "Netflix",
+      "user_rating": 5.313,
+      "release_date": "2024-04-30",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 1247165,
+      "title": "Raja Shivaji",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/uzmgZmxuMcbDnV11QfYRE8eEzSS.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "history",
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-05-01",
+      "us_rating": null
+    },
+    {
+      "id": 1427472,
+      "title": "Into the Blue",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": null,
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history",
+        "comedy"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-04-15",
+      "us_rating": null
+    },
+    {
+      "id": 1207162,
+      "title": "Tamerlane: Rise of the Last Conquerer",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/9uuauo7qDrpmcZb0jxxHPgGGfKt.jpg",
+      "genre": "action",
+      "genres": [
+        "action",
+        "drama",
+        "history"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-04-10",
+      "us_rating": "NR"
+    },
+    {
+      "id": 1466682,
+      "title": "Kaneko Fumiko",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/q8S8L3ZgfMxMtRDuunRTrkfp6R3.jpg",
+      "genre": "history",
+      "genres": [
+        "history",
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-02-28",
+      "us_rating": null
+    },
+    {
+      "id": 1512841,
+      "title": "Him",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/lbjiVNI9ixGCUNczXZdOrAUPbm6.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-02-19",
+      "us_rating": null
+    },
+    {
+      "id": 1588316,
+      "title": "\u0160T\u00daR",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/n0lpZHDCDxxh24WJligww38ctu4.jpg",
+      "genre": "drama",
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-01-15",
+      "us_rating": null
+    },
+    {
+      "id": 960051,
+      "title": "Furcy, n\u00e9 libre",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/oAgoeBXZYrWriDxaEB0s0KRTjzs.jpg",
+      "genre": "history",
+      "genres": [
+        "history",
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-01-14",
+      "us_rating": null
+    },
+    {
+      "id": 1461751,
+      "title": "Black Men in Uniform",
+      "type": "movie",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/tZmufORYoqWfjYDxblpBSiHlQEk.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2026-01-01",
+      "us_rating": "PG-13"
+    },
+    {
+      "id": 650524,
+      "title": "Back to the Past",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/h3OUaPfCaFmzwB2eMHik50RsXlP.jpg",
+      "genre": "fantasy",
+      "genres": [
+        "fantasy",
+        "history"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2025-12-31",
+      "us_rating": null
+    },
+    {
+      "id": 918957,
+      "title": "Lawho Gouranger Naam Re",
+      "type": "movie",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/g8CHcwfl1ZjPdujGX5n9ALpQ0cm.jpg",
+      "genre": "history",
+      "genres": [
+        "history",
+        "drama"
+      ],
+      "service_id": 0,
+      "service_name": "Coming Soon",
+      "user_rating": 0.0,
+      "release_date": "2025-12-25",
+      "us_rating": null
+    },
+    {
+      "id": 1103859,
+      "title": "Seabiscuit",
+      "type": "movie",
+      "year": 2003,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mSPbTGa0vXwlHU4MU9ceJ1Aod17.jpg",
+      "genre": "documentary",
+      "genres": [
+        "documentary",
+        "history"
+      ],
+      "service_id": 531,
+      "service_name": "Paramount+",
+      "user_rating": 0.0,
+      "release_date": "2003-04-21",
+      "us_rating": null
     }
   ]
 }

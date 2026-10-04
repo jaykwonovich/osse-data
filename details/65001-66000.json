@@ -1,6 +1,6 @@
 {
   "range": "65001-66000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149461983,
   "shows": [
     {
       "id": 65150,
@@ -13,7 +13,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.186,
+      "user_rating": 7.217,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2016-07-17",
@@ -47,7 +47,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 7.445,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": "G",
       "release_date": "2011-04-15",
@@ -110,7 +110,7 @@
         "comedy",
         "family"
       ],
-      "user_rating": 7.684,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": "TV-G",
       "release_date": "2016-02-14",
@@ -142,7 +142,7 @@
         "family",
         "mystery"
       ],
-      "user_rating": 7.399,
+      "user_rating": 7.424,
       "critic_score": null,
       "us_rating": "TV-PG",
       "release_date": "2017-01-13",
@@ -231,7 +231,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 8.183,
+      "user_rating": 8.179,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2016-11-04",
@@ -261,7 +261,7 @@
         "comedy",
         "drama"
       ],
-      "user_rating": 8.015,
+      "user_rating": 8.036,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2016-09-06",
@@ -291,7 +291,7 @@
         "drama",
         "mystery"
       ],
-      "user_rating": 7.883,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2017-01-07",
@@ -332,6 +332,12 @@
           "service_name": "Netflix",
           "type": "sub",
           "region": "US"
+        },
+        {
+          "service_id": 350,
+          "service_name": "Apple TV+",
+          "type": "sub",
+          "region": "US"
         }
       ],
       "tmdb_id": 65754
@@ -347,7 +353,7 @@
       "genres": [
         "comedy"
       ],
-      "user_rating": 7.894,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2016-02-07",
@@ -377,7 +383,7 @@
         "crime",
         "drama"
       ],
-      "user_rating": 7.6,
+      "user_rating": 7.567,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2017-09-10",
@@ -408,7 +414,7 @@
         "mystery",
         "sci-fi & fantasy"
       ],
-      "user_rating": 7.0,
+      "user_rating": 7.044,
       "critic_score": null,
       "us_rating": "TV-14",
       "release_date": "2016-09-23",
@@ -457,6 +463,38 @@
       "networks": [
         "TV Tokyo",
         "AT-X"
+      ]
+    },
+    {
+      "id": 65988,
+      "title": "Wynonna Earp",
+      "type": "tv_series",
+      "year": 2016,
+      "poster_url": "https://image.tmdb.org/t/p/w342/qnIaDelA81dmFaXrhpz6M6dpGSD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qVu5MC7DiDOrlcKNZsb9rEJJ1UI.jpg",
+      "plot_overview": "Wyatt Earp's great granddaughter Wynonna battles demons and other creatures with her unique abilities and a posse of dysfunctional allies - the only thing that can bring the paranormal to justice.",
+      "genres": [
+        "action & adventure",
+        "sci-fi & fantasy",
+        "western"
+      ],
+      "user_rating": 7.843,
+      "critic_score": null,
+      "us_rating": "TV-14",
+      "release_date": "2016-04-01",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 65988,
+      "networks": [
+        "Syfy",
+        "Space",
+        "CTV Sci-Fi Channel"
       ]
     }
   ]

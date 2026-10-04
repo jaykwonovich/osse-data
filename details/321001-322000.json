@@ -1,6 +1,6 @@
 {
   "range": "321001-322000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462049,
   "shows": [
     {
       "id": 321048,
@@ -26,11 +26,42 @@
       "production_companies": [],
       "networks": [],
       "tmdb_id": 321048,
+      "relevance_score": 75
+    },
+    {
+      "id": 321207,
+      "title": "Clara and the Below",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/pLttPLFxKKC4cUuOheOWgiX0Q2w.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/j61YmW4JY2EtZXMTb5yVPWKedTp.jpg",
+      "plot_overview": "To save her bedridden ex-military father, Clara must fight the spirits of the soldiers he killed on the battlefield in a surreal world known simply as the Below. She is aided by a mischievous toy nutcracker, her only guide in a place where the ghosts of the past run rampant.",
+      "genres": [
+        "animation",
+        "sci-fi & fantasy"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-12-25",
+      "streaming_services": [
+        {
+          "service_id": 0,
+          "service_name": "TBD",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "production_companies": [
+        "Fantasy Project"
+      ],
+      "networks": [],
+      "tmdb_id": 321207,
+      "relevance_score": 75,
       "is_returning": true,
       "next_season": 1,
-      "next_air_date": "2026-08-21",
-      "next_episode": 1,
-      "relevance_score": 75
+      "next_air_date": "2026-12-25",
+      "next_episode": 1
     },
     {
       "id": 321221,
@@ -45,7 +76,7 @@
       ],
       "user_rating": 0.0,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "TV-14",
       "release_date": "2026-10-26",
       "streaming_services": [
         {
@@ -61,7 +92,12 @@
       "networks": [
         "Netflix"
       ],
-      "tmdb_id": 321221
+      "tmdb_id": 321221,
+      "relevance_score": 75,
+      "is_returning": true,
+      "next_season": 1,
+      "next_air_date": "2026-10-26",
+      "next_episode": 1
     },
     {
       "id": 321267,
@@ -135,10 +171,10 @@
       "type": "tv_series",
       "year": 2026,
       "poster_url": "https://image.tmdb.org/t/p/w342/fCP8r4xO5QBeAEaJLM6HeIT5gip.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gtwHGosCRT3iHfM63tunvdglWQA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4yOhHZV1bbD3r5csuaQzQHX9o4B.jpg",
       "plot_overview": "Battling the elements across two grueling cooking rounds each week, competitors must build a working kitchen from basic supplies, earn their signature Chopped ingredient baskets through intense physical challenges, and cook entirely over open fire.",
       "genres": [],
-      "user_rating": 0.0,
+      "user_rating": 9.5,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-05-12",
@@ -151,10 +187,6 @@
         }
       ],
       "tmdb_id": 321392,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-06-02",
-      "next_episode": 4,
       "relevance_score": 75,
       "networks": [
         "Food Network"
@@ -200,7 +232,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.75,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-06-17",
@@ -222,10 +254,6 @@
         "Viu"
       ],
       "tmdb_id": 321623,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-06-17",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "drama"
     },
@@ -287,6 +315,32 @@
       "tmdb_id": 321741
     },
     {
+      "id": 321768,
+      "title": "Jupiter Jones",
+      "type": "tv_series",
+      "year": 2026,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mLAd01BLHmbe4hlgi7P6eV55Dwm.jpg",
+      "backdrop_url": null,
+      "plot_overview": "A spin-off of ALLBLK's popular original series A House Divided, following fan-favorite Jupiter Jones - a sharp-witted lawyer tackling high-profile scandals and conspiracies while battling a haunted past. A thrilling mix of legal drama, betrayal, and redemption.",
+      "genres": [
+        "drama"
+      ],
+      "user_rating": 0.0,
+      "critic_score": null,
+      "us_rating": null,
+      "release_date": "2026-05-07",
+      "streaming_services": [
+        {
+          "service_id": 9,
+          "service_name": "Prime Video",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 321768,
+      "networks": []
+    },
+    {
       "id": 321917,
       "title": "Tavern Tales: The Relic",
       "type": "tv_series",
@@ -312,10 +366,6 @@
         "YouTube"
       ],
       "tmdb_id": 321917,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-06-06",
-      "next_episode": 1,
       "relevance_score": 75
     },
     {
@@ -348,10 +398,6 @@
         "FOX"
       ],
       "tmdb_id": 321953,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-07-15",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "reality"
     },
@@ -386,10 +432,6 @@
         "Freeform"
       ],
       "tmdb_id": 321954,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-07-29",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "reality"
     },
@@ -398,14 +440,14 @@
       "title": "Line of Fire",
       "type": "tv_series",
       "year": 2026,
-      "poster_url": "https://image.tmdb.org/t/p/w342/sodRW36uEDHjv8l1WhYUNDvnIK6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cXG4WDOPNog1kt6pkDqEDQCkJyz.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8U4dW5E24Eqs06OJko5ChjcufHb.jpg",
       "plot_overview": "A family of law enforcement agents bridges personal differences and crosses professional boundaries as they tackle cases for the FBI, US Marshals, Secret Service and Department of Justice. After a seemingly cut-and-dry case turns into a deadly conspiracy, they must use the expertise from a lifetime of protecting civilians and politicians to protect one another and bring the killer to justice \u2026 even if it means betraying their sworn code.",
       "genres": [
         "drama",
         "crime"
       ],
-      "user_rating": 9.0,
+      "user_rating": 8.4,
       "critic_score": null,
       "us_rating": null,
       "release_date": "2026-09-21",
@@ -420,8 +462,8 @@
       "tmdb_id": 321958,
       "is_returning": true,
       "next_season": 1,
-      "next_air_date": "2026-09-28",
-      "next_episode": 2,
+      "next_air_date": "2026-10-05",
+      "next_episode": 3,
       "relevance_score": 75,
       "networks": [
         "NBC"
@@ -484,10 +526,6 @@
         "YouTube"
       ],
       "tmdb_id": 321961,
-      "is_returning": true,
-      "next_season": 1,
-      "next_air_date": "2026-06-19",
-      "next_episode": 1,
       "relevance_score": 75,
       "genre": "reality"
     }

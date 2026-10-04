@@ -1,6 +1,6 @@
 {
   "range": "240001-241000",
-  "updated_at": 1790387681057,
+  "updated_at": 1791149462030,
   "shows": [
     {
       "id": 240667,
@@ -13,7 +13,7 @@
       "genres": [
         "drama"
       ],
-      "user_rating": 7.683,
+      "user_rating": 7.675,
       "critic_score": null,
       "us_rating": "TV-MA",
       "release_date": "2024-02-08",
@@ -60,6 +60,35 @@
       "genre": "crime",
       "networks": [
         "Prime Video"
+      ]
+    },
+    {
+      "id": 240993,
+      "title": "Ransom Canyon",
+      "type": "tv_series",
+      "year": 2025,
+      "poster_url": "https://image.tmdb.org/t/p/w342/1efzyMfIe3WauOCWk7Gn56gj7sL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/29P64FqDp0UVa9oJsIl49PHn5tH.jpg",
+      "plot_overview": "Passions run deep in a small Texas town, as three ranching dynasties fight for their land, their legacies and the people they love.",
+      "genres": [
+        "drama",
+        "western"
+      ],
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": "TV-MA",
+      "release_date": "2025-04-17",
+      "streaming_services": [
+        {
+          "service_id": 8,
+          "service_name": "Netflix",
+          "type": "sub",
+          "region": "US"
+        }
+      ],
+      "tmdb_id": 240993,
+      "networks": [
+        "Netflix"
       ]
     }
   ]
